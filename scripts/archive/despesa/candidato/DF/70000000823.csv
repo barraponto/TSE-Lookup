@@ -1,2 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO FERREIRA ALVES;248.690.661-49;17/08/2010;43061789201;R$ 300,00;Depósito em espécie;ANTONIO FERREIRA ALVES;43007;Deputado Distrital;PV;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+COLORS FABRICAÇÃO DE PLACAS LTDA;10.329.658/0001-03;20/09/2010;       Publicidade por placas, estandartes e faixas;R$ 80,00;Cheque; -  -  / 43007 - ANTONIO FERREIRA ALVES - DF - Deputado Distrital;
+COLORS FABRICAÇÃO DE PLACAS LTDA;10.329.658/0001-03;23/08/2010;       Publicidade por placas, estandartes e faixas;R$ 130,00;Cheque; -  -  / 43007 - ANTONIO FERREIRA ALVES - DF - Deputado Distrital;
+COLORS FABRICAÇÃO DE PLACAS LTDA;10.329.658/0001-03;31/08/2010;       Publicidade por placas, estandartes e faixas;R$ 90,00;Cheque; -  -  / 43007 - ANTONIO FERREIRA ALVES - DF - Deputado Distrital;

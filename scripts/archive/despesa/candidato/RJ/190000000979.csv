@@ -1,6 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANDRESSA OLIVEIRA MAIA;126.958.397-23;29/09/2010;12000063104;R$ 340,00;Transferência eletrônica;SANDRO DA SILVA TERROZO;12336;Deputado Estadual;PDT;RJ;
-LUIZ;328.686.187-15;23/09/2010;12000063105;R$ 50,00;Depósito em espécie;SANDRO DA SILVA TERROZO;12336;Deputado Estadual;PDT;RJ;
-MARIA CRISTINA DA SILVA TERROZO;053.738.057-42;05/10/2010;12000063103;R$ 850,00;Depósito em espécie;SANDRO DA SILVA TERROZO;12336;Deputado Estadual;PDT;RJ;
-SANDRO DA SILVA TERROZO;068.510.597-03;23/08/2010;12000063101;R$ 155,00;Depósito em espécie;SANDRO DA SILVA TERROZO;12336;Deputado Estadual;PDT;RJ;
-SANDRO DA SILVA TERROZO;068.510.597-03;30/08/2010;12000063102;R$ 346,00;Depósito em espécie;SANDRO DA SILVA TERROZO;12336;Deputado Estadual;PDT;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+A. SILVEIRA LETREIROS E TOLDOS-ME;03.417.266/0001-22;24/08/2010;       Publicidade por materiais impressos;R$ 140,00;Cheque; -  -  / 12336 - SANDRO DA SILVA TERROZO - RJ - Deputado Estadual;
+ANDRESSA OLIVEIRA MAIA;126.958.397-23;01/10/2010;       Despesas com pessoal;R$ 198,30;Cheque; -  -  / 12336 - SANDRO DA SILVA TERROZO - RJ - Deputado Estadual;
+ARMANDO JOSÉ DA ROCHA MACEDO;430.804.647-53;27/09/2010;       Cessão ou Locação de Veículos;R$ 250,00;Cheque; -  -  / 12336 - SANDRO DA SILVA TERROZO - RJ - Deputado Estadual;
+BATERAMA BATERIAS ARARUAMA LTDA;28.702.512/0001-19;30/08/2010;       Despesas com transporte ou deslocamento;R$ 692,00;Cheque; -  -  / 12336 - SANDRO DA SILVA TERROZO - RJ - Deputado Estadual;
+MARCELO NOGUEIRA GOMES;125.768.877-40;23/08/2010;       Serviços prestados por terceiros;R$ 25,00;Cheque; -  -  / 12336 - SANDRO DA SILVA TERROZO - RJ - Deputado Estadual;
+MERALDO HULPAN PEREIRA;547.648.397-20;03/10/2010;       Locação/cessão de bens imóveis;R$ 400,00;Cheque; -  -  / 12336 - SANDRO DA SILVA TERROZO - RJ - Deputado Estadual;
+;;25/08/2010;       Encargos financeiros e taxas bancárias;R$ 17,85;Débito em conta; -  -  / 12336 - SANDRO DA SILVA TERROZO - RJ - Deputado Estadual;
+;;05/10/2010;       Encargos financeiros e taxas bancárias;R$ 17,85;Débito em conta; -  -  / 12336 - SANDRO DA SILVA TERROZO - RJ - Deputado Estadual;

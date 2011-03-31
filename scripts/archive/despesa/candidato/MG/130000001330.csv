@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.154.851/0001-78;31/07/2010;70000188002;R$ 590,00;Estimado;SANDRA DA SILVA GOMES;70800;Deputado Estadual;PT do B;MG;
-Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;70000188004;R$ 300,00;Estimado;SANDRA DA SILVA GOMES;70800;Deputado Estadual;PT do B;MG;
-Comitê Financeiro Único;12.154.851/0001-78;23/08/2010;70000188003;R$ 180,00;Estimado;SANDRA DA SILVA GOMES;70800;Deputado Estadual;PT do B;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.154.851/0001-78;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 180,00;Estimado;Comitê Financeiro Único - PT do B -  / 70800 - SANDRA DA SILVA GOMES - MG - Deputado Estadual;
+Comitê Financeiro Único;12.154.851/0001-78;31/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 590,00;Estimado;Comitê Financeiro Único - PT do B -  / 70800 - SANDRA DA SILVA GOMES - MG - Deputado Estadual;
+Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PT do B -  / 70800 - SANDRA DA SILVA GOMES - MG - Deputado Estadual;

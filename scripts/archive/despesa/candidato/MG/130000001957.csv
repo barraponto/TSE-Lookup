@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Nacional;01.585.552/0001-71;04/08/2010;21000011822;R$ 400,00;Cheque;FÁBIO APARECIDO MARTINS BEZERRA;21;Governador;PCB;MG;
-FÁBIO APARECIDO MARTINS BEZERRA;912.762.336-04;04/10/2010;21000011824;R$ 90,00;Depósito em espécie;FÁBIO APARECIDO MARTINS BEZERRA;21;Governador;PCB;MG;
-FÁBIO APARECIDO MARTINS BEZERRA;912.762.336-04;28/07/2010;21000011821;R$ 400,00;Depósito em espécie;FÁBIO APARECIDO MARTINS BEZERRA;21;Governador;PCB;MG;
-FÁBIO APARECIDO MARTINS BEZERRA;912.762.336-04;06/09/2010;21000011823;R$ 700,00;Depósito em espécie;FÁBIO APARECIDO MARTINS BEZERRA;21;Governador;PCB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA E EDITORA LINCE LTDA;19.383.363/0001-81;29/09/2010;       Publicidade por materiais impressos;R$ 90,00;Cheque; -  -  / 21 - FÁBIO APARECIDO MARTINS BEZERRA - MG - Governador;
+RAELLI ARTES GRÁFICAS LTDA;01.251.802/0001-37;27/07/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 21 - FÁBIO APARECIDO MARTINS BEZERRA - MG - Governador;
+RAELLI ARTES GRÁFICAS LTDA;01.251.802/0001-37;03/08/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 21 - FÁBIO APARECIDO MARTINS BEZERRA - MG - Governador;
+RAELLI ARTES GRÁFICAS LTDA;01.251.802/0001-37;10/09/2010;       Publicidade por materiais impressos;R$ 700,00;Cheque; -  -  / 21 - FÁBIO APARECIDO MARTINS BEZERRA - MG - Governador;

@@ -1,3 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-VALDEC DUARTE SILVA;156.038.905-25;23/08/2010;23000064002;R$ 1.500,00;Depósito em espécie;VALDEC DUARTE SILVA;23958;Deputado Estadual;PPS;BA;
-VALDEC DUARTE SILVA;156.038.905-25;02/08/2010;23000064001;R$ 7.000,00;Depósito em espécie;VALDEC DUARTE SILVA;23958;Deputado Estadual;PPS;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ATUALIZE COMUNICAÇÃO VISUAL E SEGURANÇA ELETRÔNICA LTDA - ME;09.223.992/0001-90;13/08/2010;       Publicidade por materiais impressos;R$ 1.190,00;Cheque; -  -  / 23958 - VALDEC DUARTE SILVA - BA - Deputado Estadual;
+ATUALIZE COMUNICAÇÃO VISUAL E SEGURANÇA ELETRÔNICA LTDA - ME;09.223.992/0001-90;03/08/2010;       Publicidade por materiais impressos;R$ 4.985,00;Cheque; -  -  / 23958 - VALDEC DUARTE SILVA - BA - Deputado Estadual;
+PN GRÁFICA E SERVIÇOS LTDA;00.627.427/0001-14;24/09/2010;       Publicidade por materiais impressos;R$ 325,00;Cheque; -  -  / 23958 - VALDEC DUARTE SILVA - BA - Deputado Estadual;
+PN GRÁFICA E SERVIÇOS LTDA;00.627.427/0001-14;04/08/2010;       Publicidade por materiais impressos;R$ 2.000,00;Cheque; -  -  / 23958 - VALDEC DUARTE SILVA - BA - Deputado Estadual;

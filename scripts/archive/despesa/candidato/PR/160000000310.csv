@@ -1,6 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-REINALDO VIRMOND LIMA NETO;055.343.329-64;17/08/2010;43001776203;R$ 127,40;Transferência eletrônica;REINALDO VIRMOND LIMA NETO;43799;Deputado Estadual;PV;PR;
-REINALDO VIRMOND LIMA NETO;055.343.329-64;12/07/2010;43001776201;R$ 489,50;Transferência eletrônica;REINALDO VIRMOND LIMA NETO;43799;Deputado Estadual;PV;PR;
-REINALDO VIRMOND LIMA NETO;055.343.329-64;20/09/2010;43001776205;R$ 957,60;Transferência eletrônica;REINALDO VIRMOND LIMA NETO;43799;Deputado Estadual;PV;PR;
-REINALDO VIRMOND LIMA NETO;055.343.329-64;24/08/2010;43001776204;R$ 957,60;Transferência eletrônica;REINALDO VIRMOND LIMA NETO;43799;Deputado Estadual;PV;PR;
-SANDRA PENTEADO VIRMOND LIMA;403.412.919-00;21/07/2010;43001776202;R$ 660,00;Depósito em espécie;REINALDO VIRMOND LIMA NETO;43799;Deputado Estadual;PV;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ATUAL CARD;05.692.814/0001-58;12/07/2010;       Publicidade por materiais impressos;R$ 489,50;Transferência eletrônica; -  -  / 43799 - REINALDO VIRMOND LIMA NETO - PR - Deputado Estadual;
+ATUAL CARD;05.692.814/0001-58;21/07/2010;       Publicidade por materiais impressos;R$ 554,40;Transferência eletrônica; -  -  / 43799 - REINALDO VIRMOND LIMA NETO - PR - Deputado Estadual;
+ATUAL CARD;05.692.814/0001-58;24/08/2010;       Publicidade por materiais impressos;R$ 957,60;Transferência eletrônica; -  -  / 43799 - REINALDO VIRMOND LIMA NETO - PR - Deputado Estadual;
+ATUAL CARD;05.692.814/0001-58;20/09/2010;       Publicidade por materiais impressos;R$ 957,60;Transferência eletrônica; -  -  / 43799 - REINALDO VIRMOND LIMA NETO - PR - Deputado Estadual;
+ATUAL CARD;05.692.814/0001-58;17/08/2010;       Publicidade por materiais impressos;R$ 208,00;Transferência eletrônica; -  -  / 43799 - REINALDO VIRMOND LIMA NETO - PR - Deputado Estadual;
+CLASSE LASER GRAVACOES A LASER E CARIMBOS LTDA;84.961.101/0001-19;27/07/2010;       Bens permanentes;R$ 25,00;Cheque; -  -  / 43799 - REINALDO VIRMOND LIMA NETO - PR - Deputado Estadual;

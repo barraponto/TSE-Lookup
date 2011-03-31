@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.570/0001-95;01/08/2010;14000133752;R$ 192,00;Estimado;GERSON ALVES SANTOS;14566;Deputado Estadual;PTB;BA;
-Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;14000133754;R$ 3.816,00;Estimado;GERSON ALVES SANTOS;14566;Deputado Estadual;PTB;BA;
-GEDDEL QUADROS VIEIRA LIMA;12.173.503/0001-48;30/08/2010;14000133753;R$ 204,00;Estimado;GERSON ALVES SANTOS;14566;Deputado Estadual;PTB;BA;
-GERSON ALVES SANTOS;939.779.648-87;23/07/2010;14000133751;R$ 500,00;Depósito em espécie;GERSON ALVES SANTOS;14566;Deputado Estadual;PTB;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.816,00;Estimado;Comitê Financeiro Único - PMDB -  / 14566 - GERSON ALVES SANTOS - BA - Deputado Estadual;
+Comitê Financeiro Único;12.191.570/0001-95;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 192,00;Estimado;Comitê Financeiro Único - PMDB -  / 14566 - GERSON ALVES SANTOS - BA - Deputado Estadual;
+GEDDEL QUADROS VIEIRA LIMA;12.173.503/0001-48;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 204,00;Estimado;15 -  - PMDB -  - Governador / 14566 - GERSON ALVES SANTOS - BA - Deputado Estadual;
+NA MORAL CAMISETAS LTDA;10.268.848/0001-50;30/07/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 14566 - GERSON ALVES SANTOS - BA - Deputado Estadual;

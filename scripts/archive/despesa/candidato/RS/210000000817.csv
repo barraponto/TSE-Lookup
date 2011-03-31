@@ -1,3 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSE ARY BRENOL ANDRADE;009.492.800-20;31/08/2010;12001076237;R$ 1.400,00;Depósito em espécie;JOSE ARY BRENOL ANDRADE;1222;Deputado Federal;PDT;RS;
-JOSE ARY BRENOL ANDRADE;009.492.800-20;15/07/2010;12001076236;R$ 2.000,00;Depósito em espécie;JOSE ARY BRENOL ANDRADE;1222;Deputado Federal;PDT;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AIRES ROBERTO TENDEIRO MACIEL;228.687.470-00;03/10/2010;       Despesas com pessoal;R$ 600,00;Cheque; -  -  / 1222 - JOSE ARY BRENOL ANDRADE - RS - Deputado Federal;
+AIRES ROBERTO TENDEIRO MACIEL;228.687.470-00;01/09/2010;       Despesas com pessoal;R$ 600,00;Cheque; -  -  / 1222 - JOSE ARY BRENOL ANDRADE - RS - Deputado Federal;
+GRAPH POINT - VALÉRIA DOS SANTOS LIMA;03.329.696/0001-92;23/07/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 1222 - JOSE ARY BRENOL ANDRADE - RS - Deputado Federal;
+MAGIC IMAGE SOLUÇÕES GRÁFICAS LTDA ME;04.406.816/0001-70;01/08/2010;       Publicidade por placas, estandartes e faixas;R$ 235,00;Cheque; -  -  / 1222 - JOSE ARY BRENOL ANDRADE - RS - Deputado Federal;
+MAGIC IMAGE SOLUÇÕES GRÁFICAS LTDA ME;04.406.816/0001-70;31/08/2010;       Publicidade por placas, estandartes e faixas;R$ 125,00;Cheque; -  -  / 1222 - JOSE ARY BRENOL ANDRADE - RS - Deputado Federal;
+NERI ORQUIZ JACINTO;295.634.450-15;01/09/2010;       Despesas com pessoal;R$ 600,00;Cheque; -  -  / 1222 - JOSE ARY BRENOL ANDRADE - RS - Deputado Federal;
+NERI ORQUIZ JACINTO;295.634.450-15;03/10/2010;       Despesas com pessoal;R$ 600,00;Cheque; -  -  / 1222 - JOSE ARY BRENOL ANDRADE - RS - Deputado Federal;

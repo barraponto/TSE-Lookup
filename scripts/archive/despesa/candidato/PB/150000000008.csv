@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO CARLOS DA COSTA;554.338.634-68;15/10/2010;21000011333;R$ 150,00;Depósito em espécie;ANTONIO CARLOS DA COSTA;21000;Deputado Estadual;PCB;PB;
-GARNDEL MORAIS DE ANDRADE;007.716.184-09;09/08/2010;21000011331;R$ 102,00;Depósito em espécie;ANTONIO CARLOS DA COSTA;21000;Deputado Estadual;PCB;PB;
-JOSÉ FERNANDO CSTA CARVALHO;12.206.243/0001-60;19/08/2010;21000011332;R$ 433,80;Estimado;ANTONIO CARLOS DA COSTA;21000;Deputado Estadual;PCB;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DIEGO COSTA SILVA (MULTIMÍDIA COM. VISUAL);09.368.621/0001-05;09/08/2010;       Publicidade por materiais impressos;R$ 100,00;Cheque; -  -  / 21000 - ANTONIO CARLOS DA COSTA - PB - Deputado Estadual;
+EMPRESA LATINA AMERICXANA DE TÉC. EM FOTOCOPIAS LTDA;09.359.286/0001-70;20/10/2010;       Publicidade por materiais impressos;R$ 150,00;Cheque; -  -  / 21000 - ANTONIO CARLOS DA COSTA - PB - Deputado Estadual;
+JOSÉ FERNANDO CSTA CARVALHO;12.206.243/0001-60;19/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 433,80;Estimado;1551 -  - PMDB -  - Deputado Federal / 21000 - ANTONIO CARLOS DA COSTA - PB - Deputado Estadual;

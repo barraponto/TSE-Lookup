@@ -1,6 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.217.601/0001-30;17/09/2010;13001260624;R$ 7.000,00;Cheque;MARCONI COSTA DA SILVA SCARINCI;13800;Deputado Distrital;PT;DF;
-MARCONI COSTA DA SILVA SCARINCI;289.827.031-87;10/08/2010;13001260621;R$ 500,00;Depósito em espécie;MARCONI COSTA DA SILVA SCARINCI;13800;Deputado Distrital;PT;DF;
-MARCONI COSTA DA SILVA SCARINCI;289.827.031-87;13/08/2010;13001260622;R$ 340,00;Depósito em espécie;MARCONI COSTA DA SILVA SCARINCI;13800;Deputado Distrital;PT;DF;
-MARCONI COSTA DA SILVA SCARINCI;289.827.031-87;03/09/2010;13001260623;R$ 950,00;Depósito em espécie;MARCONI COSTA DA SILVA SCARINCI;13800;Deputado Distrital;PT;DF;
-ROBERTO POLICARPO FAGUNDES;12.190.839/0001-19;30/09/2010;13001260625;R$ 649,00;Estimado;MARCONI COSTA DA SILVA SCARINCI;13800;Deputado Distrital;PT;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JESUS AMARAL WERNECK;153.796.471-20;02/10/2010;       Serviços prestados por terceiros;R$ 3.300,00;Cheque; -  -  / 13800 - MARCONI COSTA DA SILVA SCARINCI - DF - Deputado Distrital;
+ROBERTO POLICARPO FAGUNDES;12.190.839/0001-19;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 649,00;Estimado;1322 -  - PT -  - Deputado Federal / 13800 - MARCONI COSTA DA SILVA SCARINCI - DF - Deputado Distrital;
+SPEED GRAFICA E EDITORA;06.967.801/0001-07;06/08/2010;       Publicidade por materiais impressos;R$ 800,00;Cheque; -  -  / 13800 - MARCONI COSTA DA SILVA SCARINCI - DF - Deputado Distrital;
+TOM GRÁFICA EDITORA LTDA;08.807.499/0001-55;29/09/2010;       Publicidade por materiais impressos;R$ 1.400,00;Cheque; -  -  / 13800 - MARCONI COSTA DA SILVA SCARINCI - DF - Deputado Distrital;
+TOM GRÁFICA EDITORA LTDA;08.807.499/0001-55;24/09/2010;       Publicidade por materiais impressos;R$ 2.300,00;Cheque; -  -  / 13800 - MARCONI COSTA DA SILVA SCARINCI - DF - Deputado Distrital;
+TOM GRÁFICA EDITORA LTDA;08.807.499/0001-55;17/08/2010;       Publicidade por materiais impressos;R$ 950,00;Cheque; -  -  / 13800 - MARCONI COSTA DA SILVA SCARINCI - DF - Deputado Distrital;
+;;10/08/2010;       Encargos financeiros e taxas bancárias;R$ 19,00;Débito em conta; -  -  / 13800 - MARCONI COSTA DA SILVA SCARINCI - DF - Deputado Distrital;

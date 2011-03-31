@@ -1,3 +1,13 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-HILDEBRANDO FERREIRA DOS SANTOS;911.739.145-87;18/10/2010;13000610802;R$ 120,35;Depósito em espécie;HILDEBRANDO FERREIRA DOS SANTOS;13110;Deputado Estadual;PT;BA;
-HILDEBRANDO FERREIRA DOS SANTOS;911.739.145-87;29/09/2010;13000610801;R$ 10.000,00;Depósito em espécie;HILDEBRANDO FERREIRA DOS SANTOS;13110;Deputado Estadual;PT;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CRISTINA E SILVA CASTRO;050.525.236-88;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado; -  -  / 13110 - HILDEBRANDO FERREIRA DOS SANTOS - BA - Deputado Estadual;
+HILDEBRANDO FERREIRA DOS SANTOS;911.739.145-87;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado; -  -  / 13110 - HILDEBRANDO FERREIRA DOS SANTOS - BA - Deputado Estadual;
+ISABEL OLIVEIRA DE SOUZA;03.340.131/0001-06;09/08/2010;       Publicidade por materiais impressos;R$ 250,00;Cheque; -  -  / 13110 - HILDEBRANDO FERREIRA DOS SANTOS - BA - Deputado Estadual;
+JUAREZ DE JESUS DOURADO;16.487.241/0001-47;28/09/2010;       Publicidade por materiais impressos;R$ 1.001,00;Cheque; -  -  / 13110 - HILDEBRANDO FERREIRA DOS SANTOS - BA - Deputado Estadual;
+LOURIVAL DUARTE DE ABREU;04.967.379/0001-64;29/09/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 13110 - HILDEBRANDO FERREIRA DOS SANTOS - BA - Deputado Estadual;
+MARIA AMELIA P. ALVES FERREIRA;04.091.059/0001-93;28/09/2010;       Publicidade por placas, estandartes e faixas;R$ 950,00;Cheque; -  -  / 13110 - HILDEBRANDO FERREIRA DOS SANTOS - BA - Deputado Estadual;
+MISSAO REDENTORISTA DA BAHIA;14.103.410/0002-53;28/09/2010;       Publicidade por materiais impressos;R$ 3.300,00;Cheque; -  -  / 13110 - HILDEBRANDO FERREIRA DOS SANTOS - BA - Deputado Estadual;
+PROCOLOR SOUZA & CARDOSO LTDA;04.647.385/0001-34;28/09/2010;       Publicidade por materiais impressos;R$ 120,00;Cheque; -  -  / 13110 - HILDEBRANDO FERREIRA DOS SANTOS - BA - Deputado Estadual;
+REGINALDO ALVES DE SOUZA;711.105.855-00;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado; -  -  / 13110 - HILDEBRANDO FERREIRA DOS SANTOS - BA - Deputado Estadual;
+ROSEMAIRE SANTOS DE SOUZA;673.664.575-15;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado; -  -  / 13110 - HILDEBRANDO FERREIRA DOS SANTOS - BA - Deputado Estadual;
+SILVA SENTO-SE COMERCIAL DE COMBUSTIVEL LTDA;14.105.290/0001-42;30/09/2010;       Combustíveis e lubrificantes;R$ 4.099,00;Cheque; -  -  / 13110 - HILDEBRANDO FERREIRA DOS SANTOS - BA - Deputado Estadual;
+;;01/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 13110 - HILDEBRANDO FERREIRA DOS SANTOS - BA - Deputado Estadual;

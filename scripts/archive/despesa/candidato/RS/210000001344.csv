@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JAIR DANIEL DA SILVA;539.653.100-20;02/08/2010;43001821276;R$ 205,00;Depósito em espécie;JAIR DANIEL DA SILVA;43200;Deputado Estadual;PV;RS;
-JAIR DANIEL DA SILVA;539.653.100-20;01/09/2010;43001821277;R$ 700,00;Depósito em espécie;JAIR DANIEL DA SILVA;43200;Deputado Estadual;PV;RS;
-JAIR DANIEL DA SILVA;539.653.100-20;21/09/2010;43001821278;R$ 690,00;Depósito em espécie;JAIR DANIEL DA SILVA;43200;Deputado Estadual;PV;RS;
-SERGIO LUIZ DORING OLIVEIRA;410.219.400-20;23/07/2010;43001821279;R$ 0,50;Depósito em espécie;JAIR DANIEL DA SILVA;43200;Deputado Estadual;PV;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+COMERCIAL  LE MANS TRANSP. E SERVIÇO LTDA;04.357.437/0001-38;09/08/2010;       Combustíveis e lubrificantes;R$ 100,00;Cheque; -  -  / 43200 - JAIR DANIEL DA SILVA - RS - Deputado Estadual;
+COMERCIAL  LE MANS TRANSP. E SERVIÇO LTDA;04.357.437/0001-38;03/08/2010;       Combustíveis e lubrificantes;R$ 100,00;Cheque; -  -  / 43200 - JAIR DANIEL DA SILVA - RS - Deputado Estadual;
+METALARTE ARTHUR DA SILVA GRAVAÇÕES;06.007.569/0001-65;01/09/2010;       Publicidade por materiais impressos;R$ 1.380,00;Cheque; -  -  / 43200 - JAIR DANIEL DA SILVA - RS - Deputado Estadual;
+PARTIDO VERDE DIRETORIO REGIONAL DO RS;93.130.300/0001-76;19/10/2010;       Diversas a especificar;R$ 15,50;Cheque; -  -  / 43200 - JAIR DANIEL DA SILVA - RS - Deputado Estadual;

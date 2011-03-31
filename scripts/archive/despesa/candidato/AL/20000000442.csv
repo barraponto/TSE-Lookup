@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO EVERALDO DOS SANTOS ALVES;426.385.264-87;31/08/2010;65000169304;R$ 500,00;Depósito em espécie;ANTONIO DA SILVA;65333;Deputado Estadual;PC do B;AL;
-Comitê Financeiro Estadual/Distrital para Governador;12.191.521/0001-52;01/10/2010;65000169303;R$ 591,61;Estimado;ANTONIO DA SILVA;65333;Deputado Estadual;PC do B;AL;
-Comitê Financeiro Único;12.206.649/0001-42;30/09/2010;65000169305;R$ 300,00;Estimado;ANTONIO DA SILVA;65333;Deputado Estadual;PC do B;AL;
-ELEIÇÕES 2010 EDUARDO BOMFIM GOMES RIBEIRO;12.171.280/0001-80;30/09/2010;65000169302;R$ 624,65;Estimado;ANTONIO DA SILVA;65333;Deputado Estadual;PC do B;AL;
-ELEIÇÕES 2010 EDUARDO BOMFIM GOMES RIBEIRO;12.171.280/0001-80;03/09/2010;65000169301;R$ 650,00;Estimado;ANTONIO DA SILVA;65333;Deputado Estadual;PC do B;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Governador;12.191.521/0001-52;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 591,61;Estimado;Comitê Financeiro Distrital/Estadual para Governador - PDT -  / 65333 - ANTONIO DA SILVA - AL - Deputado Estadual;
+Comitê Financeiro Único;12.206.649/0001-42;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PC do B -  / 65333 - ANTONIO DA SILVA - AL - Deputado Estadual;
+ELEIÇÕES 2010 EDUARDO BOMFIM GOMES RIBEIRO;12.171.280/0001-80;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 650,00;Estimado;654 -  - PC do B -  - Senador / 65333 - ANTONIO DA SILVA - AL - Deputado Estadual;
+ELEIÇÕES 2010 EDUARDO BOMFIM GOMES RIBEIRO;12.171.280/0001-80;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 624,65;Estimado;654 -  - PC do B -  - Senador / 65333 - ANTONIO DA SILVA - AL - Deputado Estadual;
+JOEL MANOEL DE OLIVEIRA SOUZA;648.607.954-15;02/09/2010;       Publicidade por materiais impressos;R$ 450,00;Cheque; -  -  / 65333 - ANTONIO DA SILVA - AL - Deputado Estadual;

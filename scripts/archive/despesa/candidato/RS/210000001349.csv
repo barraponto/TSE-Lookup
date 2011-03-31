@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-GRUPO EDUCACIONAL UNIFICADO LTDA;89.409.825/0001-78;26/08/2010;43001828976;R$ 3.000,00;Cheque;LUIZ FILIPE VIEIRA CORRÊA DE OLIVEIRA;43010;Deputado Estadual;PV;RS;
-LUIZ FILIPE VIEIRA CORRÊA DE OLIVEIRA;160.540.320-20;29/09/2010;43001828977;R$ 400,00;Depósito em espécie;LUIZ FILIPE VIEIRA CORRÊA DE OLIVEIRA;43010;Deputado Estadual;PV;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+RBS ZERO HORA EDITORA JORNALÍSTICA S.A.;92.821.701/0001-00;27/09/2010;       Publicidade por jornais e revistas;R$ 1.960,32;Cheque; -  -  / 43010 - LUIZ FILIPE VIEIRA CORRÊA DE OLIVEIRA - RS - Deputado Estadual;
+RBS ZERO HORA EDITORA JORNALÍSTICA S.A.;92.821.701/0001-00;30/09/2010;       Publicidade por jornais e revistas;R$ 1.401,60;Cheque; -  -  / 43010 - LUIZ FILIPE VIEIRA CORRÊA DE OLIVEIRA - RS - Deputado Estadual;
+;;03/10/2010;       Encargos financeiros e taxas bancárias;R$ 22,50;Débito em conta; -  -  / 43010 - LUIZ FILIPE VIEIRA CORRÊA DE OLIVEIRA - RS - Deputado Estadual;

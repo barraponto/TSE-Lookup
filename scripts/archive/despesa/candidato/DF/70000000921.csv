@@ -1,4 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-BENEDITO AUGUSTO DOMINGOS;12.203.737/0001-90;16/08/2010;11000095122;R$ 360,00;Estimado;ANTONIO AIRTON MARTINS ARAUJO;11235;Deputado Distrital;PP;DF;
-BENEDITO AUGUSTO DOMINGOS;12.203.737/0001-90;10/08/2010;11000095121;R$ 360,00;Estimado;ANTONIO AIRTON MARTINS ARAUJO;11235;Deputado Distrital;PP;DF;
-Diretório Nacional;00.887.169/0001-05;09/09/2010;11000095123;R$ 5.000,00;Cheque;ANTONIO AIRTON MARTINS ARAUJO;11235;Deputado Distrital;PP;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BENEDITO AUGUSTO DOMINGOS;12.203.737/0001-90;16/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;11234 -  - PP -  - Deputado Distrital / 11235 - ANTONIO AIRTON MARTINS ARAUJO - DF - Deputado Distrital;
+BENEDITO AUGUSTO DOMINGOS;12.203.737/0001-90;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;11234 -  - PP -  - Deputado Distrital / 11235 - ANTONIO AIRTON MARTINS ARAUJO - DF - Deputado Distrital;
+FERNANDO C SOUSA;004.949.943-20;13/09/2010;       Despesas com pessoal;R$ 700,00;Cheque; -  -  / 11235 - ANTONIO AIRTON MARTINS ARAUJO - DF - Deputado Distrital;
+MARIA APARECIDADE P M ARAUJO;606.742.531-91;10/09/2010;       Despesas com pessoal;R$ 1.400,00;Transferência eletrônica; -  -  / 11235 - ANTONIO AIRTON MARTINS ARAUJO - DF - Deputado Distrital;
+SANDRA PAULINO NEVES - ME;03.272.913/0001-55;17/09/2010;       Publicidade por placas, estandartes e faixas;R$ 820,00;Cheque; -  -  / 11235 - ANTONIO AIRTON MARTINS ARAUJO - DF - Deputado Distrital;
+SANDRA PAULINO NEVES - ME;03.272.913/0001-55;14/09/2010;       Publicidade por placas, estandartes e faixas;R$ 2.040,00;Cheque; -  -  / 11235 - ANTONIO AIRTON MARTINS ARAUJO - DF - Deputado Distrital;
+;;25/10/2010;       Encargos financeiros e taxas bancárias;R$ 5,50;Débito em conta; -  -  / 11235 - ANTONIO AIRTON MARTINS ARAUJO - DF - Deputado Distrital;
+;;09/09/2010;       Encargos financeiros e taxas bancárias;R$ 27,53;Débito em conta; -  -  / 11235 - ANTONIO AIRTON MARTINS ARAUJO - DF - Deputado Distrital;

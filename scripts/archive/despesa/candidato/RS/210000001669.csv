@@ -1,4 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO ALTAIR PUSCHNERAT;472.664.490-49;30/07/2010;12001075501;R$ 500,00;Depósito em espécie;ANTONIO ALTAIR PUSCHNERAT;1260;Deputado Federal;PDT;RS;
-Comitê Financeiro Único;12.205.178/0001-58;03/08/2010;12001075502;R$ 5.000,00;Transferência eletrônica;ANTONIO ALTAIR PUSCHNERAT;1260;Deputado Federal;PDT;RS;
-PAULO E.G.AZEREDO;12.173.679/0001-08;16/09/2010;12001075503;R$ 380,00;Estimado;ANTONIO ALTAIR PUSCHNERAT;1260;Deputado Federal;PDT;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CLEITON LUIS KENNE DOS SANTOS;999.031.300-82;13/09/2010;       Produção de jingles, vinhetas e slogans;R$ 300,00;Cheque; -  -  / 1260 - ANTONIO ALTAIR PUSCHNERAT - RS - Deputado Federal;
+PAULO E.G.AZEREDO;12.173.679/0001-08;16/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 380,00;Estimado;12244 -  - PDT -  - Deputado Estadual / 1260 - ANTONIO ALTAIR PUSCHNERAT - RS - Deputado Federal;
+REIZNAUTT & REIZNAUTT LTDA;00.088.270/0001-04;30/07/2010;       Publicidade por placas, estandartes e faixas;R$ 500,00;Cheque; -  -  / 1260 - ANTONIO ALTAIR PUSCHNERAT - RS - Deputado Federal;
+REIZNAUTT & REIZNAUTT LTDA;00.088.270/0001-04;14/09/2010;       Publicidade por materiais impressos;R$ 1.347,00;Cheque; -  -  / 1260 - ANTONIO ALTAIR PUSCHNERAT - RS - Deputado Federal;
+REIZNAUTT & REIZNAUTT LTDA;00.088.270/0001-04;29/09/2010;       Publicidade por materiais impressos;R$ 786,00;Cheque; -  -  / 1260 - ANTONIO ALTAIR PUSCHNERAT - RS - Deputado Federal;
+REIZNAUTT & REIZNAUTT LTDA;00.088.270/0001-04;12/08/2010;       Publicidade por materiais impressos;R$ 1.083,00;Cheque; -  -  / 1260 - ANTONIO ALTAIR PUSCHNERAT - RS - Deputado Federal;
+REIZNAUTT & REIZNAUTT LTDA;00.088.270/0001-04;12/08/2010;       Publicidade por placas, estandartes e faixas;R$ 140,00;Cheque; -  -  / 1260 - ANTONIO ALTAIR PUSCHNERAT - RS - Deputado Federal;
+REIZNAUTT & REIZNAUTT LTDA;00.088.270/0001-04;01/09/2010;       Publicidade por materiais impressos;R$ 1.144,00;Cheque; -  -  / 1260 - ANTONIO ALTAIR PUSCHNERAT - RS - Deputado Federal;
+WORNY GUSTAVO FLORES;94.834.512/0001-05;09/08/2010;       Publicidade por jornais e revistas;R$ 200,00;Cheque; -  -  / 1260 - ANTONIO ALTAIR PUSCHNERAT - RS - Deputado Federal;

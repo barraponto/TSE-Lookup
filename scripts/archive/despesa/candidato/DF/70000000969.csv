@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-BENEDITO AUGUSTO DOMINGOS;12.203.737/0001-90;09/08/2010;11000095461;R$ 360,00;Estimado;MARLENE RUAS SUCUPIRA;11010;Deputado Distrital;PP;DF;
-BENEDITO AUGUSTO DOMINGOS;12.203.737/0001-90;16/08/2010;11000095462;R$ 360,00;Estimado;MARLENE RUAS SUCUPIRA;11010;Deputado Distrital;PP;DF;
-MARLENE RUAS SUCUPIRA;057.408.861-04;03/08/2010;11000095463;R$ 500,00;Depósito em espécie;MARLENE RUAS SUCUPIRA;11010;Deputado Distrital;PP;DF;
-MARLENE RUAS SUCUPIRA;057.408.861-04;17/09/2010;11000095464;R$ 500,00;Depósito em espécie;MARLENE RUAS SUCUPIRA;11010;Deputado Distrital;PP;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARTE SIQUEIRA COMUNICAÇÃO VISUAL LTDA EPP;10.667.379/0001-41;03/08/2010;       Publicidade por placas, estandartes e faixas;R$ 500,00;Transferência eletrônica; -  -  / 11010 - MARLENE RUAS SUCUPIRA - DF - Deputado Distrital;
+BENEDITO AUGUSTO DOMINGOS;12.203.737/0001-90;16/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;11234 -  - PP -  - Deputado Distrital / 11010 - MARLENE RUAS SUCUPIRA - DF - Deputado Distrital;
+BENEDITO AUGUSTO DOMINGOS;12.203.737/0001-90;09/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;11234 -  - PP -  - Deputado Distrital / 11010 - MARLENE RUAS SUCUPIRA - DF - Deputado Distrital;
+ISMAEL RUAS CORREIA;020.278.321-90;22/09/2010;       Despesas com pessoal;R$ 496,00;Transferência eletrônica; -  -  / 11010 - MARLENE RUAS SUCUPIRA - DF - Deputado Distrital;
+;;17/09/2010;       Encargos financeiros e taxas bancárias;R$ 4,00;Débito em conta; -  -  / 11010 - MARLENE RUAS SUCUPIRA - DF - Deputado Distrital;

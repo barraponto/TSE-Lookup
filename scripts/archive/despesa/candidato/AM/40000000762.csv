@@ -1,2 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALFREDO PEREIRA DO NASCIMENTO;12.169.771/0001-96;06/09/2010;12001007161;R$ 2.000,00;Cheque;LIDIANY PEREIRA DE OLIVEIRA;12069;Deputado Estadual;PDT;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANDERSON PEREIRA DE OLIVEIRA;626.477.682-34;16/09/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / 12069 - LIDIANY PEREIRA DE OLIVEIRA - AM - Deputado Estadual;
+CINTIA MARQUES DA CRUZ;864.819.592-68;16/09/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / 12069 - LIDIANY PEREIRA DE OLIVEIRA - AM - Deputado Estadual;
+JOAO LUIZ PINA ESTEVES;259.441.505-72;16/09/2010;       Serviços prestados por terceiros;R$ 500,00;Cheque; -  -  / 12069 - LIDIANY PEREIRA DE OLIVEIRA - AM - Deputado Estadual;
+SHIRLEY BEZERRA MESQUITA;493.495.702-20;16/09/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / 12069 - LIDIANY PEREIRA DE OLIVEIRA - AM - Deputado Estadual;

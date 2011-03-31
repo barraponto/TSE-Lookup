@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.217.614/0001-09;06/09/2010;19000000922;R$ 80,65;Estimado;FRANCISCA KATIA AUGUSTA FERREIRA;19001;Deputado Estadual;PTN;CE;
-MARCOGRAF GRAFICA LTDA;02.963.095/0001-74;20/08/2010;19000000921;R$ 172,00;Estimado;FRANCISCA KATIA AUGUSTA FERREIRA;19001;Deputado Estadual;PTN;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.217.614/0001-09;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 80,65;Estimado;Comitê Financeiro Único - PTN -  / 19001 - FRANCISCA KATIA AUGUSTA FERREIRA - CE - Deputado Estadual;
+MARCOGRAF GRAFICA LTDA;02.963.095/0001-74;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 172,00;Estimado; -  -  / 19001 - FRANCISCA KATIA AUGUSTA FERREIRA - CE - Deputado Estadual;

@@ -1,4 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CORAÇÃO DE MARIA EMP RURAIS E PART LTDA;07.724.884/0001-76;06/08/2010;15000054951;R$ 5.000,00;Depósito em espécie;CARLOS ALBERTO MOURA PINHO;15677;Deputado Estadual;PMDB;BA;
-ELIANE MOURA PINHO;292.429.325-15;30/09/2010;15000054953;R$ 5.000,00;Transferência eletrônica;CARLOS ALBERTO MOURA PINHO;15677;Deputado Estadual;PMDB;BA;
-ELIANE MOURA PINHO;292.429.325-15;13/08/2010;15000054952;R$ 20.000,00;Depósito em espécie;CARLOS ALBERTO MOURA PINHO;15677;Deputado Estadual;PMDB;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EMPRESA EDITORA A TARDE S/A;15.111.297/0001-30;25/08/2010;       Publicidade por jornais e revistas;R$ 3.439,80;Cheque; -  -  / 15677 - CARLOS ALBERTO MOURA PINHO - BA - Deputado Estadual;
+EMPRESA EDITORA A TARDE S/A;15.111.297/0001-30;25/08/2010;       Publicidade por jornais e revistas;R$ 859,95;Cheque; -  -  / 15677 - CARLOS ALBERTO MOURA PINHO - BA - Deputado Estadual;
+GUARANY INDUSTRIA & COMERCIO LTDA;16.243.164/0001-80;30/09/2010;       Publicidade por materiais impressos;R$ 5.000,00;Cheque; -  -  / 15677 - CARLOS ALBERTO MOURA PINHO - BA - Deputado Estadual;
+GUARANY INDUSTRIA & COMERCIO LTDA;16.243.164/0001-80;30/09/2010;       Publicidade por materiais impressos;R$ 5.000,00;Cheque; -  -  / 15677 - CARLOS ALBERTO MOURA PINHO - BA - Deputado Estadual;
+GUARANY INDUSTRIA & COMERCIO LTDA;16.243.164/0001-80;20/08/2010;       Publicidade por materiais impressos;R$ 4.200,00;Cheque; -  -  / 15677 - CARLOS ALBERTO MOURA PINHO - BA - Deputado Estadual;
+M L DA LUZ CONFECÇÕES LTDA;00.128.032/0001-77;16/08/2010;       Publicidade por materiais impressos;R$ 1.800,00;Cheque; -  -  / 15677 - CARLOS ALBERTO MOURA PINHO - BA - Deputado Estadual;
+MR ASSESSORIA CONTABIL LTDA;32.618.399/0001-65;30/09/2010;       Serviços prestados por terceiros;R$ 539,00;Cheque; -  -  / 15677 - CARLOS ALBERTO MOURA PINHO - BA - Deputado Estadual;
+POSTO DE COMBUSTIVEL JUBIABA LTDA;10.709.184/0001-17;30/08/2010;       Combustíveis e lubrificantes;R$ 4.200,00;Cheque; -  -  / 15677 - CARLOS ALBERTO MOURA PINHO - BA - Deputado Estadual;
+POSTO DE COMBUSTIVEL JUBIABA LTDA;10.709.184/0001-17;28/09/2010;       Combustíveis e lubrificantes;R$ 4.950,00;Cheque; -  -  / 15677 - CARLOS ALBERTO MOURA PINHO - BA - Deputado Estadual;
+;;30/09/2010;       Encargos financeiros e taxas bancárias;R$ 5,50;Débito em conta; -  -  / 15677 - CARLOS ALBERTO MOURA PINHO - BA - Deputado Estadual;
+;;30/09/2010;       Encargos financeiros e taxas bancárias;R$ 5,50;Débito em conta; -  -  / 15677 - CARLOS ALBERTO MOURA PINHO - BA - Deputado Estadual;

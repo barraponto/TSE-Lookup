@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ARIEL JOEL BRANDÃO DOS SANTOS;830.898.020-15;30/09/2010;70000183403;R$ 220,00;Depósito em espécie;ARIEL JOEL BRANDÃO DOS SANTOS;70007;Deputado Estadual;PT do B;RS;
-YEDA RORATO CRUSIUS;12.172.247/0001-74;06/09/2010;70000183402;R$ 992,00;Estimado;ARIEL JOEL BRANDÃO DOS SANTOS;70007;Deputado Estadual;PT do B;RS;
-YEDA RORATO CRUSIUS;12.172.247/0001-74;30/08/2010;70000183401;R$ 600,00;Estimado;ARIEL JOEL BRANDÃO DOS SANTOS;70007;Deputado Estadual;PT do B;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRUPO EDITORIAL SINOS;91.665.570/0001-56;01/10/2010;       Publicidade por jornais e revistas;R$ 210,70;Cheque; -  -  / 70007 - ARIEL JOEL BRANDÃO DOS SANTOS - RS - Deputado Estadual;
+YEDA RORATO CRUSIUS;12.172.247/0001-74;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado;45 -  - PSDB -  - Governador / 70007 - ARIEL JOEL BRANDÃO DOS SANTOS - RS - Deputado Estadual;
+YEDA RORATO CRUSIUS;12.172.247/0001-74;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 992,00;Estimado;45 -  - PSDB -  - Governador / 70007 - ARIEL JOEL BRANDÃO DOS SANTOS - RS - Deputado Estadual;

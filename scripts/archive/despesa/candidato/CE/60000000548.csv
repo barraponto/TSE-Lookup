@@ -1,4 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CLEITON RODRIGUES DA SILVA;192.753.838-63;27/09/2010;14000217551;R$ 1.200,00;Depósito em espécie;FRANCISCO JOSE GONCALVES DE LEMOS;14444;Deputado Estadual;PTB;CE;
-MARCOGRAF GRAFICA LTDA;02.963.095/0001-74;03/09/2010;14000217553;R$ 56,00;Estimado;FRANCISCO JOSE GONCALVES DE LEMOS;14444;Deputado Estadual;PTB;CE;
-MARIA ALINE DA SILVA SANTOS;991.054.113-00;04/10/2010;14000217552;R$ 4.400,00;Depósito em espécie;FRANCISCO JOSE GONCALVES DE LEMOS;14444;Deputado Estadual;PTB;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EMPRESA DE CORREIOS E TELEGRAFOS;41.604.299/0001-70;27/09/2010;       Despesas postais;R$ 1.219,18;Cheque; -  -  / 14444 - FRANCISCO JOSE GONCALVES DE LEMOS - CE - Deputado Estadual;
+EMPRESA DE CORREIOS E TELEGRAFOS;41.604.299/0001-70;27/09/2010;       Despesas postais;R$ 2.370,14;Cheque; -  -  / 14444 - FRANCISCO JOSE GONCALVES DE LEMOS - CE - Deputado Estadual;
+GRAFICA E EDITORA HALLEY S/A;10.308.997/0001-03;11/08/2010;       Publicidade por materiais impressos;R$ 1.200,00;Cheque; -  -  / 14444 - FRANCISCO JOSE GONCALVES DE LEMOS - CE - Deputado Estadual;
+GRAFICA E EDITORA HALLEY S/A;10.308.997/0001-03;15/09/2010;       Publicidade por materiais impressos;R$ 800,00;Cheque; -  -  / 14444 - FRANCISCO JOSE GONCALVES DE LEMOS - CE - Deputado Estadual;
+MARCOGRAF GRAFICA LTDA;02.963.095/0001-74;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 56,00;Estimado; -  -  / 14444 - FRANCISCO JOSE GONCALVES DE LEMOS - CE - Deputado Estadual;
+;;20/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 14444 - FRANCISCO JOSE GONCALVES DE LEMOS - CE - Deputado Estadual;
+;;06/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 14444 - FRANCISCO JOSE GONCALVES DE LEMOS - CE - Deputado Estadual;
+;;04/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 14444 - FRANCISCO JOSE GONCALVES DE LEMOS - CE - Deputado Estadual;
+;;29/10/2010;       Encargos financeiros e taxas bancárias;R$ 1,98;Débito em conta; -  -  / 14444 - FRANCISCO JOSE GONCALVES DE LEMOS - CE - Deputado Estadual;

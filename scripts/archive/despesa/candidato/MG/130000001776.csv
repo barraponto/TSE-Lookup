@@ -1,3 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-OSVALDO AMARAL FILHO;362.759.487-87;16/07/2010;50000232452;R$ 580,00;Transferência eletrônica;OSVALDO AMARAL FILHO;5030;Deputado Federal;PSOL;MG;
-OSVALDO AMARAL FILHO;362.759.487-87;14/07/2010;50000232451;R$ 600,00;Transferência eletrônica;OSVALDO AMARAL FILHO;5030;Deputado Federal;PSOL;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+PRODATA EDITORA GRÁFICA LTDA;03.508.494/0001-08;23/07/2010;       Publicidade por materiais impressos;R$ 1.180,00;Cheque; -  -  / 5030 - OSVALDO AMARAL FILHO - MG - Deputado Federal;

@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
-Comitê Financeiro Único;12.191.578/0001-51;19/08/2010;17000035867;R$ 5.016,00;Estimado;Comitê Financeiro Único;PSL;MS;
-Comitê Financeiro Único;12.191.578/0001-51;21/09/2010;17000035868;R$ 2.922,50;Estimado;Comitê Financeiro Único;PSL;MS;
-Comitê Financeiro Único;12.191.578/0001-51;15/09/2010;17000035869;R$ 627,00;Estimado;Comitê Financeiro Único;PSL;MS;
-Comitê Financeiro Único;12.191.578/0001-51;15/09/2010;17000035870;R$ 15.572,70;Estimado;Comitê Financeiro Único;PSL;MS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.578/0001-51;19/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 5.016,00;Estimado;Comitê Financeiro Único - PT -  / Comitê Financeiro Único - PSL - MS;
+Comitê Financeiro Único;12.191.578/0001-51;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 627,00;Estimado;Comitê Financeiro Único - PT -  / Comitê Financeiro Único - PSL - MS;
+Comitê Financeiro Único;12.191.578/0001-51;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 15.572,70;Estimado;Comitê Financeiro Único - PT -  / Comitê Financeiro Único - PSL - MS;
+Comitê Financeiro Único;12.191.578/0001-51;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.922,50;Estimado;Comitê Financeiro Único - PT -  / Comitê Financeiro Único - PSL - MS;

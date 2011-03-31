@@ -1,4 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LUIZ GERALDO CABOCLO DOS SANTOS;235.295.204-20;26/07/2010;31000042751;R$ 100,00;Depósito em espécie;LUIZ GERALDO CABOCLO DOS SANTOS;31369;Deputado Estadual;PHS;PE;
-LUIZ GERALDO CABOCLO DOS SANTOS;235.295.204-20;17/08/2010;31000042753;R$ 370,00;Transferência eletrônica;LUIZ GERALDO CABOCLO DOS SANTOS;31369;Deputado Estadual;PHS;PE;
-LUIZ GERALDO CABOCLO DOS SANTOS;235.295.204-20;30/07/2010;31000042752;R$ 500,00;Depósito em espécie;LUIZ GERALDO CABOCLO DOS SANTOS;31369;Deputado Estadual;PHS;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GILVAN ROQUE (GIL PROPAGANDA);886.797.054-20;01/08/2010;       Publicidade por materiais impressos;R$ 370,00;Cheque; -  -  / 31369 - LUIZ GERALDO CABOCLO DOS SANTOS - PE - Deputado Estadual;
+VANIA GONÇALVES DE LIMA-ME;04.020.471/0001-12;30/07/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 31369 - LUIZ GERALDO CABOCLO DOS SANTOS - PE - Deputado Estadual;

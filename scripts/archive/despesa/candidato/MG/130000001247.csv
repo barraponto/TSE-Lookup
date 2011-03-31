@@ -1,9 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.154.851/0001-78;29/07/2010;44000038301;R$ 590,00;Estimado;ALEXANDRE DE PAULA RIBEIRO;44044;Deputado Estadual;PRP;MG;
-Comitê Financeiro Único;12.154.851/0001-78;29/09/2010;44000038307;R$ 180,00;Estimado;ALEXANDRE DE PAULA RIBEIRO;44044;Deputado Estadual;PRP;MG;
-Comitê Financeiro Único;12.154.851/0001-78;29/09/2010;44000038306;R$ 177,00;Estimado;ALEXANDRE DE PAULA RIBEIRO;44044;Deputado Estadual;PRP;MG;
-Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;44000038308;R$ 300,00;Estimado;ALEXANDRE DE PAULA RIBEIRO;44044;Deputado Estadual;PRP;MG;
-Comitê Financeiro Único;12.154.851/0001-78;22/08/2010;44000038302;R$ 1.770,00;Estimado;ALEXANDRE DE PAULA RIBEIRO;44044;Deputado Estadual;PRP;MG;
-ISLER VILELA DE PAULA;001.240.546-92;29/09/2010;44000038305;R$ 300,00;Estimado;ALEXANDRE DE PAULA RIBEIRO;44044;Deputado Estadual;PRP;MG;
-MARCELO HENRIQUE COSTA VIEIRA;032.419.606-76;01/09/2010;44000038304;R$ 18,00;Estimado;ALEXANDRE DE PAULA RIBEIRO;44044;Deputado Estadual;PRP;MG;
-WANDER ANGELO RIBEIRO JUNIOR;586.008.256-87;01/09/2010;44000038303;R$ 18,00;Estimado;ALEXANDRE DE PAULA RIBEIRO;44044;Deputado Estadual;PRP;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.154.851/0001-78;22/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.770,00;Estimado;Comitê Financeiro Único - PT do B -  / 44044 - ALEXANDRE DE PAULA RIBEIRO - MG - Deputado Estadual;
+Comitê Financeiro Único;12.154.851/0001-78;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 180,00;Estimado;Comitê Financeiro Único - PT do B -  / 44044 - ALEXANDRE DE PAULA RIBEIRO - MG - Deputado Estadual;
+Comitê Financeiro Único;12.154.851/0001-78;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 177,00;Estimado;Comitê Financeiro Único - PT do B -  / 44044 - ALEXANDRE DE PAULA RIBEIRO - MG - Deputado Estadual;
+Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PT do B -  / 44044 - ALEXANDRE DE PAULA RIBEIRO - MG - Deputado Estadual;
+Comitê Financeiro Único;12.154.851/0001-78;29/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 590,00;Estimado;Comitê Financeiro Único - PT do B -  / 44044 - ALEXANDRE DE PAULA RIBEIRO - MG - Deputado Estadual;
+ISLER VILELA DE PAULA;001.240.546-92;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 44044 - ALEXANDRE DE PAULA RIBEIRO - MG - Deputado Estadual;
+MARCELO HENRIQUE COSTA VIEIRA;032.419.606-76;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 18,00;Estimado; -  -  / 44044 - ALEXANDRE DE PAULA RIBEIRO - MG - Deputado Estadual;
+WANDER ANGELO RIBEIRO JUNIOR;586.008.256-87;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 18,00;Estimado; -  -  / 44044 - ALEXANDRE DE PAULA RIBEIRO - MG - Deputado Estadual;

@@ -1,4 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FERES JORGE ROCHA E SILVA UEQUED;024.484.160-87;10/08/2010;36000095331;R$ 800,00;Cheque;LIOMAR BORGES DOS SANTOS;3678;Deputado Federal;PTC;RS;
-NASSER SOUZA MUHD;399.086.230-87;13/08/2010;36000095332;R$ 800,00;Depósito em espécie;LIOMAR BORGES DOS SANTOS;3678;Deputado Federal;PTC;RS;
-ROSIMERI GONÇALVES FARIAS;459.351.570-04;18/08/2010;36000095333;R$ 390,00;Depósito em espécie;LIOMAR BORGES DOS SANTOS;3678;Deputado Federal;PTC;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DIVINO SANTOS MEDEIROS;214.530.470-34;10/08/2010;       Cessão ou Locação de Veículos;R$ 780,00;Cheque; -  -  / 3678 - LIOMAR BORGES DOS SANTOS - RS - Deputado Federal;
+FRONT SIGN ARTES VISUAIS;07.354.930/0001-92;31/08/2010;       Publicidade por materiais impressos;R$ 405,00;Cheque; -  -  / 3678 - LIOMAR BORGES DOS SANTOS - RS - Deputado Federal;
+FRONT SIGN ARTES VISUAIS;07.354.930/0001-92;17/08/2010;       Publicidade por materiais impressos;R$ 670,00;Cheque; -  -  / 3678 - LIOMAR BORGES DOS SANTOS - RS - Deputado Federal;
+GARAGEM CAÉTE LTDA;90.092.339/0001-58;20/08/2010;       Combustíveis e lubrificantes;R$ 91,80;Cheque; -  -  / 3678 - LIOMAR BORGES DOS SANTOS - RS - Deputado Federal;
+;;01/11/2010;       Encargos financeiros e taxas bancárias;R$ 4,35;Débito em conta; -  -  / 3678 - LIOMAR BORGES DOS SANTOS - RS - Deputado Federal;

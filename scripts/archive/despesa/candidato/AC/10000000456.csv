@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;84.305.184/0001-98;23/09/2010;33000096080;R$ 391,00;Depósito em espécie;THEOELITA DA SILVA QUINDERI;33277;Deputado Estadual;PMN;AC;
-LUIZ CALIXTO DOS SANTOS;111.616.472-87;10/07/2010;33000096073;R$ 1.000,00;Estimado;THEOELITA DA SILVA QUINDERI;33277;Deputado Estadual;PMN;AC;
-MARCIO MIGUEL BITTAR;12.173.808/0001-50;30/08/2010;33000096072;R$ 750,00;Estimado;THEOELITA DA SILVA QUINDERI;33277;Deputado Estadual;PMN;AC;
-MARCIO MIGUEL BITTAR;12.173.808/0001-50;02/08/2010;33000096071;R$ 190,00;Estimado;THEOELITA DA SILVA QUINDERI;33277;Deputado Estadual;PMN;AC;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+LUIZ CALIXTO DOS SANTOS;111.616.472-87;10/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 33277 - THEOELITA DA SILVA QUINDERI - AC - Deputado Estadual;
+MARCIO MIGUEL BITTAR;12.173.808/0001-50;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 190,00;Estimado; -  -  / 33277 - THEOELITA DA SILVA QUINDERI - AC - Deputado Estadual;
+MARCIO MIGUEL BITTAR;12.173.808/0001-50;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 750,00;Estimado; -  -  / 33277 - THEOELITA DA SILVA QUINDERI - AC - Deputado Estadual;
+SÃO FRANCISCO;04.068.342/0001-02;29/09/2010;       Combustíveis e lubrificantes;R$ 290,00;Cheque; -  -  / 33277 - THEOELITA DA SILVA QUINDERI - AC - Deputado Estadual;

@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-BRICE BRAGATO;12.190.477/0001-66;01/10/2010;50000164383;R$ 754,00;Estimado;CLESIO JADEJISCHI RIBEIRO;50222;Deputado Estadual;PSOL;ES;
-BRICE BRAGATO;12.190.477/0001-66;24/09/2010;50000164381;R$ 2.000,00;Transferência eletrônica;CLESIO JADEJISCHI RIBEIRO;50222;Deputado Estadual;PSOL;ES;
-ROBERTO FERRAZ PEREIRA;12.191.343/0001-60;02/08/2010;50000164382;R$ 500,00;Depósito em espécie;CLESIO JADEJISCHI RIBEIRO;50222;Deputado Estadual;PSOL;ES;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BRICE BRAGATO;12.190.477/0001-66;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 754,00;Estimado;50 -  - PSOL -  - Governador / 50222 - CLESIO JADEJISCHI RIBEIRO - ES - Deputado Estadual;
+GRAFICA E EDITORA QUATRO IRMÃOS LTDA -ME;36.356.251/0002-31;19/08/2010;       Publicidade por materiais impressos;R$ 500,00;Transferência eletrônica; -  -  / 50222 - CLESIO JADEJISCHI RIBEIRO - ES - Deputado Estadual;
+RICARDO CASTRO DE AGUIAR;931.023.807-00;22/09/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 2.000,00;Transferência eletrônica; -  -  / 50222 - CLESIO JADEJISCHI RIBEIRO - ES - Deputado Estadual;

@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CAMILA MENDES MARTINS;946.813.682-53;15/07/2010;16000032455;R$ 800,00;Estimado;PAULO ROBERTO OLIVEIRA BRAGA;161;Senador;PSTU;PA;
-Comitê Financeiro Único;12.229.950/0001-71;14/10/2010;16000032451;R$ 850,00;Estimado;PAULO ROBERTO OLIVEIRA BRAGA;161;Senador;PSTU;PA;
-Comitê Financeiro Único;12.229.950/0001-71;05/10/2010;16000032453;R$ 1.500,00;Estimado;PAULO ROBERTO OLIVEIRA BRAGA;161;Senador;PSTU;PA;
-Comitê Financeiro Único;12.229.950/0001-71;14/10/2010;16000032452;R$ 300,00;Estimado;PAULO ROBERTO OLIVEIRA BRAGA;161;Senador;PSTU;PA;
-TAINA SERRÃO DE SOUZA;907.538.102-63;15/07/2010;16000032454;R$ 800,00;Estimado;PAULO ROBERTO OLIVEIRA BRAGA;161;Senador;PSTU;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CAMILA MENDES MARTINS;946.813.682-53;15/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 800,00;Estimado; -  -  / 161 - PAULO ROBERTO OLIVEIRA BRAGA - PA - Senador;
+Comitê Financeiro Único;12.229.950/0001-71;05/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado;Comitê Financeiro Único - PSTU -  / 161 - PAULO ROBERTO OLIVEIRA BRAGA - PA - Senador;
+Comitê Financeiro Único;12.229.950/0001-71;14/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 850,00;Estimado;Comitê Financeiro Único - PSTU -  / 161 - PAULO ROBERTO OLIVEIRA BRAGA - PA - Senador;
+Comitê Financeiro Único;12.229.950/0001-71;14/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PSTU -  / 161 - PAULO ROBERTO OLIVEIRA BRAGA - PA - Senador;
+TAINA SERRÃO DE SOUZA;907.538.102-63;15/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 800,00;Estimado; -  -  / 161 - PAULO ROBERTO OLIVEIRA BRAGA - PA - Senador;

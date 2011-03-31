@@ -1,4 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-KELLY CRISTINA RABELO DE VASCONCELOS;074.816.234-81;26/07/2010;28000818202;R$ 1.800,00;Depósito em espécie;JOAO ALMEIDA PARRA;28700;Deputado Estadual;PRTB;PE;
-KELLY CRISTINA RABELO DE VASCONCELOS;074.816.234-81;19/10/2010;28000818203;R$ 120,00;Depósito em espécie;JOAO ALMEIDA PARRA;28700;Deputado Estadual;PRTB;PE;
-RAUL BELENS JUNGMANN PINTO;12.173.906/0001-97;02/09/2010;28000818201;R$ 3.000,00;Cheque;JOAO ALMEIDA PARRA;28700;Deputado Estadual;PRTB;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BOM JESUS COMBUSTIVEIS LTDA;10.692.073/0001-45;20/09/2010;       Combustíveis e lubrificantes;R$ 3.000,00;Cheque; -  -  / 28700 - JOAO ALMEIDA PARRA - PE - Deputado Estadual;
+IND. GRÁFICA S. GALVAO LTDA.;24.339.384/0001-30;30/07/2010;       Publicidade por materiais impressos;R$ 1.365,00;Cheque; -  -  / 28700 - JOAO ALMEIDA PARRA - PE - Deputado Estadual;
+JORNAL TRIBUNA DA REGIAO LTDA. - ME;08.174.785/0001-20;01/10/2010;       Publicidade por jornais e revistas;R$ 300,00;Cheque; -  -  / 28700 - JOAO ALMEIDA PARRA - PE - Deputado Estadual;
+NÚCLEO DIGITAL LTDA;07.222.226/0001-86;02/08/2010;       Publicidade por materiais impressos;R$ 250,00;Cheque; -  -  / 28700 - JOAO ALMEIDA PARRA - PE - Deputado Estadual;

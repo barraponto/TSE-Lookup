@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.221.882/0001-02;30/09/2010;12001521612;R$ 1.680,00;Estimado;JOSÉ FELIPE DE ARAÚJO;1245;Deputado Federal;PDT;PI;
-Comitê Financeiro Único;12.221.882/0001-02;22/09/2010;12001521611;R$ 1.287,37;Estimado;JOSÉ FELIPE DE ARAÚJO;1245;Deputado Federal;PDT;PI;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.221.882/0001-02;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.680,00;Estimado;Comitê Financeiro Único - PDT -  / 1245 - JOSÉ FELIPE DE ARAÚJO - PI - Deputado Federal;
+Comitê Financeiro Único;12.221.882/0001-02;22/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.287,37;Estimado;Comitê Financeiro Único - PDT -  / 1245 - JOSÉ FELIPE DE ARAÚJO - PI - Deputado Federal;

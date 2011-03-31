@@ -1,7 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANA MARIA LOPES DA SILVA;701.381.334-68;01/08/2010;25000457903;R$ 1.800,00;Estimado;JOSE CICERO VALENTIM DOS SANTOS;25111;Deputado Estadual;DEM;AL;
-ELEIÇÃO 2010 TEOTÔNIO BRANDÃO VILELA FILHO;12.170.978/0001-80;30/09/2010;25000457905;R$ 3.163,39;Estimado;JOSE CICERO VALENTIM DOS SANTOS;25111;Deputado Estadual;DEM;AL;
-ELEIÇÃO 2010 TEOTÔNIO BRANDÃO VILELA FILHO GOVERNADOR;12.170.978/0001-80;26/08/2010;25000457904;R$ 1.400,04;Estimado;JOSE CICERO VALENTIM DOS SANTOS;25111;Deputado Estadual;DEM;AL;
-JOSE CÍCERO VALENTIM DOS SANTOS;439.749.964-00;03/11/2010;25000457902;R$ 30,00;Depósito em espécie;JOSE CICERO VALENTIM DOS SANTOS;25111;Deputado Estadual;DEM;AL;
-JOSE CÍCERO VALENTIM DOS SANTOS;439.749.964-00;20/10/2010;25000457901;R$ 990,00;Depósito em espécie;JOSE CICERO VALENTIM DOS SANTOS;25111;Deputado Estadual;DEM;AL;
-;;20/10/2010;;R$ 0,01;Não informado;JOSE CICERO VALENTIM DOS SANTOS;25111;Deputado Estadual;DEM;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANA MARIA LOPES DA SILVA;701.381.334-68;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.800,00;Estimado; -  -  / 25111 - JOSE CICERO VALENTIM DOS SANTOS - AL - Deputado Estadual;
+ELEIÇÃO 2010 TEOTÔNIO BRANDÃO VILELA FILHO;12.170.978/0001-80;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.163,39;Estimado;45 -  - PSDB -  - Governador / 25111 - JOSE CICERO VALENTIM DOS SANTOS - AL - Deputado Estadual;
+ELEIÇÃO 2010 TEOTÔNIO BRANDÃO VILELA FILHO GOVERNADOR;12.170.978/0001-80;26/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.400,04;Estimado;45 -  - PSDB -  - Governador / 25111 - JOSE CICERO VALENTIM DOS SANTOS - AL - Deputado Estadual;
+ROSEANE NOGUEIRA DE ANDRADE;725.513.054-20;30/09/2010;       Serviços prestados por terceiros;R$ 500,00;Cheque; -  -  / 25111 - JOSE CICERO VALENTIM DOS SANTOS - AL - Deputado Estadual;
+SHEILA KATIA FREIRE PEREIRA;494.994.244-15;30/09/2010;       Cessão ou Locação de Veículos;R$ 500,00;Cheque; -  -  / 25111 - JOSE CICERO VALENTIM DOS SANTOS - AL - Deputado Estadual;
+;;01/11/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 25111 - JOSE CICERO VALENTIM DOS SANTOS - AL - Deputado Estadual;
+;;01/11/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 25111 - JOSE CICERO VALENTIM DOS SANTOS - AL - Deputado Estadual;

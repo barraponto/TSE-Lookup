@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.489/0001-05;13/09/2010;16000033954;R$ 97,00;Estimado;MARIA ALVES FERREIRA DE MORAIS;1616;Deputado Federal;PSTU;PE;
-Comitê Financeiro Único;12.191.489/0001-05;18/08/2010;16000033952;R$ 215,00;Estimado;MARIA ALVES FERREIRA DE MORAIS;1616;Deputado Federal;PSTU;PE;
-Comitê Financeiro Único;12.191.489/0001-05;18/08/2010;16000033951;R$ 234,00;Estimado;MARIA ALVES FERREIRA DE MORAIS;1616;Deputado Federal;PSTU;PE;
-Comitê Financeiro Único;12.191.489/0001-05;21/09/2010;16000033956;R$ 300,00;Estimado;MARIA ALVES FERREIRA DE MORAIS;1616;Deputado Federal;PSTU;PE;
-Comitê Financeiro Único;12.191.489/0001-05;27/09/2010;16000033955;R$ 500,00;Estimado;MARIA ALVES FERREIRA DE MORAIS;1616;Deputado Federal;PSTU;PE;
-Comitê Financeiro Único;12.191.489/0001-05;21/09/2010;16000033957;R$ 200,00;Estimado;MARIA ALVES FERREIRA DE MORAIS;1616;Deputado Federal;PSTU;PE;
-Comitê Financeiro Único;12.191.489/0001-05;31/08/2010;16000033953;R$ 97,00;Estimado;MARIA ALVES FERREIRA DE MORAIS;1616;Deputado Federal;PSTU;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.489/0001-05;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 234,00;Estimado;Comitê Financeiro Único - PSTU -  / 1616 - MARIA ALVES FERREIRA DE MORAIS - PE - Deputado Federal;
+Comitê Financeiro Único;12.191.489/0001-05;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;Comitê Financeiro Único - PSTU -  / 1616 - MARIA ALVES FERREIRA DE MORAIS - PE - Deputado Federal;
+Comitê Financeiro Único;12.191.489/0001-05;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 215,00;Estimado;Comitê Financeiro Único - PSTU -  / 1616 - MARIA ALVES FERREIRA DE MORAIS - PE - Deputado Federal;
+Comitê Financeiro Único;12.191.489/0001-05;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 97,00;Estimado;Comitê Financeiro Único - PSTU -  / 1616 - MARIA ALVES FERREIRA DE MORAIS - PE - Deputado Federal;
+Comitê Financeiro Único;12.191.489/0001-05;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;Comitê Financeiro Único - PSTU -  / 1616 - MARIA ALVES FERREIRA DE MORAIS - PE - Deputado Federal;
+Comitê Financeiro Único;12.191.489/0001-05;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PSTU -  / 1616 - MARIA ALVES FERREIRA DE MORAIS - PE - Deputado Federal;
+Comitê Financeiro Único;12.191.489/0001-05;13/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 97,00;Estimado;Comitê Financeiro Único - PSTU -  / 1616 - MARIA ALVES FERREIRA DE MORAIS - PE - Deputado Federal;

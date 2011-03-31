@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;04.160.131/0001-97;11/10/2010;15000181881;R$ 435,00;Cheque;ANA MARIA DE SOUZA MOREIRA;15000;Deputado Estadual;PMDB;AM;
-Diretório Estadual/Distrital;04.160.131/0001-97;30/09/2010;15000181883;R$ 200,00;Estimado;ANA MARIA DE SOUZA MOREIRA;15000;Deputado Estadual;PMDB;AM;
-Diretório Estadual/Distrital;04.160.131/0001-97;13/08/2010;15000181882;R$ 300,00;Estimado;ANA MARIA DE SOUZA MOREIRA;15000;Deputado Estadual;PMDB;AM;
-ELEIÇÕES ANA MARIA DE SOUZA MOREIRA;077.598.862-68;21/10/2010;15000181887;R$ 2,90;Depósito em espécie;ANA MARIA DE SOUZA MOREIRA;15000;Deputado Estadual;PMDB;AM;
-GEILSON LOBATO GONÇALVES;845.578.772-49;04/09/2010;15000181885;R$ 510,00;Estimado;ANA MARIA DE SOUZA MOREIRA;15000;Deputado Estadual;PMDB;AM;
-NEIDIANE MONTEIRO REIS;786.574.402-10;04/09/2010;15000181884;R$ 510,00;Estimado;ANA MARIA DE SOUZA MOREIRA;15000;Deputado Estadual;PMDB;AM;
-PAULO JEAN BARROS FERREIRA;404.346.562-91;04/09/2010;15000181886;R$ 510,00;Estimado;ANA MARIA DE SOUZA MOREIRA;15000;Deputado Estadual;PMDB;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;04.160.131/0001-97;13/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Direção Estadual/Distrital - PMDB -  / 15000 - ANA MARIA DE SOUZA MOREIRA - AM - Deputado Estadual;
+Diretório Estadual/Distrital;04.160.131/0001-97;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;Direção Estadual/Distrital - PMDB -  / 15000 - ANA MARIA DE SOUZA MOREIRA - AM - Deputado Estadual;
+GEILSON LOBATO GONÇALVES;845.578.772-49;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 510,00;Estimado; -  -  / 15000 - ANA MARIA DE SOUZA MOREIRA - AM - Deputado Estadual;
+GRAFITEL;02.765.976/0001-80;18/09/2010;       Publicidade por materiais impressos;R$ 435,00;Cheque; -  -  / 15000 - ANA MARIA DE SOUZA MOREIRA - AM - Deputado Estadual;
+NEIDIANE MONTEIRO REIS;786.574.402-10;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 510,00;Estimado; -  -  / 15000 - ANA MARIA DE SOUZA MOREIRA - AM - Deputado Estadual;
+PAULO JEAN BARROS FERREIRA;404.346.562-91;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 510,00;Estimado; -  -  / 15000 - ANA MARIA DE SOUZA MOREIRA - AM - Deputado Estadual;
+;;14/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 15000 - ANA MARIA DE SOUZA MOREIRA - AM - Deputado Estadual;

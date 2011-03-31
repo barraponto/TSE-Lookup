@@ -1,6 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIA SINHORINHA SILVA;180.614.433-68;21/09/2010;28000472102;R$ 4.200,00;Depósito em espécie;ANTONIA SINHORINHA SILVA;2828;Deputado Federal;PRTB;MA;
-ANTONIA SINHORINHA SILVA;180.614.433-68;27/10/2010;28000472103;R$ 185,00;Depósito em espécie;ANTONIA SINHORINHA SILVA;2828;Deputado Federal;PRTB;MA;
-ANTONIA SINHORINHA SILVA;180.614.433-68;20/10/2010;28000472105;R$ 50,00;Depósito em espécie;ANTONIA SINHORINHA SILVA;2828;Deputado Federal;PRTB;MA;
-ANTONIA SINHORINHA SILVA;180.614.433-68;31/08/2010;28000472104;R$ 100,00;Depósito em espécie;ANTONIA SINHORINHA SILVA;2828;Deputado Federal;PRTB;MA;
-ANTONIO CAITANO NETO;146.682.543-04;11/08/2010;28000472101;R$ 90,00;Depósito em espécie;ANTONIA SINHORINHA SILVA;2828;Deputado Federal;PRTB;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALCANTARA DERIVADOS DE PETROLEO E SERVIÇOS LTDA;00.987.726/0001-60;21/09/2010;       Combustíveis e lubrificantes;R$ 60,00;Cheque; -  -  / 2828 - ANTONIA SINHORINHA SILVA - MA - Deputado Federal;
+ALCANTARA DERIVADOS DE PETROLEO E SERVIÇOS LTDA;00.987.726/0001-60;24/09/2010;       Combustíveis e lubrificantes;R$ 60,00;Cheque; -  -  / 2828 - ANTONIA SINHORINHA SILVA - MA - Deputado Federal;
+G G INFORMATICA E IMPRESSAO DIGITAL LTDA;12.136.503/0001-78;21/09/2010;       Publicidade por materiais impressos;R$ 4.090,00;Cheque; -  -  / 2828 - ANTONIA SINHORINHA SILVA - MA - Deputado Federal;
+GABRIELA DINIZ CHAVES RODRIGUES;047.575.823-40;21/09/2010;       Serviços prestados por terceiros;R$ 50,00;Cheque; -  -  / 2828 - ANTONIA SINHORINHA SILVA - MA - Deputado Federal;
+LUIS CAETANO DA SILVA;149.287.951-72;21/09/2010;       Serviços prestados por terceiros;R$ 80,00;Cheque; -  -  / 2828 - ANTONIA SINHORINHA SILVA - MA - Deputado Federal;
+LUIS CAETANO DA SILVA;149.287.951-72;21/10/2010;       Serviços prestados por terceiros;R$ 60,00;Cheque; -  -  / 2828 - ANTONIA SINHORINHA SILVA - MA - Deputado Federal;
+TAMIRYS CRISTINA MONTEIRA DA SILVA;018.796.473-46;29/09/2010;       Serviços prestados por terceiros;R$ 180,00;Cheque; -  -  / 2828 - ANTONIA SINHORINHA SILVA - MA - Deputado Federal;
+TAMIRYS CRISTINA MONTEIRA DA SILVA;018.796.473-46;23/09/2010;       Serviços prestados por terceiros;R$ 45,00;Cheque; -  -  / 2828 - ANTONIA SINHORINHA SILVA - MA - Deputado Federal;

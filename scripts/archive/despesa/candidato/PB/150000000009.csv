@@ -1,8 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CÍCERO SIMPLICIO SILVA;768.769.854-15;27/09/2010;21000011322;R$ 395,00;Depósito em espécie;CÍCERO SIMPLICIO SILVA;21111;Deputado Estadual;PCB;PB;
-CÍCERO SIMPLICIO SILVA;768.769.854-15;10/08/2010;21000011319;R$ 130,00;Depósito em espécie;CÍCERO SIMPLICIO SILVA;21111;Deputado Estadual;PCB;PB;
-DJALMA SIMPLÍCIO SILVA;450.580.324-49;09/09/2010;21000011321;R$ 400,00;Depósito em espécie;CÍCERO SIMPLICIO SILVA;21111;Deputado Estadual;PCB;PB;
-JORLAN DIEGO SIMPLICIO SILVA;071.308.914-83;09/09/2010;21000011320;R$ 200,00;Depósito em espécie;CÍCERO SIMPLICIO SILVA;21111;Deputado Estadual;PCB;PB;
-JOSÉ FERNANDO CARVALHO;12.206.243/0001-60;19/08/2010;21000011323;R$ 433,80;Estimado;CÍCERO SIMPLICIO SILVA;21111;Deputado Estadual;PCB;PB;
-MARIA GORETTE FARIAS;928.809.244-72;24/08/2010;21000011318;R$ 200,00;Depósito em espécie;CÍCERO SIMPLICIO SILVA;21111;Deputado Estadual;PCB;PB;
-MARIA HELENA SIMPLÍCIO SILVA;262.774.924-20;24/08/2010;21000011317;R$ 200,00;Depósito em espécie;CÍCERO SIMPLICIO SILVA;21111;Deputado Estadual;PCB;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRÁFICA J B S LTDA;08.967.907/0001-36;30/09/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 21111 - CÍCERO SIMPLICIO SILVA - PB - Deputado Estadual;
+HELENA PEREIRA DE SOUSA;03.094.734/0001-75;27/09/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 21111 - CÍCERO SIMPLICIO SILVA - PB - Deputado Estadual;
+JOSÉ FERNANDO CARVALHO;12.206.243/0001-60;19/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 433,80;Estimado;1551 -  - PMDB -  - Deputado Federal / 21111 - CÍCERO SIMPLICIO SILVA - PB - Deputado Estadual;
+MARKETING & COMUNICAÇÃO VISUAL LTDA;08.454.387/0001-68;11/08/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 21111 - CÍCERO SIMPLICIO SILVA - PB - Deputado Estadual;
+MARKETING & COMUNICAÇÃO VISUAL LTDA;08.454.387/0001-68;06/08/2010;       Publicidade por materiais impressos;R$ 125,00;Cheque; -  -  / 21111 - CÍCERO SIMPLICIO SILVA - PB - Deputado Estadual;

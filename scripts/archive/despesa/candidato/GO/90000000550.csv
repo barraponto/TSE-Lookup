@@ -1,5 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO PEREIRA DE OLIVEIRA;659.791.921-15;10/08/2010;40002466155;R$ 500,00;Depósito em espécie;MARIA DA CONCEIÇÃO SOUZA VELOSO;40240;Deputado Estadual;PSB;GO;
-ANTONIO PEREIRA DE OLIVEIRA;659.791.921-15;10/09/2010;40002466157;R$ 2.900,00;Depósito em espécie;MARIA DA CONCEIÇÃO SOUZA VELOSO;40240;Deputado Estadual;PSB;GO;
-VALDETO FERREIRA  RODRIGUES;148.950.131-20;09/08/2010;40002466151;R$ 1.000,00;Depósito em espécie;MARIA DA CONCEIÇÃO SOUZA VELOSO;40240;Deputado Estadual;PSB;GO;
-VANDERLAN VIEIRA CARDOSO;12.198.568/0001-48;21/09/2010;40002466152;R$ 7.500,00;Transferência eletrônica;MARIA DA CONCEIÇÃO SOUZA VELOSO;40240;Deputado Estadual;PSB;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO MUQUEM LTDA;01.175.499/0001-30;10/09/2010;       Combustíveis e lubrificantes;R$ 2.870,90;Cheque; -  -  / 40240 - MARIA DA CONCEIÇÃO SOUZA VELOSO - GO - Deputado Estadual;
+AUTO POSTO MUQUEM LTDA;01.175.499/0001-30;23/09/2010;       Combustíveis e lubrificantes;R$ 6.000,00;Cheque; -  -  / 40240 - MARIA DA CONCEIÇÃO SOUZA VELOSO - GO - Deputado Estadual;
+GCOMP INFORMATICA E ELETRONICA LTDA.;06.991.084/0001-59;24/09/2010;       Locação/cessão de bens móveis;R$ 1.000,00;Cheque; -  -  / 40240 - MARIA DA CONCEIÇÃO SOUZA VELOSO - GO - Deputado Estadual;
+JOSE ROBLEDO VELOSO RODRIGUES;003.195.121-00;16/08/2010;       Serviços prestados por terceiros;R$ 300,00;Cheque; -  -  / 40240 - MARIA DA CONCEIÇÃO SOUZA VELOSO - GO - Deputado Estadual;
+PÁULO FERREIRA FRANCA;302.690.241-15;24/09/2010;       Despesas com pessoal;R$ 50,00;Cheque; -  -  / 40240 - MARIA DA CONCEIÇÃO SOUZA VELOSO - GO - Deputado Estadual;
+PÁULO FERREIRA FRANCA;302.690.241-15;30/09/2010;       Despesas com pessoal;R$ 29,10;Cheque; -  -  / 40240 - MARIA DA CONCEIÇÃO SOUZA VELOSO - GO - Deputado Estadual;
+SOLDIMEC MATERIAIS PARA CONSTRUCAO;02.265.365/0001-73;11/08/2010;       Locação/cessão de bens imóveis;R$ 600,00;Cheque; -  -  / 40240 - MARIA DA CONCEIÇÃO SOUZA VELOSO - GO - Deputado Estadual;
+VANI MARIOA DE SOUSA FRANCO;209.750.231-87;13/08/2010;       Alimentação;R$ 550,00;Cheque; -  -  / 40240 - MARIA DA CONCEIÇÃO SOUZA VELOSO - GO - Deputado Estadual;
+VANI MARIOA DE SOUSA FRANCO;209.750.231-87;23/09/2010;       Alimentação;R$ 500,00;Cheque; -  -  / 40240 - MARIA DA CONCEIÇÃO SOUZA VELOSO - GO - Deputado Estadual;

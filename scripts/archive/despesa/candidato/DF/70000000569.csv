@@ -1,4 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.249.210/0001-05;23/09/2010;23000082962;R$ 3.000,00;Cheque;ALEXANDRE TADEU VIEIRA GARCIA;23777;Deputado Distrital;PPS;DF;
-Comitê Financeiro Único;12.205.228/0001-05;30/09/2010;23000082965;R$ 702,93;Estimado;ALEXANDRE TADEU VIEIRA GARCIA;23777;Deputado Distrital;PPS;DF;
-Comitê Financeiro Único;12.205.228/0001-05;30/09/2010;23000082964;R$ 291,76;Estimado;ALEXANDRE TADEU VIEIRA GARCIA;23777;Deputado Distrital;PPS;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CAIO NUNES NISHIYAMA;022.120.781-37;02/10/2010;       Despesas com pessoal;R$ 200,00;Cheque; -  -  / 23777 - ALEXANDRE TADEU VIEIRA GARCIA - DF - Deputado Distrital;
+CAL COMBUSTÍVEIS AUTOMOTIVOS LTDA;00.373.589/0001-73;03/10/2010;       Combustíveis e lubrificantes;R$ 88,40;Cheque; -  -  / 23777 - ALEXANDRE TADEU VIEIRA GARCIA - DF - Deputado Distrital;
+Comitê Financeiro Único;12.205.228/0001-05;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 702,93;Estimado;Comitê Financeiro Único - PMDB -  / 23777 - ALEXANDRE TADEU VIEIRA GARCIA - DF - Deputado Distrital;
+Comitê Financeiro Único;12.205.228/0001-05;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 291,76;Estimado;Comitê Financeiro Único - PMDB -  / 23777 - ALEXANDRE TADEU VIEIRA GARCIA - DF - Deputado Distrital;
+GIOVANI MANOEL DA SILVA ME;10.680.236/0001-70;28/09/2010;       Publicidade por materiais impressos;R$ 657,00;Cheque; -  -  / 23777 - ALEXANDRE TADEU VIEIRA GARCIA - DF - Deputado Distrital;
+GIOVANI MANOEL DA SILVA ME;10.680.236/0001-70;13/09/2010;       Publicidade por materiais impressos;R$ 460,00;Cheque; -  -  / 23777 - ALEXANDRE TADEU VIEIRA GARCIA - DF - Deputado Distrital;
+JOÃO LUIZ VIEIRA GARCIA;707.454.041-20;02/10/2010;       Despesas com pessoal;R$ 225,20;Cheque; -  -  / 23777 - ALEXANDRE TADEU VIEIRA GARCIA - DF - Deputado Distrital;
+ORCA VEÍCULOS LTDA;00.549.675/0002-75;25/09/2010;       Combustíveis e lubrificantes;R$ 135,00;Cheque; -  -  / 23777 - ALEXANDRE TADEU VIEIRA GARCIA - DF - Deputado Distrital;
+POSTO BRASAL LTDA;00.097.626/0002-49;29/09/2010;       Combustíveis e lubrificantes;R$ 111,15;Cheque; -  -  / 23777 - ALEXANDRE TADEU VIEIRA GARCIA - DF - Deputado Distrital;
+POSTO DE PETRÓLEO SAMAMBAIA LTDA;04.429.562/0001-06;02/10/2010;       Combustíveis e lubrificantes;R$ 90,25;Cheque; -  -  / 23777 - ALEXANDRE TADEU VIEIRA GARCIA - DF - Deputado Distrital;
+WM COMUNICAÇÃO VISUAL LTDA ME;05.055.276/0001-90;28/09/2010;       Publicidade por materiais impressos;R$ 1.033,00;Cheque; -  -  / 23777 - ALEXANDRE TADEU VIEIRA GARCIA - DF - Deputado Distrital;

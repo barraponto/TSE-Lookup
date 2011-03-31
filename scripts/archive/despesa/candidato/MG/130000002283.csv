@@ -1,6 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÕES 2010 WELITON PRADO;12.191.330/0001-90;30/08/2010;13000685366;R$ 72,50;Estimado;RODINEI FERREIRA DIAS;13900;Deputado Estadual;PT;MG;
-FABIO DE OLIVEIRA;394.887.131-00;24/09/2010;13000685364;R$ 24.000,00;Transferência eletrônica;RODINEI FERREIRA DIAS;13900;Deputado Estadual;PT;MG;
-LOBO LEITE SOCIEDADE DE ADVOGADOS;12.205.318/0001-98;29/09/2010;13000685365;R$ 2.000,00;Estimado;RODINEI FERREIRA DIAS;13900;Deputado Estadual;PT;MG;
-RODINEI FERREIRA DIAS;031.668.266-70;05/08/2010;13000685363;R$ 4.000,00;Depósito em espécie;RODINEI FERREIRA DIAS;13900;Deputado Estadual;PT;MG;
-WALTECIR GONÇALVES XAVIER;900.131.406-63;02/08/2010;13000685361;R$ 2.500,00;Depósito em espécie;RODINEI FERREIRA DIAS;13900;Deputado Estadual;PT;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BOA ESPERANÇA PETROLEO LTDA;21.648.654/0001-04;26/08/2010;       Combustíveis e lubrificantes;R$ 309,00;Cheque; -  -  / 13900 - RODINEI FERREIRA DIAS - MG - Deputado Estadual;
+ELEIÇÕES 2010 WELITON PRADO;12.191.330/0001-90;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 72,50;Estimado;1391 -  - PT -  - Deputado Federal / 13900 - RODINEI FERREIRA DIAS - MG - Deputado Estadual;
+GRAFICA E EDITORA EXPRESSA LTDA;64.428.337/0001-87;30/07/2010;       Publicidade por materiais impressos;R$ 5.062,00;Cheque; -  -  / 13900 - RODINEI FERREIRA DIAS - MG - Deputado Estadual;
+LOBO LEITE SOCIEDADE DE ADVOGADOS;12.205.318/0001-98;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado; -  -  / 13900 - RODINEI FERREIRA DIAS - MG - Deputado Estadual;
+NELSON FERNANDES ABREU;463.728.656-53;02/08/2010;       Cessão ou Locação de Veículos;R$ 1.100,00;Cheque; -  -  / 13900 - RODINEI FERREIRA DIAS - MG - Deputado Estadual;
+TIMES COMUNICAÇÕES E SERVIÇOS LTDA;02.488.758/0001-46;24/09/2010;       Publicidade por materiais impressos;R$ 24.000,00;Cheque; -  -  / 13900 - RODINEI FERREIRA DIAS - MG - Deputado Estadual;
+;;05/08/2010;       Encargos financeiros e taxas bancárias;R$ 5,56;Débito em conta; -  -  / 13900 - RODINEI FERREIRA DIAS - MG - Deputado Estadual;
+;;06/08/2010;       Encargos financeiros e taxas bancárias;R$ 5,56;Débito em conta; -  -  / 13900 - RODINEI FERREIRA DIAS - MG - Deputado Estadual;
+;;27/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,03;Débito em conta; -  -  / 13900 - RODINEI FERREIRA DIAS - MG - Deputado Estadual;
+;;05/08/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 13900 - RODINEI FERREIRA DIAS - MG - Deputado Estadual;
+;;05/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 13900 - RODINEI FERREIRA DIAS - MG - Deputado Estadual;

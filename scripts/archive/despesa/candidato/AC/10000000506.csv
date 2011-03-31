@@ -1,3 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Senador da República;12.205.296/0001-66;02/09/2010;36000086201;R$ 2.000,00;Cheque;RAIMUNDO NONATO BEZERRA DE SOUZA;36153;Deputado Estadual;PTC;AC;
-Diretório Estadual/Distrital;34.696.559/0001-10;30/09/2010;36000086200;R$ 2.000,00;Cheque;RAIMUNDO NONATO BEZERRA DE SOUZA;36153;Deputado Estadual;PTC;AC;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO BUJARI;03.921.852/0001-00;30/09/2010;       Combustíveis e lubrificantes;R$ 200,00;Cheque; -  -  / 36153 - RAIMUNDO NONATO BEZERRA DE SOUZA - AC - Deputado Estadual;
+AUTO POSTO JUNIOR LTDA;63.605.703/0001-63;01/10/2010;       Combustíveis e lubrificantes;R$ 1.000,00;Cheque; -  -  / 36153 - RAIMUNDO NONATO BEZERRA DE SOUZA - AC - Deputado Estadual;
+AUTO POSTO RD II;07.830.636/0001-00;20/09/2010;       Combustíveis e lubrificantes;R$ 200,00;Cheque; -  -  / 36153 - RAIMUNDO NONATO BEZERRA DE SOUZA - AC - Deputado Estadual;
+AUTO POSTO RD II;07.830.636/0001-00;23/09/2010;       Combustíveis e lubrificantes;R$ 500,00;Cheque; -  -  / 36153 - RAIMUNDO NONATO BEZERRA DE SOUZA - AC - Deputado Estadual;
+AUTO POSTO VITÓRIA;04.112.793/0001-91;02/10/2010;       Combustíveis e lubrificantes;R$ 176,40;Cheque; -  -  / 36153 - RAIMUNDO NONATO BEZERRA DE SOUZA - AC - Deputado Estadual;
+GILMAR PISMEL ALMEIDA;390.907.792-72;23/09/2010;       Despesas com pessoal;R$ 50,00;Cheque; -  -  / 36153 - RAIMUNDO NONATO BEZERRA DE SOUZA - AC - Deputado Estadual;
+JOSÉ ALBERTO DA SILVA;078.929.852-04;15/10/2010;       Cessão ou Locação de Veículos;R$ 823,60;Cheque; -  -  / 36153 - RAIMUNDO NONATO BEZERRA DE SOUZA - AC - Deputado Estadual;
+JOSÉ JESSÉ DE SOUZA JERÔNIMO;717.866.352-91;22/09/2010;       Cessão ou Locação de Veículos;R$ 250,00;Cheque; -  -  / 36153 - RAIMUNDO NONATO BEZERRA DE SOUZA - AC - Deputado Estadual;
+RAIMUNDO NONATO DE OLIVEIRA;434.063.782-34;22/09/2010;       Cessão ou Locação de Veículos;R$ 700,00;Cheque; -  -  / 36153 - RAIMUNDO NONATO BEZERRA DE SOUZA - AC - Deputado Estadual;
+ROMULO OLIVEIRA;512.933.902-91;27/09/2010;       Diversas a especificar;R$ 100,00;Cheque; -  -  / 36153 - RAIMUNDO NONATO BEZERRA DE SOUZA - AC - Deputado Estadual;

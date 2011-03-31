@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
-;;03/11/2010;;R$ 37,96;Não informado;Comitê Financeiro Distrital/Estadual para Deputado Federal;PSC;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+;;03/11/2010;       Encargos financeiros e taxas bancárias;R$ 20,00;Débito em conta; -  -  / Comitê Financeiro Distrital/Estadual para Deputado Federal - PSC - AM;

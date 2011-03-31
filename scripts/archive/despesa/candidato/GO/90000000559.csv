@@ -1,6 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-HELENICE SCHIAVON LISITA;084.985.848-84;22/09/2010;40002466880;R$ 100,00;Transferência eletrônica;SERGIO LUIZ RIBEIRO MACEDO;40100;Deputado Estadual;PSB;GO;
-SÉRGIO LUIZ RIBEIRO MACEDO;434.133.071-34;20/09/2010;40002466878;R$ 10,50;Transferência eletrônica;SERGIO LUIZ RIBEIRO MACEDO;40100;Deputado Estadual;PSB;GO;
-SÉRGIO LUIZ RIBEIRO MACEDO;434.133.071-34;19/09/2010;40002466877;R$ 490,00;Transferência eletrônica;SERGIO LUIZ RIBEIRO MACEDO;40100;Deputado Estadual;PSB;GO;
-VANDERLAN VIEIRA CARDOSO;12.198.568/0001-48;11/08/2010;40002466876;R$ 1.000,00;Estimado;SERGIO LUIZ RIBEIRO MACEDO;40100;Deputado Estadual;PSB;GO;
-WELITON DE ARAUJO BRITO;491.605.161-00;28/09/2010;40002466881;R$ 499,50;Estimado;SERGIO LUIZ RIBEIRO MACEDO;40100;Deputado Estadual;PSB;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO PUCCI LTDA;01.423.867/0001-12;02/10/2010;       Combustíveis e lubrificantes;R$ 99,40;Cheque; -  -  / 40100 - SERGIO LUIZ RIBEIRO MACEDO - GO - Deputado Estadual;
+GRÁFICA E EDITORA HEBRON LTDA;01.832.372/0001-47;28/08/2010;       Publicidade por materiais impressos;R$ 490,00;Cheque; -  -  / 40100 - SERGIO LUIZ RIBEIRO MACEDO - GO - Deputado Estadual;
+VANDERLAN VIEIRA CARDOSO;12.198.568/0001-48;11/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;22 -  - PR -  - Governador / 40100 - SERGIO LUIZ RIBEIRO MACEDO - GO - Deputado Estadual;
+WELITON DE ARAUJO BRITO;491.605.161-00;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 499,50;Estimado; -  -  / 40100 - SERGIO LUIZ RIBEIRO MACEDO - GO - Deputado Estadual;
+;;20/09/2010;       Encargos financeiros e taxas bancárias;R$ 10,50;Débito em conta; -  -  / 40100 - SERGIO LUIZ RIBEIRO MACEDO - GO - Deputado Estadual;
+;;28/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,60;Débito em conta; -  -  / 40100 - SERGIO LUIZ RIBEIRO MACEDO - GO - Deputado Estadual;

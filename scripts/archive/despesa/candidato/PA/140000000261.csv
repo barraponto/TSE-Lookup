@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MARIA BEATRIZ MOTA FERREIRA;166.014.242-34;16/07/2010;40002343722;R$ 25,00;Estimado;MARIA BEATRIZ MOTA FERREIRA;40200;Deputado Estadual;PSB;PA;
-MARIA BEATRIZ MOTA FERREIRA;166.014.242-34;16/07/2010;40002343721;R$ 250,00;Estimado;MARIA BEATRIZ MOTA FERREIRA;40200;Deputado Estadual;PSB;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+MARIA BEATRIZ MOTA FERREIRA;166.014.242-34;16/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado; -  -  / 40200 - MARIA BEATRIZ MOTA FERREIRA - PA - Deputado Estadual;
+MARIA BEATRIZ MOTA FERREIRA;166.014.242-34;16/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 25,00;Estimado; -  -  / 40200 - MARIA BEATRIZ MOTA FERREIRA - PA - Deputado Estadual;

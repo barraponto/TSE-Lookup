@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Deputado Distrital;12.270.065/0001-36;06/09/2010;27000045734;R$ 360,00;Estimado;MATILDES AFONSO DOS SANTOS;27123;Deputado Distrital;PSDC;DF;
-Comitê Financeiro Estadual/Distrital para Deputado Distrital;12.270.065/0001-36;23/08/2010;27000045733;R$ 360,00;Estimado;MATILDES AFONSO DOS SANTOS;27123;Deputado Distrital;PSDC;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Deputado Distrital;12.270.065/0001-36;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Distrital - PSDC -  / 27123 - MATILDES AFONSO DOS SANTOS - DF - Deputado Distrital;
+Comitê Financeiro Estadual/Distrital para Deputado Distrital;12.270.065/0001-36;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Distrital - PSDC -  / 27123 - MATILDES AFONSO DOS SANTOS - DF - Deputado Distrital;

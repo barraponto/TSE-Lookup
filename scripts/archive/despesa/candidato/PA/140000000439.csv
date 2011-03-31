@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.229.905/0001-17;30/09/2010;25000607101;R$ 500,00;Estimado;JOSE ROBERTO DA SILVA MACHADO;25555;Deputado Estadual;DEM;PA;
-Comitê Financeiro Único;12.229.905/0001-17;30/09/2010;25000607102;R$ 1.000,00;Estimado;JOSE ROBERTO DA SILVA MACHADO;25555;Deputado Estadual;DEM;PA;
-ELEIÇÃO 2010 ANDRE TEIXEIRA DIAS DEPUTADO FEDERAL;12.170.538/0001-23;24/09/2010;25000607103;R$ 75,00;Estimado;JOSE ROBERTO DA SILVA MACHADO;25555;Deputado Estadual;DEM;PA;
-RM GRAPH LTDA.;03.547.690/0001-91;22/09/2010;25000607104;R$ 2.250,00;Estimado;JOSE ROBERTO DA SILVA MACHADO;25555;Deputado Estadual;DEM;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.229.905/0001-17;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;Comitê Financeiro Único - PSDB -  / 25555 - JOSE ROBERTO DA SILVA MACHADO - PA - Deputado Estadual;
+Comitê Financeiro Único;12.229.905/0001-17;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;Comitê Financeiro Único - PSDB -  / 25555 - JOSE ROBERTO DA SILVA MACHADO - PA - Deputado Estadual;
+ELEIÇÃO 2010 ANDRE TEIXEIRA DIAS DEPUTADO FEDERAL;12.170.538/0001-23;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 75,00;Estimado;4500 -  - PSDB -  - Deputado Federal / 25555 - JOSE ROBERTO DA SILVA MACHADO - PA - Deputado Estadual;
+RM GRAPH LTDA.;03.547.690/0001-91;22/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.250,00;Estimado; -  -  / 25555 - JOSE ROBERTO DA SILVA MACHADO - PA - Deputado Estadual;

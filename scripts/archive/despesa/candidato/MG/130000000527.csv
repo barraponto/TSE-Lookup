@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.147.821/0001-34;19/08/2010;17000019852;R$ 1.197,84;Estimado;EDUARDO RIBEIRO FERREIRA;17369;Deputado Estadual;PSL;MG;
-Comitê Financeiro Único;12.147.821/0001-34;22/09/2010;17000019853;R$ 45,00;Estimado;EDUARDO RIBEIRO FERREIRA;17369;Deputado Estadual;PSL;MG;
-Comitê Financeiro Único;12.147.821/0001-34;19/08/2010;17000019851;R$ 508,00;Estimado;EDUARDO RIBEIRO FERREIRA;17369;Deputado Estadual;PSL;MG;
-MARCIA BEATRIZ BRAGA;505.190.936-15;26/08/2010;17000019854;R$ 215,00;Depósito em espécie;EDUARDO RIBEIRO FERREIRA;17369;Deputado Estadual;PSL;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.147.821/0001-34;19/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.197,84;Estimado;Comitê Financeiro Único - PSL -  / 17369 - EDUARDO RIBEIRO FERREIRA - MG - Deputado Estadual;
+Comitê Financeiro Único;12.147.821/0001-34;22/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 45,00;Estimado;Comitê Financeiro Único - PSL -  / 17369 - EDUARDO RIBEIRO FERREIRA - MG - Deputado Estadual;
+Comitê Financeiro Único;12.147.821/0001-34;19/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 508,00;Estimado;Comitê Financeiro Único - PSL -  / 17369 - EDUARDO RIBEIRO FERREIRA - MG - Deputado Estadual;
+GRAFICA E EDITORA 1ª PÁGINA;08.226.621/0001-08;05/10/2010;       Publicidade por materiais impressos;R$ 207,50;Transferência eletrônica; -  -  / 17369 - EDUARDO RIBEIRO FERREIRA - MG - Deputado Estadual;
+;;01/10/2010;       Encargos financeiros e taxas bancárias;R$ 7,50;Débito em conta; -  -  / 17369 - EDUARDO RIBEIRO FERREIRA - MG - Deputado Estadual;

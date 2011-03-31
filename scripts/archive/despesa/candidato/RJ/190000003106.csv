@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.200.167/0001-85;10/09/2010;10000027102;R$ 230,00;Estimado;JANAINA JANE FERNANDES PAIVA;10333;Deputado Estadual;PRB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.200.167/0001-85;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 230,00;Estimado;Direção Estadual/Distrital - PRB -  / 10333 - JANAINA JANE FERNANDES PAIVA - RJ - Deputado Estadual;

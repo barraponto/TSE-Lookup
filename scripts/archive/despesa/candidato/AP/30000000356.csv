@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.241.703/0001-90;08/08/2010;11000172982;R$ 400,00;Estimado;ADRIANA DO SOCORRO BRITO DE SOUZA;11611;Deputado Estadual;PP;AP;
-Comitê Financeiro Único;12.241.703/0001-90;27/08/2010;11000172984;R$ 1.100,00;Estimado;ADRIANA DO SOCORRO BRITO DE SOUZA;11611;Deputado Estadual;PP;AP;
-Comitê Financeiro Único;12.421.703/0001-90;28/09/2010;11000172986;R$ 625,00;Estimado;ADRIANA DO SOCORRO BRITO DE SOUZA;11611;Deputado Estadual;PP;AP;
-Comitê Financeiro Único;12.241.703/0001-90;28/09/2010;11000172987;R$ 577,00;Estimado;ADRIANA DO SOCORRO BRITO DE SOUZA;11611;Deputado Estadual;PP;AP;
-Comitê Financeiro Único;12.241.703/0001-90;01/10/2010;11000172989;R$ 550,00;Estimado;ADRIANA DO SOCORRO BRITO DE SOUZA;11611;Deputado Estadual;PP;AP;
-Comitê Financeiro Único;12.256.162/0001-74;27/08/2010;11000172985;R$ 240,00;Estimado;ADRIANA DO SOCORRO BRITO DE SOUZA;11611;Deputado Estadual;PP;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.241.703/0001-90;08/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado;Comitê Financeiro Único - PP -  / 11611 - ADRIANA DO SOCORRO BRITO DE SOUZA - AP - Deputado Estadual;
+Comitê Financeiro Único;12.256.162/0001-74;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 240,00;Estimado;Comitê Financeiro Único - PDT -  / 11611 - ADRIANA DO SOCORRO BRITO DE SOUZA - AP - Deputado Estadual;
+Comitê Financeiro Único;12.421.703/0001-90;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 625,00;Estimado; - PP -  / 11611 - ADRIANA DO SOCORRO BRITO DE SOUZA - AP - Deputado Estadual;
+Comitê Financeiro Único;12.241.703/0001-90;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 550,00;Estimado;Comitê Financeiro Único - PP -  / 11611 - ADRIANA DO SOCORRO BRITO DE SOUZA - AP - Deputado Estadual;
+Comitê Financeiro Único;12.241.703/0001-90;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.100,00;Estimado;Comitê Financeiro Único - PP -  / 11611 - ADRIANA DO SOCORRO BRITO DE SOUZA - AP - Deputado Estadual;
+Comitê Financeiro Único;12.241.703/0001-90;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 577,00;Estimado;Comitê Financeiro Único - PP -  / 11611 - ADRIANA DO SOCORRO BRITO DE SOUZA - AP - Deputado Estadual;

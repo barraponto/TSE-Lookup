@@ -1,2 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MAURICIO RAMOS DOS SANTOS JUNIOR;948.680.692-68;17/08/2010;14000211751;R$ 5.000,00;Depósito em espécie;MAURICIO RAMOS DOS SANTOS JUNIOR;14567;Deputado Estadual;PTB;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+MAURICIO RAMOS DOS SANTOS JUNIOR;948.680.692-68;18/08/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 14567 - MAURICIO RAMOS DOS SANTOS JUNIOR - PA - Deputado Estadual;
+MAURICIO RAMOS DOS SANTOS JUNIOR;948.680.692-68;30/08/2010;       Publicidade por materiais impressos;R$ 997,00;Cheque; -  -  / 14567 - MAURICIO RAMOS DOS SANTOS JUNIOR - PA - Deputado Estadual;
+MAURICIO RAMOS DOS SANTOS JUNIOR;948.680.692-68;24/08/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 14567 - MAURICIO RAMOS DOS SANTOS JUNIOR - PA - Deputado Estadual;
+MAURICIO RAMOS DOS SANTOS JUNIOR;948.680.692-68;20/08/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 14567 - MAURICIO RAMOS DOS SANTOS JUNIOR - PA - Deputado Estadual;
+MAURICIO RAMOS DOS SANTOS JUNIOR;948.680.692-68;27/08/2010;       Publicidade por materiais impressos;R$ 988,00;Cheque; -  -  / 14567 - MAURICIO RAMOS DOS SANTOS JUNIOR - PA - Deputado Estadual;
+;;27/08/2010;       Encargos financeiros e taxas bancárias;R$ 3,00;Débito em conta; -  -  / 14567 - MAURICIO RAMOS DOS SANTOS JUNIOR - PA - Deputado Estadual;
+;;18/08/2010;       Encargos financeiros e taxas bancárias;R$ 3,00;Débito em conta; -  -  / 14567 - MAURICIO RAMOS DOS SANTOS JUNIOR - PA - Deputado Estadual;
+;;20/08/2010;       Encargos financeiros e taxas bancárias;R$ 3,00;Débito em conta; -  -  / 14567 - MAURICIO RAMOS DOS SANTOS JUNIOR - PA - Deputado Estadual;
+;;30/08/2010;       Encargos financeiros e taxas bancárias;R$ 3,00;Débito em conta; -  -  / 14567 - MAURICIO RAMOS DOS SANTOS JUNIOR - PA - Deputado Estadual;
+;;24/08/2010;       Encargos financeiros e taxas bancárias;R$ 3,00;Débito em conta; -  -  / 14567 - MAURICIO RAMOS DOS SANTOS JUNIOR - PA - Deputado Estadual;

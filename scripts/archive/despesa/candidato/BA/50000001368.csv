@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JONATAS THIAGO DE SOUZA;008.404.735-67;17/11/2010;50000085741;R$ 9,70;Depósito em espécie;JONATAS THIAGO DE SOUZA;5055;Deputado Federal;PSOL;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+;;17/11/2010;       Encargos financeiros e taxas bancárias;R$ 9,70;Débito em conta; -  -  / 5055 - JONATAS THIAGO DE SOUZA - BA - Deputado Federal;

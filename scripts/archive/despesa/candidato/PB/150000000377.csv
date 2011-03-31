@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEICAO JOSE TARGINO MARANHÃO;12.189.345/0001-14;06/09/2010;20000520503;R$ 150,00;Estimado;ARLINDO BARRETO DE MOURA;20100;Deputado Estadual;PSC;PB;
-ELEIÇÃO 2010 JEOVA VIEIRA CAMPOS;12.241.652/0001-05;30/08/2010;20000520506;R$ 125,00;Estimado;ARLINDO BARRETO DE MOURA;20100;Deputado Estadual;PSC;PB;
-ELEIÇÃO 2010 JEOVA VIEIRA CAMPOS;12.241.652/0001-05;30/08/2010;20000520505;R$ 200,00;Estimado;ARLINDO BARRETO DE MOURA;20100;Deputado Estadual;PSC;PB;
-ELEICAO 2010 JOSE TARGINO MARANHAO;12.189.345/0001-14;03/09/2010;20000520502;R$ 523,56;Estimado;ARLINDO BARRETO DE MOURA;20100;Deputado Estadual;PSC;PB;
-ELEICAO 2010 MANOEL ALVES DA SILVA JUNIOR;12.190.627/0001-31;06/09/2010;20000520501;R$ 375,00;Estimado;ARLINDO BARRETO DE MOURA;20100;Deputado Estadual;PSC;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEICAO JOSE TARGINO MARANHÃO;12.189.345/0001-14;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;15 -  - PMDB -  - Governador / 20100 - ARLINDO BARRETO DE MOURA - PB - Deputado Estadual;
+ELEIÇÃO 2010 JEOVA VIEIRA CAMPOS;12.241.652/0001-05;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;1380 -  - PT -  - Deputado Federal / 20100 - ARLINDO BARRETO DE MOURA - PB - Deputado Estadual;
+ELEIÇÃO 2010 JEOVA VIEIRA CAMPOS;12.241.652/0001-05;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 125,00;Estimado;1380 -  - PT -  - Deputado Federal / 20100 - ARLINDO BARRETO DE MOURA - PB - Deputado Estadual;
+ELEICAO 2010 JOSE TARGINO MARANHAO;12.189.345/0001-14;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 523,56;Estimado;15 -  - PMDB -  - Governador / 20100 - ARLINDO BARRETO DE MOURA - PB - Deputado Estadual;
+ELEICAO 2010 MANOEL ALVES DA SILVA JUNIOR;12.190.627/0001-31;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 375,00;Estimado;1515 -  - PMDB -  - Deputado Federal / 20100 - ARLINDO BARRETO DE MOURA - PB - Deputado Estadual;

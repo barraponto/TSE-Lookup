@@ -1,5 +1,13 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-EDITORA E ARTES GRAFICAS CONTUDO LTDA;06.067.456/0001-55;01/10/2010;50000233303;R$ 1.950,00;Estimado;SERGIO APARECIDO CRUZ CARVALHO;50020;Deputado Estadual;PSOL;MG;
-ELEIÇÃO 2010 SERGIO APARECIDO CRUZ CARVALHO DEPUTADO ESTADUAL;394.707.926-53;12/08/2010;50000233301;R$ 1.000,00;Cheque;SERGIO APARECIDO CRUZ CARVALHO;50020;Deputado Estadual;PSOL;MG;
-FRANCISCO ARANTES VIEIRA;725.380.586-00;01/10/2010;50000233304;R$ 750,00;Estimado;SERGIO APARECIDO CRUZ CARVALHO;50020;Deputado Estadual;PSOL;MG;
-JORNAL MIDIA BREJO ALEGRE LTDA. (JORNAL BOTIJA PARDA);08.663.367/0001-05;01/10/2010;50000233302;R$ 2.100,00;Estimado;SERGIO APARECIDO CRUZ CARVALHO;50020;Deputado Estadual;PSOL;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALFA PRINT SING E PRESONALIZAÇÕES LTDA;09.059.131/0001-19;17/09/2010;       Publicidade por materiais impressos;R$ 50,00;Cheque; -  -  / 50020 - SERGIO APARECIDO CRUZ CARVALHO - MG - Deputado Estadual;
+ALFA PRINT SING E PRESONALIZAÇÕES LTDA;09.059.131/0001-19;20/08/2010;       Publicidade por materiais impressos;R$ 150,00;Cheque; -  -  / 50020 - SERGIO APARECIDO CRUZ CARVALHO - MG - Deputado Estadual;
+ARTES GRÁFICAS NICODEMIO E GALVÃO LTDA.;02.041.203/0001-51;02/09/2010;       Publicidade por materiais impressos;R$ 90,00;Cheque; -  -  / 50020 - SERGIO APARECIDO CRUZ CARVALHO - MG - Deputado Estadual;
+EDITORA E ARTES GRAFICAS CONTUDO LTDA;06.067.456/0001-55;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.950,00;Estimado; -  -  / 50020 - SERGIO APARECIDO CRUZ CARVALHO - MG - Deputado Estadual;
+EDITORA GRÁFICA MOTA LTDA.;02.893.308/0001-39;15/09/2010;       Publicidade por materiais impressos;R$ 100,00;Cheque; -  -  / 50020 - SERGIO APARECIDO CRUZ CARVALHO - MG - Deputado Estadual;
+FRANCISCO ARANTES VIEIRA;725.380.586-00;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 750,00;Estimado; -  -  / 50020 - SERGIO APARECIDO CRUZ CARVALHO - MG - Deputado Estadual;
+JORNAL MIDIA BREJO ALEGRE LTDA. (JORNAL BOTIJA PARDA);08.663.367/0001-05;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.100,00;Estimado; -  -  / 50020 - SERGIO APARECIDO CRUZ CARVALHO - MG - Deputado Estadual;
+JOSE EURIPEDES PEREIRA;497.675.506-15;29/08/2010;       Publicidade por materiais impressos;R$ 130,00;Cheque; -  -  / 50020 - SERGIO APARECIDO CRUZ CARVALHO - MG - Deputado Estadual;
+MARCELINO ABADIO LOBATO;847.402.216-91;04/10/2010;       Serviços prestados por terceiros;R$ 96,43;Cheque; -  -  / 50020 - SERGIO APARECIDO CRUZ CARVALHO - MG - Deputado Estadual;
+MARRA ARTES GRÁFICAS LTDA ME;07.339.921/0001-22;16/08/2010;       Publicidade por materiais impressos;R$ 240,00;Cheque; -  -  / 50020 - SERGIO APARECIDO CRUZ CARVALHO - MG - Deputado Estadual;
+POSTO MANIA LTDA;10.258.988/0001-47;30/09/2010;       Combustíveis e lubrificantes;R$ 72,57;Cheque; -  -  / 50020 - SERGIO APARECIDO CRUZ CARVALHO - MG - Deputado Estadual;
+POSTO MANIA LTDA;10.258.988/0001-47;17/09/2010;       Combustíveis e lubrificantes;R$ 71,00;Cheque; -  -  / 50020 - SERGIO APARECIDO CRUZ CARVALHO - MG - Deputado Estadual;

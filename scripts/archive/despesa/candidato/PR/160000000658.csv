@@ -1,6 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;21/09/2010;31000052035;R$ 500,00;Estimado;DANIEL DE LIMA;3122;Deputado Federal;PHS;PR;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;10/09/2010;31000052016;R$ 630,00;Estimado;DANIEL DE LIMA;3122;Deputado Federal;PHS;PR;
-DANIEL DE LIMA;844.470.529-20;17/08/2010;31000052029;R$ 300,00;Depósito em espécie;DANIEL DE LIMA;3122;Deputado Federal;PHS;PR;
-DANIEL DE LIMA;844.470.529-20;30/09/2010;31000051903;R$ 50,00;Estimado;DANIEL DE LIMA;3122;Deputado Federal;PHS;PR;
-PLAUTO MIRO GUIMARAES FILHO;496.248.309-91;16/08/2010;31000051902;R$ 700,00;Estimado;DANIEL DE LIMA;3122;Deputado Federal;PHS;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO CESAR VIEIRA;699.422.859-20;17/08/2010;       Publicidade por materiais impressos;R$ 190,50;Cheque; -  -  / 3122 - DANIEL DE LIMA - PR - Deputado Federal;
+AUTO POSTO TREVINHO LTDA;73.969.032/0001-73;27/08/2010;       Combustíveis e lubrificantes;R$ 109,50;Cheque; -  -  / 3122 - DANIEL DE LIMA - PR - Deputado Federal;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 630,00;Estimado;45 -  - PSDB -  - Governador / 3122 - DANIEL DE LIMA - PR - Deputado Federal;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;45 -  - PSDB -  - Governador / 3122 - DANIEL DE LIMA - PR - Deputado Federal;
+DANIEL DE LIMA;844.470.529-20;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 50,00;Estimado; -  -  / 3122 - DANIEL DE LIMA - PR - Deputado Federal;
+PLAUTO MIRO GUIMARAES FILHO;496.248.309-91;16/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 700,00;Estimado; -  -  / 3122 - DANIEL DE LIMA - PR - Deputado Federal;

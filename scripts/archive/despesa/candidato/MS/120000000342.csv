@@ -1,5 +1,13 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.221.858/0001-65;18/08/2010;27000045914;R$ 627,00;Estimado;JOSEFA MARIA DA ROSA CASTILHA;27345;Deputado Estadual;PSDC;MS;
-Comitê Financeiro Único;12.221.858/0001-65;28/08/2010;27000045913;R$ 75,00;Estimado;JOSEFA MARIA DA ROSA CASTILHA;27345;Deputado Estadual;PSDC;MS;
-Comitê Financeiro Único;12.221.858/0001-65;28/08/2010;27000045912;R$ 840,01;Estimado;JOSEFA MARIA DA ROSA CASTILHA;27345;Deputado Estadual;PSDC;MS;
-ELEIÇÕES2010 ELIZEU AMARILHA MATTOS;12.198.435/0001-71;28/09/2010;27000045911;R$ 5.000,00;Depósito em espécie;JOSEFA MARIA DA ROSA CASTILHA;27345;Deputado Estadual;PSDC;MS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANDREIA LESCANO;006.656.781-50;30/09/2010;       Despesas com pessoal;R$ 1.020,00;Cheque; -  -  / 27345 - JOSEFA MARIA DA ROSA CASTILHA - MS - Deputado Estadual;
+Comitê Financeiro Único;12.221.858/0001-65;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 627,00;Estimado;Comitê Financeiro Único - PSDC -  / 27345 - JOSEFA MARIA DA ROSA CASTILHA - MS - Deputado Estadual;
+Comitê Financeiro Único;12.221.858/0001-65;28/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 75,00;Estimado;Comitê Financeiro Único - PSDC -  / 27345 - JOSEFA MARIA DA ROSA CASTILHA - MS - Deputado Estadual;
+Comitê Financeiro Único;12.221.858/0001-65;28/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 840,01;Estimado;Comitê Financeiro Único - PSDC -  / 27345 - JOSEFA MARIA DA ROSA CASTILHA - MS - Deputado Estadual;
+EDINA FERREIRA DA SILVA;338.969.331-91;01/10/2010;       Despesas com pessoal;R$ 510,00;Cheque; -  -  / 27345 - JOSEFA MARIA DA ROSA CASTILHA - MS - Deputado Estadual;
+GRAFICA SIRIEMA LTDA ME;15.405.202/0001-90;30/07/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 27345 - JOSEFA MARIA DA ROSA CASTILHA - MS - Deputado Estadual;
+JANI MARY VACONCELOS;882.734.581-72;02/10/2010;       Despesas com pessoal;R$ 1.100,00;Cheque; -  -  / 27345 - JOSEFA MARIA DA ROSA CASTILHA - MS - Deputado Estadual;
+JESSICA DAINE ROCHA DE ALMEIDA;024.795.001-79;01/10/2010;       Despesas com pessoal;R$ 300,00;Cheque; -  -  / 27345 - JOSEFA MARIA DA ROSA CASTILHA - MS - Deputado Estadual;
+JOSE ANTONIO DA CRUZ FILHO;199.691.639-49;02/10/2010;       Despesas com pessoal;R$ 510,00;Cheque; -  -  / 27345 - JOSEFA MARIA DA ROSA CASTILHA - MS - Deputado Estadual;
+MARINA BENEDITA DA SILVA;028.477.871-00;30/09/2010;       Despesas com pessoal;R$ 450,00;Cheque; -  -  / 27345 - JOSEFA MARIA DA ROSA CASTILHA - MS - Deputado Estadual;
+MIGUEL PORTO DOS SANTOS;105.945.401-78;02/10/2010;       Despesas com pessoal;R$ 300,00;Cheque; -  -  / 27345 - JOSEFA MARIA DA ROSA CASTILHA - MS - Deputado Estadual;
+VILMAR HEITOR DE PAULA;203.410.751-91;01/10/2010;       Despesas com pessoal;R$ 510,00;Cheque; -  -  / 27345 - JOSEFA MARIA DA ROSA CASTILHA - MS - Deputado Estadual;

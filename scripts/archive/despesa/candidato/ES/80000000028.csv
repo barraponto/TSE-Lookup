@@ -1,4 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSE MARCOS DE MORAES;068.817.017-05;29/07/2010;20001200950;R$ 1.500,00;Depósito em espécie;JOSE MARCOS DE MORAES;20555;Deputado Estadual;PSC;ES;
-JOSE MARCOS DE MORAES;068.817.017-05;06/09/2010;20001200952;R$ 1.488,81;Depósito em espécie;JOSE MARCOS DE MORAES;20555;Deputado Estadual;PSC;ES;
-JOSE MARCOS DE MORAES;068.817.017-05;03/08/2010;20001200951;R$ 900,00;Depósito em espécie;JOSE MARCOS DE MORAES;20555;Deputado Estadual;PSC;ES;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO ANTONIO VENTURA LTDA;06.990.608/0001-97;24/08/2010;       Combustíveis e lubrificantes;R$ 363,81;Cheque; -  -  / 20555 - JOSE MARCOS DE MORAES - ES - Deputado Estadual;
+AUTO POSTO ANTONIO VENTURA LTDA;06.990.608/0001-97;03/08/2010;       Combustíveis e lubrificantes;R$ 171,18;Cheque; -  -  / 20555 - JOSE MARCOS DE MORAES - ES - Deputado Estadual;
+CZ RENT A CAR LTDA;03.644.683/0001-08;24/08/2010;       Cessão ou Locação de Veículos;R$ 1.125,00;Cheque; -  -  / 20555 - JOSE MARCOS DE MORAES - ES - Deputado Estadual;
+CZ RENT A CAR LTDA;03.644.683/0001-08;30/07/2010;       Cessão ou Locação de Veículos;R$ 495,00;Cheque; -  -  / 20555 - JOSE MARCOS DE MORAES - ES - Deputado Estadual;
+DENISE MARIANO DA SILVA;015.361.587-71;04/08/2010;       Serviços prestados por terceiros;R$ 333,82;Cheque; -  -  / 20555 - JOSE MARCOS DE MORAES - ES - Deputado Estadual;
+GRAFICA ESPIRITO SANTO LTDA;30.955.538/0001-10;30/07/2010;       Publicidade por materiais impressos;R$ 1.400,00;Cheque; -  -  / 20555 - JOSE MARCOS DE MORAES - ES - Deputado Estadual;

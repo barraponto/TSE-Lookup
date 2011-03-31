@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-WILSON LEITE PASSOS;303.668.877-34;23/09/2010;25000166351;R$ 30.000,00;Transferência eletrônica;WILSON LEITE PASSOS;2555;Deputado Federal;DEM;RJ;
-WILSON LEITE PASSOS;303.668.877-34;12/11/2010;25000166352;R$ 80.656,66;Depósito em espécie;WILSON LEITE PASSOS;2555;Deputado Federal;DEM;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+LOTUS DISTRIBUIDORA DE PROPAGANDA LTDA.;42.279.026/0001-60;04/10/2010;       Publicidade por jornais e revistas;R$ 98.390,00;Cheque; -  -  / 2555 - WILSON LEITE PASSOS - RJ - Deputado Federal;
+LOTUS DISTRIBUIDORA DE PROPAGANDA LTDA.;42.279.026/0001-60;04/10/2010;       Publicidade por jornais e revistas;R$ 12.260,00;Cheque; -  -  / 2555 - WILSON LEITE PASSOS - RJ - Deputado Federal;
+;;30/09/2010;       Encargos financeiros e taxas bancárias;R$ 6,66;Débito em conta; -  -  / 2555 - WILSON LEITE PASSOS - RJ - Deputado Federal;

@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.235.330/0001-45;18/08/2010;43001903923;R$ 272,00;Estimado;REMI FERREIRA DA SILVA;43222;Deputado Estadual;PV;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.235.330/0001-45;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 272,00;Estimado;Comitê Financeiro Único - PV -  / 43222 - REMI FERREIRA DA SILVA - AL - Deputado Estadual;

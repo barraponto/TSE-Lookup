@@ -1,5 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALESSANDRO FABRICIO CLEMENTE PAIVA;647.697.981-72;05/09/2010;;R$ 1.790,00;Depósito em espécie;ALESSANDRO FABRICIO CLEMENTE PAIVA;19789;Deputado Distrital;PTN;DF;
-ALESSANDRO FABRICIO CLEMENTE PAIVA;647.697.981-72;05/10/2010;;R$ 1.750,00;Depósito em espécie;ALESSANDRO FABRICIO CLEMENTE PAIVA;19789;Deputado Distrital;PTN;DF;
-ALESSANDRO FABRICIO CLEMENTE PAIVA;647.697.981-72;16/11/2010;;R$ 260,00;Transferência eletrônica;ALESSANDRO FABRICIO CLEMENTE PAIVA;19789;Deputado Distrital;PTN;DF;
-ALESSANDRO FABRICIO CLEMENTE PAIVA;647.697.981-72;30/07/2010;;R$ 1.510,00;Depósito em espécie;ALESSANDRO FABRICIO CLEMENTE PAIVA;19789;Deputado Distrital;PTN;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+SERILON BRASIL LTDA;04.143.008/0019-97;27/08/2010;       Água;R$ 240,00;Transferência eletrônica; -  -  / 19789 - ALESSANDRO FABRICIO CLEMENTE PAIVA - DF - Deputado Distrital;
+;;07/10/2010;       Encargos financeiros e taxas bancárias;R$ 20,00;Débito em conta; -  -  / 19789 - ALESSANDRO FABRICIO CLEMENTE PAIVA - DF - Deputado Distrital;

@@ -1,6 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LUDENDORF BRANDAO MOREIRA;075.090.653-72;02/08/2010;21000013616;R$ 230,00;Depósito em espécie;LUDENDORF BRANDÃO MOREIRA;21246;Deputado Estadual;PCB;MA;
-LUDENDORF BRANDAO MOREIRA;075.090.653-72;02/08/2010;21000013617;R$ 645,00;Depósito em espécie;LUDENDORF BRANDÃO MOREIRA;21246;Deputado Estadual;PCB;MA;
-LUDENDORF BRANDAO MOREIRA;075.090.653-72;13/09/2010;21000013618;R$ 510,00;Depósito em espécie;LUDENDORF BRANDÃO MOREIRA;21246;Deputado Estadual;PCB;MA;
-MARIA LUCIA ASSUNÇAO MOREIRA;006.630.593-48;15/10/2010;21000013619;R$ 600,00;Depósito em espécie;LUDENDORF BRANDÃO MOREIRA;21246;Deputado Estadual;PCB;MA;
-RAISA ASSUNCAO MOREIRA;053.385.913-16;19/10/2010;21000013620;R$ 30,00;Depósito em espécie;LUDENDORF BRANDÃO MOREIRA;21246;Deputado Estadual;PCB;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELIZABETE NUNES & CIA LTDA;10.858.164/0001-08;03/08/2010;       Publicidade por materiais impressos;R$ 860,00;Cheque; -  -  / 21246 - LUDENDORF BRANDÃO MOREIRA - MA - Deputado Estadual;
+ELIZABETE NUNES & CIA LTDA;10.858.164/0001-08;16/09/2010;       Publicidade por materiais impressos;R$ 220,00;Cheque; -  -  / 21246 - LUDENDORF BRANDÃO MOREIRA - MA - Deputado Estadual;
+HIPOCRATES MATOES BRANDAO;489.036.473-00;13/09/2010;       Materiais de expediente;R$ 40,00;Cheque; -  -  / 21246 - LUDENDORF BRANDÃO MOREIRA - MA - Deputado Estadual;
+HIPOCRATES MATOES BRANDAO;489.036.473-00;30/09/2010;       Materiais de expediente;R$ 15,00;Cheque; -  -  / 21246 - LUDENDORF BRANDÃO MOREIRA - MA - Deputado Estadual;
+IBRAHIM DUAILIBE & CIA LTDA;10.300.358/0001-93;15/09/2010;       Combustíveis e lubrificantes;R$ 630,00;Cheque; -  -  / 21246 - LUDENDORF BRANDÃO MOREIRA - MA - Deputado Estadual;
+RAIMUNDO NONATO CASTRO FILHO;696.394.503-91;27/09/2010;       Publicidade por placas, estandartes e faixas;R$ 50,00;Cheque; -  -  / 21246 - LUDENDORF BRANDÃO MOREIRA - MA - Deputado Estadual;
+RAIMUNDO NONATO CASTRO FILHO;696.394.503-91;20/09/2010;       Publicidade por placas, estandartes e faixas;R$ 50,00;Cheque; -  -  / 21246 - LUDENDORF BRANDÃO MOREIRA - MA - Deputado Estadual;
+RAIMUNDO RIBEIRO SILVA FILHO;706.061.613-68;27/09/2010;       Locação/cessão de bens móveis;R$ 150,00;Cheque; -  -  / 21246 - LUDENDORF BRANDÃO MOREIRA - MA - Deputado Estadual;

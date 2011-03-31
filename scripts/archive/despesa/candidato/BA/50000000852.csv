@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;28000292203;R$ 1.144,08;Estimado;GILBERTO ROMANO ROSA DE JESUS;28028;Deputado Estadual;PRTB;BA;
-Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;28000292202;R$ 49,35;Estimado;GILBERTO ROMANO ROSA DE JESUS;28028;Deputado Estadual;PRTB;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.144,08;Estimado;Comitê Financeiro Único - PMDB -  / 28028 - GILBERTO ROMANO ROSA DE JESUS - BA - Deputado Estadual;
+Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 49,35;Estimado;Comitê Financeiro Único - PMDB -  / 28028 - GILBERTO ROMANO ROSA DE JESUS - BA - Deputado Estadual;

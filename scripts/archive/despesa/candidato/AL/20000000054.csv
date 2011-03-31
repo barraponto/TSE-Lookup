@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOAO DEON ALVES PEREIRA;240.468.094-34;28/09/2010;50000010535;R$ 600,00;Depósito em espécie;ROGERIO CAFE PEIXOTO;50321;Deputado Estadual;PSOL;AL;
-ROGERIO CAFE PEIXOTO;025.971.384-88;16/08/2010;50000010532;R$ 1.150,00;Depósito em espécie;ROGERIO CAFE PEIXOTO;50321;Deputado Estadual;PSOL;AL;
-ROGERIO CAFE PEIXOTO;025.971.384-88;22/09/2010;50000010534;R$ 1.100,00;Transferência eletrônica;ROGERIO CAFE PEIXOTO;50321;Deputado Estadual;PSOL;AL;
-ROGERIO CAFE PEIXOTO;025.971.384-88;05/08/2010;50000010531;R$ 330,00;Depósito em espécie;ROGERIO CAFE PEIXOTO;50321;Deputado Estadual;PSOL;AL;
-ROGERIO CAFE PEIXOTO;025.971.384-88;01/09/2010;50000010533;R$ 1.100,00;Transferência eletrônica;ROGERIO CAFE PEIXOTO;50321;Deputado Estadual;PSOL;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+J P L ALBUQUERQUE & CIA LTDA -ME;08.388.629/0001-62;22/09/2010;       Publicidade por materiais impressos;R$ 1.100,00;Cheque; -  -  / 50321 - ROGERIO CAFE PEIXOTO - AL - Deputado Estadual;
+J P L ALBUQUERQUE & CIA LTDA -ME;08.388.629/0001-62;19/08/2010;       Publicidade por materiais impressos;R$ 1.150,00;Cheque; -  -  / 50321 - ROGERIO CAFE PEIXOTO - AL - Deputado Estadual;
+J P L ALBUQUERQUE & CIA LTDA -ME;08.388.629/0001-62;01/09/2010;       Publicidade por materiais impressos;R$ 1.100,00;Cheque; -  -  / 50321 - ROGERIO CAFE PEIXOTO - AL - Deputado Estadual;
+SIRLEIDE RODRIGUES DOS SANTOS ME;05.155.928/0001-69;22/09/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 50321 - ROGERIO CAFE PEIXOTO - AL - Deputado Estadual;
+XEROCARD;11.545.291/0001-10;31/08/2010;       Publicidade por materiais impressos;R$ 330,00;Cheque; -  -  / 50321 - ROGERIO CAFE PEIXOTO - AL - Deputado Estadual;

@@ -1,3 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LUIZ PAULO VELLOZO LUCAS;12.179.441/0001-81;01/10/2010;45000295781;R$ 2.600,00;Estimado;ARNALDO DE OLIVEIRA CASTOR FILHO;45444;Deputado Estadual;PSDB;ES;
-RITA DE CÁSSIA PASTE CAMATA;12.167.269/0001-46;24/09/2010;45000295780;R$ 20.000,00;Cheque;ARNALDO DE OLIVEIRA CASTOR FILHO;45444;Deputado Estadual;PSDB;ES;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA E EDITORA JEP;27.252.147/0001-25;30/09/2010;       Publicidade por materiais impressos;R$ 7.000,00;Cheque; -  -  / 45444 - ARNALDO DE OLIVEIRA CASTOR FILHO - ES - Deputado Estadual;
+GRAFITUSA SA;05.461.408/0001-84;27/09/2010;       Publicidade por materiais impressos;R$ 595,00;Cheque; -  -  / 45444 - ARNALDO DE OLIVEIRA CASTOR FILHO - ES - Deputado Estadual;
+JOSICLEIDE SILVA DE SOUZA;039.646.734-20;03/10/2010;       Despesas com pessoal;R$ 6.605,00;Cheque; -  -  / 45444 - ARNALDO DE OLIVEIRA CASTOR FILHO - ES - Deputado Estadual;
+LUIZ PAULO VELLOZO LUCAS;12.179.441/0001-81;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.600,00;Estimado;45 -  - PSDB -  - Governador / 45444 - ARNALDO DE OLIVEIRA CASTOR FILHO - ES - Deputado Estadual;
+OFICINA EDITORA LTDA;02.759.288/0001-08;30/09/2010;       Publicidade por placas, estandartes e faixas;R$ 5.800,00;Cheque; -  -  / 45444 - ARNALDO DE OLIVEIRA CASTOR FILHO - ES - Deputado Estadual;

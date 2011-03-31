@@ -1,4 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;01.770.770/0001-86;22/09/2010;31000003552;R$ 3.200,00;Cheque;JOSUE BARBOSA CAMPOS;31567;Deputado Distrital;PHS;DF;
-Diretório Estadual/Distrital;01.770.770/0001-86;01/10/2010;31000003553;R$ 3.000,00;Cheque;JOSUE BARBOSA CAMPOS;31567;Deputado Distrital;PHS;DF;
-JOSÉ OSCAR SILVA;12.169.711/0001-73;14/09/2010;31000003551;R$ 900,00;Depósito em espécie;JOSUE BARBOSA CAMPOS;31567;Deputado Distrital;PHS;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS ALBERTO PEREIRA;333.637.651-34;29/09/2010;       Serviços prestados por terceiros;R$ 100,00;Cheque; -  -  / 31567 - JOSUE BARBOSA CAMPOS - DF - Deputado Distrital;
+CARVALHO;369.109.371-04;30/08/2010;       Publicidade por placas, estandartes e faixas;R$ 60,00;Cheque; -  -  / 31567 - JOSUE BARBOSA CAMPOS - DF - Deputado Distrital;
+GRÁFICA ZUZA;07.673.461/0001-74;02/10/2010;       Publicidade por materiais impressos;R$ 3.000,00;Cheque; -  -  / 31567 - JOSUE BARBOSA CAMPOS - DF - Deputado Distrital;
+GRÁFICA ZUZA;07.673.461/0001-74;01/10/2010;       Publicidade por materiais impressos;R$ 3.980,00;Cheque; -  -  / 31567 - JOSUE BARBOSA CAMPOS - DF - Deputado Distrital;

@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;71.585.376/0001-53;09/09/2010;65000202690;R$ 750,00;Estimado;MIRAMAR DIAS FERNANDES;6511;Deputado Federal;PC do B;MA;
-ELEIÇÕES 2010 FLAVIO DINO DE CASTRO E COSTA GOVERNADOR;12.176.183/0001-80;30/08/2010;65000202641;R$ 980,00;Estimado;MIRAMAR DIAS FERNANDES;6511;Deputado Federal;PC do B;MA;
-ELEIÇÕES 2010 FLAVIO DINO DE CASTRO E COSTA GOVERNADOR;12.176.183/0001-80;02/10/2010;65000202642;R$ 870,00;Estimado;MIRAMAR DIAS FERNANDES;6511;Deputado Federal;PC do B;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;71.585.376/0001-53;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 750,00;Estimado;Direção Estadual/Distrital - PC do B -  / 6511 - MIRAMAR DIAS FERNANDES - MA - Deputado Federal;
+ELEIÇÕES 2010 FLAVIO DINO DE CASTRO E COSTA GOVERNADOR;12.176.183/0001-80;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 870,00;Estimado;65 -  - PC do B -  - Governador / 6511 - MIRAMAR DIAS FERNANDES - MA - Deputado Federal;
+ELEIÇÕES 2010 FLAVIO DINO DE CASTRO E COSTA GOVERNADOR;12.176.183/0001-80;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 980,00;Estimado;65 -  - PC do B -  - Governador / 6511 - MIRAMAR DIAS FERNANDES - MA - Deputado Federal;

@@ -1,4 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ARY LITMAN BERGHER;852.760.067-68;13/08/2010;45000108621;R$ 10.000,00;Cheque;ALIPIO MONTEIRO FILHO;4505;Deputado Federal;PSDB;RJ;
-MAISON GRAPHIQUE;27.699.263/0001-97;08/09/2010;45000108623;R$ 11.000,00;Transferência eletrônica;ALIPIO MONTEIRO FILHO;4505;Deputado Federal;PSDB;RJ;
-THALES ALBUQUERQUE MONTEBELLO;340.367.507-63;24/08/2010;45000108622;R$ 1.400,00;Depósito em espécie;ALIPIO MONTEIRO FILHO;4505;Deputado Federal;PSDB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+TRIX BUREAU DE IMPRESSAO LTDA-EPP;00.530.940/0001-92;16/08/2010;       Publicidade por placas, estandartes e faixas;R$ 11.000,00;Cheque; -  -  / 4505 - ALIPIO MONTEIRO FILHO - RJ - Deputado Federal;
+TRIX BUREAU DE IMPRESSAO LTDA-EPP;00.530.940/0001-92;16/08/2010;       Publicidade por placas, estandartes e faixas;R$ 10.000,00;Cheque; -  -  / 4505 - ALIPIO MONTEIRO FILHO - RJ - Deputado Federal;
+VIVIANE MOURA DE MIRANDA;814.617.557-00;19/08/2010;       Serviços prestados por terceiros;R$ 1.300,00;Cheque; -  -  / 4505 - ALIPIO MONTEIRO FILHO - RJ - Deputado Federal;
+;;22/09/2010;       Impostos, contribuições e taxas;R$ 90,20;Débito em conta; -  -  / 4505 - ALIPIO MONTEIRO FILHO - RJ - Deputado Federal;
+;;19/10/2010;       Impostos, contribuições e taxas;R$ 9,80;Débito em conta; -  -  / 4505 - ALIPIO MONTEIRO FILHO - RJ - Deputado Federal;

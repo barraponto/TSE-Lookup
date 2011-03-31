@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.200.167/0001-85;14/09/2010;10000027942;R$ 16.269,83;Estimado;MARIO LUIZ BARBOSA DE MORAES;1078;Deputado Federal;PRB;RJ;
-Diretório Estadual/Distrital;12.200.167/0001-85;15/08/2010;10000027941;R$ 4.980,00;Estimado;MARIO LUIZ BARBOSA DE MORAES;1078;Deputado Federal;PRB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.200.167/0001-85;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 16.269,83;Estimado;Direção Estadual/Distrital - PRB -  / 1078 - MARIO LUIZ BARBOSA DE MORAES - RJ - Deputado Federal;
+Diretório Estadual/Distrital;12.200.167/0001-85;15/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.980,00;Estimado;Direção Estadual/Distrital - PRB -  / 1078 - MARIO LUIZ BARBOSA DE MORAES - RJ - Deputado Federal;

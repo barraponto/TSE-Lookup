@@ -1,3 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;20.764.395/0001-06;08/09/2010;23000140961;R$ 2.000,00;Cheque;WILSON DAS GRAÇAS SILVA;23010;Deputado Estadual;PPS;MG;
-WILSON DAS GRAÇAS SILVA;562.379.446-72;13/10/2010;23000140966;R$ 0,83;Depósito em espécie;WILSON DAS GRAÇAS SILVA;23010;Deputado Estadual;PPS;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BRUNO CHALLUB DE SOUZA;058.414.556-05;09/09/2010;       Serviços prestados por terceiros;R$ 300,00;Cheque; -  -  / 23010 - WILSON DAS GRAÇAS SILVA - MG - Deputado Estadual;
+JOSE RITA DOS SANTOS;261.405.516-68;09/09/2010;       Serviços prestados por terceiros;R$ 500,00;Cheque; -  -  / 23010 - WILSON DAS GRAÇAS SILVA - MG - Deputado Estadual;
+MIRLAINE VIRGINIA LOPES;064.127.256-10;09/09/2010;       Serviços prestados por terceiros;R$ 500,00;Cheque; -  -  / 23010 - WILSON DAS GRAÇAS SILVA - MG - Deputado Estadual;
+RODOLFO FRANCO MARQUES;421.372.506-59;09/09/2010;       Serviços prestados por terceiros;R$ 700,00;Cheque; -  -  / 23010 - WILSON DAS GRAÇAS SILVA - MG - Deputado Estadual;
+;;01/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,83;Débito em conta; -  -  / 23010 - WILSON DAS GRAÇAS SILVA - MG - Deputado Estadual;

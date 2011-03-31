@@ -1,2 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIA CARDOSO DOS SANTOS MORAES;198.137.912-68;28/07/2010;23000040061;R$ 1.000,00;Transferência eletrônica;ANTONIA CARDOSO DOS SANTOS MORAES;23580;Deputado Estadual;PPS;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+M.R COM. E SERVIÇOS LTDA - ME;09.175.231/0001-00;29/07/2010;       Publicidade por materiais impressos;R$ 675,00;Transferência eletrônica; -  -  / 23580 - ANTONIA CARDOSO DOS SANTOS MORAES - AP - Deputado Estadual;
+;;29/07/2010;       Encargos financeiros e taxas bancárias;R$ 15,00;Débito em conta; -  -  / 23580 - ANTONIA CARDOSO DOS SANTOS MORAES - AP - Deputado Estadual;

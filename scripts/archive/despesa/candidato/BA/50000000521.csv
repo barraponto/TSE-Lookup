@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.496/0001-07;14/09/2010;33000118251;R$ 15,00;Estimado;IVAN BRASIL DA SILVEIRA;33777;Deputado Estadual;PMN;BA;
-Diretório Nacional;29.549.433/0001-82;14/09/2010;33000118252;R$ 250,00;Estimado;IVAN BRASIL DA SILVEIRA;33777;Deputado Estadual;PMN;BA;
-IVAN BRASIL DA SILVEIRA;063.979.135-20;15/09/2010;33000118253;R$ 200,00;Estimado;IVAN BRASIL DA SILVEIRA;33777;Deputado Estadual;PMN;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.496/0001-07;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 15,00;Estimado;Comitê Financeiro Único - PMN -  / 33777 - IVAN BRASIL DA SILVEIRA - BA - Deputado Estadual;
+Diretório Nacional;29.549.433/0001-82;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;Direção Nacional - PMN -  / 33777 - IVAN BRASIL DA SILVEIRA - BA - Deputado Estadual;
+IVAN BRASIL DA SILVEIRA;063.979.135-20;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado; -  -  / 33777 - IVAN BRASIL DA SILVEIRA - BA - Deputado Estadual;

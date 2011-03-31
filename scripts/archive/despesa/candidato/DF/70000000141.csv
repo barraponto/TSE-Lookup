@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LUIZ PITIMAN;12.174.266/0001-30;22/09/2010;12001522792;R$ 150,00;Estimado;RUY GAMELEIRA;12190;Deputado Distrital;PDT;DF;
-ROZA ALVES DE SOUSA ME;00.571.343/0001-06;30/08/2010;12001522791;R$ 500,00;Estimado;RUY GAMELEIRA;12190;Deputado Distrital;PDT;DF;
-ROZA ALVES DE SOUSA ME;00.571.343/0001-06;01/09/2010;12001522793;R$ 1.845,00;Estimado;RUY GAMELEIRA;12190;Deputado Distrital;PDT;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+LUIZ PITIMAN;12.174.266/0001-30;22/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;1515 -  - PMDB -  - Deputado Federal / 12190 - RUY GAMELEIRA - DF - Deputado Distrital;
+ROZA ALVES DE SOUSA ME;00.571.343/0001-06;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.845,00;Estimado; -  -  / 12190 - RUY GAMELEIRA - DF - Deputado Distrital;
+ROZA ALVES DE SOUSA ME;00.571.343/0001-06;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 12190 - RUY GAMELEIRA - DF - Deputado Distrital;

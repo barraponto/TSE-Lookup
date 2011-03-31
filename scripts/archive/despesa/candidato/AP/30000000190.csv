@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CLODOALDO MONTEIRO MACIEL;415.716.902-63;30/09/2010;25000574202;R$ 1.000,00;Depósito em espécie;CLODOALDO MONTEIRO MACIEL;25510;Deputado Estadual;DEM;AP;
-LUIS MAURICIO ABDON DA SILVA;460.511.712-15;01/09/2010;25000574201;R$ 1.800,00;Estimado;CLODOALDO MONTEIRO MACIEL;25510;Deputado Estadual;DEM;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+COMERCIAL BRITO NUNES LTDA;34.927.772/0003-57;30/09/2010;       Combustíveis e lubrificantes;R$ 750,00;Cheque; -  -  / 25510 - CLODOALDO MONTEIRO MACIEL - AP - Deputado Estadual;
+LUIS MAURICIO ABDON DA SILVA;460.511.712-15;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.800,00;Estimado; -  -  / 25510 - CLODOALDO MONTEIRO MACIEL - AP - Deputado Estadual;
+M N BATISTA;02.673.088/0001-38;30/09/2010;       Alimentação;R$ 250,00;Cheque; -  -  / 25510 - CLODOALDO MONTEIRO MACIEL - AP - Deputado Estadual;

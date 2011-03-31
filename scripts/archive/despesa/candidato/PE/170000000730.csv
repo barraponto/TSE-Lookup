@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-GRAFICA SAO JOSE;10.723.750/0001-45;20/08/2010;43001842177;R$ 100,00;Estimado;SILVESTRE MONTEIRO NETO;43111;Deputado Estadual;PV;PE;
-GRAFICA SAO JOSE;10.723.750/0001-45;29/09/2010;43001842183;R$ 230,00;Estimado;SILVESTRE MONTEIRO NETO;43111;Deputado Estadual;PV;PE;
-J G GRAFICA;70.184.288/0001-87;18/08/2010;43001842176;R$ 100,00;Estimado;SILVESTRE MONTEIRO NETO;43111;Deputado Estadual;PV;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA SAO JOSE;10.723.750/0001-45;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 230,00;Estimado; -  -  / 43111 - SILVESTRE MONTEIRO NETO - PE - Deputado Estadual;
+GRAFICA SAO JOSE;10.723.750/0001-45;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado; -  -  / 43111 - SILVESTRE MONTEIRO NETO - PE - Deputado Estadual;
+J G GRAFICA;70.184.288/0001-87;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado; -  -  / 43111 - SILVESTRE MONTEIRO NETO - PE - Deputado Estadual;

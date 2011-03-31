@@ -1,4 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LELIA SORIANO BARROS;446.086.594-72;01/09/2010;36000064322;R$ 1.500,00;Estimado;EVANILSON SORIANO BARROS;36555;Deputado Estadual;PTC;PE;
-LUIZ GONZAGA PATRIOTA;12.168.227/0001-20;27/09/2010;36000064323;R$ 2.000,00;Cheque;EVANILSON SORIANO BARROS;36555;Deputado Estadual;PTC;PE;
-LUIZ GONZAGA PATRIOTA;12.168.227/0001-20;24/08/2010;36000064321;R$ 2.000,00;Cheque;EVANILSON SORIANO BARROS;36555;Deputado Estadual;PTC;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARTEMIDIA;03.707.537/0001-84;26/08/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 36555 - EVANILSON SORIANO BARROS - PE - Deputado Estadual;
+ARTEMIDIA;03.707.537/0001-84;29/09/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 36555 - EVANILSON SORIANO BARROS - PE - Deputado Estadual;
+LELIA SORIANO BARROS;446.086.594-72;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado; -  -  / 36555 - EVANILSON SORIANO BARROS - PE - Deputado Estadual;
+MARIA DOS ANJOS CAVALCANTI REIS DE FIGUEIRÊDO;08.784.035/0001-70;26/08/2010;       Publicidade por materiais impressos;R$ 1.450,00;Cheque; -  -  / 36555 - EVANILSON SORIANO BARROS - PE - Deputado Estadual;
+POSTO SERVE BEM LTDA;06.165.198/0001-40;30/09/2010;       Combustíveis e lubrificantes;R$ 1.550,00;Cheque; -  -  / 36555 - EVANILSON SORIANO BARROS - PE - Deputado Estadual;

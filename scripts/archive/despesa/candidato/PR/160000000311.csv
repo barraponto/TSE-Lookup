@@ -1,4 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MARIO CAMPOS SERRA;326.876.058-91;15/09/2010;43001776403;R$ 900,00;Cheque;RICARDO CAMPOS SERRA;43321;Deputado Estadual;PV;PR;
-RICARDO CAMPOS SERRA;859.845.079-00;05/08/2010;43001776401;R$ 400,00;Cheque;RICARDO CAMPOS SERRA;43321;Deputado Estadual;PV;PR;
-RICARDO CAMPOS SERRA;859.845.079-00;16/08/2010;43001776402;R$ 300,00;Depósito em espécie;RICARDO CAMPOS SERRA;43321;Deputado Estadual;PV;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+FIEL GRÁFICA LTDA.;02.216.870/0001-28;12/08/2010;       Publicidade por materiais impressos;R$ 660,00;Cheque; -  -  / 43321 - RICARDO CAMPOS SERRA - PR - Deputado Estadual;
+FIEL GRÁFICA LTDA.;02.216.870/0001-28;30/09/2010;       Publicidade por materiais impressos;R$ 940,00;Cheque; -  -  / 43321 - RICARDO CAMPOS SERRA - PR - Deputado Estadual;

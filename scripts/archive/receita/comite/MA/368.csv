@@ -1,4 +1,3 @@
-Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
-DIEGO JOSE FONSECA MOURA;668.153.473-20;15/07/2010;       Serviços prestados por terceiros;R$ 12.500,00;Cheque; -  -  / Comitê Financeiro Único - PV - MA;
-EXATUS CONSULTORIA E ASSESSORIA LTDA;04.555.773/0001-95;30/07/2010;       Serviços prestados por terceiros;R$ 12.400,00;Cheque; -  -  / Comitê Financeiro Único - PV - MA;
-ROSEANA SARNEY MURAD;12.171.364/0001-13;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 7.692,00;Estimado;15 -  - PMDB -  - Governador / Comitê Financeiro Único - PV - MA;
+Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
+Diretório Estadual/Distrital;02.706.586/0001-30;24/08/2010;43001795701;R$ 24.900,00;Cheque;Comitê Financeiro Único;PV;MA;
+ROSEANA SARNEY MURAD;12.171.364/0001-13;01/08/2010;43001795702;R$ 7.692,00;Estimado;Comitê Financeiro Único;PV;MA;

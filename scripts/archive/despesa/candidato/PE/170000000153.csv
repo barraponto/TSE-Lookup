@@ -1,3 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;09.057.316/0001-94;27/09/2010;25000544008;R$ 2.000,00;Depósito em espécie;ROSEMARY TAVARES CORREIA SOUZA;25111;Deputado Estadual;DEM;PE;
-Diretório Estadual/Distrital;09.057.316/0001-94;03/09/2010;25000544007;R$ 2.000,00;Depósito em espécie;ROSEMARY TAVARES CORREIA SOUZA;25111;Deputado Estadual;DEM;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+C. ALBUQUERQUE COMÉRCIO DE COMBUSTÍVEL LTDA;07.553.578/0001-14;11/09/2010;       Combustíveis e lubrificantes;R$ 425,34;Cheque; -  -  / 25111 - ROSEMARY TAVARES CORREIA SOUZA - PE - Deputado Estadual;
+CAMPEL COMUNICAÇÃO E ARTE;10.484.983/0001-32;13/09/2010;       Publicidade por materiais impressos;R$ 180,00;Cheque; -  -  / 25111 - ROSEMARY TAVARES CORREIA SOUZA - PE - Deputado Estadual;
+CAMPEL COMUNICAÇÃO E ARTE;10.484.983/0001-32;09/09/2010;       Publicidade por materiais impressos;R$ 90,00;Cheque; -  -  / 25111 - ROSEMARY TAVARES CORREIA SOUZA - PE - Deputado Estadual;
+FELIPE JEFERSON B. SANTOS;067.503.174-56;28/09/2010;       Serviços prestados por terceiros;R$ 1.000,00;Cheque; -  -  / 25111 - ROSEMARY TAVARES CORREIA SOUZA - PE - Deputado Estadual;
+J. CARNEIRO;11.328.325/0001-14;19/09/2010;       Alimentação;R$ 72,60;Cheque; -  -  / 25111 - ROSEMARY TAVARES CORREIA SOUZA - PE - Deputado Estadual;
+LUIZ CARNEIRO DE MELO NETO;029.949.414-49;27/09/2010;       Cessão ou Locação de Veículos;R$ 2.200,00;Cheque; -  -  / 25111 - ROSEMARY TAVARES CORREIA SOUZA - PE - Deputado Estadual;

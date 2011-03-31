@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO FERREIRA;861.304.719-04;30/09/2010;50000387802;R$ 200,00;Estimado;ANTONIO FERREIRA;50133;Deputado Estadual;PSOL;PR;
-ANTONIO FERREIRA;861.304.719-04;30/09/2010;50000387801;R$ 203,35;Estimado;ANTONIO FERREIRA;50133;Deputado Estadual;PSOL;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO FERREIRA;861.304.719-04;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado; -  -  / 50133 - ANTONIO FERREIRA - PR - Deputado Estadual;
+ANTONIO FERREIRA;861.304.719-04;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 203,35;Estimado; -  -  / 50133 - ANTONIO FERREIRA - PR - Deputado Estadual;

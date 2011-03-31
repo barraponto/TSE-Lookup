@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.486/0001-71;01/08/2010;44000025402;R$ 561,00;Estimado;JOSE ROBERTO BRIGIDO MARANHÃO;44789;Deputado Estadual;PRP;MA;
-JOSE FERREIRA DA SILVA;076.093.293-04;05/08/2010;44000025401;R$ 3.000,00;Depósito em espécie;JOSE ROBERTO BRIGIDO MARANHÃO;44789;Deputado Estadual;PRP;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.486/0001-71;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 561,00;Estimado;Comitê Financeiro Único - PRP -  / 44789 - JOSE ROBERTO BRIGIDO MARANHÃO - MA - Deputado Estadual;
+ELIANA MARIA DE SOSA SILVEIRA;003.676.863-41;06/08/2010;       Publicidade por carros de som;R$ 2.000,00;Cheque; -  -  / 44789 - JOSE ROBERTO BRIGIDO MARANHÃO - MA - Deputado Estadual;
+SHALON DERIVADOS DE PETROLEO LTDA;08.626.841/0002-00;05/08/2010;       Combustíveis e lubrificantes;R$ 1.000,00;Cheque; -  -  / 44789 - JOSE ROBERTO BRIGIDO MARANHÃO - MA - Deputado Estadual;

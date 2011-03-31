@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALFREDO PEREIRA DO NASCIMENTO;12.169.771/0001-96;10/08/2010;12001006981;R$ 3.000,00;Cheque;SALOMAO SOZINHO VALENTE;12777;Deputado Estadual;PDT;AM;
-ALFREDO PEREIRA DO NASCIMENTO;12.169.771/0001-96;09/09/2010;12001006983;R$ 3.000,00;Cheque;SALOMAO SOZINHO VALENTE;12777;Deputado Estadual;PDT;AM;
-Comitê Financeiro Único;12.156.263/0001-73;21/07/2010;12001006984;R$ 250,00;Estimado;SALOMAO SOZINHO VALENTE;12777;Deputado Estadual;PDT;AM;
-JEFFERSON PRAIA BEZERRA;12.171.818/0001-56;23/08/2010;12001006982;R$ 291,20;Estimado;SALOMAO SOZINHO VALENTE;12777;Deputado Estadual;PDT;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.156.263/0001-73;21/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;Comitê Financeiro Único - PCO -  / 12777 - SALOMAO SOZINHO VALENTE - AM - Deputado Estadual;
+JEFFERSON PRAIA BEZERRA;12.171.818/0001-56;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 291,20;Estimado;123 -  - PDT -  - Senador / 12777 - SALOMAO SOZINHO VALENTE - AM - Deputado Estadual;
+LUIZ OLAVO AUZIER DA SILVA;242.966.782-72;16/08/2010;       Serviços prestados por terceiros;R$ 500,00;Cheque; -  -  / 12777 - SALOMAO SOZINHO VALENTE - AM - Deputado Estadual;
+MARI BELEM SOZINHO LABORDA;075.244.982-68;16/08/2010;       Serviços prestados por terceiros;R$ 500,00;Cheque; -  -  / 12777 - SALOMAO SOZINHO VALENTE - AM - Deputado Estadual;

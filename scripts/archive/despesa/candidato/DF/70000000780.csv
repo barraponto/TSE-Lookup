@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CLEIDE DE OLIVEIRA LIMA;564.436.091-15;30/08/2010;28000689258;R$ 550,00;Estimado;LUIS NOBRE DE SOUSA;28022;Deputado Distrital;PRTB;DF;
-Comitê Financeiro Único;12.229.927/0001-87;09/08/2010;28000689251;R$ 360,00;Estimado;LUIS NOBRE DE SOUSA;28022;Deputado Distrital;PRTB;DF;
-Comitê Financeiro Único;12.229.927/0001-87;30/08/2010;28000689254;R$ 210,00;Estimado;LUIS NOBRE DE SOUSA;28022;Deputado Distrital;PRTB;DF;
-Comitê Financeiro Único;12.229.927/0001-87;16/08/2010;28000689252;R$ 360,00;Estimado;LUIS NOBRE DE SOUSA;28022;Deputado Distrital;PRTB;DF;
-LUIS NOBRE DE SOUSA;259.722.001-04;30/08/2010;28000689256;R$ 1.500,00;Estimado;LUIS NOBRE DE SOUSA;28022;Deputado Distrital;PRTB;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CLEIDE DE OLIVEIRA LIMA;564.436.091-15;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 550,00;Estimado; -  -  / 28022 - LUIS NOBRE DE SOUSA - DF - Deputado Distrital;
+Comitê Financeiro Único;12.229.927/0001-87;16/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Único - PRTB -  / 28022 - LUIS NOBRE DE SOUSA - DF - Deputado Distrital;
+Comitê Financeiro Único;12.229.927/0001-87;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 210,00;Estimado;Comitê Financeiro Único - PRTB -  / 28022 - LUIS NOBRE DE SOUSA - DF - Deputado Distrital;
+Comitê Financeiro Único;12.229.927/0001-87;09/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Único - PRTB -  / 28022 - LUIS NOBRE DE SOUSA - DF - Deputado Distrital;
+LUIS NOBRE DE SOUSA;259.722.001-04;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado; -  -  / 28022 - LUIS NOBRE DE SOUSA - DF - Deputado Distrital;

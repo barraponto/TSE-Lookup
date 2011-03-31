@@ -1,8 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;27/08/2010;31000024902;R$ 725,00;Estimado;VALDECIR DOS SANTOS;31113;Deputado Estadual;PHS;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;24/09/2010;31000024906;R$ 150,00;Estimado;VALDECIR DOS SANTOS;31113;Deputado Estadual;PHS;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;24/09/2010;31000024905;R$ 150,00;Estimado;VALDECIR DOS SANTOS;31113;Deputado Estadual;PHS;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;27/08/2010;31000024901;R$ 150,00;Estimado;VALDECIR DOS SANTOS;31113;Deputado Estadual;PHS;RJ;
-Diretório Estadual/Distrital;12.191.494/0001-18;30/09/2010;31000024907;R$ 250,00;Estimado;VALDECIR DOS SANTOS;31113;Deputado Estadual;PHS;RJ;
-VALDECIR DOS SANTOS;010.914.357-40;28/08/2010;31000024904;R$ 250,00;Depósito em espécie;VALDECIR DOS SANTOS;31113;Deputado Estadual;PHS;RJ;
-VALDECIR DOS SANTOS;010.914.357-40;28/08/2010;31000024903;R$ 250,00;Depósito em espécie;VALDECIR DOS SANTOS;31113;Deputado Estadual;PHS;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARTES GRÁFICAS AURISTELA LTDA.;00.133.980/0001-09;30/08/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 31113 - VALDECIR DOS SANTOS - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 31113 - VALDECIR DOS SANTOS - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 31113 - VALDECIR DOS SANTOS - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 31113 - VALDECIR DOS SANTOS - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 725,00;Estimado;Comitê Financeiro Único - PMDB -  / 31113 - VALDECIR DOS SANTOS - RJ - Deputado Estadual;
+Diretório Estadual/Distrital;12.191.494/0001-18;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;Direção Estadual/Distrital - PHS -  / 31113 - VALDECIR DOS SANTOS - RJ - Deputado Estadual;

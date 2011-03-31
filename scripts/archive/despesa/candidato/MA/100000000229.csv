@@ -1,6 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALEX DOS SANTOS MORAES;997.062.963-87;26/09/2010;28000472251;R$ 250,00;Estimado;EDNILTON MOREIRA LIMA;28888;Deputado Estadual;PRTB;MA;
-E. BEZERRA LIMA;12.283.984/0001-44;01/09/2010;28000472250;R$ 300,00;Estimado;EDNILTON MOREIRA LIMA;28888;Deputado Estadual;PRTB;MA;
-ERICK BEZERRA LIMA;021.166.283-69;15/08/2010;28000472247;R$ 500,00;Estimado;EDNILTON MOREIRA LIMA;28888;Deputado Estadual;PRTB;MA;
-EUTON MOREIRA LIMA;257.366.473-20;01/09/2010;28000472248;R$ 250,00;Estimado;EDNILTON MOREIRA LIMA;28888;Deputado Estadual;PRTB;MA;
-FATIMA MOREIRA LIMA;282.461.363-72;10/09/2010;28000472249;R$ 250,00;Estimado;EDNILTON MOREIRA LIMA;28888;Deputado Estadual;PRTB;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALEX DOS SANTOS MORAES;997.062.963-87;26/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado; -  -  / 28888 - EDNILTON MOREIRA LIMA - MA - Deputado Estadual;
+E. BEZERRA LIMA;12.283.984/0001-44;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 28888 - EDNILTON MOREIRA LIMA - MA - Deputado Estadual;
+ERICK BEZERRA LIMA;021.166.283-69;15/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 28888 - EDNILTON MOREIRA LIMA - MA - Deputado Estadual;
+EUTON MOREIRA LIMA;257.366.473-20;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado; -  -  / 28888 - EDNILTON MOREIRA LIMA - MA - Deputado Estadual;
+F. VALDENER SOUSA-ME;06.911.314/0001-22;03/10/2010;       Publicidade por materiais impressos;R$ 500,00;Não informado; -  -  / 28888 - EDNILTON MOREIRA LIMA - MA - Deputado Estadual;
+F. VALDENER SOUSA-ME;06.911.314/0001-22;01/09/2010;       Publicidade por materiais impressos;R$ 250,00;Não informado; -  -  / 28888 - EDNILTON MOREIRA LIMA - MA - Deputado Estadual;
+F. VALDENER SOUSA-ME;06.911.314/0001-22;10/09/2010;       Publicidade por materiais impressos;R$ 250,00;Não informado; -  -  / 28888 - EDNILTON MOREIRA LIMA - MA - Deputado Estadual;
+F. VALDENER SOUSA-ME;06.911.314/0001-22;26/09/2010;       Publicidade por materiais impressos;R$ 250,00;Não informado; -  -  / 28888 - EDNILTON MOREIRA LIMA - MA - Deputado Estadual;
+FATIMA MOREIRA LIMA;282.461.363-72;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado; -  -  / 28888 - EDNILTON MOREIRA LIMA - MA - Deputado Estadual;

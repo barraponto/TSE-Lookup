@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MARIO ANTONIO SALLENAVE FILHO;626.951.185-20;27/07/2010;31000006851;R$ 9.000,00;Estimado;MARIO ANTONIO SALLENAVE FILHO;3160;Deputado Federal;PHS;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+MARIO ANTONIO SALLENAVE FILHO;626.951.185-20;27/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 9.000,00;Estimado; -  -  / 3160 - MARIO ANTONIO SALLENAVE FILHO - DF - Deputado Federal;

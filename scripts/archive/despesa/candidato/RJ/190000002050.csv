@@ -1,4 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;20000675704;R$ 150,00;Estimado;MARCOS SANTOS FREIRE;20016;Deputado Estadual;PSC;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;20000675705;R$ 150,00;Estimado;MARCOS SANTOS FREIRE;20016;Deputado Estadual;PSC;RJ;
-MARCOS SANTOS FREIRE;772.133.357-15;04/08/2010;20000675701;R$ 500,00;Transferência eletrônica;MARCOS SANTOS FREIRE;20016;Deputado Estadual;PSC;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 20016 - MARCOS SANTOS FREIRE - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 20016 - MARCOS SANTOS FREIRE - RJ - Deputado Estadual;
+CRISTIANO DE OLIVEIRA TAVARES;055.766.747-07;10/08/2010;       Publicidade por jornais e revistas;R$ 150,00;Cheque; -  -  / 20016 - MARCOS SANTOS FREIRE - RJ - Deputado Estadual;
+GRAFICA FÁCIL DO BRASIL LTDA.ME.;09.602.900/0001-83;04/08/2010;       Publicidade por materiais impressos;R$ 332,60;Cheque; -  -  / 20016 - MARCOS SANTOS FREIRE - RJ - Deputado Estadual;

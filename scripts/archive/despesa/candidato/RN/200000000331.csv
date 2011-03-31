@@ -1,7 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.151/0001-72;01/10/2010;31000048286;R$ 100,00;Estimado;GILBERTO VERISSIMO TORRES;31456;Deputado Estadual;PHS;RN;
-Comitê Financeiro Único;12.200.151/0001-72;30/09/2010;31000048285;R$ 500,00;Estimado;GILBERTO VERISSIMO TORRES;31456;Deputado Estadual;PHS;RN;
-Comitê Financeiro Único;12.262.844/0001-90;29/09/2010;31000048282;R$ 1.500,00;Estimado;GILBERTO VERISSIMO TORRES;31456;Deputado Estadual;PHS;RN;
-GILBERTO VERISSIMO TORRES;480.667.614-49;13/09/2010;31000048281;R$ 1.000,00;Depósito em espécie;GILBERTO VERISSIMO TORRES;31456;Deputado Estadual;PHS;RN;
-LUIS DA SILVA SINFRONIO;737.167.404-97;03/09/2010;31000048284;R$ 1.000,00;Estimado;GILBERTO VERISSIMO TORRES;31456;Deputado Estadual;PHS;RN;
-MARIA ROSIMAR DE SOUSA;406.228.514-20;03/09/2010;31000048283;R$ 1.000,00;Estimado;GILBERTO VERISSIMO TORRES;31456;Deputado Estadual;PHS;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.262.844/0001-90;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado;Comitê Financeiro Único - PSB -  / 31456 - GILBERTO VERISSIMO TORRES - RN - Deputado Estadual;
+Comitê Financeiro Único;12.200.151/0001-72;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado;Comitê Financeiro Único - PHS -  / 31456 - GILBERTO VERISSIMO TORRES - RN - Deputado Estadual;
+Comitê Financeiro Único;12.200.151/0001-72;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;Comitê Financeiro Único - PHS -  / 31456 - GILBERTO VERISSIMO TORRES - RN - Deputado Estadual;
+E. B. PIMENTA - ME;00.862.254/0001-19;02/10/2010;       Publicidade por placas, estandartes e faixas;R$ 100,00;Cheque; -  -  / 31456 - GILBERTO VERISSIMO TORRES - RN - Deputado Estadual;
+LUIS DA SILVA SINFRONIO;737.167.404-97;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 31456 - GILBERTO VERISSIMO TORRES - RN - Deputado Estadual;
+MARIA NEIDE FREIRE DE ARAUJO;00.822.313/0001-25;02/10/2010;       Combustíveis e lubrificantes;R$ 900,00;Cheque; -  -  / 31456 - GILBERTO VERISSIMO TORRES - RN - Deputado Estadual;
+MARIA ROSIMAR DE SOUSA;406.228.514-20;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 31456 - GILBERTO VERISSIMO TORRES - RN - Deputado Estadual;

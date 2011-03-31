@@ -1,9 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CELINA MARIA ROCHA DE PAIVA;139.088.044-34;15/10/2010;13000880607;R$ 1.300,00;Depósito em espécie;MANOEL CANDIDO DA COSTA;13555;Deputado Estadual;PT;RN;
-Diretório Estadual/Distrital;09.097.452/0002-99;28/10/2010;13000880608;R$ 3.000,00;Estimado;MANOEL CANDIDO DA COSTA;13555;Deputado Estadual;PT;RN;
-ELEIÇÕES 2010 MARIA FATIMA BEZERRA;12.198.615/0001-53;23/09/2010;13000880601;R$ 2.000,00;Cheque;MANOEL CANDIDO DA COSTA;13555;Deputado Estadual;PT;RN;
-MARCOS GEORGE DE MEDEIROS;839.015.074-34;05/08/2010;13000880602;R$ 2.000,00;Depósito em espécie;MANOEL CANDIDO DA COSTA;13555;Deputado Estadual;PT;RN;
-OBDON FERNANDES DE OLIVEIRA NETO;199.516.804-10;13/08/2010;13000880603;R$ 2.000,00;Depósito em espécie;MANOEL CANDIDO DA COSTA;13555;Deputado Estadual;PT;RN;
-PAULO HENRIQUE DE MACEDO CARLOS;590.476.905-91;07/10/2010;13000880606;R$ 300,00;Depósito em espécie;MANOEL CANDIDO DA COSTA;13555;Deputado Estadual;PT;RN;
-PAULO HENRIQUE DE MACEDO CARLOS;590.476.905-91;31/08/2010;13000880605;R$ 3.000,00;Depósito em espécie;MANOEL CANDIDO DA COSTA;13555;Deputado Estadual;PT;RN;
-SILMARA RODRIGUES DA COSTA;061.085.494-16;13/08/2010;13000880604;R$ 2.000,00;Depósito em espécie;MANOEL CANDIDO DA COSTA;13555;Deputado Estadual;PT;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARVALHO & CARVALHO LTDA;05.608.730/0001-93;01/10/2010;       Publicidade por materiais impressos;R$ 1.280,00;Cheque; -  -  / 13555 - MANOEL CANDIDO DA COSTA - RN - Deputado Estadual;
+COSTA E COSTA LTDA;11.834.119/0001-86;30/09/2010;       Publicidade por placas, estandartes e faixas;R$ 1.680,00;Cheque; -  -  / 13555 - MANOEL CANDIDO DA COSTA - RN - Deputado Estadual;
+Diretório Estadual/Distrital;09.097.452/0002-99;28/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.000,00;Estimado;Direção Estadual/Distrital - PT -  / 13555 - MANOEL CANDIDO DA COSTA - RN - Deputado Estadual;
+UNIGRAFICA - GRAFICA E EDITORA LTDA;02.749.278/0001-91;22/10/2010;       Publicidade por materiais impressos;R$ 1.830,00;Cheque; -  -  / 13555 - MANOEL CANDIDO DA COSTA - RN - Deputado Estadual;
+UNIGRAFICA - GRAFICA E EDITORA LTDA;02.749.278/0001-91;10/09/2010;       Publicidade por materiais impressos;R$ 3.022,00;Cheque; -  -  / 13555 - MANOEL CANDIDO DA COSTA - RN - Deputado Estadual;
+UNIGRAFICA - GRAFICA E EDITORA LTDA;02.749.278/0001-91;14/09/2010;       Publicidade por materiais impressos;R$ 1.472,00;Cheque; -  -  / 13555 - MANOEL CANDIDO DA COSTA - RN - Deputado Estadual;
+UNIGRAFICA - GRAFICA E EDITORA LTDA;02.749.278/0001-91;13/08/2010;       Publicidade por materiais impressos;R$ 3.302,00;Cheque; -  -  / 13555 - MANOEL CANDIDO DA COSTA - RN - Deputado Estadual;
+;;29/10/2010;       Encargos financeiros e taxas bancárias;R$ 14,00;Débito em conta; -  -  / 13555 - MANOEL CANDIDO DA COSTA - RN - Deputado Estadual;

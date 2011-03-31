@@ -1,7 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADA MERCEDES DE MELLO MARQUES LUZ;227.580.204-59;02/08/2010;14000063701;R$ 500,00;Depósito em espécie;ADA MERCEDES DE MELLO MARQUES LUZ;1455;Deputado Federal;PTB;AL;
-ADA MERCEDES DE MELLO MARQUES LUZ;227.580.204-59;02/08/2010;14000063702;R$ 1.000,00;Cheque;ADA MERCEDES DE MELLO MARQUES LUZ;1455;Deputado Federal;PTB;AL;
-ADA MERCEDES DE MELLO MARQUES LUZ;227.580.204-59;06/09/2010;14000063703;R$ 1.300,00;Cheque;ADA MERCEDES DE MELLO MARQUES LUZ;1455;Deputado Federal;PTB;AL;
-ADA MERCEDES DE MELLO MARQUES LUZ;227.580.204-59;20/09/2010;14000063704;R$ 1.050,00;Depósito em espécie;ADA MERCEDES DE MELLO MARQUES LUZ;1455;Deputado Federal;PTB;AL;
-Comitê Financeiro Único;12.191.475/0001-91;30/09/2010;14000063706;R$ 300,00;Estimado;ADA MERCEDES DE MELLO MARQUES LUZ;1455;Deputado Federal;PTB;AL;
-ELEIÇÃO 2010 FERNANDO AFFONSO COLLOR DE MELLO;12.168.659/0001-30;29/09/2010;14000063705;R$ 3.906,25;Estimado;ADA MERCEDES DE MELLO MARQUES LUZ;1455;Deputado Federal;PTB;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.475/0001-91;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PTB -  / 1455 - ADA MERCEDES DE MELLO MARQUES LUZ - AL - Deputado Federal;
+ELEIÇÃO 2010 FERNANDO AFFONSO COLLOR DE MELLO;12.168.659/0001-30;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.906,25;Estimado;14 -  - PTB -  - Governador / 1455 - ADA MERCEDES DE MELLO MARQUES LUZ - AL - Deputado Federal;
+TIF PROPAGANDA VISUAL LTDA - ME;41.185.398/0001-65;05/08/2010;       Publicidade por materiais impressos;R$ 1.225,00;Cheque; -  -  / 1455 - ADA MERCEDES DE MELLO MARQUES LUZ - AL - Deputado Federal;
+TIF PROPAGANDA VISUAL LTDA - ME;41.185.398/0001-65;22/09/2010;       Publicidade por materiais impressos;R$ 1.300,00;Cheque; -  -  / 1455 - ADA MERCEDES DE MELLO MARQUES LUZ - AL - Deputado Federal;
+TIF PROPAGANDA VISUAL LTDA - ME;41.185.398/0001-65;10/09/2010;       Publicidade por materiais impressos;R$ 1.300,00;Cheque; -  -  / 1455 - ADA MERCEDES DE MELLO MARQUES LUZ - AL - Deputado Federal;
+;;22/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 1455 - ADA MERCEDES DE MELLO MARQUES LUZ - AL - Deputado Federal;
+;;04/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 1455 - ADA MERCEDES DE MELLO MARQUES LUZ - AL - Deputado Federal;
+;;09/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 1455 - ADA MERCEDES DE MELLO MARQUES LUZ - AL - Deputado Federal;

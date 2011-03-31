@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.503/0001-70;02/10/2010;20000321204;R$ 530,00;Estimado;JOANA MARIA DA SILVA DE SOUZA;2043;Deputado Federal;PSC;MG;
-JOANA MARIA DA SILVA DE SOUSA;228.039.556-87;02/10/2010;20000321205;R$ 680,00;Estimado;JOANA MARIA DA SILVA DE SOUZA;2043;Deputado Federal;PSC;MG;
-JOANA MARIA DA SILVA DE SOUSA;228.039.556-87;20/08/2010;20000321202;R$ 80,00;Depósito em espécie;JOANA MARIA DA SILVA DE SOUZA;2043;Deputado Federal;PSC;MG;
-JOANA MARIA DA SILVA DE SOUSA;228.039.556-87;30/08/2010;20000321203;R$ 10,00;Depósito em espécie;JOANA MARIA DA SILVA DE SOUZA;2043;Deputado Federal;PSC;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALEX DESIGNER COMUNC VISUAL LTDA;11.189.245/0001-25;31/08/2010;       Publicidade por materiais impressos;R$ 80,00;Cheque; -  -  / 2043 - JOANA MARIA DA SILVA DE SOUZA - MG - Deputado Federal;
+Comitê Financeiro Único;12.191.503/0001-70;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 530,00;Estimado;Comitê Financeiro Único - PSC -  / 2043 - JOANA MARIA DA SILVA DE SOUZA - MG - Deputado Federal;
+JOANA MARIA DA SILVA DE SOUSA;228.039.556-87;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 680,00;Estimado; -  -  / 2043 - JOANA MARIA DA SILVA DE SOUZA - MG - Deputado Federal;
+;;01/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 2043 - JOANA MARIA DA SILVA DE SOUZA - MG - Deputado Federal;
+;;24/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 2043 - JOANA MARIA DA SILVA DE SOUZA - MG - Deputado Federal;

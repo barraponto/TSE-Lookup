@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.213/0001-39;24/08/2010;40002206501;R$ 1.500,00;Cheque;BELMIRO DE OLIVEIRA;40013;Deputado Estadual;PSB;MG;
-Comitê Financeiro Único;12.205.213/0001-39;30/09/2010;40002206504;R$ 27,95;Estimado;BELMIRO DE OLIVEIRA;40013;Deputado Estadual;PSB;MG;
-Comitê Financeiro Único;12.205.213/0001-39;03/09/2010;40002206503;R$ 1.197,84;Estimado;BELMIRO DE OLIVEIRA;40013;Deputado Estadual;PSB;MG;
-Comitê Financeiro Único;12.205.213/0001-39;30/09/2010;40002206502;R$ 508,00;Estimado;BELMIRO DE OLIVEIRA;40013;Deputado Estadual;PSB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.213/0001-39;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.197,84;Estimado;Comitê Financeiro Único - PSB -  / 40013 - BELMIRO DE OLIVEIRA - MG - Deputado Estadual;
+Comitê Financeiro Único;12.205.213/0001-39;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 27,95;Estimado;Comitê Financeiro Único - PSB -  / 40013 - BELMIRO DE OLIVEIRA - MG - Deputado Estadual;
+Comitê Financeiro Único;12.205.213/0001-39;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 508,00;Estimado;Comitê Financeiro Único - PSB -  / 40013 - BELMIRO DE OLIVEIRA - MG - Deputado Estadual;
+PREFEITURA DO MUNICÍPIO DE LAGOA SANTA;09.642.797/0001-03;01/10/2010;       Publicidade por materiais impressos;R$ 1.500,00;Transferência eletrônica; -  -  / 40013 - BELMIRO DE OLIVEIRA - MG - Deputado Estadual;

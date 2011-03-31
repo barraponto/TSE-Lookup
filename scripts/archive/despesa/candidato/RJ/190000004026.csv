@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTHONY WILLIAM GAROTINHO MATHEUS DE OLIVEIRA;12.199.794/0001-43;04/08/2010;22000166301;R$ 175,00;Estimado;PAULO DE AQUINO;22365;Deputado Estadual;PR;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTHONY WILLIAM GAROTINHO MATHEUS DE OLIVEIRA;12.199.794/0001-43;04/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 175,00;Estimado;2258 -  - PR -  - Deputado Federal / 22365 - PAULO DE AQUINO - RJ - Deputado Estadual;

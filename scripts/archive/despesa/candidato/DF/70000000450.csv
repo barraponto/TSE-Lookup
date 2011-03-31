@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.270.065/0001-36;16/08/2010;27000043965;R$ 720,00;Estimado;WALDENOR FERREIRA PARAENSE;27130;Deputado Distrital;PSDC;DF;
-GRAFICA SERMA;26.468.231/0001-18;20/07/2010;27000043962;R$ 445,00;Estimado;WALDENOR FERREIRA PARAENSE;27130;Deputado Distrital;PSDC;DF;
-POLI TECNOLOGIA LTDA;11.440.142/0001-96;06/07/2010;27000043961;R$ 960,00;Estimado;WALDENOR FERREIRA PARAENSE;27130;Deputado Distrital;PSDC;DF;
-WALDENOR FERREIRA PARAENSE;059.997.661-68;25/08/2010;27000043964;R$ 400,00;Estimado;WALDENOR FERREIRA PARAENSE;27130;Deputado Distrital;PSDC;DF;
-WALDENOR FERREIRA PARAENSE;059.997.661-68;30/07/2010;27000043963;R$ 500,00;Estimado;WALDENOR FERREIRA PARAENSE;27130;Deputado Distrital;PSDC;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.270.065/0001-36;16/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 720,00;Estimado;Direção Estadual/Distrital - PSDC -  / 27130 - WALDENOR FERREIRA PARAENSE - DF - Deputado Distrital;
+GRAFICA SERMA;26.468.231/0001-18;20/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 445,00;Estimado; -  -  / 27130 - WALDENOR FERREIRA PARAENSE - DF - Deputado Distrital;
+POLI TECNOLOGIA LTDA;11.440.142/0001-96;06/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 960,00;Estimado; -  -  / 27130 - WALDENOR FERREIRA PARAENSE - DF - Deputado Distrital;
+WALDENOR FERREIRA PARAENSE;059.997.661-68;30/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 27130 - WALDENOR FERREIRA PARAENSE - DF - Deputado Distrital;
+WALDENOR FERREIRA PARAENSE;059.997.661-68;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado; -  -  / 27130 - WALDENOR FERREIRA PARAENSE - DF - Deputado Distrital;

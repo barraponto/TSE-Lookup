@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JORGE PANZERA;12.204.180/0001-02;05/08/2010;65000227551;R$ 240,00;Estimado;LUIS ANTONIO DA SILVA BOMFIM;65147;Deputado Estadual;PC do B;PA;
-JORGE PANZERA;12.204.180/0001-02;14/09/2010;65000227552;R$ 161,00;Estimado;LUIS ANTONIO DA SILVA BOMFIM;65147;Deputado Estadual;PC do B;PA;
-PAULO ROCHA;12.168.406/0001-67;25/09/2010;65000227553;R$ 420,00;Estimado;LUIS ANTONIO DA SILVA BOMFIM;65147;Deputado Estadual;PC do B;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JORGE PANZERA;12.204.180/0001-02;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 240,00;Estimado;6565 -  - PC do B -  - Deputado Federal / 65147 - LUIS ANTONIO DA SILVA BOMFIM - PA - Deputado Estadual;
+JORGE PANZERA;12.204.180/0001-02;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 161,00;Estimado;6565 -  - PC do B -  - Deputado Federal / 65147 - LUIS ANTONIO DA SILVA BOMFIM - PA - Deputado Estadual;
+PAULO ROCHA;12.168.406/0001-67;25/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 420,00;Estimado;131 -  - PT -  - Senador / 65147 - LUIS ANTONIO DA SILVA BOMFIM - PA - Deputado Estadual;

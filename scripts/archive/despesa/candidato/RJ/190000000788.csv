@@ -1,5 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CONSTRUTORA CRISTAL LTDA.;01.943.139/0001-31;31/08/2010;40001001258;R$ 2.000,00;Cheque;MARCIO JONE PEREIRA DE ALMEIDA;40088;Deputado Estadual;PSB;RJ;
-Diretório Estadual/Distrital;01.669.171/0001-70;04/09/2010;40001001255;R$ 392,15;Estimado;MARCIO JONE PEREIRA DE ALMEIDA;40088;Deputado Estadual;PSB;RJ;
-GESIEL COUTINHO PEREIRA;068.405.977-09;29/10/2010;40001001256;R$ 700,00;Depósito em espécie;MARCIO JONE PEREIRA DE ALMEIDA;40088;Deputado Estadual;PSB;RJ;
-JOÃO VITOR PÓVOAS GOMES;090.812.787-11;29/10/2010;40001001257;R$ 700,00;Depósito em espécie;MARCIO JONE PEREIRA DE ALMEIDA;40088;Deputado Estadual;PSB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;01.669.171/0001-70;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 392,15;Estimado;Direção Estadual/Distrital - PSB -  / 40088 - MARCIO JONE PEREIRA DE ALMEIDA - RJ - Deputado Estadual;
+GRÁFICA LAGOS LETRAS LTDA.;01.107.091/0001-21;01/09/2010;       Publicidade por placas, estandartes e faixas;R$ 1.617,10;Cheque; -  -  / 40088 - MARCIO JONE PEREIRA DE ALMEIDA - RJ - Deputado Estadual;
+MEDIDA EXATA SERVIÇOS E AGENCIAMENTO GRÁFICO LTDA.;11.884.065/0001-63;01/09/2010;       Publicidade por materiais impressos;R$ 1.250,00;Cheque; -  -  / 40088 - MARCIO JONE PEREIRA DE ALMEIDA - RJ - Deputado Estadual;
+POSTO ITAJURÚ DE CABO FRIO LTDA.;00.854.590/0001-10;01/09/2010;       Combustíveis e lubrificantes;R$ 521,30;Cheque; -  -  / 40088 - MARCIO JONE PEREIRA DE ALMEIDA - RJ - Deputado Estadual;
+;;03/11/2010;       Encargos financeiros e taxas bancárias;R$ 5,80;Débito em conta; -  -  / 40088 - MARCIO JONE PEREIRA DE ALMEIDA - RJ - Deputado Estadual;
+;;20/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 40088 - MARCIO JONE PEREIRA DE ALMEIDA - RJ - Deputado Estadual;
+;;03/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 40088 - MARCIO JONE PEREIRA DE ALMEIDA - RJ - Deputado Estadual;

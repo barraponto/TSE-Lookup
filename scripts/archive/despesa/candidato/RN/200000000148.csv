@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOÃO DA SILVA MAIA;12.170.044/0001-49;29/07/2010;22000056201;R$ 5.000,00;Estimado;SONIA MARIA TENORIO;22888;Deputado Estadual;PR;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JOÃO DA SILVA MAIA;12.170.044/0001-49;29/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 5.000,00;Estimado;2222 -  - PR -  - Deputado Federal / 22888 - SONIA MARIA TENORIO - RN - Deputado Estadual;

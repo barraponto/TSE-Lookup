@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 RICARDO VIEIRA COUTINHO;12.173.462/0001-90;29/08/2010;44000046432;R$ 30,00;Estimado;FLÁVIO LUIS DE MENEZES;4444;Deputado Federal;PRP;PB;
-ELEIÇÃO 2010 RICARDO VIEIRA COUTINHO;12.173.462/0001-90;11/08/2010;44000046431;R$ 125,00;Estimado;FLÁVIO LUIS DE MENEZES;4444;Deputado Federal;PRP;PB;
-ELEICOES 2010 RICARDO VIEIRA COUTINHO;12.173.462/0001-90;29/07/2010;44000046438;R$ 460,00;Estimado;FLÁVIO LUIS DE MENEZES;4444;Deputado Federal;PRP;PB;
-ELEIÇOES 2010 RICARDO VIEIRA COUTINHO;12.173.462/0001-90;01/10/2010;44000046434;R$ 1.192,50;Estimado;FLÁVIO LUIS DE MENEZES;4444;Deputado Federal;PRP;PB;
-ELEIÇOES 2010 RICARDO VIEIRA COUTINHO;12.173.462/0001-90;30/09/2010;44000046433;R$ 32,00;Estimado;FLÁVIO LUIS DE MENEZES;4444;Deputado Federal;PRP;PB;
-FLAVIO LUIS DE MENEZES;203.771.774-15;27/10/2010;44000046437;R$ 2,00;Depósito em espécie;FLÁVIO LUIS DE MENEZES;4444;Deputado Federal;PRP;PB;
-FLAVIO LUIS DE MENEZES;203.771.774-15;19/08/2010;44000046436;R$ 360,00;Transferência eletrônica;FLÁVIO LUIS DE MENEZES;4444;Deputado Federal;PRP;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANA LUIZA GOMES DE MENEZES;11.308.358/0001-00;23/08/2010;       Publicidade por materiais impressos;R$ 350,00;Cheque; -  -  / 4444 - FLÁVIO LUIS DE MENEZES - PB - Deputado Federal;
+ELEIÇÃO 2010 RICARDO VIEIRA COUTINHO;12.173.462/0001-90;29/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 30,00;Estimado;40 -  - PSB -  - Governador / 4444 - FLÁVIO LUIS DE MENEZES - PB - Deputado Federal;
+ELEIÇÃO 2010 RICARDO VIEIRA COUTINHO;12.173.462/0001-90;11/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 125,00;Estimado;40 -  - PSB -  - Governador / 4444 - FLÁVIO LUIS DE MENEZES - PB - Deputado Federal;
+ELEICOES 2010 RICARDO VIEIRA COUTINHO;12.173.462/0001-90;29/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 460,00;Estimado;40 -  - PSB -  - Governador / 4444 - FLÁVIO LUIS DE MENEZES - PB - Deputado Federal;
+ELEIÇOES 2010 RICARDO VIEIRA COUTINHO;12.173.462/0001-90;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.192,50;Estimado;40 -  - PSB -  - Governador / 4444 - FLÁVIO LUIS DE MENEZES - PB - Deputado Federal;
+ELEIÇOES 2010 RICARDO VIEIRA COUTINHO;12.173.462/0001-90;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 32,00;Estimado;40 -  - PSB -  - Governador / 4444 - FLÁVIO LUIS DE MENEZES - PB - Deputado Federal;
+;;27/10/2010;       Encargos financeiros e taxas bancárias;R$ 12,00;Débito em conta; -  -  / 4444 - FLÁVIO LUIS DE MENEZES - PB - Deputado Federal;

@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.221.889/0001-16;30/08/2010;13000775803;R$ 160,00;Estimado;DIVANILDO PEREIRA DA SILVA;13444;Deputado Estadual;PT;PB;
-DIVANILDO PEREIRA DA SILVA;098.294.664-34;06/09/2010;13000775824;R$ 300,00;Depósito em espécie;DIVANILDO PEREIRA DA SILVA;13444;Deputado Estadual;PT;PB;
-GRÁFICA JB LTDA;08.540.403/0001-35;06/08/2010;13000775823;R$ 250,00;Estimado;DIVANILDO PEREIRA DA SILVA;13444;Deputado Estadual;PT;PB;
-JEOVÁ VIEIRA CAMPOS;12.241.652/0001-05;26/08/2010;13000775825;R$ 125,00;Estimado;DIVANILDO PEREIRA DA SILVA;13444;Deputado Estadual;PT;PB;
-JEOVÁ VIEIRA CAMPOS;12.241.652/0001-05;30/08/2010;13000775826;R$ 72,50;Estimado;DIVANILDO PEREIRA DA SILVA;13444;Deputado Estadual;PT;PB;
-JOSÉ TARGINO MARANHÃO;12.189.345/0001-14;30/08/2010;13000775822;R$ 150,00;Estimado;DIVANILDO PEREIRA DA SILVA;13444;Deputado Estadual;PT;PB;
-JOSÉ TARGINO MARANHÃO;12.189.345/0001-14;23/09/2010;13000775821;R$ 523,56;Estimado;DIVANILDO PEREIRA DA SILVA;13444;Deputado Estadual;PT;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.221.889/0001-16;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 160,00;Estimado;Comitê Financeiro Único - PT -  / 13444 - DIVANILDO PEREIRA DA SILVA - PB - Deputado Estadual;
+GRÁFICA JB LTDA;08.540.403/0001-35;06/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado; -  -  / 13444 - DIVANILDO PEREIRA DA SILVA - PB - Deputado Estadual;
+JEOVÁ VIEIRA CAMPOS;12.241.652/0001-05;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 72,50;Estimado;1380 -  - PT -  - Deputado Federal / 13444 - DIVANILDO PEREIRA DA SILVA - PB - Deputado Estadual;
+JEOVÁ VIEIRA CAMPOS;12.241.652/0001-05;26/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 125,00;Estimado;1380 -  - PT -  - Deputado Federal / 13444 - DIVANILDO PEREIRA DA SILVA - PB - Deputado Estadual;
+JOSÉ TARGINO MARANHÃO;12.189.345/0001-14;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;15 -  - PMDB -  - Governador / 13444 - DIVANILDO PEREIRA DA SILVA - PB - Deputado Estadual;
+JOSÉ TARGINO MARANHÃO;12.189.345/0001-14;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 523,56;Estimado;15 -  - PMDB -  - Governador / 13444 - DIVANILDO PEREIRA DA SILVA - PB - Deputado Estadual;
+MARCOS ANTÔNIO MARQUES ESTRELA;161.619.474-04;06/09/2010;       Serviços prestados por terceiros;R$ 300,00;Cheque; -  -  / 13444 - DIVANILDO PEREIRA DA SILVA - PB - Deputado Estadual;

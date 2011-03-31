@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLITO ALVES RODRIGUES;341.233.691-20;28/10/2010;31000068401;R$ 520,00;Depósito em espécie;CARLITO ALVES RODRIGUES;3154;Deputado Federal;PHS;GO;
-CARLITO ALVES RODRIGUES;341.233.691-20;29/10/2010;31000068402;R$ 3.000,00;Depósito em espécie;CARLITO ALVES RODRIGUES;3154;Deputado Federal;PHS;GO;
-CARLITO ALVES RODRIGUES;341.233.691-20;29/10/2010;31000068405;R$ 1.000,00;Depósito em espécie;CARLITO ALVES RODRIGUES;3154;Deputado Federal;PHS;GO;
-CARLITO ALVES RODRIGUES;341.233.691-20;29/10/2010;31000068404;R$ 67,00;Depósito em espécie;CARLITO ALVES RODRIGUES;3154;Deputado Federal;PHS;GO;
-CARLITO ALVES RODRIGUES;341.233.691-20;29/10/2010;31000068403;R$ 60,00;Depósito em espécie;CARLITO ALVES RODRIGUES;3154;Deputado Federal;PHS;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EDWILSON GONÇALVES RIOS;387.835.501-78;01/09/2010;       Cessão ou Locação de Veículos;R$ 3.000,00;Cheque; -  -  / 3154 - CARLITO ALVES RODRIGUES - GO - Deputado Federal;
+J&G REPRESENTAÇÕES LTDA - ME;00.110.901/0001-36;08/09/2010;       Publicidade por materiais impressos;R$ 520,00;Cheque; -  -  / 3154 - CARLITO ALVES RODRIGUES - GO - Deputado Federal;
+JOÃO VITOR TEIXEIRA FERNANDES ME;09.166.806/0001-29;16/09/2010;       Combustíveis e lubrificantes;R$ 1.000,00;Cheque; -  -  / 3154 - CARLITO ALVES RODRIGUES - GO - Deputado Federal;
+JOÃO VITOR TEIXEIRA FERNANDES ME;09.166.806/0001-29;09/09/2010;       Combustíveis e lubrificantes;R$ 67,00;Cheque; -  -  / 3154 - CARLITO ALVES RODRIGUES - GO - Deputado Federal;
+JOÃO VITOR TEIXEIRA FERNANDES ME;09.166.806/0001-29;09/09/2010;       Combustíveis e lubrificantes;R$ 60,00;Cheque; -  -  / 3154 - CARLITO ALVES RODRIGUES - GO - Deputado Federal;

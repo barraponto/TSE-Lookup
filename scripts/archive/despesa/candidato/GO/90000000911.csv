@@ -1,7 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.504/0001-15;02/10/2010;45000104452;R$ 1.180,00;Estimado;MARCOS SOUZA CORREIA;45999;Deputado Estadual;PSDB;GO;
-Comitê Financeiro Único;12.191.504/0001-15;02/10/2010;45000104451;R$ 1.560,00;Estimado;MARCOS SOUZA CORREIA;45999;Deputado Estadual;PSDB;GO;
-Comitê Financeiro Único;12.191.504/0001-15;02/10/2010;45000104453;R$ 1.200,00;Estimado;MARCOS SOUZA CORREIA;45999;Deputado Estadual;PSDB;GO;
-ELEIÇAO 2010 MARCOS SOUZA CORREIA DEPUTADO ESTADUAL;789.770.451-34;02/08/2010;45000104455;R$ 300,00;Transferência eletrônica;MARCOS SOUZA CORREIA;45999;Deputado Estadual;PSDB;GO;
-ELEIÇAO 2010 MARCOS SOUZA CORREIA DEPUTADO ESTADUAL;789.770.451-34;05/08/2010;45000104454;R$ 300,00;Transferência eletrônica;MARCOS SOUZA CORREIA;45999;Deputado Estadual;PSDB;GO;
-ELEIÇAO 2010 MARCOS SOUZA CORREIA DEPUTADO ESTADUAL;789.770.451-34;03/08/2010;45000104456;R$ 400,00;Transferência eletrônica;MARCOS SOUZA CORREIA;45999;Deputado Estadual;PSDB;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADRIANA DA COSTA ALMEIDA;782.825.431-87;12/08/2010;       Diversas a especificar;R$ 100,00;Cheque; -  -  / 45999 - MARCOS SOUZA CORREIA - GO - Deputado Estadual;
+ANTONIO GILBERTO DE SOUSA;165.066.501-68;11/08/2010;       Despesas com pessoal;R$ 100,00;Transferência eletrônica; -  -  / 45999 - MARCOS SOUZA CORREIA - GO - Deputado Estadual;
+ASA EDITORA GRAFICA LTDA;04.291.883/0001-97;03/08/2010;       Publicidade por materiais impressos;R$ 700,00;Cheque; -  -  / 45999 - MARCOS SOUZA CORREIA - GO - Deputado Estadual;
+Comitê Financeiro Único;12.191.504/0001-15;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.200,00;Estimado;Comitê Financeiro Único - PSDB -  / 45999 - MARCOS SOUZA CORREIA - GO - Deputado Estadual;
+Comitê Financeiro Único;12.191.504/0001-15;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.180,00;Estimado;Comitê Financeiro Único - PSDB -  / 45999 - MARCOS SOUZA CORREIA - GO - Deputado Estadual;
+Comitê Financeiro Único;12.191.504/0001-15;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.560,00;Estimado;Comitê Financeiro Único - PSDB -  / 45999 - MARCOS SOUZA CORREIA - GO - Deputado Estadual;
+;;11/08/2010;       Encargos financeiros e taxas bancárias;R$ 3,00;Débito em conta; -  -  / 45999 - MARCOS SOUZA CORREIA - GO - Deputado Estadual;

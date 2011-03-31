@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANALDO JORDY FIGUEIREDO;12.173.289/0001-20;20/09/2010;23000169483;R$ 210,00;Estimado;JOSCELINA DA SIULVA BASTOS;23234;Deputado Estadual;PPS;PA;
-ARNALDO JORDY FIGEIREDO;12.173.289/0001-20;15/09/2010;23000169482;R$ 250,00;Estimado;JOSCELINA DA SIULVA BASTOS;23234;Deputado Estadual;PPS;PA;
-ARNALDO JORDY FIGUEIREDO;12.173.289/0001-20;05/09/2010;23000169481;R$ 55,00;Estimado;JOSCELINA DA SIULVA BASTOS;23234;Deputado Estadual;PPS;PA;
-ARNALDO JORDY FIGUEIREDO;12.173.289/0001-20;29/09/2010;23000169484;R$ 36,00;Estimado;JOSCELINA DA SIULVA BASTOS;23234;Deputado Estadual;PPS;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANALDO JORDY FIGUEIREDO;12.173.289/0001-20;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 210,00;Estimado;2323 -  - PPS -  - Deputado Federal / 23234 - JOSCELINA DA SIULVA BASTOS - PA - Deputado Estadual;
+ARNALDO JORDY FIGEIREDO;12.173.289/0001-20;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;2323 -  - PPS -  - Deputado Federal / 23234 - JOSCELINA DA SIULVA BASTOS - PA - Deputado Estadual;
+ARNALDO JORDY FIGUEIREDO;12.173.289/0001-20;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 55,00;Estimado;2323 -  - PPS -  - Deputado Federal / 23234 - JOSCELINA DA SIULVA BASTOS - PA - Deputado Estadual;
+ARNALDO JORDY FIGUEIREDO;12.173.289/0001-20;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 36,00;Estimado;2323 -  - PPS -  - Deputado Federal / 23234 - JOSCELINA DA SIULVA BASTOS - PA - Deputado Estadual;

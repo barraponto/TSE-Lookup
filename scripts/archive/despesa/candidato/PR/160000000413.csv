@@ -1,4 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;23/09/2010;19000040702;R$ 500,00;Estimado;MARIA IZABEL SANTOS FERREIRA;19019;Deputado Estadual;PTN;PR;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;13/08/2010;19000040701;R$ 630,00;Estimado;MARIA IZABEL SANTOS FERREIRA;19019;Deputado Estadual;PTN;PR;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;30/09/2010;19000040703;R$ 1.680,00;Depósito em espécie;MARIA IZABEL SANTOS FERREIRA;19019;Deputado Estadual;PTN;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANDSON LUIZ BRAZ DE OLIVEIRA;027.791.389-63;03/10/2010;       Despesas com pessoal;R$ 300,00;Não informado; -  -  / 19019 - MARIA IZABEL SANTOS FERREIRA - PR - Deputado Estadual;
+BUFFET PIPOL LUZELIA APARECIDA BATISTÃO DOS PASSOS;02.749.504/0001-34;02/10/2010;       Alimentação;R$ 110,00;Não informado; -  -  / 19019 - MARIA IZABEL SANTOS FERREIRA - PR - Deputado Estadual;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;13/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 630,00;Estimado;45 -  - PSDB -  - Governador / 19019 - MARIA IZABEL SANTOS FERREIRA - PR - Deputado Estadual;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;45 -  - PSDB -  - Governador / 19019 - MARIA IZABEL SANTOS FERREIRA - PR - Deputado Estadual;
+EUCLIDES GUEDES FERREIRA;171.590.249-15;03/10/2010;       Despesas com pessoal;R$ 400,00;Não informado; -  -  / 19019 - MARIA IZABEL SANTOS FERREIRA - PR - Deputado Estadual;
+LAURA FERNANDA BAUMEL DE OLIVEIRA;047.143.149-47;03/10/2010;       Despesas com pessoal;R$ 160,00;Não informado; -  -  / 19019 - MARIA IZABEL SANTOS FERREIRA - PR - Deputado Estadual;
+ROSIMERI SANTOS BAUMEL;464.147.209-25;03/10/2010;       Despesas com pessoal;R$ 167,00;Não informado; -  -  / 19019 - MARIA IZABEL SANTOS FERREIRA - PR - Deputado Estadual;
+SIMONE CORDEIRO;941.677.379-49;03/10/2010;       Despesas com pessoal;R$ 188,00;Não informado; -  -  / 19019 - MARIA IZABEL SANTOS FERREIRA - PR - Deputado Estadual;
+VALDEMAR RITA DE LIMA;867.973.019-04;03/10/2010;       Despesas com pessoal;R$ 167,00;Não informado; -  -  / 19019 - MARIA IZABEL SANTOS FERREIRA - PR - Deputado Estadual;
+VANDA PIETROBELLI LIMA;062.981.889-40;03/10/2010;       Despesas com pessoal;R$ 188,00;Não informado; -  -  / 19019 - MARIA IZABEL SANTOS FERREIRA - PR - Deputado Estadual;

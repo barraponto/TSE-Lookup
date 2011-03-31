@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 CARLOS ALBERTO RICHA GOVERNADOR;12.190.887/0001-07;19/08/2010;19000041301;R$ 630,00;Estimado;SEBASTIÃO ZANARDINI ALMEIDA;1969;Deputado Federal;PTN;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 CARLOS ALBERTO RICHA GOVERNADOR;12.190.887/0001-07;19/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 630,00;Estimado;45 -  - PSDB -  - Governador / 1969 - SEBASTIÃO ZANARDINI ALMEIDA - PR - Deputado Federal;

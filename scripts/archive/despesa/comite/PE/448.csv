@@ -1,2 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
-Comitê Financeiro Nacional para Presidente da República;12.101.096/0001-63;24/09/2010;13000798201;R$ 60.000,00;Transferência eletrônica;Comitê Financeiro Único;PT;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ETIQUETAS BRASIL INDUSTRIA GRAFICA LTDA;01.515.239/0001-67;01/10/2010;       Publicidade por materiais impressos;R$ 9.000,00;Cheque; -  -  / Comitê Financeiro Único - PT - PE;
+GRAFICA FLAMAR EDITORA LTDA;04.165.277/0001-25;01/10/2010;       Publicidade por materiais impressos;R$ 33.600,00;Cheque; -  -  / Comitê Financeiro Único - PT - PE;
+LM GRAFICA E EDITORA LTDA ME;70.073.994/0001-51;24/09/2010;       Publicidade por materiais impressos;R$ 16.490,00;Cheque; -  -  / Comitê Financeiro Único - PT - PE;

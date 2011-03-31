@@ -1,6 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CRISTIANE ELIZABETE B ESPINDOLA;373.467.761-00;26/08/2010;19000014151;R$ 500,00;Depósito em espécie;NIXON BRASIL LIMA;19019;Deputado Distrital;PTN;DF;
-CRISTIANE ELIZABETE B ESPINDOLA;373.467.761-00;31/08/2010;19000014152;R$ 1.225,00;Estimado;NIXON BRASIL LIMA;19019;Deputado Distrital;PTN;DF;
-CRISTIANE ELIZABETE B ESPINDOLA;373.467.761-00;31/08/2010;19000014153;R$ 780,00;Estimado;NIXON BRASIL LIMA;19019;Deputado Distrital;PTN;DF;
-CRISTIANE ELIZABETE B ESPINDOLA;373.467.761-00;01/09/2010;19000014154;R$ 2.500,00;Depósito em espécie;NIXON BRASIL LIMA;19019;Deputado Distrital;PTN;DF;
-LUIZ CARLOS PIESTCHMANN;12.174.266/0001-30;01/10/2010;19000014156;R$ 450,00;Estimado;NIXON BRASIL LIMA;19019;Deputado Distrital;PTN;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CRISTIANE ELIZABETE B ESPINDOLA;373.467.761-00;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.225,00;Estimado; -  -  / 19019 - NIXON BRASIL LIMA - DF - Deputado Distrital;
+CRISTIANE ELIZABETE B ESPINDOLA;373.467.761-00;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 780,00;Estimado; -  -  / 19019 - NIXON BRASIL LIMA - DF - Deputado Distrital;
+EFN FESTAS E EVENTOS LTDA ME;72.615.776/0001-27;27/09/2010;       Comícios;R$ 80,00;Cheque; -  -  / 19019 - NIXON BRASIL LIMA - DF - Deputado Distrital;
+GRAFICA E EDITORA LTDA EPP;33.481.276/0001-98;10/09/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 19019 - NIXON BRASIL LIMA - DF - Deputado Distrital;
+JRA TELECOMUNICAÇÕES LTDA;06.198.922/0001-31;06/09/2010;       Publicidade por carros de som;R$ 2.000,00;Cheque; -  -  / 19019 - NIXON BRASIL LIMA - DF - Deputado Distrital;
+LUIZ CARLOS PIESTCHMANN;12.174.266/0001-30;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 450,00;Estimado;1515 -  - PMDB -  - Deputado Federal / 19019 - NIXON BRASIL LIMA - DF - Deputado Distrital;
+RESTAURANTE E LANCHONETE BAMBUI LTDA;10.791.404/0001-02;02/10/2010;       Alimentação;R$ 56,80;Cheque; -  -  / 19019 - NIXON BRASIL LIMA - DF - Deputado Distrital;
+SERGIO GOMES DE SOUZA;776.262.731-68;02/09/2010;       Serviços prestados por terceiros;R$ 400,00;Cheque; -  -  / 19019 - NIXON BRASIL LIMA - DF - Deputado Distrital;
+;;01/09/2010;       Encargos financeiros e taxas bancárias;R$ 28,00;Débito em conta; -  -  / 19019 - NIXON BRASIL LIMA - DF - Deputado Distrital;

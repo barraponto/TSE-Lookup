@@ -1,5 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CLAUS WERNNER GOTZ;356.044.760-72;30/08/2010;43001893848;R$ 5.000,00;Estimado;MARGARIDA MARTINS PIMENTA GOTZ;43654;Deputado Estadual;PV;CE;
-CLAUS WERNNER GOTZ;356.044.760-72;03/10/2010;43001893849;R$ 5.000,00;Estimado;MARGARIDA MARTINS PIMENTA GOTZ;43654;Deputado Estadual;PV;CE;
-HANNA KOLFHAUS GOTZ;823.701.090-68;01/09/2010;43001893847;R$ 500,00;Depósito em espécie;MARGARIDA MARTINS PIMENTA GOTZ;43654;Deputado Estadual;PV;CE;
-URIEL PEREIRA DA SILVA;727.929.819-20;30/08/2010;43001893846;R$ 500,00;Depósito em espécie;MARGARIDA MARTINS PIMENTA GOTZ;43654;Deputado Estadual;PV;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADEZIVA COMUNICAÇÃO VISUAL;09.470.449/0001-98;08/09/2010;       Publicidade por placas, estandartes e faixas;R$ 90,00;Cheque; -  -  / 43654 - MARGARIDA MARTINS PIMENTA GOTZ - CE - Deputado Estadual;
+BEZERRA & RIOS COMÉRCIO DE COBUSTÍVEIS LTDA. - ME;10.383.433/0001-27;20/09/2010;       Combustíveis e lubrificantes;R$ 101,60;Cheque; -  -  / 43654 - MARGARIDA MARTINS PIMENTA GOTZ - CE - Deputado Estadual;
+BEZERRA & RIOS COMÉRCIO DE COBUSTÍVEIS LTDA. - ME;10.383.433/0001-27;01/09/2010;       Combustíveis e lubrificantes;R$ 93,51;Cheque; -  -  / 43654 - MARGARIDA MARTINS PIMENTA GOTZ - CE - Deputado Estadual;
+BEZERRA & RIOS COMÉRCIO DE COBUSTÍVEIS LTDA. - ME;10.383.433/0001-27;09/09/2010;       Combustíveis e lubrificantes;R$ 91,00;Cheque; -  -  / 43654 - MARGARIDA MARTINS PIMENTA GOTZ - CE - Deputado Estadual;
+CLAUS WERNNER GOTZ;356.044.760-72;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 5.000,00;Estimado; -  -  / 43654 - MARGARIDA MARTINS PIMENTA GOTZ - CE - Deputado Estadual;
+CLAUS WERNNER GOTZ;356.044.760-72;03/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 5.000,00;Estimado; -  -  / 43654 - MARGARIDA MARTINS PIMENTA GOTZ - CE - Deputado Estadual;
+M&M BEZERRA SERVIÇOS GRÁFICOS LTDA. - ME;11.832.335/0001-92;13/09/2010;       Publicidade por materiais impressos;R$ 360,00;Cheque; -  -  / 43654 - MARGARIDA MARTINS PIMENTA GOTZ - CE - Deputado Estadual;
+M&M BEZERRA SERVIÇOS GRÁFICOS LTDA. - ME;11.832.335/0001-92;10/09/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 43654 - MARGARIDA MARTINS PIMENTA GOTZ - CE - Deputado Estadual;
+;;01/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 43654 - MARGARIDA MARTINS PIMENTA GOTZ - CE - Deputado Estadual;
+;;20/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 43654 - MARGARIDA MARTINS PIMENTA GOTZ - CE - Deputado Estadual;
+;;03/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 43654 - MARGARIDA MARTINS PIMENTA GOTZ - CE - Deputado Estadual;

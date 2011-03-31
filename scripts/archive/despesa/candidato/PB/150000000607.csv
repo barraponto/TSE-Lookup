@@ -1,4 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSE LUIZ BARBOSA RAMALHO CLEROT;12.189.317/0001-05;29/09/2010;27000038871;R$ 1.373,00;Estimado;JOSE RONALDO DOS SANTOS;27777;Deputado Estadual;PSDC;PB;
-JOSE RONALDO DOS SANTOS;003.910.978-06;20/08/2010;27000038872;R$ 1.200,00;Depósito em espécie;JOSE RONALDO DOS SANTOS;27777;Deputado Estadual;PSDC;PB;
-JOSE RONALDO DOS SANTOS;003.910.978-06;01/09/2010;27000038873;R$ 3.000,00;Depósito em espécie;JOSE RONALDO DOS SANTOS;27777;Deputado Estadual;PSDC;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JOAO CARLOS BARROS PEIXOTO;376.426.504-34;30/09/2010;       Serviços prestados por terceiros;R$ 95,00;Cheque; -  -  / 27777 - JOSE RONALDO DOS SANTOS - PB - Deputado Estadual;
+JOSE LUIZ BARBOSA RAMALHO CLEROT;12.189.317/0001-05;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.373,00;Estimado;1520 -  - PMDB -  - Deputado Federal / 27777 - JOSE RONALDO DOS SANTOS - PB - Deputado Estadual;
+LADILSON DE SOUZA ARAUJO;282.005.604-06;03/10/2010;       Alimentação;R$ 3,95;Cheque; -  -  / 27777 - JOSE RONALDO DOS SANTOS - PB - Deputado Estadual;
+UNIAO ARTES GRAFICAS LTDA;08.300.949/0001-19;31/08/2010;       Publicidade por materiais impressos;R$ 1.400,00;Cheque; -  -  / 27777 - JOSE RONALDO DOS SANTOS - PB - Deputado Estadual;
+UNIAO ARTES GRAFICAS LTDA;08.300.949/0001-19;20/08/2010;       Publicidade por materiais impressos;R$ 1.200,00;Cheque; -  -  / 27777 - JOSE RONALDO DOS SANTOS - PB - Deputado Estadual;
+UNIAO ARTES GRAFICAS LTDA;08.300.949/0001-19;25/08/2010;       Publicidade por materiais impressos;R$ 1.500,00;Cheque; -  -  / 27777 - JOSE RONALDO DOS SANTOS - PB - Deputado Estadual;
+;;26/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 27777 - JOSE RONALDO DOS SANTOS - PB - Deputado Estadual;
+;;28/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 27777 - JOSE RONALDO DOS SANTOS - PB - Deputado Estadual;
+;;01/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 27777 - JOSE RONALDO DOS SANTOS - PB - Deputado Estadual;

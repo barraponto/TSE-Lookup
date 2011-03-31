@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 TEOTONIO BRANDÃO VILELA FILHO GOVERNADOR;12.170.978/0001-80;30/09/2010;23000039000;R$ 4.395,45;Estimado;TELMO SOARES DE LIRA;23998;Deputado Estadual;PPS;AL;
-ELEIÇÃO 2010 TEOTONIO BRANDÃO VILELA FILHO GOVERNADOR;12.170.978/0001-80;28/09/2010;23000039001;R$ 750,00;Estimado;TELMO SOARES DE LIRA;23998;Deputado Estadual;PPS;AL;
-GEDSON  BASÍLIO TAVARES;994.919.074-68;01/10/2010;23000039002;R$ 900,00;Estimado;TELMO SOARES DE LIRA;23998;Deputado Estadual;PPS;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 TEOTONIO BRANDÃO VILELA FILHO GOVERNADOR;12.170.978/0001-80;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.395,45;Estimado;45 -  - PSDB -  - Governador / 23998 - TELMO SOARES DE LIRA - AL - Deputado Estadual;
+ELEIÇÃO 2010 TEOTONIO BRANDÃO VILELA FILHO GOVERNADOR;12.170.978/0001-80;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 750,00;Estimado;45 -  - PSDB -  - Governador / 23998 - TELMO SOARES DE LIRA - AL - Deputado Estadual;
+GEDSON  BASÍLIO TAVARES;994.919.074-68;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 900,00;Estimado; -  -  / 23998 - TELMO SOARES DE LIRA - AL - Deputado Estadual;

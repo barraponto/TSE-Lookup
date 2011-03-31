@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Nacional para Presidente da República;12.229.920/0001-65;02/10/2010;29000000603;R$ 80,00;Estimado;ADILSON ROSA DOS SANTOS;29;Governador;PCO;MG;
-DIEGO ABRAHÃO;288.931.898-28;02/10/2010;29000000601;R$ 200,00;Estimado;ADILSON ROSA DOS SANTOS;29;Governador;PCO;MG;
-IRACEMA SANTOS DE CAMPOS;084.739.888-92;02/10/2010;29000000602;R$ 150,00;Estimado;ADILSON ROSA DOS SANTOS;29;Governador;PCO;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Nacional para Presidente da República;12.229.920/0001-65;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 80,00;Estimado;Comitê Financeiro Nacional para Presidente da República - PCO -  / 29 - ADILSON ROSA DOS SANTOS - MG - Governador;
+DIEGO ABRAHÃO;288.931.898-28;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado; -  -  / 29 - ADILSON ROSA DOS SANTOS - MG - Governador;
+IRACEMA SANTOS DE CAMPOS;084.739.888-92;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado; -  -  / 29 - ADILSON ROSA DOS SANTOS - MG - Governador;

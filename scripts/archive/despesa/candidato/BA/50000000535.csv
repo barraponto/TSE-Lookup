@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.570/0001-95;30/08/2010;33000118402;R$ 204,00;Estimado;JOSE VANILDO BISPO DOS SANTOS;33033;Deputado Estadual;PMN;BA;
-Comitê Financeiro Único;12.191.570/0001-95;31/07/2010;33000118401;R$ 192,00;Estimado;JOSE VANILDO BISPO DOS SANTOS;33033;Deputado Estadual;PMN;BA;
-Comitê Financeiro Único;12.191.496/0001-07;14/09/2010;33000118405;R$ 15,00;Estimado;JOSE VANILDO BISPO DOS SANTOS;33033;Deputado Estadual;PMN;BA;
-Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;33000118403;R$ 572,40;Estimado;JOSE VANILDO BISPO DOS SANTOS;33033;Deputado Estadual;PMN;BA;
-Comitê Financeiro Único;29.549.433/0001-82;31/08/2010;33000118404;R$ 250,00;Estimado;JOSE VANILDO BISPO DOS SANTOS;33033;Deputado Estadual;PMN;BA;
-JOSE EVANILDO BISPO DOS SANTOS;090.934.275-04;15/09/2010;33000118406;R$ 240,00;Estimado;JOSE VANILDO BISPO DOS SANTOS;33033;Deputado Estadual;PMN;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.570/0001-95;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 204,00;Estimado;Comitê Financeiro Único - PMDB -  / 33033 - JOSE VANILDO BISPO DOS SANTOS - BA - Deputado Estadual;
+Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 572,40;Estimado;Comitê Financeiro Único - PMDB -  / 33033 - JOSE VANILDO BISPO DOS SANTOS - BA - Deputado Estadual;
+Comitê Financeiro Único;12.191.570/0001-95;31/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 192,00;Estimado;Comitê Financeiro Único - PMDB -  / 33033 - JOSE VANILDO BISPO DOS SANTOS - BA - Deputado Estadual;
+Comitê Financeiro Único;29.549.433/0001-82;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;Comitê Financeiro Único - PMN -  / 33033 - JOSE VANILDO BISPO DOS SANTOS - BA - Deputado Estadual;
+Comitê Financeiro Único;12.191.496/0001-07;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 15,00;Estimado;Comitê Financeiro Único - PMN -  / 33033 - JOSE VANILDO BISPO DOS SANTOS - BA - Deputado Estadual;
+JOSE EVANILDO BISPO DOS SANTOS;090.934.275-04;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 240,00;Estimado; -  -  / 33033 - JOSE VANILDO BISPO DOS SANTOS - BA - Deputado Estadual;

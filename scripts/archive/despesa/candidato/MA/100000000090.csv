@@ -1,5 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-RONALDO MATIAS BRAZIL;715.775.643-91;24/07/2010;36000060601;R$ 540,00;Estimado;JUSTINO OLIVEIRA FILHO;36363;Deputado Estadual;PTC;MA;
-RONALDO MATIAS BRAZIL;715.775.643-91;29/09/2010;36000060604;R$ 300,00;Estimado;JUSTINO OLIVEIRA FILHO;36363;Deputado Estadual;PTC;MA;
-RONALDO MATIAS BRAZIL;715.775.643-91;24/09/2010;36000060603;R$ 4.000,00;Estimado;JUSTINO OLIVEIRA FILHO;36363;Deputado Estadual;PTC;MA;
-RONALDO MATIAS BRAZIL;715.775.643-91;24/09/2010;36000060602;R$ 2.700,00;Estimado;JUSTINO OLIVEIRA FILHO;36363;Deputado Estadual;PTC;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALESANDRO GOMES DOS REIS;736.604.423-72;29/09/2010;       Despesas com pessoal;R$ 300,00;Não informado; -  -  / 36363 - JUSTINO OLIVEIRA FILHO - MA - Deputado Estadual;
+JOAO PEREIRA NUNES FILHO;741.054.003-63;24/09/2010;       Publicidade por materiais impressos;R$ 2.700,00;Não informado; -  -  / 36363 - JUSTINO OLIVEIRA FILHO - MA - Deputado Estadual;
+JOAO PEREIRA NUNES FILHO;741.054.003-63;24/07/2010;       Publicidade por materiais impressos;R$ 540,00;Não informado; -  -  / 36363 - JUSTINO OLIVEIRA FILHO - MA - Deputado Estadual;
+JOAO PEREIRA NUNES FILHO;741.054.003-63;28/09/2010;       Publicidade por materiais impressos;R$ 4.000,00;Não informado; -  -  / 36363 - JUSTINO OLIVEIRA FILHO - MA - Deputado Estadual;
+RONALDO MATIAS BRAZIL;715.775.643-91;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.700,00;Estimado; -  -  / 36363 - JUSTINO OLIVEIRA FILHO - MA - Deputado Estadual;
+RONALDO MATIAS BRAZIL;715.775.643-91;24/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 540,00;Estimado; -  -  / 36363 - JUSTINO OLIVEIRA FILHO - MA - Deputado Estadual;
+RONALDO MATIAS BRAZIL;715.775.643-91;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.000,00;Estimado; -  -  / 36363 - JUSTINO OLIVEIRA FILHO - MA - Deputado Estadual;
+RONALDO MATIAS BRAZIL;715.775.643-91;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 36363 - JUSTINO OLIVEIRA FILHO - MA - Deputado Estadual;

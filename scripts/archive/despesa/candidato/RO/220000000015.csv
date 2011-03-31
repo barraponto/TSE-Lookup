@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;84.638.196/0001-34;20/09/2010;65000280261;R$ 247,50;Estimado;MANOEL NAZARENO CARVALHO DA SILVA JUNIOR;6515;Deputado Federal;PC do B;RO;
-HERLEN GOMES DE BRITO;326.240.502-72;30/07/2010;65000280263;R$ 600,00;Estimado;MANOEL NAZARENO CARVALHO DA SILVA JUNIOR;6515;Deputado Federal;PC do B;RO;
-TO P NACIONAL;07.358.859/0001-16;12/08/2010;65000280264;R$ 1.026,00;Estimado;MANOEL NAZARENO CARVALHO DA SILVA JUNIOR;6515;Deputado Federal;PC do B;RO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;84.638.196/0001-34;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 247,50;Estimado;Direção Estadual/Distrital - PMDB -  / 6515 - MANOEL NAZARENO CARVALHO DA SILVA JUNIOR - RO - Deputado Federal;
+HERLEN GOMES DE BRITO;326.240.502-72;30/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado; -  -  / 6515 - MANOEL NAZARENO CARVALHO DA SILVA JUNIOR - RO - Deputado Federal;
+TO P NACIONAL;07.358.859/0001-16;12/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.026,00;Estimado; -  -  / 6515 - MANOEL NAZARENO CARVALHO DA SILVA JUNIOR - RO - Deputado Federal;

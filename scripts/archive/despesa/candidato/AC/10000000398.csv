@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.221.841/0001-08;17/09/2010;23000029097;R$ 627,00;Estimado;ANTONIO MARIANO DE FREITAS LIMA;23345;Deputado Estadual;PPS;AC;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.221.841/0001-08;06/09/2010;23000029096;R$ 709,74;Estimado;ANTONIO MARIANO DE FREITAS LIMA;23345;Deputado Estadual;PPS;AC;
-EDMILSON SOUZA COSTA;601.308.902-78;13/07/2010;23000029098;R$ 500,00;Estimado;ANTONIO MARIANO DE FREITAS LIMA;23345;Deputado Estadual;PPS;AC;
-MARCOS PAULO DE CASTRO;422.034.572-87;13/07/2010;23000029099;R$ 1.000,00;Estimado;ANTONIO MARIANO DE FREITAS LIMA;23345;Deputado Estadual;PPS;AC;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.221.841/0001-08;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 709,74;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual - PPS -  / 23345 - ANTONIO MARIANO DE FREITAS LIMA - AC - Deputado Estadual;
+Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.221.841/0001-08;17/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 627,00;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual - PPS -  / 23345 - ANTONIO MARIANO DE FREITAS LIMA - AC - Deputado Estadual;
+EDMILSON SOUZA COSTA;601.308.902-78;13/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 23345 - ANTONIO MARIANO DE FREITAS LIMA - AC - Deputado Estadual;
+MARCOS PAULO DE CASTRO;422.034.572-87;13/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 23345 - ANTONIO MARIANO DE FREITAS LIMA - AC - Deputado Estadual;

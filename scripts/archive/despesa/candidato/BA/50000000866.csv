@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.570/0001-95;04/08/2010;20000072501;R$ 192,00;Estimado;JOSE FRANCISCO DE SOUZA;20200;Deputado Estadual;PSC;BA;
-Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;20000072504;R$ 56,40;Estimado;JOSE FRANCISCO DE SOUZA;20200;Deputado Estadual;PSC;BA;
-Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;20000072505;R$ 572,40;Estimado;JOSE FRANCISCO DE SOUZA;20200;Deputado Estadual;PSC;BA;
-ERIVELTON LIMA SANTANA;12.173.661/0001-06;25/08/2010;20000072502;R$ 234,00;Estimado;JOSE FRANCISCO DE SOUZA;20200;Deputado Estadual;PSC;BA;
-ERIVELTON LIMA SANTANA;12.173.661/0001-06;05/09/2010;20000072506;R$ 250,00;Estimado;JOSE FRANCISCO DE SOUZA;20200;Deputado Estadual;PSC;BA;
-GEDDEL QUADROS VIEIRA LIMA;12.173.503/0001-48;31/08/2010;20000072503;R$ 204,00;Estimado;JOSE FRANCISCO DE SOUZA;20200;Deputado Estadual;PSC;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 572,40;Estimado;Comitê Financeiro Único - PMDB -  / 20200 - JOSE FRANCISCO DE SOUZA - BA - Deputado Estadual;
+Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 56,40;Estimado;Comitê Financeiro Único - PMDB -  / 20200 - JOSE FRANCISCO DE SOUZA - BA - Deputado Estadual;
+Comitê Financeiro Único;12.191.570/0001-95;04/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 192,00;Estimado;Comitê Financeiro Único - PMDB -  / 20200 - JOSE FRANCISCO DE SOUZA - BA - Deputado Estadual;
+ERIVELTON LIMA SANTANA;12.173.661/0001-06;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;2012 -  - PSC -  - Deputado Federal / 20200 - JOSE FRANCISCO DE SOUZA - BA - Deputado Estadual;
+ERIVELTON LIMA SANTANA;12.173.661/0001-06;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 234,00;Estimado;2012 -  - PSC -  - Deputado Federal / 20200 - JOSE FRANCISCO DE SOUZA - BA - Deputado Estadual;
+GEDDEL QUADROS VIEIRA LIMA;12.173.503/0001-48;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 204,00;Estimado;15 -  - PMDB -  - Governador / 20200 - JOSE FRANCISCO DE SOUZA - BA - Deputado Estadual;

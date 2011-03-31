@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.221.841/0001-08;01/09/2010;23000029013;R$ 800,00;Estimado;MARDILSON VITORIANO DE SIQUEIRA;23456;Deputado Estadual;PPS;AC;
-Comitê Financeiro Único;12.221.841/0001-08;17/09/2010;23000029012;R$ 493,00;Estimado;MARDILSON VITORIANO DE SIQUEIRA;23456;Deputado Estadual;PPS;AC;
-LORENA CAROLINA VITORINO FERREIRA;667.535.542-20;01/09/2010;23000029014;R$ 1.000,00;Estimado;MARDILSON VITORIANO DE SIQUEIRA;23456;Deputado Estadual;PPS;AC;
-MARCIO MIGUEL BITTAR;12.173.808/0001-50;30/08/2010;23000029011;R$ 190,00;Estimado;MARDILSON VITORIANO DE SIQUEIRA;23456;Deputado Estadual;PPS;AC;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.221.841/0001-08;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 800,00;Estimado;Comitê Financeiro Único - PPS -  / 23456 - MARDILSON VITORIANO DE SIQUEIRA - AC - Deputado Estadual;
+Comitê Financeiro Único;12.221.841/0001-08;17/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 493,00;Estimado;Comitê Financeiro Único - PPS -  / 23456 - MARDILSON VITORIANO DE SIQUEIRA - AC - Deputado Estadual;
+LORENA CAROLINA VITORINO FERREIRA;667.535.542-20;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 23456 - MARDILSON VITORIANO DE SIQUEIRA - AC - Deputado Estadual;
+MARCIO MIGUEL BITTAR;12.173.808/0001-50;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 190,00;Estimado;4545 -  - PSDB -  - Deputado Federal / 23456 - MARDILSON VITORIANO DE SIQUEIRA - AC - Deputado Estadual;

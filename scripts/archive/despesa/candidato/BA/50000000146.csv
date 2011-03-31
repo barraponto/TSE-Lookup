@@ -1,4 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-BIOMED;08.015.397/0001-05;03/08/2010;43001854101;R$ 1.000,00;Cheque;ANDERSON ASSIS SOUZA;43177;Deputado Estadual;PV;BA;
-MARIA ALTIVA ASSIS SOUZA;274.805.505-53;10/09/2010;43001854103;R$ 575,00;Depósito em espécie;ANDERSON ASSIS SOUZA;43177;Deputado Estadual;PV;BA;
-MARIA ALTIVA ASSIS SOUZA;274.805.505-53;10/09/2010;43001854102;R$ 150,00;Depósito em espécie;ANDERSON ASSIS SOUZA;43177;Deputado Estadual;PV;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARTGRAPHYCS;11.691.610/0001-03;06/08/2010;       Publicidade por materiais impressos;R$ 570,00;Cheque; -  -  / 43177 - ANDERSON ASSIS SOUZA - BA - Deputado Estadual;
+GRÁFICA CDC;09.074.193/0001-08;05/08/2010;       Publicidade por materiais impressos;R$ 424,00;Cheque; -  -  / 43177 - ANDERSON ASSIS SOUZA - BA - Deputado Estadual;
+PARTIDO VERDE;01.365.593/0001-52;13/08/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 150,00;Cheque; -  -  / 43177 - ANDERSON ASSIS SOUZA - BA - Deputado Estadual;
+ROTA 07 PRODUTORA;06.208.792/0001-70;12/08/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 575,00;Cheque; -  -  / 43177 - ANDERSON ASSIS SOUZA - BA - Deputado Estadual;
+;;01/10/2010;       Encargos financeiros e taxas bancárias;R$ 6,00;Débito em conta; -  -  / 43177 - ANDERSON ASSIS SOUZA - BA - Deputado Estadual;

@@ -1,6 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANELIZA GOMES LOURA;116.236.698-20;14/10/2010;50000390226;R$ 62,00;Depósito em espécie;CARLOS JUAREZ DOS SANTOS;50121;Deputado Estadual;PSOL;RJ;
-ANTONIO MARIO MARQUES DA COSTA;029.396.817-91;14/07/2010;50000390224;R$ 200,00;Depósito em espécie;CARLOS JUAREZ DOS SANTOS;50121;Deputado Estadual;PSOL;RJ;
-Comitê Financeiro Único;12.154.856/0001-09;29/09/2010;50000390225;R$ 62,50;Estimado;CARLOS JUAREZ DOS SANTOS;50121;Deputado Estadual;PSOL;RJ;
-Comitê Financeiro Único;12.154.856/0001-09;18/08/2010;50000390221;R$ 125,43;Estimado;CARLOS JUAREZ DOS SANTOS;50121;Deputado Estadual;PSOL;RJ;
-FERNANDA OLIVEIRA PINTO;091.097.157-97;26/08/2010;50000390223;R$ 1.532,60;Estimado;CARLOS JUAREZ DOS SANTOS;50121;Deputado Estadual;PSOL;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.154.856/0001-09;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 125,43;Estimado;Comitê Financeiro Único - PSOL -  / 50121 - CARLOS JUAREZ DOS SANTOS - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.154.856/0001-09;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 62,50;Estimado;Comitê Financeiro Único - PSOL -  / 50121 - CARLOS JUAREZ DOS SANTOS - RJ - Deputado Estadual;
+FERNANDA OLIVEIRA PINTO;091.097.157-97;26/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.532,60;Estimado; -  -  / 50121 - CARLOS JUAREZ DOS SANTOS - RJ - Deputado Estadual;
+MAVILLA GRAFICA E EDITORA LTDA;05.598.377/0001-08;17/09/2010;       Publicidade por materiais impressos;R$ 260,00;Cheque; -  -  / 50121 - CARLOS JUAREZ DOS SANTOS - RJ - Deputado Estadual;

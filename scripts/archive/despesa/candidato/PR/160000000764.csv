@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.134.176/0001-15;20/09/2010;33000000946;R$ 250,00;Estimado;NAHIM BRUDECK UBERNA;33200;Deputado Estadual;PMN;PR;
-Comitê Financeiro Único;12.191.496/0001-07;20/09/2010;33000000945;R$ 339,00;Estimado;NAHIM BRUDECK UBERNA;33200;Deputado Estadual;PMN;PR;
-ELEIÇAO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;14/10/2010;33000000944;R$ 630,00;Estimado;NAHIM BRUDECK UBERNA;33200;Deputado Estadual;PMN;PR;
-ELEIÇÃO 2010 CARLOS ALBERTO RICHAGO;12.190.887/0001-07;14/10/2010;33000000954;R$ 1.680,00;Cheque;NAHIM BRUDECK UBERNA;33200;Deputado Estadual;PMN;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.134.176/0001-15;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;Comitê Financeiro Único - PMN -  / 33200 - NAHIM BRUDECK UBERNA - PR - Deputado Estadual;
+Comitê Financeiro Único;12.191.496/0001-07;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 339,00;Estimado;Comitê Financeiro Único - PMN -  / 33200 - NAHIM BRUDECK UBERNA - PR - Deputado Estadual;
+ELEIÇAO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;14/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 630,00;Estimado;45 -  - PSDB -  - Governador / 33200 - NAHIM BRUDECK UBERNA - PR - Deputado Estadual;
+LUCIANA PAZINI;051.059.309-75;30/09/2010;       Serviços prestados por terceiros;R$ 795,00;Cheque; -  -  / 33200 - NAHIM BRUDECK UBERNA - PR - Deputado Estadual;
+RAFAEL FERREIRA BORGES;041.651.919-90;30/09/2010;       Serviços prestados por terceiros;R$ 635,00;Cheque; -  -  / 33200 - NAHIM BRUDECK UBERNA - PR - Deputado Estadual;

@@ -1,4 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-EDUARDO HENRIQUE SOARES DA COSTA;012.570.547-67;15/09/2010;16000029352;R$ 1.670,00;Depósito em espécie;ANDRE BUCARESKY;1616;Deputado Federal;PSTU;RJ;
-LEANDRO PHILIPP BONATELLI LOPES COELHO;068.609.997-48;13/08/2010;16000029353;R$ 300,00;Cheque;ANDRE BUCARESKY;1616;Deputado Federal;PSTU;RJ;
-PEDRO BUCARESKY;032.672.537-72;10/08/2010;16000029351;R$ 4.000,00;Transferência eletrônica;ANDRE BUCARESKY;1616;Deputado Federal;PSTU;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EDITORA FOLHA DIRIGIDA LTDA;31.944.762/0001-70;15/09/2010;       Publicidade por jornais e revistas;R$ 1.670,00;Cheque; -  -  / 1616 - ANDRE BUCARESKY - RJ - Deputado Federal;
+LUMI NIGHT;00.396.722/0001-07;18/08/2010;       Publicidade por materiais impressos;R$ 66,25;Cheque; -  -  / 1616 - ANDRE BUCARESKY - RJ - Deputado Federal;
+NEWS TECHNOLOGY GRAFICA EDITORA LTDA;07.253.882/0002-27;10/08/2010;       Publicidade por jornais e revistas;R$ 3.379,00;Transferência eletrônica; -  -  / 1616 - ANDRE BUCARESKY - RJ - Deputado Federal;
+R.A. MANDULA SERVIÇOS GRAFICOS E EDITORA LTDA;27.677.913/0001-01;13/08/2010;       Publicidade por materiais impressos;R$ 480,00;Transferência eletrônica; -  -  / 1616 - ANDRE BUCARESKY - RJ - Deputado Federal;

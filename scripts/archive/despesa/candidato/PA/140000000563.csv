@@ -1,3 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEDILSON RENATO COSTA OLIVEIRA;117.239.203-04;29/07/2010;36000089241;R$ 8.000,00;Transferência eletrônica;ELEDILSON RENATO COSTA OLIVEIRA;36933;Deputado Estadual;PTC;PA;
-HERMELITA MONTEIRO OLIVEIRA;037.900.022-91;29/07/2010;36000089242;R$ 3.000,00;Depósito em espécie;ELEDILSON RENATO COSTA OLIVEIRA;36933;Deputado Estadual;PTC;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BELÉM INDÚSTRIA E COMÉRCIO LTDA-ME;04.667.180/0001-10;01/09/2010;       Publicidade por materiais impressos;R$ 2.000,00;Cheque; -  -  / 36933 - ELEDILSON RENATO COSTA OLIVEIRA - PA - Deputado Estadual;
+E M M PARANHOS SERVIÇOS -ME;08.814.416/0001-55;02/08/2010;       Publicidade por materiais impressos;R$ 2.970,00;Cheque; -  -  / 36933 - ELEDILSON RENATO COSTA OLIVEIRA - PA - Deputado Estadual;
+E M M PARANHOS SERVIÇOS -ME;08.814.416/0001-55;02/09/2010;       Publicidade por materiais impressos;R$ 2.970,00;Cheque; -  -  / 36933 - ELEDILSON RENATO COSTA OLIVEIRA - PA - Deputado Estadual;
+J M AZEVEDO SANTOS;07.160.749/0001-45;31/07/2010;       Publicidade por materiais impressos;R$ 3.000,00;Cheque; -  -  / 36933 - ELEDILSON RENATO COSTA OLIVEIRA - PA - Deputado Estadual;

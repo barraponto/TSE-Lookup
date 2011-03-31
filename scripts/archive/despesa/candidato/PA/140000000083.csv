@@ -1,9 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JORGE PANZERA;12.204.180/0001-02;05/08/2010;65000227801;R$ 240,00;Estimado;LUIS CARLOS CONCEIÇÃO DOS SANTOS;65121;Deputado Estadual;PC do B;PA;
-JORGE PANZERA;12.204.180/0001-02;14/09/2010;65000227802;R$ 30,00;Estimado;LUIS CARLOS CONCEIÇÃO DOS SANTOS;65121;Deputado Estadual;PC do B;PA;
-JORGE PANZERA;12.204.180/0001-02;14/09/2010;65000227803;R$ 161,00;Estimado;LUIS CARLOS CONCEIÇÃO DOS SANTOS;65121;Deputado Estadual;PC do B;PA;
-JORGE PANZERA;12.204.180/0001-02;29/09/2010;65000227805;R$ 100,00;Estimado;LUIS CARLOS CONCEIÇÃO DOS SANTOS;65121;Deputado Estadual;PC do B;PA;
-JORGE PANZERA;12.204.180/0001-02;28/09/2010;65000227806;R$ 150,00;Estimado;LUIS CARLOS CONCEIÇÃO DOS SANTOS;65121;Deputado Estadual;PC do B;PA;
-JORGE PANZERA;12.204.180/0001-02;23/09/2010;65000227807;R$ 1.000,00;Cheque;LUIS CARLOS CONCEIÇÃO DOS SANTOS;65121;Deputado Estadual;PC do B;PA;
-JORGE PANZERA;12.204.180/0001-02;01/10/2010;65000227808;R$ 171,00;Estimado;LUIS CARLOS CONCEIÇÃO DOS SANTOS;65121;Deputado Estadual;PC do B;PA;
-PQULO ROCHA;12.168.406/0001-67;25/09/2010;65000227809;R$ 420,00;Estimado;LUIS CARLOS CONCEIÇÃO DOS SANTOS;65121;Deputado Estadual;PC do B;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JORGE LUIZ CONCEIÇÃO RODRIGUES;453.948.142-87;24/09/2010;       Cessão ou Locação de Veículos;R$ 1.000,00;Cheque; -  -  / 65121 - LUIS CARLOS CONCEIÇÃO DOS SANTOS - PA - Deputado Estadual;
+JORGE PANZERA;12.204.180/0001-02;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;6565 -  - PC do B -  - Deputado Federal / 65121 - LUIS CARLOS CONCEIÇÃO DOS SANTOS - PA - Deputado Estadual;
+JORGE PANZERA;12.204.180/0001-02;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 161,00;Estimado;6565 -  - PC do B -  - Deputado Federal / 65121 - LUIS CARLOS CONCEIÇÃO DOS SANTOS - PA - Deputado Estadual;
+JORGE PANZERA;12.204.180/0001-02;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 240,00;Estimado;6565 -  - PC do B -  - Deputado Federal / 65121 - LUIS CARLOS CONCEIÇÃO DOS SANTOS - PA - Deputado Estadual;
+JORGE PANZERA;12.204.180/0001-02;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 171,00;Estimado;6565 -  - PC do B -  - Deputado Federal / 65121 - LUIS CARLOS CONCEIÇÃO DOS SANTOS - PA - Deputado Estadual;
+JORGE PANZERA;12.204.180/0001-02;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado;6565 -  - PC do B -  - Deputado Federal / 65121 - LUIS CARLOS CONCEIÇÃO DOS SANTOS - PA - Deputado Estadual;
+JORGE PANZERA;12.204.180/0001-02;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 30,00;Estimado;6565 -  - PC do B -  - Deputado Federal / 65121 - LUIS CARLOS CONCEIÇÃO DOS SANTOS - PA - Deputado Estadual;
+PQULO ROCHA;12.168.406/0001-67;25/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 420,00;Estimado;131 -  - PT -  - Senador / 65121 - LUIS CARLOS CONCEIÇÃO DOS SANTOS - PA - Deputado Estadual;

@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010-VANDERLAN VIEIRA CARDOSO-GOVERNADOR;12.198.568/0001-48;17/09/2010;40002466931;R$ 41,00;Estimado;SEBASTIÃO ALVES CARVELO;40363;Deputado Estadual;PSB;GO;
-ELEIÇAO2010-VANDERLAN VIEIRA CARDOSO-GOVERNADOR;12.198.568/0001-48;17/09/2010;40002466929;R$ 250,00;Estimado;SEBASTIÃO ALVES CARVELO;40363;Deputado Estadual;PSB;GO;
-ELEIÇÃO2010-VANDERLAN VIEIRA CARDOSO-GOVERNADOR;12.198.568/0001-48;02/10/2010;40002466933;R$ 1.500,00;Cheque;SEBASTIÃO ALVES CARVELO;40363;Deputado Estadual;PSB;GO;
-VANDERLAN VIEIRA CARDOSO;12.198.568/0001-48;10/08/2010;40002466926;R$ 1.000,00;Estimado;SEBASTIÃO ALVES CARVELO;40363;Deputado Estadual;PSB;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010-VANDERLAN VIEIRA CARDOSO-GOVERNADOR;12.198.568/0001-48;17/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 41,00;Estimado;22 -  - PR -  - Governador / 40363 - SEBASTIÃO ALVES CARVELO - GO - Deputado Estadual;
+ELEIÇAO2010-VANDERLAN VIEIRA CARDOSO-GOVERNADOR;12.198.568/0001-48;17/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;22 -  - PR -  - Governador / 40363 - SEBASTIÃO ALVES CARVELO - GO - Deputado Estadual;
+LOIANE STOPPA DE SOUSA CANDIDO;013.309.561-41;07/10/2010;       Serviços prestados por terceiros;R$ 700,00;Cheque; -  -  / 40363 - SEBASTIÃO ALVES CARVELO - GO - Deputado Estadual;
+RICARDO DE MATOS MORAIS;869.573.761-68;07/10/2010;       Serviços prestados por terceiros;R$ 800,00;Cheque; -  -  / 40363 - SEBASTIÃO ALVES CARVELO - GO - Deputado Estadual;
+VANDERLAN VIEIRA CARDOSO;12.198.568/0001-48;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;22 -  - PR -  - Governador / 40363 - SEBASTIÃO ALVES CARVELO - GO - Deputado Estadual;

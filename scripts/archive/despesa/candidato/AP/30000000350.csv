@@ -1,9 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.241.703/0001-90;14/08/2010;65000297505;R$ 1.100,00;Estimado;MARLON DE OLIVEIRA DO NASCIMENTO;65123;Deputado Estadual;PC do B;AP;
-Comitê Financeiro Único;12.241.703/0001-90;08/08/2010;65000297504;R$ 400,00;Estimado;MARLON DE OLIVEIRA DO NASCIMENTO;65123;Deputado Estadual;PC do B;AP;
-Comitê Financeiro Único;12.280.892/0001-00;30/07/2010;65000297501;R$ 525,00;Estimado;MARLON DE OLIVEIRA DO NASCIMENTO;65123;Deputado Estadual;PC do B;AP;
-Comitê Financeiro Único;12.256.162/0001-74;24/08/2010;65000297508;R$ 240,00;Estimado;MARLON DE OLIVEIRA DO NASCIMENTO;65123;Deputado Estadual;PC do B;AP;
-JORGE HOMAR GASPAR DA CRUZ;933.951.082-87;20/08/2010;65000297507;R$ 1.000,00;Depósito em espécie;MARLON DE OLIVEIRA DO NASCIMENTO;65123;Deputado Estadual;PC do B;AP;
-MARCIO RODRIGUES OLIVEIRA;648.183.492-91;20/08/2010;65000297506;R$ 1.015,00;Depósito em espécie;MARLON DE OLIVEIRA DO NASCIMENTO;65123;Deputado Estadual;PC do B;AP;
-MARCO JOHNNY DE OLIVEIRA DO NASCIMENTO;603.277.582-87;03/08/2010;65000297503;R$ 1.600,00;Estimado;MARLON DE OLIVEIRA DO NASCIMENTO;65123;Deputado Estadual;PC do B;AP;
-MARCO JOHNNY DE OLIVEIRA DO NASCIMENTO;603.277.582-87;03/08/2010;65000297502;R$ 1.600,00;Estimado;MARLON DE OLIVEIRA DO NASCIMENTO;65123;Deputado Estadual;PC do B;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.280.892/0001-00;30/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 525,00;Estimado;Comitê Financeiro Único - PC do B -  / 65123 - MARLON DE OLIVEIRA DO NASCIMENTO - AP - Deputado Estadual;
+Comitê Financeiro Único;12.241.703/0001-90;08/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado;Comitê Financeiro Único - PP -  / 65123 - MARLON DE OLIVEIRA DO NASCIMENTO - AP - Deputado Estadual;
+Comitê Financeiro Único;12.241.703/0001-90;14/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.100,00;Estimado;Comitê Financeiro Único - PP -  / 65123 - MARLON DE OLIVEIRA DO NASCIMENTO - AP - Deputado Estadual;
+Comitê Financeiro Único;12.256.162/0001-74;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 240,00;Estimado;Comitê Financeiro Único - PDT -  / 65123 - MARLON DE OLIVEIRA DO NASCIMENTO - AP - Deputado Estadual;
+MARCO JOHNNY DE OLIVEIRA DO NASCIMENTO;603.277.582-87;03/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.600,00;Estimado; -  -  / 65123 - MARLON DE OLIVEIRA DO NASCIMENTO - AP - Deputado Estadual;
+MARCO JOHNNY DE OLIVEIRA DO NASCIMENTO;603.277.582-87;03/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.600,00;Estimado; -  -  / 65123 - MARLON DE OLIVEIRA DO NASCIMENTO - AP - Deputado Estadual;
+R. C. VON SHARTEN - ME EDITORA GRAFICA RVS;07.093.512/0001-99;20/08/2010;       Publicidade por materiais impressos;R$ 800,00;Cheque; -  -  / 65123 - MARLON DE OLIVEIRA DO NASCIMENTO - AP - Deputado Estadual;
+R. C. VON SHARTEN - ME EDITORA GRAFICA RVS;07.093.512/0001-99;20/08/2010;       Publicidade por materiais impressos;R$ 1.200,00;Cheque; -  -  / 65123 - MARLON DE OLIVEIRA DO NASCIMENTO - AP - Deputado Estadual;

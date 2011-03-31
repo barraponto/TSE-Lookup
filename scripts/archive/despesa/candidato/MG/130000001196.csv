@@ -1,3 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DOUTOR LUIZ NAZARENO;126.060.904-97;31/08/2010;36000004852;R$ 5.000,00;Depósito em espécie;LUIZ NAZARENO PAES FÉLIX DE FIGUEIREDO;36159;Deputado Estadual;PTC;MG;
-DOUTOR LUIZ NAZARENO;126.060.904-97;05/08/2010;36000004851;R$ 4.000,00;Depósito em espécie;LUIZ NAZARENO PAES FÉLIX DE FIGUEIREDO;36159;Deputado Estadual;PTC;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARTES FOTOGRAFICAS LTDA - ME;09.029.660/0001-70;23/08/2010;       Publicidade por materiais impressos;R$ 1.936,00;Cheque; -  -  / 36159 - LUIZ NAZARENO PAES FÉLIX DE FIGUEIREDO - MG - Deputado Estadual;
+CRISTIANNE LOURANE DE MELO SILVA;083.135.796-76;13/09/2010;       Serviços prestados por terceiros;R$ 160,00;Cheque; -  -  / 36159 - LUIZ NAZARENO PAES FÉLIX DE FIGUEIREDO - MG - Deputado Estadual;
+EMPRESA DE JORNALISTICA E DE PRGRAMAÇÃO MIDIAMISNAS LTDA - EPP;41.866.450/0001-49;30/09/2010;       Publicidade por jornais e revistas;R$ 500,00;Cheque; -  -  / 36159 - LUIZ NAZARENO PAES FÉLIX DE FIGUEIREDO - MG - Deputado Estadual;
+GRAFFOR GRAFICA FORMIGA LTDA;01.238.762/0001-93;31/08/2010;       Publicidade por materiais impressos;R$ 4.836,00;Cheque; -  -  / 36159 - LUIZ NAZARENO PAES FÉLIX DE FIGUEIREDO - MG - Deputado Estadual;
+GRAFFOR GRAFICA FORMIGA LTDA;01.238.762/0001-93;30/09/2010;       Publicidade por materiais impressos;R$ 645,50;Cheque; -  -  / 36159 - LUIZ NAZARENO PAES FÉLIX DE FIGUEIREDO - MG - Deputado Estadual;
+GRAZIELA CARLA DOS SANTOS;092.814.256-61;13/09/2010;       Serviços prestados por terceiros;R$ 140,00;Cheque; -  -  / 36159 - LUIZ NAZARENO PAES FÉLIX DE FIGUEIREDO - MG - Deputado Estadual;
+SIRLENE FREITAS DA SILVA RABELO;879.379.306-59;13/09/2010;       Serviços prestados por terceiros;R$ 160,00;Cheque; -  -  / 36159 - LUIZ NAZARENO PAES FÉLIX DE FIGUEIREDO - MG - Deputado Estadual;
+SIRLENE FREITAS DA SILVA RABELO;879.379.306-59;30/09/2010;       Serviços prestados por terceiros;R$ 462,50;Cheque; -  -  / 36159 - LUIZ NAZARENO PAES FÉLIX DE FIGUEIREDO - MG - Deputado Estadual;
+TALITA FERNANDES FREITAS RABELO;109.790.386-93;13/09/2010;       Serviços prestados por terceiros;R$ 160,00;Cheque; -  -  / 36159 - LUIZ NAZARENO PAES FÉLIX DE FIGUEIREDO - MG - Deputado Estadual;

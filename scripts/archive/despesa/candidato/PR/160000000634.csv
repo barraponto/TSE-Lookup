@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-BERNARDO SEIXAS PILOTTO;12.169.388/0001-38;30/07/2010;50000389752;R$ 195,55;Estimado;CLAUDIA ANTONIA ROBERTO;50100;Deputado Estadual;PSOL;PR;
-BRUNO CÉSAR DESCHAMPS MEIRINHO;030.392.439-00;17/08/2010;50000389692;R$ 200,00;Depósito em espécie;CLAUDIA ANTONIA ROBERTO;50100;Deputado Estadual;PSOL;PR;
-CLAUDIA ANTONIA ROBERTO;157.327.058-05;23/08/2010;50000389693;R$ 540,00;Depósito em espécie;CLAUDIA ANTONIA ROBERTO;50100;Deputado Estadual;PSOL;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BERNARDO SEIXAS PILOTTO;12.169.388/0001-38;30/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 195,55;Estimado;50500 -  - PSOL -  - Deputado Estadual / 50100 - CLAUDIA ANTONIA ROBERTO - PR - Deputado Estadual;
+EDITORA O JORNAL DO ESTADO;76.637.305/0001-70;24/08/2010;       Publicidade por materiais impressos;R$ 540,00;Cheque; -  -  / 50100 - CLAUDIA ANTONIA ROBERTO - PR - Deputado Estadual;
+FELIPE RIGON SPACK;065.158.219-99;01/10/2010;       Serviços prestados por terceiros;R$ 200,00;Cheque; -  -  / 50100 - CLAUDIA ANTONIA ROBERTO - PR - Deputado Estadual;

@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-HÉLIO CALIXTO DA COSTA;12.189.609/0001-30;20/09/2010;15000133553;R$ 600,00;Estimado;PEDRO PAULO FERNANDES PESSOA;1520;Deputado Federal;PMDB;MG;
-HÉLIO CALIXTO DA COSTA;12.189.609/0001-30;13/08/2010;15000133551;R$ 300,00;Estimado;PEDRO PAULO FERNANDES PESSOA;1520;Deputado Federal;PMDB;MG;
-HÉLIO CALIXTO DA COSTA;12.189.609/0001-30;26/09/2010;15000133552;R$ 68,40;Estimado;PEDRO PAULO FERNANDES PESSOA;1520;Deputado Federal;PMDB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+HÉLIO CALIXTO DA COSTA;12.189.609/0001-30;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado;15 -  - PMDB -  - Governador / 1520 - PEDRO PAULO FERNANDES PESSOA - MG - Deputado Federal;
+HÉLIO CALIXTO DA COSTA;12.189.609/0001-30;13/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;15 -  - PMDB -  - Governador / 1520 - PEDRO PAULO FERNANDES PESSOA - MG - Deputado Federal;
+HÉLIO CALIXTO DA COSTA;12.189.609/0001-30;26/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 68,40;Estimado;15 -  - PMDB -  - Governador / 1520 - PEDRO PAULO FERNANDES PESSOA - MG - Deputado Federal;

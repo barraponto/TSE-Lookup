@@ -1,7 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.242/0001-09;23/08/2010;65000185474;R$ 360,00;Estimado;JORDENI DE ASSIS DA SILVA;65615;Deputado Estadual;PC do B;GO;
-ELEICAO 2010 FABIO TOKARSKI DEPUTADO FEDERAL;12.171.879/0001-13;28/07/2010;65000185471;R$ 345,00;Estimado;JORDENI DE ASSIS DA SILVA;65615;Deputado Estadual;PC do B;GO;
-ELEIÇÃO 2010 IRIS REZENDE MACHADO GOVERNADOR;12.167.313/0001-18;02/10/2010;65000185476;R$ 1.612,90;Estimado;JORDENI DE ASSIS DA SILVA;65615;Deputado Estadual;PC do B;GO;
-ELEICAO 2010 JORDENI DE ASSIS SILVA DEPUTADO ESTADUAL;778.768.811-49;11/08/2010;65000185472;R$ 300,00;Depósito em espécie;JORDENI DE ASSIS DA SILVA;65615;Deputado Estadual;PC do B;GO;
-ELEICAO 2010 JORDENI DE ASSIS SILVA DEPUTADO ESTADUAL;778.768.811-49;09/09/2010;65000185475;R$ 280,00;Depósito em espécie;JORDENI DE ASSIS DA SILVA;65615;Deputado Estadual;PC do B;GO;
-GERALDO CARDOSO DA COSTA FILHO;031.958.571-97;20/08/2010;65000185473;R$ 300,00;Depósito em espécie;JORDENI DE ASSIS DA SILVA;65615;Deputado Estadual;PC do B;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.242/0001-09;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Único - PC do B -  / 65615 - JORDENI DE ASSIS DA SILVA - GO - Deputado Estadual;
+ELEICAO 2010 FABIO TOKARSKI DEPUTADO FEDERAL;12.171.879/0001-13;28/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 345,00;Estimado;6565 -  - PC do B -  - Deputado Federal / 65615 - JORDENI DE ASSIS DA SILVA - GO - Deputado Estadual;
+ELEIÇÃO 2010 IRIS REZENDE MACHADO GOVERNADOR;12.167.313/0001-18;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.612,90;Estimado;15 -  - PMDB -  - Governador / 65615 - JORDENI DE ASSIS DA SILVA - GO - Deputado Estadual;
+MECA PRESTADORA DE SERVIÇOS LTDA;04.701.169/0001-20;30/08/2010;       Publicidade por materiais impressos;R$ 280,00;Cheque; -  -  / 65615 - JORDENI DE ASSIS DA SILVA - GO - Deputado Estadual;
+MECA PRESTADORA DE SERVIÇOS LTDA;04.701.169/0001-20;18/08/2010;       Publicidade por materiais impressos;R$ 260,00;Cheque; -  -  / 65615 - JORDENI DE ASSIS DA SILVA - GO - Deputado Estadual;
+MECA PRESTADORA DE SERVIÇOS LTDA;04.701.169/0001-20;23/08/2010;       Publicidade por materiais impressos;R$ 120,00;Cheque; -  -  / 65615 - JORDENI DE ASSIS DA SILVA - GO - Deputado Estadual;
+REGISTRO ARTES GRÁFICA LTDA;10.903.988/0001-52;18/08/2010;       Publicidade por materiais impressos;R$ 130,00;Cheque; -  -  / 65615 - JORDENI DE ASSIS DA SILVA - GO - Deputado Estadual;

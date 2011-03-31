@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.159/0001-39;02/08/2010;14000118365;R$ 500,00;Estimado;VANDELINO LIPERT BEHENCK;14002;Deputado Estadual;PTB;RS;
-Comitê Financeiro Único;12.200.159/0001-39;23/08/2010;14000118363;R$ 292,95;Estimado;VANDELINO LIPERT BEHENCK;14002;Deputado Estadual;PTB;RS;
-Comitê Financeiro Único;12.200.159/0001-39;18/08/2010;14000118364;R$ 761,54;Estimado;VANDELINO LIPERT BEHENCK;14002;Deputado Estadual;PTB;RS;
-Comitê Financeiro Único;12.200.159/0001-39;30/09/2010;14000118369;R$ 126,00;Estimado;VANDELINO LIPERT BEHENCK;14002;Deputado Estadual;PTB;RS;
-Comitê Financeiro Único;12.200.159/0001-39;18/08/2010;14000118367;R$ 187,50;Estimado;VANDELINO LIPERT BEHENCK;14002;Deputado Estadual;PTB;RS;
-Comitê Financeiro Único;12.200.159/0001-39;16/09/2010;14000118368;R$ 138,75;Estimado;VANDELINO LIPERT BEHENCK;14002;Deputado Estadual;PTB;RS;
-Comitê Financeiro Único;12.200.159/0001-39;18/08/2010;14000118366;R$ 72,00;Estimado;VANDELINO LIPERT BEHENCK;14002;Deputado Estadual;PTB;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.159/0001-39;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 761,54;Estimado;Comitê Financeiro Único - PTB -  / 14002 - VANDELINO LIPERT BEHENCK - RS - Deputado Estadual;
+Comitê Financeiro Único;12.200.159/0001-39;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 187,50;Estimado;Comitê Financeiro Único - PTB -  / 14002 - VANDELINO LIPERT BEHENCK - RS - Deputado Estadual;
+Comitê Financeiro Único;12.200.159/0001-39;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;Comitê Financeiro Único - PTB -  / 14002 - VANDELINO LIPERT BEHENCK - RS - Deputado Estadual;
+Comitê Financeiro Único;12.200.159/0001-39;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 126,00;Estimado;Comitê Financeiro Único - PTB -  / 14002 - VANDELINO LIPERT BEHENCK - RS - Deputado Estadual;
+Comitê Financeiro Único;12.200.159/0001-39;16/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 138,75;Estimado;Comitê Financeiro Único - PTB -  / 14002 - VANDELINO LIPERT BEHENCK - RS - Deputado Estadual;
+Comitê Financeiro Único;12.200.159/0001-39;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 72,00;Estimado;Comitê Financeiro Único - PTB -  / 14002 - VANDELINO LIPERT BEHENCK - RS - Deputado Estadual;
+Comitê Financeiro Único;12.200.159/0001-39;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 292,95;Estimado;Comitê Financeiro Único - PTB -  / 14002 - VANDELINO LIPERT BEHENCK - RS - Deputado Estadual;

@@ -1,3 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALFREDO PEREIRA DO NASCIMENTO;12.169.771/0001-96;16/09/2010;12001006902;R$ 2.000,00;Cheque;ANTONIO CEZAR AVILA DA SILVA;12654;Deputado Estadual;PDT;AM;
-ALFREDO PEREIRA DO NASCIMENTO;12.169.771/0001-96;26/08/2010;12001006901;R$ 2.000,00;Cheque;ANTONIO CEZAR AVILA DA SILVA;12654;Deputado Estadual;PDT;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+A M MEDINA - ME;03.559.602/0001-71;17/09/2010;       Publicidade por materiais impressos;R$ 1.986,50;Transferência eletrônica; -  -  / 12654 - ANTONIO CEZAR AVILA DA SILVA - AM - Deputado Estadual;
+EDSON DA SILVA GOMES;441.553.792-87;23/09/2010;       Serviços prestados por terceiros;R$ 450,00;Cheque; -  -  / 12654 - ANTONIO CEZAR AVILA DA SILVA - AM - Deputado Estadual;
+JOSE OSVALDO DOS SANTOS;484.818.822-91;23/09/2010;       Serviços prestados por terceiros;R$ 450,00;Cheque; -  -  / 12654 - ANTONIO CEZAR AVILA DA SILVA - AM - Deputado Estadual;
+PEDRO MENDONÇA DOS SANTOS;147.454.962-49;23/09/2010;       Serviços prestados por terceiros;R$ 500,00;Cheque; -  -  / 12654 - ANTONIO CEZAR AVILA DA SILVA - AM - Deputado Estadual;
+PEDRO MENDONÇA DOS SANTOS;147.454.962-49;23/09/2010;       Cessão ou Locação de Veículos;R$ 600,00;Cheque; -  -  / 12654 - ANTONIO CEZAR AVILA DA SILVA - AM - Deputado Estadual;
+;;17/09/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Débito em conta; -  -  / 12654 - ANTONIO CEZAR AVILA DA SILVA - AM - Deputado Estadual;

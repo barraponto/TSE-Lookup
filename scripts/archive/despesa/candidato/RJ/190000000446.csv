@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DANIEL TOURINHO;12.172.794/0001-50;18/08/2010;36000051451;R$ 700,00;Estimado;ALEXANDRE DE SOUZA SANTOS;36464;Deputado Estadual;PTC;RJ;
-JORGE S. PICCIANI;12.176.626/0001-32;01/10/2010;36000051452;R$ 47,18;Estimado;ALEXANDRE DE SOUZA SANTOS;36464;Deputado Estadual;PTC;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DANIEL TOURINHO;12.172.794/0001-50;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 700,00;Estimado; -  -  / 36464 - ALEXANDRE DE SOUZA SANTOS - RJ - Deputado Estadual;
+JORGE S. PICCIANI;12.176.626/0001-32;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 47,18;Estimado;155 -  - PMDB -  - Senador / 36464 - ALEXANDRE DE SOUZA SANTOS - RJ - Deputado Estadual;

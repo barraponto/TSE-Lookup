@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSE MESSIAS DE SOUZA;12.171.862/0001-66;30/09/2010;65000177779;R$ 3.400,00;Cheque;RAQUEL COLAÇO SALES;65515;Deputado Distrital;PC do B;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JAILSON BASTOS JÚNIOR;036.962.415-71;03/09/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / 65515 - RAQUEL COLAÇO SALES - DF - Deputado Distrital;

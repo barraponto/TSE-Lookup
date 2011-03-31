@@ -1,6 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSE CARLOS GOMES PEREIRA;669.026.654-00;14/09/2010;43001841577;R$ 100,00;Depósito em espécie;JOSE FRANCISCO PEREIRA SOBRINHO;43999;Deputado Estadual;PV;PE;
-JULLIO LEOPOLDO JÓ PEREIRA DE MORAIS;077.688.734-32;15/09/2010;43001841578;R$ 106,00;Depósito em espécie;JOSE FRANCISCO PEREIRA SOBRINHO;43999;Deputado Estadual;PV;PE;
-LINDALVA GOUVEIA PEREIRA FILHA;311.708.384-72;20/09/2010;43001841580;R$ 370,00;Depósito em espécie;JOSE FRANCISCO PEREIRA SOBRINHO;43999;Deputado Estadual;PV;PE;
-MARLUCE FRANCISCA CARNEIRO;799.780.024-72;17/09/2010;43001841579;R$ 238,00;Depósito em espécie;JOSE FRANCISCO PEREIRA SOBRINHO;43999;Deputado Estadual;PV;PE;
-MARLUCE FRANCISCA CARNEIRO;799.780.024-72;10/09/2010;43001841576;R$ 150,00;Depósito em espécie;JOSE FRANCISCO PEREIRA SOBRINHO;43999;Deputado Estadual;PV;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BRASCOLOR GRAFICA E EDITORA LTDA;04.723.670/0001-97;14/09/2010;       Publicidade por materiais impressos;R$ 104,00;Cheque; -  -  / 43999 - JOSE FRANCISCO PEREIRA SOBRINHO - PE - Deputado Estadual;
+CAROL ESPORTES;24.277.030/0001-08;20/09/2010;       Publicidade por materiais impressos;R$ 460,00;Transferência eletrônica; -  -  / 43999 - JOSE FRANCISCO PEREIRA SOBRINHO - PE - Deputado Estadual;
+CAROL ESPORTES;24.277.030/0001-08;17/09/2010;       Publicidade por materiais impressos;R$ 390,00;Transferência eletrônica; -  -  / 43999 - JOSE FRANCISCO PEREIRA SOBRINHO - PE - Deputado Estadual;
+;;17/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Transferência eletrônica; -  -  / 43999 - JOSE FRANCISCO PEREIRA SOBRINHO - PE - Deputado Estadual;
+;;21/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Transferência eletrônica; -  -  / 43999 - JOSE FRANCISCO PEREIRA SOBRINHO - PE - Deputado Estadual;
+;;22/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Transferência eletrônica; -  -  / 43999 - JOSE FRANCISCO PEREIRA SOBRINHO - PE - Deputado Estadual;

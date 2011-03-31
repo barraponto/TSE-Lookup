@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-EMERSON DIAS DE BARROS;034.345.994-95;07/10/2010;19000048654;R$ 120,00;Depósito em espécie;EMERSON DIAS DE BARROS;19069;Deputado Estadual;PTN;PE;
-EMERSON DIAS DE BARROS;034.345.994-95;29/10/2010;19000048656;R$ 240,00;Depósito em espécie;EMERSON DIAS DE BARROS;19069;Deputado Estadual;PTN;PE;
-EMERSON DIAS DE BARROS;034.345.994-95;13/10/2010;19000048655;R$ 65,00;Depósito em espécie;EMERSON DIAS DE BARROS;19069;Deputado Estadual;PTN;PE;
-EMERSON DIAS DE BARROS;034.345.994-95;13/10/2010;19000048653;R$ 125,00;Depósito em espécie;EMERSON DIAS DE BARROS;19069;Deputado Estadual;PTN;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EMERSON DIAS DE BARROS;034.345.994-95;01/11/2010;       Diversas a especificar;R$ 222,11;Não informado; -  -  / 19069 - EMERSON DIAS DE BARROS - PE - Deputado Estadual;
+POSTOS PAI E FILHO;24.388.803/0001-23;13/10/2010;       Combustíveis e lubrificantes;R$ 190,00;Cheque; -  -  / 19069 - EMERSON DIAS DE BARROS - PE - Deputado Estadual;
+R. A. GOUVEIA - MATERIAL DE CONSTRUÇÃO - ME;00.398.104/0001-04;07/07/2010;       Materiais de expediente;R$ 120,00;Cheque; -  -  / 19069 - EMERSON DIAS DE BARROS - PE - Deputado Estadual;
+;;29/10/2010;       Impostos, contribuições e taxas;R$ 0,35;Débito em conta; -  -  / 19069 - EMERSON DIAS DE BARROS - PE - Deputado Estadual;
+;;29/10/2010;       Impostos, contribuições e taxas;R$ 17,50;Débito em conta; -  -  / 19069 - EMERSON DIAS DE BARROS - PE - Deputado Estadual;

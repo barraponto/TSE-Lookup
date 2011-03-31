@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-VANDERLAN VIEIRA CARDOSO;12.198.568/0001-48;10/08/2010;43001798671;R$ 1.000,00;Estimado;MAURO CESAR DE SOUSA;4334;Deputado Federal;PV;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+VANDERLAN VIEIRA CARDOSO;12.198.568/0001-48;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;22 -  - PR -  - Governador / 4334 - MAURO CESAR DE SOUSA - GO - Deputado Federal;

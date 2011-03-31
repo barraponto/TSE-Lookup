@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CINTIA APARECIDA DIAS;823.709.661-49;15/09/2010;50000175600;R$ 120,00;Depósito em espécie;CINTIA APARECIDA DIAS;50970;Deputado Estadual;PSOL;GO;
-JUAREZ DA SILVA LEÃO JUNIOR;775.245.861-91;04/08/2010;50000175599;R$ 450,00;Depósito em espécie;CINTIA APARECIDA DIAS;50970;Deputado Estadual;PSOL;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA E EDITORA VEREDA IND COM LTDA;02.138.934/0001-10;31/08/2010;       Publicidade por materiais impressos;R$ 120,00;Cheque; -  -  / 50970 - CINTIA APARECIDA DIAS - GO - Deputado Estadual;
+LIBERDADE GRAFICA E EDITORA LTDA;01.843.409/0001-32;25/08/2010;       Publicidade por materiais impressos;R$ 150,00;Cheque; -  -  / 50970 - CINTIA APARECIDA DIAS - GO - Deputado Estadual;
+MAQPEL IND E COM DE ETIQUETAS E EMBALAGENS LTDA;37.038.403/0001-30;31/08/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 50970 - CINTIA APARECIDA DIAS - GO - Deputado Estadual;

@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Nacional;01.585.552/0001-71;18/08/2010;21000009782;R$ 959,04;Estimado;WLADIMIR DA SILVA VASCONCELOS;211;Senador;PCB;RJ;
-Diretório Nacional;01.585.552/0001-71;23/08/2010;21000009784;R$ 177,84;Estimado;WLADIMIR DA SILVA VASCONCELOS;211;Senador;PCB;RJ;
-IVAN PINHEIRO;12.198.076/0001-52;20/08/2010;21000009783;R$ 959,04;Estimado;WLADIMIR DA SILVA VASCONCELOS;211;Senador;PCB;RJ;
-WLADIMIR DA SILVA VASCONCELOS;178.886.467-00;28/07/2010;21000009781;R$ 450,00;Depósito em espécie;WLADIMIR DA SILVA VASCONCELOS;211;Senador;PCB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Nacional;01.585.552/0001-71;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 959,04;Estimado;Direção Nacional - PCB -  / 211 - WLADIMIR DA SILVA VASCONCELOS - RJ - Senador;
+Diretório Nacional;01.585.552/0001-71;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 177,84;Estimado;Direção Nacional - PCB -  / 211 - WLADIMIR DA SILVA VASCONCELOS - RJ - Senador;
+IVAN PINHEIRO;12.198.076/0001-52;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 959,04;Estimado;21 -  - PCB -  - Presidente / 211 - WLADIMIR DA SILVA VASCONCELOS - RJ - Senador;
+ROCHA E BRAGA COMUNICACAO VISUAL LTDA REAL COMUNICACAO VISUAL;11.506.727/0001-61;03/08/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 211 - WLADIMIR DA SILVA VASCONCELOS - RJ - Senador;

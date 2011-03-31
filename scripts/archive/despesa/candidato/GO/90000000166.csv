@@ -1,5 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELIAS ANTONIO DE ALMEIDA;282.400.571-87;30/07/2010;17000037053;R$ 2.500,00;Depósito em espécie;ELIAS ANTONIO DE ALMEIDA;17600;Deputado Estadual;PSL;GO;
-KLEITON LOPES MARTINS;787.682.761-68;30/08/2010;17000037054;R$ 255,00;Estimado;ELIAS ANTONIO DE ALMEIDA;17600;Deputado Estadual;PSL;GO;
-KLEITON LOPES MARTINS;787.682.761-68;27/07/2010;17000037052;R$ 700,00;Depósito em espécie;ELIAS ANTONIO DE ALMEIDA;17600;Deputado Estadual;PSL;GO;
-PATRICIA MOREIRA DE ARAUJO MARTINS;035.239.581-80;30/08/2010;17000037055;R$ 255,00;Estimado;ELIAS ANTONIO DE ALMEIDA;17600;Deputado Estadual;PSL;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANA MARIA MARCOS DA SILVA;527.844.791-53;02/09/2010;       Despesas com pessoal;R$ 255,00;Cheque; -  -  / 17600 - ELIAS ANTONIO DE ALMEIDA - GO - Deputado Estadual;
+ANALITA SILVA PEREIRA;017.357.101-80;02/09/2010;       Despesas com pessoal;R$ 300,00;Cheque; -  -  / 17600 - ELIAS ANTONIO DE ALMEIDA - GO - Deputado Estadual;
+ANALITA SILVA PEREIRA;017.357.101-80;28/09/2010;       Despesas com pessoal;R$ 300,00;Cheque; -  -  / 17600 - ELIAS ANTONIO DE ALMEIDA - GO - Deputado Estadual;
+CUBO COMUNICACAO LTDA;11.370.487/0001-10;09/08/2010;       Materiais de expediente;R$ 630,00;Cheque; -  -  / 17600 - ELIAS ANTONIO DE ALMEIDA - GO - Deputado Estadual;
+GRAFICA E EDITORA PODER LTDA;10.176.869/0001-45;27/09/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 17600 - ELIAS ANTONIO DE ALMEIDA - GO - Deputado Estadual;
+GRAFICA E EDITORA PODER LTDA;10.176.869/0001-45;07/08/2010;       Materiais de expediente;R$ 625,00;Cheque; -  -  / 17600 - ELIAS ANTONIO DE ALMEIDA - GO - Deputado Estadual;
+KLEITON LOPES MARTINS;787.682.761-68;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 255,00;Estimado; -  -  / 17600 - ELIAS ANTONIO DE ALMEIDA - GO - Deputado Estadual;
+MARIA SILVANA DE OLIVEIRA;641.750.141-87;22/08/2010;       Cessão ou Locação de Veículos;R$ 800,00;Cheque; -  -  / 17600 - ELIAS ANTONIO DE ALMEIDA - GO - Deputado Estadual;
+PATRICIA MOREIRA DE ARAUJO MARTINS;035.239.581-80;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 255,00;Estimado; -  -  / 17600 - ELIAS ANTONIO DE ALMEIDA - GO - Deputado Estadual;
+PATRICIA MOREIRA DE ARAUJO MARTINS;035.239.581-80;02/10/2010;       Despesas com pessoal;R$ 90,00;Cheque; -  -  / 17600 - ELIAS ANTONIO DE ALMEIDA - GO - Deputado Estadual;

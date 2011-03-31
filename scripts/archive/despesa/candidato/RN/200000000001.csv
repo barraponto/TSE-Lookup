@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LINDON JONSON DA SILVA;020.263.534-17;30/09/2010;36000090311;R$ 500,00;Estimado;CARLOS ROBERTO RONCONI;36;Governador;PTC;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+LINDON JONSON DA SILVA;020.263.534-17;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 36 - CARLOS ROBERTO RONCONI - RN - Governador;

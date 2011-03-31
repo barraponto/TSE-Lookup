@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANSELMO JOSE GOMES DOMINGOS;12.173.959/0001-08;20/09/2010;36000012403;R$ 128,34;Estimado;MARCELO SANTOS CARVALHO;3645;Deputado Federal;PTC;MG;
-ANSELMO JOSE GOMES DOMINGOS;12.173.959/0001-08;08/09/2010;36000012401;R$ 92,50;Estimado;MARCELO SANTOS CARVALHO;3645;Deputado Federal;PTC;MG;
-Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;36000012404;R$ 300,00;Estimado;MARCELO SANTOS CARVALHO;3645;Deputado Federal;PTC;MG;
-Comitê Financeiro Único;12.154.851/0001-78;15/09/2010;36000012402;R$ 1.180,00;Estimado;MARCELO SANTOS CARVALHO;3645;Deputado Federal;PTC;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANSELMO JOSE GOMES DOMINGOS;12.173.959/0001-08;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 128,34;Estimado;36123 -  - PTC -  - Deputado Estadual / 3645 - MARCELO SANTOS CARVALHO - MG - Deputado Federal;
+ANSELMO JOSE GOMES DOMINGOS;12.173.959/0001-08;08/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 92,50;Estimado;36123 -  - PTC -  - Deputado Estadual / 3645 - MARCELO SANTOS CARVALHO - MG - Deputado Federal;
+Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PT do B -  / 3645 - MARCELO SANTOS CARVALHO - MG - Deputado Federal;
+Comitê Financeiro Único;12.154.851/0001-78;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.180,00;Estimado;Comitê Financeiro Único - PT do B -  / 3645 - MARCELO SANTOS CARVALHO - MG - Deputado Federal;

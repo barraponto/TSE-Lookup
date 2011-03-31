@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANA JULIA DE VASCONCELOS CAREPA;12.171.430/0001-55;28/09/2010;13000770282;R$ 500,00;Estimado;JOAN DE CASTRO ALVES;13001;Deputado Estadual;PT;PA;
-ANA JULIA VASCONCELOS CAREPA;12.171.430/0001-55;28/09/2010;13000770284;R$ 500,00;Estimado;JOAN DE CASTRO ALVES;13001;Deputado Estadual;PT;PA;
-PAULO ROBERTO GALVAO DA ROCHA;12.168.406/0001-67;10/09/2010;13000770281;R$ 1.085,00;Estimado;JOAN DE CASTRO ALVES;13001;Deputado Estadual;PT;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANA JULIA DE VASCONCELOS CAREPA;12.171.430/0001-55;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;13 -  - PT -  - Governador / 13001 - JOAN DE CASTRO ALVES - PA - Deputado Estadual;
+ANA JULIA VASCONCELOS CAREPA;12.171.430/0001-55;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;13 -  - PT -  - Governador / 13001 - JOAN DE CASTRO ALVES - PA - Deputado Estadual;
+PAULO ROBERTO GALVAO DA ROCHA;12.168.406/0001-67;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.085,00;Estimado;131 -  - PT -  - Senador / 13001 - JOAN DE CASTRO ALVES - PA - Deputado Estadual;

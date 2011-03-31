@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JONAS FERNANDES PEREIRA;132.840.024-72;02/10/2010;22000027405;R$ 600,00;Estimado;JOSENILDO SANTIAGO;22610;Deputado Estadual;PR;PB;
-JOSÉ TARGINO MARANHÃO;12.189.345/0001-14;06/09/2010;22000027404;R$ 300,00;Estimado;JOSENILDO SANTIAGO;22610;Deputado Estadual;PR;PB;
-JOSÉ TARGINO MARANHÃO;12.189.345/0001-14;31/08/2010;22000027402;R$ 523,56;Estimado;JOSENILDO SANTIAGO;22610;Deputado Estadual;PR;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JONAS FERNANDES PEREIRA;132.840.024-72;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado; -  -  / 22610 - JOSENILDO SANTIAGO - PB - Deputado Estadual;
+JOSÉ TARGINO MARANHÃO;12.189.345/0001-14;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 523,56;Estimado;15 -  - PMDB -  - Governador / 22610 - JOSENILDO SANTIAGO - PB - Deputado Estadual;
+JOSÉ TARGINO MARANHÃO;12.189.345/0001-14;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;15 -  - PMDB -  - Governador / 22610 - JOSENILDO SANTIAGO - PB - Deputado Estadual;

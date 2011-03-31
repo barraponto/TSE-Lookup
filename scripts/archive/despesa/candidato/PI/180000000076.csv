@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.221.850/0001-07;30/09/2010;31000049662;R$ 420,00;Estimado;JOSÉ DE RIBAMAR BARROS DA SILVA;31456;Deputado Estadual;PHS;PI;
-Comitê Financeiro Único;12.221.850/0001-07;28/07/2010;31000049661;R$ 311,10;Estimado;JOSÉ DE RIBAMAR BARROS DA SILVA;31456;Deputado Estadual;PHS;PI;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.221.850/0001-07;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 420,00;Estimado;Comitê Financeiro Único - PHS -  / 31456 - JOSÉ DE RIBAMAR BARROS DA SILVA - PI - Deputado Estadual;
+Comitê Financeiro Único;12.221.850/0001-07;28/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 311,10;Estimado;Comitê Financeiro Único - PHS -  / 31456 - JOSÉ DE RIBAMAR BARROS DA SILVA - PI - Deputado Estadual;

@@ -1,8 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ARNALDO JORDY FIGUEIREDO;12.173.289/0001-20;02/10/2010;23000169854;R$ 55,00;Outros títulos de crédito;MARIA DO SOCORRO MAGNO PATRIACHA;23567;Deputado Estadual;PPS;PA;
-ARNALDO JORDY FIGUEIREDO;12.173.289/0001-20;27/09/2010;23000169851;R$ 1.000,00;Cheque;MARIA DO SOCORRO MAGNO PATRIACHA;23567;Deputado Estadual;PPS;PA;
-ARNALDO JORDY FIGUEIREDO;12.173.289/0001-20;02/10/2010;23000169853;R$ 36,00;Outros títulos de crédito;MARIA DO SOCORRO MAGNO PATRIACHA;23567;Deputado Estadual;PPS;PA;
-ARNALDO JORDY FIGUEIREDO;12.173.289/0001-20;02/10/2010;23000169852;R$ 210,00;Outros títulos de crédito;MARIA DO SOCORRO MAGNO PATRIACHA;23567;Deputado Estadual;PPS;PA;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.229.905/0001-17;02/10/2010;23000169856;R$ 1.000,00;Outros títulos de crédito;MARIA DO SOCORRO MAGNO PATRIACHA;23567;Deputado Estadual;PPS;PA;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.229.905/0001-17;02/10/2010;23000169857;R$ 7.142,86;Outros títulos de crédito;MARIA DO SOCORRO MAGNO PATRIACHA;23567;Deputado Estadual;PPS;PA;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.229.905/0001-17;02/10/2010;23000169855;R$ 500,00;Outros títulos de crédito;MARIA DO SOCORRO MAGNO PATRIACHA;23567;Deputado Estadual;PPS;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO CARLOS SOUZA BENJAMIN;247.813.802-63;14/10/2010;       Serviços prestados por terceiros;R$ 300,00;Cheque; -  -  / 23567 - MARIA DO SOCORRO MAGNO PATRIACHA - PA - Deputado Estadual;
+ANTONIO CARLOS SOUZA BENJAMIN;247.813.802-63;14/10/2010;       Produção de jingles, vinhetas e slogans;R$ 630,00;Cheque; -  -  / 23567 - MARIA DO SOCORRO MAGNO PATRIACHA - PA - Deputado Estadual;
+ARNALDO JORDY FIGUEIREDO;12.173.289/0001-20;02/10/2010;       Publicidade por materiais impressos;R$ 36,00;Não informado; -  -  / 23567 - MARIA DO SOCORRO MAGNO PATRIACHA - PA - Deputado Estadual;
+ARNALDO JORDY FIGUEIREDO;12.173.289/0001-20;02/10/2010;       Publicidade por materiais impressos;R$ 210,00;Não informado; -  -  / 23567 - MARIA DO SOCORRO MAGNO PATRIACHA - PA - Deputado Estadual;
+ARNALDO JORDY FIGUEIREDO;12.173.289/0001-20;02/10/2010;       Publicidade por materiais impressos;R$ 55,00;Não informado; -  -  / 23567 - MARIA DO SOCORRO MAGNO PATRIACHA - PA - Deputado Estadual;
+COMITE  FINANCEIRO DO PSDB;12.229.905/0001-17;02/10/2010;       Publicidade por materiais impressos;R$ 1.000,00;Não informado; -  -  / 23567 - MARIA DO SOCORRO MAGNO PATRIACHA - PA - Deputado Estadual;
+COMITE  FINANCEIRO DO PSDB;12.229.905/0001-17;02/10/2010;       Publicidade por materiais impressos;R$ 7.142,86;Não informado; -  -  / 23567 - MARIA DO SOCORRO MAGNO PATRIACHA - PA - Deputado Estadual;
+COMITE  FINANCEIRO DO PSDB;12.229.905/0001-17;02/10/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 500,00;Não informado; -  -  / 23567 - MARIA DO SOCORRO MAGNO PATRIACHA - PA - Deputado Estadual;
+POSTO SAO DOMINGOS LTDA;63.814.339/0001-41;11/10/2010;       Combustíveis e lubrificantes;R$ 70,00;Cheque; -  -  / 23567 - MARIA DO SOCORRO MAGNO PATRIACHA - PA - Deputado Estadual;

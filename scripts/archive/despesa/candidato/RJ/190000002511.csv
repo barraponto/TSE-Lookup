@@ -1,4 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELIAS SILVA DE ANDRADE;992.981.987-87;25/10/2010;22000169853;R$ 52,60;Depósito em espécie;ELIAS SILVA DE ANDRADE;2292;Deputado Federal;PR;RJ;
-JOÃO FRANCISCO DE MAGALHÃES GALOCHAO;766.741.938-87;27/09/2010;22000169851;R$ 410,00;Depósito em espécie;ELIAS SILVA DE ANDRADE;2292;Deputado Federal;PR;RJ;
-JOÃO FRANCISCO DE MAGALHÃES GALOCHAO;766.741.938-87;14/10/2010;22000169852;R$ 900,00;Depósito em espécie;ELIAS SILVA DE ANDRADE;2292;Deputado Federal;PR;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+A S G ARTES GRÁFICAS LTDA;29.290.574/0001-23;01/10/2010;       Publicidade por materiais impressos;R$ 900,00;Cheque; -  -  / 2292 - ELIAS SILVA DE ANDRADE - RJ - Deputado Federal;
+GRÁFICA E EDITORA IRMÃOSDRUMOND LTDA EPP;35.872.118/0001-94;25/09/2010;       Publicidade por materiais impressos;R$ 410,00;Cheque; -  -  / 2292 - ELIAS SILVA DE ANDRADE - RJ - Deputado Federal;
+;;18/10/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 2292 - ELIAS SILVA DE ANDRADE - RJ - Deputado Federal;
+;;18/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 2292 - ELIAS SILVA DE ANDRADE - RJ - Deputado Federal;
+;;01/10/2010;       Encargos financeiros e taxas bancárias;R$ 10,50;Débito em conta; -  -  / 2292 - ELIAS SILVA DE ANDRADE - RJ - Deputado Federal;
+;;15/10/2010;       Encargos financeiros e taxas bancárias;R$ 24,00;Débito em conta; -  -  / 2292 - ELIAS SILVA DE ANDRADE - RJ - Deputado Federal;

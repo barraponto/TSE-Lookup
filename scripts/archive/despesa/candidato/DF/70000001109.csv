@@ -1,3 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Nacional;01.585.552/0001-71;19/08/2010;21000014201;R$ 800,00;Cheque;TEODORO ANTONIO DA CRUZ FILHO;21121;Deputado Distrital;PCB;DF;
-TEODORO ANTONIO ANTONIO DA CRUZ FILHO;210.474.991-34;22/10/2010;21000014202;R$ 11,89;Depósito em espécie;TEODORO ANTONIO DA CRUZ FILHO;21121;Deputado Distrital;PCB;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADEILTON NASCIMENTO TEIXEIRA;000.448.981-00;23/08/2010;       Serviços prestados por terceiros;R$ 500,00;Transferência eletrônica; -  -  / 21121 - TEODORO ANTONIO DA CRUZ FILHO - DF - Deputado Distrital;
+IMPRESSÃO COM CAFÉ REPROGRAFIA E LANCHONETE - ME;07.246.239/0001-95;10/09/2010;       Publicidade por materiais impressos;R$ 40,00;Cheque; -  -  / 21121 - TEODORO ANTONIO DA CRUZ FILHO - DF - Deputado Distrital;
+PAPELARIA ABC COMERCIO E INDUSTRIA LTDA;00.540.252/0001-03;24/08/2010;       Materiais de expediente;R$ 247,19;Cheque; -  -  / 21121 - TEODORO ANTONIO DA CRUZ FILHO - DF - Deputado Distrital;
+;;22/10/2010;       Encargos financeiros e taxas bancárias;R$ 24,00;Débito em conta; -  -  / 21121 - TEODORO ANTONIO DA CRUZ FILHO - DF - Deputado Distrital;
+;;15/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 21121 - TEODORO ANTONIO DA CRUZ FILHO - DF - Deputado Distrital;
+;;13/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 21121 - TEODORO ANTONIO DA CRUZ FILHO - DF - Deputado Distrital;

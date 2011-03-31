@@ -1,6 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Nacional;01.770.770/0001-86;21/09/2010;31000004253;R$ 3.200,00;Cheque;MARCUS VINICIUS AMIN CARNEIRO;31625;Deputado Distrital;PHS;DF;
-Diretório Nacional;01.770.770/0001-86;01/10/2010;31000004254;R$ 3.000,00;Cheque;MARCUS VINICIUS AMIN CARNEIRO;31625;Deputado Distrital;PHS;DF;
-MARCUS VINICIUS AMIN CARNEIRO;221.199.141-68;01/11/2010;31000004255;R$ 9,10;Depósito em espécie;MARCUS VINICIUS AMIN CARNEIRO;31625;Deputado Distrital;PHS;DF;
-MARIA BATISTA GONCALVES DE AMORIM;153.245.161-04;10/08/2010;31000004251;R$ 560,00;Cheque;MARCUS VINICIUS AMIN CARNEIRO;31625;Deputado Distrital;PHS;DF;
-NATANAEL CARNEIRO FILHO;261.982.821-04;10/08/2010;31000004252;R$ 470,00;Depósito em espécie;MARCUS VINICIUS AMIN CARNEIRO;31625;Deputado Distrital;PHS;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ABRAAO INFORMATICA E GRAFICA DIGITAL LTDA;10.668.905/0001-98;28/09/2010;       Publicidade por materiais impressos;R$ 2.064,00;Cheque; -  -  / 31625 - MARCUS VINICIUS AMIN CARNEIRO - DF - Deputado Distrital;
+CASA FREITAS MATERIIS DE CONSTRUCAO LTDA;03.419.549/0001-03;24/09/2010;       Publicidade por materiais impressos;R$ 25,00;Cheque; -  -  / 31625 - MARCUS VINICIUS AMIN CARNEIRO - DF - Deputado Distrital;
+DAVIA RAUJO CHAVES;874.426.201-91;01/10/2010;       Serviços prestados por terceiros;R$ 1.500,00;Cheque; -  -  / 31625 - MARCUS VINICIUS AMIN CARNEIRO - DF - Deputado Distrital;
+DESIGN COM E SERV DE SINALIZACAO LTDA ME;02.765.977/0001-25;10/08/2010;       Publicidade por materiais impressos;R$ 697,00;Cheque; -  -  / 31625 - MARCUS VINICIUS AMIN CARNEIRO - DF - Deputado Distrital;
+DESIGN COM E SERV DE SINALIZACAO LTDA ME;02.765.977/0001-25;03/09/2010;       Publicidade por materiais impressos;R$ 50,00;Cheque; -  -  / 31625 - MARCUS VINICIUS AMIN CARNEIRO - DF - Deputado Distrital;
+DISTRIBUIDORA DE TECIDOS UNIAO LTD;00.484.725/0001-00;22/09/2010;       Publicidade por materiais impressos;R$ 73,60;Cheque; -  -  / 31625 - MARCUS VINICIUS AMIN CARNEIRO - DF - Deputado Distrital;
+ETIFLEX ROTULOS E ETIQUETAS LTDA;06.083.724/0002-03;30/09/2010;       Publicidade por materiais impressos;R$ 615,00;Cheque; -  -  / 31625 - MARCUS VINICIUS AMIN CARNEIRO - DF - Deputado Distrital;
+FABIO MACHADO DA SILVA;351.553.371-00;01/10/2010;       Serviços prestados por terceiros;R$ 1.500,00;Cheque; -  -  / 31625 - MARCUS VINICIUS AMIN CARNEIRO - DF - Deputado Distrital;
+REPRESENTACAO E DISTRIBUICAO DE COM DERIV GARANTIA LTDA;12.198.783/0001-49;24/09/2010;       Combustíveis e lubrificantes;R$ 700,00;Cheque; -  -  / 31625 - MARCUS VINICIUS AMIN CARNEIRO - DF - Deputado Distrital;
+;;28/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,50;Débito em conta; -  -  / 31625 - MARCUS VINICIUS AMIN CARNEIRO - DF - Deputado Distrital;

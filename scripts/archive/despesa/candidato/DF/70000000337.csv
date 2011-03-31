@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-F1 BISTRON CHOPP E BAR;11.410.858/0001-40;10/09/2010;65000176066;R$ 200,00;Estimado;HENRIQUE ANTONIO RODRIGUES DE OLIVEIRA;65444;Deputado Distrital;PC do B;DF;
-ODILIO LUIS DOS SANTOS;12.205.300/0001-96;20/09/2010;65000176068;R$ 168,70;Estimado;HENRIQUE ANTONIO RODRIGUES DE OLIVEIRA;65444;Deputado Distrital;PC do B;DF;
-SICINATO PEREIRA DA MATA;09.629.053/0001-40;12/09/2010;65000176065;R$ 280,00;Estimado;HENRIQUE ANTONIO RODRIGUES DE OLIVEIRA;65444;Deputado Distrital;PC do B;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+F1 BISTRON CHOPP E BAR;11.410.858/0001-40;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado; -  -  / 65444 - HENRIQUE ANTONIO RODRIGUES DE OLIVEIRA - DF - Deputado Distrital;
+ODILIO LUIS DOS SANTOS;12.205.300/0001-96;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 168,70;Estimado; -  -  / 65444 - HENRIQUE ANTONIO RODRIGUES DE OLIVEIRA - DF - Deputado Distrital;
+SICINATO PEREIRA DA MATA;09.629.053/0001-40;12/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 280,00;Estimado; -  -  / 65444 - HENRIQUE ANTONIO RODRIGUES DE OLIVEIRA - DF - Deputado Distrital;

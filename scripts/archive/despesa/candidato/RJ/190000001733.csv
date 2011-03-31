@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-RODRIGO SAID COSTA;091.435.397-77;20/08/2010;15000027401;R$ 250,00;Estimado;PAULO ROBERTO DUQUE ESTRADA REZENER;1521;Deputado Federal;PMDB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+RODRIGO SAID COSTA;091.435.397-77;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado; -  -  / 1521 - PAULO ROBERTO DUQUE ESTRADA REZENER - RJ - Deputado Federal;

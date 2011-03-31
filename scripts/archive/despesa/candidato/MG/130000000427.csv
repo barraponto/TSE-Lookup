@@ -1,4 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DEUSDEDIT BERNARDO DOS REIS;283.604.516-72;27/08/2010;33000027666;R$ 200,00;Depósito em espécie;DEUSDEDIT BERNARDO DOS REIS;3312;Deputado Federal;PMN;MG;
-DEUSDEDIT BERNARDO DOS REIS;283.604.516-72;24/09/2010;33000027667;R$ 210,00;Depósito em espécie;DEUSDEDIT BERNARDO DOS REIS;3312;Deputado Federal;PMN;MG;
-DEUSDEDIT BERNARDO DOS REIS;283.604.516-72;17/08/2010;33000027665;R$ 150,00;Depósito em espécie;DEUSDEDIT BERNARDO DOS REIS;3312;Deputado Federal;PMN;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA PROGRESSO LTDA;10.842.865/0001-59;18/08/2010;       Publicidade por materiais impressos;R$ 49,00;Cheque; -  -  / 3312 - DEUSDEDIT BERNARDO DOS REIS - MG - Deputado Federal;
+OLIVEIRA & MOREIRA GRÁFICA E EDITIORA LTDA;04.947.397/0001-84;24/09/2010;       Publicidade por materiais impressos;R$ 230,00;Cheque; -  -  / 3312 - DEUSDEDIT BERNARDO DOS REIS - MG - Deputado Federal;
+RICARDO PENNA FRANCO;507.561.256-34;26/09/2010;       Despesas com pessoal;R$ 21,00;Cheque; -  -  / 3312 - DEUSDEDIT BERNARDO DOS REIS - MG - Deputado Federal;
+SERIMASTER SERIGRAFIA LTDA - ME;07.446.947/0001-70;27/08/2010;       Publicidade por materiais impressos;R$ 260,00;Cheque; -  -  / 3312 - DEUSDEDIT BERNARDO DOS REIS - MG - Deputado Federal;

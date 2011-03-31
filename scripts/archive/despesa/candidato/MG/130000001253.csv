@@ -1,7 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ARISTIDES PEREIRA DE SOUZA;319.639.946-04;04/08/2010;44000037552;R$ 350,00;Cheque;ARISTIDES PEREIRA DE SOUZA;44181;Deputado Estadual;PRP;MG;
-ARISTIDES PEREIRA DE SOUZA;319.639.946-04;03/09/2010;44000037554;R$ 200,00;Cheque;ARISTIDES PEREIRA DE SOUZA;44181;Deputado Estadual;PRP;MG;
-ARISTIDES PEREIRA DE SOUZA;319.639.946-04;15/09/2010;44000037555;R$ 610,00;Cheque;ARISTIDES PEREIRA DE SOUZA;44181;Deputado Estadual;PRP;MG;
-Comitê Financeiro Único;12.154.851/0001-78;17/07/2010;44000037551;R$ 590,00;Estimado;ARISTIDES PEREIRA DE SOUZA;44181;Deputado Estadual;PRP;MG;
-Comitê Financeiro Único;12.154.851/0001-78;23/08/2010;44000037553;R$ 590,00;Estimado;ARISTIDES PEREIRA DE SOUZA;44181;Deputado Estadual;PRP;MG;
-Comitê Financeiro Único;12.154.851/0001-78;04/09/2010;44000037556;R$ 168,00;Estimado;ARISTIDES PEREIRA DE SOUZA;44181;Deputado Estadual;PRP;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CAMILO REIS DUARTE;072.888.026-12;10/09/2010;       Serviços prestados por terceiros;R$ 150,00;Cheque; -  -  / 44181 - ARISTIDES PEREIRA DE SOUZA - MG - Deputado Estadual;
+Comitê Financeiro Único;12.154.851/0001-78;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 168,00;Estimado;Comitê Financeiro Único - PT do B -  / 44181 - ARISTIDES PEREIRA DE SOUZA - MG - Deputado Estadual;
+Comitê Financeiro Único;12.154.851/0001-78;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 590,00;Estimado;Comitê Financeiro Único - PT do B -  / 44181 - ARISTIDES PEREIRA DE SOUZA - MG - Deputado Estadual;
+Comitê Financeiro Único;12.154.851/0001-78;17/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 590,00;Estimado;Comitê Financeiro Único - PT do B -  / 44181 - ARISTIDES PEREIRA DE SOUZA - MG - Deputado Estadual;
+EDITORA PLUS LTDA - ME;11.884.348/0001-05;08/09/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 44181 - ARISTIDES PEREIRA DE SOUZA - MG - Deputado Estadual;
+EDITORA PLUS LTDA - ME;11.884.348/0001-05;04/08/2010;       Publicidade por materiais impressos;R$ 340,00;Cheque; -  -  / 44181 - ARISTIDES PEREIRA DE SOUZA - MG - Deputado Estadual;
+;;04/10/2010;       Encargos financeiros e taxas bancárias;R$ 21,00;Débito em conta; -  -  / 44181 - ARISTIDES PEREIRA DE SOUZA - MG - Deputado Estadual;
+;;09/09/2010;       Encargos financeiros e taxas bancárias;R$ 21,00;Débito em conta; -  -  / 44181 - ARISTIDES PEREIRA DE SOUZA - MG - Deputado Estadual;

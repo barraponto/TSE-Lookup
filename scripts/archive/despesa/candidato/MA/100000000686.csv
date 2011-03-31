@@ -1,2 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-;;30/09/2010;;R$ 1.800,00;Não informado;LUCIA REGINA GUIMARÃES DE OLIVEIRA;6522;Deputado Federal;PC do B;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+POSTO ECONOMICO;125.450.313-72;30/09/2010;       Combustíveis e lubrificantes;R$ 100,00;Cheque; -  -  / 6522 - LUCIA REGINA GUIMARÃES DE OLIVEIRA - MA - Deputado Federal;
+SÃO LUIS BRINDES GRAFICA E EDITORA LTDA;01.777.725/0001-53;03/09/2010;       Publicidade por materiais impressos;R$ 1.700,00;Cheque; -  -  / 6522 - LUCIA REGINA GUIMARÃES DE OLIVEIRA - MA - Deputado Federal;

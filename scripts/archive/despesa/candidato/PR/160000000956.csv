@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO ANNIBELLI NETO;12.180.259/0001-40;30/09/2010;15000000051;R$ 175,00;Estimado;MARIO SERGIO BRADOCK ZACHESKI;1500;Deputado Federal;PMDB;PR;
-MARIO SERGIO BRADOCK ZACHESCKY;158.635.149-49;05/08/2010;15000000053;R$ 3.000,00;Estimado;MARIO SERGIO BRADOCK ZACHESKI;1500;Deputado Federal;PMDB;PR;
-ROBERTO REQUIAO;12.169.747/0001-57;30/09/2010;15000000052;R$ 67,50;Estimado;MARIO SERGIO BRADOCK ZACHESKI;1500;Deputado Federal;PMDB;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO ANNIBELLI NETO;12.180.259/0001-40;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 175,00;Estimado;15190 -  - PMDB -  - Deputado Estadual / 1500 - MARIO SERGIO BRADOCK ZACHESKI - PR - Deputado Federal;
+MARIO SERGIO BRADOCK ZACHESCKY;158.635.149-49;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.000,00;Estimado; -  -  / 1500 - MARIO SERGIO BRADOCK ZACHESKI - PR - Deputado Federal;
+ROBERTO REQUIAO;12.169.747/0001-57;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 67,50;Estimado;151 -  - PMDB -  - Senador / 1500 - MARIO SERGIO BRADOCK ZACHESKI - PR - Deputado Federal;

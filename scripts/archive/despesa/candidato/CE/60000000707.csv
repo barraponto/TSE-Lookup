@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.531/0001-98;30/09/2010;33000086091;R$ 1.950,00;Estimado;FRANCISCO FERREIRA DA SILVA;3399;Deputado Federal;PMN;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.531/0001-98;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.950,00;Estimado;Comitê Financeiro Único - PMN -  / 3399 - FRANCISCO FERREIRA DA SILVA - CE - Deputado Federal;

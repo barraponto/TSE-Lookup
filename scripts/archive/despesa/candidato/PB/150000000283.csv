@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.221.889/0001-16;30/08/2010;13000778862;R$ 160,00;Estimado;SEVERINO DE BRITO SILVA;13195;Deputado Estadual;PT;PB;
-JOSÉ TARGINO MARANHÃO;12.189.345/0001-14;23/09/2010;13000778861;R$ 523,56;Estimado;SEVERINO DE BRITO SILVA;13195;Deputado Estadual;PT;PB;
-JOSÉ TARGINO MARANHÃO;12.189.345/0001-14;30/08/2010;13000778864;R$ 150,00;Estimado;SEVERINO DE BRITO SILVA;13195;Deputado Estadual;PT;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.221.889/0001-16;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 160,00;Estimado;Comitê Financeiro Único - PT -  / 13195 - SEVERINO DE BRITO SILVA - PB - Deputado Estadual;
+JOSÉ TARGINO MARANHÃO;12.189.345/0001-14;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 523,56;Estimado;15 -  - PMDB -  - Governador / 13195 - SEVERINO DE BRITO SILVA - PB - Deputado Estadual;
+JOSÉ TARGINO MARANHÃO;12.189.345/0001-14;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;15 -  - PMDB -  - Governador / 13195 - SEVERINO DE BRITO SILVA - PB - Deputado Estadual;

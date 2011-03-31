@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;27/09/2010;15000259602;R$ 150,00;Estimado;KÁTIA CRISTINA PEREIRA;15732;Deputado Estadual;PMDB;RJ;
-KÁTIA CRISTINA PEREIRA;080.730.027-60;27/09/2010;15000259603;R$ 150,00;Estimado;KÁTIA CRISTINA PEREIRA;15732;Deputado Estadual;PMDB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 15732 - KÁTIA CRISTINA PEREIRA - RJ - Deputado Estadual;
+EDIOURO GRÁFICA E EDITORA LTDA;04.218.430/0001-35;27/09/2010;       Publicidade por materiais impressos;R$ 300,00;Não informado; -  -  / 15732 - KÁTIA CRISTINA PEREIRA - RJ - Deputado Estadual;
+KÁTIA CRISTINA PEREIRA;080.730.027-60;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado; -  -  / 15732 - KÁTIA CRISTINA PEREIRA - RJ - Deputado Estadual;

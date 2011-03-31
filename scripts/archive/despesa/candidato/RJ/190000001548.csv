@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.494/0001-18;30/09/2010;31000024235;R$ 250,00;Estimado;DANIEL LIMA LINDOSO;31323;Deputado Estadual;PHS;RJ;
-JOSE CARLOS D ALMEIDA;12.177.962/0001-08;01/10/2010;31000024234;R$ 77,51;Estimado;DANIEL LIMA LINDOSO;31323;Deputado Estadual;PHS;RJ;
-JOSE CARLOS D'ALMEIDA;12.177.962/0001-08;13/09/2010;31000024231;R$ 360,00;Estimado;DANIEL LIMA LINDOSO;31323;Deputado Estadual;PHS;RJ;
-JOSE CARLOS D'ALMEIDA;12.177.962/0001-08;30/08/2010;31000024232;R$ 175,00;Estimado;DANIEL LIMA LINDOSO;31323;Deputado Estadual;PHS;RJ;
-JOSE CARLOS D'ALMEIDA;12.177.962/0001-08;15/09/2010;31000024233;R$ 720,00;Estimado;DANIEL LIMA LINDOSO;31323;Deputado Estadual;PHS;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.494/0001-18;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;Comitê Financeiro Único - PHS -  / 31323 - DANIEL LIMA LINDOSO - RJ - Deputado Estadual;
+JOSE CARLOS D ALMEIDA;12.177.962/0001-08;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 77,51;Estimado;3111 -  - PHS -  - Deputado Federal / 31323 - DANIEL LIMA LINDOSO - RJ - Deputado Estadual;
+JOSE CARLOS D'ALMEIDA;12.177.962/0001-08;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 175,00;Estimado;3111 -  - PHS -  - Deputado Federal / 31323 - DANIEL LIMA LINDOSO - RJ - Deputado Estadual;
+JOSE CARLOS D'ALMEIDA;12.177.962/0001-08;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 720,00;Estimado;3111 -  - PHS -  - Deputado Federal / 31323 - DANIEL LIMA LINDOSO - RJ - Deputado Estadual;
+JOSE CARLOS D'ALMEIDA;12.177.962/0001-08;13/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;3111 -  - PHS -  - Deputado Federal / 31323 - DANIEL LIMA LINDOSO - RJ - Deputado Estadual;

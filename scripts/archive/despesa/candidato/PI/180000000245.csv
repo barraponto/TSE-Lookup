@@ -1,5 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.221.882/0001-02;28/07/2010;12001521732;R$ 1.034,68;Estimado;JOÃO GALBA PEREIRA MORORÓ;1212;Deputado Federal;PDT;PI;
-Comitê Financeiro Único;12.221.882/0001-02;30/09/2010;12001521734;R$ 1.980,00;Estimado;JOÃO GALBA PEREIRA MORORÓ;1212;Deputado Federal;PDT;PI;
-JOÃO GALBA PEREIRA MORORÓ;029.976.223-87;28/07/2010;12001521731;R$ 500,00;Depósito em espécie;JOÃO GALBA PEREIRA MORORÓ;1212;Deputado Federal;PDT;PI;
-JOÃO GALBA PEREIRA MORORÓ;029.976.223-87;06/08/2010;12001521733;R$ 200,00;Depósito em espécie;JOÃO GALBA PEREIRA MORORÓ;1212;Deputado Federal;PDT;PI;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.221.882/0001-02;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.980,00;Estimado;Comitê Financeiro Único - PTC -  / 1212 - JOÃO GALBA PEREIRA MORORÓ - PI - Deputado Federal;
+Comitê Financeiro Único;12.221.882/0001-02;28/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.034,68;Estimado;Comitê Financeiro Único - PDT -  / 1212 - JOÃO GALBA PEREIRA MORORÓ - PI - Deputado Federal;
+DIGIART LTDA - ME;07.021.078/0001-31;28/07/2010;       Publicidade por materiais impressos;R$ 130,00;Cheque; -  -  / 1212 - JOÃO GALBA PEREIRA MORORÓ - PI - Deputado Federal;
+L M FREITAS DOS SANTOS;07.256.159/0001-10;09/08/2010;       Publicidade por materiais impressos;R$ 365,00;Cheque; -  -  / 1212 - JOÃO GALBA PEREIRA MORORÓ - PI - Deputado Federal;
+L M FREITAS DOS SANTOS;07.256.159/0001-10;29/07/2010;       Publicidade por materiais impressos;R$ 80,00;Cheque; -  -  / 1212 - JOÃO GALBA PEREIRA MORORÓ - PI - Deputado Federal;
+RAIMUNDO GOMES DOS SANTOS;520.340.203-59;25/09/2010;       Serviços prestados por terceiros;R$ 120,00;Cheque; -  -  / 1212 - JOÃO GALBA PEREIRA MORORÓ - PI - Deputado Federal;

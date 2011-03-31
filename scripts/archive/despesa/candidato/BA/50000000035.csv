@@ -1,3 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ZÉ RAIMUNDO MEIRA;246.722.975-00;11/10/2010;;R$ 33,80;Depósito em espécie;JOSÉ RAIMUNDO GOMES MEIRA;25666;Deputado Estadual;DEM;BA;
-ZÉ RAIMUNDO MEIRA;246.722.975-00;08/09/2010;;R$ 2.000,00;Depósito em espécie;JOSÉ RAIMUNDO GOMES MEIRA;25666;Deputado Estadual;DEM;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+;;11/10/2010;       Encargos financeiros e taxas bancárias;R$ 33,80;Débito em conta; -  -  / 25666 - JOSÉ RAIMUNDO GOMES MEIRA - BA - Deputado Estadual;

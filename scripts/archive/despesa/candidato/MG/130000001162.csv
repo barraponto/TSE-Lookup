@@ -1,7 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;28000605004;R$ 300,00;Estimado;ELDICE DOS SANTOS;28800;Deputado Estadual;PRTB;MG;
-Comitê Financeiro Único;12.154.851/0001-79;30/09/2010;28000605005;R$ 590,00;Estimado;ELDICE DOS SANTOS;28800;Deputado Estadual;PRTB;MG;
-ELDICE DOS SANTOS;155.675.596-15;15/09/2010;28000605007;R$ 220,00;Depósito em espécie;ELDICE DOS SANTOS;28800;Deputado Estadual;PRTB;MG;
-ELDICE DOS SANTOS;155.675.596-15;23/08/2010;28000605002;R$ 2.000,00;Depósito em espécie;ELDICE DOS SANTOS;28800;Deputado Estadual;PRTB;MG;
-ELDICE DOS SANTOS;155.675.596-15;29/10/2010;28000605006;R$ 600,00;Depósito em espécie;ELDICE DOS SANTOS;28800;Deputado Estadual;PRTB;MG;
-PUBLIARTE BH;04.990.266/0001-80;24/08/2010;28000605003;R$ 384,00;Estimado;ELDICE DOS SANTOS;28800;Deputado Estadual;PRTB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALAN AMADEU DINIZ DA CRUZ;014.581.726-19;30/09/2010;       Despesas com pessoal;R$ 200,00;Cheque; -  -  / 28800 - ELDICE DOS SANTOS - MG - Deputado Estadual;
+Comitê Financeiro Único;12.154.851/0001-79;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 590,00;Estimado; - PT do B -  / 28800 - ELDICE DOS SANTOS - MG - Deputado Estadual;
+Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PT do B -  / 28800 - ELDICE DOS SANTOS - MG - Deputado Estadual;
+G CORREA GRAFICA LTDA;10.192.959/0001-20;27/08/2010;       Publicidade por materiais impressos;R$ 1.200,00;Cheque; -  -  / 28800 - ELDICE DOS SANTOS - MG - Deputado Estadual;
+G CORREA GRAFICA LTDA;10.192.959/0001-20;14/09/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 28800 - ELDICE DOS SANTOS - MG - Deputado Estadual;
+PLUBIARTE BH;04.990.266/0001-80;24/08/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 28800 - ELDICE DOS SANTOS - MG - Deputado Estadual;
+PUBLIARTE BH;04.990.266/0001-80;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 384,00;Estimado; -  -  / 28800 - ELDICE DOS SANTOS - MG - Deputado Estadual;
+;;21/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 28800 - ELDICE DOS SANTOS - MG - Deputado Estadual;
+;;21/10/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 28800 - ELDICE DOS SANTOS - MG - Deputado Estadual;

@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 - JAQUES WAGANER;12.174.245/0001-14;22/09/2010;12001008614;R$ 550,00;Estimado;CLAUDIO LIMA DOS REIS;12123;Deputado Estadual;PDT;BA;
-ELEIÇÃO 2010 - JAQUES WAGNER;12.174.245/0001-14;22/09/2010;12001008613;R$ 875,00;Estimado;CLAUDIO LIMA DOS REIS;12123;Deputado Estadual;PDT;BA;
-ELEIÇÃO 2010- JAQUES WAGNER;12.174.245/0001-14;22/09/2010;12001008612;R$ 875,00;Estimado;CLAUDIO LIMA DOS REIS;12123;Deputado Estadual;PDT;BA;
-ELEIÇÃO 2010 JAQUES WAGNER;12.174.245/0001-14;22/09/2010;12001008611;R$ 1.200,00;Estimado;CLAUDIO LIMA DOS REIS;12123;Deputado Estadual;PDT;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 - JAQUES WAGANER;12.174.245/0001-14;22/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 550,00;Estimado;13 -  - PT -  - Governador / 12123 - CLAUDIO LIMA DOS REIS - BA - Deputado Estadual;
+ELEIÇÃO 2010 - JAQUES WAGNER;12.174.245/0001-14;22/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 875,00;Estimado;12 -  - PDT -  - Governador / 12123 - CLAUDIO LIMA DOS REIS - BA - Deputado Estadual;
+ELEIÇÃO 2010- JAQUES WAGNER;12.174.245/0001-14;22/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 875,00;Estimado;13 -  - PT -  - Governador / 12123 - CLAUDIO LIMA DOS REIS - BA - Deputado Estadual;
+ELEIÇÃO 2010 JAQUES WAGNER;12.174.245/0001-14;22/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.200,00;Estimado;13 -  - PT -  - Governador / 12123 - CLAUDIO LIMA DOS REIS - BA - Deputado Estadual;

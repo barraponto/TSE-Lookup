@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.285/0001-86;02/09/2010;20000040401;R$ 300,00;Estimado;XAVIER LEAL SIQUEIRA;2010;Deputado Federal;PSC;AP;
-Comitê Financeiro Único;12.256.171/0001-65;02/09/2010;20000040415;R$ 4.700,00;Estimado;XAVIER LEAL SIQUEIRA;2010;Deputado Federal;PSC;AP;
-Comitê Financeiro Único;12.205.285/0001-86;03/08/2010;20000040409;R$ 378,00;Estimado;XAVIER LEAL SIQUEIRA;2010;Deputado Federal;PSC;AP;
-Comitê Financeiro Único;12.205.285/0001-86;21/09/2010;20000040414;R$ 140,00;Estimado;XAVIER LEAL SIQUEIRA;2010;Deputado Federal;PSC;AP;
-Comitê Financeiro Único;12.205.285/0001-86;03/08/2010;20000040411;R$ 378,00;Estimado;XAVIER LEAL SIQUEIRA;2010;Deputado Federal;PSC;AP;
-Comitê Financeiro Único;12.205.285/0001-86;03/08/2010;20000040413;R$ 8,36;Estimado;XAVIER LEAL SIQUEIRA;2010;Deputado Federal;PSC;AP;
-Comitê Financeiro Único;12.205.285/0001-86;06/08/2010;20000040410;R$ 200,00;Estimado;XAVIER LEAL SIQUEIRA;2010;Deputado Federal;PSC;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.285/0001-86;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 140,00;Estimado;Comitê Financeiro Único - PMDB -  / 2010 - XAVIER LEAL SIQUEIRA - AP - Deputado Federal;
+Comitê Financeiro Único;12.256.171/0001-65;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.700,00;Estimado;Comitê Financeiro Único - PSC -  / 2010 - XAVIER LEAL SIQUEIRA - AP - Deputado Federal;
+Comitê Financeiro Único;12.205.285/0001-86;03/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 8,36;Estimado;Comitê Financeiro Único - PMDB -  / 2010 - XAVIER LEAL SIQUEIRA - AP - Deputado Federal;
+Comitê Financeiro Único;12.205.285/0001-86;06/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;Comitê Financeiro Único - PMDB -  / 2010 - XAVIER LEAL SIQUEIRA - AP - Deputado Federal;
+Comitê Financeiro Único;12.205.285/0001-86;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PSC -  / 2010 - XAVIER LEAL SIQUEIRA - AP - Deputado Federal;
+Comitê Financeiro Único;12.205.285/0001-86;03/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 378,00;Estimado;Comitê Financeiro Único - PMDB -  / 2010 - XAVIER LEAL SIQUEIRA - AP - Deputado Federal;
+Comitê Financeiro Único;12.205.285/0001-86;03/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 378,00;Estimado;Comitê Financeiro Único - PMDB -  / 2010 - XAVIER LEAL SIQUEIRA - AP - Deputado Federal;

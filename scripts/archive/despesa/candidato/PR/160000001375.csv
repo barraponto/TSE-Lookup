@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO CARLOS DE MARIO;192.860.079-49;17/09/2010;15000254501;R$ 1.000,00;Depósito em espécie;ANTONIO CARLOS DE MARIO;1505;Deputado Federal;PMDB;PR;
-ANTONIO CARLOS DE MARIO;192.860.079-49;25/10/2010;15000254504;R$ 450,00;Depósito em espécie;ANTONIO CARLOS DE MARIO;1505;Deputado Federal;PMDB;PR;
-ELAINE KOSTRZEVICZ CAMPOS DE OLIVEIRA - STAR COMUNICAÇÃO VISUAL;031.598.029-06;28/10/2010;15000254503;R$ 300,00;Estimado;ANTONIO CARLOS DE MARIO;1505;Deputado Federal;PMDB;PR;
-ROBERTO REQUIÃO DE MELLO E SILVA;12.169.747/0001-57;29/09/2010;15000254502;R$ 562,50;Estimado;ANTONIO CARLOS DE MARIO;1505;Deputado Federal;PMDB;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BERENICE ZANETTI GOMES PAVESI - ME;01.090.631/0001-01;03/09/2010;       Publicidade por materiais impressos;R$ 900,00;Cheque; -  -  / 1505 - ANTONIO CARLOS DE MARIO - PR - Deputado Federal;
+ELAINE KOSTRZEVICZ CAMPOS DE OLIVEIRA - STAR COMUNICAÇÃO VISUAL;031.598.029-06;28/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 1505 - ANTONIO CARLOS DE MARIO - PR - Deputado Federal;
+GRAFICA E EDITORA CASTRO & LIMA LTDA.;08.275.692/0001-92;06/09/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 1505 - ANTONIO CARLOS DE MARIO - PR - Deputado Federal;
+OSTROVSKI & SANTOS LTDA. - JORNAL BONS NEGOCIOS E NOTICIAS;04.990.968/0001-63;20/09/2010;       Publicidade por jornais e revistas;R$ 150,00;Cheque; -  -  / 1505 - ANTONIO CARLOS DE MARIO - PR - Deputado Federal;
+ROBERTO REQUIÃO DE MELLO E SILVA;12.169.747/0001-57;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 562,50;Estimado;151 -  - PMDB -  - Senador / 1505 - ANTONIO CARLOS DE MARIO - PR - Deputado Federal;

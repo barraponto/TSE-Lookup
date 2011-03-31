@@ -1,5 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELAINE MARIA DE CARVALHO GUIMARÃES;227.693.406-97;04/08/2010;43001707651;R$ 750,00;Depósito em espécie;ELAINE MARIA DE CARVALHO GUIMARÃES;4386;Deputado Federal;PV;MG;
-ELAINE MARIA DE CARVALHO GUIMARÃES;227.693.406-97;04/08/2010;43001707652;R$ 650,00;Cheque;ELAINE MARIA DE CARVALHO GUIMARÃES;4386;Deputado Federal;PV;MG;
-JOSÉ FERNANDO APARECIDO DE OLIVEIRA;12.168.802/0001-94;25/08/2010;43001707655;R$ 440,00;Estimado;ELAINE MARIA DE CARVALHO GUIMARÃES;4386;Deputado Federal;PV;MG;
-RAQUEL CRISTINA DE FARIA AMORMINO;040.436.836-00;04/08/2010;43001707653;R$ 1.000,00;Estimado;ELAINE MARIA DE CARVALHO GUIMARÃES;4386;Deputado Federal;PV;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA FRANKLIN LTDA;20.993.945/0001-69;25/08/2010;       Despesas postais;R$ 150,00;Cheque; -  -  / 4386 - ELAINE MARIA DE CARVALHO GUIMARÃES - MG - Deputado Federal;
+GRAFICA FRANKLIN LTDA;20.993.945/0001-69;10/08/2010;       Publicidade por materiais impressos;R$ 120,00;Cheque; -  -  / 4386 - ELAINE MARIA DE CARVALHO GUIMARÃES - MG - Deputado Federal;
+JOSÉ FERNANDO APARECIDO DE OLIVEIRA;12.168.802/0001-94;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 440,00;Estimado;43 -  - PV -  - Governador / 4386 - ELAINE MARIA DE CARVALHO GUIMARÃES - MG - Deputado Federal;
+PAPELFORM EDITORA LTDA;05.539.072/0001-25;06/08/2010;       Publicidade por materiais impressos;R$ 1.030,00;Cheque; -  -  / 4386 - ELAINE MARIA DE CARVALHO GUIMARÃES - MG - Deputado Federal;
+RAQUEL CRISTINA DE FARIA AMORMINO;040.436.836-00;04/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 4386 - ELAINE MARIA DE CARVALHO GUIMARÃES - MG - Deputado Federal;
+ROBSON DA COSTA;702.253.546-91;30/09/2010;       Serviços prestados por terceiros;R$ 50,00;Cheque; -  -  / 4386 - ELAINE MARIA DE CARVALHO GUIMARÃES - MG - Deputado Federal;

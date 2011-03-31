@@ -1,6 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALDA TEREZINHA LOPES MILLER;210.557.340-15;26/07/2010;43001829526;R$ 400,00;Depósito em espécie;ALDA TEREZINHA LOPES MILLER;4303;Deputado Federal;PV;RS;
-ALDA TEREZINHA LOPES MILLER;210.557.340-15;10/09/2010;43001829527;R$ 2.000,00;Depósito em espécie;ALDA TEREZINHA LOPES MILLER;4303;Deputado Federal;PV;RS;
-ALDA TEREZINHA LOPES MILLER;210.557.340-15;29/09/2010;43001829528;R$ 500,00;Transferência eletrônica;ALDA TEREZINHA LOPES MILLER;4303;Deputado Federal;PV;RS;
-LEONI LUIZ MACHADO;173.272.020-72;15/10/2010;43001829529;R$ 2.000,00;Depósito em espécie;ALDA TEREZINHA LOPES MILLER;4303;Deputado Federal;PV;RS;
-LEONI LUIZ MACHADO;173.272.020-72;27/10/2010;43001829530;R$ 1.345,00;Transferência eletrônica;ALDA TEREZINHA LOPES MILLER;4303;Deputado Federal;PV;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AFH SERVIÇOS GRAFICOS;03.640.540/0001-28;11/10/2010;       Publicidade por materiais impressos;R$ 494,00;Cheque; -  -  / 4303 - ALDA TEREZINHA LOPES MILLER - RS - Deputado Federal;
+TEMPOGRAFICA LTDA;05.576.187/0001-90;18/10/2010;       Publicidade por materiais impressos;R$ 1.916,00;Cheque; -  -  / 4303 - ALDA TEREZINHA LOPES MILLER - RS - Deputado Federal;
+TEMPOGRAFICA LTDA;05.576.187/0001-90;28/10/2010;       Publicidade por materiais impressos;R$ 1.916,00;Cheque; -  -  / 4303 - ALDA TEREZINHA LOPES MILLER - RS - Deputado Federal;
+TEMPOGRAFICA LTDA;05.576.187/0001-90;10/09/2010;       Publicidade por materiais impressos;R$ 1.916,00;Cheque; -  -  / 4303 - ALDA TEREZINHA LOPES MILLER - RS - Deputado Federal;
+4303 - ALDA TEREZINHA LOPES MILLER - DEPUTADO FEDERAL;12.173.285/0001-41;29/10/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 1,95;Depósito em espécie;Direção Estadual/Distrital - PV - RS / 4303 - ALDA TEREZINHA LOPES MILLER - RS - Deputado Federal;
+;;16/09/2010;       Impostos, contribuições e taxas;R$ 0,35;Débito em conta; -  -  / 4303 - ALDA TEREZINHA LOPES MILLER - RS - Deputado Federal;
+;;13/10/2010;       Impostos, contribuições e taxas;R$ 0,35;Débito em conta; -  -  / 4303 - ALDA TEREZINHA LOPES MILLER - RS - Deputado Federal;
+;;14/09/2010;       Impostos, contribuições e taxas;R$ 0,35;Débito em conta; -  -  / 4303 - ALDA TEREZINHA LOPES MILLER - RS - Deputado Federal;

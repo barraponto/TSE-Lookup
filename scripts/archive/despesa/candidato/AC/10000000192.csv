@@ -1,5 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.153/0001-61;14/09/2010;45000429573;R$ 290,00;Cheque;WHERLES FERNANDES DA ROCHA;45190;Deputado Estadual;PSDB;AC;
-WHERLES FERNANDES DA ROCHA;307.905.902-63;07/07/2010;45000429574;R$ 3.600,00;Estimado;WHERLES FERNANDES DA ROCHA;45190;Deputado Estadual;PSDB;AC;
-WHERLES FERNANDES DA ROCHA;307.905.902-63;09/08/2010;45000429571;R$ 3.000,00;Depósito em espécie;WHERLES FERNANDES DA ROCHA;45190;Deputado Estadual;PSDB;AC;
-WHERLES FERNANDES DA ROCHA;307.905.902-63;30/08/2010;45000429572;R$ 2.000,00;Depósito em espécie;WHERLES FERNANDES DA ROCHA;45190;Deputado Estadual;PSDB;AC;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CAVALCANTE & SOUZA LTDA.;14.357.263/0001-67;01/10/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 45190 - WHERLES FERNANDES DA ROCHA - AC - Deputado Estadual;
+EDITORA PREVIEM LTDA;63.592.935/0001-24;13/09/2010;       Publicidade por materiais impressos;R$ 1.200,00;Cheque; -  -  / 45190 - WHERLES FERNANDES DA ROCHA - AC - Deputado Estadual;
+G. S. SILVEIRA - ME;84.313.923/0001-93;20/08/2010;       Publicidade por materiais impressos;R$ 336,00;Cheque; -  -  / 45190 - WHERLES FERNANDES DA ROCHA - AC - Deputado Estadual;
+G. S. SILVEIRA - ME;84.313.923/0001-93;06/08/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 45190 - WHERLES FERNANDES DA ROCHA - AC - Deputado Estadual;
+SAFRA GRAFICA E EDITORA LTDA;26.953.547/0001-03;30/08/2010;       Publicidade por materiais impressos;R$ 2.100,00;Cheque; -  -  / 45190 - WHERLES FERNANDES DA ROCHA - AC - Deputado Estadual;
+VINIL ARTE COMUNICAÇÃO VISUAL E COMERCIO LTDA;09.814.366/0001-79;09/08/2010;       Publicidade por materiais impressos;R$ 700,00;Cheque; -  -  / 45190 - WHERLES FERNANDES DA ROCHA - AC - Deputado Estadual;
+WHERLES FERNANDES DA ROCHA;307.905.902-63;07/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.600,00;Estimado; -  -  / 45190 - WHERLES FERNANDES DA ROCHA - AC - Deputado Estadual;

@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-EVERALDO ALVES FOGAÇA;12.204.613/0001-20;18/09/2010;65000280181;R$ 210,00;Estimado;NEIRA CLÁUDIA CARDOSO FIGUEIRA;6565;Deputado Federal;PC do B;RO;
-EVERALDO ALVES FOGAÇA;12.204.613/0001-20;18/09/2010;65000280182;R$ 2.300,00;Estimado;NEIRA CLÁUDIA CARDOSO FIGUEIRA;6565;Deputado Federal;PC do B;RO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EVERALDO ALVES FOGAÇA;12.204.613/0001-20;18/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.300,00;Estimado;65789 -  - PC do B -  - Deputado Estadual / 6565 - NEIRA CLÁUDIA CARDOSO FIGUEIRA - RO - Deputado Federal;
+EVERALDO ALVES FOGAÇA;12.204.613/0001-20;18/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 210,00;Estimado;65789 -  - PC do B -  - Deputado Estadual / 6565 - NEIRA CLÁUDIA CARDOSO FIGUEIRA - RO - Deputado Federal;

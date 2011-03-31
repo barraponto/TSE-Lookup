@@ -1,4 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ARELY MARIA LIMA DE OLIVEIRA;034.960.914-44;20/09/2010;31000007913;R$ 370,00;Depósito em espécie;JAFET RODRIGUES DOS SANTOS;3111;Deputado Federal;PHS;AL;
-Comitê Financeiro Único;12.200.083/0001-41;30/09/2010;31000007912;R$ 300,00;Estimado;JAFET RODRIGUES DOS SANTOS;3111;Deputado Federal;PHS;AL;
-ELEIÇÃO 2010 FERNANDO AFFONSO COLLOR DE MELLO;12.168.659/0001-30;29/09/2010;31000007911;R$ 3.906,25;Estimado;JAFET RODRIGUES DOS SANTOS;3111;Deputado Federal;PHS;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.083/0001-41;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PHS -  / 3111 - JAFET RODRIGUES DOS SANTOS - AL - Deputado Federal;
+ELEIÇÃO 2010 FERNANDO AFFONSO COLLOR DE MELLO;12.168.659/0001-30;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.906,25;Estimado;14 -  - PTB -  - Governador / 3111 - JAFET RODRIGUES DOS SANTOS - AL - Deputado Federal;
+TIF PROPAGANDA VISUAL LTDA ME;41.185.398/0001-65;22/09/2010;       Publicidade por materiais impressos;R$ 360,00;Transferência eletrônica; -  -  / 3111 - JAFET RODRIGUES DOS SANTOS - AL - Deputado Federal;
+;;23/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 3111 - JAFET RODRIGUES DOS SANTOS - AL - Deputado Federal;
+;;20/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,87;Débito em conta; -  -  / 3111 - JAFET RODRIGUES DOS SANTOS - AL - Deputado Federal;
+;;22/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 3111 - JAFET RODRIGUES DOS SANTOS - AL - Deputado Federal;

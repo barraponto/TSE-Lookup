@@ -1,4 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALEXANDRE XAVIER DA COSTA;896.163.320-15;11/08/2010;40000922601;R$ 2.000,00;Transferência eletrônica;ROSELAINE VARGAS BICCA DA COSTA;4001;Deputado Federal;PSB;RS;
-VOLMIR JOSÉ MIKI BREIER;12.156.083/0001-91;30/09/2010;40000922603;R$ 2.000,00;Depósito em espécie;ROSELAINE VARGAS BICCA DA COSTA;4001;Deputado Federal;PSB;RS;
-VOLMIR JOSÉ MIKI BREIER;12.156.083/0001-91;02/09/2010;40000922602;R$ 2.000,00;Cheque;ROSELAINE VARGAS BICCA DA COSTA;4001;Deputado Federal;PSB;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANA MARIA BONA;671.747.010-00;02/10/2010;       Serviços prestados por terceiros;R$ 3.200,00;Cheque; -  -  / 4001 - ROSELAINE VARGAS BICCA DA COSTA - RS - Deputado Federal;
+DULCE ANDRIOTTI DIAS ME;06.199.530/0001-97;08/09/2010;       Publicidade por materiais impressos;R$ 900,00;Cheque; -  -  / 4001 - ROSELAINE VARGAS BICCA DA COSTA - RS - Deputado Federal;
+JORNAL CIDADE RS;88.607.478/0001-25;26/08/2010;       Publicidade por jornais e revistas;R$ 812,50;Não informado; -  -  / 4001 - ROSELAINE VARGAS BICCA DA COSTA - RS - Deputado Federal;
+LISIANE RAEL DA SILVA;014.901.160-10;27/09/2010;       Serviços prestados por terceiros;R$ 340,00;Cheque; -  -  / 4001 - ROSELAINE VARGAS BICCA DA COSTA - RS - Deputado Federal;
+SANTA FÁTIMA DOS SANTOS CARNEIRO;617.641.320-68;30/09/2010;       Serviços prestados por terceiros;R$ 170,00;Cheque; -  -  / 4001 - ROSELAINE VARGAS BICCA DA COSTA - RS - Deputado Federal;
+SANTA FÁTIMA DOS SANTOS CARNEIRO;617.641.320-68;21/09/2010;       Serviços prestados por terceiros;R$ 400,00;Cheque; -  -  / 4001 - ROSELAINE VARGAS BICCA DA COSTA - RS - Deputado Federal;
+4001 - ROSELAINE VARGAS BICCA DA COSTA - DEPUTADO FEDERAL;12.156.167/0001-25;08/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 180,00;Depósito em espécie;Comitê Financeiro Único - PT - RS / 4001 - ROSELAINE VARGAS BICCA DA COSTA - RS - Deputado Federal;

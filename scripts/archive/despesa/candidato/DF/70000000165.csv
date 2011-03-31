@@ -1,5 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CPC COMERCIO E SERVICÇOS AUTOMOTIVOS LTDA;08.379.244/0001-39;18/08/2010;17000027851;R$ 1.000,00;Cheque;ANTONIO VAGNER MOREIRA MARROCOS;17555;Deputado Distrital;PSL;DF;
-CPC COMERCIO E SERVICÇOS AUTOMOTIVOS LTDA;08.379.244/0001-39;20/09/2010;17000027854;R$ 550,00;Cheque;ANTONIO VAGNER MOREIRA MARROCOS;17555;Deputado Distrital;PSL;DF;
-HELENA CARDOSO BORGES;418.267.875-34;10/09/2010;17000027852;R$ 700,00;Depósito em espécie;ANTONIO VAGNER MOREIRA MARROCOS;17555;Deputado Distrital;PSL;DF;
-SEGURO COM SERV DE PNEUS LTDA;07.624.244/0001-94;20/09/2010;17000027853;R$ 550,00;Cheque;ANTONIO VAGNER MOREIRA MARROCOS;17555;Deputado Distrital;PSL;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO ADEMAR BESERRA DE OLIVEIRA;085.362.871-87;08/09/2010;       Despesas com pessoal;R$ 200,00;Cheque; -  -  / 17555 - ANTONIO VAGNER MOREIRA MARROCOS - DF - Deputado Distrital;
+DIMENSAO LETREIROS E PLACAS LTDA ME;38.068.847/0001-80;21/09/2010;       Publicidade por materiais impressos;R$ 1.295,00;Cheque; -  -  / 17555 - ANTONIO VAGNER MOREIRA MARROCOS - DF - Deputado Distrital;
+JOSE CIRILO RODRIGUES DA SILVA ME;10.632.315/0001-05;23/09/2010;       Alimentação;R$ 254,50;Cheque; -  -  / 17555 - ANTONIO VAGNER MOREIRA MARROCOS - DF - Deputado Distrital;
+MARIA TERESA BELA DE OLIVEIRA;182.809.941-49;30/09/2010;       Despesas com pessoal;R$ 600,00;Cheque; -  -  / 17555 - ANTONIO VAGNER MOREIRA MARROCOS - DF - Deputado Distrital;
+SERGIO GOMES DE SOUZA;776.262.731-68;10/09/2010;       Serviços prestados por terceiros;R$ 400,00;Cheque; -  -  / 17555 - ANTONIO VAGNER MOREIRA MARROCOS - DF - Deputado Distrital;
+;;03/09/2010;       Encargos financeiros e taxas bancárias;R$ 14,00;Débito em conta; -  -  / 17555 - ANTONIO VAGNER MOREIRA MARROCOS - DF - Deputado Distrital;
+;;20/08/2010;       Encargos financeiros e taxas bancárias;R$ 16,50;Débito em conta; -  -  / 17555 - ANTONIO VAGNER MOREIRA MARROCOS - DF - Deputado Distrital;

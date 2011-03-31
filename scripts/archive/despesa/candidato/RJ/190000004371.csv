@@ -1,2 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS HENRIQUE DE MENEZES;011.129.167-41;27/10/2010;17000067451;R$ 7.000,00;Depósito em espécie;CARLOS HENRIQUE DE MENEZES;17822;Deputado Estadual;PSL;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AMERICAN 2001 SIGN COMUNICAÇÃO VISUAL LTDA;04.342.065/0001-76;13/09/2010;       Publicidade por materiais impressos;R$ 5.015,00;Cheque; -  -  / 17822 - CARLOS HENRIQUE DE MENEZES - RJ - Deputado Estadual;
+AMERICAN 2001 SIGN COMUNICAÇÃO VISUAL LTDA;04.342.065/0001-76;13/09/2010;       Publicidade por materiais impressos;R$ 54,00;Cheque; -  -  / 17822 - CARLOS HENRIQUE DE MENEZES - RJ - Deputado Estadual;
+LUIZ CARLOS DA CONCEIÇÃO DE SOUZA;086.966.057-80;30/09/2010;       Diversas a especificar;R$ 431,00;Cheque; -  -  / 17822 - CARLOS HENRIQUE DE MENEZES - RJ - Deputado Estadual;
+PROJETO IV GRAFSERRA GRÁFICA E EDITORA LTDA;09.676.824/0001-50;30/09/2010;       Publicidade por materiais impressos;R$ 1.500,00;Cheque; -  -  / 17822 - CARLOS HENRIQUE DE MENEZES - RJ - Deputado Estadual;

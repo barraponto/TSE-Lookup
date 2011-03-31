@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-SERGIO CABRAL;12.181.923/0001-76;30/09/2010;17000066604;R$ 150,00;Estimado;MARCIA TAVARES DE SOUZA SALLES;17521;Deputado Estadual;PSL;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+SERGIO CABRAL;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;15 -  - PMDB -  - Governador / 17521 - MARCIA TAVARES DE SOUZA SALLES - RJ - Deputado Estadual;

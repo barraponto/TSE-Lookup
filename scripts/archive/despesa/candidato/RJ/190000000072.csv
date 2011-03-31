@@ -1,9 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS ALBERTO LOPES;12.169.533/0001-80;30/09/2010;11000005747;R$ 300,00;Estimado;GEOVANI DE OLIVEIRA FERNANDES;11103;Deputado Estadual;PP;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;29/09/2010;11000005742;R$ 150,00;Estimado;GEOVANI DE OLIVEIRA FERNANDES;11103;Deputado Estadual;PP;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;11000005743;R$ 300,00;Estimado;GEOVANI DE OLIVEIRA FERNANDES;11103;Deputado Estadual;PP;RJ;
-Comitê Financeiro Único;12.200.097/0001-65;02/10/2010;11000005748;R$ 3.592,00;Estimado;GEOVANI DE OLIVEIRA FERNANDES;11103;Deputado Estadual;PP;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;12/08/2010;11000005741;R$ 150,00;Estimado;GEOVANI DE OLIVEIRA FERNANDES;11103;Deputado Estadual;PP;RJ;
-JORGE PICCIANE;12.176.626/0001-32;01/10/2010;11000005745;R$ 17,00;Estimado;GEOVANI DE OLIVEIRA FERNANDES;11103;Deputado Estadual;PP;RJ;
-JORGE PICCIANE;12.176.626/0001-32;01/10/2010;11000005744;R$ 13,86;Estimado;GEOVANI DE OLIVEIRA FERNANDES;11103;Deputado Estadual;PP;RJ;
-JORGE PICCIANI;12.176.626/0001-32;01/10/2010;11000005746;R$ 17,75;Estimado;GEOVANI DE OLIVEIRA FERNANDES;11103;Deputado Estadual;PP;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS ALBERTO LOPES;12.169.533/0001-80;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;3333 -  - PMN -  - Deputado Federal / 11103 - GEOVANI DE OLIVEIRA FERNANDES - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;12/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 11103 - GEOVANI DE OLIVEIRA FERNANDES - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 11103 - GEOVANI DE OLIVEIRA FERNANDES - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.200.097/0001-65;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.592,00;Estimado;Comitê Financeiro Único - PP -  / 11103 - GEOVANI DE OLIVEIRA FERNANDES - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 11103 - GEOVANI DE OLIVEIRA FERNANDES - RJ - Deputado Estadual;
+JORGE PICCIANE;12.176.626/0001-32;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 11103 - GEOVANI DE OLIVEIRA FERNANDES - RJ - Deputado Estadual;
+JORGE PICCIANE;12.176.626/0001-32;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 13,86;Estimado;155 -  - PMDB -  - Senador / 11103 - GEOVANI DE OLIVEIRA FERNANDES - RJ - Deputado Estadual;
+JORGE PICCIANI;12.176.626/0001-32;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,75;Estimado;155 -  - PMDB -  - Senador / 11103 - GEOVANI DE OLIVEIRA FERNANDES - RJ - Deputado Estadual;

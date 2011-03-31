@@ -1,9 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALOYSIO NOGUEIRA DE MELO;001.648.952-72;02/09/2010;50000045134;R$ 200,00;Depósito em espécie;LUIZ CARLOS CARVALHO SENA;50;Governador;PSOL;AM;
-JEVALDO DA SILVA;748.028.602-34;13/08/2010;50000045137;R$ 200,00;Depósito em espécie;LUIZ CARLOS CARVALHO SENA;50;Governador;PSOL;AM;
-LUCIO MOURA VIANA;405.563.957-00;13/08/2010;50000045131;R$ 50,00;Depósito em espécie;LUIZ CARLOS CARVALHO SENA;50;Governador;PSOL;AM;
-LUIZ CARLOS CARVALHO SENA;201.958.932-04;03/09/2010;50000045136;R$ 230,00;Depósito em espécie;LUIZ CARLOS CARVALHO SENA;50;Governador;PSOL;AM;
-NELSON GOMES DE MELO JR;077.866.622-00;02/09/2010;50000045135;R$ 300,00;Depósito em espécie;LUIZ CARLOS CARVALHO SENA;50;Governador;PSOL;AM;
-ORION TEIXEIRA CAROLINO;073.799.782-68;13/08/2010;50000045132;R$ 50,00;Depósito em espécie;LUIZ CARLOS CARVALHO SENA;50;Governador;PSOL;AM;
-RODRIGO OLIVEIRA JUNQUEIRA;417.185.182-34;17/08/2010;50000045138;R$ 5.000,00;Estimado;LUIZ CARLOS CARVALHO SENA;50;Governador;PSOL;AM;
-RYMO DA AMAZONIA LTDA;14.220.230/0001-70;10/08/2010;50000045133;R$ 800,00;Estimado;LUIZ CARLOS CARVALHO SENA;50;Governador;PSOL;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+PAPELARIA APARECIDA;07.083.187/0001-83;02/09/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 50 - LUIZ CARLOS CARVALHO SENA - AM - Governador;
+RODRIGO OLIVEIRA JUNQUEIRA;417.185.182-34;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 5.000,00;Estimado; -  -  / 50 - LUIZ CARLOS CARVALHO SENA - AM - Governador;
+RYMO DA AMAZONIA LTDA;14.220.230/0001-70;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 800,00;Estimado; -  -  / 50 - LUIZ CARLOS CARVALHO SENA - AM - Governador;
+50 - LUIZ CARLOS CARVALHO SENA - GOVERNADOR;12.173.169/0001-22;21/10/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 16,50;Transferência eletrônica;Direção Estadual/Distrital - PSOL - AM / 50 - LUIZ CARLOS CARVALHO SENA - AM - Governador;
+;;21/10/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Débito em conta; -  -  / 50 - LUIZ CARLOS CARVALHO SENA - AM - Governador;

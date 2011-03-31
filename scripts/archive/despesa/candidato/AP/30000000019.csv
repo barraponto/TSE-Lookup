@@ -1,4 +1,14 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-A. C DISTRIBUIDORA DE BEBIDAS;07.837.439/0001-12;23/08/2010;40000960802;R$ 12.000,00;Depósito em espécie;ANTONIO CARLOS DINIZ;4030;Deputado Federal;PSB;AP;
-A. C DISTRIBUIDORA DE BEBIDAS;07.837.439/0001-12;30/08/2010;40000960803;R$ 13.800,00;Depósito em espécie;ANTONIO CARLOS DINIZ;4030;Deputado Federal;PSB;AP;
-A. C DISTRIBUIDORA DE BEBIDAS;07.837.439/0001-12;16/08/2010;40000960801;R$ 2.500,00;Depósito em espécie;ANTONIO CARLOS DINIZ;4030;Deputado Federal;PSB;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+A.M. GUERRA - ME;84.426.071/0001-40;31/08/2010;       Alimentação;R$ 250,00;Cheque; -  -  / 4030 - ANTONIO CARLOS DINIZ - AP - Deputado Federal;
+AUTO POSTO NOVO MUNDO LTDA;04.690.278/0001-99;24/08/2010;       Combustíveis e lubrificantes;R$ 500,00;Cheque; -  -  / 4030 - ANTONIO CARLOS DINIZ - AP - Deputado Federal;
+AUTO POSTO NOVO MUNDO LTDA;04.690.278/0001-99;28/10/2010;       Combustíveis e lubrificantes;R$ 50,00;Cheque; -  -  / 4030 - ANTONIO CARLOS DINIZ - AP - Deputado Federal;
+AUTO POSTO NOVO MUNDO LTDA;04.690.278/0001-99;18/08/2010;       Combustíveis e lubrificantes;R$ 1.000,00;Cheque; -  -  / 4030 - ANTONIO CARLOS DINIZ - AP - Deputado Federal;
+AUTO POSTO NOVO MUNDO LTDA;04.690.278/0001-99;18/08/2010;       Combustíveis e lubrificantes;R$ 1.200,00;Cheque; -  -  / 4030 - ANTONIO CARLOS DINIZ - AP - Deputado Federal;
+GHAMMACHI & GHAMMACHI LTDA - EPP;01.147.901/0001-73;01/09/2010;       Publicidade por materiais impressos;R$ 7.000,00;Cheque; -  -  / 4030 - ANTONIO CARLOS DINIZ - AP - Deputado Federal;
+J. C.S. FARIAS - ME;03.281.737/0002-07;24/08/2010;       Combustíveis e lubrificantes;R$ 20,00;Cheque; -  -  / 4030 - ANTONIO CARLOS DINIZ - AP - Deputado Federal;
+M. P. DE CARVALHO - ME;10.383.451/0001-09;28/08/2010;       Publicidade por materiais impressos;R$ 4.280,00;Cheque; -  -  / 4030 - ANTONIO CARLOS DINIZ - AP - Deputado Federal;
+M. R. COM. SERVIÇOS LTDA - ME;09.175.231/0001-00;01/09/2010;       Publicidade por materiais impressos;R$ 5.300,00;Cheque; -  -  / 4030 - ANTONIO CARLOS DINIZ - AP - Deputado Federal;
+MARIA DE FATIMA DOMINGUEZ MENDES;281.774.102-10;01/09/2010;       Alimentação;R$ 1.500,00;Cheque; -  -  / 4030 - ANTONIO CARLOS DINIZ - AP - Deputado Federal;
+MARIA SUZANA CORREIA DA SILVA - ME;09.031.700/0001-18;24/08/2010;       Serviços prestados por terceiros;R$ 7.000,00;Cheque; -  -  / 4030 - ANTONIO CARLOS DINIZ - AP - Deputado Federal;
+POSTO AÇAI LTDA;03.004.654/0001-81;24/08/2010;       Combustíveis e lubrificantes;R$ 100,00;Cheque; -  -  / 4030 - ANTONIO CARLOS DINIZ - AP - Deputado Federal;
+SEPE TIARAJÚ EMPREENDIMENTOS LTDA;05.297.501/0004-48;24/08/2010;       Combustíveis e lubrificantes;R$ 100,00;Cheque; -  -  / 4030 - ANTONIO CARLOS DINIZ - AP - Deputado Federal;

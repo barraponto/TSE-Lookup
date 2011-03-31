@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO DIAS DE MIRANDA;000.132.422-53;19/08/2010;45000338891;R$ 700,00;Depósito em espécie;ANTONIO DIAS DE MIRANDA;45147;Deputado Estadual;PSDB;AP;
-ANTONIO DIAS DE MIRANDA;000.132.422-53;08/09/2010;45000338894;R$ 220,00;Transferência eletrônica;ANTONIO DIAS DE MIRANDA;45147;Deputado Estadual;PSDB;AP;
-Comitê Financeiro Único;12.205.285/0001-86;03/08/2010;45000338892;R$ 378,00;Estimado;ANTONIO DIAS DE MIRANDA;45147;Deputado Estadual;PSDB;AP;
-Comitê Financeiro Único;12.205.285/0001-86;21/09/2010;45000338893;R$ 140,00;Estimado;ANTONIO DIAS DE MIRANDA;45147;Deputado Estadual;PSDB;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.285/0001-86;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 140,00;Estimado;Comitê Financeiro Único - PMDB -  / 45147 - ANTONIO DIAS DE MIRANDA - AP - Deputado Estadual;
+Comitê Financeiro Único;12.205.285/0001-86;03/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 378,00;Estimado;Comitê Financeiro Único - PMDB -  / 45147 - ANTONIO DIAS DE MIRANDA - AP - Deputado Estadual;
+MARCO ZERO GRAFICA E EDITORA LTDA;11.592.965/0001-37;26/08/2010;       Publicidade por materiais impressos;R$ 552,00;Cheque; -  -  / 45147 - ANTONIO DIAS DE MIRANDA - AP - Deputado Estadual;
+STILO COMUNICAÇÃO VISUAL LTDA EPP;04.945.638/0001-56;20/08/2010;       Publicidade por materiais impressos;R$ 353,40;Cheque; -  -  / 45147 - ANTONIO DIAS DE MIRANDA - AP - Deputado Estadual;

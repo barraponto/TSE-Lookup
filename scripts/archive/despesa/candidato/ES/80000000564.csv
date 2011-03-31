@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.206.653/0001-00;01/10/2010;27000028655;R$ 92,20;Estimado;MAXWEL GOMES DA SILVA;27181;Deputado Estadual;PSDC;ES;
-ELEIÇÃO 2010 JOSE RENATO CASAGRANDE;12.179.825/0001-02;01/10/2010;27000028560;R$ 330,03;Estimado;MAXWEL GOMES DA SILVA;27181;Deputado Estadual;PSDC;ES;
-ELEIÇÃO 2010 SUELI VIDIGAL;12.177.157/0001-76;01/10/2010;27000028566;R$ 623,29;Estimado;MAXWEL GOMES DA SILVA;27181;Deputado Estadual;PSDC;ES;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.206.653/0001-00;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 92,20;Estimado;Comitê Financeiro Único - PDT -  / 27181 - MAXWEL GOMES DA SILVA - ES - Deputado Estadual;
+ELEIÇÃO 2010 JOSE RENATO CASAGRANDE;12.179.825/0001-02;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 330,03;Estimado;40 -  - PSB -  - Governador / 27181 - MAXWEL GOMES DA SILVA - ES - Deputado Estadual;
+ELEIÇÃO 2010 SUELI VIDIGAL;12.177.157/0001-76;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 623,29;Estimado;1212 -  - PDT -  - Deputado Federal / 27181 - MAXWEL GOMES DA SILVA - ES - Deputado Estadual;

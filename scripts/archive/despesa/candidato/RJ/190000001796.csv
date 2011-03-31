@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JORGE SAYED PICCIANI;12.176.626/0001-32;20/09/2010;28000183127;R$ 17,00;Estimado;JOSE TADEU MONTEIRO DE BARROS;2813;Deputado Federal;PRTB;RJ;
-JOSÉ TADEU MONTEIRO DE BARROS;338.052.887-00;20/07/2010;28000183126;R$ 500,00;Depósito em espécie;JOSE TADEU MONTEIRO DE BARROS;2813;Deputado Federal;PRTB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JORGE SAYED PICCIANI;12.176.626/0001-32;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 2813 - JOSE TADEU MONTEIRO DE BARROS - RJ - Deputado Federal;
+POSTO DE SERVIÇOS GRANDE ALIANÇA LTDA;05.405.414/0001-14;01/10/2010;       Combustíveis e lubrificantes;R$ 68,00;Cheque; -  -  / 2813 - JOSE TADEU MONTEIRO DE BARROS - RJ - Deputado Federal;
+RITA DE CASSIA DA SILVA PACHECO 03379279790;11.683.012/0001-84;28/07/2010;       Publicidade por materiais impressos;R$ 430,00;Cheque; -  -  / 2813 - JOSE TADEU MONTEIRO DE BARROS - RJ - Deputado Federal;

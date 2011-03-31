@@ -1,4 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CLINICA DE OTORRINOLARINGOLOGIA DR. CLAUDIO MAXIMO LTDA;37.166.451/0001-03;10/08/2010;15000257601;R$ 5.000,00;Cheque;CLÁUDIO ANTÔNIO MÁXIMO REGO;15333;Deputado Distrital;PMDB;DF;
-Comitê Financeiro Único;12.205.228/0001-05;30/08/2010;15000257604;R$ 1.389,32;Estimado;CLÁUDIO ANTÔNIO MÁXIMO REGO;15333;Deputado Distrital;PMDB;DF;
-Comitê Financeiro Único;12.205.228/0001-05;24/09/2010;15000257603;R$ 3.400,00;Cheque;CLÁUDIO ANTÔNIO MÁXIMO REGO;15333;Deputado Distrital;PMDB;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.228/0001-05;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.389,32;Estimado;Comitê Financeiro Único - PMDB -  / 15333 - CLÁUDIO ANTÔNIO MÁXIMO REGO - DF - Deputado Distrital;
+GRÁFICA E EDITORA LTDA EPP;33.481.276/0001-98;25/08/2010;       Publicidade por materiais impressos;R$ 4.500,00;Cheque; -  -  / 15333 - CLÁUDIO ANTÔNIO MÁXIMO REGO - DF - Deputado Distrital;
+PETRY GRÁFICA E EDITORA LTDA EPP;33.481.276/0001-98;29/09/2010;       Publicidade por materiais impressos;R$ 3.800,00;Cheque; -  -  / 15333 - CLÁUDIO ANTÔNIO MÁXIMO REGO - DF - Deputado Distrital;
+VELHA GUARDA;07.268.122/0001-02;30/09/2010;       Alimentação;R$ 100,00;Cheque; -  -  / 15333 - CLÁUDIO ANTÔNIO MÁXIMO REGO - DF - Deputado Distrital;

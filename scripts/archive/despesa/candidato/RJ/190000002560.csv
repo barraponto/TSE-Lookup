@@ -1,2 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-SILVIO NUNES DE MEDEIROS;879.520.767-87;23/09/2010;22000168901;R$ 647,50;Depósito em espécie;SILVIO NUNES DE MEDEIROS;2266;Deputado Federal;PR;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+VICTORIGOR IMPRESSÃO DIGITAL LTDA;10.539.751/0001-34;07/09/2010;       Publicidade por materiais impressos;R$ 634,00;Transferência eletrônica; -  -  / 2266 - SILVIO NUNES DE MEDEIROS - RJ - Deputado Federal;
+;;23/09/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Transferência eletrônica; -  -  / 2266 - SILVIO NUNES DE MEDEIROS - RJ - Deputado Federal;

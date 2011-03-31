@@ -1,3 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-PAULO CESAR RIBEIRO SIMÃO;382.667.410-34;02/08/2010;22000059582;R$ 4.400,00;Estimado;PAULO CESAR RIBEIRO SIMÃO;22100;Deputado Estadual;PR;RO;
-PAULO CESAR RIBEIRO SIMÃO;382.667.410-34;02/08/2010;22000059581;R$ 3.000,00;Depósito em espécie;PAULO CESAR RIBEIRO SIMÃO;22100;Deputado Estadual;PR;RO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO CARIRI;84.556.885/0001-08;06/09/2010;       Combustíveis e lubrificantes;R$ 142,00;Cheque; -  -  / 22100 - PAULO CESAR RIBEIRO SIMÃO - RO - Deputado Estadual;
+AUTO POSTO CARIRI;84.556.885/0001-08;06/09/2010;       Combustíveis e lubrificantes;R$ 212,00;Cheque; -  -  / 22100 - PAULO CESAR RIBEIRO SIMÃO - RO - Deputado Estadual;
+GRÁFICA E EDITORA IMPACTO LTDA - ME;07.216.722/0001-27;06/08/2010;       Publicidade por materiais impressos;R$ 680,00;Cheque; -  -  / 22100 - PAULO CESAR RIBEIRO SIMÃO - RO - Deputado Estadual;
+GRÁFICA E EDITORA IMPACTO LTDA - ME;07.216.722/0001-27;24/08/2010;       Combustíveis e lubrificantes;R$ 529,00;Cheque; -  -  / 22100 - PAULO CESAR RIBEIRO SIMÃO - RO - Deputado Estadual;
+GRÁFICA E EDITORA IMPACTO LTDA - ME;07.216.722/0001-27;05/08/2010;       Publicidade por materiais impressos;R$ 1.235,00;Cheque; -  -  / 22100 - PAULO CESAR RIBEIRO SIMÃO - RO - Deputado Estadual;
+PAULO CESAR RIBEIRO SIMÃO;382.667.410-34;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.400,00;Estimado; -  -  / 22100 - PAULO CESAR RIBEIRO SIMÃO - RO - Deputado Estadual;
+POSTO CASTELINHO;07.322.489/0001-67;09/09/2010;       Combustíveis e lubrificantes;R$ 202,00;Cheque; -  -  / 22100 - PAULO CESAR RIBEIRO SIMÃO - RO - Deputado Estadual;

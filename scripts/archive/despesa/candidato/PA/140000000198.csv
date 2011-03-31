@@ -1,3 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-EDICILENE FERREIRA DA COSTA;396.705.202-82;13/08/2010;15000050612;R$ 4.000,00;Estimado;VICENTE DE PAULA MACIEL LOBATO;1530;Deputado Federal;PMDB;PA;
-VICENTE DE PAULA MACIEL LOBATO;246.993.652-72;13/08/2010;15000050611;R$ 4.750,00;Depósito em espécie;VICENTE DE PAULA MACIEL LOBATO;1530;Deputado Federal;PMDB;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+D D CARDOSO ¨& CIA LTDA;05.985.743/0001-81;23/08/2010;       Diversas a especificar;R$ 311,00;Cheque; -  -  / 1530 - VICENTE DE PAULA MACIEL LOBATO - PA - Deputado Federal;
+E CARVALHO COMERCIO E NAVEGACAO LTDA;04.780.565/0001-90;30/09/2010;       Combustíveis e lubrificantes;R$ 2.275,12;Cheque; -  -  / 1530 - VICENTE DE PAULA MACIEL LOBATO - PA - Deputado Federal;
+E CARVALHO COMERCIO E NAVEGAÇAO LTDA;04.780.565/0001-90;18/08/2010;       Combustíveis e lubrificantes;R$ 1.949,00;Cheque; -  -  / 1530 - VICENTE DE PAULA MACIEL LOBATO - PA - Deputado Federal;
+EDICILENE FERREIRA DA COSTA;396.705.202-82;13/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.000,00;Estimado; -  -  / 1530 - VICENTE DE PAULA MACIEL LOBATO - PA - Deputado Federal;
+J AZEVEDO FONSECA;02.511.416/0001-08;21/08/2010;       Diversas a especificar;R$ 214,88;Cheque; -  -  / 1530 - VICENTE DE PAULA MACIEL LOBATO - PA - Deputado Federal;

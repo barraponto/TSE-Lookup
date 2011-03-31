@@ -1,3 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO FARIA DE ALCANTÂRA;076.515.621-00;30/09/2010;20000321913;R$ 1.020,00;Estimado;ANTONIO FARIA DE ALCANTARA;2064;Deputado Federal;PSC;MG;
-Comitê Financeiro Único;12.191.503/0001-70;29/09/2010;20000321911;R$ 10.000,00;Cheque;ANTONIO FARIA DE ALCANTARA;2064;Deputado Federal;PSC;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AMÉRICO MARCELLO DO CARMO;076.363.346-15;30/09/2010;       Despesas com pessoal;R$ 37,10;Cheque; -  -  / 2064 - ANTONIO FARIA DE ALCANTARA - MG - Deputado Federal;
+ANTONIO FARIA DE ALCANTÂRA;076.515.621-00;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.020,00;Estimado; -  -  / 2064 - ANTONIO FARIA DE ALCANTARA - MG - Deputado Federal;
+EDITORA E PAPELARIA TRINDADE LTDA;07.780.689/0001-63;01/09/2010;       Publicidade por materiais impressos;R$ 590,00;Cheque; -  -  / 2064 - ANTONIO FARIA DE ALCANTARA - MG - Deputado Federal;
+MARCOS MARTINS PINHEIRO;503.373.436-91;30/09/2010;       Despesas com pessoal;R$ 40,00;Cheque; -  -  / 2064 - ANTONIO FARIA DE ALCANTARA - MG - Deputado Federal;
+VIGRAFF IMPRESSOS EM GERAL;10.823.566/0001-77;24/09/2010;       Publicidade por materiais impressos;R$ 1.450,00;Cheque; -  -  / 2064 - ANTONIO FARIA DE ALCANTARA - MG - Deputado Federal;
+VIGRAFF IMPRESSOS EM GERAL;10.823.566/0001-77;27/09/2010;       Publicidade por materiais impressos;R$ 4.060,00;Cheque; -  -  / 2064 - ANTONIO FARIA DE ALCANTARA - MG - Deputado Federal;
+VIGRAFF IMPRESSOS EM GERAL;10.823.566/0001-77;30/09/2010;       Publicidade por materiais impressos;R$ 3.820,00;Cheque; -  -  / 2064 - ANTONIO FARIA DE ALCANTARA - MG - Deputado Federal;
+;;04/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 2064 - ANTONIO FARIA DE ALCANTARA - MG - Deputado Federal;

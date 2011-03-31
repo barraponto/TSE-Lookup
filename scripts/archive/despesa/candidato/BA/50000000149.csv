@@ -1,4 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DERILTON SOUSA PORTO;640.809.005-20;30/08/2010;43001854401;R$ 4.650,00;Depósito em espécie;DERILTON SOUSA PORTO;43222;Deputado Estadual;PV;BA;
-DERILTON SOUSA PORTO;640.809.005-20;30/09/2010;43001854403;R$ 8.603,00;Depósito em espécie;DERILTON SOUSA PORTO;43222;Deputado Estadual;PV;BA;
-DERILTON SOUSA PORTO;640.809.005-20;30/08/2010;43001854402;R$ 310,00;Depósito em espécie;DERILTON SOUSA PORTO;43222;Deputado Estadual;PV;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+A BAHIA COMUNICAÇÃO E PROPAGANDA LTDA;06.052.624/0001-39;30/09/2010;       Produção de jingles, vinhetas e slogans;R$ 150,00;Cheque; -  -  / 43222 - DERILTON SOUSA PORTO - BA - Deputado Estadual;
+ACHILES SANTOS DE SOUSA E CIA LTDA;09.224.082/0001-22;30/08/2010;       Combustíveis e lubrificantes;R$ 310,00;Cheque; -  -  / 43222 - DERILTON SOUSA PORTO - BA - Deputado Estadual;
+CAIRES & GOMES LTDA;13.785.399/0001-05;30/09/2010;       Combustíveis e lubrificantes;R$ 400,00;Cheque; -  -  / 43222 - DERILTON SOUSA PORTO - BA - Deputado Estadual;
+GILBERTO MARTINS MOREIRA;171.963.455-68;30/09/2010;       Locação/cessão de bens imóveis;R$ 1.200,00;Cheque; -  -  / 43222 - DERILTON SOUSA PORTO - BA - Deputado Estadual;
+NEUZA E FILHOS LTDA-ME;07.375.097/0001-66;20/08/2010;       Publicidade por materiais impressos;R$ 4.650,00;Cheque; -  -  / 43222 - DERILTON SOUSA PORTO - BA - Deputado Estadual;
+RAMAGRAFI GRÁFICA E EDITORA LTDA;04.610.587/0001-01;30/09/2010;       Publicidade por materiais impressos;R$ 3.253,00;Cheque; -  -  / 43222 - DERILTON SOUSA PORTO - BA - Deputado Estadual;
+STEFANO SOUSA SILVA;017.329.135-01;30/09/2010;       Publicidade por carros de som;R$ 3.600,00;Cheque; -  -  / 43222 - DERILTON SOUSA PORTO - BA - Deputado Estadual;

@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANA JULIA DE VASCONCELOS CAREPA;12.171.430/0001-55;05/09/2010;43001885326;R$ 1.395,35;Estimado;JOSE RONI VON GAIA CASEMIRO;43343;Deputado Estadual;PV;PA;
-ANA JULIA DE VASCONCELOS CAREPA;12.171.430/0001-55;05/09/2010;43001885328;R$ 2.325,58;Estimado;JOSE RONI VON GAIA CASEMIRO;43343;Deputado Estadual;PV;PA;
-ANA JULIA DE VASCONCELOS CAREPA;12.171.430/0001-55;05/09/2010;43001885327;R$ 1.920,93;Estimado;JOSE RONI VON GAIA CASEMIRO;43343;Deputado Estadual;PV;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANA JULIA DE VASCONCELOS CAREPA;12.171.430/0001-55;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.395,35;Estimado;13 -  - PT -  - Governador / 43343 - JOSE RONI VON GAIA CASEMIRO - PA - Deputado Estadual;
+ANA JULIA DE VASCONCELOS CAREPA;12.171.430/0001-55;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.325,58;Estimado;13 -  - PT -  - Governador / 43343 - JOSE RONI VON GAIA CASEMIRO - PA - Deputado Estadual;
+ANA JULIA DE VASCONCELOS CAREPA;12.171.430/0001-55;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.920,93;Estimado;13 -  - PT -  - Governador / 43343 - JOSE RONI VON GAIA CASEMIRO - PA - Deputado Estadual;

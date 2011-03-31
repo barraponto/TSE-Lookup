@@ -1,3 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 JOAQUIM ILIS PIMENTA DA SILVA DEPUTADO ESTADUAL;093.995.501-68;15/10/2010;17000037002;R$ 1.000,00;Depósito em espécie;JOAQUIM ILIS PIMENTA DA SILVA;17400;Deputado Estadual;PSL;GO;
-LABORATORIO MEDICO PAPA NICOLAU;16.004.657/0001-67;18/08/2010;17000037001;R$ 2.000,00;Depósito em espécie;JOAQUIM ILIS PIMENTA DA SILVA;17400;Deputado Estadual;PSL;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GAM - GRAFICA E EDITORA LTDA;07.452.026/0001-10;01/10/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 17400 - JOAQUIM ILIS PIMENTA DA SILVA - GO - Deputado Estadual;
+GAM - GRAFICA E EDITORA LTDA;07.452.026/0001-10;01/10/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 17400 - JOAQUIM ILIS PIMENTA DA SILVA - GO - Deputado Estadual;
+GAM - GRAFICA E EDITORA LTDA;07.452.026/0001-10;01/10/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 17400 - JOAQUIM ILIS PIMENTA DA SILVA - GO - Deputado Estadual;
+GAM - GRAFICA E EDITORA LTDA;07.452.026/0001-10;27/08/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 17400 - JOAQUIM ILIS PIMENTA DA SILVA - GO - Deputado Estadual;
+GAM - GRAFICA E EDITORA LTDA;07.452.026/0001-10;01/10/2010;       Publicidade por materiais impressos;R$ 100,00;Cheque; -  -  / 17400 - JOAQUIM ILIS PIMENTA DA SILVA - GO - Deputado Estadual;
+GOYAPACK INDUSTRIA E COMERCIO DE EMBALAGENS LTDA - ME;00.241.695/0001-01;02/09/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 17400 - JOAQUIM ILIS PIMENTA DA SILVA - GO - Deputado Estadual;

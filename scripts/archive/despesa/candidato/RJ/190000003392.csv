@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;28/09/2010;65000136251;R$ 150,00;Estimado;CLAUDIO ROCHA DE SOUZA;6566;Deputado Federal;PC do B;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;28/09/2010;65000136252;R$ 150,00;Estimado;CLAUDIO ROCHA DE SOUZA;6566;Deputado Federal;PC do B;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;28/09/2010;65000136253;R$ 450,00;Estimado;CLAUDIO ROCHA DE SOUZA;6566;Deputado Federal;PC do B;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;28/09/2010;65000136254;R$ 150,00;Estimado;CLAUDIO ROCHA DE SOUZA;6566;Deputado Federal;PC do B;RJ;
-FERNANDO PAULO FIGUEIREDO GUSMÃO;12.199.655/0001-10;30/09/2010;65000136255;R$ 500,00;Cheque;CLAUDIO ROCHA DE SOUZA;6566;Deputado Federal;PC do B;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 6566 - CLAUDIO ROCHA DE SOUZA - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 450,00;Estimado;Comitê Financeiro Único - PMDB -  / 6566 - CLAUDIO ROCHA DE SOUZA - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 6566 - CLAUDIO ROCHA DE SOUZA - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 6566 - CLAUDIO ROCHA DE SOUZA - RJ - Deputado Federal;
+EDILIO MACHADO;100.689.357-14;30/09/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / 6566 - CLAUDIO ROCHA DE SOUZA - RJ - Deputado Federal;

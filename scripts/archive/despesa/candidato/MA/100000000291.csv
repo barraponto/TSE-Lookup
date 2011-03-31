@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-BERCKSON SANTOS RAMOS;783.111.363-00;03/08/2010;22000046851;R$ 300,00;Depósito em espécie;BERCKSON SANTOS RAMOS;2225;Deputado Federal;PR;MA;
-Comitê Financeiro Único;08.739.524/0001-00;01/08/2010;22000046852;R$ 641,00;Estimado;BERCKSON SANTOS RAMOS;2225;Deputado Federal;PR;MA;
-Comitê Financeiro Único;08.739.524/0001-00;01/08/2010;;R$ 641,00;Estimado;BERCKSON SANTOS RAMOS;2225;Deputado Federal;PR;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;08.739.524/0001-00;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 641,00;Estimado;Comitê Financeiro Único - PR -  / 2225 - BERCKSON SANTOS RAMOS - MA - Deputado Federal;
+Comitê Financeiro Único;08.739.524/0001-00;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 641,00;Estimado;Comitê Financeiro Único - PR -  / 2225 - BERCKSON SANTOS RAMOS - MA - Deputado Federal;
+TIAGO HAICKEL DE SOUSA;817.436.373-49;16/09/2010;       Serviços prestados por terceiros;R$ 300,00;Transferência eletrônica; -  -  / 2225 - BERCKSON SANTOS RAMOS - MA - Deputado Federal;

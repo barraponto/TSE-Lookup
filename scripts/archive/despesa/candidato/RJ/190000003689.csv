@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.154.856/0001-09;22/07/2010;50000391452;R$ 250,85;Estimado;THIAGO CÓCARO VIGNOLI;5010;Deputado Federal;PSOL;RJ;
-Comitê Financeiro Único;12.154.856/0001-09;22/07/2010;50000391451;R$ 180,00;Estimado;THIAGO CÓCARO VIGNOLI;5010;Deputado Federal;PSOL;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.154.856/0001-09;22/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 180,00;Estimado;Comitê Financeiro Único - PSOL -  / 5010 - THIAGO CÓCARO VIGNOLI - RJ - Deputado Federal;
+Comitê Financeiro Único;12.154.856/0001-09;22/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,85;Estimado;Comitê Financeiro Único - PSOL -  / 5010 - THIAGO CÓCARO VIGNOLI - RJ - Deputado Federal;

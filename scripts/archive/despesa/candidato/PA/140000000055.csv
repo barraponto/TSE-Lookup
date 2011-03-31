@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JORGE PANZERA;12.204.180/0001-02;05/08/2010;65000223701;R$ 240,00;Estimado;ARMENIO FREITAS DE SOUSA;65656;Deputado Estadual;PC do B;PA;
-JORGE PANZERA;12.204.180/0001-02;29/09/2010;65000223704;R$ 100,00;Estimado;ARMENIO FREITAS DE SOUSA;65656;Deputado Estadual;PC do B;PA;
-JORGE PANZERA;12.204.180/0001-02;14/09/2010;65000223703;R$ 161,00;Estimado;ARMENIO FREITAS DE SOUSA;65656;Deputado Estadual;PC do B;PA;
-JORGE PANZERA;12.204.180/0001-02;14/09/2010;65000223702;R$ 30,00;Estimado;ARMENIO FREITAS DE SOUSA;65656;Deputado Estadual;PC do B;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JORGE PANZERA;12.204.180/0001-02;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 30,00;Estimado;6565 -  - PC do B -  - Deputado Federal / 65656 - ARMENIO FREITAS DE SOUSA - PA - Deputado Estadual;
+JORGE PANZERA;12.204.180/0001-02;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 240,00;Estimado;6565 -  - PC do B -  - Deputado Federal / 65656 - ARMENIO FREITAS DE SOUSA - PA - Deputado Estadual;
+JORGE PANZERA;12.204.180/0001-02;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado;6565 -  - PC do B -  - Deputado Federal / 65656 - ARMENIO FREITAS DE SOUSA - PA - Deputado Estadual;
+JORGE PANZERA;12.204.180/0001-02;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 161,00;Estimado;6565 -  - PC do B -  - Deputado Federal / 65656 - ARMENIO FREITAS DE SOUSA - PA - Deputado Estadual;

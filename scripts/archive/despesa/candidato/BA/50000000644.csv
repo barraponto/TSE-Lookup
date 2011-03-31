@@ -1,7 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-EDSON ESPIRITO SANTO ANDRADE;167.647.065-49;27/09/2010;50000085675;R$ 100,00;Depósito em espécie;RAIMUNDO NONATO DANTAS;5001;Deputado Federal;PSOL;BA;
-EDSON ESPIRITO SANTO ANDRADE;167.647.065-49;27/09/2010;50000085674;R$ 100,00;Depósito em espécie;RAIMUNDO NONATO DANTAS;5001;Deputado Federal;PSOL;BA;
-JORGE LUIZ SANTOS;192.344.905-25;27/09/2010;50000085672;R$ 100,00;Depósito em espécie;RAIMUNDO NONATO DANTAS;5001;Deputado Federal;PSOL;BA;
-RAIMUNDO NONATO DANTAS;058.447.115-72;28/09/2010;50000085676;R$ 393,20;Depósito em espécie;RAIMUNDO NONATO DANTAS;5001;Deputado Federal;PSOL;BA;
-RAIMUNDO NONATO DANTAS;058.447.115-72;10/08/2010;50000085671;R$ 700,00;Depósito em espécie;RAIMUNDO NONATO DANTAS;5001;Deputado Federal;PSOL;BA;
-RAIMUNDO NONATO DANTAS;058.447.115-72;27/09/2010;50000085673;R$ 700,00;Depósito em espécie;RAIMUNDO NONATO DANTAS;5001;Deputado Federal;PSOL;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CENTRO GRAFICA DE ITABUNA;07.645.675/0001-37;15/09/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 5001 - RAIMUNDO NONATO DANTAS - BA - Deputado Federal;
+CENTRO GRAFICA DE ITABUNA;07.645.675/0001-37;29/09/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 5001 - RAIMUNDO NONATO DANTAS - BA - Deputado Federal;
+CENTRO GRAFICA DE ITABUNA;07.645.675/0001-37;18/08/2010;       Publicidade por materiais impressos;R$ 450,00;Cheque; -  -  / 5001 - RAIMUNDO NONATO DANTAS - BA - Deputado Federal;
+CENTRO GRAFICA DE ITABUNA;07.645.675/0001-37;10/09/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 5001 - RAIMUNDO NONATO DANTAS - BA - Deputado Federal;
+C.P.OLIVEIRA - LUMIPLAC COMUNICAÇÃO VISUAL;03.527.021/0001-58;11/08/2010;       Publicidade por placas, estandartes e faixas;R$ 200,00;Cheque; -  -  / 5001 - RAIMUNDO NONATO DANTAS - BA - Deputado Federal;
+;;15/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 5001 - RAIMUNDO NONATO DANTAS - BA - Deputado Federal;
+;;08/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 5001 - RAIMUNDO NONATO DANTAS - BA - Deputado Federal;
+;;08/10/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 5001 - RAIMUNDO NONATO DANTAS - BA - Deputado Federal;
+;;15/10/2010;       Encargos financeiros e taxas bancárias;R$ 25,00;Débito em conta; -  -  / 5001 - RAIMUNDO NONATO DANTAS - BA - Deputado Federal;

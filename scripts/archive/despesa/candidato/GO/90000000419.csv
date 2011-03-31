@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-GABRIEL VIANA M PIRES;019.329.101-07;01/10/2010;16000038301;R$ 210,00;Depósito em espécie;WELINGTON CEZAR SILVA;1600;Deputado Federal;PSTU;GO;
-WASHINGTON FRAGA GUIMARAES;12.174.176/0001-49;23/08/2010;16000038302;R$ 240,00;Estimado;WELINGTON CEZAR SILVA;1600;Deputado Federal;PSTU;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+LIBERDADE GRAFICA E EDITORA LTDA;01.843.409/0001-32;29/09/2010;       Publicidade por materiais impressos;R$ 210,00;Cheque; -  -  / 1600 - WELINGTON CEZAR SILVA - GO - Deputado Federal;
+WASHINGTON FRAGA GUIMARAES;12.174.176/0001-49;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 240,00;Estimado;50 -  - PSOL -  - Governador / 1600 - WELINGTON CEZAR SILVA - GO - Deputado Federal;

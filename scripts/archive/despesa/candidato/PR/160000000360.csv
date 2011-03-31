@@ -1,5 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CONSTRUTORA PATAMAR LTDA;77.351.153/0001-08;04/08/2010;23000183101;R$ 2.500,00;Depósito em espécie;MARCELI MARIA DOS SANTOS;23523;Deputado Estadual;PPS;PR;
-CONSTRUTORA PATAMAR LTDA;77.351.153/0001-08;03/09/2010;23000183103;R$ 1.500,00;Depósito em espécie;MARCELI MARIA DOS SANTOS;23523;Deputado Estadual;PPS;PR;
-ELEIÇÕES 2010 RUBENS BUENO;12.172.903/0001-39;03/09/2010;23000183102;R$ 120,00;Estimado;MARCELI MARIA DOS SANTOS;23523;Deputado Estadual;PPS;PR;
-ELEIÇÕES 2010 RUBENS BUENO;12.172.903/0001-39;21/09/2010;23000183104;R$ 86,95;Estimado;MARCELI MARIA DOS SANTOS;23523;Deputado Estadual;PPS;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CLAUDIO GOMES GORDO;899.021.819-53;01/10/2010;       Publicidade por carros de som;R$ 570,00;Cheque; -  -  / 23523 - MARCELI MARIA DOS SANTOS - PR - Deputado Estadual;
+COMUNICAÇÃO VISUAL LTDA ME;07.003.203/0001-80;06/08/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 23523 - MARCELI MARIA DOS SANTOS - PR - Deputado Estadual;
+E M ANANIAS - PUBLICIDADES;12.097.144/0001-97;03/09/2010;       Publicidade por carros de som;R$ 1.100,00;Cheque; -  -  / 23523 - MARCELI MARIA DOS SANTOS - PR - Deputado Estadual;
+ELEIÇÕES 2010 RUBENS BUENO;12.172.903/0001-39;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 120,00;Estimado;2300 -  - PPS -  - Deputado Federal / 23523 - MARCELI MARIA DOS SANTOS - PR - Deputado Estadual;
+ELEIÇÕES 2010 RUBENS BUENO;12.172.903/0001-39;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 86,95;Estimado;2300 -  - PPS -  - Deputado Federal / 23523 - MARCELI MARIA DOS SANTOS - PR - Deputado Estadual;
+GRÁFICA CAIUÁ LTDA;03.470.786/0001-07;07/08/2010;       Publicidade por materiais impressos;R$ 1.330,00;Cheque; -  -  / 23523 - MARCELI MARIA DOS SANTOS - PR - Deputado Estadual;
+INGADOOR DIGITAL LTDA - ME;11.031.130/0001-08;04/08/2010;       Publicidade por materiais impressos;R$ 700,00;Cheque; -  -  / 23523 - MARCELI MARIA DOS SANTOS - PR - Deputado Estadual;

@@ -1,5 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.213/0001-39;13/09/2010;40002205879;R$ 3.800,00;Cheque;MARCO RODRIGO RIOS BERTOLACINI;4088;Deputado Federal;PSB;MG;
-GILDROGAS LTDA.;03.157.175/0001-03;28/07/2010;40002205878;R$ 1.200,00;Depósito em espécie;MARCO RODRIGO RIOS BERTOLACINI;4088;Deputado Federal;PSB;MG;
-MARCO RODRIGO RIOS BERTOLACINI;745.179.616-72;23/07/2010;40002205876;R$ 860,00;Depósito em espécie;MARCO RODRIGO RIOS BERTOLACINI;4088;Deputado Federal;PSB;MG;
-MARCO RODRIGO RIOS BERTOLACINI;745.179.616-72;26/07/2010;40002205877;R$ 50,00;Depósito em espécie;MARCO RODRIGO RIOS BERTOLACINI;4088;Deputado Federal;PSB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CELSO COMUNICAÇÃO VISUAL LTDA.;05.245.432/0001-86;24/09/2010;       Publicidade por materiais impressos;R$ 90,00;Cheque; -  -  / 4088 - MARCO RODRIGO RIOS BERTOLACINI - MG - Deputado Federal;
+CELSO COMUNICAÇÃO VISUAL LTDA.;05.245.432/0001-86;29/07/2010;       Publicidade por materiais impressos;R$ 892,00;Cheque; -  -  / 4088 - MARCO RODRIGO RIOS BERTOLACINI - MG - Deputado Federal;
+GRÁFICA ARCO IRIS;03.604.207/0001-63;29/07/2010;       Publicidade por materiais impressos;R$ 1.200,00;Cheque; -  -  / 4088 - MARCO RODRIGO RIOS BERTOLACINI - MG - Deputado Federal;
+JORNAL MINAS LESTE LTDA.;86.386.943/0001-10;22/09/2010;       Publicidade por jornais e revistas;R$ 200,00;Cheque; -  -  / 4088 - MARCO RODRIGO RIOS BERTOLACINI - MG - Deputado Federal;
+LORRANIA VIANA RABELO;096.180.966-37;30/09/2010;       Serviços prestados por terceiros;R$ 1.028,00;Cheque; -  -  / 4088 - MARCO RODRIGO RIOS BERTOLACINI - MG - Deputado Federal;
+TEREZINHA MOREIRA DE OLIVEIRA;261.196.416-53;30/09/2010;       Serviços prestados por terceiros;R$ 1.200,00;Cheque; -  -  / 4088 - MARCO RODRIGO RIOS BERTOLACINI - MG - Deputado Federal;
+ULISSES RODRIGUES E SILVA;011.911.866-10;30/09/2010;       Serviços prestados por terceiros;R$ 1.300,00;Cheque; -  -  / 4088 - MARCO RODRIGO RIOS BERTOLACINI - MG - Deputado Federal;

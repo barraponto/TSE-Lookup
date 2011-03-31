@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.166/0001-30;08/09/2010;10000045581;R$ 2.200,00;Estimado;DARIO RODRIGUES SALAZAR;10222;Deputado Estadual;PRB;MT;
-ELEIÇÃO 2010 - CLAUDIO JOSE DA SILVA DEP. FEDERAL;12.204.833/0001-53;09/08/2010;10000045582;R$ 510,00;Estimado;DARIO RODRIGUES SALAZAR;10222;Deputado Estadual;PRB;MT;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.166/0001-30;08/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.200,00;Estimado;Comitê Financeiro Único - PRB -  / 10222 - DARIO RODRIGUES SALAZAR - MT - Deputado Estadual;
+ELEIÇÃO 2010 - CLAUDIO JOSE DA SILVA DEP. FEDERAL;12.204.833/0001-53;09/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 510,00;Estimado;1010 -  - PRB -  - Deputado Federal / 10222 - DARIO RODRIGUES SALAZAR - MT - Deputado Estadual;

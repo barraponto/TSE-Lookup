@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-RICARDO LUIZ DACRI AREIAS;021.417.537-59;15/09/2010;16000029301;R$ 380,00;Depósito em espécie;CLAITON COFFY;162;Senador;PSTU;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BONSILK LTDA;04.101.014/0001-52;15/09/2010;       Publicidade por materiais impressos;R$ 380,00;Transferência eletrônica; -  -  / 162 - CLAITON COFFY - RJ - Senador;

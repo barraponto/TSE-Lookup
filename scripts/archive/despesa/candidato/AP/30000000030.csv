@@ -1,3 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADILSON DIAS DA SILVA;388.584.522-91;30/07/2010;40000961302;R$ 600,00;Estimado;ADILSON DIAS DA SILVA;40113;Deputado Estadual;PSB;AP;
-RAIMUNDO CORREA ALMEIDA;795.542.292-91;30/07/2010;40000961301;R$ 600,00;Depósito em espécie;ADILSON DIAS DA SILVA;40113;Deputado Estadual;PSB;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+A. PORTELA SAMPAIO - ME;84.409.689/0001-00;31/07/2010;       Despesas com transporte ou deslocamento;R$ 179,00;Cheque; -  -  / 40113 - ADILSON DIAS DA SILVA - AP - Deputado Estadual;
+ADILSON DIAS DA SILVA;388.584.522-91;30/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado; -  -  / 40113 - ADILSON DIAS DA SILVA - AP - Deputado Estadual;
+AUTO POSTO SÃO LÁZARO LTDA;04.261.230/0001-65;30/07/2010;       Combustíveis e lubrificantes;R$ 100,00;Cheque; -  -  / 40113 - ADILSON DIAS DA SILVA - AP - Deputado Estadual;
+J. DOS SANTOS ANUNCIAÇÃO - ME;34.938.472/0001-01;30/07/2010;       Materiais de expediente;R$ 112,21;Cheque; -  -  / 40113 - ADILSON DIAS DA SILVA - AP - Deputado Estadual;
+J. I. AZEVEDO DE AGUIAR - ME;84.424.993/0001-19;31/07/2010;       Alimentação;R$ 208,79;Cheque; -  -  / 40113 - ADILSON DIAS DA SILVA - AP - Deputado Estadual;

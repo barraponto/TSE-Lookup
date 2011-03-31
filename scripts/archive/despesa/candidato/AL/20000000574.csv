@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTÔNIO VESPA DA SILVA;065.188.988-01;31/08/2010;11000062142;R$ 300,00;Estimado;ANTONIO VESPA DA SILVA;11112;Deputado Estadual;PP;AL;
-ELEIÇÃO 2010 TEOTÔNIO BRANDÃO VILELA FILHO;12.170.978/0001-80;06/09/2010;11000062144;R$ 441,84;Estimado;ANTONIO VESPA DA SILVA;11112;Deputado Estadual;PP;AL;
-ELEIÇÃO 2010 TEOTÔNIO BRANDÃO VILELA FILHO;12.170.978/0001-80;30/08/2010;11000062143;R$ 913,00;Estimado;ANTONIO VESPA DA SILVA;11112;Deputado Estadual;PP;AL;
-MAURÍCIO DA SILVA SANTOS;021.023.514-40;31/08/2010;11000062141;R$ 1.500,00;Estimado;ANTONIO VESPA DA SILVA;11112;Deputado Estadual;PP;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTÔNIO VESPA DA SILVA;065.188.988-01;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 11112 - ANTONIO VESPA DA SILVA - AL - Deputado Estadual;
+ELEIÇÃO 2010 TEOTÔNIO BRANDÃO VILELA FILHO;12.170.978/0001-80;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 913,00;Estimado;45 -  - PSDB -  - Governador / 11112 - ANTONIO VESPA DA SILVA - AL - Deputado Estadual;
+ELEIÇÃO 2010 TEOTÔNIO BRANDÃO VILELA FILHO;12.170.978/0001-80;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 441,84;Estimado;45 -  - PSDB -  - Governador / 11112 - ANTONIO VESPA DA SILVA - AL - Deputado Estadual;
+MAURÍCIO DA SILVA SANTOS;021.023.514-40;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado; -  -  / 11112 - ANTONIO VESPA DA SILVA - AL - Deputado Estadual;

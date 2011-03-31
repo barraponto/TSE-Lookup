@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.191.570/0001-95;30/09/2010;44000004910;R$ 1.000,14;Estimado;ENIEDSON FERREIRA DOS SANTOS;4415;Deputado Federal;PRP;BA;
-Diretório Estadual/Distrital;12.191.570/0001-95;09/09/2010;44000004909;R$ 56,40;Estimado;ENIEDSON FERREIRA DOS SANTOS;4415;Deputado Federal;PRP;BA;
-Diretório Estadual/Distrital;12.191.570/0001-95;31/07/2010;44000004906;R$ 192,00;Estimado;ENIEDSON FERREIRA DOS SANTOS;4415;Deputado Federal;PRP;BA;
-ENIÉDSON FERREIRA DOS SANTOS;334.574.255-15;10/07/2010;44000004901;R$ 661,20;Estimado;ENIEDSON FERREIRA DOS SANTOS;4415;Deputado Federal;PRP;BA;
-ENIÉDSON FERREIRA DOS SANTOS;334.574.255-15;10/07/2010;44000004902;R$ 297,90;Estimado;ENIEDSON FERREIRA DOS SANTOS;4415;Deputado Federal;PRP;BA;
-GEDDEL VIEIRA LIMA;12.173.503/0001-48;31/08/2010;44000004907;R$ 204,00;Estimado;ENIEDSON FERREIRA DOS SANTOS;4415;Deputado Federal;PRP;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.191.570/0001-95;31/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 192,00;Estimado;Direção Estadual/Distrital - PMDB -  / 4415 - ENIEDSON FERREIRA DOS SANTOS - BA - Deputado Federal;
+Diretório Estadual/Distrital;12.191.570/0001-95;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 56,40;Estimado;Direção Estadual/Distrital - PMDB -  / 4415 - ENIEDSON FERREIRA DOS SANTOS - BA - Deputado Federal;
+Diretório Estadual/Distrital;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,14;Estimado;Direção Estadual/Distrital - PMDB -  / 4415 - ENIEDSON FERREIRA DOS SANTOS - BA - Deputado Federal;
+ENIÉDSON FERREIRA DOS SANTOS;334.574.255-15;10/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 297,90;Estimado; -  -  / 4415 - ENIEDSON FERREIRA DOS SANTOS - BA - Deputado Federal;
+ENIÉDSON FERREIRA DOS SANTOS;334.574.255-15;10/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 661,20;Estimado; -  -  / 4415 - ENIEDSON FERREIRA DOS SANTOS - BA - Deputado Federal;
+GEDDEL VIEIRA LIMA;12.173.503/0001-48;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 204,00;Estimado;15 -  - PMDB -  - Governador / 4415 - ENIEDSON FERREIRA DOS SANTOS - BA - Deputado Federal;

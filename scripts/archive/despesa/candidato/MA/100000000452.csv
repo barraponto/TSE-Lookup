@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALMIR CARVALHO ROSA JUNIOR;249.345.503-72;27/09/2010;33000120182;R$ 300,00;Depósito em espécie;ANTÔNIO HORÁCIO JARDIM BELO;33332;Deputado Estadual;PMN;MA;
-EMIRAN D. SANTOS;02.481.107/0001-24;10/09/2010;33000120183;R$ 1.000,00;Estimado;ANTÔNIO HORÁCIO JARDIM BELO;33332;Deputado Estadual;PMN;MA;
-J A VIANA & CIA LTDA;11.095.601/0001-41;13/08/2010;33000120181;R$ 200,00;Estimado;ANTÔNIO HORÁCIO JARDIM BELO;33332;Deputado Estadual;PMN;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EMIRAN D. SANTOS;02.481.107/0001-24;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 33332 - ANTÔNIO HORÁCIO JARDIM BELO - MA - Deputado Estadual;
+GRAFICA E EDITORA LIDER;11.095.601/0001-41;25/10/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 33332 - ANTÔNIO HORÁCIO JARDIM BELO - MA - Deputado Estadual;
+J A VIANA & CIA LTDA;11.095.601/0001-41;13/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado; -  -  / 33332 - ANTÔNIO HORÁCIO JARDIM BELO - MA - Deputado Estadual;

@@ -1,6 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO GONCALVES LOPES;053.134.143-72;06/09/2010;19000000613;R$ 500,00;Depósito em espécie;ANTONIO GONÇALVES LOPES;19453;Deputado Estadual;PTN;CE;
-Comitê Financeiro Único;12.217.614/0001-09;06/09/2010;19000000615;R$ 292,96;Estimado;ANTONIO GONÇALVES LOPES;19453;Deputado Estadual;PTN;CE;
-Comitê Financeiro Único;12.217.614/0001-09;06/09/2010;19000000614;R$ 80,65;Estimado;ANTONIO GONÇALVES LOPES;19453;Deputado Estadual;PTN;CE;
-MARCOGRAF GRAFICA LTDA;02.963.095/0001-74;20/08/2010;19000000611;R$ 172,00;Estimado;ANTONIO GONÇALVES LOPES;19453;Deputado Estadual;PTN;CE;
-MARIA EDNA GOMES;048.386.453-68;28/09/2010;19000000612;R$ 200,00;Depósito em espécie;ANTONIO GONÇALVES LOPES;19453;Deputado Estadual;PTN;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.217.614/0001-09;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 80,65;Estimado;Comitê Financeiro Único - PTN -  / 19453 - ANTONIO GONÇALVES LOPES - CE - Deputado Estadual;
+Comitê Financeiro Único;12.217.614/0001-09;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 292,96;Estimado;Comitê Financeiro Único - PTN -  / 19453 - ANTONIO GONÇALVES LOPES - CE - Deputado Estadual;
+MARCOGRAF GRAFICA LTDA;02.963.095/0001-74;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 172,00;Estimado; -  -  / 19453 - ANTONIO GONÇALVES LOPES - CE - Deputado Estadual;
+MARCOS FABIO VIANA;444.015.903-68;07/07/2010;       Publicidade por carros de som;R$ 450,00;Cheque; -  -  / 19453 - ANTONIO GONÇALVES LOPES - CE - Deputado Estadual;
+MOREIRA E SANTOS COM DE COMBUSTIVEIS LTDA;35.221.068/0001-85;28/09/2010;       Combustíveis e lubrificantes;R$ 100,00;Cheque; -  -  / 19453 - ANTONIO GONÇALVES LOPES - CE - Deputado Estadual;
+MOREIRA E SANTOS COM DE COMBUSTIVEIS LTDA;35.221.068/0001-85;02/10/2010;       Combustíveis e lubrificantes;R$ 100,00;Cheque; -  -  / 19453 - ANTONIO GONÇALVES LOPES - CE - Deputado Estadual;
+19453 - ANTONIO GONCALVES LOPES - DEPUTADO ESTADUAL;12.189.645/0001-01;29/10/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 50,00;Depósito em espécie;Direção Nacional - PTN - BR / 19453 - ANTONIO GONÇALVES LOPES - CE - Deputado Estadual;

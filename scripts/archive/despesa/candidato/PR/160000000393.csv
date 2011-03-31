@@ -1,2 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEICAO 2010 DILCEU JOAO SPERAFICO;12.171.462/0001-50;21/09/2010;17000073048;R$ 2.000,00;Cheque;CLEITON RODRIGO FREITAG;17017;Deputado Estadual;PSL;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DANILO JOHANN;407.367.099-91;28/09/2010;       Despesas com pessoal;R$ 1.000,00;Cheque; -  -  / 17017 - CLEITON RODRIGO FREITAG - PR - Deputado Estadual;
+EDITORA O PRESENTE LTDA;84.812.049/0001-39;27/09/2010;       Publicidade por materiais impressos;R$ 750,00;Cheque; -  -  / 17017 - CLEITON RODRIGO FREITAG - PR - Deputado Estadual;
+JOSIANE AMALIA DALPASQUALE;037.963.389-25;28/09/2010;       Despesas com pessoal;R$ 100,00;Cheque; -  -  / 17017 - CLEITON RODRIGO FREITAG - PR - Deputado Estadual;
+MARILENE TRENTO;524.266.969-15;30/09/2010;       Despesas com pessoal;R$ 150,00;Cheque; -  -  / 17017 - CLEITON RODRIGO FREITAG - PR - Deputado Estadual;

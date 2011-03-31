@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.310/0001-21;02/09/2010;17000053102;R$ 641,00;Estimado;WILSON NUNES FERREIRA;17011;Deputado Estadual;PSL;MA;
-Comitê Financeiro Único;12.205.310/0001-21;02/08/2010;17000053101;R$ 166,65;Estimado;WILSON NUNES FERREIRA;17011;Deputado Estadual;PSL;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.310/0001-21;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 166,65;Estimado;Comitê Financeiro Único - PSL -  / 17011 - WILSON NUNES FERREIRA - MA - Deputado Estadual;
+Comitê Financeiro Único;12.205.310/0001-21;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 641,00;Estimado;Comitê Financeiro Único - PSL -  / 17011 - WILSON NUNES FERREIRA - MA - Deputado Estadual;

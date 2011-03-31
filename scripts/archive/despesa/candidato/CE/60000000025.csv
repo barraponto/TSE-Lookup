@@ -1,2 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 FERNANDO FELINTO CARNEIRO CAVALCANTE DEPUTADO ESTADUAL;135.716.803-91;15/07/2010;23000070151;R$ 2.800,00;Depósito em espécie;FERNANDO FELINTO CARNEIRO CAVALCANTE;23017;Deputado Estadual;PPS;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+IRMÃOS AMED COMERCIAL LTDA;04.708.014/0001-15;22/07/2010;       Publicidade por carros de som;R$ 450,00;Cheque; -  -  / 23017 - FERNANDO FELINTO CARNEIRO CAVALCANTE - CE - Deputado Estadual;
+JOSÉ ITAMAR CHAGAS;430.340.127-72;02/10/2010;       Serviços prestados por terceiros;R$ 80,00;Cheque; -  -  / 23017 - FERNANDO FELINTO CARNEIRO CAVALCANTE - CE - Deputado Estadual;
+PROPAGARTES COMUNICAÇÃO VISUAL;11.970.353/0001-30;14/07/2010;       Publicidade por materiais impressos;R$ 770,00;Cheque; -  -  / 23017 - FERNANDO FELINTO CARNEIRO CAVALCANTE - CE - Deputado Estadual;
+RAIMUNDA ALVES DE LIMA - GRAFICA BELAS ARTES;01.179.592/0001-13;28/07/2010;       Publicidade por materiais impressos;R$ 1.100,00;Cheque; -  -  / 23017 - FERNANDO FELINTO CARNEIRO CAVALCANTE - CE - Deputado Estadual;
+SILVANIA FREITAS CAVALCANTE;979.300.243-34;25/07/2010;       Serviços prestados por terceiros;R$ 400,00;Cheque; -  -  / 23017 - FERNANDO FELINTO CARNEIRO CAVALCANTE - CE - Deputado Estadual;

@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.249.214/0001-85;17/08/2010;50000310082;R$ 100,00;Estimado;MARIA MADALENA DE LIMA;50000;Deputado Estadual;PSOL;PB;
-JOSE RODRIGUES;12.169.120/0001-04;17/08/2010;50000310081;R$ 465,00;Estimado;MARIA MADALENA DE LIMA;50000;Deputado Estadual;PSOL;PB;
-PAULO PEREIRA MESSIAS;219.898.184-04;17/08/2010;50000310083;R$ 100,00;Depósito em espécie;MARIA MADALENA DE LIMA;50000;Deputado Estadual;PSOL;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.249.214/0001-85;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado;Comitê Financeiro Único - PSOL -  / 50000 - MARIA MADALENA DE LIMA - PB - Deputado Estadual;
+JOSE RODRIGUES;12.169.120/0001-04;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 465,00;Estimado;5020 -  - PSOL -  - Deputado Federal / 50000 - MARIA MADALENA DE LIMA - PB - Deputado Estadual;
+50000 - MARIA MADALENA DE LIMA - DEPUTADO ESTADUAL;12.176.440/0001-83;17/08/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 100,00;Cheque;Comitê Financeiro Único - PSOL - PB / 50000 - MARIA MADALENA DE LIMA - PB - Deputado Estadual;

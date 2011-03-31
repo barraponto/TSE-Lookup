@@ -1,5 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-EDILENE SILVA FERREIRA;920.306.101-00;03/09/2010;17000044354;R$ 1.000,00;Estimado;PEDRO OLIVEIRA DA SILVA;17074;Deputado Estadual;PSL;GO;
-ELEIÇÃO 2010 DARIO ALVES PAIVA NETO;12.175.369/0001-14;03/09/2010;17000036702;R$ 1.000,00;Cheque;PEDRO OLIVEIRA DA SILVA;17074;Deputado Estadual;PSL;GO;
-MARIA PEREIRA DE ALMEIDA;001.690.791-47;16/08/2010;17000044353;R$ 205,00;Depósito em espécie;PEDRO OLIVEIRA DA SILVA;17074;Deputado Estadual;PSL;GO;
-PEDRO OLIVEIRA DA SILVA;547.615.491-49;03/10/2010;17000044352;R$ 215,00;Depósito em espécie;PEDRO OLIVEIRA DA SILVA;17074;Deputado Estadual;PSL;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AGM BR LTDA;11.481.929/0001-04;15/09/2010;       Publicidade por materiais impressos;R$ 250,00;Cheque; -  -  / 17074 - PEDRO OLIVEIRA DA SILVA - GO - Deputado Estadual;
+AGM BR LTDA;11.481.929/0001-04;10/09/2010;       Publicidade por materiais impressos;R$ 250,00;Cheque; -  -  / 17074 - PEDRO OLIVEIRA DA SILVA - GO - Deputado Estadual;
+AGM BR LTDA;11.481.929/0001-04;06/09/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 17074 - PEDRO OLIVEIRA DA SILVA - GO - Deputado Estadual;
+EDILENE SILVA FERREIRA;920.306.101-00;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 17074 - PEDRO OLIVEIRA DA SILVA - GO - Deputado Estadual;
+PEDRO OLIVEIRA E ALMEIDA LTDA;06.888.711/0001-20;07/09/2010;       Alimentação;R$ 550,00;Cheque; -  -  / 17074 - PEDRO OLIVEIRA DA SILVA - GO - Deputado Estadual;
+POSTO TIÃO PEIXOTO LTDA;03.638.934/0002-22;03/09/2010;       Combustíveis e lubrificantes;R$ 78,20;Cheque; -  -  / 17074 - PEDRO OLIVEIRA DA SILVA - GO - Deputado Estadual;
+POSTO TIÃO PEIXOTO LTDA;03.638.934/0002-22;03/09/2010;       Combustíveis e lubrificantes;R$ 80,00;Cheque; -  -  / 17074 - PEDRO OLIVEIRA DA SILVA - GO - Deputado Estadual;
+;;06/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,50;Débito em conta; -  -  / 17074 - PEDRO OLIVEIRA DA SILVA - GO - Deputado Estadual;
+;;16/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,50;Débito em conta; -  -  / 17074 - PEDRO OLIVEIRA DA SILVA - GO - Deputado Estadual;

@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-AIRTON DE OLIVEIRA JUNIOR;023.748.169-31;15/07/2010;20000629601;R$ 100,00;Estimado;BENTO ELISEO ALEIXO;2025;Deputado Federal;PSC;PR;
-ENIO LUIS MIRANDA;835.691.039-00;09/08/2010;20000629602;R$ 150,00;Depósito em espécie;BENTO ELISEO ALEIXO;2025;Deputado Federal;PSC;PR;
-UBIRATAN PEDROSO;765.553.489-68;24/08/2010;20000629603;R$ 1.300,00;Cheque;BENTO ELISEO ALEIXO;2025;Deputado Federal;PSC;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AIRTON DE OLIVEIRA JUNIOR;023.748.169-31;15/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado; -  -  / 2025 - BENTO ELISEO ALEIXO - PR - Deputado Federal;
+BORTOLAN E MORO COMUNICAÇÃO VISUAL - ME/ARTE SIGNS COMUNICAÇÃO VISUAL;04.728.364/0001-43;25/08/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 2025 - BENTO ELISEO ALEIXO - PR - Deputado Federal;
+PLUG ART COM. DE ARTS. E SERV. GRAFICOS LTDA;05.119.181/0001-93;01/10/2010;       Publicidade por materiais impressos;R$ 1.250,00;Não informado; -  -  / 2025 - BENTO ELISEO ALEIXO - PR - Deputado Federal;

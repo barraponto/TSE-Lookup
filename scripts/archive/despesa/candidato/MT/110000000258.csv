@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.229.925/0001-98;15/09/2010;44000048180;R$ 2.059,71;Estimado;FRANCISCO ALVES DA SILVA NETO;44100;Deputado Estadual;PRP;MT;
-ELEIÇÃO 2010 SILVAL DA CUNHA BARBOSA GOVERNADOR;12.199.108/0001-34;30/08/2010;44000048162;R$ 12.700,00;Cheque;FRANCISCO ALVES DA SILVA NETO;44100;Deputado Estadual;PRP;MT;
-ELEIÇÃO 2010 SILVAL DA CUNHA BARBOSA GOVERNADOR;12.199.108/0001-34;21/09/2010;44000048163;R$ 11.700,00;Cheque;FRANCISCO ALVES DA SILVA NETO;44100;Deputado Estadual;PRP;MT;
-SILVAL CUNHA BARBOSA;12.199.108/0001-34;16/08/2010;44000048161;R$ 24.600,00;Cheque;FRANCISCO ALVES DA SILVA NETO;44100;Deputado Estadual;PRP;MT;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.229.925/0001-98;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.059,71;Estimado;Comitê Financeiro Único - PRP -  / 44100 - FRANCISCO ALVES DA SILVA NETO - MT - Deputado Estadual;
+CROMUS DIGITAL LTDA ME;02.959.628/0001-44;27/08/2010;       Publicidade por materiais impressos;R$ 4.000,00;Cheque; -  -  / 44100 - FRANCISCO ALVES DA SILVA NETO - MT - Deputado Estadual;
+FRANCISCO  ALVES DA SILVA NETO;029.646.054-08;26/08/2010;       Diversas a especificar;R$ 710,00;Cheque; -  -  / 44100 - FRANCISCO ALVES DA SILVA NETO - MT - Deputado Estadual;
+FRANCISCO ALVES DA SILVA NETO;029.646.054-08;19/08/2010;       Diversas a especificar;R$ 1.710,00;Cheque; -  -  / 44100 - FRANCISCO ALVES DA SILVA NETO - MT - Deputado Estadual;
+FRANCISCO ALVES DA SILVA NETO;029.646.054-08;19/08/2010;       Diversas a especificar;R$ 19.600,00;Cheque; -  -  / 44100 - FRANCISCO ALVES DA SILVA NETO - MT - Deputado Estadual;

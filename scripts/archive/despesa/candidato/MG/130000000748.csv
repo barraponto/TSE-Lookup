@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DOLOR PEREIRA;175.226.506-82;01/09/2010;43001708404;R$ 400,00;Depósito em espécie;DOLÔR PEREIRA;4323;Deputado Federal;PV;MG;
-DOLOR PEREIRA;175.226.506-82;01/09/2010;43001708403;R$ 270,00;Estimado;DOLÔR PEREIRA;4323;Deputado Federal;PV;MG;
-JOSE FERNANDO APARECIDO DE OLIVEIRA;12.168.802/0001-94;25/08/2010;43001708401;R$ 440,00;Estimado;DOLÔR PEREIRA;4323;Deputado Federal;PV;MG;
-RONALDO VASCONCELOS NOVAIS;12.170.805/0001-62;26/08/2010;43001708402;R$ 247,50;Estimado;DOLÔR PEREIRA;4323;Deputado Federal;PV;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DOLOR PEREIRA;175.226.506-82;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 270,00;Estimado; -  -  / 4323 - DOLÔR PEREIRA - MG - Deputado Federal;
+EDITORA E PAPELARIA TRINDADE LTDA;07.780.689/0001-63;07/08/2010;       Publicidade por materiais impressos;R$ 325,00;Cheque; -  -  / 4323 - DOLÔR PEREIRA - MG - Deputado Federal;
+JOSE FERNANDO APARECIDO DE OLIVEIRA;12.168.802/0001-94;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 440,00;Estimado;43 -  - PV -  - Governador / 4323 - DOLÔR PEREIRA - MG - Deputado Federal;
+POSTO SAO JOSE LTDA;21.579.255/0001-20;04/09/2010;       Combustíveis e lubrificantes;R$ 75,00;Cheque; -  -  / 4323 - DOLÔR PEREIRA - MG - Deputado Federal;
+RONALDO VASCONCELOS NOVAIS;12.170.805/0001-62;26/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 247,50;Estimado;43222 -  - PV -  - Deputado Estadual / 4323 - DOLÔR PEREIRA - MG - Deputado Federal;

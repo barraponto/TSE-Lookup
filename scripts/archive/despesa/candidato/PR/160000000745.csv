@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Governador;12.190.887/0001-07;03/09/2010;33000000844;R$ 630,00;Estimado;LEA JUSSARA GLUCK TURKIEWICZ;33789;Deputado Estadual;PMN;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Governador;12.190.887/0001-07;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 630,00;Estimado;Comitê Financeiro Distrital/Estadual para Governador - PSDC -  / 33789 - LEA JUSSARA GLUCK TURKIEWICZ - PR - Deputado Estadual;

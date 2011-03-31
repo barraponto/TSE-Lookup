@@ -1,2 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.217.601/0001-30;17/09/2010;13001261521;R$ 7.000,00;Cheque;CRISTINA MARIA DA ROCHA;13030;Deputado Distrital;PT;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CLEIDE PEREIRA DA ROCHA;461.503.581-00;20/09/2010;       Serviços prestados por terceiros;R$ 1.100,00;Cheque; -  -  / 13030 - CRISTINA MARIA DA ROCHA - DF - Deputado Distrital;
+JOÃO MENDES DE SOUZA ROSA;162.673.541-72;20/09/2010;       Publicidade por carros de som;R$ 2.000,00;Cheque; -  -  / 13030 - CRISTINA MARIA DA ROCHA - DF - Deputado Distrital;
+ROSILEIDE MARIA DA ROCHA;579.109.871-53;20/09/2010;       Locação/cessão de bens imóveis;R$ 2.200,00;Cheque; -  -  / 13030 - CRISTINA MARIA DA ROCHA - DF - Deputado Distrital;
+WAGNER PEREIRA DA SILVA;611.137.861-91;20/09/2010;       Serviços prestados por terceiros;R$ 1.686,00;Cheque; -  -  / 13030 - CRISTINA MARIA DA ROCHA - DF - Deputado Distrital;
+;;17/09/2010;       Encargos financeiros e taxas bancárias;R$ 14,00;Débito em conta; -  -  / 13030 - CRISTINA MARIA DA ROCHA - DF - Deputado Distrital;

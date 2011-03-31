@@ -1,6 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-VALTER MAINARDES;287.518.259-53;26/07/2010;43001762601;R$ 200,00;Depósito em espécie;VALTER MAINARDES;4331;Deputado Federal;PV;PR;
-VALTER MAINARDES;287.518.259-53;20/08/2010;43001762602;R$ 500,00;Depósito em espécie;VALTER MAINARDES;4331;Deputado Federal;PV;PR;
-VALTER MAINARDES;287.518.259-53;15/07/2010;43001762605;R$ 1.000,00;Estimado;VALTER MAINARDES;4331;Deputado Federal;PV;PR;
-VALTER MAINARDES;287.518.259-53;14/10/2010;43001762604;R$ 58,00;Depósito em espécie;VALTER MAINARDES;4331;Deputado Federal;PV;PR;
-VALTER MAINARDES;287.518.259-53;15/09/2010;43001762603;R$ 300,00;Depósito em espécie;VALTER MAINARDES;4331;Deputado Federal;PV;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+COMERCIAL DE COMBUSTIVEIS PETRUKÃO LTDA;08.889.324/0001-34;15/09/2010;       Combustíveis e lubrificantes;R$ 83,00;Cheque; -  -  / 4331 - VALTER MAINARDES - PR - Deputado Federal;
+FIEL GRAFICA LTDA;02.216.870/0001-28;08/10/2010;       Publicidade por materiais impressos;R$ 180,00;Cheque; -  -  / 4331 - VALTER MAINARDES - PR - Deputado Federal;
+FIEL GRAFICA LTDA;02.216.870/0001-28;27/07/2010;       Publicidade por materiais impressos;R$ 90,00;Cheque; -  -  / 4331 - VALTER MAINARDES - PR - Deputado Federal;
+FIEL GRAFICA LTDA;02.216.870/0001-28;02/09/2010;       Publicidade por materiais impressos;R$ 540,00;Cheque; -  -  / 4331 - VALTER MAINARDES - PR - Deputado Federal;
+MONTE ALEGRE COMERCIO DE COMBUSTIVEIS LTDA;08.942.712/0001-31;26/09/2010;       Combustíveis e lubrificantes;R$ 85,00;Cheque; -  -  / 4331 - VALTER MAINARDES - PR - Deputado Federal;
+MONTE ALEGRE COMERCIO DE COMBUSTIVEIS LTDA;08.942.712/0001-31;22/09/2010;       Combustíveis e lubrificantes;R$ 80,00;Cheque; -  -  / 4331 - VALTER MAINARDES - PR - Deputado Federal;
+VALTER MAINARDES;287.518.259-53;15/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 4331 - VALTER MAINARDES - PR - Deputado Federal;

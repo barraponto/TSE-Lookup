@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.372.871/0001-15;29/07/2010;12001640502;R$ 1.197,84;Estimado;FERNANDO ANTÔNIO GOMES ARAÚJO;12412;Deputado Estadual;PDT;MG;
-Comitê Financeiro Único;12.372.871/0001-15;31/08/2010;12001640501;R$ 1.320,00;Estimado;FERNANDO ANTÔNIO GOMES ARAÚJO;12412;Deputado Estadual;PDT;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.372.871/0001-15;29/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.197,84;Estimado;Comitê Financeiro Único - PDT -  / 12412 - FERNANDO ANTÔNIO GOMES ARAÚJO - MG - Deputado Estadual;
+Comitê Financeiro Único;12.372.871/0001-15;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.320,00;Estimado;Comitê Financeiro Único - PDT -  / 12412 - FERNANDO ANTÔNIO GOMES ARAÚJO - MG - Deputado Estadual;

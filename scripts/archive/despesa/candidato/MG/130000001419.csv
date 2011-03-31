@@ -1,6 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;21.531.363/0001-23;06/09/2010;14000083654;R$ 1.444,00;Estimado;FABIO ANTONIO DE CARVALHO JUNIOR;1471;Deputado Federal;PTB;MG;
-Diretório Estadual/Distrital;21.531.363/0001-23;06/09/2010;14000083655;R$ 527,00;Estimado;FABIO ANTONIO DE CARVALHO JUNIOR;1471;Deputado Federal;PTB;MG;
-Diretório Estadual/Distrital;21.531.363/0001-23;06/09/2010;14000083656;R$ 1.073,00;Estimado;FABIO ANTONIO DE CARVALHO JUNIOR;1471;Deputado Federal;PTB;MG;
-FÁBIO ANTONIO DE CARVALHO JUNIOR;577.671.576-87;22/07/2010;14000083651;R$ 500,00;Depósito em espécie;FABIO ANTONIO DE CARVALHO JUNIOR;1471;Deputado Federal;PTB;MG;
-JULIO CEZAR DINIZ;455.307.776-00;17/08/2010;14000083653;R$ 1.000,00;Cheque;FABIO ANTONIO DE CARVALHO JUNIOR;1471;Deputado Federal;PTB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CRIATIVA IMPRESSOES GRAFICA LTDA-ME;08.296.189/0001-13;04/08/2010;       Publicidade por materiais impressos;R$ 350,00;Cheque; -  -  / 1471 - FABIO ANTONIO DE CARVALHO JUNIOR - MG - Deputado Federal;
+CRIATIVA IMPRESSOES GRAFICA LTDA-ME;08.296.189/0001-13;22/07/2010;       Publicidade por materiais impressos;R$ 418,00;Cheque; -  -  / 1471 - FABIO ANTONIO DE CARVALHO JUNIOR - MG - Deputado Federal;
+DESPESAS TRANPORTE ONIBUS;577.671.576-87;06/10/2010;       Diversas a especificar;R$ 88,36;Cheque; -  -  / 1471 - FABIO ANTONIO DE CARVALHO JUNIOR - MG - Deputado Federal;
+Diretório Estadual/Distrital;21.531.363/0001-23;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 527,00;Estimado;Direção Estadual/Distrital - PTB -  / 1471 - FABIO ANTONIO DE CARVALHO JUNIOR - MG - Deputado Federal;
+Diretório Estadual/Distrital;21.531.363/0001-23;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.444,00;Estimado;Direção Estadual/Distrital - PTB -  / 1471 - FABIO ANTONIO DE CARVALHO JUNIOR - MG - Deputado Federal;
+Diretório Estadual/Distrital;21.531.363/0001-23;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.073,00;Estimado;Direção Estadual/Distrital - PTB -  / 1471 - FABIO ANTONIO DE CARVALHO JUNIOR - MG - Deputado Federal;
+IDEIA IMPRESSÃO DIGITAL LTDA;21.613.807/0001-70;18/08/2010;       Publicidade por materiais impressos;R$ 550,00;Cheque; -  -  / 1471 - FABIO ANTONIO DE CARVALHO JUNIOR - MG - Deputado Federal;
+;;06/10/2010;       Encargos financeiros e taxas bancárias;R$ 93,64;Débito em conta; -  -  / 1471 - FABIO ANTONIO DE CARVALHO JUNIOR - MG - Deputado Federal;

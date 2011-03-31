@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.254/0001-25;06/09/2010;44000030861;R$ 1.000,00;Estimado;AGNALDO RODRIGUES CORREA;44010;Deputado Estadual;PRP;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.254/0001-25;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;Comitê Financeiro Único - PRP -  / 44010 - AGNALDO RODRIGUES CORREA - RJ - Deputado Estadual;

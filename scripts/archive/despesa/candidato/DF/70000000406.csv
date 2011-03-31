@@ -1,7 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.217.556/0001-13;18/08/2010;70000132806;R$ 360,00;Estimado;FRANCISCO DE ASSIS BARREIRO CRIZANTO;70100;Deputado Distrital;PT do B;DF;
-Comitê Financeiro Único;12.217.556/0001-13;10/08/2010;70000132803;R$ 360,00;Estimado;FRANCISCO DE ASSIS BARREIRO CRIZANTO;70100;Deputado Distrital;PT do B;DF;
-Comitê Financeiro Único;12.217.556/0001-13;23/08/2010;70000132807;R$ 360,00;Estimado;FRANCISCO DE ASSIS BARREIRO CRIZANTO;70100;Deputado Distrital;PT do B;DF;
-ELEIÇÃO 2010 FRANCISCO DE ASSIS BARREIRO CRIZANTO DEPUTADO DISTRITAL;073.027.111-00;16/08/2010;70000132811;R$ 600,00;Depósito em espécie;FRANCISCO DE ASSIS BARREIRO CRIZANTO;70100;Deputado Distrital;PT do B;DF;
-ELEIÇÃO 2010 FRANCISCO DE ASSIS BARREIRO CRIZANTO DEPUTADO DISTRITAL;073.027.111-00;25/08/2010;70000132810;R$ 1.200,00;Depósito em espécie;FRANCISCO DE ASSIS BARREIRO CRIZANTO;70100;Deputado Distrital;PT do B;DF;
-ELEIÇÃO 2010 FRANCISCO DE ASSIS BARREIRO CRIZANTO DEPUTADO DISTRITAL;073.027.111-00;30/08/2010;70000132812;R$ 599,52;Depósito em espécie;FRANCISCO DE ASSIS BARREIRO CRIZANTO;70100;Deputado Distrital;PT do B;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BRASIL TELECOM S.A;76.535.764/0001-43;25/08/2010;       Telefone;R$ 1.093,88;Cheque; -  -  / 70100 - FRANCISCO DE ASSIS BARREIRO CRIZANTO - DF - Deputado Distrital;
+Comitê Financeiro Único;12.217.556/0001-13;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Único - PT do B -  / 70100 - FRANCISCO DE ASSIS BARREIRO CRIZANTO - DF - Deputado Distrital;
+Comitê Financeiro Único;12.217.556/0001-13;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Único - PT do B -  / 70100 - FRANCISCO DE ASSIS BARREIRO CRIZANTO - DF - Deputado Distrital;
+Comitê Financeiro Único;12.217.556/0001-13;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Único - PT do B -  / 70100 - FRANCISCO DE ASSIS BARREIRO CRIZANTO - DF - Deputado Distrital;
+CONFECÇÕES E TECIDOS LTDA ME;07.467.725/0001-33;17/08/2010;       Publicidade por materiais impressos;R$ 530,00;Cheque; -  -  / 70100 - FRANCISCO DE ASSIS BARREIRO CRIZANTO - DF - Deputado Distrital;
+WENDELL DE S OLIVEIRA CONTABILIDADE CONSULTORIA E COBRANÇA;08.912.497/0001-26;03/08/2010;       Serviços prestados por terceiros;R$ 600,00;Cheque; -  -  / 70100 - FRANCISCO DE ASSIS BARREIRO CRIZANTO - DF - Deputado Distrital;
+WENDELL DE S OLIVEIRA CONTABILIDADE CONSULTORIA E COBRANÇA;08.912.497/0001-26;28/09/2010;       Serviços prestados por terceiros;R$ 500,00;Cheque; -  -  / 70100 - FRANCISCO DE ASSIS BARREIRO CRIZANTO - DF - Deputado Distrital;
+;;27/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 70100 - FRANCISCO DE ASSIS BARREIRO CRIZANTO - DF - Deputado Distrital;
+;;18/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 70100 - FRANCISCO DE ASSIS BARREIRO CRIZANTO - DF - Deputado Distrital;

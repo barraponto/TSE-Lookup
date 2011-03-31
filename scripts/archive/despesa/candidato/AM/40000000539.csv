@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALAN KIRK BATISTA CORDEIRO;596.090.012-20;01/08/2010;43001902246;R$ 510,00;Estimado;CLAUDIO MARINHO DE OURO;43077;Deputado Estadual;PV;AM;
-ALAN KIRK BATISTA CORDEIRO;596.090.012-20;01/09/2010;43001902280;R$ 510,00;Estimado;CLAUDIO MARINHO DE OURO;43077;Deputado Estadual;PV;AM;
-Comitê Financeiro Único;12.229.930/0001-09;01/09/2010;43001902282;R$ 170,00;Estimado;CLAUDIO MARINHO DE OURO;43077;Deputado Estadual;PV;AM;
-Comitê Financeiro Único;12.229.930/0001-09;01/09/2010;43001902283;R$ 258,70;Estimado;CLAUDIO MARINHO DE OURO;43077;Deputado Estadual;PV;AM;
-Comitê Financeiro Único;12.200.172/0001-98;03/09/2010;43001902284;R$ 3.200,00;Estimado;CLAUDIO MARINHO DE OURO;43077;Deputado Estadual;PV;AM;
-MAYCON RICARDO SILVA DA SILVA;621.214.052-91;01/08/2010;43001902247;R$ 510,00;Estimado;CLAUDIO MARINHO DE OURO;43077;Deputado Estadual;PV;AM;
-MAYCON RICARDO SILVA DA SILVA;621.214.052-91;01/09/2010;43001902281;R$ 510,00;Estimado;CLAUDIO MARINHO DE OURO;43077;Deputado Estadual;PV;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALAN KIRK BATISTA CORDEIRO;596.090.012-20;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 510,00;Estimado; -  -  / 43077 - CLAUDIO MARINHO DE OURO - AM - Deputado Estadual;
+ALAN KIRK BATISTA CORDEIRO;596.090.012-20;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 510,00;Estimado; -  -  / 43077 - CLAUDIO MARINHO DE OURO - AM - Deputado Estadual;
+Comitê Financeiro Único;12.229.930/0001-09;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 258,70;Estimado;Comitê Financeiro Único - PV -  / 43077 - CLAUDIO MARINHO DE OURO - AM - Deputado Estadual;
+Comitê Financeiro Único;12.200.172/0001-98;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.200,00;Estimado;Comitê Financeiro Único - PSDB -  / 43077 - CLAUDIO MARINHO DE OURO - AM - Deputado Estadual;
+Comitê Financeiro Único;12.229.930/0001-09;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 170,00;Estimado;Comitê Financeiro Único - PV -  / 43077 - CLAUDIO MARINHO DE OURO - AM - Deputado Estadual;
+MAYCON RICARDO SILVA DA SILVA;621.214.052-91;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 510,00;Estimado; -  -  / 43077 - CLAUDIO MARINHO DE OURO - AM - Deputado Estadual;
+MAYCON RICARDO SILVA DA SILVA;621.214.052-91;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 510,00;Estimado; -  -  / 43077 - CLAUDIO MARINHO DE OURO - AM - Deputado Estadual;

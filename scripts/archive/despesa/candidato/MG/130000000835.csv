@@ -1,9 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.267/0001-02;03/10/2010;22000018307;R$ 83,86;Estimado;ALEXANDRE ANTÔNIO DINIZ AVELAR;22193;Deputado Estadual;PR;MG;
-Comitê Financeiro Único;12.205.267/0001-02;03/10/2010;22000018308;R$ 1.197,84;Estimado;ALEXANDRE ANTÔNIO DINIZ AVELAR;22193;Deputado Estadual;PR;MG;
-Comitê Financeiro Único;12.205.267/0001-02;13/08/2010;22000018302;R$ 508,00;Estimado;ALEXANDRE ANTÔNIO DINIZ AVELAR;22193;Deputado Estadual;PR;MG;
-ELEIÇÃO 2010 DIEGO LEONARDO DE ANDRADE CARVALHO DEPUTADO FEDERAL;12.181.870/0001-93;23/08/2010;22000018304;R$ 160,00;Estimado;ALEXANDRE ANTÔNIO DINIZ AVELAR;22193;Deputado Estadual;PR;MG;
-ELEIÇÃO 2010 DIEGO LEONARDO DE ANDRADE CARVALHO DEPUTADO FEDERAL;12.181.870/0001-93;13/08/2010;22000018303;R$ 500,00;Estimado;ALEXANDRE ANTÔNIO DINIZ AVELAR;22193;Deputado Estadual;PR;MG;
-ELEIÇÃO 2010 DIEGO LEONARDO DE ANDRADE CARVALHO DEPUTADO FEDERAL;12.181.870/0001-93;16/09/2010;22000018305;R$ 90,00;Estimado;ALEXANDRE ANTÔNIO DINIZ AVELAR;22193;Deputado Estadual;PR;MG;
-ELEIÇÕES 2010 ALEXANDRE DINIZ ANTONIO AVELAR DEPUTADO ESTADUAL;006.981.966-19;10/08/2010;22000018301;R$ 90,00;Depósito em espécie;ALEXANDRE ANTÔNIO DINIZ AVELAR;22193;Deputado Estadual;PR;MG;
-ELEIÇÕES 2010 ALEXANDRE DINIZ ANTONIO AVELAR DEPUTADO ESTADUAL;006.981.966-19;09/09/2010;22000018306;R$ 90,00;Depósito em espécie;ALEXANDRE ANTÔNIO DINIZ AVELAR;22193;Deputado Estadual;PR;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.267/0001-02;03/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 83,86;Estimado;Comitê Financeiro Único - PR -  / 22193 - ALEXANDRE ANTÔNIO DINIZ AVELAR - MG - Deputado Estadual;
+Comitê Financeiro Único;12.205.267/0001-02;13/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 508,00;Estimado;Comitê Financeiro Único - PR -  / 22193 - ALEXANDRE ANTÔNIO DINIZ AVELAR - MG - Deputado Estadual;
+Comitê Financeiro Único;12.205.267/0001-02;03/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.197,84;Estimado;Comitê Financeiro Único - PR -  / 22193 - ALEXANDRE ANTÔNIO DINIZ AVELAR - MG - Deputado Estadual;
+ELEIÇÃO 2010 DIEGO LEONARDO DE ANDRADE CARVALHO DEPUTADO FEDERAL;12.181.870/0001-93;13/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;2255 -  - PR -  - Deputado Federal / 22193 - ALEXANDRE ANTÔNIO DINIZ AVELAR - MG - Deputado Estadual;
+ELEIÇÃO 2010 DIEGO LEONARDO DE ANDRADE CARVALHO DEPUTADO FEDERAL;12.181.870/0001-93;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 160,00;Estimado;2255 -  - PR -  - Deputado Federal / 22193 - ALEXANDRE ANTÔNIO DINIZ AVELAR - MG - Deputado Estadual;
+ELEIÇÃO 2010 DIEGO LEONARDO DE ANDRADE CARVALHO DEPUTADO FEDERAL;12.181.870/0001-93;16/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 90,00;Estimado;2255 -  - PR -  - Deputado Federal / 22193 - ALEXANDRE ANTÔNIO DINIZ AVELAR - MG - Deputado Estadual;
+RICARDO COSTA RIBEIRO - ME;01.214.529/0001-70;08/09/2010;       Publicidade por materiais impressos;R$ 180,00;Cheque; -  -  / 22193 - ALEXANDRE ANTÔNIO DINIZ AVELAR - MG - Deputado Estadual;

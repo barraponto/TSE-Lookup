@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CESAR EPITACIO MAIA;12.176.116/0001-65;01/10/2010;25000169130;R$ 8,25;Estimado;JONAS ULISSES DOS SANTOS;25920;Deputado Estadual;DEM;RJ;
-CESAR EPITACIO MAIA;12.176.116/0001-65;01/10/2010;25000169127;R$ 117,00;Estimado;JONAS ULISSES DOS SANTOS;25920;Deputado Estadual;DEM;RJ;
-CESAR EPITACIO MAIA;12.176.116/0001-65;01/10/2010;25000169128;R$ 78,00;Estimado;JONAS ULISSES DOS SANTOS;25920;Deputado Estadual;DEM;RJ;
-CESAR EPITACIO MAIA;12.176.116/0001-65;01/10/2010;25000169129;R$ 156,00;Estimado;JONAS ULISSES DOS SANTOS;25920;Deputado Estadual;DEM;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CESAR EPITACIO MAIA;12.176.116/0001-65;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 8,25;Estimado;251 -  - DEM -  - Senador / 25920 - JONAS ULISSES DOS SANTOS - RJ - Deputado Estadual;
+CESAR EPITACIO MAIA;12.176.116/0001-65;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 78,00;Estimado;251 -  - DEM -  - Senador / 25920 - JONAS ULISSES DOS SANTOS - RJ - Deputado Estadual;
+CESAR EPITACIO MAIA;12.176.116/0001-65;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 117,00;Estimado;251 -  - DEM -  - Senador / 25920 - JONAS ULISSES DOS SANTOS - RJ - Deputado Estadual;
+CESAR EPITACIO MAIA;12.176.116/0001-65;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 156,00;Estimado;251 -  - DEM -  - Senador / 25920 - JONAS ULISSES DOS SANTOS - RJ - Deputado Estadual;

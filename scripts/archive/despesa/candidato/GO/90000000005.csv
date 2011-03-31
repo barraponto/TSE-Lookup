@@ -1,2 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Deputado Federal;12.000.142/0001-81;26/08/2010;33000002852;R$ 10.000,00;Cheque;ANTONIO RODRIGUES DO ROSÁRIO;33777;Deputado Estadual;PMN;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO RODRIGUES DO ROSARIO;233.694.931-87;01/07/2010;       Locação/cessão de bens imóveis;R$ 1.800,00;Transferência eletrônica; -  -  / 33777 - ANTONIO RODRIGUES DO ROSÁRIO - GO - Deputado Estadual;
+ANTONIO SILVERIO DA SILVA;274.123.261-04;30/09/2010;       Diversas a especificar;R$ 100,00;Transferência eletrônica; -  -  / 33777 - ANTONIO RODRIGUES DO ROSÁRIO - GO - Deputado Estadual;
+CLEBER BATISTA DA SILVA;644.208.761-15;01/07/2010;       Despesas com pessoal;R$ 900,00;Transferência eletrônica; -  -  / 33777 - ANTONIO RODRIGUES DO ROSÁRIO - GO - Deputado Estadual;
+MAGNA RIBEIRO DE FREITAS;180.451.621-04;01/07/2010;       Despesas com pessoal;R$ 900,00;Transferência eletrônica; -  -  / 33777 - ANTONIO RODRIGUES DO ROSÁRIO - GO - Deputado Estadual;
+MARCUS VNICIUS RODRIGUES;001.042.451-23;01/07/2010;       Despesas com pessoal;R$ 900,00;Transferência eletrônica; -  -  / 33777 - ANTONIO RODRIGUES DO ROSÁRIO - GO - Deputado Estadual;
+MARIA DE JESUS RIBEIRO COSTA;281.039.041-04;01/07/2010;       Despesas com pessoal;R$ 900,00;Transferência eletrônica; -  -  / 33777 - ANTONIO RODRIGUES DO ROSÁRIO - GO - Deputado Estadual;
+MARILEUZA BORGES DA COSTA;858.840.651-91;01/07/2010;       Despesas com pessoal;R$ 900,00;Transferência eletrônica; -  -  / 33777 - ANTONIO RODRIGUES DO ROSÁRIO - GO - Deputado Estadual;
+PEDRO MARQUES PITALUGA;418.998.301-20;01/07/2010;       Despesas com pessoal;R$ 900,00;Transferência eletrônica; -  -  / 33777 - ANTONIO RODRIGUES DO ROSÁRIO - GO - Deputado Estadual;
+RONNE FRANCYS DOS SANTOS;816.858.311-68;01/07/2010;       Despesas com pessoal;R$ 900,00;Transferência eletrônica; -  -  / 33777 - ANTONIO RODRIGUES DO ROSÁRIO - GO - Deputado Estadual;
+SERGIO SILVA FONSECA;810.773.601-00;01/07/2010;       Despesas com pessoal;R$ 900,00;Transferência eletrônica; -  -  / 33777 - ANTONIO RODRIGUES DO ROSÁRIO - GO - Deputado Estadual;
+VILMA ARAUJO REIS;018.308.375-08;01/07/2010;       Despesas com pessoal;R$ 900,00;Transferência eletrônica; -  -  / 33777 - ANTONIO RODRIGUES DO ROSÁRIO - GO - Deputado Estadual;

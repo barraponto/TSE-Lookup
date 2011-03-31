@@ -1,4 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANDRE ALEXANDRE KURITZ;904.064.199-49;13/10/2010;43001775002;R$ 1.700,00;Depósito em espécie;PAULO ROBERTO GOMES;43555;Deputado Estadual;PV;PR;
-ANDRE ALEXANDRE KURITZ;904.064.199-49;15/10/2010;43001775003;R$ 350,00;Depósito em espécie;PAULO ROBERTO GOMES;43555;Deputado Estadual;PV;PR;
-PAULO ROBERTO GOMES E ADVOGADOS ASSOCIADOS;08.752.807/0001-92;16/09/2010;43001775001;R$ 5.000,00;Transferência eletrônica;PAULO ROBERTO GOMES;43555;Deputado Estadual;PV;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AGENCIA DE CORREIOS FRANQUEADA SANTA QUITERIA LTDA;85.504.231/0001-95;28/09/2010;       Despesas postais;R$ 2.271,50;Cheque; -  -  / 43555 - PAULO ROBERTO GOMES - PR - Deputado Estadual;
+BENONY SOARES LIMA PAPELARIA;10.434.510/0001-20;01/10/2010;       Materiais de expediente;R$ 394,50;Cheque; -  -  / 43555 - PAULO ROBERTO GOMES - PR - Deputado Estadual;
+EDITORA GAZETA DO POVO LTDA;76.530.047/0001-29;17/09/2010;       Publicidade por jornais e revistas;R$ 1.720,00;Cheque; -  -  / 43555 - PAULO ROBERTO GOMES - PR - Deputado Estadual;
+EMPRESA JORNALISTICA FOLHA DE LONDRINA;77.338.424/0001-95;17/09/2010;       Publicidade por jornais e revistas;R$ 1.331,68;Cheque; -  -  / 43555 - PAULO ROBERTO GOMES - PR - Deputado Estadual;
+G2 COMUNICAÇÃO VISUAL LTDA;09.440.043/0001-62;22/09/2010;       Publicidade por materiais impressos;R$ 670,00;Cheque; -  -  / 43555 - PAULO ROBERTO GOMES - PR - Deputado Estadual;
+PRIMAGRAF IND GRAFICA E EDITORA LTDA;00.444.593/0001-85;22/09/2010;       Publicidade por materiais impressos;R$ 650,00;Cheque; -  -  / 43555 - PAULO ROBERTO GOMES - PR - Deputado Estadual;
+;;07/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 43555 - PAULO ROBERTO GOMES - PR - Deputado Estadual;

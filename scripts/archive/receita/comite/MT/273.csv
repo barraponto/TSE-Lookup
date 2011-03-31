@@ -1,14 +1,3 @@
-Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
-Comitê Financeiro Único - PP;12.221.857/0001-10;02/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 74.000,00;Transferência eletrônica;11234 - JOSE GERALDO RIVA - PP - MT - Deputado Estadual / Comitê Financeiro Único - PP - MT;
-Comitê Financeiro Único - PP;12.221.857/0001-10;02/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 76.000,00;Transferência eletrônica;1140 - ELIENE JOSE DE LIMA - PP - MT - Deputado Federal / Comitê Financeiro Único - PP - MT;
-;;29/10/2010;       Encargos financeiros e taxas bancárias;R$ 24,00;Débito em conta; -  -  / Comitê Financeiro Único - PP - MT;
-;;29/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,09;Débito em conta; -  -  / Comitê Financeiro Único - PP - MT;
-;;29/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,01;Débito em conta; -  -  / Comitê Financeiro Único - PP - MT;
-;;01/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,60;Débito em conta; -  -  / Comitê Financeiro Único - PP - MT;
-;;29/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,03;Débito em conta; -  -  / Comitê Financeiro Único - PP - MT;
-;;29/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,66;Débito em conta; -  -  / Comitê Financeiro Único - PP - MT;
-;;01/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,14;Débito em conta; -  -  / Comitê Financeiro Único - PP - MT;
-;;02/09/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Débito em conta; -  -  / Comitê Financeiro Único - PP - MT;
-;;29/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,50;Débito em conta; -  -  / Comitê Financeiro Único - PP - MT;
-;;31/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,50;Débito em conta; -  -  / Comitê Financeiro Único - PP - MT;
-;;02/09/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Débito em conta; -  -  / Comitê Financeiro Único - PP - MT;
+Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
+ALEX SANDER ANTUNES DE OLIVEIRA;861.282.131-20;29/10/2010;11000126762;R$ 61,53;Depósito em espécie;Comitê Financeiro Único;PP;MT;
+RENOSA IND. BRAS. DE BEBIDAS S/A;01.403.613/0001-32;27/08/2010;11000126761;R$ 150.000,00;Cheque;Comitê Financeiro Único;PP;MT;

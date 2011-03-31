@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MAURO LUIZ FERREIRA DA SILVA;213.105.991-49;29/10/2010;40000801153;R$ 9.607,00;Depósito em espécie;MAURO LUIZ FERREIRA DA SILVA;40999;Deputado Estadual;PSB;MA;
-SINEY MILHOMEM KARAN;032.174.343-15;09/08/2010;40000801152;R$ 7.000,00;Estimado;MAURO LUIZ FERREIRA DA SILVA;40999;Deputado Estadual;PSB;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+I. MACHADO SERIGRAFIA LTDA;02.687.269/0001-13;30/09/2010;       Publicidade por materiais impressos;R$ 4.357,00;Cheque; -  -  / 40999 - MAURO LUIZ FERREIRA DA SILVA - MA - Deputado Estadual;
+NOVA GRÁFICA E EDITORA LTDA;12.355.518/0001-27;30/09/2010;       Publicidade por materiais impressos;R$ 5.250,00;Cheque; -  -  / 40999 - MAURO LUIZ FERREIRA DA SILVA - MA - Deputado Estadual;
+SINEY MILHOMEM KARAN;032.174.343-15;09/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 7.000,00;Estimado; -  -  / 40999 - MAURO LUIZ FERREIRA DA SILVA - MA - Deputado Estadual;

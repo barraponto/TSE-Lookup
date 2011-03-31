@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.285/0001-86;17/08/2010;45000336191;R$ 964,36;Estimado;JACKSON CARDOSO AMARAL;4566;Deputado Federal;PSDB;AP;
-Comitê Financeiro Único;12.205.285/0001-86;21/09/2010;45000336192;R$ 140,00;Estimado;JACKSON CARDOSO AMARAL;4566;Deputado Federal;PSDB;AP;
-JACKSON CARDOSO AMARAL;209.224.262-87;15/07/2010;45000336194;R$ 5.000,00;Estimado;JACKSON CARDOSO AMARAL;4566;Deputado Federal;PSDB;AP;
-PAULO ROBERTO DA GAMA JORGE MELEM;638.543.762-00;01/10/2010;45000336193;R$ 1.500,00;Estimado;JACKSON CARDOSO AMARAL;4566;Deputado Federal;PSDB;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.285/0001-86;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 964,36;Estimado;Comitê Financeiro Único - PMDB -  / 4566 - JACKSON CARDOSO AMARAL - AP - Deputado Federal;
+Comitê Financeiro Único;12.205.285/0001-86;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 140,00;Estimado;Comitê Financeiro Único - PMDB -  / 4566 - JACKSON CARDOSO AMARAL - AP - Deputado Federal;
+JACKSON CARDOSO AMARAL;209.224.262-87;15/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 5.000,00;Estimado; -  -  / 4566 - JACKSON CARDOSO AMARAL - AP - Deputado Federal;
+PAULO ROBERTO DA GAMA JORGE MELEM;638.543.762-00;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado; -  -  / 4566 - JACKSON CARDOSO AMARAL - AP - Deputado Federal;

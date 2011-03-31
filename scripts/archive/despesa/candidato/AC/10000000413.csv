@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FRANESI DA SILVA RIBEIRO;195.883.722-91;13/10/2010;23000029047;R$ 3.300,00;Depósito em espécie;FRANESI DA SILVA RIBEIRO;23220;Deputado Estadual;PPS;AC;
-FRANESI DA SILVA RIBEIRO;195.883.722-91;28/10/2010;23000029048;R$ 1.000,00;Depósito em espécie;FRANESI DA SILVA RIBEIRO;23220;Deputado Estadual;PPS;AC;
-FRANESI DA SILVA RIBEIRO;195.883.722-91;28/10/2010;23000029049;R$ 5.000,00;Depósito em espécie;FRANESI DA SILVA RIBEIRO;23220;Deputado Estadual;PPS;AC;
-MARCIO MIGUEL BITTAR;12.173.808/0001-50;30/08/2010;23000029046;R$ 190,00;Estimado;FRANESI DA SILVA RIBEIRO;23220;Deputado Estadual;PPS;AC;
-SUIANE DA COSTA N DO VALE;304.138.182-68;30/08/2010;23000029050;R$ 1.000,00;Estimado;FRANESI DA SILVA RIBEIRO;23220;Deputado Estadual;PPS;AC;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+C.A.B. MEDEIROS ( POSTO HORIZONTE);04.146.980/0001-96;28/09/2010;       Combustíveis e lubrificantes;R$ 3.300,00;Cheque; -  -  / 23220 - FRANESI DA SILVA RIBEIRO - AC - Deputado Estadual;
+C.CIPRIANI ( NOSSA GRAFICA);01.805.545/0001-38;30/09/2010;       Publicidade por materiais impressos;R$ 2.000,00;Cheque; -  -  / 23220 - FRANESI DA SILVA RIBEIRO - AC - Deputado Estadual;
+G.S.SILVEIRA - ME;84.313.923/0001-93;30/09/2010;       Publicidade por placas, estandartes e faixas;R$ 4.000,00;Cheque; -  -  / 23220 - FRANESI DA SILVA RIBEIRO - AC - Deputado Estadual;
+MARCIO MIGUEL BITTAR;12.173.808/0001-50;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 190,00;Estimado;4545 -  - PSDB -  - Deputado Federal / 23220 - FRANESI DA SILVA RIBEIRO - AC - Deputado Estadual;
+SUIANE DA COSTA N DO VALE;304.138.182-68;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 23220 - FRANESI DA SILVA RIBEIRO - AC - Deputado Estadual;

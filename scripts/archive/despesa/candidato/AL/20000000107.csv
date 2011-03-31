@@ -1,4 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.515/0001-03;30/09/2010;33000083833;R$ 300,00;Estimado;JÚLIO CÉSAR MARTINS DE CERQUEIRA;33331;Deputado Estadual;PMN;AL;
-ELEIÇÃO 2010 FERNANDO AFFONSO COLLOR DE MELLO;12.168.659/0001-30;29/09/2010;33000083832;R$ 3.906,25;Estimado;JÚLIO CÉSAR MARTINS DE CERQUEIRA;33331;Deputado Estadual;PMN;AL;
-JÚLIO CÉSAR MARTINS DE CERQUEIRA;540.189.944-00;28/09/2010;33000083831;R$ 1.800,00;Depósito em espécie;JÚLIO CÉSAR MARTINS DE CERQUEIRA;33331;Deputado Estadual;PMN;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.515/0001-03;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMN -  / 33331 - JÚLIO CÉSAR MARTINS DE CERQUEIRA - AL - Deputado Estadual;
+ELEIÇÃO 2010 FERNANDO AFFONSO COLLOR DE MELLO;12.168.659/0001-30;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.906,25;Estimado;14 -  - PTB -  - Governador / 33331 - JÚLIO CÉSAR MARTINS DE CERQUEIRA - AL - Deputado Estadual;
+GAZETA DE ALAGOAS LTDA;12.503.801/0001-59;01/09/2010;       Publicidade por jornais e revistas;R$ 540,00;Cheque; -  -  / 33331 - JÚLIO CÉSAR MARTINS DE CERQUEIRA - AL - Deputado Estadual;
+GAZETA DE ALAGOAS LTDA;12.503.801/0001-59;28/09/2010;       Publicidade por jornais e revistas;R$ 1.215,00;Cheque; -  -  / 33331 - JÚLIO CÉSAR MARTINS DE CERQUEIRA - AL - Deputado Estadual;
+;;28/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 33331 - JÚLIO CÉSAR MARTINS DE CERQUEIRA - AL - Deputado Estadual;
+;;28/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 33331 - JÚLIO CÉSAR MARTINS DE CERQUEIRA - AL - Deputado Estadual;

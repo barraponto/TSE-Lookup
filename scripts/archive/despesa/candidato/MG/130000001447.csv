@@ -1,5 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.213/0001-39;10/09/2010;40002205201;R$ 1.900,00;Cheque;NATANIAS BERTOLINI BUENO;4007;Deputado Federal;PSB;MG;
-Comitê Financeiro Único;12.205.213/0001-39;30/09/2010;40002205204;R$ 27,95;Estimado;NATANIAS BERTOLINI BUENO;4007;Deputado Federal;PSB;MG;
-Comitê Financeiro Único;12.205.213/0001-39;03/09/2010;40002205203;R$ 1.197,84;Estimado;NATANIAS BERTOLINI BUENO;4007;Deputado Federal;PSB;MG;
-Comitê Financeiro Único;12.205.213/0001-39;30/08/2010;40002205202;R$ 508,00;Estimado;NATANIAS BERTOLINI BUENO;4007;Deputado Federal;PSB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.213/0001-39;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 27,95;Estimado;Comitê Financeiro Único - PSB -  / 4007 - NATANIAS BERTOLINI BUENO - MG - Deputado Federal;
+Comitê Financeiro Único;12.205.213/0001-39;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.197,84;Estimado;Comitê Financeiro Único - PSB -  / 4007 - NATANIAS BERTOLINI BUENO - MG - Deputado Federal;
+Comitê Financeiro Único;12.205.213/0001-39;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 508,00;Estimado;Comitê Financeiro Único - PSB -  / 4007 - NATANIAS BERTOLINI BUENO - MG - Deputado Federal;
+PRIMUS EDITORA GRÁFICA LTDA.;64.437.759/0001-19;24/09/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 4007 - NATANIAS BERTOLINI BUENO - MG - Deputado Federal;
+PRIMUS EDITORA GRÁFICA LTDA.;64.437.759/0001-19;23/09/2010;       Publicidade por materiais impressos;R$ 1.125,00;Cheque; -  -  / 4007 - NATANIAS BERTOLINI BUENO - MG - Deputado Federal;
+RUI GERLDO SALGADO;420.033.936-68;30/09/2010;       Despesas com pessoal;R$ 275,00;Cheque; -  -  / 4007 - NATANIAS BERTOLINI BUENO - MG - Deputado Federal;

@@ -1,5 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;02/09/2010;17000066152;R$ 150,00;Estimado;JOSÉ ROBERTO VIDAL;1726;Deputado Federal;PSL;RJ;
-JORGE PICCIANI;12.176.626/0001-32;02/09/2010;17000066153;R$ 17,00;Estimado;JOSÉ ROBERTO VIDAL;1726;Deputado Federal;PSL;RJ;
-JOSE LUIZ VIEIRA DA SILVA;718.093.507-78;03/08/2010;17000066151;R$ 5.000,00;Depósito em espécie;JOSÉ ROBERTO VIDAL;1726;Deputado Federal;PSL;RJ;
-JOSE LUIZ VIEIRA DA SILVA;718.093.507-78;21/09/2010;17000066154;R$ 5.000,00;Depósito em espécie;JOSÉ ROBERTO VIDAL;1726;Deputado Federal;PSL;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 1726 - JOSÉ ROBERTO VIDAL - RJ - Deputado Federal;
+JJ PESTANA GRAFICA EDITORA E COM DE MAQUINAS LTDA;06.951.672/0001-69;09/08/2010;       Publicidade por materiais impressos;R$ 5.365,62;Cheque; -  -  / 1726 - JOSÉ ROBERTO VIDAL - RJ - Deputado Federal;
+JJ PESTANA GRAFICA EDITORA E COM DE MAQUINAS LTDA;06.951.672/0001-69;30/08/2010;       Publicidade por materiais impressos;R$ 5.700,00;Cheque; -  -  / 1726 - JOSÉ ROBERTO VIDAL - RJ - Deputado Federal;
+JJ PESTANA GRAFICA EDITORA E COM DE MAQUINAS LTDA;06.951.672/0001-69;17/08/2010;       Publicidade por materiais impressos;R$ 2.625,00;Cheque; -  -  / 1726 - JOSÉ ROBERTO VIDAL - RJ - Deputado Federal;
+JORGE PICCIANI;12.176.626/0001-32;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 1726 - JOSÉ ROBERTO VIDAL - RJ - Deputado Federal;
+JOSE MARIA DA CRUZ;278.410.497-49;04/08/2010;       Locação/cessão de bens imóveis;R$ 1.664,82;Cheque; -  -  / 1726 - JOSÉ ROBERTO VIDAL - RJ - Deputado Federal;
+MAVILLA GRAFICA & EDITORA LTDA.;05.598.377/0001-08;15/09/2010;       Publicidade por materiais impressos;R$ 10.400,00;Cheque; -  -  / 1726 - JOSÉ ROBERTO VIDAL - RJ - Deputado Federal;
+;;30/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 1726 - JOSÉ ROBERTO VIDAL - RJ - Deputado Federal;
+;;29/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 1726 - JOSÉ ROBERTO VIDAL - RJ - Deputado Federal;
+;;10/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 1726 - JOSÉ ROBERTO VIDAL - RJ - Deputado Federal;
+;;17/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 1726 - JOSÉ ROBERTO VIDAL - RJ - Deputado Federal;

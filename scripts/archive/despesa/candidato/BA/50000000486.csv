@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.191.570/0001-95;30/09/2010;70000136103;R$ 381,60;Estimado;ANTONIO SILVA LIMA;70147;Deputado Estadual;PT do B;BA;
-Diretório Estadual/Distrital;12.191.570/0001-95;16/07/2010;70000136102;R$ 192,00;Estimado;ANTONIO SILVA LIMA;70147;Deputado Estadual;PT do B;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.191.570/0001-95;16/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 192,00;Estimado;Direção Estadual/Distrital - PMDB -  / 70147 - ANTONIO SILVA LIMA - BA - Deputado Estadual;
+Diretório Estadual/Distrital;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 381,60;Estimado;Direção Estadual/Distrital - PMDB -  / 70147 - ANTONIO SILVA LIMA - BA - Deputado Estadual;

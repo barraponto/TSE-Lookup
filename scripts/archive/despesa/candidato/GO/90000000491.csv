@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CLAUDIO LAURENÇO DA SILVA;253.388.031-00;06/09/2010;22000041306;R$ 425,00;Transferência eletrônica;CLAUDIO LAURENÇO DA SILVA;22444;Deputado Estadual;PR;GO;
-CLAUDIO LAURENÇO DA SILVA;253.388.031-00;29/09/2010;22000041307;R$ 120,00;Transferência eletrônica;CLAUDIO LAURENÇO DA SILVA;22444;Deputado Estadual;PR;GO;
-SANDRO MABEL;12.167.331/0001-08;17/09/2010;22000041302;R$ 19,90;Estimado;CLAUDIO LAURENÇO DA SILVA;22444;Deputado Estadual;PR;GO;
-SANDRO MABEL;12.167.331/0001-08;02/08/2010;22000041301;R$ 946,00;Estimado;CLAUDIO LAURENÇO DA SILVA;22444;Deputado Estadual;PR;GO;
-VANDERLAN;12.198.568/0001-48;11/08/2010;22000041303;R$ 1.000,00;Estimado;CLAUDIO LAURENÇO DA SILVA;22444;Deputado Estadual;PR;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DIGITAL CÓPIAS LTDA;07.719.299/0001-88;06/09/2010;       Publicidade por materiais impressos;R$ 425,00;Cheque; -  -  / 22444 - CLAUDIO LAURENÇO DA SILVA - GO - Deputado Estadual;
+RICKTAYLOR DANTAS MACHADO;05.349.065/0001-60;28/09/2010;       Publicidade por materiais impressos;R$ 120,00;Cheque; -  -  / 22444 - CLAUDIO LAURENÇO DA SILVA - GO - Deputado Estadual;
+SANDRO MABEL;12.167.331/0001-08;17/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 19,90;Estimado;2233 -  - PR -  - Deputado Federal / 22444 - CLAUDIO LAURENÇO DA SILVA - GO - Deputado Estadual;
+SANDRO MABEL;12.167.331/0001-08;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 946,00;Estimado;2233 -  - PR -  - Deputado Federal / 22444 - CLAUDIO LAURENÇO DA SILVA - GO - Deputado Estadual;
+VANDERLAN;12.198.568/0001-48;11/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;22 -  - PR -  - Governador / 22444 - CLAUDIO LAURENÇO DA SILVA - GO - Deputado Estadual;

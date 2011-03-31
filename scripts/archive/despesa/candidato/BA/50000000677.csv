@@ -1,3 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO ALBERTO MACHADO MAGALHÃES;130.828.255-91;03/08/2010;14000133602;R$ 4.000,00;Depósito em espécie;ANTONIO ALBERTO MACHADO MAGALHAES;14333;Deputado Estadual;PTB;BA;
-Comitê Financeiro Único;12.191.570/0001-95;01/08/2010;14000133601;R$ 192,00;Estimado;ANTONIO ALBERTO MACHADO MAGALHAES;14333;Deputado Estadual;PTB;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BAUER COMERCIO E SERVIÇOS LTDA EPP;05.355.411/0001-13;12/08/2010;       Combustíveis e lubrificantes;R$ 104,99;Cheque; -  -  / 14333 - ANTONIO ALBERTO MACHADO MAGALHAES - BA - Deputado Estadual;
+Comitê Financeiro Único;12.191.570/0001-95;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 192,00;Estimado;Comitê Financeiro Único - PMDB -  / 14333 - ANTONIO ALBERTO MACHADO MAGALHAES - BA - Deputado Estadual;
+JORGE NEVES DA SILVA;248.017.555-34;11/08/2010;       Cessão ou Locação de Veículos;R$ 2.100,00;Cheque; -  -  / 14333 - ANTONIO ALBERTO MACHADO MAGALHAES - BA - Deputado Estadual;
+JORGE NEVES DA SILVA;248.017.555-34;11/09/2010;       Cessão ou Locação de Veículos;R$ 351,00;Cheque; -  -  / 14333 - ANTONIO ALBERTO MACHADO MAGALHAES - BA - Deputado Estadual;
+SUPERGRAF GRAFICA COMERCIO E SERVIÇOS LTDA;06.006.137/0001-30;04/08/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 14333 - ANTONIO ALBERTO MACHADO MAGALHAES - BA - Deputado Estadual;
+TAPEROÁ DERIVADOS DE PETRÓLEO LIMITADA;07.910.360/0001-70;12/08/2010;       Combustíveis e lubrificantes;R$ 110,00;Cheque; -  -  / 14333 - ANTONIO ALBERTO MACHADO MAGALHAES - BA - Deputado Estadual;
+TAPEROÁ DERIVADOS DE PETRÓLEO LIMITADA;07.910.360/0001-70;12/08/2010;       Combustíveis e lubrificantes;R$ 100,00;Cheque; -  -  / 14333 - ANTONIO ALBERTO MACHADO MAGALHAES - BA - Deputado Estadual;
+TAPEROÁ DERIVADOS DE PETRÓLEO LIMITADA;07.910.360/0001-70;05/09/2010;       Combustíveis e lubrificantes;R$ 95,01;Cheque; -  -  / 14333 - ANTONIO ALBERTO MACHADO MAGALHAES - BA - Deputado Estadual;
+TAPEROÁ DERIVADOS DE PETRÓLEO LIMITADA;07.910.360/0001-70;17/09/2010;       Combustíveis e lubrificantes;R$ 130,00;Cheque; -  -  / 14333 - ANTONIO ALBERTO MACHADO MAGALHAES - BA - Deputado Estadual;
+;;01/10/2010;       Impostos, contribuições e taxas;R$ 9,00;Débito em conta; -  -  / 14333 - ANTONIO ALBERTO MACHADO MAGALHAES - BA - Deputado Estadual;

@@ -1,6 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALFRDO BENJAMIN DUARTE DA SILVA;913.093.609-87;26/08/2010;20000634101;R$ 500,00;Cheque;OSVALDO BUSKEI;2045;Deputado Federal;PSC;PR;
-OSVALDO BUSKEI;028.318.729-87;20/09/2010;20000634105;R$ 100,00;Depósito em espécie;OSVALDO BUSKEI;2045;Deputado Federal;PSC;PR;
-OSVALDO BUSKEI;028.318.729-87;13/09/2010;20000634104;R$ 200,00;Depósito em espécie;OSVALDO BUSKEI;2045;Deputado Federal;PSC;PR;
-OSVALDO BUSKEI;028.318.729-87;30/08/2010;20000634102;R$ 70,00;Transferência eletrônica;OSVALDO BUSKEI;2045;Deputado Federal;PSC;PR;
-OSVALDO BUSKEI;028.318.729-87;30/08/2010;20000634103;R$ 30,00;Depósito em espécie;OSVALDO BUSKEI;2045;Deputado Federal;PSC;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EMPRESA JORNALISTICA FOLHA DE LONDRINA;77.338.424/0001-95;31/08/2010;       Publicidade por materiais impressos;R$ 550,00;Cheque; -  -  / 2045 - OSVALDO BUSKEI - PR - Deputado Federal;
+RER ARTES GRAFICAS LTDA;03.511.787/0001-44;17/09/2010;       Publicidade por materiais impressos;R$ 100,00;Cheque; -  -  / 2045 - OSVALDO BUSKEI - PR - Deputado Federal;
+RER ARTES GRAFICAS LTDA;03.511.787/0001-44;01/09/2010;       Publicidade por materiais impressos;R$ 50,00;Cheque; -  -  / 2045 - OSVALDO BUSKEI - PR - Deputado Federal;
+3D PRINT LTDA;11.868.547/0001-20;26/09/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 2045 - OSVALDO BUSKEI - PR - Deputado Federal;

@@ -1,4 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Nacional;32.206.989/0001-80;28/09/2010;36000054803;R$ 3.000,00;Cheque;PEDRO PAULO VIEIRA;36009;Deputado Estadual;PTC;RJ;
-ELEICAO 2010 DANIEL SAMPAIO TOURINHO DEP. FEDERAL;12.172.794/0001-50;06/08/2010;36000054801;R$ 80,00;Estimado;PEDRO PAULO VIEIRA;36009;Deputado Estadual;PTC;RJ;
-ELEIÇAO 2010 DANIEL SAMPAIO TOURINHO DEP. FEDERAL;12.172.794/0001-50;22/08/2010;36000054802;R$ 700,00;Estimado;PEDRO PAULO VIEIRA;36009;Deputado Estadual;PTC;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEICAO 2010 DANIEL SAMPAIO TOURINHO DEP. FEDERAL;12.172.794/0001-50;06/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 80,00;Estimado;3636 -  - PTC -  - Deputado Federal / 36009 - PEDRO PAULO VIEIRA - RJ - Deputado Estadual;
+ELEIÇAO 2010 DANIEL SAMPAIO TOURINHO DEP. FEDERAL;12.172.794/0001-50;22/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 700,00;Estimado;3636 -  - PTC -  - Deputado Federal / 36009 - PEDRO PAULO VIEIRA - RJ - Deputado Estadual;
+FLAVIA CRISTINA DE ABREU;089.864.337-61;01/10/2010;       Serviços prestados por terceiros;R$ 800,00;Cheque; -  -  / 36009 - PEDRO PAULO VIEIRA - RJ - Deputado Estadual;
+LIVIA MARIA SILVA;074.588.777-58;30/09/2010;       Serviços prestados por terceiros;R$ 150,00;Cheque; -  -  / 36009 - PEDRO PAULO VIEIRA - RJ - Deputado Estadual;
+POSTO DE SERVIÇO COSTA MELLO LTDA;30.521.199/0001-64;01/10/2010;       Combustíveis e lubrificantes;R$ 600,00;Cheque; -  -  / 36009 - PEDRO PAULO VIEIRA - RJ - Deputado Estadual;
+SERGIO DA SILVA LIMA;023.377.057-73;01/10/2010;       Locação/cessão de bens móveis;R$ 1.296,00;Cheque; -  -  / 36009 - PEDRO PAULO VIEIRA - RJ - Deputado Estadual;
+X-SOUND SONORIZAÇÃO LTDA-ME;10.677.403/0001-23;01/10/2010;       Publicidade por carros de som;R$ 154,00;Cheque; -  -  / 36009 - PEDRO PAULO VIEIRA - RJ - Deputado Estadual;

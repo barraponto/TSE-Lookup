@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.372.871/0001-15;29/07/2010;12001561254;R$ 119,84;Estimado;GERSON APPENZELLER;12129;Deputado Estadual;PDT;MG;
-GERSON APPENZELLER;085.550.011-53;13/09/2010;12001561251;R$ 300,00;Depósito em espécie;GERSON APPENZELLER;12129;Deputado Estadual;PDT;MG;
-GERSON APPENZELLER;085.550.011-53;15/09/2010;12001561252;R$ 2.000,00;Depósito em espécie;GERSON APPENZELLER;12129;Deputado Estadual;PDT;MG;
-SÉRGIO MIRANDA;12.177.928/0001-25;16/09/2010;12001561253;R$ 443,16;Estimado;GERSON APPENZELLER;12129;Deputado Estadual;PDT;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.372.871/0001-15;29/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 119,84;Estimado;Comitê Financeiro Único - PDT -  / 12129 - GERSON APPENZELLER - MG - Deputado Estadual;
+EDITORA E GRÁFICA SÃO LUIZ LTDA;26.393.389/0001-76;10/09/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 12129 - GERSON APPENZELLER - MG - Deputado Estadual;
+MIRANDY FERNANDES;229.511.136-68;15/09/2010;       Serviços prestados por terceiros;R$ 2.000,00;Cheque; -  -  / 12129 - GERSON APPENZELLER - MG - Deputado Estadual;
+SÉRGIO MIRANDA;12.177.928/0001-25;16/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 443,16;Estimado;1212 -  - PDT -  - Deputado Federal / 12129 - GERSON APPENZELLER - MG - Deputado Estadual;

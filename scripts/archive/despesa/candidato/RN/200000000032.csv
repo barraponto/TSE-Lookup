@@ -1,3 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-EDNARDO BERNARDINO RODRIGUES LOPES;010.548.604-32;31/08/2010;50000445501;R$ 100,00;Depósito em espécie;EDNARDO BERNARDINO RODRIGUES LOPES;5007;Deputado Federal;PSOL;RN;
-JOÃO BATISTA TERTO DE HOLANDA;143.592.271-91;15/09/2010;50000445502;R$ 100,00;Transferência eletrônica;EDNARDO BERNARDINO RODRIGUES LOPES;5007;Deputado Federal;PSOL;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+5007 - EDNARDO BERNARDINO RODRIGUES LOPES - DEPUTADO FEDERAL;12.203.791/0001-36;17/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 200,00;Cheque;Comitê Financeiro Único - PSOL - RN / 5007 - EDNARDO BERNARDINO RODRIGUES LOPES - RN - Deputado Federal;

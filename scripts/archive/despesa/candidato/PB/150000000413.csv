@@ -1,4 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-GERALDO ARAÚJO DE MEDEIROS;10.271.285/0001-59;23/09/2010;28000659423;R$ 650,00;Estimado;ALBERICO FRANCISCO DO MONTE;28242;Deputado Estadual;PRTB;PB;
-JOSÉ TARGINO MARANHÃO;12.189.345/0001-14;23/09/2010;28000659422;R$ 523,56;Estimado;ALBERICO FRANCISCO DO MONTE;28242;Deputado Estadual;PRTB;PB;
-MARCOS FELIX CAVALCANTE;798.116.554-72;22/09/2010;28000659421;R$ 150,00;Depósito em espécie;ALBERICO FRANCISCO DO MONTE;28242;Deputado Estadual;PRTB;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELONITA MAGALHAES AGOSTINO;060.814.294-82;27/09/2010;       Serviços prestados por terceiros;R$ 70,00;Cheque; -  -  / 28242 - ALBERICO FRANCISCO DO MONTE - PB - Deputado Estadual;
+GERALDO ARAÚJO DE MEDEIROS;10.271.285/0001-59;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 650,00;Estimado; -  -  / 28242 - ALBERICO FRANCISCO DO MONTE - PB - Deputado Estadual;
+JOSÉ TARGINO MARANHÃO;12.189.345/0001-14;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 523,56;Estimado;15 -  - PMDB -  - Governador / 28242 - ALBERICO FRANCISCO DO MONTE - PB - Deputado Estadual;
+MARGARIDA OLIVEIRA MOURA CARDOSO;577.917.914-04;27/09/2010;       Serviços prestados por terceiros;R$ 70,00;Cheque; -  -  / 28242 - ALBERICO FRANCISCO DO MONTE - PB - Deputado Estadual;
+;;21/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 28242 - ALBERICO FRANCISCO DO MONTE - PB - Deputado Estadual;

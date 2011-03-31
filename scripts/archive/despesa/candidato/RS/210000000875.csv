@@ -1,5 +1,13 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-AFONSO ANTUNES DA MOTTA;12.171.201/0001-30;09/08/2010;12001076226;R$ 592,75;Estimado;OSMAR SANTOS DE LIMA;12201;Deputado Estadual;PDT;RS;
-AFONSO ANTUNES DA MOTTA;12.171.201/0001-30;09/09/2010;12001076228;R$ 175,00;Estimado;OSMAR SANTOS DE LIMA;12201;Deputado Estadual;PDT;RS;
-CEREALISTA OLIVEIRA;90.180.621/0001-97;14/09/2010;12001076229;R$ 500,00;Depósito em espécie;OSMAR SANTOS DE LIMA;12201;Deputado Estadual;PDT;RS;
-Comitê Financeiro Único;12.205.178/0001-58;19/08/2010;12001076227;R$ 2.000,00;Transferência eletrônica;OSMAR SANTOS DE LIMA;12201;Deputado Estadual;PDT;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AFONSO ANTUNES DA MOTTA;12.171.201/0001-30;09/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 592,75;Estimado;1200 -  - PDT -  - Deputado Federal / 12201 - OSMAR SANTOS DE LIMA - RS - Deputado Estadual;
+AFONSO ANTUNES DA MOTTA;12.171.201/0001-30;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 175,00;Estimado;1200 -  - PDT -  - Deputado Federal / 12201 - OSMAR SANTOS DE LIMA - RS - Deputado Estadual;
+ARTE XAPECO;94.269.867/0001-90;20/08/2010;       Publicidade por materiais impressos;R$ 60,00;Cheque; -  -  / 12201 - OSMAR SANTOS DE LIMA - RS - Deputado Estadual;
+ARTE XAPECO;94.269.867/0001-90;24/08/2010;       Publicidade por materiais impressos;R$ 220,00;Cheque; -  -  / 12201 - OSMAR SANTOS DE LIMA - RS - Deputado Estadual;
+ARTE XAPECO;94.269.867/0001-90;20/08/2010;       Publicidade por materiais impressos;R$ 425,00;Cheque; -  -  / 12201 - OSMAR SANTOS DE LIMA - RS - Deputado Estadual;
+BRASIL TELECON SA;76.535.764/0002-24;06/10/2010;       Telefone;R$ 237,13;Cheque; -  -  / 12201 - OSMAR SANTOS DE LIMA - RS - Deputado Estadual;
+BRASIL TELECON SA;76.535.764/0002-24;04/08/2010;       Telefone;R$ 262,87;Cheque; -  -  / 12201 - OSMAR SANTOS DE LIMA - RS - Deputado Estadual;
+BRASIL TELECON SA;76.535.764/0002-24;04/08/2010;       Telefone;R$ 105,00;Cheque; -  -  / 12201 - OSMAR SANTOS DE LIMA - RS - Deputado Estadual;
+CIA DOS CARTUCHOS;04.745.363/0001-07;09/07/2010;       Materiais de expediente;R$ 20,00;Cheque; -  -  / 12201 - OSMAR SANTOS DE LIMA - RS - Deputado Estadual;
+CIA DOS CARTUCHOS;04.745.363/0001-07;24/08/2010;       Materiais de expediente;R$ 20,00;Cheque; -  -  / 12201 - OSMAR SANTOS DE LIMA - RS - Deputado Estadual;
+GRAFICA MENDES LTDA;01.805.023/0001-36;16/08/2010;       Publicidade por materiais impressos;R$ 150,00;Cheque; -  -  / 12201 - OSMAR SANTOS DE LIMA - RS - Deputado Estadual;
+IVONE ELOI GLITZENHIRN;184.683.810-04;20/08/2010;       Locação/cessão de bens imóveis;R$ 1.000,00;Cheque; -  -  / 12201 - OSMAR SANTOS DE LIMA - RS - Deputado Estadual;

@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;33.642.422/0001-10;16/09/2010;28000740501;R$ 10.000,00;Cheque;FRANQUIEMERSON FEITOSA DE SOUSA;28700;Deputado Estadual;PRTB;GO;
-FRANQUIEMERSON FEITOSA DE SOUSA;641.206.601-25;29/10/2010;28000740502;R$ 0,70;Depósito em espécie;FRANQUIEMERSON FEITOSA DE SOUSA;28700;Deputado Estadual;PRTB;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+PUBLICIDADE MONTANHER - LEONARDO AUGUSTO MONTANHER;12.420.029/0001-01;27/09/2010;       Publicidade por materiais impressos;R$ 92,00;Cheque; -  -  / 28700 - FRANQUIEMERSON FEITOSA DE SOUSA - GO - Deputado Estadual;
+PUBLICIDADE MONTANHER - LEONARDO AUGUSTO MONTANHER;12.420.029/0001-01;17/09/2010;       Publicidade por materiais impressos;R$ 4.000,00;Cheque; -  -  / 28700 - FRANQUIEMERSON FEITOSA DE SOUSA - GO - Deputado Estadual;
+PUBLICIDADE MONTANHER - LEONARDO AUGUSTO MONTANHER;12.420.029/0001-01;20/09/2010;       Publicidade por materiais impressos;R$ 5.900,00;Cheque; -  -  / 28700 - FRANQUIEMERSON FEITOSA DE SOUSA - GO - Deputado Estadual;

@@ -1,7 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.159/0001-39;18/08/2010;14000122501;R$ 761,54;Estimado;FLAVIO SOARES DIAS;14540;Deputado Estadual;PTB;RS;
-Comitê Financeiro Único;12.200.159/0001-39;23/08/2010;14000122502;R$ 292,95;Estimado;FLAVIO SOARES DIAS;14540;Deputado Estadual;PTB;RS;
-Comitê Financeiro Único;12.200.159/0001-39;30/09/2010;14000122506;R$ 1.250,00;Cheque;FLAVIO SOARES DIAS;14540;Deputado Estadual;PTB;RS;
-Comitê Financeiro Único;12.200.159/0001-39;17/08/2010;14000122504;R$ 270,00;Estimado;FLAVIO SOARES DIAS;14540;Deputado Estadual;PTB;RS;
-Comitê Financeiro Único;12.200.159/0001-39;16/09/2010;14000122505;R$ 72,50;Estimado;FLAVIO SOARES DIAS;14540;Deputado Estadual;PTB;RS;
-Comitê Financeiro Único;12.200.159/0001-39;02/08/2010;14000122503;R$ 1.000,00;Estimado;FLAVIO SOARES DIAS;14540;Deputado Estadual;PTB;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANDEBRAZ MEGA POSTOS LTDA;04.596.456/0004-60;07/10/2010;       Combustíveis e lubrificantes;R$ 102,57;Cheque; -  -  / 14540 - FLAVIO SOARES DIAS - RS - Deputado Estadual;
+ANDEBRAZ MEGA POSTOS LTDA;04.596.456/0004-60;06/10/2010;       Combustíveis e lubrificantes;R$ 127,00;Cheque; -  -  / 14540 - FLAVIO SOARES DIAS - RS - Deputado Estadual;
+Comitê Financeiro Único;12.200.159/0001-39;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 761,54;Estimado;Comitê Financeiro Único - PTB -  / 14540 - FLAVIO SOARES DIAS - RS - Deputado Estadual;
+Comitê Financeiro Único;12.200.159/0001-39;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;Comitê Financeiro Único - PTB -  / 14540 - FLAVIO SOARES DIAS - RS - Deputado Estadual;
+Comitê Financeiro Único;12.200.159/0001-39;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 292,95;Estimado;Comitê Financeiro Único - PTB -  / 14540 - FLAVIO SOARES DIAS - RS - Deputado Estadual;
+Comitê Financeiro Único;12.200.159/0001-39;16/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 72,50;Estimado;Comitê Financeiro Único - PTB -  / 14540 - FLAVIO SOARES DIAS - RS - Deputado Estadual;
+Comitê Financeiro Único;12.200.159/0001-39;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 270,00;Estimado;Comitê Financeiro Único - PTB -  / 14540 - FLAVIO SOARES DIAS - RS - Deputado Estadual;
+JESICA DA SILVA GUBERT;023.341.250-67;02/10/2010;       Despesas com pessoal;R$ 650,00;Cheque; -  -  / 14540 - FLAVIO SOARES DIAS - RS - Deputado Estadual;
+SANTA LUCIA COM E PAVIMENTACOES LTDA;87.305.868/0014-00;01/10/2010;       Combustíveis e lubrificantes;R$ 76,00;Cheque; -  -  / 14540 - FLAVIO SOARES DIAS - RS - Deputado Estadual;
+ZANDONAI AUTO SERVICE LTDA;09.088.408/0001-31;06/10/2010;       Locação/cessão de bens móveis;R$ 273,00;Cheque; -  -  / 14540 - FLAVIO SOARES DIAS - RS - Deputado Estadual;

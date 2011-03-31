@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Nacional para Presidente da República;12.229.920/0001-65;02/10/2010;29000000044;R$ 80,00;Estimado;RICARDO DE SOUSA MACHADO;29;Governador;PCO;DF;
-DIEGO ABRAHÃO;288.931.898-28;02/09/2010;29000000042;R$ 150,00;Estimado;RICARDO DE SOUSA MACHADO;29;Governador;PCO;DF;
-Diretório Nacional;01.307.059/0001-90;02/09/2010;29000000043;R$ 130,00;Estimado;RICARDO DE SOUSA MACHADO;29;Governador;PCO;DF;
-JULIANO ALESSANDER LOPES BARBOSA;716.950.791-91;02/09/2010;29000000041;R$ 375,00;Estimado;RICARDO DE SOUSA MACHADO;29;Governador;PCO;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Nacional para Presidente da República;12.229.920/0001-65;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 80,00;Estimado;Comitê Financeiro Nacional para Presidente da República - PCO -  / 29 - RICARDO DE SOUSA MACHADO - DF - Governador;
+DIEGO ABRAHÃO;288.931.898-28;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado; -  -  / 29 - RICARDO DE SOUSA MACHADO - DF - Governador;
+Diretório Nacional;01.307.059/0001-90;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 130,00;Estimado;Direção Nacional - PCO -  / 29 - RICARDO DE SOUSA MACHADO - DF - Governador;
+JULIANO ALESSANDER LOPES BARBOSA;716.950.791-91;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 375,00;Estimado; -  -  / 29 - RICARDO DE SOUSA MACHADO - DF - Governador;

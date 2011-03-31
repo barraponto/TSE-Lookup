@@ -1,5 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADEMIR CORRÊA PEDROSO;694.545.079-15;24/09/2010;28000769188;R$ 100,00;Depósito em espécie;ADEMIR CORREA PEDROSO;280;Senador;PRTB;PR;
-Comitê Financeiro Único;12.235.315/0001-05;02/10/2010;28000769180;R$ 1.923,23;Estimado;ADEMIR CORREA PEDROSO;280;Senador;PRTB;PR;
-ROMUALDO CAMARGO;435.545.719-20;01/10/2010;28000769107;R$ 25,00;Estimado;ADEMIR CORREA PEDROSO;280;Senador;PRTB;PR;
-SGT JENSEN;12.235.292/0001-20;04/09/2010;28000769108;R$ 480,00;Estimado;ADEMIR CORREA PEDROSO;280;Senador;PRTB;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO SANTA RITA LTDA;80.253.032/0001-38;02/10/2010;       Combustíveis e lubrificantes;R$ 26,47;Não informado; -  -  / 280 - ADEMIR CORREA PEDROSO - PR - Senador;
+Comitê Financeiro Único;12.235.315/0001-05;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.923,23;Estimado;Comitê Financeiro Único - PRTB -  / 280 - ADEMIR CORREA PEDROSO - PR - Senador;
+DIGIRATI INFORMÁTICA SERVIÇOS E TELECOMUNICAÇÕES LTDA- HOSTNET;04.371.843/0001-55;24/09/2010;       Criação e inclusão de páginas na internet;R$ 33,53;Não informado; -  -  / 280 - ADEMIR CORREA PEDROSO - PR - Senador;
+FANCHIN, FANCHIN & CIA LTDA;79.172.375/0001-99;02/10/2010;       Combustíveis e lubrificantes;R$ 40,00;Não informado; -  -  / 280 - ADEMIR CORREA PEDROSO - PR - Senador;
+ROMUALDO CAMARGO;435.545.719-20;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 25,00;Estimado; -  -  / 280 - ADEMIR CORREA PEDROSO - PR - Senador;
+SGT JENSEN;12.235.292/0001-20;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 480,00;Estimado;287 -  - PRTB -  - Senador / 280 - ADEMIR CORREA PEDROSO - PR - Senador;

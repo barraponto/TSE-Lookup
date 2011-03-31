@@ -1,9 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.217.587/0001-74;05/09/2010;12001011711;R$ 1.780,00;Estimado;LUCILDO LEITE DOS SANTOS;12123;Deputado Estadual;PDT;CE;
-JURACI DE ALCANTARA PINHO;313.034.713-53;21/09/2010;12001011712;R$ 450,00;Depósito em espécie;LUCILDO LEITE DOS SANTOS;12123;Deputado Estadual;PDT;CE;
-JURACI DE ALCANTARA PINHO;313.034.713-53;28/09/2010;12001011713;R$ 400,00;Depósito em espécie;LUCILDO LEITE DOS SANTOS;12123;Deputado Estadual;PDT;CE;
-JURACI DE ALCANTARA PINHO;313.034.713-53;20/10/2010;12001011715;R$ 1.400,00;Depósito em espécie;LUCILDO LEITE DOS SANTOS;12123;Deputado Estadual;PDT;CE;
-JURACI DE ALCANTARA PINHO;313.034.713-53;30/08/2010;12001011716;R$ 300,00;Depósito em espécie;LUCILDO LEITE DOS SANTOS;12123;Deputado Estadual;PDT;CE;
-JURACI DE ALCANTARA PINHO;313.034.713-53;15/10/2010;12001011714;R$ 400,00;Depósito em espécie;LUCILDO LEITE DOS SANTOS;12123;Deputado Estadual;PDT;CE;
-LUCILDO LEITE DOS SANTOS;031.114.313-04;30/09/2010;;R$ 750,00;Outros títulos de crédito;LUCILDO LEITE DOS SANTOS;12123;Deputado Estadual;PDT;CE;
-LUCILDO LEITE DOS SANTOS;031.114.313-04;07/12/2010;;R$ 5,50;Depósito em espécie;LUCILDO LEITE DOS SANTOS;12123;Deputado Estadual;PDT;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO HELDER CANSANÇÃO BRASILEIRO ME;00.651.164/0001-89;20/09/2010;       Publicidade por materiais impressos;R$ 720,00;Cheque; -  -  / 12123 - LUCILDO LEITE DOS SANTOS - CE - Deputado Estadual;
+ANTONIO HELDER CANSANÇÃO BRASILEIRO ME;00.651.164/0001-89;30/09/2010;       Publicidade por materiais impressos;R$ 750,00;Transferência eletrônica; -  -  / 12123 - LUCILDO LEITE DOS SANTOS - CE - Deputado Estadual;
+Comitê Financeiro Único;12.217.587/0001-74;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.780,00;Estimado;Comitê Financeiro Único - PDT -  / 12123 - LUCILDO LEITE DOS SANTOS - CE - Deputado Estadual;
+GABRIEL COELHO LIMA -ME;09.521.937/0001-87;01/10/2010;       Publicidade por materiais impressos;R$ 1.440,00;Cheque; -  -  / 12123 - LUCILDO LEITE DOS SANTOS - CE - Deputado Estadual;
+JOSE FLAVIANO DINIZ BARBOSA -ME;07.635.630/0001-81;25/09/2010;       Publicidade por materiais impressos;R$ 371,00;Cheque; -  -  / 12123 - LUCILDO LEITE DOS SANTOS - CE - Deputado Estadual;
+LUIZ PINHEIRO NETO;349.109.053-91;01/10/2010;       Publicidade por carros de som;R$ 400,00;Cheque; -  -  / 12123 - LUCILDO LEITE DOS SANTOS - CE - Deputado Estadual;
+;;21/09/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 12123 - LUCILDO LEITE DOS SANTOS - CE - Deputado Estadual;
+;;21/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 12123 - LUCILDO LEITE DOS SANTOS - CE - Deputado Estadual;

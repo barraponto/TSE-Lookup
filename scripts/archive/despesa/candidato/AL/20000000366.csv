@@ -1,3 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARNEIROS BEBIDAS E ALIMENTOS LTDA - EPP;04.248.702/0001-40;04/08/2010;28000507711;R$ 4.000,00;Depósito em espécie;CARLOS HENRIQUE FONTAN CAVALCANTI MANSO;28555;Deputado Estadual;PRTB;AL;
-FRANCISCO HENRIQUE DE BARROS MATA MACHADO;505.133.464-49;04/08/2010;28000507712;R$ 800,00;Estimado;CARLOS HENRIQUE FONTAN CAVALCANTI MANSO;28555;Deputado Estadual;PRTB;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+FRANCISCO HENRIQUE DE BARROS MATA MACHADO;505.133.464-49;04/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 800,00;Estimado; -  -  / 28555 - CARLOS HENRIQUE FONTAN CAVALCANTI MANSO - AL - Deputado Estadual;
+FRANCISCO HENRIQUE DE BARROS MATA MACHADO;505.133.464-49;09/09/2010;       Produção de jingles, vinhetas e slogans;R$ 83,60;Cheque; -  -  / 28555 - CARLOS HENRIQUE FONTAN CAVALCANTI MANSO - AL - Deputado Estadual;
+LIDERANÇA COMÉRCIO E DISTRIBUIDORA DE COMBUSTIVEIS LTDA;05.254.310/0001-56;01/09/2010;       Combustíveis e lubrificantes;R$ 900,00;Cheque; -  -  / 28555 - CARLOS HENRIQUE FONTAN CAVALCANTI MANSO - AL - Deputado Estadual;
+R P DE GODOI-GRAFICA-ME;08.760.487/0001-12;06/08/2010;       Publicidade por materiais impressos;R$ 3.016,40;Cheque; -  -  / 28555 - CARLOS HENRIQUE FONTAN CAVALCANTI MANSO - AL - Deputado Estadual;

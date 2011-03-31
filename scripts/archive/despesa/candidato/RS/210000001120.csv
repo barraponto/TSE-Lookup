@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.159/0001-39;16/09/2010;14000125480;R$ 36,25;Estimado;CARLOS EDUARDO MULLER;14144;Deputado Estadual;PTB;RS;
-Comitê Financeiro Único;12.200.159/0001-39;02/08/2010;14000125479;R$ 750,00;Estimado;CARLOS EDUARDO MULLER;14144;Deputado Estadual;PTB;RS;
-Comitê Financeiro Único;12.200.159/0001-39;23/08/2010;14000125476;R$ 292,95;Estimado;CARLOS EDUARDO MULLER;14144;Deputado Estadual;PTB;RS;
-Comitê Financeiro Único;12.200.159/0001-39;18/08/2010;14000125477;R$ 761,54;Estimado;CARLOS EDUARDO MULLER;14144;Deputado Estadual;PTB;RS;
-Comitê Financeiro Único;12.200.159/0001-39;30/07/2010;14000125478;R$ 180,00;Estimado;CARLOS EDUARDO MULLER;14144;Deputado Estadual;PTB;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.159/0001-39;16/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 36,25;Estimado;Comitê Financeiro Único - PTB -  / 14144 - CARLOS EDUARDO MULLER - RS - Deputado Estadual;
+Comitê Financeiro Único;12.200.159/0001-39;30/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 180,00;Estimado;Comitê Financeiro Único - PTB -  / 14144 - CARLOS EDUARDO MULLER - RS - Deputado Estadual;
+Comitê Financeiro Único;12.200.159/0001-39;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 761,54;Estimado;Comitê Financeiro Único - PTB -  / 14144 - CARLOS EDUARDO MULLER - RS - Deputado Estadual;
+Comitê Financeiro Único;12.200.159/0001-39;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 750,00;Estimado;Comitê Financeiro Único - PTB -  / 14144 - CARLOS EDUARDO MULLER - RS - Deputado Estadual;
+Comitê Financeiro Único;12.200.159/0001-39;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 292,95;Estimado;Comitê Financeiro Único - PTB -  / 14144 - CARLOS EDUARDO MULLER - RS - Deputado Estadual;

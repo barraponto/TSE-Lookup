@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JANE SILVEIRA DE MIRANDA;396.954.920-53;30/07/2010;40000922901;R$ 100,00;Depósito em espécie;JANE SILVEIRA DE MIRANDA;4049;Deputado Federal;PSB;RS;
-JANE SILVEIRA DE MIRANDA;396.954.920-53;17/08/2010;40000922903;R$ 20,00;Depósito em espécie;JANE SILVEIRA DE MIRANDA;4049;Deputado Federal;PSB;RS;
-JANE SILVEIRA DE MIRANDA;396.954.920-53;16/08/2010;40000922902;R$ 850,00;Depósito em espécie;JANE SILVEIRA DE MIRANDA;4049;Deputado Federal;PSB;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALEXANDRE DOS SANTOS WOLOSKI;018.425.120-64;29/09/2010;       Serviços prestados por terceiros;R$ 35,00;Cheque; -  -  / 4049 - JANE SILVEIRA DE MIRANDA - RS - Deputado Federal;
+PAPERGRAF UNDUSTRIA GRÁFICA LTDA;04.381.030/0001-46;02/08/2010;       Publicidade por placas, estandartes e faixas;R$ 65,00;Cheque; -  -  / 4049 - JANE SILVEIRA DE MIRANDA - RS - Deputado Federal;
+PAPERGRAF UNDUSTRIA GRÁFICA LTDA;04.381.030/0001-46;16/08/2010;       Publicidade por materiais impressos;R$ 870,00;Cheque; -  -  / 4049 - JANE SILVEIRA DE MIRANDA - RS - Deputado Federal;

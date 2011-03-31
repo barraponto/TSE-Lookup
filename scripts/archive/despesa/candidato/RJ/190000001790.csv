@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-THIAGO PAMPOLHA GONÇALVES;12.198.489/0001-37;22/09/2010;44000030401;R$ 30,00;Estimado;ILCA MATTOS DA SILVA;4404;Deputado Federal;PRP;RJ;
-THIAGO PAMPOLHA GONÇALVES;12.198.489/0001-37;01/10/2010;44000030404;R$ 760,00;Estimado;ILCA MATTOS DA SILVA;4404;Deputado Federal;PRP;RJ;
-THIAGO PAMPOLHA GONÇALVES;12.198.489/0001-37;30/09/2010;44000030403;R$ 75,00;Estimado;ILCA MATTOS DA SILVA;4404;Deputado Federal;PRP;RJ;
-THIAGO PAMPOLHA GONÇALVES;12.198.489/0001-37;30/09/2010;44000030402;R$ 825,00;Estimado;ILCA MATTOS DA SILVA;4404;Deputado Federal;PRP;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+THIAGO PAMPOLHA GONÇALVES;12.198.489/0001-37;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 760,00;Estimado;44500 -  - PRP -  - Deputado Estadual / 4404 - ILCA MATTOS DA SILVA - RJ - Deputado Federal;
+THIAGO PAMPOLHA GONÇALVES;12.198.489/0001-37;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 75,00;Estimado;44500 -  - PRP -  - Deputado Estadual / 4404 - ILCA MATTOS DA SILVA - RJ - Deputado Federal;
+THIAGO PAMPOLHA GONÇALVES;12.198.489/0001-37;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 825,00;Estimado;44500 -  - PRP -  - Deputado Estadual / 4404 - ILCA MATTOS DA SILVA - RJ - Deputado Federal;
+THIAGO PAMPOLHA GONÇALVES;12.198.489/0001-37;22/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 30,00;Estimado;44500 -  - PRP -  - Deputado Estadual / 4404 - ILCA MATTOS DA SILVA - RJ - Deputado Federal;

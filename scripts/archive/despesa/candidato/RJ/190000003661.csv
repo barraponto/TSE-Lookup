@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.154.856/0001-09;04/08/2010;50000392131;R$ 125,43;Estimado;MARCELO DE OLIVEIRA CAMPOS;50550;Deputado Estadual;PSOL;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.154.856/0001-09;04/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 125,43;Estimado;Comitê Financeiro Único - PSOL -  / 50550 - MARCELO DE OLIVEIRA CAMPOS - RJ - Deputado Estadual;

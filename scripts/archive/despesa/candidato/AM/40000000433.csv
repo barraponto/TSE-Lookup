@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;04.160.131/0001-97;20/09/2010;20000030501;R$ 363,00;Cheque;MATEUS ARIVAL FERREIRA BURTON;20678;Deputado Estadual;PSC;AM;
-Diretório Estadual/Distrital;04.160.131/0001-97;13/08/2010;20000030502;R$ 300,00;Estimado;MATEUS ARIVAL FERREIRA BURTON;20678;Deputado Estadual;PSC;AM;
-Diretório Estadual/Distrital;04.160.131/0001-97;30/09/2010;20000030504;R$ 850,00;Estimado;MATEUS ARIVAL FERREIRA BURTON;20678;Deputado Estadual;PSC;AM;
-MARLON MOREIRA BORGES;627.575.042-15;20/09/2010;20000030505;R$ 720,00;Depósito em espécie;MATEUS ARIVAL FERREIRA BURTON;20678;Deputado Estadual;PSC;AM;
-MARLON MOREIRA BORGES;627.575.042-15;24/08/2010;20000030503;R$ 50,00;Depósito em espécie;MATEUS ARIVAL FERREIRA BURTON;20678;Deputado Estadual;PSC;AM;
-MARLON MOREIRA BORGES;627.575.042-15;28/09/2010;20000030506;R$ 450,00;Depósito em espécie;MATEUS ARIVAL FERREIRA BURTON;20678;Deputado Estadual;PSC;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;04.160.131/0001-97;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 850,00;Estimado;Direção Estadual/Distrital - PMDB -  / 20678 - MATEUS ARIVAL FERREIRA BURTON - AM - Deputado Estadual;
+Diretório Estadual/Distrital;04.160.131/0001-97;13/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Direção Estadual/Distrital - PMDB -  / 20678 - MATEUS ARIVAL FERREIRA BURTON - AM - Deputado Estadual;
+GRAFICA RENOVO;63.708.275/0001-02;21/09/2010;       Publicidade por materiais impressos;R$ 315,00;Cheque; -  -  / 20678 - MATEUS ARIVAL FERREIRA BURTON - AM - Deputado Estadual;
+GRAFICA RENOVO;63.708.275/0001-02;24/09/2010;       Publicidade por materiais impressos;R$ 450,00;Cheque; -  -  / 20678 - MATEUS ARIVAL FERREIRA BURTON - AM - Deputado Estadual;
+GRAFISA - GRAFICA E EDITORA LTDA;03.633.502/0001-48;25/08/2010;       Publicidade por materiais impressos;R$ 363,00;Cheque; -  -  / 20678 - MATEUS ARIVAL FERREIRA BURTON - AM - Deputado Estadual;
+GRAFISA - GRAFICA E EDITORA LTDA;03.633.502/0001-48;28/09/2010;       Publicidade por materiais impressos;R$ 450,00;Cheque; -  -  / 20678 - MATEUS ARIVAL FERREIRA BURTON - AM - Deputado Estadual;

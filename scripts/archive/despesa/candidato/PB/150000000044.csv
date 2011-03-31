@@ -1,5 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALECIO COSTA;219.885.794-49;25/08/2010;50000310049;R$ 200,00;Depósito em espécie;ALÉCIO COSTA;50150;Deputado Estadual;PSOL;PB;
-ALECIO COSTA;219.885.794-49;30/08/2010;50000310050;R$ 300,00;Depósito em espécie;ALÉCIO COSTA;50150;Deputado Estadual;PSOL;PB;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.249.214/0001-85;26/08/2010;50000310043;R$ 500,00;Estimado;ALÉCIO COSTA;50150;Deputado Estadual;PSOL;PB;
-JOSÉ RODRIGUES FILHO;040.200.734-49;10/08/2010;50000310042;R$ 465,00;Estimado;ALÉCIO COSTA;50150;Deputado Estadual;PSOL;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.249.214/0001-85;26/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual - PSOL -  / 50150 - ALÉCIO COSTA - PB - Deputado Estadual;
+JOSÉ RODRIGUES FILHO;040.200.734-49;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 465,00;Estimado; -  -  / 50150 - ALÉCIO COSTA - PB - Deputado Estadual;
+50150 - ALECIO COSTA - DEPUTADO ESTADUAL;12.173.483/0001-05;28/08/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 100,00;Cheque;Comitê Financeiro Único - PSOL - PB / 50150 - ALÉCIO COSTA - PB - Deputado Estadual;
+50150 - ALECIO COSTA - DEPUTADO ESTADUAL;12.173.483/0001-05;26/08/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 100,00;Cheque;Comitê Financeiro Único - PSOL - PB / 50150 - ALÉCIO COSTA - PB - Deputado Estadual;
+50150 - ALECIO COSTA - DEPUTADO ESTADUAL;12.173.483/0001-05;13/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 200,00;Cheque;Comitê Financeiro Único - PSOL - PB / 50150 - ALÉCIO COSTA - PB - Deputado Estadual;
+50150 - ALECIO COSTA - DEPUTADO ESTADUAL;12.173.483/0001-05;26/08/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 100,00;Cheque;Comitê Financeiro Único - PSOL - PB / 50150 - ALÉCIO COSTA - PB - Deputado Estadual;

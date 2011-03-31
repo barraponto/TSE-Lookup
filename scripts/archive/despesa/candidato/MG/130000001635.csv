@@ -1,6 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;20.764.395/0001-06;02/08/2010;23000140432;R$ 1.116,00;Estimado;MARILZA ALVES DE FIGUEIREDO;23007;Deputado Estadual;PPS;MG;
-Diretório Estadual/Distrital;20.764.395/0001-06;10/08/2010;23000140433;R$ 508,00;Estimado;MARILZA ALVES DE FIGUEIREDO;23007;Deputado Estadual;PPS;MG;
-Diretório Estadual/Distrital;20.764.395/0001-06;20/09/2010;23000140434;R$ 360,00;Estimado;MARILZA ALVES DE FIGUEIREDO;23007;Deputado Estadual;PPS;MG;
-Diretório Estadual/Distrital;20.764.395/0001-06;06/09/2010;23000140431;R$ 2.000,00;Cheque;MARILZA ALVES DE FIGUEIREDO;23007;Deputado Estadual;PPS;MG;
-Diretório Estadual/Distrital;20.764.395/0001-06;24/08/2010;23000140435;R$ 1.215,00;Estimado;MARILZA ALVES DE FIGUEIREDO;23007;Deputado Estadual;PPS;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;20.764.395/0001-06;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.116,00;Estimado;Direção Estadual/Distrital - PPS -  / 23007 - MARILZA ALVES DE FIGUEIREDO - MG - Deputado Estadual;
+Diretório Estadual/Distrital;20.764.395/0001-06;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.215,00;Estimado;Direção Estadual/Distrital - PPS -  / 23007 - MARILZA ALVES DE FIGUEIREDO - MG - Deputado Estadual;
+Diretório Estadual/Distrital;20.764.395/0001-06;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Direção Estadual/Distrital - PPS -  / 23007 - MARILZA ALVES DE FIGUEIREDO - MG - Deputado Estadual;
+Diretório Estadual/Distrital;20.764.395/0001-06;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 508,00;Estimado;Direção Estadual/Distrital - PPS -  / 23007 - MARILZA ALVES DE FIGUEIREDO - MG - Deputado Estadual;

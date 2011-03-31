@@ -1,5 +1,13 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.235.324/0001-98;17/08/2010;23000120902;R$ 4.363,63;Depósito em espécie;ELI NUNES DE OLIVEIRA;23100;Deputado Estadual;PPS;MT;
-Comitê Financeiro Único;12.235.324/0001-98;04/09/2010;23000120903;R$ 3.136,00;Depósito em espécie;ELI NUNES DE OLIVEIRA;23100;Deputado Estadual;PPS;MT;
-ELI NUNES DE OLIVEIRA;016.278.511-94;23/07/2010;23000120901;R$ 2.180,00;Depósito em espécie;ELI NUNES DE OLIVEIRA;23100;Deputado Estadual;PPS;MT;
-ELI NUNES DE OLIVEIRA;016.278.511-94;16/09/2010;23000120904;R$ 0,05;Depósito em espécie;ELI NUNES DE OLIVEIRA;23100;Deputado Estadual;PPS;MT;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AGNES WEISS;787.576.220-00;14/09/2010;       Despesas com pessoal;R$ 625,00;Cheque; -  -  / 23100 - ELI NUNES DE OLIVEIRA - MT - Deputado Estadual;
+DAVID GOMES DE AZEVEDO;327.993.491-53;01/08/2010;       Cessão ou Locação de Veículos;R$ 3.013,63;Cheque; -  -  / 23100 - ELI NUNES DE OLIVEIRA - MT - Deputado Estadual;
+DEFANTI INDUSTRIA COMERCIO;36.882.777/0001-74;26/07/2010;       Publicidade por materiais impressos;R$ 1.500,00;Cheque; -  -  / 23100 - ELI NUNES DE OLIVEIRA - MT - Deputado Estadual;
+FERNANDO DE SOUZA CAETANO;927.910.181-15;14/09/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / 23100 - ELI NUNES DE OLIVEIRA - MT - Deputado Estadual;
+GRAFICA PRINT INDUSTRIA E EDITORA LTDA;73.783.649/0001-08;23/07/2010;       Publicidade por materiais impressos;R$ 1.330,00;Cheque; -  -  / 23100 - ELI NUNES DE OLIVEIRA - MT - Deputado Estadual;
+MARIA FRANCISCA DE AGUIAR SOUZA;265.971.521-15;16/09/2010;       Despesas com pessoal;R$ 700,00;Cheque; -  -  / 23100 - ELI NUNES DE OLIVEIRA - MT - Deputado Estadual;
+MARILDA DE LARA;594.394.671-34;16/09/2010;       Despesas com pessoal;R$ 675,00;Cheque; -  -  / 23100 - ELI NUNES DE OLIVEIRA - MT - Deputado Estadual;
+RIBEIRO E XAVIER LTDA;07.768.840/0001-48;14/08/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 500,00;Cheque; -  -  / 23100 - ELI NUNES DE OLIVEIRA - MT - Deputado Estadual;
+TIAGO NUNES DE OLIVEIRA;005.652.781-00;06/09/2010;       Despesas com pessoal;R$ 635,35;Cheque; -  -  / 23100 - ELI NUNES DE OLIVEIRA - MT - Deputado Estadual;
+TRANSPETRO TRANSPORTE E COMERCIO DE COMBUSTIVEIS LTDA;03.164.316/0001-07;06/09/2010;       Combustíveis e lubrificantes;R$ 200,00;Cheque; -  -  / 23100 - ELI NUNES DE OLIVEIRA - MT - Deputado Estadual;
+;;17/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 23100 - ELI NUNES DE OLIVEIRA - MT - Deputado Estadual;
+;;17/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 23100 - ELI NUNES DE OLIVEIRA - MT - Deputado Estadual;

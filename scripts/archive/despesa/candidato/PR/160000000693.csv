@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÕES 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;17/08/2010;33000000580;R$ 630,00;Estimado;VERA LUCIA FERNANDES TROTTA TELLES;3333;Deputado Federal;PMN;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÕES 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 630,00;Estimado;45 -  - PSDB -  - Governador / 3333 - VERA LUCIA FERNANDES TROTTA TELLES - PR - Deputado Federal;

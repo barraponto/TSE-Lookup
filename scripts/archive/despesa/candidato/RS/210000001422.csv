@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.297/0001-00;02/08/2010;16000030652;R$ 1.800,00;Estimado;ANDREA CEZIMBRA ORTIZ;16600;Deputado Estadual;PSTU;RS;
-Comitê Financeiro Único;12.205.297/0001-00;30/09/2010;16000030653;R$ 1.494,00;Estimado;ANDREA CEZIMBRA ORTIZ;16600;Deputado Estadual;PSTU;RS;
-ROBERTO ILVO ROST;594.013.380-00;06/09/2010;16000030651;R$ 538,00;Cheque;ANDREA CEZIMBRA ORTIZ;16600;Deputado Estadual;PSTU;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.297/0001-00;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.800,00;Estimado;Comitê Financeiro Único - PSTU -  / 16600 - ANDREA CEZIMBRA ORTIZ - RS - Deputado Estadual;
+Comitê Financeiro Único;12.205.297/0001-00;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.494,00;Estimado;Comitê Financeiro Único - PSTU -  / 16600 - ANDREA CEZIMBRA ORTIZ - RS - Deputado Estadual;
+EXPANSÃO ARTES GRÁFICAS LTDA;91.541.326/0001-81;06/09/2010;       Publicidade por materiais impressos;R$ 538,00;Cheque; -  -  / 16600 - ANDREA CEZIMBRA ORTIZ - RS - Deputado Estadual;

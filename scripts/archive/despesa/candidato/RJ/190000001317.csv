@@ -1,9 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANIBAL DE SOUZA ISMERIO FILHO;467.709.507-82;09/09/2010;45000439496;R$ 480,00;Depósito em espécie;MARCO ANTONIO CAMPOS;45246;Deputado Estadual;PSDB;RJ;
-Diretório Estadual/Distrital;32.080.483/0001-78;30/09/2010;45000439497;R$ 166,67;Estimado;MARCO ANTONIO CAMPOS;45246;Deputado Estadual;PSDB;RJ;
-Diretório Estadual/Distrital;32.080.483/0001-78;30/09/2010;45000439498;R$ 3.875,00;Estimado;MARCO ANTONIO CAMPOS;45246;Deputado Estadual;PSDB;RJ;
-OTAVIO SANTOS SILVA LEITE;12.190.107/0001-29;19/09/2010;45000439493;R$ 100,00;Estimado;MARCO ANTONIO CAMPOS;45246;Deputado Estadual;PSDB;RJ;
-OTAVIO SANTOS SILVA LEITE;12.190.107/0001-29;19/09/2010;45000439495;R$ 363,35;Estimado;MARCO ANTONIO CAMPOS;45246;Deputado Estadual;PSDB;RJ;
-OTAVIO SANTOS SILVA LEITE;12.190.107/0001-29;30/09/2010;45000439492;R$ 150,00;Estimado;MARCO ANTONIO CAMPOS;45246;Deputado Estadual;PSDB;RJ;
-OTAVIO SANTOS SILVA LEITE;12.190.107/0001-29;30/09/2010;45000439491;R$ 717,06;Estimado;MARCO ANTONIO CAMPOS;45246;Deputado Estadual;PSDB;RJ;
-OTAVIO SANTOS SILVA LEITE;12.190.107/0001-29;19/09/2010;45000439494;R$ 67,50;Estimado;MARCO ANTONIO CAMPOS;45246;Deputado Estadual;PSDB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+D C BUREAU DE IMPRESSAO PONTO DIGITAL LTDA.;10.240.169/0001-72;09/09/2010;       Publicidade por materiais impressos;R$ 480,00;Cheque; -  -  / 45246 - MARCO ANTONIO CAMPOS - RJ - Deputado Estadual;
+Diretório Estadual/Distrital;32.080.483/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.875,00;Estimado;Direção Estadual/Distrital - PSDB -  / 45246 - MARCO ANTONIO CAMPOS - RJ - Deputado Estadual;
+Diretório Estadual/Distrital;32.080.483/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 166,67;Estimado;Direção Estadual/Distrital - PSDB -  / 45246 - MARCO ANTONIO CAMPOS - RJ - Deputado Estadual;
+OTAVIO SANTOS SILVA LEITE;12.190.107/0001-29;19/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 363,35;Estimado;4555 -  - PSDB -  - Deputado Federal / 45246 - MARCO ANTONIO CAMPOS - RJ - Deputado Estadual;
+OTAVIO SANTOS SILVA LEITE;12.190.107/0001-29;19/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado;4555 -  - PSDB -  - Deputado Federal / 45246 - MARCO ANTONIO CAMPOS - RJ - Deputado Estadual;
+OTAVIO SANTOS SILVA LEITE;12.190.107/0001-29;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 717,06;Estimado;4555 -  - PSDB -  - Deputado Federal / 45246 - MARCO ANTONIO CAMPOS - RJ - Deputado Estadual;
+OTAVIO SANTOS SILVA LEITE;12.190.107/0001-29;19/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 67,50;Estimado;4555 -  - PSDB -  - Deputado Federal / 45246 - MARCO ANTONIO CAMPOS - RJ - Deputado Estadual;
+OTAVIO SANTOS SILVA LEITE;12.190.107/0001-29;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;4555 -  - PSDB -  - Deputado Federal / 45246 - MARCO ANTONIO CAMPOS - RJ - Deputado Estadual;

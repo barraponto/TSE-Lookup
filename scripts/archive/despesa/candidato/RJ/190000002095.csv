@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;02/10/2010;31000025837;R$ 150,00;Estimado;ALCENIR DE OLIVEIRA MARIANO;3181;Deputado Federal;PHS;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;13/09/2010;31000025831;R$ 150,00;Estimado;ALCENIR DE OLIVEIRA MARIANO;3181;Deputado Federal;PHS;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;02/10/2010;31000025836;R$ 150,00;Estimado;ALCENIR DE OLIVEIRA MARIANO;3181;Deputado Federal;PHS;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;15/09/2010;31000025832;R$ 150,00;Estimado;ALCENIR DE OLIVEIRA MARIANO;3181;Deputado Federal;PHS;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 3181 - ALCENIR DE OLIVEIRA MARIANO - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;13/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 3181 - ALCENIR DE OLIVEIRA MARIANO - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 3181 - ALCENIR DE OLIVEIRA MARIANO - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 3181 - ALCENIR DE OLIVEIRA MARIANO - RJ - Deputado Federal;

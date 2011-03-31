@@ -1,2 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MARCELO LUIZ DIAS CHIANELLO;929.595.557-91;20/09/2010;70000152153;R$ 600,00;Transferência eletrônica;MARCIO DIAS CHIANELLO;70210;Deputado Estadual;PT do B;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+STUDIO GRÁFICO GOOL DE PLACA LTDA.;04.267.598/0001-30;16/08/2010;       Publicidade por materiais impressos;R$ 380,00;Transferência eletrônica; -  -  / 70210 - MARCIO DIAS CHIANELLO - RJ - Deputado Estadual;
+VISUANA GRÁFICA E EDITORA LTDA;04.561.145/0001-12;20/09/2010;       Publicidade por materiais impressos;R$ 200,00;Transferência eletrônica; -  -  / 70210 - MARCIO DIAS CHIANELLO - RJ - Deputado Estadual;

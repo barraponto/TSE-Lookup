@@ -1,5 +1,13 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.230/0001-76;30/09/2010;17000034603;R$ 910,71;Estimado;SEBASTIAO CONRADO DA SILVA;17031;Deputado Estadual;PSL;CE;
-SEBASTIAO  CONRADO DA SILVA;146.211.773-20;16/09/2010;17000034604;R$ 4.000,00;Depósito em espécie;SEBASTIAO CONRADO DA SILVA;17031;Deputado Estadual;PSL;CE;
-SEBASTIAO  CONRADO DA SILVA;146.211.773-20;16/08/2010;17000034601;R$ 3.000,00;Depósito em espécie;SEBASTIAO CONRADO DA SILVA;17031;Deputado Estadual;PSL;CE;
-SEBASTIAO  CONRADO DA SILVA;146.211.773-20;16/08/2010;17000034602;R$ 3.050,00;Depósito em espécie;SEBASTIAO CONRADO DA SILVA;17031;Deputado Estadual;PSL;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS HENRIQUE DE JESUS;413.885.503-34;27/10/2010;       Serviços prestados por terceiros;R$ 109,30;Cheque; -  -  / 17031 - SEBASTIAO CONRADO DA SILVA - CE - Deputado Estadual;
+Comitê Financeiro Único;12.205.230/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 910,71;Estimado;Comitê Financeiro Único - PHS -  / 17031 - SEBASTIAO CONRADO DA SILVA - CE - Deputado Estadual;
+DARIO WILKINSON DUTRA NASCIMENTO DA SILVA;658.528.853-04;20/09/2010;       Serviços prestados por terceiros;R$ 1.500,00;Cheque; -  -  / 17031 - SEBASTIAO CONRADO DA SILVA - CE - Deputado Estadual;
+IRAIDES TEIXEIRA LOPES;463.559.103-44;17/08/2010;       Serviços prestados por terceiros;R$ 1.500,00;Cheque; -  -  / 17031 - SEBASTIAO CONRADO DA SILVA - CE - Deputado Estadual;
+MARIA DO LIVRAMENTO BRITO DA MACIEIRA;120.469.493-15;17/08/2010;       Serviços prestados por terceiros;R$ 600,00;Cheque; -  -  / 17031 - SEBASTIAO CONRADO DA SILVA - CE - Deputado Estadual;
+MARIA DO SOCORRO SILVA ABREU;386.130.933-53;17/08/2010;       Serviços prestados por terceiros;R$ 1.250,00;Cheque; -  -  / 17031 - SEBASTIAO CONRADO DA SILVA - CE - Deputado Estadual;
+MARIA REJANE DA SILVA BEZERRA;409.895.693-49;16/08/2010;       Serviços prestados por terceiros;R$ 700,00;Cheque; -  -  / 17031 - SEBASTIAO CONRADO DA SILVA - CE - Deputado Estadual;
+POSTO MANIA LTDA;04.559.055/0001-97;20/09/2010;       Combustíveis e lubrificantes;R$ 2.650,00;Cheque; -  -  / 17031 - SEBASTIAO CONRADO DA SILVA - CE - Deputado Estadual;
+PRINT COLOR GRAFICA E EDITORA LTDA;02.824.298/0001-80;18/08/2010;       Publicidade por materiais impressos;R$ 840,00;Cheque; -  -  / 17031 - SEBASTIAO CONRADO DA SILVA - CE - Deputado Estadual;
+ROSELANGE DE LIMA ABREU;484.771.843-72;17/08/2010;       Serviços prestados por terceiros;R$ 900,00;Cheque; -  -  / 17031 - SEBASTIAO CONRADO DA SILVA - CE - Deputado Estadual;
+;;05/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 17031 - SEBASTIAO CONRADO DA SILVA - CE - Deputado Estadual;
+;;01/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 17031 - SEBASTIAO CONRADO DA SILVA - CE - Deputado Estadual;

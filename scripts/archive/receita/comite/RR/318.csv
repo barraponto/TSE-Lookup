@@ -1,8 +1,6 @@
-Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
-Comitê Financeiro Estadual/Distrital para Senador da República;12.217.609/0001-04;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 10.650,00;Estimado;Comitê Financeiro Distrital/Estadual para Senador da República - PMDB -  / Comitê Financeiro Único - PSL - RR;
-Comitê Financeiro Estadual/Distrital para Senador da República;12.217.609/0001-04;26/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 21.375,00;Estimado;Comitê Financeiro Distrital/Estadual para Senador da República - PMDB -  / Comitê Financeiro Único - PSL - RR;
-Comitê Financeiro Único - PSL;12.200.175/0001-21;09/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 8.000,00;Cheque;17123 - ADELINO DE SOUSA FILHO - PSL - RR - Deputado Estadual / Comitê Financeiro Único - PSL - RR;
-Comitê Financeiro Único - PSL;12.200.175/0001-21;03/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 10.000,00;Cheque;17123 - ADELINO DIAS DE SOUSA FILHO - PSL - RR - Deputado Estadual / Comitê Financeiro Único - PSL - RR;
-GRAFICA MARABA LTDA;84.048.974/0001-35;17/09/2010;       Publicidade por materiais impressos;R$ 2.000,00;Cheque; -  -  / Comitê Financeiro Único - PSL - RR;
-;;02/09/2010;       Encargos financeiros e taxas bancárias;R$ 20,00;Débito em conta; -  -  / Comitê Financeiro Único - PSL - RR;
-;;02/09/2010;       Encargos financeiros e taxas bancárias;R$ 18,00;Débito em conta; -  -  / Comitê Financeiro Único - PSL - RR;
+Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
+Comitê Financeiro Estadual/Distrital para Senador da República;12.217.609/0001-04;26/08/2010;17000043251;R$ 21.375,00;Estimado;Comitê Financeiro Único;PSL;RR;
+Comitê Financeiro Estadual/Distrital para Senador da República;12.217.609/0001-04;09/09/2010;17000043252;R$ 10.650,00;Estimado;Comitê Financeiro Único;PSL;RR;
+Diretório Nacional;01.209.414/0001-98;01/09/2010;17000043254;R$ 10.000,00;Transferência eletrônica;Comitê Financeiro Único;PSL;RR;
+Diretório Nacional;01.209.414/0001-98;31/08/2010;17000043253;R$ 10.000,00;Transferência eletrônica;Comitê Financeiro Único;PSL;RR;
+SUZANY SOUSA LIMA;004.141.202-80;09/09/2010;17000043255;R$ 38,00;Depósito em espécie;Comitê Financeiro Único;PSL;RR;

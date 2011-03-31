@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;70000135702;R$ 1.666,90;Estimado;RILDO SANTOS SOUZA;7070;Deputado Federal;PT do B;BA;
-Comitê Financeiro Único;12.191.570/0001-95;15/09/2010;70000135701;R$ 192,00;Estimado;RILDO SANTOS SOUZA;7070;Deputado Federal;PT do B;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.666,90;Estimado;Comitê Financeiro Único - PMDB -  / 7070 - RILDO SANTOS SOUZA - BA - Deputado Federal;
+Comitê Financeiro Único;12.191.570/0001-95;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 192,00;Estimado;Comitê Financeiro Único - PMDB -  / 7070 - RILDO SANTOS SOUZA - BA - Deputado Federal;

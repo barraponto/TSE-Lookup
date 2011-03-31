@@ -1,4 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 TEOTONIO BRANDAO VILELA FILHO GOVERNADOR;12.170.978/0001-80;30/08/2010;45000179152;R$ 1.297,79;Estimado;ROGÉRIO CARNAÚBA RIBEIRO;45133;Deputado Estadual;PSDB;AL;
-FERNANDO CORREIA RIBEIRO;041.971.194-53;01/09/2010;45000179151;R$ 500,00;Depósito em espécie;ROGÉRIO CARNAÚBA RIBEIRO;45133;Deputado Estadual;PSDB;AL;
-FERNANDO CORREIA RIBEIRO;041.971.194-53;01/10/2010;45000179153;R$ 900,00;Estimado;ROGÉRIO CARNAÚBA RIBEIRO;45133;Deputado Estadual;PSDB;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARIANA ROGERIO DOS SANTOS;027.345.294-08;28/09/2010;       Despesas com pessoal;R$ 110,00;Cheque; -  -  / 45133 - ROGÉRIO CARNAÚBA RIBEIRO - AL - Deputado Estadual;
+CASA DA COPIA LTDA;03.308.374/0004-00;04/09/2010;       Diversas a especificar;R$ 10,00;Cheque; -  -  / 45133 - ROGÉRIO CARNAÚBA RIBEIRO - AL - Deputado Estadual;
+ELEIÇÃO 2010 TEOTONIO BRANDAO VILELA FILHO GOVERNADOR;12.170.978/0001-80;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.297,79;Estimado;45 -  - PSDB -  - Governador / 45133 - ROGÉRIO CARNAÚBA RIBEIRO - AL - Deputado Estadual;
+FERNANDO CORREIA RIBEIRO;041.971.194-53;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 900,00;Estimado; -  -  / 45133 - ROGÉRIO CARNAÚBA RIBEIRO - AL - Deputado Estadual;
+MADSON COMERCO DE COMBUSTIVEIS E PRODUTOS LTDA;02.448.145/0001-85;03/10/2010;       Combustíveis e lubrificantes;R$ 60,00;Cheque; -  -  / 45133 - ROGÉRIO CARNAÚBA RIBEIRO - AL - Deputado Estadual;
+RICARDO ALEXANDRE VIEIRA DE MELO;03.366.335/0001-16;01/09/2010;       Publicidade por materiais impressos;R$ 320,00;Cheque; -  -  / 45133 - ROGÉRIO CARNAÚBA RIBEIRO - AL - Deputado Estadual;

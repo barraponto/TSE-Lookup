@@ -1,4 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JACOBE ALMEIDA BARBOSA;914.506.673-68;03/08/2010;31000046301;R$ 1.205,00;Depósito em espécie;JACOBE ALMEIDA BARBOSA;31777;Deputado Estadual;PHS;MA;
-JACOBE ALMEIDA BARBOSA;914.506.673-68;06/09/2010;31000046304;R$ 1.000,00;Estimado;JACOBE ALMEIDA BARBOSA;31777;Deputado Estadual;PHS;MA;
-JACOBE ALMEIDA BARBOSA;914.506.673-68;31/08/2010;31000046303;R$ 4.000,00;Depósito em espécie;JACOBE ALMEIDA BARBOSA;31777;Deputado Estadual;PHS;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EDITORA GRAFICA  MODELO LTDA;63.328.744/0001-50;08/09/2010;       Publicidade por materiais impressos;R$ 2.700,00;Cheque; -  -  / 31777 - JACOBE ALMEIDA BARBOSA - MA - Deputado Estadual;
+GRAFICA ANDRADE LTDA-ME;00.524.458/0001-40;12/08/2010;       Publicidade por materiais impressos;R$ 550,00;Cheque; -  -  / 31777 - JACOBE ALMEIDA BARBOSA - MA - Deputado Estadual;
+GRAFICA ANDRADE LTDA-ME;00.524.458/0001-40;12/08/2010;       Publicidade por materiais impressos;R$ 250,00;Cheque; -  -  / 31777 - JACOBE ALMEIDA BARBOSA - MA - Deputado Estadual;
+JACOBE ALMEIDA BARBOSA;914.506.673-68;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 31777 - JACOBE ALMEIDA BARBOSA - MA - Deputado Estadual;
+POSTO BRASIL, BRASIL PETROLEO LTDA;02.384.264/0001-11;06/09/2010;       Combustíveis e lubrificantes;R$ 1.700,00;Cheque; -  -  / 31777 - JACOBE ALMEIDA BARBOSA - MA - Deputado Estadual;
+;;05/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 31777 - JACOBE ALMEIDA BARBOSA - MA - Deputado Estadual;

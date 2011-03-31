@@ -1,4 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.578/0001-51;03/08/2010;12001033858;R$ 40.000,00;Cheque;PAULO HENRIQUE CANÇADO SOARES;12222;Deputado Estadual;PDT;MS;
-Comitê Financeiro Único;12.200.112/0001-75;15/08/2010;12001033861;R$ 65,00;Estimado;PAULO HENRIQUE CANÇADO SOARES;12222;Deputado Estadual;PDT;MS;
-Comitê Financeiro Único;12.200.112/0001-75;20/08/2010;12001033859;R$ 840,01;Estimado;PAULO HENRIQUE CANÇADO SOARES;12222;Deputado Estadual;PDT;MS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.112/0001-75;15/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 65,00;Estimado;Comitê Financeiro Único - PDT -  / 12222 - PAULO HENRIQUE CANÇADO SOARES - MS - Deputado Estadual;
+Comitê Financeiro Único;12.200.112/0001-75;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 840,01;Estimado;Comitê Financeiro Único - PDT -  / 12222 - PAULO HENRIQUE CANÇADO SOARES - MS - Deputado Estadual;
+GRAFICOM GRAFICA E EDITORA LTDA;04.591.364/0001-44;09/09/2010;       Publicidade por materiais impressos;R$ 2.280,00;Cheque; -  -  / 12222 - PAULO HENRIQUE CANÇADO SOARES - MS - Deputado Estadual;
+12222 - PAULO HENRIQUE CANÇADO SOARES - DEPUTADO ESTADUAL;12.175.830/0001-39;20/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 37.720,00;Cheque;1233 - MAYCOL HENRIQUE QUEIROZ ANDRADE - PDT - MS - Deputado Federal / 12222 - PAULO HENRIQUE CANÇADO SOARES - MS - Deputado Estadual;

@@ -1,7 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTERO PAES DE BARROS NETO;12.189.840/0001-23;04/09/2010;45000083704;R$ 500,00;Estimado;DULCE HELENA GAHYVA;45555;Deputado Estadual;PSDB;MT;
-Comitê Financeiro Único;12.182.454/0001-00;02/10/2010;45000083706;R$ 283,01;Estimado;DULCE HELENA GAHYVA;45555;Deputado Estadual;PSDB;MT;
-Comitê Financeiro Único;12.182.454/0001-00;03/09/2010;45000083702;R$ 237,50;Estimado;DULCE HELENA GAHYVA;45555;Deputado Estadual;PSDB;MT;
-Comitê Financeiro Único;12.182.454/0001-00;03/09/2010;45000083703;R$ 245,40;Estimado;DULCE HELENA GAHYVA;45555;Deputado Estadual;PSDB;MT;
-Comitê Financeiro Único;12.182.454/0001-00;01/10/2010;45000083705;R$ 188,67;Estimado;DULCE HELENA GAHYVA;45555;Deputado Estadual;PSDB;MT;
-DULCE HELENA GAHYVA;179.035.801-91;10/08/2010;45000083701;R$ 2.500,00;Depósito em espécie;DULCE HELENA GAHYVA;45555;Deputado Estadual;PSDB;MT;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTERO PAES DE BARROS NETO;12.189.840/0001-23;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;455 -  - PSDB -  - Senador / 45555 - DULCE HELENA GAHYVA - MT - Deputado Estadual;
+Comitê Financeiro Único;12.182.454/0001-00;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 245,40;Estimado;Comitê Financeiro Único - PSDB -  / 45555 - DULCE HELENA GAHYVA - MT - Deputado Estadual;
+Comitê Financeiro Único;12.182.454/0001-00;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 283,01;Estimado;Comitê Financeiro Único - PSDB -  / 45555 - DULCE HELENA GAHYVA - MT - Deputado Estadual;
+Comitê Financeiro Único;12.182.454/0001-00;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 237,50;Estimado;Comitê Financeiro Único - PSDB -  / 45555 - DULCE HELENA GAHYVA - MT - Deputado Estadual;
+Comitê Financeiro Único;12.182.454/0001-00;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 188,67;Estimado;Comitê Financeiro Único - PSDB -  / 45555 - DULCE HELENA GAHYVA - MT - Deputado Estadual;
+ELAINE MARIA PEDROSO LEMES;460.986.231-04;01/11/2010;       Despesas com pessoal;R$ 580,00;Cheque; -  -  / 45555 - DULCE HELENA GAHYVA - MT - Deputado Estadual;
+MILENIUM COMUNICAÇÃO VISUAL LTDA.;02.313.430/0001-99;11/08/2010;       Publicidade por materiais impressos;R$ 1.900,00;Transferência eletrônica; -  -  / 45555 - DULCE HELENA GAHYVA - MT - Deputado Estadual;
+;;12/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 45555 - DULCE HELENA GAHYVA - MT - Deputado Estadual;
+;;11/08/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Débito em conta; -  -  / 45555 - DULCE HELENA GAHYVA - MT - Deputado Estadual;

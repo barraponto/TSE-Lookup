@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CÉLIA MARIA BARBOSA;793.103.203-97;27/07/2010;14000017551;R$ 500,00;Estimado;GILIANE LICIA SILVA;1435;Deputado Federal;PTB;PI;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CÉLIA MARIA BARBOSA;793.103.203-97;27/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 1435 - GILIANE LICIA SILVA - PI - Deputado Federal;

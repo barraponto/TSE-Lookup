@@ -1,5 +1,13 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 NELSON VICENTE PORTELA PELLEGRINO DEPUTADO FEDERAL;12.204.351/0001-01;17/09/2010;10000081175;R$ 20.000,00;Transferência eletrônica;PEDRO BERNARDINO FILHO;10810;Deputado Estadual;PRB;BA;
-GRAFICA GR;74.094.673/0001-94;01/10/2010;10000081174;R$ 2.100,00;Estimado;PEDRO BERNARDINO FILHO;10810;Deputado Estadual;PRB;BA;
-LUIS ANDRADE DE OLIVEIRA;257.468.438-90;17/09/2010;10000081176;R$ 1.800,00;Estimado;PEDRO BERNARDINO FILHO;10810;Deputado Estadual;PRB;BA;
-SELENILDO BATISTA FERREIRA;448.655.385-34;17/09/2010;10000081177;R$ 3.000,00;Estimado;PEDRO BERNARDINO FILHO;10810;Deputado Estadual;PRB;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALANA PASSOS DE BRITO;011.637.965-06;17/09/2010;       Serviços prestados por terceiros;R$ 2.600,00;Transferência eletrônica; -  -  / 10810 - PEDRO BERNARDINO FILHO - BA - Deputado Estadual;
+DENILTON COSTA FERNANDES;943.536.895-68;17/09/2010;       Serviços prestados por terceiros;R$ 5.000,00;Transferência eletrônica; -  -  / 10810 - PEDRO BERNARDINO FILHO - BA - Deputado Estadual;
+GRAFICA GR;74.094.673/0001-94;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.100,00;Estimado; -  -  / 10810 - PEDRO BERNARDINO FILHO - BA - Deputado Estadual;
+LUIS ANDRADE DE OLIVEIRA;257.468.438-90;17/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.800,00;Estimado; -  -  / 10810 - PEDRO BERNARDINO FILHO - BA - Deputado Estadual;
+LUIS ANDRADE DE OLIVEIRA;257.468.438-90;21/09/2010;       Despesas com pessoal;R$ 1.100,00;Transferência eletrônica; -  -  / 10810 - PEDRO BERNARDINO FILHO - BA - Deputado Estadual;
+NEUZA FRANCISCO DOS SANTOS LUZ;262.706.335-91;04/09/2010;       Serviços prestados por terceiros;R$ 400,00;Transferência eletrônica; -  -  / 10810 - PEDRO BERNARDINO FILHO - BA - Deputado Estadual;
+POSTO ANTUNES;14.732.218/0001-45;17/09/2010;       Combustíveis e lubrificantes;R$ 9.000,00;Transferência eletrônica; -  -  / 10810 - PEDRO BERNARDINO FILHO - BA - Deputado Estadual;
+SELENILDO BATISTA FERREIRA;448.655.385-34;17/09/2010;       Despesas com pessoal;R$ 1.800,00;Transferência eletrônica; -  -  / 10810 - PEDRO BERNARDINO FILHO - BA - Deputado Estadual;
+SELENILDO BATISTA FERREIRA;448.655.385-34;17/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.000,00;Estimado; -  -  / 10810 - PEDRO BERNARDINO FILHO - BA - Deputado Estadual;
+;;22/09/2010;       Encargos financeiros e taxas bancárias;R$ 8,00;Débito em conta; -  -  / 10810 - PEDRO BERNARDINO FILHO - BA - Deputado Estadual;
+;;21/09/2010;       Encargos financeiros e taxas bancárias;R$ 8,00;Débito em conta; -  -  / 10810 - PEDRO BERNARDINO FILHO - BA - Deputado Estadual;
+;;21/09/2010;       Encargos financeiros e taxas bancárias;R$ 8,00;Débito em conta; -  -  / 10810 - PEDRO BERNARDINO FILHO - BA - Deputado Estadual;

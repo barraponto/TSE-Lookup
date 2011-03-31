@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;01/09/2010;17000066702;R$ 300,00;Estimado;ALESSANDRA DOS SANTOS MIRANDA;17517;Deputado Estadual;PSL;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;17000066704;R$ 150,00;Estimado;ALESSANDRA DOS SANTOS MIRANDA;17517;Deputado Estadual;PSL;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;17000066703;R$ 150,00;Estimado;ALESSANDRA DOS SANTOS MIRANDA;17517;Deputado Estadual;PSL;RJ;
-JORGE SAYED PICCIANI;12.176.626/0001-32;31/08/2010;17000066701;R$ 17,00;Estimado;ALESSANDRA DOS SANTOS MIRANDA;17517;Deputado Estadual;PSL;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 17517 - ALESSANDRA DOS SANTOS MIRANDA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 17517 - ALESSANDRA DOS SANTOS MIRANDA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 17517 - ALESSANDRA DOS SANTOS MIRANDA - RJ - Deputado Estadual;
+JORGE SAYED PICCIANI;12.176.626/0001-32;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 17517 - ALESSANDRA DOS SANTOS MIRANDA - RJ - Deputado Estadual;

@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.170.978/0001-80;29/10/2010;25000457677;R$ 4.496,30;Estimado;GILSON GOMES DA COSTA;25200;Deputado Estadual;DEM;AL;
-Diretório Estadual/Distrital;12.170.978/0001-80;29/10/2010;25000457678;R$ 1.400,41;Estimado;GILSON GOMES DA COSTA;25200;Deputado Estadual;DEM;AL;
-LINDA LUZ LETREIROS LUMINOSOS LTDA - ME;00.634.167/0001-04;02/08/2010;;R$ 640,00;Estimado;GILSON GOMES DA COSTA;25200;Deputado Estadual;DEM;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.170.978/0001-80;29/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.400,41;Estimado;Direção Estadual/Distrital - DEM -  / 25200 - GILSON GOMES DA COSTA - AL - Deputado Estadual;
+Diretório Estadual/Distrital;12.170.978/0001-80;29/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.496,30;Estimado;Direção Estadual/Distrital - DEM -  / 25200 - GILSON GOMES DA COSTA - AL - Deputado Estadual;
+LINDA LUZ LETREIROS LUMINOSOS LTDA - ME;00.634.167/0001-04;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 640,00;Estimado; -  -  / 25200 - GILSON GOMES DA COSTA - AL - Deputado Estadual;

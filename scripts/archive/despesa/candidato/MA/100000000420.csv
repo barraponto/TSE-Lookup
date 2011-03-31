@@ -1,2 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO ALDO LOPES ANDRADE;186.771.692-53;23/09/2010;11000097721;R$ 10.000,00;Depósito em espécie;ANTONIO ALDO LOPES ANDRADE;11444;Deputado Estadual;PP;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARTES, SERVIÇOS SOCIAIS E EMPREENDIMENTOS GRAFICOS LTDA.;02.360.838/0001-11;05/09/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 11444 - ANTONIO ALDO LOPES ANDRADE - MA - Deputado Estadual;
+PAULO ROBERTO LIMA BANDEIRA;672.031.243-04;01/08/2010;       Serviços prestados por terceiros;R$ 5.000,00;Cheque; -  -  / 11444 - ANTONIO ALDO LOPES ANDRADE - MA - Deputado Estadual;
+RAIMUNDO LOPES DE ANDRADE;808.774.273-72;04/09/2010;       Publicidade por carros de som;R$ 3.000,00;Cheque; -  -  / 11444 - ANTONIO ALDO LOPES ANDRADE - MA - Deputado Estadual;
+VIANA & VIEIRA LTDA - ME;06.103.646/0001-80;30/09/2010;       Combustíveis e lubrificantes;R$ 1.600,00;Cheque; -  -  / 11444 - ANTONIO ALDO LOPES ANDRADE - MA - Deputado Estadual;

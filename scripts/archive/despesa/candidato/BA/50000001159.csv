@@ -1,2 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-RAIMUNDO NONATO TANURI BENTO;520.598.555-00;22/10/2010;13000614701;R$ 72,52;Depósito em espécie;RAIMUNDO NONATO TANURI BENTO;1340;Deputado Federal;PT;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+MARLY FALCÃO COLLECTTIONS;08.618.204/0001-00;20/09/2010;       Publicidade por placas, estandartes e faixas;R$ 930,00;Cheque; -  -  / 1340 - RAIMUNDO NONATO TANURI BENTO - BA - Deputado Federal;
+;;30/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 1340 - RAIMUNDO NONATO TANURI BENTO - BA - Deputado Federal;
+;;22/10/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 1340 - RAIMUNDO NONATO TANURI BENTO - BA - Deputado Federal;
+;;22/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 1340 - RAIMUNDO NONATO TANURI BENTO - BA - Deputado Federal;
+;;22/10/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 1340 - RAIMUNDO NONATO TANURI BENTO - BA - Deputado Federal;
+;;25/10/2010;       Encargos financeiros e taxas bancárias;R$ 6,82;Débito em conta; -  -  / 1340 - RAIMUNDO NONATO TANURI BENTO - BA - Deputado Federal;
+;;04/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 1340 - RAIMUNDO NONATO TANURI BENTO - BA - Deputado Federal;
+;;26/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 1340 - RAIMUNDO NONATO TANURI BENTO - BA - Deputado Federal;
+;;22/10/2010;       Encargos financeiros e taxas bancárias;R$ 24,00;Débito em conta; -  -  / 1340 - RAIMUNDO NONATO TANURI BENTO - BA - Deputado Federal;

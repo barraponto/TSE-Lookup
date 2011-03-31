@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSÉ RAIMUNDO SILVA DE ALMEIDA;279.154.685-53;05/08/2010;45000425571;R$ 15.000,00;Estimado;JOSE RAIMUNDO SILVA DE ALMEIDA;455;2º Suplente Senador;PSDB;MA;
-POSTO AVENIDA PETROLEO LTDA.;07.354.756/0001-88;05/08/2010;45000425572;R$ 3.000,00;Estimado;JOSE RAIMUNDO SILVA DE ALMEIDA;455;2º Suplente Senador;PSDB;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JOSÉ RAIMUNDO SILVA DE ALMEIDA;279.154.685-53;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 15.000,00;Estimado; -  -  / 455 - JOSE RAIMUNDO SILVA DE ALMEIDA - MA - 2º Suplente Senador;
+POSTO AVENIDA PETROLEO LTDA.;07.354.756/0001-88;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.000,00;Estimado; -  -  / 455 - JOSE RAIMUNDO SILVA DE ALMEIDA - MA - 2º Suplente Senador;

@@ -1,7 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-EUCLIDES ZAMPEZE;286.786.130-68;02/08/2010;50000477301;R$ 3.700,00;Depósito em espécie;EUCLIDES ZAMPEZE;5060;Deputado Federal;PSOL;RS;
-EUCLIDES ZAMPEZE;286.786.130-68;13/08/2010;50000477302;R$ 200,00;Depósito em espécie;EUCLIDES ZAMPEZE;5060;Deputado Federal;PSOL;RS;
-EUCLIDES ZAMPEZE;286.786.130-68;10/09/2010;;R$ 1.600,00;Depósito em espécie;EUCLIDES ZAMPEZE;5060;Deputado Federal;PSOL;RS;
-EUCLIDES ZAMPEZE;286.786.130-68;26/08/2010;50000477304;R$ 150,00;Depósito em espécie;EUCLIDES ZAMPEZE;5060;Deputado Federal;PSOL;RS;
-EUCLIDES ZAMPEZE;286.786.130-68;31/08/2010;50000477305;R$ 6.620,00;Depósito em espécie;EUCLIDES ZAMPEZE;5060;Deputado Federal;PSOL;RS;
-EUCLIDES ZAMPEZE;286.786.130-68;20/08/2010;50000477303;R$ 750,00;Depósito em espécie;EUCLIDES ZAMPEZE;5060;Deputado Federal;PSOL;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+INDUSTRIA DE PLASTICOS PAMPA LTDA;88.731.583/0001-71;01/09/2010;       Publicidade por materiais impressos;R$ 6.670,00;Cheque; -  -  / 5060 - EUCLIDES ZAMPEZE - RS - Deputado Federal;
+PAULO JEFFERSON MACHADO SEVERO;97.056.923/0001-05;06/08/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 5060 - EUCLIDES ZAMPEZE - RS - Deputado Federal;
+PAULO JEFFERSON MACHADO SEVERO;97.056.923/0001-05;19/08/2010;       Publicidade por materiais impressos;R$ 750,00;Cheque; -  -  / 5060 - EUCLIDES ZAMPEZE - RS - Deputado Federal;
+PAULO JEFFERSON MACHADO SEVERO;97.056.923/0001-05;25/08/2010;       Publicidade por materiais impressos;R$ 135,00;Cheque; -  -  / 5060 - EUCLIDES ZAMPEZE - RS - Deputado Federal;
+PROENÇA GRAFICA E EDITORA LTDA;90.128.711/0001-39;13/08/2010;       Publicidade por materiais impressos;R$ 850,00;Cheque; -  -  / 5060 - EUCLIDES ZAMPEZE - RS - Deputado Federal;
+PROENÇA GRAFICA E EDITORA LTDA;90.128.711/0001-39;09/09/2010;       Publicidade por materiais impressos;R$ 1.600,00;Cheque; -  -  / 5060 - EUCLIDES ZAMPEZE - RS - Deputado Federal;
+PROENÇA GRAFICA E EDITORA LTDA;90.128.711/0001-39;02/08/2010;       Publicidade por materiais impressos;R$ 2.000,00;Cheque; -  -  / 5060 - EUCLIDES ZAMPEZE - RS - Deputado Federal;
+;;19/10/2010;       Encargos financeiros e taxas bancárias;R$ 7,67;Débito em conta; -  -  / 5060 - EUCLIDES ZAMPEZE - RS - Deputado Federal;
+;;02/09/2010;       Encargos financeiros e taxas bancárias;R$ 7,33;Débito em conta; -  -  / 5060 - EUCLIDES ZAMPEZE - RS - Deputado Federal;

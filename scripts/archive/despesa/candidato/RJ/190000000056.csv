@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Governador;12.181.923/0001-76;28/09/2010;11000005265;R$ 150,00;Estimado;DANILO DA FONSECA;11333;Deputado Estadual;PP;RJ;
-Comitê Financeiro Estadual/Distrital para Governador;12.181.923/0001-76;28/09/2010;11000005266;R$ 300,00;Estimado;DANILO DA FONSECA;11333;Deputado Estadual;PP;RJ;
-Comitê Financeiro Estadual/Distrital para Governador;12.181.923/0001-76;26/07/2010;11000005261;R$ 150,00;Estimado;DANILO DA FONSECA;11333;Deputado Estadual;PP;RJ;
-Comitê Financeiro Estadual/Distrital para Senador da República;12.176.626/0001-32;27/08/2010;11000005263;R$ 13,86;Estimado;DANILO DA FONSECA;11333;Deputado Estadual;PP;RJ;
-Comitê Financeiro Estadual/Distrital para Senador da República;12.176.626/0001-32;27/08/2010;11000005262;R$ 17,00;Estimado;DANILO DA FONSECA;11333;Deputado Estadual;PP;RJ;
-Comitê Financeiro Estadual/Distrital para Senador da República;12.176.626/0001-32;27/09/2010;11000005264;R$ 15,75;Estimado;DANILO DA FONSECA;11333;Deputado Estadual;PP;RJ;
-Comitê Financeiro Único;12.200.097/0001-65;02/10/2010;11000005267;R$ 3.592,10;Estimado;DANILO DA FONSECA;11333;Deputado Estadual;PP;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Governador;12.181.923/0001-76;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Distrital/Estadual para Governador - PMDB -  / 11333 - DANILO DA FONSECA - RJ - Deputado Estadual;
+Comitê Financeiro Estadual/Distrital para Governador;12.181.923/0001-76;26/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Distrital/Estadual para Governador - PMDB -  / 11333 - DANILO DA FONSECA - RJ - Deputado Estadual;
+Comitê Financeiro Estadual/Distrital para Governador;12.181.923/0001-76;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Distrital/Estadual para Governador - PMDB -  / 11333 - DANILO DA FONSECA - RJ - Deputado Estadual;
+Comitê Financeiro Estadual/Distrital para Senador da República;12.176.626/0001-32;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;Comitê Financeiro Distrital/Estadual para Senador da República - PMDB -  / 11333 - DANILO DA FONSECA - RJ - Deputado Estadual;
+Comitê Financeiro Estadual/Distrital para Senador da República;12.176.626/0001-32;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 13,86;Estimado;Comitê Financeiro Distrital/Estadual para Senador da República - PMDB -  / 11333 - DANILO DA FONSECA - RJ - Deputado Estadual;
+Comitê Financeiro Estadual/Distrital para Senador da República;12.176.626/0001-32;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 15,75;Estimado;Comitê Financeiro Distrital/Estadual para Senador da República - PMDB -  / 11333 - DANILO DA FONSECA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.200.097/0001-65;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.592,10;Estimado;Comitê Financeiro Único - PP -  / 11333 - DANILO DA FONSECA - RJ - Deputado Estadual;

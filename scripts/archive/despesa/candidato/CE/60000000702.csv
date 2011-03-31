@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.531/0001-98;29/09/2010;33000086111;R$ 98,00;Estimado;CEZARIO NETO OLIVEIRA;3313;Deputado Federal;PMN;CE;
-Comitê Financeiro Único;12.191.531/0001-98;30/09/2010;33000086112;R$ 1.950,00;Estimado;CEZARIO NETO OLIVEIRA;3313;Deputado Federal;PMN;CE;
-RAFAEL DA SILVA DO NASCIMENTO;328.970.378-90;28/07/2010;33000086113;R$ 184,48;Estimado;CEZARIO NETO OLIVEIRA;3313;Deputado Federal;PMN;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.531/0001-98;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.950,00;Estimado;Comitê Financeiro Único - PMN -  / 3313 - CEZARIO NETO OLIVEIRA - CE - Deputado Federal;
+Comitê Financeiro Único;12.191.531/0001-98;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 98,00;Estimado;Comitê Financeiro Único - PMN -  / 3313 - CEZARIO NETO OLIVEIRA - CE - Deputado Federal;
+RAFAEL DA SILVA DO NASCIMENTO;328.970.378-90;28/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 184,48;Estimado; -  -  / 3313 - CEZARIO NETO OLIVEIRA - CE - Deputado Federal;

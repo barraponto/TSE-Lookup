@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.134.176/0001-15;20/09/2010;33000000200;R$ 250,00;Estimado;DEISE PEREIRA SANTOS CARVALHO;33123;Deputado Estadual;PMN;PR;
-DEISE PEREIRA SANTOS CARVALHO;635.572.589-04;03/08/2010;33000000203;R$ 100,00;Cheque;DEISE PEREIRA SANTOS CARVALHO;33123;Deputado Estadual;PMN;PR;
-DIONISIO SERENA JUNIOR;017.689.729-15;01/10/2010;33000000202;R$ 3.220,00;Depósito em espécie;DEISE PEREIRA SANTOS CARVALHO;33123;Deputado Estadual;PMN;PR;
-Diretório Nacional;29.549.433/0001-82;20/09/2010;33000000206;R$ 500,00;Estimado;DEISE PEREIRA SANTOS CARVALHO;33123;Deputado Estadual;PMN;PR;
-ELEIÇAO RICARDO JOSE MAGALHAES BARROS;12.190.665/0001-94;21/09/2010;33000000198;R$ 450,00;Estimado;DEISE PEREIRA SANTOS CARVALHO;33123;Deputado Estadual;PMN;PR;
-ELEIÇÃO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;11/08/2010;33000000197;R$ 630,00;Estimado;DEISE PEREIRA SANTOS CARVALHO;33123;Deputado Estadual;PMN;PR;
-ELEIÇAO 2010 LUCIANO PIZZATTO;12.175.251/0001-96;20/09/2010;33000000196;R$ 260,00;Estimado;DEISE PEREIRA SANTOS CARVALHO;33123;Deputado Estadual;PMN;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALBERTO GONÇALVES E CIA LTDA ME.;81.713.836/0001-35;03/08/2010;       Publicidade por materiais impressos;R$ 100,00;Cheque; -  -  / 33123 - DEISE PEREIRA SANTOS CARVALHO - PR - Deputado Estadual;
+Comitê Financeiro Único;12.134.176/0001-15;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;Comitê Financeiro Único - PMN -  / 33123 - DEISE PEREIRA SANTOS CARVALHO - PR - Deputado Estadual;
+Diretório Nacional;29.549.433/0001-82;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;Direção Nacional - PMN -  / 33123 - DEISE PEREIRA SANTOS CARVALHO - PR - Deputado Estadual;
+ELEIÇAO RICARDO JOSE MAGALHAES BARROS;12.190.665/0001-94;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 450,00;Estimado;111 -  - PP -  - Senador / 33123 - DEISE PEREIRA SANTOS CARVALHO - PR - Deputado Estadual;
+ELEIÇÃO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;11/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 630,00;Estimado;45 -  - PSDB -  - Governador / 33123 - DEISE PEREIRA SANTOS CARVALHO - PR - Deputado Estadual;
+ELEIÇAO 2010 LUCIANO PIZZATTO;12.175.251/0001-96;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 260,00;Estimado;2552 -  - DEM -  - Deputado Federal / 33123 - DEISE PEREIRA SANTOS CARVALHO - PR - Deputado Estadual;
+KEOPS INDUSTRIA GRAFICA SA;01.674.524/0001-20;01/10/2010;       Publicidade por materiais impressos;R$ 3.220,00;Cheque; -  -  / 33123 - DEISE PEREIRA SANTOS CARVALHO - PR - Deputado Estadual;

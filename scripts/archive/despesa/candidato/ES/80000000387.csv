@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-BRICE BRAGATO;12.190.477/0001-66;10/09/2010;50000160843;R$ 1.942,00;Estimado;RENATO ALMEIDA DE ANDRADE;500;Senador;PSOL;ES;
-BRICE BRAGATO;12.190.477/0001-66;10/09/2010;50000160842;R$ 2.000,00;Estimado;RENATO ALMEIDA DE ANDRADE;500;Senador;PSOL;ES;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BRICE BRAGATO;12.190.477/0001-66;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.942,00;Estimado;50 -  - PSOL -  - Governador / 500 - RENATO ALMEIDA DE ANDRADE - ES - Senador;
+BRICE BRAGATO;12.190.477/0001-66;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado;50 -  - PSOL -  - Governador / 500 - RENATO ALMEIDA DE ANDRADE - ES - Senador;

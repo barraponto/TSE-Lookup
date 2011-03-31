@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.153/0001-61;20/09/2010;45000429091;R$ 440,00;Estimado;ELISABETH APARECIDA GARCIA RODRIGUES;4588;Deputado Federal;PSDB;AC;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.153/0001-61;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 440,00;Estimado;Comitê Financeiro Único - PSDB -  / 4588 - ELISABETH APARECIDA GARCIA RODRIGUES - AC - Deputado Federal;

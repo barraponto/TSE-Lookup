@@ -1,7 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;04.160.131/0001-97;06/10/2010;19000009183;R$ 945,00;Depósito em espécie;HELIONICE DE MENEZES SOUZA;19190;Deputado Estadual;PTN;AM;
-Diretório Estadual/Distrital;04.160.131/0001-97;13/08/2010;19000009184;R$ 300,00;Estimado;HELIONICE DE MENEZES SOUZA;19190;Deputado Estadual;PTN;AM;
-Diretório Estadual/Distrital;04.160.131/0001-97;30/09/2010;19000009188;R$ 200,00;Estimado;HELIONICE DE MENEZES SOUZA;19190;Deputado Estadual;PTN;AM;
-JAIR AMADOR REIS FILHO;407.172.242-87;18/08/2010;19000009185;R$ 2.000,00;Depósito em espécie;HELIONICE DE MENEZES SOUZA;19190;Deputado Estadual;PTN;AM;
-JOSE FERREIRA DE SOUZA;541.793.192-68;16/09/2010;19000009186;R$ 2.640,00;Depósito em espécie;HELIONICE DE MENEZES SOUZA;19190;Deputado Estadual;PTN;AM;
-JOSE FERREIRA DE SOUZA;541.793.192-68;16/09/2010;19000009187;R$ 1.000,00;Depósito em espécie;HELIONICE DE MENEZES SOUZA;19190;Deputado Estadual;PTN;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+A DE ALBUQUERQUE BELEM COMERCIAL;05.463.073/0001-33;31/08/2010;       Publicidade por materiais impressos;R$ 3.000,00;Cheque; -  -  / 19190 - HELIONICE DE MENEZES SOUZA - AM - Deputado Estadual;
+Diretório Estadual/Distrital;04.160.131/0001-97;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;Direção Estadual/Distrital - PMDB -  / 19190 - HELIONICE DE MENEZES SOUZA - AM - Deputado Estadual;
+Diretório Estadual/Distrital;04.160.131/0001-97;13/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Direção Estadual/Distrital - PMDB -  / 19190 - HELIONICE DE MENEZES SOUZA - AM - Deputado Estadual;
+J A REIS FILHO;02.617.518/0001-02;16/09/2010;       Publicidade por materiais impressos;R$ 2.640,00;Cheque; -  -  / 19190 - HELIONICE DE MENEZES SOUZA - AM - Deputado Estadual;
+L P DE ANDRADE COMERCIAL;02.765.976/0001-80;30/08/2010;       Publicidade por materiais impressos;R$ 945,00;Cheque; -  -  / 19190 - HELIONICE DE MENEZES SOUZA - AM - Deputado Estadual;

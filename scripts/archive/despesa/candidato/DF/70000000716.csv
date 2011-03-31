@@ -1,2 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.229.907/0001-06;17/09/2010;25000628001;R$ 200.000,00;Cheque;OSORIO ADRIANO FILHO;456;1º Suplente Senador;DEM;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CENTRAL DE PRODUÇÃO GRÁFICA E EDITORA LTDA EPP;10.460.820/0001-10;20/09/2010;       Publicidade por materiais impressos;R$ 3.750,00;Cheque; -  -  / 456 - OSORIO ADRIANO FILHO - DF - 1º Suplente Senador;
+EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS - ACF SIA;38.054.847/0001-21;22/09/2010;       Despesas postais;R$ 5.008,50;Cheque; -  -  / 456 - OSORIO ADRIANO FILHO - DF - 1º Suplente Senador;
+NILZA SOARES MACIEL;225.638.061-00;20/09/2010;       Despesas com pessoal;R$ 600,00;Cheque; -  -  / 456 - OSORIO ADRIANO FILHO - DF - 1º Suplente Senador;
+456 - OSORIO ADRIANO FILHO - 1º SUPLENTE SENADOR;12.229.719/0001-88;01/10/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 80.000,00;Cheque;456 - MARIA DE LOURDES ABADIA - PSDB - DF - Senador / 456 - OSORIO ADRIANO FILHO - DF - 1º Suplente Senador;
+456 - OSORIO ADRIANO FILHO - 1º SUPLENTE SENADOR;12.229.719/0001-88;01/10/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 10.641,50;Cheque;456 - MARIA DE LOURDES ABADIA - PSDB - DF - Senador / 456 - OSORIO ADRIANO FILHO - DF - 1º Suplente Senador;
+456 - OSORIO ADRIANO FILHO - 1º SUPLENTE SENADOR;12.229.719/0001-88;24/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 100.000,00;Cheque;456 - MARIA DE LOURDES ABADIA - PSDB - DF - Senador / 456 - OSORIO ADRIANO FILHO - DF - 1º Suplente Senador;

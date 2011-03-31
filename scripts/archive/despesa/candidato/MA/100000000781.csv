@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.205.310/0001-21;02/09/2010;17000052752;R$ 641,00;Estimado;ORNELIA MARIA SILVA DE ARAUJO;17417;Deputado Estadual;PSL;MA;
-Diretório Estadual/Distrital;12.205.310/0001-21;02/08/2010;17000052751;R$ 166,65;Estimado;ORNELIA MARIA SILVA DE ARAUJO;17417;Deputado Estadual;PSL;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.205.310/0001-21;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 166,65;Estimado;Direção Estadual/Distrital - PSL -  / 17417 - ORNELIA MARIA SILVA DE ARAUJO - MA - Deputado Estadual;
+Diretório Estadual/Distrital;12.205.310/0001-21;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 641,00;Estimado;Direção Estadual/Distrital - PSL -  / 17417 - ORNELIA MARIA SILVA DE ARAUJO - MA - Deputado Estadual;

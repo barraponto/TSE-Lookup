@@ -1,6 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO FRANCISCO MIGUEL LIMA;041.235.008-46;05/08/2010;65000202202;R$ 900,00;Estimado;JOÃO DA CRUZ SILVA;6541;Deputado Federal;PC do B;MA;
-GRAFICA EDITORA REGO LTDA;02.699.001/0001-00;05/08/2010;65000202203;R$ 5.050,00;Estimado;JOÃO DA CRUZ SILVA;6541;Deputado Federal;PC do B;MA;
-GRAFICA EDITORA REGO LTDA;02.699.001/0001-00;07/09/2010;65000202205;R$ 4.280,00;Estimado;JOÃO DA CRUZ SILVA;6541;Deputado Federal;PC do B;MA;
-GRAFICA EDITORA REGO LTDA;02.699.001/0001-00;01/09/2010;65000202204;R$ 2.000,00;Cheque;JOÃO DA CRUZ SILVA;6541;Deputado Federal;PC do B;MA;
-RAFAEL DE FREITAS COSTA;964.077.433-20;30/07/2010;65000202201;R$ 800,00;Estimado;JOÃO DA CRUZ SILVA;6541;Deputado Federal;PC do B;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO FRANCISCO MIGUEL LIMA;041.235.008-46;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 900,00;Estimado; -  -  / 6541 - JOÃO DA CRUZ SILVA - MA - Deputado Federal;
+EDILENE DA SILVA COSTA;993.134.303-63;03/09/2010;       Despesas com pessoal;R$ 1.000,00;Cheque; -  -  / 6541 - JOÃO DA CRUZ SILVA - MA - Deputado Federal;
+GRAFICA EDITORA REGO LTDA;02.699.001/0001-00;07/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.280,00;Estimado; -  -  / 6541 - JOÃO DA CRUZ SILVA - MA - Deputado Federal;
+GRAFICA EDITORA REGO LTDA;02.699.001/0001-00;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 5.050,00;Estimado; -  -  / 6541 - JOÃO DA CRUZ SILVA - MA - Deputado Federal;
+RAFAEL DE FREITAS COSTA;964.077.433-20;03/09/2010;       Despesas com pessoal;R$ 800,00;Cheque; -  -  / 6541 - JOÃO DA CRUZ SILVA - MA - Deputado Federal;
+RAFAEL DE FREITAS COSTA;964.077.433-20;30/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 800,00;Estimado; -  -  / 6541 - JOÃO DA CRUZ SILVA - MA - Deputado Federal;
+RAFAEL DE FREITAS COSTA;964.077.433-20;13/10/2010;       Reembolsos de gastos realizados por eleitores;R$ 200,00;Cheque; -  -  / 6541 - JOÃO DA CRUZ SILVA - MA - Deputado Federal;

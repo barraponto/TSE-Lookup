@@ -1,7 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADAIR CORREA DE ASSIS;634.332.221-34;20/08/2010;50000175534;R$ 105,44;Depósito em espécie;ADAIR CORREIA DE ASSIS;50777;Deputado Estadual;PSOL;GO;
-ADAIR CORREA DE ASSIS;634.332.221-34;10/08/2010;50000175536;R$ 310,00;Depósito em espécie;ADAIR CORREIA DE ASSIS;50777;Deputado Estadual;PSOL;GO;
-ADAIR CORREA DE ASSIS;634.332.221-34;30/09/2010;50000175539;R$ 100,00;Depósito em espécie;ADAIR CORREIA DE ASSIS;50777;Deputado Estadual;PSOL;GO;
-ADAIR CORREA DE ASSIS;634.332.221-34;27/10/2010;50000175540;R$ 22,20;Transferência eletrônica;ADAIR CORREIA DE ASSIS;50777;Deputado Estadual;PSOL;GO;
-MARTINIANO PEREIRA CAVALCANTE NETO;12.172.801/0001-13;10/08/2010;50000175532;R$ 145,46;Estimado;ADAIR CORREIA DE ASSIS;50777;Deputado Estadual;PSOL;GO;
-WASHINGTON FRAGA GUIMARAES;12.174.176/0001-49;23/08/2010;50000175535;R$ 80,00;Estimado;ADAIR CORREIA DE ASSIS;50777;Deputado Estadual;PSOL;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA GUANABARA LTDA;01.048.190/0001-80;17/08/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 50777 - ADAIR CORREIA DE ASSIS - GO - Deputado Estadual;
+LIBERDADE GRAFICA E EDITORA LTDA;01.843.409/0001-32;18/08/2010;       Publicidade por materiais impressos;R$ 107,25;Cheque; -  -  / 50777 - ADAIR CORREIA DE ASSIS - GO - Deputado Estadual;
+LIBERDADE GRAFICA E EDITORA LTDA;01.843.409/0001-32;30/09/2010;       Publicidade por materiais impressos;R$ 100,00;Cheque; -  -  / 50777 - ADAIR CORREIA DE ASSIS - GO - Deputado Estadual;
+MARTINIANO PEREIRA CAVALCANTE NETO;12.172.801/0001-13;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 145,46;Estimado;50123 -  - PSOL -  - Deputado Estadual / 50777 - ADAIR CORREIA DE ASSIS - GO - Deputado Estadual;
+WASHINGTON FRAGA GUIMARAES;12.174.176/0001-49;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 80,00;Estimado;50 -  - PSOL -  - Governador / 50777 - ADAIR CORREIA DE ASSIS - GO - Deputado Estadual;
+;;30/09/2010;       Encargos financeiros e taxas bancárias;R$ 22,20;Débito em conta; -  -  / 50777 - ADAIR CORREIA DE ASSIS - GO - Deputado Estadual;
+;;13/08/2010;       Encargos financeiros e taxas bancárias;R$ 1,59;Débito em conta; -  -  / 50777 - ADAIR CORREIA DE ASSIS - GO - Deputado Estadual;
+;;10/08/2010;       Encargos financeiros e taxas bancárias;R$ 6,60;Débito em conta; -  -  / 50777 - ADAIR CORREIA DE ASSIS - GO - Deputado Estadual;

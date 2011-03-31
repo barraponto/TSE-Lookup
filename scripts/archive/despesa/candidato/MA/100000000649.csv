@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FLÁVIO DINO DE CASTRO E COSTA;12.176.183/0001-80;09/09/2010;65000207160;R$ 750,00;Estimado;ANTONIO DA SILVA RODRIGUES;65223;Deputado Estadual;PC do B;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+FLÁVIO DINO DE CASTRO E COSTA;12.176.183/0001-80;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 750,00;Estimado;65 -  - PC do B -  - Governador / 65223 - ANTONIO DA SILVA RODRIGUES - MA - Deputado Estadual;

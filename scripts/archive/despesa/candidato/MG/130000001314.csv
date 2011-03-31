@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.154.851/0001-78;10/09/2010;70000100902;R$ 524,00;Estimado;MIRIAM LUCIA ZEFERINO DE OLIVEIRA;70170;Deputado Estadual;PT do B;MG;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.154.851/0001-78;03/09/2010;70000100900;R$ 1.180,00;Estimado;MIRIAM LUCIA ZEFERINO DE OLIVEIRA;70170;Deputado Estadual;PT do B;MG;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.154.851/0001-78;30/09/2010;70000100905;R$ 300,00;Estimado;MIRIAM LUCIA ZEFERINO DE OLIVEIRA;70170;Deputado Estadual;PT do B;MG;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.154.851/0001-78;15/09/2010;70000100903;R$ 360,00;Estimado;MIRIAM LUCIA ZEFERINO DE OLIVEIRA;70170;Deputado Estadual;PT do B;MG;
-MIRIAM LUCIA;849.418.556-04;10/08/2010;70000100895;R$ 115,00;Estimado;MIRIAM LUCIA ZEFERINO DE OLIVEIRA;70170;Deputado Estadual;PT do B;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.154.851/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual - PT do B -  / 70170 - MIRIAM LUCIA ZEFERINO DE OLIVEIRA - MG - Deputado Estadual;
+Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.154.851/0001-78;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 524,00;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual - PT do B -  / 70170 - MIRIAM LUCIA ZEFERINO DE OLIVEIRA - MG - Deputado Estadual;
+Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.154.851/0001-78;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.180,00;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual - PT do B -  / 70170 - MIRIAM LUCIA ZEFERINO DE OLIVEIRA - MG - Deputado Estadual;
+Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.154.851/0001-78;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual - PT do B -  / 70170 - MIRIAM LUCIA ZEFERINO DE OLIVEIRA - MG - Deputado Estadual;
+MIRIAM LUCIA;849.418.556-04;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 115,00;Estimado; -  -  / 70170 - MIRIAM LUCIA ZEFERINO DE OLIVEIRA - MG - Deputado Estadual;

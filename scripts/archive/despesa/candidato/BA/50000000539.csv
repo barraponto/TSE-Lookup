@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.191.570/0001-95;02/08/2010;33000118651;R$ 103,00;Estimado;LUIZ CARLOS OLIVEIRA DOS SANTOS;33107;Deputado Estadual;PMN;BA;
-LUIZ CARLOS OLIVEIRA DOS SANTOS;440.406.795-04;14/09/2010;33000118204;R$ 75,00;Estimado;LUIZ CARLOS OLIVEIRA DOS SANTOS;33107;Deputado Estadual;PMN;BA;
-LUIZ CARLOS OLIVEIRA DOS SANTOS;440.406.795-04;30/09/2010;33000118202;R$ 763,20;Estimado;LUIZ CARLOS OLIVEIRA DOS SANTOS;33107;Deputado Estadual;PMN;BA;
-LUIZ CARLOS OLIVEIRA DOS SANTOS;440.406.795-04;31/08/2010;33000118203;R$ 250,00;Estimado;LUIZ CARLOS OLIVEIRA DOS SANTOS;33107;Deputado Estadual;PMN;BA;
-LUIZ CARLOS OLIVEIRA DOS SANTOS;440.406.795-04;25/09/2010;33000118205;R$ 125,00;Estimado;LUIZ CARLOS OLIVEIRA DOS SANTOS;33107;Deputado Estadual;PMN;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.191.570/0001-95;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 103,00;Estimado;Direção Estadual/Distrital - PMDB -  / 33107 - LUIZ CARLOS OLIVEIRA DOS SANTOS - BA - Deputado Estadual;
+LUIZ CARLOS OLIVEIRA DOS SANTOS;440.406.795-04;25/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 125,00;Estimado; -  -  / 33107 - LUIZ CARLOS OLIVEIRA DOS SANTOS - BA - Deputado Estadual;
+LUIZ CARLOS OLIVEIRA DOS SANTOS;440.406.795-04;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 75,00;Estimado; -  -  / 33107 - LUIZ CARLOS OLIVEIRA DOS SANTOS - BA - Deputado Estadual;
+LUIZ CARLOS OLIVEIRA DOS SANTOS;440.406.795-04;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado; -  -  / 33107 - LUIZ CARLOS OLIVEIRA DOS SANTOS - BA - Deputado Estadual;
+LUIZ CARLOS OLIVEIRA DOS SANTOS;440.406.795-04;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 763,20;Estimado; -  -  / 33107 - LUIZ CARLOS OLIVEIRA DOS SANTOS - BA - Deputado Estadual;

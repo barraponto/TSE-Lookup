@@ -1,0 +1,44 @@
+
+#header {
+	clear:both;
+}
+
+#header h1 {
+	color: #0c7c28;
+	font-size:36px;
+	float:left;
+	height:150px;
+	margin:15px;
+}
+
+#header span {
+	width:420px;	
+	float:left;
+}
+
+#search {
+	background-color: #f56c1c;
+	clear:both;
+	width:925px;
+	height:150px;
+}
+
+#search input {
+	margin-top:45px;
+	height:35px;
+}
+
+#search input.box {
+	width: 600px;
+	margin-left:100px;
+}
+
+#search input.button {
+	width: 120px;
+	margin-top:35px;
+	margin-left:-120px;
+}
+
+#footer {
+
+}

@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;36000006306;R$ 300,00;Estimado;PEDRO FIDÉLIS VALENTE FILHO;36010;Deputado Estadual;PTC;MG;
-Comitê Financeiro Único;12.154.851/0001-78;15/09/2010;36000006305;R$ 1.180,00;Estimado;PEDRO FIDÉLIS VALENTE FILHO;36010;Deputado Estadual;PTC;MG;
-ELIZEU GONÇALVES BARBOSA;059.010.676-73;08/09/2010;36000006301;R$ 510,00;Estimado;PEDRO FIDÉLIS VALENTE FILHO;36010;Deputado Estadual;PTC;MG;
-LUCIENE FIDELIS GOMES;062.072.236-32;08/09/2010;36000006302;R$ 510,00;Estimado;PEDRO FIDÉLIS VALENTE FILHO;36010;Deputado Estadual;PTC;MG;
-LUIZ EUZEBIO DA COSTA;090.323.876-42;08/09/2010;36000006304;R$ 510,00;Estimado;PEDRO FIDÉLIS VALENTE FILHO;36010;Deputado Estadual;PTC;MG;
-SILVANA GONÇALVES RODRIGUES;066.828.426-94;08/09/2010;36000006303;R$ 510,00;Estimado;PEDRO FIDÉLIS VALENTE FILHO;36010;Deputado Estadual;PTC;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PT do B -  / 36010 - PEDRO FIDÉLIS VALENTE FILHO - MG - Deputado Estadual;
+Comitê Financeiro Único;12.154.851/0001-78;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.180,00;Estimado;Comitê Financeiro Único - PT do B -  / 36010 - PEDRO FIDÉLIS VALENTE FILHO - MG - Deputado Estadual;
+ELIZEU GONÇALVES BARBOSA;059.010.676-73;08/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 510,00;Estimado; -  -  / 36010 - PEDRO FIDÉLIS VALENTE FILHO - MG - Deputado Estadual;
+LUCIENE FIDELIS GOMES;062.072.236-32;08/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 510,00;Estimado; -  -  / 36010 - PEDRO FIDÉLIS VALENTE FILHO - MG - Deputado Estadual;
+LUIZ EUZEBIO DA COSTA;090.323.876-42;08/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 510,00;Estimado; -  -  / 36010 - PEDRO FIDÉLIS VALENTE FILHO - MG - Deputado Estadual;
+SILVANA GONÇALVES RODRIGUES;066.828.426-94;08/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 510,00;Estimado; -  -  / 36010 - PEDRO FIDÉLIS VALENTE FILHO - MG - Deputado Estadual;

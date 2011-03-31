@@ -1,5 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.515/0001-03;30/09/2010;33000083432;R$ 300,00;Estimado;JEFERSON GOMES DA SILVA;33380;Deputado Estadual;PMN;AL;
-ELEIÇÃO 2010 FERNANDO AFFONSO COLLOR DE MELLO;12.168.659/0001-30;29/09/2010;33000083431;R$ 3.906,25;Estimado;JEFERSON GOMES DA SILVA;33380;Deputado Estadual;PMN;AL;
-MARIA TEREZA RAMOS DE ALBUQUERQUE;209.903.404-49;13/09/2010;33000083433;R$ 250,00;Depósito em espécie;JEFERSON GOMES DA SILVA;33380;Deputado Estadual;PMN;AL;
-MARIA TEREZA RAMOS DE ALBUQUERQUE;209.903.404-49;22/09/2010;33000083434;R$ 1.300,00;Depósito em espécie;JEFERSON GOMES DA SILVA;33380;Deputado Estadual;PMN;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.515/0001-03;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMN -  / 33380 - JEFERSON GOMES DA SILVA - AL - Deputado Estadual;
+ELEIÇÃO 2010 FERNANDO AFFONSO COLLOR DE MELLO;12.168.659/0001-30;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.906,25;Estimado;14 -  - PTB -  - Governador / 33380 - JEFERSON GOMES DA SILVA - AL - Deputado Estadual;
+G. RIBEIRO - ME;05.536.523/0001-70;30/09/2010;       Publicidade por materiais impressos;R$ 64,20;Cheque; -  -  / 33380 - JEFERSON GOMES DA SILVA - AL - Deputado Estadual;
+IDEIA EDITORA GRAFICA E EMBALAGEM LTDA;00.631.480/0001-99;22/09/2010;       Publicidade por materiais impressos;R$ 1.280,00;Cheque; -  -  / 33380 - JEFERSON GOMES DA SILVA - AL - Deputado Estadual;
+NAYARA CARKA FERNANDES FALCÃO ME;08.341.813/0001-57;13/09/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 33380 - JEFERSON GOMES DA SILVA - AL - Deputado Estadual;
+;;15/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 33380 - JEFERSON GOMES DA SILVA - AL - Deputado Estadual;
+;;24/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 33380 - JEFERSON GOMES DA SILVA - AL - Deputado Estadual;

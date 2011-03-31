@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTERO PAES DE BARROS NETO;12.189.840/0001-23;04/09/2010;27000046082;R$ 500,00;Estimado;USIAS PEREIRA DA SILVA;27700;Deputado Estadual;PSDC;MT;
-Comitê Financeiro Único;12.205.224/0001-19;30/07/2010;27000046081;R$ 237,50;Estimado;USIAS PEREIRA DA SILVA;27700;Deputado Estadual;PSDC;MT;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTERO PAES DE BARROS NETO;12.189.840/0001-23;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;455 -  - PSDB -  - Senador / 27700 - USIAS PEREIRA DA SILVA - MT - Deputado Estadual;
+Comitê Financeiro Único;12.205.224/0001-19;30/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 237,50;Estimado;Comitê Financeiro Único - PSDC -  / 27700 - USIAS PEREIRA DA SILVA - MT - Deputado Estadual;

@@ -1,6 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;25.467.358/0001-50;30/09/2010;43001709305;R$ 4.000,00;Transferência eletrônica;ALADÍLSON CRUZ MARTINS;4325;Deputado Federal;PV;MG;
-JOSE FERNANDO APARECIDO DE OLIVEIRA;12.168.802/0001-94;23/09/2010;43001709302;R$ 1.000,00;Cheque;ALADÍLSON CRUZ MARTINS;4325;Deputado Federal;PV;MG;
-JOSE FERNANDO APARECIDO DE OLIVEIRA;12.168.802/0001-94;15/10/2010;43001709306;R$ 900,00;Cheque;ALADÍLSON CRUZ MARTINS;4325;Deputado Federal;PV;MG;
-RONALDO VASCONCELLOS NOVAIS;12.170.805/0001-62;16/09/2010;43001709303;R$ 3.800,00;Cheque;ALADÍLSON CRUZ MARTINS;4325;Deputado Federal;PV;MG;
-ZE FERNANDO APARECIDO DE OLIVEIRA;12.168.802/0001-94;27/08/2010;43001709301;R$ 440,00;Estimado;ALADÍLSON CRUZ MARTINS;4325;Deputado Federal;PV;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARMEM DE SA LIMA;11.183.057/0001-90;28/09/2010;       Alimentação;R$ 210,00;Cheque; -  -  / 4325 - ALADÍLSON CRUZ MARTINS - MG - Deputado Federal;
+ECT - EMP BRASIL DE CORREIOS E TELEGRAFOS;20.823.001/0001-43;29/09/2010;       Despesas postais;R$ 2.000,00;Cheque; -  -  / 4325 - ALADÍLSON CRUZ MARTINS - MG - Deputado Federal;
+EDIVALSON GONCALVES DE OLIVEIRA;164.718.468-19;05/10/2010;       Despesas com pessoal;R$ 690,00;Cheque; -  -  / 4325 - ALADÍLSON CRUZ MARTINS - MG - Deputado Federal;
+HEBRAIN GONCALVES MARTINS;064.236.056-10;15/10/2010;       Despesas com pessoal;R$ 900,00;Cheque; -  -  / 4325 - ALADÍLSON CRUZ MARTINS - MG - Deputado Federal;
+HP SIGN SINALIZACAO COMPUTADORIZADA LTDA;04.190.018/0001-54;27/09/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 4325 - ALADÍLSON CRUZ MARTINS - MG - Deputado Federal;
+HP SIGN SINALIZACAO COMPUTADORIZADA LTDA;04.190.018/0001-54;30/09/2010;       Publicidade por materiais impressos;R$ 1.300,00;Cheque; -  -  / 4325 - ALADÍLSON CRUZ MARTINS - MG - Deputado Federal;
+HP SIGN SINALIZACAO COMPUTADORIZADA LTDA;04.190.018/0001-54;20/09/2010;       Publicidade por materiais impressos;R$ 3.700,00;Cheque; -  -  / 4325 - ALADÍLSON CRUZ MARTINS - MG - Deputado Federal;
+PEREIRA E PEREIRA ASSOCIADOS LTDA;03.839.048/0001-86;30/09/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 4325 - ALADÍLSON CRUZ MARTINS - MG - Deputado Federal;
+ZE FERNANDO APARECIDO DE OLIVEIRA;12.168.802/0001-94;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 440,00;Estimado;43 -  - PV -  - Governador / 4325 - ALADÍLSON CRUZ MARTINS - MG - Deputado Federal;

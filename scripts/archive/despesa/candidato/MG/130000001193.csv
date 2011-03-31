@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANA JULIA LAGOEIRO ARAUJO LAFETÁ;449.003.766-04;18/08/2010;36000003901;R$ 678,00;Cheque;JOÃO BOSCO MARTINS;36177;Deputado Estadual;PTC;MG;
-Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;36000003903;R$ 300,00;Estimado;JOÃO BOSCO MARTINS;36177;Deputado Estadual;PTC;MG;
-Comitê Financeiro Único;12.154.851/0001-78;16/09/2010;36000003902;R$ 1.180,00;Estimado;JOÃO BOSCO MARTINS;36177;Deputado Estadual;PTC;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.154.851/0001-78;16/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.180,00;Estimado;Comitê Financeiro Único - PT do B -  / 36177 - JOÃO BOSCO MARTINS - MG - Deputado Estadual;
+Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PT do B -  / 36177 - JOÃO BOSCO MARTINS - MG - Deputado Estadual;
+GRAFICA DO GAUCHO;10.582.159/0001-15;23/08/2010;       Publicidade por materiais impressos;R$ 678,00;Cheque; -  -  / 36177 - JOÃO BOSCO MARTINS - MG - Deputado Estadual;

@@ -1,3 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;01.770.770/0001-86;01/10/2010;31000001454;R$ 3.000,00;Cheque;CELINA TOLENTINA DE DEUS;31771;Deputado Distrital;PHS;DF;
-Diretório Estadual/Distrital;01.770.770/0001-86;22/09/2010;31000001453;R$ 3.200,00;Cheque;CELINA TOLENTINA DE DEUS;31771;Deputado Distrital;PHS;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CRISTIANE JULIA DO NASCIMENTO;011.403.141-06;15/08/2010;       Despesas com pessoal;R$ 200,00;Cheque; -  -  / 31771 - CELINA TOLENTINA DE DEUS - DF - Deputado Distrital;
+ELIEZER SILVA FONSECA;675.278.092-72;03/09/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / 31771 - CELINA TOLENTINA DE DEUS - DF - Deputado Distrital;
+GENESIA RAMOS DA SILVA;381.054.381-00;15/08/2010;       Despesas com pessoal;R$ 300,00;Cheque; -  -  / 31771 - CELINA TOLENTINA DE DEUS - DF - Deputado Distrital;
+MARIA DA CONCEICAO DOMINGUES DOS REIS;379.793.371-15;03/07/2010;       Despesas com pessoal;R$ 3.000,00;Cheque; -  -  / 31771 - CELINA TOLENTINA DE DEUS - DF - Deputado Distrital;
+MARIA DA PAZ AQUINO ROCHA;010.815.153-09;15/08/2010;       Despesas com pessoal;R$ 200,00;Cheque; -  -  / 31771 - CELINA TOLENTINA DE DEUS - DF - Deputado Distrital;
+RAFAEL DE DEUS RUIZ;694.447.061-68;12/07/2010;       Despesas com pessoal;R$ 2.000,00;Cheque; -  -  / 31771 - CELINA TOLENTINA DE DEUS - DF - Deputado Distrital;

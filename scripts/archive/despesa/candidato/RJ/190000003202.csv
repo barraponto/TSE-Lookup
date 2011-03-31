@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.167/0001-85;10/08/2010;10000028141;R$ 4.980,00;Estimado;RENATO DA SILVA NUNES;1002;Deputado Federal;PRB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.167/0001-85;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.980,00;Estimado;Comitê Financeiro Único - PRB -  / 1002 - RENATO DA SILVA NUNES - RJ - Deputado Federal;

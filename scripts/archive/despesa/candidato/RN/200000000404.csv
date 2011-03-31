@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.221.843/0001-05;26/08/2010;21000013037;R$ 120,00;Estimado;DOMINGOS MARCOLINO DE OLIVEIRA;21123;Deputado Estadual;PCB;RN;
-Comitê Financeiro Único;12.221.843/0001-05;15/08/2010;21000013036;R$ 120,00;Estimado;DOMINGOS MARCOLINO DE OLIVEIRA;21123;Deputado Estadual;PCB;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.221.843/0001-05;15/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 120,00;Estimado;Comitê Financeiro Único - PCB -  / 21123 - DOMINGOS MARCOLINO DE OLIVEIRA - RN - Deputado Estadual;
+Comitê Financeiro Único;12.221.843/0001-05;26/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 120,00;Estimado;Comitê Financeiro Único - PCB -  / 21123 - DOMINGOS MARCOLINO DE OLIVEIRA - RN - Deputado Estadual;

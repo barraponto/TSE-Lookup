@@ -1,4 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LANTENEY NUNES DE LIMA;004.279.345-91;13/08/2010;15000056051;R$ 1.600,00;Depósito em espécie;LANTÊNEY NUNES DE LIMA BRAGA;15334;Deputado Estadual;PMDB;BA;
-LANTENEY NUNES DE LIMA;004.279.345-91;01/09/2010;15000056053;R$ 1.500,00;Estimado;LANTÊNEY NUNES DE LIMA BRAGA;15334;Deputado Estadual;PMDB;BA;
-LANTENEY NUNES DE LIMA;004.279.345-91;18/10/2010;15000056052;R$ 605,00;Depósito em espécie;LANTÊNEY NUNES DE LIMA BRAGA;15334;Deputado Estadual;PMDB;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+COPIADORA ELI LTDA;13.326.558/0001-03;19/08/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 15334 - LANTÊNEY NUNES DE LIMA BRAGA - BA - Deputado Estadual;
+GRAFICA DE OUTDOOR LTDA;08.885.475/0001-14;29/09/2010;       Publicidade por materiais impressos;R$ 420,00;Cheque; -  -  / 15334 - LANTÊNEY NUNES DE LIMA BRAGA - BA - Deputado Estadual;
+INFORBRINDES COMERCIO E SERVIÇOS LTDA;10.171.944/0001-85;17/08/2010;       Publicidade por materiais impressos;R$ 580,00;Cheque; -  -  / 15334 - LANTÊNEY NUNES DE LIMA BRAGA - BA - Deputado Estadual;
+INFORBRINDES COMERCIO E SERVIÇOS LTDA;10.171.944/0001-85;15/10/2010;       Publicidade por materiais impressos;R$ 695,00;Cheque; -  -  / 15334 - LANTÊNEY NUNES DE LIMA BRAGA - BA - Deputado Estadual;
+LANTENEY NUNES DE LIMA;004.279.345-91;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado; -  -  / 15334 - LANTÊNEY NUNES DE LIMA BRAGA - BA - Deputado Estadual;

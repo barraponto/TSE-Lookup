@@ -1,2 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSÉ RIBAMAR CORREIA RIBEIRO;344.846.127-04;03/08/2010;33000124891;R$ 1.000,00;Transferência eletrônica;JOSE RIBAMAR CORREA RIBEIRO;3345;Deputado Federal;PMN;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CLÓVIS NIVALDO DA COSTA SOUSA;159.263.032-49;03/09/2010;       Despesas postais;R$ 313,00;Transferência eletrônica; -  -  / 3345 - JOSE RIBAMAR CORREA RIBEIRO - PA - Deputado Federal;
+POSTO ITA;34.602.904/0001-09;09/08/2010;       Combustíveis e lubrificantes;R$ 118,00;Transferência eletrônica; -  -  / 3345 - JOSE RIBAMAR CORREA RIBEIRO - PA - Deputado Federal;
+POSTO ITA;34.602.904/0001-09;16/08/2010;       Combustíveis e lubrificantes;R$ 60,00;Transferência eletrônica; -  -  / 3345 - JOSE RIBAMAR CORREA RIBEIRO - PA - Deputado Federal;
+POSTO ITA;34.602.904/0001-09;27/09/2010;       Combustíveis e lubrificantes;R$ 97,00;Transferência eletrônica; -  -  / 3345 - JOSE RIBAMAR CORREA RIBEIRO - PA - Deputado Federal;
+POSTO ITA;34.602.904/0001-09;02/09/2010;       Combustíveis e lubrificantes;R$ 100,00;Transferência eletrônica; -  -  / 3345 - JOSE RIBAMAR CORREA RIBEIRO - PA - Deputado Federal;
+POSTO ITA;34.602.904/0001-09;23/08/2010;       Combustíveis e lubrificantes;R$ 70,00;Transferência eletrônica; -  -  / 3345 - JOSE RIBAMAR CORREA RIBEIRO - PA - Deputado Federal;
+POSTO ITA;34.602.904/0001-09;02/09/2010;       Combustíveis e lubrificantes;R$ 60,00;Transferência eletrônica; -  -  / 3345 - JOSE RIBAMAR CORREA RIBEIRO - PA - Deputado Federal;
+POSTO ITA;34.602.904/0001-09;06/09/2010;       Combustíveis e lubrificantes;R$ 67,00;Transferência eletrônica; -  -  / 3345 - JOSE RIBAMAR CORREA RIBEIRO - PA - Deputado Federal;
+POSTO ITA;34.602.904/0001-09;13/09/2010;       Combustíveis e lubrificantes;R$ 115,00;Transferência eletrônica; -  -  / 3345 - JOSE RIBAMAR CORREA RIBEIRO - PA - Deputado Federal;

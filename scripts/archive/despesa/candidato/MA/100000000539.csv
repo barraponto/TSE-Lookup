@@ -1,4 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.310/0001-21;02/09/2010;17000053503;R$ 641,00;Estimado;ORLANDO OLIVEIRA ALVES;1765;Deputado Federal;PSL;MA;
-ORLANDO OLIVEIRA ALVES;104.353.603-53;23/08/2010;17000053501;R$ 400,00;Depósito em espécie;ORLANDO OLIVEIRA ALVES;1765;Deputado Federal;PSL;MA;
-ORLANDO OLIVEIRA ALVES;104.353.603-53;30/08/2010;17000053502;R$ 600,00;Depósito em espécie;ORLANDO OLIVEIRA ALVES;1765;Deputado Federal;PSL;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.310/0001-21;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 641,00;Estimado;Comitê Financeiro Único - PSL -  / 1765 - ORLANDO OLIVEIRA ALVES - MA - Deputado Federal;
+GILBERTO DE LACERDA SOUSA;279.604.123-91;29/09/2010;       Publicidade por carros de som;R$ 1.000,00;Cheque; -  -  / 1765 - ORLANDO OLIVEIRA ALVES - MA - Deputado Federal;

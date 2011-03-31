@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALEXANDRE JOSE FARAH;12.171.292/0001-04;05/08/2010;43001505851;R$ 3.000,00;Cheque;ADILSON LIBANIO DA CRUZ;43193;Deputado Estadual;PV;RJ;
-ALEXANDRE JOSÉ FARAH;12.171.292/0001-04;20/08/2010;43001505853;R$ 3.000,00;Cheque;ADILSON LIBANIO DA CRUZ;43193;Deputado Estadual;PV;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADILSON LIBANIO DA CRUZ;736.204.327-91;25/08/2010;       Alimentação;R$ 3.000,00;Cheque; -  -  / 43193 - ADILSON LIBANIO DA CRUZ - RJ - Deputado Estadual;
+ADILSON LIBANIO DA CRUZ;736.204.327-91;12/08/2010;       Combustíveis e lubrificantes;R$ 3.000,00;Cheque; -  -  / 43193 - ADILSON LIBANIO DA CRUZ - RJ - Deputado Estadual;

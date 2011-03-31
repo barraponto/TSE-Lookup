@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LEONARDO ANTUNES DA CONCEIÇÃO;682.012.576-34;04/09/2010;40002205151;R$ 1.250,00;Estimado;JOSE CARLOS PEREIRA DA SILVA;4052;Deputado Federal;PSB;MG;
-MARIA LOPES DOS SANTOS DUTRA;695.859.976-49;04/09/2010;40002205153;R$ 900,00;Estimado;JOSE CARLOS PEREIRA DA SILVA;4052;Deputado Federal;PSB;MG;
-RICARDO ROCHA DO VALLE;989.718.326-49;04/09/2010;40002205152;R$ 1.250,00;Estimado;JOSE CARLOS PEREIRA DA SILVA;4052;Deputado Federal;PSB;MG;
-ROBSON PAULO DA SILVA;855.158.686-68;04/09/2010;40002205154;R$ 900,00;Estimado;JOSE CARLOS PEREIRA DA SILVA;4052;Deputado Federal;PSB;MG;
-RODRIGO ARREGUY MELO CAMPOS;024.771.376-70;04/09/2010;40002205155;R$ 900,00;Estimado;JOSE CARLOS PEREIRA DA SILVA;4052;Deputado Federal;PSB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+LEONARDO ANTUNES DA CONCEIÇÃO;682.012.576-34;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.250,00;Estimado; -  -  / 4052 - JOSE CARLOS PEREIRA DA SILVA - MG - Deputado Federal;
+MARIA LOPES DOS SANTOS DUTRA;695.859.976-49;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 900,00;Estimado; -  -  / 4052 - JOSE CARLOS PEREIRA DA SILVA - MG - Deputado Federal;
+RICARDO ROCHA DO VALLE;989.718.326-49;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.250,00;Estimado; -  -  / 4052 - JOSE CARLOS PEREIRA DA SILVA - MG - Deputado Federal;
+ROBSON PAULO DA SILVA;855.158.686-68;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 900,00;Estimado; -  -  / 4052 - JOSE CARLOS PEREIRA DA SILVA - MG - Deputado Federal;
+RODRIGO ARREGUY MELO CAMPOS;024.771.376-70;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 900,00;Estimado; -  -  / 4052 - JOSE CARLOS PEREIRA DA SILVA - MG - Deputado Federal;

@@ -1,6 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;28/09/2010;11000007546;R$ 150,00;Estimado;NORMA SUELI FIRMINO SOARES;11926;Deputado Estadual;PP;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;11000007547;R$ 150,00;Estimado;NORMA SUELI FIRMINO SOARES;11926;Deputado Estadual;PP;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;11000007548;R$ 300,00;Estimado;NORMA SUELI FIRMINO SOARES;11926;Deputado Estadual;PP;RJ;
-Comitê Financeiro Único;12.200.097/0001-65;02/10/2010;11000007549;R$ 3.592,00;Estimado;NORMA SUELI FIRMINO SOARES;11926;Deputado Estadual;PP;RJ;
-JORGE SAYED PICCIANI;12.076.626/0001-32;22/09/2010;11000007545;R$ 15,75;Estimado;NORMA SUELI FIRMINO SOARES;11926;Deputado Estadual;PP;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.097/0001-65;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.592,00;Estimado;Comitê Financeiro Único - PP -  / 11926 - NORMA SUELI FIRMINO SOARES - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 11926 - NORMA SUELI FIRMINO SOARES - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 11926 - NORMA SUELI FIRMINO SOARES - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 11926 - NORMA SUELI FIRMINO SOARES - RJ - Deputado Estadual;
+JORGE SAYED PICCIANI;12.076.626/0001-32;22/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 15,75;Estimado; -  -  / 11926 - NORMA SUELI FIRMINO SOARES - RJ - Deputado Estadual;
+WEST PAO WM PADARIA LTDA;05.988.413/0001-40;30/09/2010;       Locação/cessão de bens imóveis;R$ 300,00;Não informado; -  -  / 11926 - NORMA SUELI FIRMINO SOARES - RJ - Deputado Estadual;

@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.322/0001-56;30/09/2010;12000061906;R$ 3.639,86;Estimado;ELIANA VALENTIM;1224;Deputado Federal;PDT;RJ;
-ELIANA VALENTIM;862.941.647-53;16/07/2010;12000061901;R$ 50,00;Depósito em espécie;ELIANA VALENTIM;1224;Deputado Federal;PDT;RJ;
-JORGE PICCIANI;12.176.626/0001-32;14/09/2010;12000061902;R$ 17,00;Estimado;ELIANA VALENTIM;1224;Deputado Federal;PDT;RJ;
-SERGIO CABRAL;12.181.923/0001-76;27/09/2010;12000061904;R$ 150,00;Estimado;ELIANA VALENTIM;1224;Deputado Federal;PDT;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.322/0001-56;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.639,86;Estimado;Comitê Financeiro Único - PDT -  / 1224 - ELIANA VALENTIM - RJ - Deputado Federal;
+EDMILSON FERNANDES JACURU;870.934.307-59;30/09/2010;       Serviços prestados por terceiros;R$ 50,00;Cheque; -  -  / 1224 - ELIANA VALENTIM - RJ - Deputado Federal;
+JORGE PICCIANI;12.176.626/0001-32;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 1224 - ELIANA VALENTIM - RJ - Deputado Federal;
+SERGIO CABRAL;12.181.923/0001-76;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;15 -  - PMDB -  - Governador / 1224 - ELIANA VALENTIM - RJ - Deputado Federal;

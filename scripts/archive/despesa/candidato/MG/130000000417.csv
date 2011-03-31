@@ -1,8 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO ALBERTO LOBO RAMOS;161.926.566-49;06/08/2010;17000017301;R$ 1.000,00;Depósito em espécie;ANTONIO ALBERTO LOBO RAMOS;1769;Deputado Federal;PSL;MG;
-ANTONIO ALBERTO LOBO RAMOS;161.926.566-49;01/10/2010;17000017302;R$ 485,00;Depósito em espécie;ANTONIO ALBERTO LOBO RAMOS;1769;Deputado Federal;PSL;MG;
-ANTONIO ALBERTO LOBO RAMOS;161.926.566-49;02/10/2010;17000017307;R$ 1.020,00;Estimado;ANTONIO ALBERTO LOBO RAMOS;1769;Deputado Federal;PSL;MG;
-Comitê Financeiro Único;12.147.821/0001-34;19/08/2010;17000017303;R$ 508,00;Estimado;ANTONIO ALBERTO LOBO RAMOS;1769;Deputado Federal;PSL;MG;
-Comitê Financeiro Único;12.147.821/0001-34;25/09/2010;17000017304;R$ 45,00;Estimado;ANTONIO ALBERTO LOBO RAMOS;1769;Deputado Federal;PSL;MG;
-Comitê Financeiro Único;12.147.821/0001-34;19/08/2010;17000017305;R$ 1.197,84;Estimado;ANTONIO ALBERTO LOBO RAMOS;1769;Deputado Federal;PSL;MG;
-MISAEL EVARISTO DA SILVA;028.811.546-54;02/10/2010;17000017306;R$ 510,00;Estimado;ANTONIO ALBERTO LOBO RAMOS;1769;Deputado Federal;PSL;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO ALBERTO LOBO RAMOS;161.926.566-49;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.020,00;Estimado; -  -  / 1769 - ANTONIO ALBERTO LOBO RAMOS - MG - Deputado Federal;
+Comitê Financeiro Único;12.147.821/0001-34;25/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 45,00;Estimado;Comitê Financeiro Único - PSL -  / 1769 - ANTONIO ALBERTO LOBO RAMOS - MG - Deputado Federal;
+Comitê Financeiro Único;12.147.821/0001-34;19/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.197,84;Estimado;Comitê Financeiro Único - PSL -  / 1769 - ANTONIO ALBERTO LOBO RAMOS - MG - Deputado Federal;
+Comitê Financeiro Único;12.147.821/0001-34;19/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 508,00;Estimado;Comitê Financeiro Único - PSL -  / 1769 - ANTONIO ALBERTO LOBO RAMOS - MG - Deputado Federal;
+GRAFICA DO GAUCHO;10.582.159/0001-15;22/10/2010;       Publicidade por materiais impressos;R$ 485,00;Não informado; -  -  / 1769 - ANTONIO ALBERTO LOBO RAMOS - MG - Deputado Federal;
+GRAFICFA DO GAUCHO;10.582.159/0001-15;06/08/2010;       Publicidade por materiais impressos;R$ 1.080,00;Cheque; -  -  / 1769 - ANTONIO ALBERTO LOBO RAMOS - MG - Deputado Federal;
+MISAEL EVARISTO DA SILVA;028.811.546-54;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 510,00;Estimado; -  -  / 1769 - ANTONIO ALBERTO LOBO RAMOS - MG - Deputado Federal;
+POSTO PARADA OBRIGATORIA LTDA;71.233.852/0001-77;20/09/2010;       Combustíveis e lubrificantes;R$ 94,99;Cheque; -  -  / 1769 - ANTONIO ALBERTO LOBO RAMOS - MG - Deputado Federal;
+;;06/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,50;Débito em conta; -  -  / 1769 - ANTONIO ALBERTO LOBO RAMOS - MG - Deputado Federal;

@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-RICHARD ALVES LEITE;086.074.026-92;31/08/2010;43000710951;R$ 150,00;Cheque;WALDEMAR LEITE;4336;Deputado Federal;PV;MG;
-WALDEMAR LEITE;506.343.306-59;30/09/2010;43000710953;R$ 500,00;Estimado;WALDEMAR LEITE;4336;Deputado Federal;PV;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+SUPER GRAFICA CARVALHO BARBACENA LTDA;03.572.783/0001-76;31/08/2010;       Publicidade por materiais impressos;R$ 150,00;Cheque; -  -  / 4336 - WALDEMAR LEITE - MG - Deputado Federal;
+WALDEMAR LEITE;506.343.306-59;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 4336 - WALDEMAR LEITE - MG - Deputado Federal;

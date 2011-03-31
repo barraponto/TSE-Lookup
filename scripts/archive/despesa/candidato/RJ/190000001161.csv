@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Governador;12.191.576/0001-62;23/08/2010;45000108581;R$ 30.000,00;Cheque;ANDRÉ LUIZ COSTA DE SOUZA;4543;Deputado Federal;PSDB;RJ;
-ELEIÇÃO 2010 ANDRE LUIZ COSTA DE SOUZA DEPUTADO FEDERAL;001.903.117-38;24/09/2010;45000108582;R$ 2.500,00;Transferência eletrônica;ANDRÉ LUIZ COSTA DE SOUZA;4543;Deputado Federal;PSDB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+MAVILLA GRÁFICA & EDITORA LTDA;05.598.377/0001-08;26/08/2010;       Publicidade por materiais impressos;R$ 26.300,00;Cheque; -  -  / 4543 - ANDRÉ LUIZ COSTA DE SOUZA - RJ - Deputado Federal;
+MAVILLA GRÁFICA & EDITORA LTDA;05.598.377/0001-08;26/08/2010;       Publicidade por placas, estandartes e faixas;R$ 3.140,00;Cheque; -  -  / 4543 - ANDRÉ LUIZ COSTA DE SOUZA - RJ - Deputado Federal;
+RIO MIDIA PUBLICIDADE LTDA;02.807.628/0001-29;24/09/2010;       Publicidade por placas, estandartes e faixas;R$ 3.000,00;Cheque; -  -  / 4543 - ANDRÉ LUIZ COSTA DE SOUZA - RJ - Deputado Federal;

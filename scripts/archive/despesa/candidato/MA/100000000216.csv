@@ -1,10 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO COSTA ROCHA;432.497.103-00;21/09/2010;44000025304;R$ 100,00;Depósito em espécie;ANTONIO COSTA ROCHA;44280;Deputado Estadual;PRP;MA;
-ANTONIO COSTA ROCHA;432.497.103-00;21/10/2010;44000025306;R$ 3,25;Depósito em espécie;ANTONIO COSTA ROCHA;44280;Deputado Estadual;PRP;MA;
-ANTONIO COSTA ROCHA;432.497.103-00;22/10/2010;44000025307;R$ 1,45;Depósito em espécie;ANTONIO COSTA ROCHA;44280;Deputado Estadual;PRP;MA;
-ANTONIO COSTA ROCHA;432.497.103-00;26/10/2010;44000025309;R$ 891,45;Depósito em espécie;ANTONIO COSTA ROCHA;44280;Deputado Estadual;PRP;MA;
-ANTONIO COSTA ROCHA;432.497.103-00;14/10/2010;44000025305;R$ 890,00;Depósito em espécie;ANTONIO COSTA ROCHA;44280;Deputado Estadual;PRP;MA;
-CLAUDIO JOSE DE ABREU CALDAS;253.858.523-68;20/09/2010;44000025303;R$ 500,00;Depósito em espécie;ANTONIO COSTA ROCHA;44280;Deputado Estadual;PRP;MA;
-Comitê Financeiro Único;12.191.486/0001-71;01/08/2010;44000025308;R$ 561,00;Estimado;ANTONIO COSTA ROCHA;44280;Deputado Estadual;PRP;MA;
-MARCELO JOSE DE OLIVEIRA;009.389.937-80;21/09/2010;44000025302;R$ 500,00;Depósito em espécie;ANTONIO COSTA ROCHA;44280;Deputado Estadual;PRP;MA;
-TEMATICA COMPUTADORES E SERVIÇOS LTDA.;41.610.288/0001-01;16/09/2010;44000025301;R$ 300,00;Depósito em espécie;ANTONIO COSTA ROCHA;44280;Deputado Estadual;PRP;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.486/0001-71;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 561,00;Estimado;Comitê Financeiro Único - PRP -  / 44280 - ANTONIO COSTA ROCHA - MA - Deputado Estadual;
+GLECYA RODRIGUES BARRETO;961.386.293-53;01/10/2010;       Alimentação;R$ 5,80;Cheque; -  -  / 44280 - ANTONIO COSTA ROCHA - MA - Deputado Estadual;
+S. E. CAVALCANTE DE LIMA -ME;03.569.598/0001-22;17/09/2010;       Publicidade por materiais impressos;R$ 1.400,00;Cheque; -  -  / 44280 - ANTONIO COSTA ROCHA - MA - Deputado Estadual;
+S. E. CAVALCANTE DE LIMA -ME;03.569.598/0001-22;01/10/2010;       Publicidade por materiais impressos;R$ 890,00;Cheque; -  -  / 44280 - ANTONIO COSTA ROCHA - MA - Deputado Estadual;
+TEREZINHA COSTA ROCHA;689.265.703-63;20/09/2010;       Cessão ou Locação de Veículos;R$ 890,00;Cheque; -  -  / 44280 - ANTONIO COSTA ROCHA - MA - Deputado Estadual;
+;;14/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 44280 - ANTONIO COSTA ROCHA - MA - Deputado Estadual;

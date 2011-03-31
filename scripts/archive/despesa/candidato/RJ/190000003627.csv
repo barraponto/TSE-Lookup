@@ -1,5 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DALTRO JACQUES D'ORNELLAS;042.445.327-49;13/08/2010;50000391531;R$ 15.000,00;Depósito em espécie;DALTRO JACQUES D'ORNELLAS;5021;Deputado Federal;PSOL;RJ;
-DALTRO JACQUES D'ORNELLAS;042.445.327-49;30/09/2010;50000391534;R$ 11.880,00;Depósito em espécie;DALTRO JACQUES D'ORNELLAS;5021;Deputado Federal;PSOL;RJ;
-DALTRO JACQUES D'ORNELLAS;042.445.327-49;13/09/2010;50000391533;R$ 5.563,85;Depósito em espécie;DALTRO JACQUES D'ORNELLAS;5021;Deputado Federal;PSOL;RJ;
-DALTRO JACQUES D'ORNELLAS;042.445.327-49;17/08/2010;50000391532;R$ 2.000,00;Depósito em espécie;DALTRO JACQUES D'ORNELLAS;5021;Deputado Federal;PSOL;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+IARTE IMPRESSOS DE ARTE LTDA.;33.696.444/0001-62;13/08/2010;       Publicidade por materiais impressos;R$ 7.656,00;Transferência eletrônica; -  -  / 5021 - DALTRO JACQUES D'ORNELLAS - RJ - Deputado Federal;
+IARTE IMPRESSOS DE ARTE LTDA.;33.696.444/0001-62;23/08/2010;       Publicidade por materiais impressos;R$ 7.394,00;Cheque; -  -  / 5021 - DALTRO JACQUES D'ORNELLAS - RJ - Deputado Federal;
+INFOGLOBO COMUNICAÇÃO E PARTICIPAÇÕES S/A;60.452.752/0001-15;30/09/2010;       Publicidade por jornais e revistas;R$ 11.880,00;Cheque; -  -  / 5021 - DALTRO JACQUES D'ORNELLAS - RJ - Deputado Federal;
+PRINT PAPER EDITORA GRÁFICA LTDA.;01.673.604/0001-61;15/09/2010;       Publicidade por materiais impressos;R$ 7.500,00;Cheque; -  -  / 5021 - DALTRO JACQUES D'ORNELLAS - RJ - Deputado Federal;
+;;13/08/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Débito em conta; -  -  / 5021 - DALTRO JACQUES D'ORNELLAS - RJ - Deputado Federal;
+;;19/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 5021 - DALTRO JACQUES D'ORNELLAS - RJ - Deputado Federal;

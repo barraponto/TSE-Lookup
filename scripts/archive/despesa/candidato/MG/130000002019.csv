@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.543/0001-12;15/09/2010;36000014201;R$ 1.180,00;Estimado;ROBERVAL MOREIRA SANTOS;3665;Deputado Federal;PTC;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.543/0001-12;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.180,00;Estimado;Comitê Financeiro Único - PTC -  / 3665 - ROBERVAL MOREIRA SANTOS - MG - Deputado Federal;

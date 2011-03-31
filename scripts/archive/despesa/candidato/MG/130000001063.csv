@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSE LUIZ SOUZA;177.524.696-53;30/08/2010;28000605201;R$ 300,00;Depósito em espécie;JOAO BATISTA FERREIRA RIBEIRO;2804;Deputado Federal;PRTB;MG;
-JOSE LUIZ SOUZA;177.524.696-53;30/08/2010;28000605203;R$ 40,00;Depósito em espécie;JOAO BATISTA FERREIRA RIBEIRO;2804;Deputado Federal;PRTB;MG;
-JOSE LUIZ SOUZA;177.524.696-53;30/08/2010;28000605202;R$ 400,00;Depósito em espécie;JOAO BATISTA FERREIRA RIBEIRO;2804;Deputado Federal;PRTB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CONTABILIDADE RAZAO;04.796.989/0001-42;08/10/2010;       Serviços prestados por terceiros;R$ 40,00;Não informado; -  -  / 2804 - JOAO BATISTA FERREIRA RIBEIRO - MG - Deputado Federal;
+DIGITAL MULTIMIDIA;11.410.278/0001-53;13/08/2010;       Publicidade por carros de som;R$ 300,00;Cheque; -  -  / 2804 - JOAO BATISTA FERREIRA RIBEIRO - MG - Deputado Federal;
+DONIZETE ESTEVAO RIBEIRO;03.282.891/0001-04;13/08/2010;       Publicidade por placas, estandartes e faixas;R$ 400,00;Cheque; -  -  / 2804 - JOAO BATISTA FERREIRA RIBEIRO - MG - Deputado Federal;

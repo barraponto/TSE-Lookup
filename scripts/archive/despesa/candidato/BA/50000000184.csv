@@ -1,8 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-VALDEMIR FELIX DOS SANTOS;175.246.795-72;23/07/2010;43001854676;R$ 1.500,00;Transferência eletrônica;VALDEMIR FELIX DOS SANTOS;43111;Deputado Estadual;PV;BA;
-VALDEMIR FELIX DOS SANTOS;175.246.795-72;02/08/2010;43001854677;R$ 1.000,00;Transferência eletrônica;VALDEMIR FELIX DOS SANTOS;43111;Deputado Estadual;PV;BA;
-VALDEMIR FELIX DOS SANTOS;175.246.795-72;06/08/2010;43001854678;R$ 100,00;Transferência eletrônica;VALDEMIR FELIX DOS SANTOS;43111;Deputado Estadual;PV;BA;
-VALDEMIR FELIX DOS SANTOS;175.246.795-72;05/10/2010;43001854682;R$ 883,44;Transferência eletrônica;VALDEMIR FELIX DOS SANTOS;43111;Deputado Estadual;PV;BA;
-VALDEMIR FELIX DOS SANTOS;175.246.795-72;06/08/2010;43001854679;R$ 2.000,00;Estimado;VALDEMIR FELIX DOS SANTOS;43111;Deputado Estadual;PV;BA;
-VALDEMIR FELIX DOS SANTOS;175.246.795-72;02/09/2010;43001854681;R$ 400,00;Transferência eletrônica;VALDEMIR FELIX DOS SANTOS;43111;Deputado Estadual;PV;BA;
-VALDINEI FELIX DOS SANTOS;628.897.535-49;06/08/2010;43001854680;R$ 500,00;Estimado;VALDEMIR FELIX DOS SANTOS;43111;Deputado Estadual;PV;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+NAMORAL CAMISETAS LTDA - ME;10.268.848/0001-50;26/07/2010;       Publicidade por materiais impressos;R$ 1.500,00;Cheque; -  -  / 43111 - VALDEMIR FELIX DOS SANTOS - BA - Deputado Estadual;
+NAMORAL CAMISETAS LTDA - ME;10.268.848/0001-50;01/08/2010;       Publicidade por materiais impressos;R$ 1.003,74;Cheque; -  -  / 43111 - VALDEMIR FELIX DOS SANTOS - BA - Deputado Estadual;
+NAMORAL CAMISETAS LTDA - ME;10.268.848/0001-50;30/09/2010;       Publicidade por materiais impressos;R$ 944,00;Cheque; -  -  / 43111 - VALDEMIR FELIX DOS SANTOS - BA - Deputado Estadual;
+NAMORAL CAMISETAS LTDA - ME;10.268.848/0001-50;04/09/2010;       Publicidade por materiais impressos;R$ 435,00;Cheque; -  -  / 43111 - VALDEMIR FELIX DOS SANTOS - BA - Deputado Estadual;
+VALDEMIR FELIX DOS SANTOS;175.246.795-72;06/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado; -  -  / 43111 - VALDEMIR FELIX DOS SANTOS - BA - Deputado Estadual;
+VALDINEI FELIX DOS SANTOS;628.897.535-49;06/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 43111 - VALDEMIR FELIX DOS SANTOS - BA - Deputado Estadual;
+;;01/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 43111 - VALDEMIR FELIX DOS SANTOS - BA - Deputado Estadual;
+;;04/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 43111 - VALDEMIR FELIX DOS SANTOS - BA - Deputado Estadual;

@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JORGE SAYED PICCIANI;12.176.626/0001-32;30/09/2010;27000025831;R$ 3.187,50;Estimado;RENATO SCHETTINI KNUPP;27377;Deputado Estadual;PSDC;RJ;
-JORGE SAYED PICCIANI;12.176.626/0001-32;01/09/2010;27000025826;R$ 17,00;Estimado;RENATO SCHETTINI KNUPP;27377;Deputado Estadual;PSDC;RJ;
-SÉRGIO CABRAL;12.181.923/0001-76;23/09/2010;27000025829;R$ 150,00;Estimado;RENATO SCHETTINI KNUPP;27377;Deputado Estadual;PSDC;RJ;
-SÉRGIO CABRAL;12.181.923/0001-76;23/09/2010;27000025830;R$ 150,00;Estimado;RENATO SCHETTINI KNUPP;27377;Deputado Estadual;PSDC;RJ;
-SÉRGIO CABRAL;12.181.923/0001-76;23/09/2010;27000025827;R$ 825,00;Estimado;RENATO SCHETTINI KNUPP;27377;Deputado Estadual;PSDC;RJ;
-SÉRGIO CABRAL;12.181.923/0001-76;24/08/2010;27000025825;R$ 300,00;Estimado;RENATO SCHETTINI KNUPP;27377;Deputado Estadual;PSDC;RJ;
-SÉRGIO CABRAL;12.181.923/0001-76;23/09/2010;27000025828;R$ 150,00;Estimado;RENATO SCHETTINI KNUPP;27377;Deputado Estadual;PSDC;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JORGE SAYED PICCIANI;12.176.626/0001-32;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 27377 - RENATO SCHETTINI KNUPP - RJ - Deputado Estadual;
+JORGE SAYED PICCIANI;12.176.626/0001-32;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.187,50;Estimado;155 -  - PMDB -  - Senador / 27377 - RENATO SCHETTINI KNUPP - RJ - Deputado Estadual;
+SÉRGIO CABRAL;12.181.923/0001-76;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;15 -  - PMDB -  - Governador / 27377 - RENATO SCHETTINI KNUPP - RJ - Deputado Estadual;
+SÉRGIO CABRAL;12.181.923/0001-76;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;15 -  - PMDB -  - Governador / 27377 - RENATO SCHETTINI KNUPP - RJ - Deputado Estadual;
+SÉRGIO CABRAL;12.181.923/0001-76;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 825,00;Estimado;15 -  - PMDB -  - Governador / 27377 - RENATO SCHETTINI KNUPP - RJ - Deputado Estadual;
+SÉRGIO CABRAL;12.181.923/0001-76;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;15 -  - PMDB -  - Governador / 27377 - RENATO SCHETTINI KNUPP - RJ - Deputado Estadual;
+SÉRGIO CABRAL;12.181.923/0001-76;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;15 -  - PMDB -  - Governador / 27377 - RENATO SCHETTINI KNUPP - RJ - Deputado Estadual;

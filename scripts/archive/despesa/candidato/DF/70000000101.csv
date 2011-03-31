@@ -1,4 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALFREDO ALVES BRAGA;398.419.957-00;10/08/2010;12001522162;R$ 2.700,00;Depósito em espécie;ALFREDO ALVES BRAGA;12110;Deputado Distrital;PDT;DF;
-ALFREDO ALVES BRAGA;398.419.957-00;26/08/2010;12001522163;R$ 500,00;Depósito em espécie;ALFREDO ALVES BRAGA;12110;Deputado Distrital;PDT;DF;
-HUM MIL REAIS;054.723.771-53;10/08/2010;12001522161;R$ 1.000,00;Depósito em espécie;ALFREDO ALVES BRAGA;12110;Deputado Distrital;PDT;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BRUNO PEREIRA;935.320.042-81;31/08/2010;       Publicidade por carros de som;R$ 500,00;Cheque; -  -  / 12110 - ALFREDO ALVES BRAGA - DF - Deputado Distrital;
+EVALDO NARCISO DA SILVA SOARES ME;08.386.648/0001-50;13/08/2010;       Materiais de expediente;R$ 1.400,00;Cheque; -  -  / 12110 - ALFREDO ALVES BRAGA - DF - Deputado Distrital;
+JOAO ALBERTO MARTINS NOGUEIRA;400.392.347-49;11/08/2010;       Materiais de expediente;R$ 745,00;Cheque; -  -  / 12110 - ALFREDO ALVES BRAGA - DF - Deputado Distrital;
+LINOCY ALVES BEZERRA;110.177.752-49;28/09/2010;       Publicidade por carros de som;R$ 445,00;Cheque; -  -  / 12110 - ALFREDO ALVES BRAGA - DF - Deputado Distrital;
+MINCON ROGER M DO VALE;026.388.141-56;14/08/2010;       Publicidade por carros de som;R$ 360,00;Cheque; -  -  / 12110 - ALFREDO ALVES BRAGA - DF - Deputado Distrital;
+WILSON OLIVEIRA DA SILVA;902.808.145-34;24/08/2010;       Materiais de expediente;R$ 750,00;Cheque; -  -  / 12110 - ALFREDO ALVES BRAGA - DF - Deputado Distrital;

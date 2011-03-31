@@ -1,5 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
-Diretório Nacional;29.549.433/0001-82;30/09/2010;33000106154;R$ 5.000,00;Estimado;Comitê Financeiro Único;PMN;PB;
-GIOVANA MIRANDA TEJO DI PACE;010.946.464-82;27/07/2010;33000106223;R$ 307,00;Estimado;Comitê Financeiro Único;PMN;PB;
-LIDIA DE MOURA SILVA CRONEMBERGER;358.428.901-78;23/08/2010;33000106222;R$ 255,00;Transferência eletrônica;Comitê Financeiro Único;PMN;PB;
-LIDIA DE MOURA SILVA CRONEMBERGER;358.428.901-78;31/08/2010;33000106221;R$ 60,00;Transferência eletrônica;Comitê Financeiro Único;PMN;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Nacional;29.549.433/0001-82;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 5.000,00;Estimado;Direção Nacional - PMN -  / Comitê Financeiro Único - PMN - PB;
+GIOVANA MIRANDA TEJO DI PACE;010.946.464-82;27/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 307,00;Estimado; -  -  / Comitê Financeiro Único - PMN - PB;
+GRAFICA E EDITORA SANTA CLARA;09.012.299/0001-79;02/09/2010;       Publicidade por materiais impressos;R$ 250,00;Transferência eletrônica; -  -  / Comitê Financeiro Único - PMN - PB;
+;;23/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / Comitê Financeiro Único - PMN - PB;
+;;02/09/2010;       Encargos financeiros e taxas bancárias;R$ 7,50;Débito em conta; -  -  / Comitê Financeiro Único - PMN - PB;
+;;23/08/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / Comitê Financeiro Único - PMN - PB;
+;;26/08/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / Comitê Financeiro Único - PMN - PB;
+;;26/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / Comitê Financeiro Único - PMN - PB;

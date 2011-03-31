@@ -1,5 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.147.818/0001-10;01/10/2010;43001512004;R$ 583,75;Estimado;JOAO PAULO NONATO DE MEDEIROS;43028;Deputado Estadual;PV;RJ;
-JOÃO PAULO NONATO DE MEDEIROS;082.884.907-27;26/07/2010;43001512002;R$ 500,00;Depósito em espécie;JOAO PAULO NONATO DE MEDEIROS;43028;Deputado Estadual;PV;RJ;
-MARCIA GONZAGA DE MEDEIROS;082.629.837-00;06/08/2010;43001512003;R$ 632,95;Depósito em espécie;JOAO PAULO NONATO DE MEDEIROS;43028;Deputado Estadual;PV;RJ;
-MARCIA GONZAGA DE MEDEIROS;082.629.837-00;21/07/2010;43001512001;R$ 100,00;Depósito em espécie;JOAO PAULO NONATO DE MEDEIROS;43028;Deputado Estadual;PV;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.147.818/0001-10;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 583,75;Estimado;Comitê Financeiro Único - PV -  / 43028 - JOAO PAULO NONATO DE MEDEIROS - RJ - Deputado Estadual;
+KNOSEL SIGN CONFECÇÃO DE ADESIVOS LTDA;06.227.873/0001-18;06/08/2010;       Publicidade por materiais impressos;R$ 1.232,95;Cheque; -  -  / 43028 - JOAO PAULO NONATO DE MEDEIROS - RJ - Deputado Estadual;

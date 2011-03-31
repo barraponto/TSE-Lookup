@@ -1,12 +1,5 @@
-Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
-KEP JAN TECNOLOGIA EM VÍDEO E PRODUÇÃO LTDA;01.504.665/0001-03;30/09/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 10.000,00;Cheque; -  -  / Comitê Financeiro Único - PHS - RJ;
-;;04/10/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / Comitê Financeiro Único - PHS - RJ;
-;;30/09/2010;       Encargos financeiros e taxas bancárias;R$ 5,80;Débito em conta; -  -  / Comitê Financeiro Único - PHS - RJ;
-;;28/10/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Débito em conta; -  -  / Comitê Financeiro Único - PHS - RJ;
-;;28/09/2010;       Encargos financeiros e taxas bancárias;R$ 6,00;Débito em conta; -  -  / Comitê Financeiro Único - PHS - RJ;
-;;20/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / Comitê Financeiro Único - PHS - RJ;
-;;06/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,15;Débito em conta; -  -  / Comitê Financeiro Único - PHS - RJ;
-;;05/10/2010;       Encargos financeiros e taxas bancárias;R$ 5,80;Débito em conta; -  -  / Comitê Financeiro Único - PHS - RJ;
-;;30/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / Comitê Financeiro Único - PHS - RJ;
-;;05/10/2010;       Encargos financeiros e taxas bancárias;R$ 11,00;Débito em conta; -  -  / Comitê Financeiro Único - PHS - RJ;
-;;06/10/2010;       Encargos financeiros e taxas bancárias;R$ 3,00;Débito em conta; -  -  / Comitê Financeiro Único - PHS - RJ;
+Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
+Diretório Estadual/Distrital;30.902.811/0001-49;01/10/2010;31000026381;R$ 70.000,00;Cheque;Comitê Financeiro Único;PHS;RJ;
+JORGE SAYED PICCIANI;12.176.626/0001-32;01/10/2010;31000026405;R$ 30.000,00;Depósito em espécie;Comitê Financeiro Único;PHS;RJ;
+OSIR ZIMMERMANN VIEIRA;420.886.589-04;24/09/2010;31000026402;R$ 1.000,00;Cheque;Comitê Financeiro Único;PHS;RJ;
+WANDERLEY DE FIGUEIREDO VIANA;339.319.177-20;24/09/2010;31000026401;R$ 9.000,00;Cheque;Comitê Financeiro Único;PHS;RJ;

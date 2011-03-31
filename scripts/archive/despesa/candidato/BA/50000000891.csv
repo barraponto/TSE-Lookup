@@ -1,5 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CLISUR CLIN SUBURBANA E DE URGENCIA LTDA;13.534.359/0001-90;30/09/2010;22000012005;R$ 1.500,72;Depósito em espécie;MIGUEL JAIME MEIRA LESSA;22010;Deputado Estadual;PR;BA;
-Diretório Estadual/Distrital;12.191.570/0001-95;30/09/2010;22000012004;R$ 3.052,80;Estimado;MIGUEL JAIME MEIRA LESSA;22010;Deputado Estadual;PR;BA;
-Diretório Estadual/Distrital;12.191.570/0001-95;31/07/2010;22000012002;R$ 192,00;Estimado;MIGUEL JAIME MEIRA LESSA;22010;Deputado Estadual;PR;BA;
-GEDDEL QUADROS VIEIRA LIMA;12.173.503/0001-48;30/08/2010;22000012003;R$ 204,00;Estimado;MIGUEL JAIME MEIRA LESSA;22010;Deputado Estadual;PR;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.191.570/0001-95;31/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 192,00;Estimado;Direção Estadual/Distrital - PR -  / 22010 - MIGUEL JAIME MEIRA LESSA - BA - Deputado Estadual;
+Diretório Estadual/Distrital;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.052,80;Estimado;Direção Estadual/Distrital - PMDB -  / 22010 - MIGUEL JAIME MEIRA LESSA - BA - Deputado Estadual;
+FADALI MENDES NOVAES;283.039.385-68;30/09/2010;       Serviços prestados por terceiros;R$ 0,35;Cheque; -  -  / 22010 - MIGUEL JAIME MEIRA LESSA - BA - Deputado Estadual;
+GEDDEL QUADROS VIEIRA LIMA;12.173.503/0001-48;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 204,00;Estimado;15 -  - PMDB -  - Governador / 22010 - MIGUEL JAIME MEIRA LESSA - BA - Deputado Estadual;
+J.W.S. COMERCIAL DE BRINDES E SILK SCREEN LTDA.;00.312.635/0001-24;11/09/2010;       Serviços prestados por terceiros;R$ 850,00;Cheque; -  -  / 22010 - MIGUEL JAIME MEIRA LESSA - BA - Deputado Estadual;
+J.W.S. COMERCIAL DE BRINDES E SILK SCREEN LTDA.;00.312.635/0001-24;30/09/2010;       Publicidade por materiais impressos;R$ 650,37;Cheque; -  -  / 22010 - MIGUEL JAIME MEIRA LESSA - BA - Deputado Estadual;

@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-EDVALDO JOSÉ CAIÇARA;12.190.573/0001-04;26/07/2010;31000039801;R$ 750,00;Estimado;JOSEILSON NASCIMENTO;31444;Deputado Estadual;PHS;PB;
-JOSÉ TARGINO MARANHÃO;12.189.345/0001-14;22/09/2010;31000039802;R$ 150,00;Estimado;JOSEILSON NASCIMENTO;31444;Deputado Estadual;PHS;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EDVALDO JOSÉ CAIÇARA;12.190.573/0001-04;26/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 750,00;Estimado;3131 -  - PHS -  - Deputado Federal / 31444 - JOSEILSON NASCIMENTO - PB - Deputado Estadual;
+JOSÉ TARGINO MARANHÃO;12.189.345/0001-14;22/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;15 -  - PMDB -  - Governador / 31444 - JOSEILSON NASCIMENTO - PB - Deputado Estadual;

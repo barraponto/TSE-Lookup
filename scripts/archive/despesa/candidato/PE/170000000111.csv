@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Nacional;29.549.433/0001-82;18/08/2010;33000113102;R$ 500,00;Estimado;TEOFILO CORREIA CAVALCANTI;33111;Deputado Estadual;PMN;PE;
-Diretório Nacional;29.549.433/0001-82;30/09/2010;33000113104;R$ 4.035,71;Estimado;TEOFILO CORREIA CAVALCANTI;33111;Deputado Estadual;PMN;PE;
-Diretório Nacional;29.549.433/0001-82;20/08/2010;33000113103;R$ 75,00;Estimado;TEOFILO CORREIA CAVALCANTI;33111;Deputado Estadual;PMN;PE;
-TEOFILO CORREIA CAVALCANTI;032.753.534-20;04/08/2010;33000113101;R$ 500,00;Estimado;TEOFILO CORREIA CAVALCANTI;33111;Deputado Estadual;PMN;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Nacional;29.549.433/0001-82;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.035,71;Estimado;Direção Nacional - PMN -  / 33111 - TEOFILO CORREIA CAVALCANTI - PE - Deputado Estadual;
+Diretório Nacional;29.549.433/0001-82;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 75,00;Estimado;Direção Nacional - PMN -  / 33111 - TEOFILO CORREIA CAVALCANTI - PE - Deputado Estadual;
+Diretório Nacional;29.549.433/0001-82;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;Direção Nacional - PMN -  / 33111 - TEOFILO CORREIA CAVALCANTI - PE - Deputado Estadual;
+TEOFILO CORREIA CAVALCANTI;032.753.534-20;04/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 33111 - TEOFILO CORREIA CAVALCANTI - PE - Deputado Estadual;

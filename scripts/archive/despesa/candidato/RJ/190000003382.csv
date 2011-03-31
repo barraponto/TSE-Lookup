@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.147.818/0001-10;01/10/2010;43001511303;R$ 321,00;Estimado;WALQUIRIA JANDUI BRITO DO NASCIMENTO;43999;Deputado Estadual;PV;RJ;
-MARIA DA CONCEIÇÃO FARIAS MOREIRA DIAS;010.316.447-25;23/08/2010;43001511301;R$ 425,00;Estimado;WALQUIRIA JANDUI BRITO DO NASCIMENTO;43999;Deputado Estadual;PV;RJ;
-MARIA DA CONCEIÇÃO FARIAS MOREIRA DIAS;010.316.447-25;20/09/2010;43001511302;R$ 260,00;Estimado;WALQUIRIA JANDUI BRITO DO NASCIMENTO;43999;Deputado Estadual;PV;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.147.818/0001-10;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 321,00;Estimado;Comitê Financeiro Único - PV -  / 43999 - WALQUIRIA JANDUI BRITO DO NASCIMENTO - RJ - Deputado Estadual;
+MARIA DA CONCEIÇÃO FARIAS MOREIRA DIAS;010.316.447-25;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 425,00;Estimado; -  -  / 43999 - WALQUIRIA JANDUI BRITO DO NASCIMENTO - RJ - Deputado Estadual;
+MARIA DA CONCEIÇÃO FARIAS MOREIRA DIAS;010.316.447-25;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 260,00;Estimado; -  -  / 43999 - WALQUIRIA JANDUI BRITO DO NASCIMENTO - RJ - Deputado Estadual;

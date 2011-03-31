@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.235.315/0001-05;02/10/2010;28000769183;R$ 1.923,23;Estimado;SERGIO DEMICHURKI;2888;Deputado Federal;PRTB;PR;
-RIVALDIR JANSEN;12.235.292/0001-20;02/10/2010;28000769184;R$ 360,00;Estimado;SERGIO DEMICHURKI;2888;Deputado Federal;PRTB;PR;
-ROMUALDO CAMARGO;435.545.719-20;01/10/2010;28000769112;R$ 25,00;Estimado;SERGIO DEMICHURKI;2888;Deputado Federal;PRTB;PR;
-SERGIO DEMICHURKI;653.676.429-34;02/08/2010;28000769111;R$ 60,00;Depósito em espécie;SERGIO DEMICHURKI;2888;Deputado Federal;PRTB;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.235.315/0001-05;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.923,23;Estimado;Comitê Financeiro Único - PRTB -  / 2888 - SERGIO DEMICHURKI - PR - Deputado Federal;
+EVA DA LUZ DE JESUS DE ANDRADE;916.650.009-53;03/08/2010;       Serviços prestados por terceiros;R$ 50,00;Transferência eletrônica; -  -  / 2888 - SERGIO DEMICHURKI - PR - Deputado Federal;
+OLIVEIRA E J BITTENCOURT LTDA;81.729.725/0001-17;21/09/2010;       Combustíveis e lubrificantes;R$ 10,00;Transferência eletrônica; -  -  / 2888 - SERGIO DEMICHURKI - PR - Deputado Federal;
+RIVALDIR JANSEN;12.235.292/0001-20;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;287 -  - PRTB -  - Senador / 2888 - SERGIO DEMICHURKI - PR - Deputado Federal;
+ROMUALDO CAMARGO;435.545.719-20;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 25,00;Estimado; -  -  / 2888 - SERGIO DEMICHURKI - PR - Deputado Federal;

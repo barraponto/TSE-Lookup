@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.241.703/0001-90;08/08/2010;11000175742;R$ 400,00;Estimado;RUSSYERIANE SILVA DE LIMA;1112;Deputado Federal;PP;AP;
-Comitê Financeiro Único;12.241.703/0001-90;24/08/2010;11000175743;R$ 240,00;Estimado;RUSSYERIANE SILVA DE LIMA;1112;Deputado Federal;PP;AP;
-Comitê Financeiro Único;12.241.703/0001-90;28/09/2010;11000175749;R$ 577,00;Estimado;RUSSYERIANE SILVA DE LIMA;1112;Deputado Federal;PP;AP;
-Comitê Financeiro Único;12.241.703/0001-90;24/08/2010;11000175747;R$ 240,00;Estimado;RUSSYERIANE SILVA DE LIMA;1112;Deputado Federal;PP;AP;
-Comitê Financeiro Único;12.241.703/0001-90;28/09/2010;11000175748;R$ 625,00;Estimado;RUSSYERIANE SILVA DE LIMA;1112;Deputado Federal;PP;AP;
-Comitê Financeiro Único;12.241.703/0001-90;27/08/2010;11000175744;R$ 1.100,00;Estimado;RUSSYERIANE SILVA DE LIMA;1112;Deputado Federal;PP;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.241.703/0001-90;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 577,00;Estimado;Comitê Financeiro Único - PP -  / 1112 - RUSSYERIANE SILVA DE LIMA - AP - Deputado Federal;
+Comitê Financeiro Único;12.241.703/0001-90;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.100,00;Estimado;Comitê Financeiro Único - PP -  / 1112 - RUSSYERIANE SILVA DE LIMA - AP - Deputado Federal;
+Comitê Financeiro Único;12.241.703/0001-90;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 625,00;Estimado;Comitê Financeiro Único - PP -  / 1112 - RUSSYERIANE SILVA DE LIMA - AP - Deputado Federal;
+Comitê Financeiro Único;12.241.703/0001-90;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 240,00;Estimado;Comitê Financeiro Único - PP -  / 1112 - RUSSYERIANE SILVA DE LIMA - AP - Deputado Federal;
+Comitê Financeiro Único;12.241.703/0001-90;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 240,00;Estimado;Comitê Financeiro Único - PDT -  / 1112 - RUSSYERIANE SILVA DE LIMA - AP - Deputado Federal;
+Comitê Financeiro Único;12.241.703/0001-90;08/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado;Comitê Financeiro Único - PP -  / 1112 - RUSSYERIANE SILVA DE LIMA - AP - Deputado Federal;

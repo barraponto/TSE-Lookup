@@ -1,7 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.328/0001-23;29/09/2010;13000835247;R$ 12.300,00;Estimado;CLEVES JOSE DE ALENCAR;13150;Deputado Estadual;PT;PI;
-ELEICAO 2010 ANTONIO JOSE CASTELO BRANCO MEDEIROS SENADOR;12.167.820/0001-51;21/09/2010;13000835244;R$ 2.000,00;Cheque;CLEVES JOSE DE ALENCAR;13150;Deputado Estadual;PT;PI;
-ELEICAO 2010 JESUS RODRIGUES ALVES DEPUTADO FEDERAL;12.172.772/0001-90;03/08/2010;13000835242;R$ 500,00;Cheque;CLEVES JOSE DE ALENCAR;13150;Deputado Estadual;PT;PI;
-ELEICAO 2010 JESUS RODRIGUES ALVES DEPUTADO FEDERAL;12.172.772/0001-90;03/08/2010;13000835241;R$ 180,00;Cheque;CLEVES JOSE DE ALENCAR;13150;Deputado Estadual;PT;PI;
-ELEICAO 2010 JOSE WELLINGTON BARROSO DE ARAUJO DIAS SENADOR;12.172.786/0001-03;23/09/2010;13000835246;R$ 2.000,00;Cheque;CLEVES JOSE DE ALENCAR;13150;Deputado Estadual;PT;PI;
-RAIMUNDO NONATO DA SILVA;145.485.003-59;25/07/2010;13000835262;R$ 350,00;Estimado;CLEVES JOSE DE ALENCAR;13150;Deputado Estadual;PT;PI;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARIOSTO NOGUEIRA PACHECO;397.819.413-91;28/09/2010;       Serviços prestados por terceiros;R$ 2.000,00;Cheque; -  -  / 13150 - CLEVES JOSE DE ALENCAR - PI - Deputado Estadual;
+ARIOSTO NOGUEIRA PACHECO;397.819.413-91;01/10/2010;       Serviços prestados por terceiros;R$ 2.000,00;Cheque; -  -  / 13150 - CLEVES JOSE DE ALENCAR - PI - Deputado Estadual;
+BENICIO BEM ALVES DOS SANTOS NETO;420.637.873-87;31/08/2010;       Produção de jingles, vinhetas e slogans;R$ 400,00;Cheque; -  -  / 13150 - CLEVES JOSE DE ALENCAR - PI - Deputado Estadual;
+Comitê Financeiro Único;12.205.328/0001-23;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 12.300,00;Estimado;Comitê Financeiro Único - PT -  / 13150 - CLEVES JOSE DE ALENCAR - PI - Deputado Estadual;
+EDITORA E GRAFICA SAO JOAO LTDA;09.357.648/0001-94;30/08/2010;       Publicidade por materiais impressos;R$ 180,00;Cheque; -  -  / 13150 - CLEVES JOSE DE ALENCAR - PI - Deputado Estadual;
+RAIMUNDO NONATO DA SILVA;145.485.003-59;25/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 350,00;Estimado; -  -  / 13150 - CLEVES JOSE DE ALENCAR - PI - Deputado Estadual;
+RODRIGO CABRAL DA SILVA;026.257.143-95;09/08/2010;       Serviços prestados por terceiros;R$ 50,00;Cheque; -  -  / 13150 - CLEVES JOSE DE ALENCAR - PI - Deputado Estadual;
+;;26/10/2010;       Encargos financeiros e taxas bancárias;R$ 4,50;Débito em conta; -  -  / 13150 - CLEVES JOSE DE ALENCAR - PI - Deputado Estadual;

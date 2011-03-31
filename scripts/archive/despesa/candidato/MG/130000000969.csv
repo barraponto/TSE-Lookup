@@ -1,2 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Nacional;00.887.169/0001-05;05/08/2010;11000090302;R$ 5.000,00;Transferência eletrônica;CLAUDIA CAMPOLINA MORAES;1113;Deputado Federal;PP;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+MOÁRIA OLIVEIRA CAETANO;015.290.606-13;29/09/2010;       Despesas com pessoal;R$ 200,00;Cheque; -  -  / 1113 - CLAUDIA CAMPOLINA MORAES - MG - Deputado Federal;
+RICARDO RODRIGUES DE LACERDA;693.057.906-82;31/08/2010;       Cessão ou Locação de Veículos;R$ 4.800,00;Cheque; -  -  / 1113 - CLAUDIA CAMPOLINA MORAES - MG - Deputado Federal;

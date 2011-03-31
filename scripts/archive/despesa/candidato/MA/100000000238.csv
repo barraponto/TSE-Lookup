@@ -1,6 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-HOSANO BATISTA RIBEIRO;176.677.553-53;02/09/2010;28000201001;R$ 20,00;Depósito em espécie;HOSANO BATISTA RIBEIRO;28003;Deputado Estadual;PRTB;MA;
-HOSANO BATISTA RIBEIRO;176.677.553-53;18/11/2010;28000201003;R$ 180,00;Depósito em espécie;HOSANO BATISTA RIBEIRO;28003;Deputado Estadual;PRTB;MA;
-HOSANO BATISTA RIBEIRO;176.677.553-53;19/11/2010;28000201004;R$ 0,30;Depósito em espécie;HOSANO BATISTA RIBEIRO;28003;Deputado Estadual;PRTB;MA;
-HOSANO BATISTA RIBEIRO;176.677.553-53;19/11/2010;28000201005;R$ 0,40;Depósito em espécie;HOSANO BATISTA RIBEIRO;28003;Deputado Estadual;PRTB;MA;
-VALERIA DA SILVA BEZERRA;055.643.643-17;10/09/2010;28000201002;R$ 200,00;Estimado;HOSANO BATISTA RIBEIRO;28003;Deputado Estadual;PRTB;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+VALERIA DA SILVA BEZERRA;055.643.643-17;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado; -  -  / 28003 - HOSANO BATISTA RIBEIRO - MA - Deputado Estadual;
+VIRTUAL GRAFICA LTDA;05.197.858/0001-01;02/10/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 28003 - HOSANO BATISTA RIBEIRO - MA - Deputado Estadual;
+;;13/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 28003 - HOSANO BATISTA RIBEIRO - MA - Deputado Estadual;
+;;20/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 28003 - HOSANO BATISTA RIBEIRO - MA - Deputado Estadual;

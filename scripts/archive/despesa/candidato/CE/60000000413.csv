@@ -1,2 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LILIARDSON PEREIRA;001.290.423-66;28/07/2010;50000101371;R$ 1.100,00;Depósito em espécie;LILIARDSON PEREIRA DE SOUZA;50100;Deputado Estadual;PSOL;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EXPRESSÃO GRAFICA LTDA;23.715.659/0001-20;29/07/2010;       Publicidade por materiais impressos;R$ 1.090,00;Cheque; -  -  / 50100 - LILIARDSON PEREIRA DE SOUZA - CE - Deputado Estadual;
+JOSELITO MEDEIRO DO NASCIMENTO;157.133.338-09;04/10/2010;       Serviços prestados por terceiros;R$ 10,00;Cheque; -  -  / 50100 - LILIARDSON PEREIRA DE SOUZA - CE - Deputado Estadual;

@@ -1,5 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÕES 2010 EDSON CARDOSO PEÇANHA DEPUTADO ESTADUAL;609.374.407-87;13/09/2010;44000029144;R$ 500,00;Depósito em espécie;EDSON CARDOSO PECANHA;44111;Deputado Estadual;PRP;RJ;
-ELEIÇÕES 2010 EDSON CARDOSO PEÇANHA DEPUTADO ESTADUAL;609.374.407-87;24/09/2010;44000029145;R$ 500,00;Depósito em espécie;EDSON CARDOSO PECANHA;44111;Deputado Estadual;PRP;RJ;
-ELIANE ROLIM;12.180.992/0001-65;25/08/2010;44000029142;R$ 500,00;Estimado;EDSON CARDOSO PECANHA;44111;Deputado Estadual;PRP;RJ;
-ELIANE ROLIM;12.180.992/0001-65;30/08/2010;44000029143;R$ 1.970,76;Estimado;EDSON CARDOSO PECANHA;44111;Deputado Estadual;PRP;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELIANE ROLIM;12.180.992/0001-65;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;1321 -  - PT -  - Deputado Federal / 44111 - EDSON CARDOSO PECANHA - RJ - Deputado Estadual;
+ELIANE ROLIM;12.180.992/0001-65;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.970,76;Estimado;1321 -  - PT -  - Deputado Federal / 44111 - EDSON CARDOSO PECANHA - RJ - Deputado Estadual;
+MARCIO PRADO COMUNICAÇÃO VISUAL ME;05.135.288/0001-25;27/09/2010;       Publicidade por materiais impressos;R$ 475,00;Cheque; -  -  / 44111 - EDSON CARDOSO PECANHA - RJ - Deputado Estadual;
+MARCIO PRADO COMUNICAÇÃO VISUAL ME;05.135.288/0001-25;13/09/2010;       Publicidade por materiais impressos;R$ 475,00;Cheque; -  -  / 44111 - EDSON CARDOSO PECANHA - RJ - Deputado Estadual;
+;;13/09/2010;       Encargos financeiros e taxas bancárias;R$ 21,00;Débito em conta; -  -  / 44111 - EDSON CARDOSO PECANHA - RJ - Deputado Estadual;
+;;04/10/2010;       Encargos financeiros e taxas bancárias;R$ 21,00;Débito em conta; -  -  / 44111 - EDSON CARDOSO PECANHA - RJ - Deputado Estadual;

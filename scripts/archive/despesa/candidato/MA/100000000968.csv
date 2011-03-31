@@ -1,4 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MARIA DE JESUS PEREIRA DUARTE;067.350.103-53;26/08/2010;10000074122;R$ 1.450,00;Depósito em espécie;MANOEL EVANGELISTA DUARTE;10202;Deputado Estadual;PRB;MA;
-MARIA DE JESUS PEREIRA DUARTE;067.350.103-53;22/09/2010;10000074124;R$ 200,00;Depósito em espécie;MANOEL EVANGELISTA DUARTE;10202;Deputado Estadual;PRB;MA;
-MARIA DE JESUS PEREIRA DUARTE;067.350.103-53;16/09/2010;10000074123;R$ 500,00;Depósito em espécie;MANOEL EVANGELISTA DUARTE;10202;Deputado Estadual;PRB;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+COMERCIAL BARROS COM. E REPRESENTAÇÕES LTDA. EPP;00.863.224/0001-27;13/09/2010;       Diversas a especificar;R$ 100,00;Cheque; -  -  / 10202 - MANOEL EVANGELISTA DUARTE - MA - Deputado Estadual;
+L. R. COMBUSTIVEIS LTDA;08.234.381/0001-85;22/09/2010;       Combustíveis e lubrificantes;R$ 143,00;Cheque; -  -  / 10202 - MANOEL EVANGELISTA DUARTE - MA - Deputado Estadual;
+MANOEL EVANGELISTA DUARTE;206.673.533-72;01/11/2010;       Serviços prestados por terceiros;R$ 77,05;Cheque; -  -  / 10202 - MANOEL EVANGELISTA DUARTE - MA - Deputado Estadual;
+POSTO ARCOIRIS LTDA - ME;11.333.172/0001-01;13/09/2010;       Combustíveis e lubrificantes;R$ 222,26;Cheque; -  -  / 10202 - MANOEL EVANGELISTA DUARTE - MA - Deputado Estadual;
+POSTO ARCOIRIS LTDA - ME;11.333.172/0001-01;10/09/2010;       Combustíveis e lubrificantes;R$ 140,00;Cheque; -  -  / 10202 - MANOEL EVANGELISTA DUARTE - MA - Deputado Estadual;
+POSTO ARCOIRIS LTDA - ME;11.333.172/0001-01;13/09/2010;       Combustíveis e lubrificantes;R$ 50,00;Cheque; -  -  / 10202 - MANOEL EVANGELISTA DUARTE - MA - Deputado Estadual;
+POSTO ARCOIRIS LTDA - ME;11.333.172/0001-01;27/09/2010;       Combustíveis e lubrificantes;R$ 160,00;Cheque; -  -  / 10202 - MANOEL EVANGELISTA DUARTE - MA - Deputado Estadual;
+POSTO ARCOIRIS LTDA - ME;11.333.172/0001-01;27/09/2010;       Combustíveis e lubrificantes;R$ 472,40;Cheque; -  -  / 10202 - MANOEL EVANGELISTA DUARTE - MA - Deputado Estadual;
+POSTO ARCOIRIS LTDA - ME;11.333.172/0001-01;08/09/2010;       Combustíveis e lubrificantes;R$ 452,28;Cheque; -  -  / 10202 - MANOEL EVANGELISTA DUARTE - MA - Deputado Estadual;
+POSTO ARCOIRIS LTDA - ME;11.333.172/0001-01;10/09/2010;       Combustíveis e lubrificantes;R$ 333,01;Cheque; -  -  / 10202 - MANOEL EVANGELISTA DUARTE - MA - Deputado Estadual;

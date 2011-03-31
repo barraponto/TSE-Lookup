@@ -1,2 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LUCIA DE FÁTIMA MORAIS MARQUES;272.077.064-72;06/09/2010;50000011721;R$ 370,00;Depósito em espécie;LUCIA DE FATIMA MORAIS MARQUES;5009;Deputado Federal;PSOL;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+PRINT-SHOP GRÁFICA E EDITORA LTDA;02.690.955/0001-43;30/09/2010;       Publicidade por materiais impressos;R$ 50,00;Cheque; -  -  / 5009 - LUCIA DE FATIMA MORAIS MARQUES - AL - Deputado Federal;
+RICARDO ALEXANDRE VIEIRA DE MELO;03.366.335/0001-16;15/09/2010;       Publicidade por materiais impressos;R$ 320,00;Cheque; -  -  / 5009 - LUCIA DE FATIMA MORAIS MARQUES - AL - Deputado Federal;

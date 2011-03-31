@@ -1,2 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ABENILDO SANTANA DOS SANTOS;563.298.735-34;09/08/2010;45000054321;R$ 1.000,00;Depósito em espécie;ABENILDO SANTANA DOS SANTOS;45100;Deputado Estadual;PSDB;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIA FERNANDES DE MACÊDO PLOTAGEM;07.246.599/0001-97;30/08/2010;       Publicidade por materiais impressos;R$ 980,00;Cheque; -  -  / 45100 - ABENILDO SANTANA DOS SANTOS - BA - Deputado Estadual;
+;;20/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,70;Débito em conta; -  -  / 45100 - ABENILDO SANTANA DOS SANTOS - BA - Deputado Estadual;
+;;10/08/2010;       Encargos financeiros e taxas bancárias;R$ 18,00;Débito em conta; -  -  / 45100 - ABENILDO SANTANA DOS SANTOS - BA - Deputado Estadual;
+;;27/10/2010;       Encargos financeiros e taxas bancárias;R$ 1,30;Débito em conta; -  -  / 45100 - ABENILDO SANTANA DOS SANTOS - BA - Deputado Estadual;

@@ -1,6 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-GREENVILLE NELY ANDRADE DOS SANTOS-ME;01.857.871/0001-99;23/08/2010;11000163682;R$ 250,00;Estimado;LUIZ ANTONIO DOS SANTOS;11208;Deputado Estadual;PP;BA;
-LUIZ ANTÔNIO DOS SANTOS;110.475.425-87;16/09/2010;11000163685;R$ 300,00;Cheque;LUIZ ANTONIO DOS SANTOS;11208;Deputado Estadual;PP;BA;
-LUIZ ANTÔNIO DOS SANTOS;110.475.425-87;02/09/2010;11000163684;R$ 100,00;Cheque;LUIZ ANTONIO DOS SANTOS;11208;Deputado Estadual;PP;BA;
-LUIZ ANTÔNIO DOS SANTOS;110.475.425-87;19/08/2010;11000163681;R$ 500,00;Cheque;LUIZ ANTONIO DOS SANTOS;11208;Deputado Estadual;PP;BA;
-LUIZ ANTÔNIO DOS SANTOS;110.475.425-87;01/09/2010;11000163683;R$ 100,00;Cheque;LUIZ ANTONIO DOS SANTOS;11208;Deputado Estadual;PP;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+COMUNICAÇÃO VISUAL LTDA ME;11.851.476/0001-52;27/08/2010;       Diversas a especificar;R$ 160,00;Cheque; -  -  / 11208 - LUIZ ANTONIO DOS SANTOS - BA - Deputado Estadual;
+COMUNICAÇÃO VISUAL LTDA ME;11.851.476/0001-52;01/09/2010;       Diversas a especificar;R$ 380,00;Cheque; -  -  / 11208 - LUIZ ANTONIO DOS SANTOS - BA - Deputado Estadual;
+COMUNICAÇÃO VISUAL LTDA ME;11.851.476/0001-52;18/09/2010;       Diversas a especificar;R$ 200,00;Cheque; -  -  / 11208 - LUIZ ANTONIO DOS SANTOS - BA - Deputado Estadual;
+COMUNICAÇÃO VISUAL LTDA ME;11.851.476/0001-52;04/09/2010;       Diversas a especificar;R$ 150,00;Cheque; -  -  / 11208 - LUIZ ANTONIO DOS SANTOS - BA - Deputado Estadual;
+GREENVILLE NELY ANDRADE DOS SANTOS-ME;01.857.871/0001-99;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado; -  -  / 11208 - LUIZ ANTONIO DOS SANTOS - BA - Deputado Estadual;
+POSTO PARAKI - PINHEIRO REQUIÃO & CIA LTDA;13.709.670/0001-23;23/09/2010;       Diversas a especificar;R$ 100,00;Cheque; -  -  / 11208 - LUIZ ANTONIO DOS SANTOS - BA - Deputado Estadual;

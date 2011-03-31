@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-A DE S BAENA PUBLICIDADE;07.928.850/0001-01;12/08/2010;19000035003;R$ 5.000,00;Outros títulos de crédito;FABIO SIMÃO LUIZ OLIVEIRA;1919;Deputado Federal;PTN;PA;
-FÁBIO SIMÃO LUIZ OLIVEIRA;251.861.322-68;30/09/2010;19000035002;R$ 850,00;Transferência eletrônica;FABIO SIMÃO LUIZ OLIVEIRA;1919;Deputado Federal;PTN;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+A DE S BAENA PUBLICIDADE;07.928.850/0001-01;12/08/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 5.000,00;Não informado; -  -  / 1919 - FABIO SIMÃO LUIZ OLIVEIRA - PA - Deputado Federal;
+GRAFICA EDITORA GRAFAMA LTDA;01.769.628/0001-19;01/10/2010;       Publicidade por materiais impressos;R$ 250,00;Cheque; -  -  / 1919 - FABIO SIMÃO LUIZ OLIVEIRA - PA - Deputado Federal;
+GRAFICA NASCIMENTO LTDA;01.242.194/0001-02;30/09/2010;       Diversas a especificar;R$ 600,00;Cheque; -  -  / 1919 - FABIO SIMÃO LUIZ OLIVEIRA - PA - Deputado Federal;

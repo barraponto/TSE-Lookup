@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS MARTINS;12.204.239/0001-62;30/09/2010;65000226606;R$ 240,00;Estimado;JOÃO AFONSO TAVARES;65050;Deputado Estadual;PC do B;PA;
-CARLOS MARTINS;12.204.239/0001-62;30/09/2010;65000226605;R$ 800,00;Estimado;JOÃO AFONSO TAVARES;65050;Deputado Estadual;PC do B;PA;
-CARLOS MARTINS;12.204.239/0001-62;30/09/2010;65000226607;R$ 1.200,00;Estimado;JOÃO AFONSO TAVARES;65050;Deputado Estadual;PC do B;PA;
-CARLOS MARTNIS;12.204.239/0001-62;30/09/2010;65000226604;R$ 400,00;Estimado;JOÃO AFONSO TAVARES;65050;Deputado Estadual;PC do B;PA;
-JORGE PANZERA;12.204.180/0001-02;14/09/2010;65000226602;R$ 161,00;Estimado;JOÃO AFONSO TAVARES;65050;Deputado Estadual;PC do B;PA;
-JORGE PANZERA;12.204.180/0001-02;14/09/2010;65000226601;R$ 30,00;Estimado;JOÃO AFONSO TAVARES;65050;Deputado Estadual;PC do B;PA;
-JORGE PANZERAD;12.204.180/0001-02;29/09/2010;65000226603;R$ 100,00;Estimado;JOÃO AFONSO TAVARES;65050;Deputado Estadual;PC do B;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS MARTINS;12.204.239/0001-62;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 800,00;Estimado;1311 -  - PT -  - Deputado Federal / 65050 - JOÃO AFONSO TAVARES - PA - Deputado Estadual;
+CARLOS MARTINS;12.204.239/0001-62;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 240,00;Estimado;1311 -  - PT -  - Deputado Federal / 65050 - JOÃO AFONSO TAVARES - PA - Deputado Estadual;
+CARLOS MARTINS;12.204.239/0001-62;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.200,00;Estimado;1311 -  - PT -  - Deputado Federal / 65050 - JOÃO AFONSO TAVARES - PA - Deputado Estadual;
+CARLOS MARTNIS;12.204.239/0001-62;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado;1311 -  - PT -  - Deputado Federal / 65050 - JOÃO AFONSO TAVARES - PA - Deputado Estadual;
+JORGE PANZERA;12.204.180/0001-02;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 161,00;Estimado;6565 -  - PC do B -  - Deputado Federal / 65050 - JOÃO AFONSO TAVARES - PA - Deputado Estadual;
+JORGE PANZERA;12.204.180/0001-02;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 30,00;Estimado;6565 -  - PC do B -  - Deputado Federal / 65050 - JOÃO AFONSO TAVARES - PA - Deputado Estadual;
+JORGE PANZERAD;12.204.180/0001-02;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado;6565 -  - PC do B -  - Deputado Federal / 65050 - JOÃO AFONSO TAVARES - PA - Deputado Estadual;

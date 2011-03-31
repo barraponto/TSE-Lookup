@@ -1,7 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-HERMOGENES JOSÉ DA SILVA RODRIGUES;130.196.865-04;22/09/2010;19000001637;R$ 1.000,00;Depósito em espécie;JOAO CLEANO BEZERRA MARTINS;19190;Deputado Estadual;PTN;CE;
-HILDEMAR SILVA DE ASSIS;388.063.633-87;22/09/2010;19000001638;R$ 1.000,00;Depósito em espécie;JOAO CLEANO BEZERRA MARTINS;19190;Deputado Estadual;PTN;CE;
-JOSE LOPES;371.481.413-20;12/08/2010;19000001634;R$ 2.500,00;Depósito em espécie;JOAO CLEANO BEZERRA MARTINS;19190;Deputado Estadual;PTN;CE;
-LUCIANNE SOUTO MARTINS REGIS;991.916.443-72;11/08/2010;19000001631;R$ 2.500,00;Depósito em espécie;JOAO CLEANO BEZERRA MARTINS;19190;Deputado Estadual;PTN;CE;
-RENATO CESAR CASTRO ALVES;108.010.813-00;11/08/2010;19000001632;R$ 2.500,00;Depósito em espécie;JOAO CLEANO BEZERRA MARTINS;19190;Deputado Estadual;PTN;CE;
-SEBASTIAO FERREIRA LIMA;366.121.703-87;11/08/2010;19000001633;R$ 2.500,00;Depósito em espécie;JOAO CLEANO BEZERRA MARTINS;19190;Deputado Estadual;PTN;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+COMERCIAL DE PETROLEO SÃO FRANCISCO LTDA;07.440.046/0001-70;26/08/2010;       Combustíveis e lubrificantes;R$ 1.000,00;Cheque; -  -  / 19190 - JOAO CLEANO BEZERRA MARTINS - CE - Deputado Estadual;
+FRANCISCO JANDERCLEISON  VIANA JUCA;049.753.243-34;18/08/2010;       Serviços prestados por terceiros;R$ 1.000,00;Cheque; -  -  / 19190 - JOAO CLEANO BEZERRA MARTINS - CE - Deputado Estadual;
+GRAFICA COLOR MAX ROSELIA PONCIANO DA SILVA;07.450.862/0001-65;13/08/2010;       Publicidade por materiais impressos;R$ 3.000,00;Cheque; -  -  / 19190 - JOAO CLEANO BEZERRA MARTINS - CE - Deputado Estadual;
+JOAO CLEANO BEZERRA MARTINS;12.174.466/0001-92;29/10/2010;       Diversas a especificar;R$ 50,00;Não informado; -  -  / 19190 - JOAO CLEANO BEZERRA MARTINS - CE - Deputado Estadual;
+LEANDRO RODRIGUES DE ARAUJO;931.189.453-20;27/09/2010;       Serviços prestados por terceiros;R$ 2.000,00;Cheque; -  -  / 19190 - JOAO CLEANO BEZERRA MARTINS - CE - Deputado Estadual;
+POSTO ENZO J P DE M FONSECA;07.536.301/0001-83;16/08/2010;       Combustíveis e lubrificantes;R$ 3.500,00;Cheque; -  -  / 19190 - JOAO CLEANO BEZERRA MARTINS - CE - Deputado Estadual;
+RENATO CATUNDA MESQUITA;994.623.113-15;26/08/2010;       Serviços prestados por terceiros;R$ 1.050,00;Cheque; -  -  / 19190 - JOAO CLEANO BEZERRA MARTINS - CE - Deputado Estadual;
+RENATO CESAR CASTRO ALVES;108.010.813-00;13/08/2010;       Serviços prestados por terceiros;R$ 400,00;Cheque; -  -  / 19190 - JOAO CLEANO BEZERRA MARTINS - CE - Deputado Estadual;

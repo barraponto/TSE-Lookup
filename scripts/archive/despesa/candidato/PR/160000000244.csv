@@ -1,5 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALFREDO WELKER SOBRINHO;542.293.329-04;20/07/2010;43001763001;R$ 50,00;Depósito em espécie;ALFREDO WELKER SOBRINHO;43777;Deputado Estadual;PV;PR;
-ALFREDO WELKER SOBRINHO;542.293.329-04;22/09/2010;43001763004;R$ 150,00;Depósito em espécie;ALFREDO WELKER SOBRINHO;43777;Deputado Estadual;PV;PR;
-ALFREDO WELKER SOBRINHO;542.293.329-04;20/08/2010;43001763003;R$ 520,00;Depósito em espécie;ALFREDO WELKER SOBRINHO;43777;Deputado Estadual;PV;PR;
-ALFREDO WELKER SOBRINHO;542.293.329-04;29/07/2010;43001763002;R$ 200,00;Depósito em espécie;ALFREDO WELKER SOBRINHO;43777;Deputado Estadual;PV;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALFREDO WELKER SOBRINHO;542.293.329-04;02/10/2010;       Serviços prestados por terceiros;R$ 120,00;Cheque; -  -  / 43777 - ALFREDO WELKER SOBRINHO - PR - Deputado Estadual;
+AUTO POSTO APROMAN LTDA;08.532.646/0001-21;30/07/2010;       Combustíveis e lubrificantes;R$ 50,00;Cheque; -  -  / 43777 - ALFREDO WELKER SOBRINHO - PR - Deputado Estadual;
+AUTO POSTO APROMAN LTDA;08.532.646/0001-21;08/08/2010;       Combustíveis e lubrificantes;R$ 100,00;Cheque; -  -  / 43777 - ALFREDO WELKER SOBRINHO - PR - Deputado Estadual;
+AUTO POSTO APROMAN LTDA;08.532.646/0001-21;05/08/2010;       Combustíveis e lubrificantes;R$ 60,00;Cheque; -  -  / 43777 - ALFREDO WELKER SOBRINHO - PR - Deputado Estadual;
+AUTO POSTO APROMAN LTDA;08.532.646/0001-21;21/07/2010;       Combustíveis e lubrificantes;R$ 40,00;Cheque; -  -  / 43777 - ALFREDO WELKER SOBRINHO - PR - Deputado Estadual;
+AUTO POSTO APROMAN LTDA;08.532.646/0001-21;24/09/2010;       Combustíveis e lubrificantes;R$ 100,00;Cheque; -  -  / 43777 - ALFREDO WELKER SOBRINHO - PR - Deputado Estadual;
+AUTO POSTO OASIS COMERCIAL DE COMBUSTIVEIS LTDA;77.265.346/0001-46;20/08/2010;       Combustíveis e lubrificantes;R$ 50,00;Cheque; -  -  / 43777 - ALFREDO WELKER SOBRINHO - PR - Deputado Estadual;
+VISÃO ARTES GRAFICAS LTDA;01.867.900/0001-01;25/08/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 43777 - ALFREDO WELKER SOBRINHO - PR - Deputado Estadual;

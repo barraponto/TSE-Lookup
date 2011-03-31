@@ -1,6 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CESAR OLIVEIRA CARNEIRO;564.251.635-34;30/07/2010;50000085526;R$ 500,00;Depósito em espécie;CESAR OLIVEIRA CARNEIRO;5010;Deputado Federal;PSOL;BA;
-CESAR OLIVEIRA CARNEIRO;564.251.635-34;02/08/2010;50000085527;R$ 450,00;Depósito em espécie;CESAR OLIVEIRA CARNEIRO;5010;Deputado Federal;PSOL;BA;
-CESAR OLIVEIRA CARNEIRO;564.251.635-34;21/10/2010;50000085530;R$ 10,00;Depósito em espécie;CESAR OLIVEIRA CARNEIRO;5010;Deputado Federal;PSOL;BA;
-CESAR OLIVEIRA CARNEIRO;564.251.635-34;21/10/2010;50000085529;R$ 53,00;Depósito em espécie;CESAR OLIVEIRA CARNEIRO;5010;Deputado Federal;PSOL;BA;
-CESAR OLIVEIRA CARNEIRO;564.251.635-34;10/09/2010;50000085528;R$ 150,00;Depósito em espécie;CESAR OLIVEIRA CARNEIRO;5010;Deputado Federal;PSOL;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+FORTE BAHIA;08.885.732/0001-18;29/09/2010;       Publicidade por materiais impressos;R$ 250,00;Cheque; -  -  / 5010 - CESAR OLIVEIRA CARNEIRO - BA - Deputado Federal;
+UNIVERSAL INDUSRTRIA GRAFICA E EDITORA LTDA;03.834.813/0001-75;02/08/2010;       Publicidade por materiais impressos;R$ 895,00;Cheque; -  -  / 5010 - CESAR OLIVEIRA CARNEIRO - BA - Deputado Federal;
+;;02/09/2010;       Encargos financeiros e taxas bancárias;R$ 8,00;Débito em conta; -  -  / 5010 - CESAR OLIVEIRA CARNEIRO - BA - Deputado Federal;
+;;13/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 5010 - CESAR OLIVEIRA CARNEIRO - BA - Deputado Federal;

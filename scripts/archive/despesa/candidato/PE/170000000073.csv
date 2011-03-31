@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Nacional;29.549.433/0001-82;18/08/2010;33000113851;R$ 250,00;Estimado;DAYSE HELENA GOMES DA SILVA;33188;Deputado Estadual;PMN;PE;
-Diretório Nacional;29.549.433/0001-82;30/09/2010;33000113853;R$ 1.345,24;Estimado;DAYSE HELENA GOMES DA SILVA;33188;Deputado Estadual;PMN;PE;
-Diretório Nacional;29.549.433/0001-82;20/08/2010;33000113852;R$ 75,00;Estimado;DAYSE HELENA GOMES DA SILVA;33188;Deputado Estadual;PMN;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Nacional;29.549.433/0001-82;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;Direção Nacional - PMN -  / 33188 - DAYSE HELENA GOMES DA SILVA - PE - Deputado Estadual;
+Diretório Nacional;29.549.433/0001-82;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 75,00;Estimado;Direção Nacional - PMN -  / 33188 - DAYSE HELENA GOMES DA SILVA - PE - Deputado Estadual;
+Diretório Nacional;29.549.433/0001-82;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.345,24;Estimado;Direção Nacional - PMN -  / 33188 - DAYSE HELENA GOMES DA SILVA - PE - Deputado Estadual;

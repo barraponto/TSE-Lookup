@@ -1,7 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;12/08/2010;40002063898;R$ 1.575,00;Estimado;CARLOS ROBERTO CARNEIRO;4077;Deputado Federal;PSB;PR;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;28/09/2010;40002063902;R$ 1.680,00;Depósito em espécie;CARLOS ROBERTO CARNEIRO;4077;Deputado Federal;PSB;PR;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;27/10/2010;40002063901;R$ 1.106,60;Estimado;CARLOS ROBERTO CARNEIRO;4077;Deputado Federal;PSB;PR;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;15/09/2010;40002063899;R$ 1.250,00;Estimado;CARLOS ROBERTO CARNEIRO;4077;Deputado Federal;PSB;PR;
-COTRANS LOCAÇÃO DE VEICULOS LTDA.;77.637.684/0001-61;30/09/2010;40002063903;R$ 1.546,67;Estimado;CARLOS ROBERTO CARNEIRO;4077;Deputado Federal;PSB;PR;
-GRÁFICA KÉLARAM LTDA.;07.097.015/0001-69;01/09/2010;40002063900;R$ 300,00;Estimado;CARLOS ROBERTO CARNEIRO;4077;Deputado Federal;PSB;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO LUA NOVA LTDA.;00.855.731/0001-19;03/10/2010;       Combustíveis e lubrificantes;R$ 10,00;Cheque; -  -  / 4077 - CARLOS ROBERTO CARNEIRO - PR - Deputado Federal;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;12/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.575,00;Estimado;45 -  - PSDB -  - Governador / 4077 - CARLOS ROBERTO CARNEIRO - PR - Deputado Federal;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.250,00;Estimado;45 -  - PSDB -  - Governador / 4077 - CARLOS ROBERTO CARNEIRO - PR - Deputado Federal;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;27/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.106,60;Estimado;45 -  - PSDB -  - Governador / 4077 - CARLOS ROBERTO CARNEIRO - PR - Deputado Federal;
+COTRANS LOCAÇÃO DE VEICULOS LTDA.;77.637.684/0001-61;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.546,67;Estimado; -  -  / 4077 - CARLOS ROBERTO CARNEIRO - PR - Deputado Federal;
+GRÁFICA KÉLARAM LTDA.;07.097.015/0001-69;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 4077 - CARLOS ROBERTO CARNEIRO - PR - Deputado Federal;
+HANGAR 18 COMUNICAÇÃO VISUAL LTDA.;11.148.054/0001-15;28/09/2010;       Publicidade por materiais impressos;R$ 1.670,00;Cheque; -  -  / 4077 - CARLOS ROBERTO CARNEIRO - PR - Deputado Federal;

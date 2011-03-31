@@ -1,4 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSÉ CLAYTON FERNANDES;699.566.853-72;15/09/2010;28000492353;R$ 100,00;Transferência eletrônica;JOSE CLAYTON FERNANDES;2810;Deputado Federal;PRTB;CE;
-JOSÉ CLAYTON FERNANDES;699.566.853-72;27/09/2010;28000492354;R$ 85,00;Transferência eletrônica;JOSE CLAYTON FERNANDES;2810;Deputado Federal;PRTB;CE;
-MARCOGRAF GRAFICA LTDA;02.963.095/0001-74;20/08/2010;28000492352;R$ 172,00;Estimado;JOSE CLAYTON FERNANDES;2810;Deputado Federal;PRTB;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+IRIVAN DE CARVALHO OLIVEIRA;00.297.542/0001-78;22/09/2010;       Diversas a especificar;R$ 8,37;Não informado; -  -  / 2810 - JOSE CLAYTON FERNANDES - CE - Deputado Federal;
+MARCOGRAF GRAFICA LTDA;02.963.095/0001-74;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 172,00;Estimado; -  -  / 2810 - JOSE CLAYTON FERNANDES - CE - Deputado Federal;
+MLC COMERCIO  LTDA ME;41.565.466/0001-11;27/09/2010;       Diversas a especificar;R$ 26,00;Não informado; -  -  / 2810 - JOSE CLAYTON FERNANDES - CE - Deputado Federal;
+POSTO SAO DOMINGOS;69.366.128/0002-50;01/10/2010;       Combustíveis e lubrificantes;R$ 10,00;Não informado; -  -  / 2810 - JOSE CLAYTON FERNANDES - CE - Deputado Federal;
+POSTO SAO DOMINGOS;69.366.128/0002-50;29/09/2010;       Combustíveis e lubrificantes;R$ 70,00;Não informado; -  -  / 2810 - JOSE CLAYTON FERNANDES - CE - Deputado Federal;
+POSTO SAO DOMINGOS;69.366.128/0002-50;22/09/2010;       Combustíveis e lubrificantes;R$ 60,00;Não informado; -  -  / 2810 - JOSE CLAYTON FERNANDES - CE - Deputado Federal;
+SUPER DO POVO;10.389.021/0001-02;22/09/2010;       Diversas a especificar;R$ 5,58;Não informado; -  -  / 2810 - JOSE CLAYTON FERNANDES - CE - Deputado Federal;

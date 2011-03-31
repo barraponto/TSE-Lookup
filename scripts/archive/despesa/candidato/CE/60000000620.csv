@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Governador;12.181.912/0001-96;02/09/2010;36000078932;R$ 800,00;Estimado;FRANCISCO JOCELIO CAVALCANTE RODRIGUES;36100;Deputado Estadual;PTC;CE;
-FRANCISCO JOCELIO CAVALCANTE RODRIGUES;044.992.108-52;03/08/2010;36000078934;R$ 3.000,00;Estimado;FRANCISCO JOCELIO CAVALCANTE RODRIGUES;36100;Deputado Estadual;PTC;CE;
-MARCOGRAF GRAFICA LTDA;02.963.095/0001-74;20/08/2010;36000078931;R$ 172,00;Estimado;FRANCISCO JOCELIO CAVALCANTE RODRIGUES;36100;Deputado Estadual;PTC;CE;
-PAULO ROBERTO DA COSTA BEZERRA;443.595.603-97;30/09/2010;36000078933;R$ 100,00;Estimado;FRANCISCO JOCELIO CAVALCANTE RODRIGUES;36100;Deputado Estadual;PTC;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Governador;12.181.912/0001-96;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 800,00;Estimado;Comitê Financeiro Distrital/Estadual para Governador - PSB -  / 36100 - FRANCISCO JOCELIO CAVALCANTE RODRIGUES - CE - Deputado Estadual;
+FRANCISCO JOCELIO CAVALCANTE RODRIGUES;044.992.108-52;03/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.000,00;Estimado; -  -  / 36100 - FRANCISCO JOCELIO CAVALCANTE RODRIGUES - CE - Deputado Estadual;
+MARCOGRAF GRAFICA LTDA;02.963.095/0001-74;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 172,00;Estimado; -  -  / 36100 - FRANCISCO JOCELIO CAVALCANTE RODRIGUES - CE - Deputado Estadual;
+PAULO ROBERTO DA COSTA BEZERRA;443.595.603-97;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado; -  -  / 36100 - FRANCISCO JOCELIO CAVALCANTE RODRIGUES - CE - Deputado Estadual;

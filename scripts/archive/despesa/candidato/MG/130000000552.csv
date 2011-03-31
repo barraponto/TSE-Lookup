@@ -1,4 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 HUGO CEZER REZENDE;12.178.106/0001-69;24/09/2010;33000066053;R$ 1.000,00;Cheque;JOAO CLAUDIO BAPTISTA RODRIGUES;33364;Deputado Estadual;PMN;MG;
-ELEIÇÃO 2010 HUGO CEZER REZENDE;12.178.106/0001-69;01/10/2010;33000066054;R$ 1.000,00;Cheque;JOAO CLAUDIO BAPTISTA RODRIGUES;33364;Deputado Estadual;PMN;MG;
-JOÃO CLAUDIO BAPTISTA RODRIGUES;033.845.496-94;25/08/2010;33000066052;R$ 600,00;Depósito em espécie;JOAO CLAUDIO BAPTISTA RODRIGUES;33364;Deputado Estadual;PMN;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANA LUIZA CARVALHO E SILVA;101.635.776-17;29/09/2010;       Serviços prestados por terceiros;R$ 120,00;Cheque; -  -  / 33364 - JOAO CLAUDIO BAPTISTA RODRIGUES - MG - Deputado Estadual;
+DANIELLE CAROLINA FERNANDES;101.774.476-99;29/09/2010;       Serviços prestados por terceiros;R$ 120,00;Cheque; -  -  / 33364 - JOAO CLAUDIO BAPTISTA RODRIGUES - MG - Deputado Estadual;
+EDITORA E PAPELARIA TRINDADE LTDA;07.780.689/0001-63;27/08/2010;       Publicidade por materiais impressos;R$ 590,00;Cheque; -  -  / 33364 - JOAO CLAUDIO BAPTISTA RODRIGUES - MG - Deputado Estadual;
+EVERTON LOUREIRO MARTINS;100.854.106-08;28/09/2010;       Serviços prestados por terceiros;R$ 140,00;Cheque; -  -  / 33364 - JOAO CLAUDIO BAPTISTA RODRIGUES - MG - Deputado Estadual;
+GLEIBER JUNIO GONÇALVES;077.201.076-59;28/09/2010;       Serviços prestados por terceiros;R$ 140,00;Cheque; -  -  / 33364 - JOAO CLAUDIO BAPTISTA RODRIGUES - MG - Deputado Estadual;
+MARLUCE RODRIGUES SANTOS MENEZES;096.138.646-01;28/09/2010;       Serviços prestados por terceiros;R$ 140,00;Cheque; -  -  / 33364 - JOAO CLAUDIO BAPTISTA RODRIGUES - MG - Deputado Estadual;
+VICTOR HUGO DA SIVA MENEZES;085.570.486-10;28/09/2010;       Serviços prestados por terceiros;R$ 140,00;Cheque; -  -  / 33364 - JOAO CLAUDIO BAPTISTA RODRIGUES - MG - Deputado Estadual;
+WALBER JOSE DA SILVA;155.761.166-15;28/09/2010;       Serviços prestados por terceiros;R$ 960,00;Cheque; -  -  / 33364 - JOAO CLAUDIO BAPTISTA RODRIGUES - MG - Deputado Estadual;

@@ -1,4 +1,14 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 RODRIGO BETHLEM FERNANDES;12.181.892/0001-53;20/08/2010;19000002551;R$ 3.550,00;Cheque;WELLINGTON DOS SANTOS CAJUEIRO;19222;Deputado Estadual;PTN;RJ;
-ELEIÇÃO 2010 RODRIGO BETHLEM FERNANDES;12.181.892/0001-53;01/10/2010;19000002552;R$ 3.550,00;Cheque;WELLINGTON DOS SANTOS CAJUEIRO;19222;Deputado Estadual;PTN;RJ;
-ELEIÇÃO 2010 RODRIGO BETHLEM FERNANDES;12.181.892/0001-53;24/09/2010;19000002554;R$ 3.550,00;Cheque;WELLINGTON DOS SANTOS CAJUEIRO;19222;Deputado Estadual;PTN;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CID WALLACE MIGUEL DE OLIVEIRA;073.998.187-03;05/10/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / 19222 - WELLINGTON DOS SANTOS CAJUEIRO - RJ - Deputado Estadual;
+CID WALLACE MIGUEL DE OLIVEIRA;073.998.187-03;09/10/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / 19222 - WELLINGTON DOS SANTOS CAJUEIRO - RJ - Deputado Estadual;
+CID WALLACE MIGUEL DE OLIVEIRA;073.998.187-03;15/10/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / 19222 - WELLINGTON DOS SANTOS CAJUEIRO - RJ - Deputado Estadual;
+CID WALLACE MIGUEL DE OLIVEIRA;073.998.187-03;03/10/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / 19222 - WELLINGTON DOS SANTOS CAJUEIRO - RJ - Deputado Estadual;
+CID WALLACE MIGUEL DE OLIVEIRA;073.998.187-03;04/10/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / 19222 - WELLINGTON DOS SANTOS CAJUEIRO - RJ - Deputado Estadual;
+CID WALLACE MIGUEL DE OLIVEIRA;073.998.187-03;11/10/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / 19222 - WELLINGTON DOS SANTOS CAJUEIRO - RJ - Deputado Estadual;
+CID WALLACE MIGUEL DE OLIVEIRA;073.998.187-03;07/10/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / 19222 - WELLINGTON DOS SANTOS CAJUEIRO - RJ - Deputado Estadual;
+DIEGO DE SOUZA ALEIXO;108.595.627-00;30/09/2010;       Despesas com pessoal;R$ 1.000,00;Cheque; -  -  / 19222 - WELLINGTON DOS SANTOS CAJUEIRO - RJ - Deputado Estadual;
+EGF SERVIÇOS DE PRODUÇÕES SERIGRÁFICAS E DIGITAL LTDA ME;07.663.886/0001-00;25/08/2010;       Publicidade por materiais impressos;R$ 1.140,00;Cheque; -  -  / 19222 - WELLINGTON DOS SANTOS CAJUEIRO - RJ - Deputado Estadual;
+EGF SERVIÇOS DE PRODUÇÕES SERIGRÁFICAS E DIGITAL LTDA ME;07.663.886/0001-00;25/08/2010;       Publicidade por placas, estandartes e faixas;R$ 390,00;Cheque; -  -  / 19222 - WELLINGTON DOS SANTOS CAJUEIRO - RJ - Deputado Estadual;
+GRÁFICA MEC EDITORA LTDA;42.459.891/0001-99;27/08/2010;       Publicidade por materiais impressos;R$ 2.000,00;Cheque; -  -  / 19222 - WELLINGTON DOS SANTOS CAJUEIRO - RJ - Deputado Estadual;
+ROBERTA RIBEIRO PARENTE;082.238.027-75;28/09/2010;       Serviços prestados por terceiros;R$ 1.000,00;Cheque; -  -  / 19222 - WELLINGTON DOS SANTOS CAJUEIRO - RJ - Deputado Estadual;
+SUELLEN DOS SANTOS BARROCO;123.635.577-60;30/09/2010;       Despesas com pessoal;R$ 1.500,00;Cheque; -  -  / 19222 - WELLINGTON DOS SANTOS CAJUEIRO - RJ - Deputado Estadual;

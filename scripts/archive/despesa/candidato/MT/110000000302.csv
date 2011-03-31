@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-BOM PEIXE;45.666.419/0001-15;24/09/2010;;R$ 20.000,00;Transferência eletrônica;SILVIO CARLOS DUARTE MIGUEL;11235;Deputado Estadual;PP;MT;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EVELISE FERREIRA BAPTISTA;204.078.058-00;25/09/2010;       Serviços prestados por terceiros;R$ 20.000,00;Cheque; -  -  / 11235 - SILVIO CARLOS DUARTE MIGUEL - MT - Deputado Estadual;

@@ -1,2 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-VALMIR SIEBRA VILAR;012.728.963-15;17/09/2010;31000047601;R$ 400,00;Depósito em espécie;VALMIR SIEBRA VILAR;3122;Deputado Federal;PHS;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA E EDITORA PROGRESSO;11.359.519/0001-87;27/10/2010;       Publicidade por materiais impressos;R$ 380,00;Cheque; -  -  / 3122 - VALMIR SIEBRA VILAR - MA - Deputado Federal;
+SAUDE E SABOR RESTAURANTE;08.856.906/0001-14;26/10/2010;       Alimentação;R$ 20,00;Cheque; -  -  / 3122 - VALMIR SIEBRA VILAR - MA - Deputado Federal;

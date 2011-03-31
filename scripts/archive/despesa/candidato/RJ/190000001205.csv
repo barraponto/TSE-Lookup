@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;32.080.483/0001-78;30/09/2010;45000108521;R$ 3.875,00;Estimado;LUIZ CESAR SILVA DE OLIVEIRA;4503;Deputado Federal;PSDB;RJ;
-Diretório Estadual/Distrital;32.080.483/0001-78;30/09/2010;45000108522;R$ 166,67;Estimado;LUIZ CESAR SILVA DE OLIVEIRA;4503;Deputado Federal;PSDB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;32.080.483/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.875,00;Estimado;Direção Estadual/Distrital - PSDB -  / 4503 - LUIZ CESAR SILVA DE OLIVEIRA - RJ - Deputado Federal;
+Diretório Estadual/Distrital;32.080.483/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 166,67;Estimado;Direção Estadual/Distrital - PSDB -  / 4503 - LUIZ CESAR SILVA DE OLIVEIRA - RJ - Deputado Federal;

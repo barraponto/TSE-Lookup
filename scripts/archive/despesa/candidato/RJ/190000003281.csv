@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO CARLOS DE MENEZES;462.960.857-53;06/09/2010;17000067908;R$ 320,00;Estimado;MARCELO ALCIDES DA ROCHA;17133;Deputado Estadual;PSL;RJ;
-ATILA NUNES PEREIRA NETO;12.214.072/0001-10;02/09/2010;17000067904;R$ 210,00;Estimado;MARCELO ALCIDES DA ROCHA;17133;Deputado Estadual;PSL;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;08/09/2010;17000067906;R$ 300,00;Estimado;MARCELO ALCIDES DA ROCHA;17133;Deputado Estadual;PSL;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;08/09/2010;17000067907;R$ 825,00;Estimado;MARCELO ALCIDES DA ROCHA;17133;Deputado Estadual;PSL;RJ;
-Diretório Estadual/Distrital;12.181.923/0001-76;30/08/2010;17000067902;R$ 300,00;Estimado;MARCELO ALCIDES DA ROCHA;17133;Deputado Estadual;PSL;RJ;
-ELEIÇÃO 2010 JORGE SAYED PICCIANI SENADOR;12.176.626/0001-32;30/08/2010;17000067901;R$ 17,00;Estimado;MARCELO ALCIDES DA ROCHA;17133;Deputado Estadual;PSL;RJ;
-JOAQUIM JACÓ MOREIRA;528.930.657-91;31/08/2010;17000067903;R$ 2.000,00;Estimado;MARCELO ALCIDES DA ROCHA;17133;Deputado Estadual;PSL;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO CARLOS DE MENEZES;462.960.857-53;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 320,00;Estimado; -  -  / 17133 - MARCELO ALCIDES DA ROCHA - RJ - Deputado Estadual;
+ATILA NUNES PEREIRA NETO;12.214.072/0001-10;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 210,00;Estimado;1717 -  - PSL -  - Deputado Federal / 17133 - MARCELO ALCIDES DA ROCHA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;08/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 825,00;Estimado;Comitê Financeiro Único - PMDB -  / 17133 - MARCELO ALCIDES DA ROCHA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;08/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 17133 - MARCELO ALCIDES DA ROCHA - RJ - Deputado Estadual;
+Diretório Estadual/Distrital;12.181.923/0001-76;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Direção Estadual/Distrital - PMDB -  / 17133 - MARCELO ALCIDES DA ROCHA - RJ - Deputado Estadual;
+ELEIÇÃO 2010 JORGE SAYED PICCIANI SENADOR;12.176.626/0001-32;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 17133 - MARCELO ALCIDES DA ROCHA - RJ - Deputado Estadual;
+JOAQUIM JACÓ MOREIRA;528.930.657-91;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado; -  -  / 17133 - MARCELO ALCIDES DA ROCHA - RJ - Deputado Estadual;

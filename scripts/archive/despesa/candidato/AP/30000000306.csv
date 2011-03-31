@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.285/0001-86;17/08/2010;19000000276;R$ 201,34;Estimado;DANIEL DOMINGOS DOS SANTOS;1900;Deputado Federal;PTN;AP;
-Comitê Financeiro Único;12.256.171/0001-65;02/09/2010;19000000279;R$ 1.900,00;Estimado;DANIEL DOMINGOS DOS SANTOS;1900;Deputado Federal;PTN;AP;
-Comitê Financeiro Único;12.256.171/0001-65;02/09/2010;19000000278;R$ 300,00;Estimado;DANIEL DOMINGOS DOS SANTOS;1900;Deputado Federal;PTN;AP;
-Comitê Financeiro Único;12.205.285/0001-86;05/08/2010;19000000277;R$ 150,00;Estimado;DANIEL DOMINGOS DOS SANTOS;1900;Deputado Federal;PTN;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.256.171/0001-65;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PSC -  / 1900 - DANIEL DOMINGOS DOS SANTOS - AP - Deputado Federal;
+Comitê Financeiro Único;12.256.171/0001-65;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.900,00;Estimado;Comitê Financeiro Único - PSC -  / 1900 - DANIEL DOMINGOS DOS SANTOS - AP - Deputado Federal;
+Comitê Financeiro Único;12.205.285/0001-86;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 201,34;Estimado;Comitê Financeiro Único - PMDB -  / 1900 - DANIEL DOMINGOS DOS SANTOS - AP - Deputado Federal;
+Comitê Financeiro Único;12.205.285/0001-86;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 1900 - DANIEL DOMINGOS DOS SANTOS - AP - Deputado Federal;

@@ -1,6 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.515/0001-03;30/09/2010;33000083392;R$ 300,00;Estimado;RUBEM NATÁRIO SILVEIRA;33014;Deputado Estadual;PMN;AL;
-ELEIÇÃO 2010 FERNANDO AFFONSO COLLOR DE MELLO;12.168.659/0001-30;29/09/2010;33000083391;R$ 3.906,25;Estimado;RUBEM NATÁRIO SILVEIRA;33014;Deputado Estadual;PMN;AL;
-RUBEM NATÁRIO SILVEIRA;228.375.824-68;06/09/2010;33000083394;R$ 400,00;Depósito em espécie;RUBEM NATÁRIO SILVEIRA;33014;Deputado Estadual;PMN;AL;
-RUBEM NATÁRIO SILVEIRA;228.375.824-68;31/08/2010;33000083393;R$ 400,00;Depósito em espécie;RUBEM NATÁRIO SILVEIRA;33014;Deputado Estadual;PMN;AL;
-RUBEM NATÁRIO SILVEIRA;228.375.824-68;02/10/2010;33000083395;R$ 1.400,00;Estimado;RUBEM NATÁRIO SILVEIRA;33014;Deputado Estadual;PMN;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BARBOSA & ROCGA LTDA;05.388.025/0002-09;03/10/2010;       Combustíveis e lubrificantes;R$ 50,00;Cheque; -  -  / 33014 - RUBEM NATÁRIO SILVEIRA - AL - Deputado Estadual;
+Comitê Financeiro Único;12.191.515/0001-03;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMN -  / 33014 - RUBEM NATÁRIO SILVEIRA - AL - Deputado Estadual;
+ELEIÇÃO 2010 FERNANDO AFFONSO COLLOR DE MELLO;12.168.659/0001-30;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.906,25;Estimado;14 -  - PTB -  - Governador / 33014 - RUBEM NATÁRIO SILVEIRA - AL - Deputado Estadual;
+NAYARA CARLA FERNANDES FALCAO ME;08.341.813/0001-57;10/09/2010;       Diversas a especificar;R$ 100,00;Cheque; -  -  / 33014 - RUBEM NATÁRIO SILVEIRA - AL - Deputado Estadual;
+NAYARA CARLA FERNANDES FALCAO ME;08.341.813/0001-57;24/09/2010;       Diversas a especificar;R$ 160,00;Cheque; -  -  / 33014 - RUBEM NATÁRIO SILVEIRA - AL - Deputado Estadual;
+RUBEM NATÁRIO SILVEIRA;228.375.824-68;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.400,00;Estimado; -  -  / 33014 - RUBEM NATÁRIO SILVEIRA - AL - Deputado Estadual;
+SIRLEIDE RODRIGUES DOS SANTOS ME;05.155.928/0001-69;08/09/2010;       Publicidade por materiais impressos;R$ 490,00;Cheque; -  -  / 33014 - RUBEM NATÁRIO SILVEIRA - AL - Deputado Estadual;

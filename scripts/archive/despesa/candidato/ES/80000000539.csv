@@ -1,3 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS ALBERTO LYRIO;527.451.717-04;11/08/2010;12001015332;R$ 50,00;Depósito em espécie;CARLOS ALBERTO LYRIO;12111;Deputado Estadual;PDT;ES;
-CARLOS ALBERTO LYRIO;527.451.717-04;02/08/2010;12001015331;R$ 100,00;Depósito em espécie;CARLOS ALBERTO LYRIO;12111;Deputado Estadual;PDT;ES;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRÁFICA E EDITORA JEP LTDA;27.252.147/0001-25;04/08/2010;       Publicidade por materiais impressos;R$ 32,50;Cheque; -  -  / 12111 - CARLOS ALBERTO LYRIO - ES - Deputado Estadual;
+GRÁFICA SANTO ANTÔNIO LTDA;28.156.297/0001-06;30/07/2010;       Publicidade por materiais impressos;R$ 30,00;Cheque; -  -  / 12111 - CARLOS ALBERTO LYRIO - ES - Deputado Estadual;
+GRÁFICA SANTO ANTÔNIO LTDA;28.156.297/0001-06;06/08/2010;       Publicidade por materiais impressos;R$ 30,00;Cheque; -  -  / 12111 - CARLOS ALBERTO LYRIO - ES - Deputado Estadual;
+GRAFITUSA S/A-;05.461.408/0001-84;05/08/2010;       Publicidade por materiais impressos;R$ 29,16;Cheque; -  -  / 12111 - CARLOS ALBERTO LYRIO - ES - Deputado Estadual;
+PARTIDO DEMOCRATICO TRABALHISTA-PDT-;06.326.262/0001-27;29/10/2010;       Diversas a especificar;R$ 28,34;Transferência eletrônica; -  -  / 12111 - CARLOS ALBERTO LYRIO - ES - Deputado Estadual;

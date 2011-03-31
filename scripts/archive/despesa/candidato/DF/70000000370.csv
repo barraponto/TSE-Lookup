@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;03.604.170/0001-73;20/09/2010;65000177579;R$ 506,11;Estimado;MOYSES LEME DA SILVA NETO;65165;Deputado Distrital;PC do B;DF;
-JOSÉ MESSIAS DE SOUZA;12.171.862/0001-66;01/10/2010;65000177577;R$ 3.400,00;Cheque;MOYSES LEME DA SILVA NETO;65165;Deputado Distrital;PC do B;DF;
-MOYSÉS LEME DA SILVA NETO;442.785.001-49;27/08/2010;65000177578;R$ 65,00;Depósito em espécie;MOYSES LEME DA SILVA NETO;65165;Deputado Distrital;PC do B;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;03.604.170/0001-73;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 506,11;Estimado;Comitê Financeiro Único - PC do B -  / 65165 - MOYSES LEME DA SILVA NETO - DF - Deputado Distrital;
+CRIATIVA GRÁFICA E EDITORA;72.646.714/0001-82;29/09/2010;       Publicidade por materiais impressos;R$ 3.460,00;Cheque; -  -  / 65165 - MOYSES LEME DA SILVA NETO - DF - Deputado Distrital;
+65165 - MOYSÉS LEME DA SILVA NETO - DEPUTADO DISTRITAL;12.204.702/0001-76;08/11/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 5,00;Outros títulos de crédito;Direção Estadual/Distrital - PC do B - DF / 65165 - MOYSES LEME DA SILVA NETO - DF - Deputado Distrital;

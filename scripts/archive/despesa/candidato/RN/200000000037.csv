@@ -1,2 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADIVANIL PONTES DE ANDRADE;875.303.924-68;05/08/2010;50000445001;R$ 1.000,00;Depósito em espécie;LENILSON FERNANDES TRIGUEIRO;50123;Deputado Estadual;PSOL;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ROTA SUL COM. DERIVADOS DE PETROLEO LTDA;03.845.812/0003-98;15/08/2010;       Combustíveis e lubrificantes;R$ 100,00;Cheque; -  -  / 50123 - LENILSON FERNANDES TRIGUEIRO - RN - Deputado Estadual;
+ROTA SUL COM. DERIVADOS DE PETROLEO LTDA;03.845.812/0003-98;29/08/2010;       Combustíveis e lubrificantes;R$ 100,00;Cheque; -  -  / 50123 - LENILSON FERNANDES TRIGUEIRO - RN - Deputado Estadual;
+ROTA SUL COM. DERIVADOS DE PETROLEO LTDA;03.845.812/0003-98;29/08/2010;       Combustíveis e lubrificantes;R$ 100,00;Cheque; -  -  / 50123 - LENILSON FERNANDES TRIGUEIRO - RN - Deputado Estadual;
+50123 - LENILSON FERNANDES TRIGUEIRO - DEPUTADO ESTADUAL;12.168.715/0001-37;17/08/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 700,00;Cheque;Comitê Financeiro Único - PSOL - RN / 50123 - LENILSON FERNANDES TRIGUEIRO - RN - Deputado Estadual;

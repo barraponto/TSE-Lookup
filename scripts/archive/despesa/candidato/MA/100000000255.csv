@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.486/0001-71;01/08/2010;44000025201;R$ 561,00;Estimado;MARCOS AURELIO MARINS MORAIS;44555;Deputado Estadual;PRP;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.486/0001-71;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 561,00;Estimado;Comitê Financeiro Único - PRP -  / 44555 - MARCOS AURELIO MARINS MORAIS - MA - Deputado Estadual;

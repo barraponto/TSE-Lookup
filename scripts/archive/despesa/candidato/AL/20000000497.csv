@@ -1,3 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ROBSON ANTONIO DE OLIVEIRA;475.496.535-34;01/10/2010;40002380902;R$ 1.003,28;Estimado;ROBSON ANTONIO DE OLIVEIRA;40777;Deputado Estadual;PSB;AL;
-ROBSON ANTONIO DE OLIVEIRA;475.496.535-34;19/08/2010;40002380901;R$ 100,00;Depósito em espécie;ROBSON ANTONIO DE OLIVEIRA;40777;Deputado Estadual;PSB;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ROBSON ANTONIO DE OLIVEIRA;475.496.535-34;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.003,28;Estimado; -  -  / 40777 - ROBSON ANTONIO DE OLIVEIRA - AL - Deputado Estadual;

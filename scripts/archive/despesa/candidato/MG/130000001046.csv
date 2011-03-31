@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;28000583402;R$ 300,00;Estimado;DIANA PATRICIA CARDOSO DA SILVA;2877;Deputado Federal;PRTB;MG;
-Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;28000583403;R$ 590,00;Estimado;DIANA PATRICIA CARDOSO DA SILVA;2877;Deputado Federal;PRTB;MG;
-DALTINHO;12.176.739/0001-38;20/08/2010;28000583401;R$ 2.370,00;Estimado;DIANA PATRICIA CARDOSO DA SILVA;2877;Deputado Federal;PRTB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 590,00;Estimado;Comitê Financeiro Único - PT do B -  / 2877 - DIANA PATRICIA CARDOSO DA SILVA - MG - Deputado Federal;
+Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PT do B -  / 2877 - DIANA PATRICIA CARDOSO DA SILVA - MG - Deputado Federal;
+DALTINHO;12.176.739/0001-38;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.370,00;Estimado;36222 -  - PTC -  - Deputado Estadual / 2877 - DIANA PATRICIA CARDOSO DA SILVA - MG - Deputado Federal;

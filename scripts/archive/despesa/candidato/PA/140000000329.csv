@@ -1,2 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEICAO 2010 FERNANDO DE SOUZA FLEXA RIBEIRO SENADOR;12.167.217/0001-70;17/09/2010;45000315611;R$ 5.000,00;Cheque;JOSE LEONCIO DA SILVA;4512;Deputado Federal;PSDB;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANA JOANA BARROS CRUZ;097.234.392-04;30/09/2010;       Cessão ou Locação de Veículos;R$ 3.500,00;Cheque; -  -  / 4512 - JOSE LEONCIO DA SILVA - PA - Deputado Federal;
+AUTO POSTO UBA LTDA;03.959.721/0001-11;02/10/2010;       Combustíveis e lubrificantes;R$ 1.500,00;Cheque; -  -  / 4512 - JOSE LEONCIO DA SILVA - PA - Deputado Federal;

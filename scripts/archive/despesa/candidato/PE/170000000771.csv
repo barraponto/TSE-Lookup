@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADELSON CALDAS VERAS;124.460.414-34;12/08/2010;22000020751;R$ 1.000,00;Depósito em espécie;ADELSON CALDAS VERAS;22522;Deputado Estadual;PR;PE;
-INOCENCIO GOMES DE OLIVEIRA;12.167.258/0001-66;10/08/2010;22000020752;R$ 14.500,00;Estimado;ADELSON CALDAS VERAS;22522;Deputado Estadual;PR;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+FABIO ALVES FIGUEIREDO - GRAFICA - ME;08.057.151/0001-98;30/08/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 22522 - ADELSON CALDAS VERAS - PE - Deputado Estadual;
+INOCENCIO GOMES DE OLIVEIRA;12.167.258/0001-66;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 14.500,00;Estimado;2233 -  - PR -  - Deputado Federal / 22522 - ADELSON CALDAS VERAS - PE - Deputado Estadual;
+J & M VISUAL MIDIA EXTEROR E PUBLICIDADE LTDA;12.824.066/0001-85;14/08/2010;       Publicidade por materiais impressos;R$ 700,00;Cheque; -  -  / 22522 - ADELSON CALDAS VERAS - PE - Deputado Estadual;

@@ -1,4 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.221.849/0001-74;15/09/2010;20000000666;R$ 2.200,00;Estimado;MANOEL DA SILVA MAGALHAES;20555;Deputado Estadual;PSC;AC;
-Comitê Financeiro Único;12.221.849/0001-74;30/09/2010;20000000668;R$ 6.000,00;Depósito em espécie;MANOEL DA SILVA MAGALHAES;20555;Deputado Estadual;PSC;AC;
-VILA ENGENHARIA LTDA;84.490.309/0001-05;20/09/2010;20000000667;R$ 5.000,00;Depósito em espécie;MANOEL DA SILVA MAGALHAES;20555;Deputado Estadual;PSC;AC;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AEROBRAN DISTR. IMP. E EXP. LTDA;14.411.631/0001-08;02/10/2010;       Combustíveis e lubrificantes;R$ 2.992,00;Cheque; -  -  / 20555 - MANOEL DA SILVA MAGALHAES - AC - Deputado Estadual;
+ANTONIO FRANÇA PINHEIRO;216.754.572-04;21/09/2010;       Cessão ou Locação de Veículos;R$ 3.500,00;Cheque; -  -  / 20555 - MANOEL DA SILVA MAGALHAES - AC - Deputado Estadual;
+ANTONIO FRANÇA PINHEIRO;216.754.572-04;27/09/2010;       Cessão ou Locação de Veículos;R$ 1.500,00;Cheque; -  -  / 20555 - MANOEL DA SILVA MAGALHAES - AC - Deputado Estadual;
+ANTONIO FRANÇA PINHEIRO;216.754.572-04;02/10/2010;       Cessão ou Locação de Veículos;R$ 3.000,00;Cheque; -  -  / 20555 - MANOEL DA SILVA MAGALHAES - AC - Deputado Estadual;
+Comitê Financeiro Único;12.221.849/0001-74;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.200,00;Estimado;Comitê Financeiro Único - PSC -  / 20555 - MANOEL DA SILVA MAGALHAES - AC - Deputado Estadual;

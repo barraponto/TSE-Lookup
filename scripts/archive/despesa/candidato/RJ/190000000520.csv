@@ -1,5 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DANIEL SAMPAIO TOURINHO;12.172.794/0001-50;22/08/2010;36000054901;R$ 700,00;Estimado;RAIMUNDO DELGADO SILVA;36106;Deputado Estadual;PTC;RJ;
-JORGE SAYED PICCIANI;12.176.626/0001-32;16/09/2010;36000054904;R$ 23,59;Estimado;RAIMUNDO DELGADO SILVA;36106;Deputado Estadual;PTC;RJ;
-RAIMUNDO DELGADO SILVA;719.486.787-72;30/08/2010;36000054902;R$ 100,00;Transferência eletrônica;RAIMUNDO DELGADO SILVA;36106;Deputado Estadual;PTC;RJ;
-RAIMUNDO DELGADO SILVA;719.486.787-72;06/09/2010;36000054903;R$ 100,00;Transferência eletrônica;RAIMUNDO DELGADO SILVA;36106;Deputado Estadual;PTC;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS FREDERICO GABRIEL DOS SANTOS;760.303.347-00;02/09/2010;       Despesas com pessoal;R$ 30,00;Cheque; -  -  / 36106 - RAIMUNDO DELGADO SILVA - RJ - Deputado Estadual;
+DANIEL SAMPAIO TOURINHO;12.172.794/0001-50;22/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 700,00;Estimado;3636 -  - PTC -  - Deputado Federal / 36106 - RAIMUNDO DELGADO SILVA - RJ - Deputado Estadual;
+DANIELE NEVES SOARES;101.791.937-24;06/09/2010;       Despesas com pessoal;R$ 50,00;Cheque; -  -  / 36106 - RAIMUNDO DELGADO SILVA - RJ - Deputado Estadual;
+FRANCIANE DE SÁ SILVA;113.924.247-47;30/08/2010;       Despesas com pessoal;R$ 20,00;Cheque; -  -  / 36106 - RAIMUNDO DELGADO SILVA - RJ - Deputado Estadual;
+GIDALTE DE SÁ SILVA;100.326.877-37;06/09/2010;       Despesas com pessoal;R$ 50,00;Cheque; -  -  / 36106 - RAIMUNDO DELGADO SILVA - RJ - Deputado Estadual;
+JORGE SAYED PICCIANI;12.176.626/0001-32;16/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 23,59;Estimado;155 -  - PMDB -  - Senador / 36106 - RAIMUNDO DELGADO SILVA - RJ - Deputado Estadual;
+PAULO ROBERTO SOARES;279.162.007-91;03/09/2010;       Despesas com pessoal;R$ 50,00;Cheque; -  -  / 36106 - RAIMUNDO DELGADO SILVA - RJ - Deputado Estadual;

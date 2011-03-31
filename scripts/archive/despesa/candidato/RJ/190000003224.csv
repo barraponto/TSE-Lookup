@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;65000142570;R$ 600,00;Estimado;ARGEU GONÇALVES DE SIQUEIRA FILHO;65444;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;65000142569;R$ 1.175,00;Estimado;ARGEU GONÇALVES DE SIQUEIRA FILHO;65444;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.191.555/0001-47;27/09/2010;65000142565;R$ 406,25;Estimado;ARGEU GONÇALVES DE SIQUEIRA FILHO;65444;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;65000142567;R$ 150,00;Estimado;ARGEU GONÇALVES DE SIQUEIRA FILHO;65444;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.191.555/0001-47;30/09/2010;65000142566;R$ 200,00;Estimado;ARGEU GONÇALVES DE SIQUEIRA FILHO;65444;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;65000142568;R$ 150,00;Estimado;ARGEU GONÇALVES DE SIQUEIRA FILHO;65444;Deputado Estadual;PC do B;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 65444 - ARGEU GONÇALVES DE SIQUEIRA FILHO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 65444 - ARGEU GONÇALVES DE SIQUEIRA FILHO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.191.555/0001-47;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 406,25;Estimado;Comitê Financeiro Único - PC do B -  / 65444 - ARGEU GONÇALVES DE SIQUEIRA FILHO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.191.555/0001-47;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;Comitê Financeiro Único - PC do B -  / 65444 - ARGEU GONÇALVES DE SIQUEIRA FILHO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado;Comitê Financeiro Único - PMDB -  / 65444 - ARGEU GONÇALVES DE SIQUEIRA FILHO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.175,00;Estimado;Comitê Financeiro Único - PMDB -  / 65444 - ARGEU GONÇALVES DE SIQUEIRA FILHO - RJ - Deputado Estadual;

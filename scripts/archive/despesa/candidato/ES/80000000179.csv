@@ -1,7 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADRIANO FRANCISCO ROCHA;12.170.261/0001-39;15/07/2010;17000009052;R$ 75,00;Estimado;RITA DE CASSIA AVILA GRATZ;17000;Deputado Estadual;PSL;ES;
-ADRIANO FRANCISCO ROCHA;12.170.261/0001-39;20/08/2010;17000009057;R$ 150,00;Estimado;RITA DE CASSIA AVILA GRATZ;17000;Deputado Estadual;PSL;ES;
-Comitê Financeiro Único;12.181.922/0001-21;24/09/2010;17000009056;R$ 2.800,00;Estimado;RITA DE CASSIA AVILA GRATZ;17000;Deputado Estadual;PSL;ES;
-MARISE DE ALMEIDA AVILA;623.095.017-00;06/08/2010;17000009051;R$ 9.000,00;Depósito em espécie;RITA DE CASSIA AVILA GRATZ;17000;Deputado Estadual;PSL;ES;
-MEGA PRIME INDUSTRIA E COMERCIO LTDA;10.813.188/0001-40;26/08/2010;17000009054;R$ 15.000,00;Depósito em espécie;RITA DE CASSIA AVILA GRATZ;17000;Deputado Estadual;PSL;ES;
-PEIU SOC. DE P. E. - SPE SA;02.385.710/0001-02;28/09/2010;17000009055;R$ 20.000,00;Cheque;RITA DE CASSIA AVILA GRATZ;17000;Deputado Estadual;PSL;ES;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADRIANO FRANCISCO ROCHA;12.170.261/0001-39;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;1700 -  - PSL -  - Deputado Federal / 17000 - RITA DE CASSIA AVILA GRATZ - ES - Deputado Estadual;
+ADRIANO FRANCISCO ROCHA;12.170.261/0001-39;15/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 75,00;Estimado;1700 -  - PSL -  - Deputado Federal / 17000 - RITA DE CASSIA AVILA GRATZ - ES - Deputado Estadual;
+ANDREYA COELHO PESSINI TULLI E IRMÃOS LTDA;04.284.236/0001-58;21/09/2010;       Publicidade por materiais impressos;R$ 3.515,00;Cheque; -  -  / 17000 - RITA DE CASSIA AVILA GRATZ - ES - Deputado Estadual;
+ANDREYA COELHO PESSINI TULLI E IRMÃOS LTDA;04.284.236/0001-58;27/09/2010;       Publicidade por materiais impressos;R$ 1.430,00;Cheque; -  -  / 17000 - RITA DE CASSIA AVILA GRATZ - ES - Deputado Estadual;
+Comitê Financeiro Único;12.181.922/0001-21;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.800,00;Estimado;Comitê Financeiro Único - PSL -  / 17000 - RITA DE CASSIA AVILA GRATZ - ES - Deputado Estadual;
+GRAFICA ESPIRITO SANTO LTDA;30.955.538/0001-10;30/07/2010;       Publicidade por materiais impressos;R$ 8.860,00;Cheque; -  -  / 17000 - RITA DE CASSIA AVILA GRATZ - ES - Deputado Estadual;
+PAULO CESAR PEREIRA MALAQUIAS ME;28.481.513/0001-80;29/09/2010;       Publicidade por materiais impressos;R$ 18.520,00;Cheque; -  -  / 17000 - RITA DE CASSIA AVILA GRATZ - ES - Deputado Estadual;
+THIAGO FURTADO SIQUEIRA ME;05.384.760/0001-63;02/09/2010;       Publicidade por placas, estandartes e faixas;R$ 9.850,00;Cheque; -  -  / 17000 - RITA DE CASSIA AVILA GRATZ - ES - Deputado Estadual;
+THIAGO FURTADO SIQUEIRA ME;05.384.760/0001-63;03/09/2010;       Publicidade por placas, estandartes e faixas;R$ 5.000,00;Cheque; -  -  / 17000 - RITA DE CASSIA AVILA GRATZ - ES - Deputado Estadual;

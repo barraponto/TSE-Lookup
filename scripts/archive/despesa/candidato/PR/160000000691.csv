@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.134.176/0001-15;25/09/2010;33000000550;R$ 565,00;Estimado;TEREZINHA RIBEIRO PICOLO;3303;Deputado Federal;PMN;PR;
-ELEIÇÃO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;05/10/2010;33000000548;R$ 1.680,00;Transferência eletrônica;TEREZINHA RIBEIRO PICOLO;3303;Deputado Federal;PMN;PR;
-ELEIÇÃO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;27/09/2010;33000000549;R$ 630,00;Estimado;TEREZINHA RIBEIRO PICOLO;3303;Deputado Federal;PMN;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.134.176/0001-15;25/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 565,00;Estimado;Comitê Financeiro Único - PMN -  / 3303 - TEREZINHA RIBEIRO PICOLO - PR - Deputado Federal;
+ELEIÇÃO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 630,00;Estimado;45 -  - PSDB -  - Governador / 3303 - TEREZINHA RIBEIRO PICOLO - PR - Deputado Federal;
+TEREZINHA RIBEIRO PICOLO;337.618.509-30;30/09/2010;       Diversas a especificar;R$ 1.680,00;Transferência eletrônica; -  -  / 3303 - TEREZINHA RIBEIRO PICOLO - PR - Deputado Federal;

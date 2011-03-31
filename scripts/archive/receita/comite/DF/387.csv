@@ -1,9 +1,6 @@
-Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
-Comitê Financeiro Único;12.205.228/0001-05;29/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 81.646,13;Estimado;Comitê Financeiro Único - PMDB -  / Comitê Financeiro Único - PC do B - DF;
-Comitê Financeiro Único;12.205.228/0001-05;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 47.733,10;Estimado;Comitê Financeiro Único - PMDB -  / Comitê Financeiro Único - PC do B - DF;
-Comitê Financeiro Único - PC do B;12.205.300/0001-96;20/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 48.000,00;Transferência eletrônica;6565 - JOSE MESSIAS DE SOUZA - PC do B - DF - Deputado Federal / Comitê Financeiro Único - PC do B - DF;
-MARITANA MOREIRA BORGES;329.738.371-20;06/08/2010;       Despesas com pessoal;R$ 1.200,00;Cheque; -  -  / Comitê Financeiro Único - PC do B - DF;
-MARITANA MOREIRA BORGES;329.738.371-20;29/10/2010;       Despesas com pessoal;R$ 1.499,65;Cheque; -  -  / Comitê Financeiro Único - PC do B - DF;
-MARITANA MOREIRA BORGES;329.738.371-20;20/09/2010;       Despesas com pessoal;R$ 1.200,00;Cheque; -  -  / Comitê Financeiro Único - PC do B - DF;
-PREFEITURA MUNICIPAL DE SP;71.960.363/0001-17;23/09/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 122.000,00;Cheque; -  -  / Comitê Financeiro Único - PC do B - DF;
-;;13/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / Comitê Financeiro Único - PC do B - DF;
+Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
+AGNELO SANTOS QUEIROZ FILHO;12.173.040/0001-14;21/09/2010;65000177917;R$ 122.400,00;Transferência eletrônica;Comitê Financeiro Único;PC do B;DF;
+Comitê Financeiro Único;12.205.228/0001-05;29/10/2010;65000177918;R$ 81.646,13;Estimado;Comitê Financeiro Único;PC do B;DF;
+Comitê Financeiro Único;12.205.228/0001-05;30/08/2010;65000177916;R$ 47.733,10;Estimado;Comitê Financeiro Único;PC do B;DF;
+MARIA IVONETE GOMES DO NASCIMENTO;221.058.671-20;13/08/2010;65000177911;R$ 1.500,00;Transferência eletrônica;Comitê Financeiro Único;PC do B;DF;
+ULTRAFERTIL SA;02.476.026/0001-36;16/09/2010;65000177915;R$ 50.000,00;Cheque;Comitê Financeiro Único;PC do B;DF;

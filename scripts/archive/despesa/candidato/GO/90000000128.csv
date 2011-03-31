@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.242/0001-09;23/08/2010;65000185133;R$ 120,00;Estimado;EDMILSON DA SILVA ALVES;65190;Deputado Estadual;PC do B;GO;
-ELEICAO 2010 EDMILSON DA SILVA ALVES DEPUTADO ESTADUAL;318.978.781-68;10/08/2010;65000185132;R$ 200,00;Depósito em espécie;EDMILSON DA SILVA ALVES;65190;Deputado Estadual;PC do B;GO;
-ELEICAO 2010 FABIO TOKARSKI DEPUTADO FEDERAL;12.171.879/0001-13;27/07/2010;65000185131;R$ 345,00;Estimado;EDMILSON DA SILVA ALVES;65190;Deputado Estadual;PC do B;GO;
-ELEIÇÃO 2010 IRIS REZENDE MACHADO GOVERNADOR;12.167.313/0001-18;02/10/2010;65000185134;R$ 1.612,90;Estimado;EDMILSON DA SILVA ALVES;65190;Deputado Estadual;PC do B;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.242/0001-09;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 120,00;Estimado;Comitê Financeiro Único - PC do B -  / 65190 - EDMILSON DA SILVA ALVES - GO - Deputado Estadual;
+ELEICAO 2010 FABIO TOKARSKI DEPUTADO FEDERAL;12.171.879/0001-13;27/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 345,00;Estimado;6565 -  - PC do B -  - Deputado Federal / 65190 - EDMILSON DA SILVA ALVES - GO - Deputado Estadual;
+ELEIÇÃO 2010 IRIS REZENDE MACHADO GOVERNADOR;12.167.313/0001-18;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.612,90;Estimado;15 -  - PMDB -  - Governador / 65190 - EDMILSON DA SILVA ALVES - GO - Deputado Estadual;
+MEGA POLTTER COMÉRCIO E SERVIÇO DE IMPRESSOS E INFORMÁTICA LTDA;10.291.879/0001-21;25/09/2010;       Publicidade por materiais impressos;R$ 40,00;Cheque; -  -  / 65190 - EDMILSON DA SILVA ALVES - GO - Deputado Estadual;
+MEGA POLTTER COMÉRCIO E SERVIÇO DE IMPRESSOS E INFORMÁTICA LTDA;10.291.879/0001-21;25/08/2010;       Publicidade por materiais impressos;R$ 160,00;Cheque; -  -  / 65190 - EDMILSON DA SILVA ALVES - GO - Deputado Estadual;

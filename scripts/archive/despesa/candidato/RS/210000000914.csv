@@ -1,6 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JAIR RODRIGUES MENDES;466.099.030-34;30/07/2010;36000095501;R$ 2.800,00;Depósito em espécie;JAIR RODRIGUES MENDES;36036;Deputado Estadual;PTC;RS;
-JAIR RODRIGUES MENDES;466.099.030-34;30/08/2010;36000095502;R$ 745,00;Depósito em espécie;JAIR RODRIGUES MENDES;36036;Deputado Estadual;PTC;RS;
-JAIR RODRIGUES MENDES;466.099.030-34;29/10/2010;36000095505;R$ 153,70;Depósito em espécie;JAIR RODRIGUES MENDES;36036;Deputado Estadual;PTC;RS;
-JAIR RODRIGUES MENDES;466.099.030-34;21/09/2010;36000095503;R$ 750,00;Depósito em espécie;JAIR RODRIGUES MENDES;36036;Deputado Estadual;PTC;RS;
-WILLIANS FERNANDES MENDES;029.087.050-01;28/09/2010;36000095504;R$ 720,00;Depósito em espécie;JAIR RODRIGUES MENDES;36036;Deputado Estadual;PTC;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ÁUDIO & MÍDIA PRODUÇÕES EM ÁUDIO;05.929.133/0001-60;28/09/2010;       Publicidade por carros de som;R$ 50,00;Cheque; -  -  / 36036 - JAIR RODRIGUES MENDES - RS - Deputado Estadual;
+COMERCIAL DE COMBUSTÍVEIS ROSUL - POSTO ROSUL 1;89.371.058/0001-55;27/09/2010;       Combustíveis e lubrificantes;R$ 100,00;Cheque; -  -  / 36036 - JAIR RODRIGUES MENDES - RS - Deputado Estadual;
+GRÁFICA SARAN;97.072.201/0001-36;27/09/2010;       Publicidade por materiais impressos;R$ 553,00;Cheque; -  -  / 36036 - JAIR RODRIGUES MENDES - RS - Deputado Estadual;
+JOSÉ LUIZ PERES GONZALES;272.802.170-87;02/08/2010;       Locação/cessão de bens imóveis;R$ 800,00;Cheque; -  -  / 36036 - JAIR RODRIGUES MENDES - RS - Deputado Estadual;
+PRIMAGEM COMUNICAÇÃO VISUAL;08.926.574/0001-05;05/08/2010;       Publicidade por materiais impressos;R$ 1.928,80;Cheque; -  -  / 36036 - JAIR RODRIGUES MENDES - RS - Deputado Estadual;
+S.F.L. INFORMÁTICA LTDA;05.201.832/0001-90;28/08/2010;       Publicidade por materiais impressos;R$ 1.487,00;Cheque; -  -  / 36036 - JAIR RODRIGUES MENDES - RS - Deputado Estadual;
+WEB CONEÇÃO INFORMÁTICA LTDA;09.419.213/0001-27;02/08/2010;       Criação e inclusão de páginas na internet;R$ 249,90;Cheque; -  -  / 36036 - JAIR RODRIGUES MENDES - RS - Deputado Estadual;

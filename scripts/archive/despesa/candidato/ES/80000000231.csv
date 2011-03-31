@@ -1,9 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;07.780.269/0001-87;28/09/2010;44000053502;R$ 941,38;Transferência eletrônica;HUMBERTO SIMÕES GONÇALVES;44400;Deputado Estadual;PRP;ES;
-Diretório Estadual/Distrital;07.780.269/0001-87;20/09/2010;44000053501;R$ 941,38;Transferência eletrônica;HUMBERTO SIMÕES GONÇALVES;44400;Deputado Estadual;PRP;ES;
-HUMBERTO SIMÕES GONÇALVES;416.618.857-72;20/09/2010;44000053512;R$ 200,00;Depósito em espécie;HUMBERTO SIMÕES GONÇALVES;44400;Deputado Estadual;PRP;ES;
-JOSE RENATO  CASAGRANDE;12.179.825/0001-02;01/10/2010;44000053504;R$ 811,68;Estimado;HUMBERTO SIMÕES GONÇALVES;44400;Deputado Estadual;PRP;ES;
-JOSE RENATO CASAGRANDE;12.179.825/0001-02;01/10/2010;44000053507;R$ 292,46;Estimado;HUMBERTO SIMÕES GONÇALVES;44400;Deputado Estadual;PRP;ES;
-JOSE RENATO CASAGRANDE;12.179.825/0001-02;01/10/2010;44000053505;R$ 324,67;Estimado;HUMBERTO SIMÕES GONÇALVES;44400;Deputado Estadual;PRP;ES;
-JOSÉ RENATO CASAGRANDE;12.179.825/0001-02;01/10/2010;44000053510;R$ 225,00;Estimado;HUMBERTO SIMÕES GONÇALVES;44400;Deputado Estadual;PRP;ES;
-LEONARDO SEABRA TOMAZ;022.929.191-09;01/10/2010;44000053513;R$ 1.590,00;Depósito em espécie;HUMBERTO SIMÕES GONÇALVES;44400;Deputado Estadual;PRP;ES;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA E EDITORA JEP LTDA;27.252.147/0001-25;20/09/2010;       Publicidade por materiais impressos;R$ 32,50;Transferência eletrônica; -  -  / 44400 - HUMBERTO SIMÕES GONÇALVES - ES - Deputado Estadual;
+GRAFITUSA S/A;05.461.408/0001-84;20/09/2010;       Publicidade por materiais impressos;R$ 29,16;Transferência eletrônica; -  -  / 44400 - HUMBERTO SIMÕES GONÇALVES - ES - Deputado Estadual;
+JOSE RENATO  CASAGRANDE;12.179.825/0001-02;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 811,68;Estimado;40 -  - PSB -  - Governador / 44400 - HUMBERTO SIMÕES GONÇALVES - ES - Deputado Estadual;
+JOSE RENATO CASAGRANDE;12.179.825/0001-02;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 292,46;Estimado;40 -  - PSB -  - Governador / 44400 - HUMBERTO SIMÕES GONÇALVES - ES - Deputado Estadual;
+JOSE RENATO CASAGRANDE;12.179.825/0001-02;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 324,67;Estimado;40 -  - PSB -  - Governador / 44400 - HUMBERTO SIMÕES GONÇALVES - ES - Deputado Estadual;
+JOSÉ RENATO CASAGRANDE;12.179.825/0001-02;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 225,00;Estimado;40 -  - PSB -  - Governador / 44400 - HUMBERTO SIMÕES GONÇALVES - ES - Deputado Estadual;
+MANOEL DA COSTA OGINO;844.399.127-53;01/10/2010;       Diversas a especificar;R$ 3.611,10;Transferência eletrônica; -  -  / 44400 - HUMBERTO SIMÕES GONÇALVES - ES - Deputado Estadual;

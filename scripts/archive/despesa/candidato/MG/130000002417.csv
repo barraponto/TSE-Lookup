@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Nacional;29.549.433/0001-82;05/09/2010;33000066815;R$ 250,00;Estimado;ALEXANDRA POLICARPO DOS SANTOS;33107;Deputado Estadual;PMN;MG;
-EZEQUIAS FRANCISCO ALMEIDA DAMASCENO;068.300.856-08;17/09/2010;33000066814;R$ 200,00;Estimado;ALEXANDRA POLICARPO DOS SANTOS;33107;Deputado Estadual;PMN;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Nacional;29.549.433/0001-82;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;Direção Nacional - PMN -  / 33107 - ALEXANDRA POLICARPO DOS SANTOS - MG - Deputado Estadual;
+EZEQUIAS FRANCISCO ALMEIDA DAMASCENO;068.300.856-08;17/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado; -  -  / 33107 - ALEXANDRA POLICARPO DOS SANTOS - MG - Deputado Estadual;

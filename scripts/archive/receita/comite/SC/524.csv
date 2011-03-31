@@ -1,12 +1,4 @@
-Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
-Comitê Financeiro Único - PTC;12.206.650/0001-77;29/10/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 200,85;Cheque;Direção Estadual/Distrital - PTC - SC / Comitê Financeiro Único - PTC - SC;
-DISK GOURMET COMERCIO DE ALIMENTOS LTDA;07.610.234/0001-08;19/08/2010;       Alimentação;R$ 73,37;Cheque; -  -  / Comitê Financeiro Único - PTC - SC;
-FABER COM. E PROD. DE CINEMA E VIDEO LTDA - EPP;08.289.821/0001-00;17/08/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 7.000,00;Cheque; -  -  / Comitê Financeiro Único - PTC - SC;
-FABER COM. E PROD. DE CINEMA E VIDEO LTDA - EPP;08.289.821/0001-00;11/08/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 7.000,00;Cheque; -  -  / Comitê Financeiro Único - PTC - SC;
-HT HOTEIS LTDA;06.110.143/0001-32;19/08/2010;       Diversas a especificar;R$ 155,43;Cheque; -  -  / Comitê Financeiro Único - PTC - SC;
-ROCHA GRAFICA E EDITORAÇÃO LTDA - EPP;95.833.307/0001-80;17/09/2010;       Publicidade por materiais impressos;R$ 2.500,00;Cheque; -  -  / Comitê Financeiro Único - PTC - SC;
-ROCHA GRAFICA E EDITORAÇÃO LTDA - EPP;95.833.307/0001-80;24/08/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / Comitê Financeiro Único - PTC - SC;
-ROCHA GRAFICA E EDITORAÇÃO LTDA - EPP;95.833.307/0001-80;13/09/2010;       Publicidade por materiais impressos;R$ 1.250,00;Cheque; -  -  / Comitê Financeiro Único - PTC - SC;
-SECONTUR EXECUTIVE HOTEL LTDA - ME;07.133.059/0001-05;24/08/2010;       Diversas a especificar;R$ 150,00;Cheque; -  -  / Comitê Financeiro Único - PTC - SC;
-SPOLTGRAF IND. GRAFICA LTDA - EPP;72.356.215/0001-50;17/08/2010;       Diversas a especificar;R$ 220,00;Cheque; -  -  / Comitê Financeiro Único - PTC - SC;
-;;08/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / Comitê Financeiro Único - PTC - SC;
+Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
+Diretório Estadual/Distrital;12.200.100/0001-40;11/08/2010;36000076227;R$ 15.000,00;Transferência eletrônica;Comitê Financeiro Único;PTC;SC;
+ELPIDIO NEVES;171.855.800-72;16/09/2010;36000076229;R$ 2.800,00;Transferência eletrônica;Comitê Financeiro Único;PTC;SC;
+ELPIDIO NEVES;171.855.800-72;10/09/2010;36000076228;R$ 1.250,00;Depósito em espécie;Comitê Financeiro Único;PTC;SC;

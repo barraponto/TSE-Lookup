@@ -1,5 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;03.870.364/0001-10;17/09/2010;12001839012;R$ 1.000,00;Cheque;EMILIANO QUARESMA DOS SANTOS;1230;Deputado Federal;PDT;PA;
-RAIMUNDO DA CONCEIÇÃO AGUIAR;108.588.572-00;25/08/2010;12001839011;R$ 1.000,00;Estimado;EMILIANO QUARESMA DOS SANTOS;1230;Deputado Federal;PDT;PA;
-SILVIO SIQUEIRA PINHEIRO;329.733.062-72;01/09/2010;12001839014;R$ 300,00;Estimado;EMILIANO QUARESMA DOS SANTOS;1230;Deputado Federal;PDT;PA;
-SILVIO SIQUEIRA PINHEIRO;329.733.062-72;01/09/2010;12001839013;R$ 600,00;Estimado;EMILIANO QUARESMA DOS SANTOS;1230;Deputado Federal;PDT;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EVERALDO PANTOJA DA COSTA;918.853.102-34;01/08/2010;       Locação/cessão de bens móveis;R$ 976,00;Não informado; -  -  / 1230 - EMILIANO QUARESMA DOS SANTOS - PA - Deputado Federal;
+RAIMUNDO DA CONCEIÇÃO AGUIAR;108.588.572-00;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 1230 - EMILIANO QUARESMA DOS SANTOS - PA - Deputado Federal;
+SILVIO SIQUEIRA PINHEIRO;329.733.062-72;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado; -  -  / 1230 - EMILIANO QUARESMA DOS SANTOS - PA - Deputado Federal;
+SILVIO SIQUEIRA PINHEIRO;329.733.062-72;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 1230 - EMILIANO QUARESMA DOS SANTOS - PA - Deputado Federal;
+;;20/09/2010;       Encargos financeiros e taxas bancárias;R$ 12,00;Débito em conta; -  -  / 1230 - EMILIANO QUARESMA DOS SANTOS - PA - Deputado Federal;
+;;20/09/2010;       Encargos financeiros e taxas bancárias;R$ 12,00;Débito em conta; -  -  / 1230 - EMILIANO QUARESMA DOS SANTOS - PA - Deputado Federal;

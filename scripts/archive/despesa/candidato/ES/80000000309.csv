@@ -1,2 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSE CANUDO SILVEIRA MILANO;423.489.277-72;03/09/2010;70000146501;R$ 200,00;Depósito em espécie;RENATO SILVA DE OLIVEIRA;70222;Deputado Estadual;PT do B;ES;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRÁFICA E EDITORA JEP LTDA.;27.252.147/0001-25;03/09/2010;       Publicidade por materiais impressos;R$ 32,50;Cheque; -  -  / 70222 - RENATO SILVA DE OLIVEIRA - ES - Deputado Estadual;
+GRÁFICA ESPÍRITO SANTO LTDA.;30.955.538/0001-10;03/09/2010;       Publicidade por materiais impressos;R$ 30,00;Cheque; -  -  / 70222 - RENATO SILVA DE OLIVEIRA - ES - Deputado Estadual;
+GRÁFICA SANTO ANTONIO LTDA.;28.156.297/0001-06;03/09/2010;       Publicidade por materiais impressos;R$ 30,00;Cheque; -  -  / 70222 - RENATO SILVA DE OLIVEIRA - ES - Deputado Estadual;
+GRÁFICA SANTO ANTONIO LTDA.;28.156.297/0001-06;24/09/2010;       Publicidade por materiais impressos;R$ 60,00;Cheque; -  -  / 70222 - RENATO SILVA DE OLIVEIRA - ES - Deputado Estadual;
+GRAFITUSA S/A;05.461.408/0001-84;03/09/2010;       Publicidade por materiais impressos;R$ 29,16;Cheque; -  -  / 70222 - RENATO SILVA DE OLIVEIRA - ES - Deputado Estadual;
+70222 - RENATO SILVA DE OLIVEIRA - DEPUTADO ESTADUAL;12.204.337/0001-08;14/12/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 18,34;Cheque;Direção Estadual/Distrital - PT do B - ES / 70222 - RENATO SILVA DE OLIVEIRA - ES - Deputado Estadual;

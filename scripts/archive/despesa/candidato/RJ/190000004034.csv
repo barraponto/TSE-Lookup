@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FILIPE DE ALMEIDA PEREIRA;12.171.101/0001-04;30/09/2010;22000163381;R$ 600,00;Estimado;RITA GONCALVES DE CARVALHO;22351;Deputado Estadual;PR;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+FILIPE DE ALMEIDA PEREIRA;12.171.101/0001-04;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado;2020 -  - PSC -  - Deputado Federal / 22351 - RITA GONCALVES DE CARVALHO - RJ - Deputado Estadual;

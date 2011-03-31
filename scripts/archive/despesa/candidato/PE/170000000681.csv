@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.229.917/0001-41;22/09/2010;21000012782;R$ 1.000,00;Estimado;ANÍBAL DE OLIVEIRA VALENÇA;21;Vice-Governador;PCB;PE;
-Comitê Financeiro Único;12.229.917/0001-41;22/09/2010;21000012783;R$ 300,00;Estimado;ANÍBAL DE OLIVEIRA VALENÇA;21;Vice-Governador;PCB;PE;
-MARDÔNIO DE ANDRADE QUINTAS;001.058.564-87;21/09/2010;21000012781;R$ 400,00;Cheque;ANÍBAL DE OLIVEIRA VALENÇA;21;Vice-Governador;PCB;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.229.917/0001-41;22/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PCB -  / 21 - ANÍBAL DE OLIVEIRA VALENÇA - PE - Vice-Governador;
+Comitê Financeiro Único;12.229.917/0001-41;22/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;Comitê Financeiro Único - PCB -  / 21 - ANÍBAL DE OLIVEIRA VALENÇA - PE - Vice-Governador;
+ELIAS  DA  SILVA;345.936.754-72;29/09/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 21 - ANÍBAL DE OLIVEIRA VALENÇA - PE - Vice-Governador;

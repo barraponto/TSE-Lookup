@@ -1,9 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.181.923/0001-76;25/08/2010;12000063712;R$ 300,00;Outros títulos de crédito;ADRIANO JOSE LIMA BERNARDO;12812;Deputado Estadual;PDT;RJ;
-Diretório Estadual/Distrital;12.205.322/0001-56;17/08/2010;12000063713;R$ 2.823,53;Outros títulos de crédito;ADRIANO JOSE LIMA BERNARDO;12812;Deputado Estadual;PDT;RJ;
-Diretório Estadual/Distrital;12.205.322/0001-56;10/08/2010;12000063714;R$ 1.656,24;Outros títulos de crédito;ADRIANO JOSE LIMA BERNARDO;12812;Deputado Estadual;PDT;RJ;
-GUILHERME JOSE BERNARDO;072.153.397-34;24/09/2010;12000063719;R$ 250,00;Outros títulos de crédito;ADRIANO JOSE LIMA BERNARDO;12812;Deputado Estadual;PDT;RJ;
-GUILHERME JOSE BERNARDO;072.153.397-34;24/09/2010;12000063717;R$ 900,00;Outros títulos de crédito;ADRIANO JOSE LIMA BERNARDO;12812;Deputado Estadual;PDT;RJ;
-GUILHERME JOSE BERNARDO;072.153.397-34;03/08/2010;12000063711;R$ 950,00;Depósito em espécie;ADRIANO JOSE LIMA BERNARDO;12812;Deputado Estadual;PDT;RJ;
-GUILHERME JOSE BERNARDO;072.153.397-34;24/09/2010;12000063718;R$ 170,87;Outros títulos de crédito;ADRIANO JOSE LIMA BERNARDO;12812;Deputado Estadual;PDT;RJ;
-MIRO TEIXEIRA;12.198.175/0001-34;20/08/2010;12000063715;R$ 1.125,00;Outros títulos de crédito;ADRIANO JOSE LIMA BERNARDO;12812;Deputado Estadual;PDT;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+SIGNS BLUE E PROMOÇÕES LTDA;08.293.353/0001-39;05/08/2010;       Publicidade por placas, estandartes e faixas;R$ 910,00;Cheque; -  -  / 12812 - ADRIANO JOSE LIMA BERNARDO - RJ - Deputado Estadual;

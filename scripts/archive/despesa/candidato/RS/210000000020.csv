@@ -1,3 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CENTRO CLINICO GAUCHO;00.773.639/0001-00;24/08/2010;50000480301;R$ 1.500,00;Cheque;EMERSON MARTINS DUTRA;5077;Deputado Federal;PSOL;RS;
-EMERSON MARTINS DUTRA;560.775.990-34;22/10/2010;50000480302;R$ 1.300,00;Depósito em espécie;EMERSON MARTINS DUTRA;5077;Deputado Federal;PSOL;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADAO CRUZ;579.658.420-53;06/09/2010;       Diversas a especificar;R$ 900,00;Cheque; -  -  / 5077 - EMERSON MARTINS DUTRA - RS - Deputado Federal;
+MALU GRAPH;07.154.187/0001-27;25/09/2010;       Publicidade por materiais impressos;R$ 800,00;Cheque; -  -  / 5077 - EMERSON MARTINS DUTRA - RS - Deputado Federal;
+PROLETRA;87.207.874/0001-00;25/10/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 5077 - EMERSON MARTINS DUTRA - RS - Deputado Federal;
+ROSSI COMUNICAÇÕES VISUAL;93.726.024/0001-03;02/09/2010;       Publicidade por materiais impressos;R$ 510,00;Cheque; -  -  / 5077 - EMERSON MARTINS DUTRA - RS - Deputado Federal;

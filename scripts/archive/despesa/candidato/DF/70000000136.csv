@@ -1,6 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 LUIZ CARLOS PIETSCHMAN;12.174.266/0001-30;01/10/2010;12001522685;R$ 240,00;Estimado;OLEGARIO VICENTE SOL;12010;Deputado Distrital;PDT;DF;
-ELEIÇÃO 2010 LUIZ CARLOS PIETSCHMAN;12.174.266/0001-30;21/10/2010;12001522687;R$ 3.750,00;Cheque;OLEGARIO VICENTE SOL;12010;Deputado Distrital;PDT;DF;
-ELEIÇÃO 2010 OLEGARIO VICENTE SOL DEPUTADO DISTRITAL;381.616.481-15;25/08/2010;12001522682;R$ 350,00;Transferência eletrônica;OLEGARIO VICENTE SOL;12010;Deputado Distrital;PDT;DF;
-ELEIÇÃO 2010 OLEGARIO VICENTE SOL DEPUTADO DISTRITAL;381.616.481-15;23/07/2010;12001522681;R$ 1.000,00;Transferência eletrônica;OLEGARIO VICENTE SOL;12010;Deputado Distrital;PDT;DF;
-ELEIÇÃO 2010 OLEGARIO VICENTE SOL DEPUTADO DISTRITAL;381.616.481-15;08/09/2010;12001522683;R$ 220,00;Transferência eletrônica;OLEGARIO VICENTE SOL;12010;Deputado Distrital;PDT;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DESIGN IMPRESSÃO DIGITAL;10.526.217/0001-93;04/09/2010;       Publicidade por materiais impressos;R$ 225,20;Cheque; -  -  / 12010 - OLEGARIO VICENTE SOL - DF - Deputado Distrital;
+ELEIÇÃO 2010 LUIZ CARLOS PIETSCHMAN;12.174.266/0001-30;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 240,00;Estimado;1515 -  - PMDB -  - Deputado Federal / 12010 - OLEGARIO VICENTE SOL - DF - Deputado Distrital;
+GRÁFICA MARX LTDA;10.523.091/0001-01;03/08/2010;       Publicidade por materiais impressos;R$ 550,00;Cheque; -  -  / 12010 - OLEGARIO VICENTE SOL - DF - Deputado Distrital;
+JOSEFINA GONÇALVES DA SILVA;223.429.581-53;28/10/2010;       Despesas com pessoal;R$ 3.754,80;Cheque; -  -  / 12010 - OLEGARIO VICENTE SOL - DF - Deputado Distrital;
+MAQPRON SERVIÇOS DE DIGITAÇÃO LTDA ME;09.076.120/0001-47;27/07/2010;       Criação e inclusão de páginas na internet;R$ 70,00;Cheque; -  -  / 12010 - OLEGARIO VICENTE SOL - DF - Deputado Distrital;
+POLICROMO IMPRESSAO DIGITAL E PAPELARIA LTDA ME;08.737.456/0001-40;29/07/2010;       Publicidade por materiais impressos;R$ 220,00;Cheque; -  -  / 12010 - OLEGARIO VICENTE SOL - DF - Deputado Distrital;
+POLICROMO IMPRESSAO DIGITAL E PAPELARIA LTDA ME;08.737.456/0001-40;27/08/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 12010 - OLEGARIO VICENTE SOL - DF - Deputado Distrital;
+STUDIO SOM E VIDA;10.156.902/0001-75;30/07/2010;       Produção de jingles, vinhetas e slogans;R$ 300,00;Cheque; -  -  / 12010 - OLEGARIO VICENTE SOL - DF - Deputado Distrital;

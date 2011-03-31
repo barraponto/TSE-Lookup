@@ -1,10 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-AMARILDO LOVATO;765.006.677-00;22/09/2010;12001014911;R$ 1.500,00;Depósito em espécie;DELIO PARRINI IGLESIAS;1200;Deputado Federal;PDT;ES;
-Comitê Financeiro Único;12.206.653/0001-00;25/10/2010;12001014915;R$ 2.000,00;Cheque;DELIO PARRINI IGLESIAS;1200;Deputado Federal;PDT;ES;
-DELIO PARRINI IGLESIAS;742.942.377-91;22/09/2010;12001014913;R$ 500,00;Depósito em espécie;DELIO PARRINI IGLESIAS;1200;Deputado Federal;PDT;ES;
-JOEDES PEREIRA PINTO;353.617.517-15;22/09/2010;12001014912;R$ 1.500,00;Depósito em espécie;DELIO PARRINI IGLESIAS;1200;Deputado Federal;PDT;ES;
-JOSE RENATO CASAGRANDE;12.179.825/0001-02;01/10/2010;12001014919;R$ 324,67;Estimado;DELIO PARRINI IGLESIAS;1200;Deputado Federal;PDT;ES;
-JOSE RENATO CASAGRANDE;12.179.825/0001-02;01/10/2010;12001014918;R$ 330,03;Estimado;DELIO PARRINI IGLESIAS;1200;Deputado Federal;PDT;ES;
-JOSE RENATO CASAGRANDE;12.179.825/0001-02;01/10/2010;12001014917;R$ 146,23;Estimado;DELIO PARRINI IGLESIAS;1200;Deputado Federal;PDT;ES;
-JOSE RENATO CASAGRANDE;12.179.825/0001-02;01/10/2010;12001014920;R$ 811,68;Estimado;DELIO PARRINI IGLESIAS;1200;Deputado Federal;PDT;ES;
-JOSE RENATO CASAGRANDE;12.179.825/0001-02;01/10/2010;12001014916;R$ 262,44;Estimado;DELIO PARRINI IGLESIAS;1200;Deputado Federal;PDT;ES;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS ALBERTO VIDIGAL FRAGA;416.297.017-34;26/10/2010;       Cessão ou Locação de Veículos;R$ 2.719,68;Cheque; -  -  / 1200 - DELIO PARRINI IGLESIAS - ES - Deputado Federal;
+GRAFITUSA S A;05.461.408/0001-84;13/09/2010;       Publicidade por jornais e revistas;R$ 2.780,32;Cheque; -  -  / 1200 - DELIO PARRINI IGLESIAS - ES - Deputado Federal;
+JOSE RENATO CASAGRANDE;12.179.825/0001-02;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 324,67;Estimado;40 -  - PSB -  - Governador / 1200 - DELIO PARRINI IGLESIAS - ES - Deputado Federal;
+JOSE RENATO CASAGRANDE;12.179.825/0001-02;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 262,44;Estimado;40 -  - PSB -  - Governador / 1200 - DELIO PARRINI IGLESIAS - ES - Deputado Federal;
+JOSE RENATO CASAGRANDE;12.179.825/0001-02;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 811,68;Estimado;40 -  - PSB -  - Governador / 1200 - DELIO PARRINI IGLESIAS - ES - Deputado Federal;
+JOSE RENATO CASAGRANDE;12.179.825/0001-02;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 146,23;Estimado;40 -  - PSB -  - Governador / 1200 - DELIO PARRINI IGLESIAS - ES - Deputado Federal;
+JOSE RENATO CASAGRANDE;12.179.825/0001-02;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 330,03;Estimado;40 -  - PSB -  - Governador / 1200 - DELIO PARRINI IGLESIAS - ES - Deputado Federal;

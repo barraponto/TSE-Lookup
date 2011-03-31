@@ -1,5 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Nacional;29.549.433/0001-82;08/08/2010;33000113401;R$ 250,00;Estimado;NEUZA MARIA DE MOURA;33334;Deputado Estadual;PMN;PE;
-Diretório Nacional;29.549.433/0001-82;28/08/2010;33000113402;R$ 75,00;Estimado;NEUZA MARIA DE MOURA;33334;Deputado Estadual;PMN;PE;
-RAUL JUGMAN;12.173.906/0001-97;02/09/2010;33000113403;R$ 1.000,00;Cheque;NEUZA MARIA DE MOURA;33334;Deputado Estadual;PMN;PE;
-RAUL JUGMAN;12.173.906/0001-97;30/09/2010;33000113404;R$ 255,00;Estimado;NEUZA MARIA DE MOURA;33334;Deputado Estadual;PMN;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Nacional;29.549.433/0001-82;28/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 75,00;Estimado;Direção Nacional - PMN -  / 33334 - NEUZA MARIA DE MOURA - PE - Deputado Estadual;
+Diretório Nacional;29.549.433/0001-82;08/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;Direção Nacional - PMN -  / 33334 - NEUZA MARIA DE MOURA - PE - Deputado Estadual;
+RAUL JUGMAN;12.173.906/0001-97;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 255,00;Estimado;232 -  - PPS -  - Senador / 33334 - NEUZA MARIA DE MOURA - PE - Deputado Estadual;

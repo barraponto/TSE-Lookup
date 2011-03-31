@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ARMANDO JOSE DA SILVA FILHO;124.725.144-68;16/07/2010;17000030751;R$ 300,00;Depósito em espécie;ARMANDO JOSE DA SILVA FILHO;1718;Deputado Federal;PSL;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+;;04/11/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Transferência eletrônica; -  -  / 1718 - ARMANDO JOSE DA SILVA FILHO - PE - Deputado Federal;

@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Nacional;29.549.433/0001-82;18/08/2010;33000113201;R$ 250,00;Estimado;JOSE ALVES FERREIRA;33130;Deputado Estadual;PMN;PE;
-Diretório Nacional;29.549.433/0001-82;30/09/2010;33000113203;R$ 4.035,71;Estimado;JOSE ALVES FERREIRA;33130;Deputado Estadual;PMN;PE;
-Diretório Nacional;29.549.433/0001-82;20/08/2010;33000113202;R$ 37,50;Estimado;JOSE ALVES FERREIRA;33130;Deputado Estadual;PMN;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Nacional;29.549.433/0001-82;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;Direção Nacional - PMN -  / 33130 - JOSE ALVES FERREIRA - PE - Deputado Estadual;
+Diretório Nacional;29.549.433/0001-82;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.035,71;Estimado;Direção Nacional - PMN -  / 33130 - JOSE ALVES FERREIRA - PE - Deputado Estadual;
+Diretório Nacional;29.549.433/0001-82;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 37,50;Estimado;Direção Nacional - PMN -  / 33130 - JOSE ALVES FERREIRA - PE - Deputado Estadual;

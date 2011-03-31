@@ -1,7 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANGELO MARTIN SORRIBAS;955.771.148-53;17/08/2010;10000046975;R$ 1.000,00;Depósito em espécie;ELLEN APARECIDA SANTOS;1011;Deputado Federal;PRB;PR;
-ANGELO MARTIN SORRIBAS;955.771.148-53;16/09/2010;10000046976;R$ 580,00;Depósito em espécie;ELLEN APARECIDA SANTOS;1011;Deputado Federal;PRB;PR;
-ANGELO MARTIN SORRIBAS;955.771.148-53;28/09/2010;10000046977;R$ 93,18;Depósito em espécie;ELLEN APARECIDA SANTOS;1011;Deputado Federal;PRB;PR;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;10/08/2010;10000046972;R$ 1.575,00;Estimado;ELLEN APARECIDA SANTOS;1011;Deputado Federal;PRB;PR;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;16/09/2010;10000046971;R$ 1.250,00;Estimado;ELLEN APARECIDA SANTOS;1011;Deputado Federal;PRB;PR;
-EDSON DA SILVA PRACZYK;12.170.712/0001-38;04/09/2010;10000046974;R$ 1.590,00;Estimado;ELLEN APARECIDA SANTOS;1011;Deputado Federal;PRB;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;16/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.250,00;Estimado;45 -  - PSDB -  - Governador / 1011 - ELLEN APARECIDA SANTOS - PR - Deputado Federal;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.575,00;Estimado;45 -  - PSDB -  - Governador / 1011 - ELLEN APARECIDA SANTOS - PR - Deputado Federal;
+EDSON DA SILVA PRACZYK;12.170.712/0001-38;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.590,00;Estimado;10123 -  - PRB -  - Deputado Estadual / 1011 - ELLEN APARECIDA SANTOS - PR - Deputado Federal;

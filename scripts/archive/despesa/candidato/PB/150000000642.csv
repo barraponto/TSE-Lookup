@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-EDVAM MOREIRA DE SENA;025.483.614-38;17/08/2010;11000122141;R$ 510,00;Estimado;MARIA DE FATIMA SOUZA DE ABREU;11120;Deputado Estadual;PP;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EDVAM MOREIRA DE SENA;025.483.614-38;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 510,00;Estimado; -  -  / 11120 - MARIA DE FATIMA SOUZA DE ABREU - PB - Deputado Estadual;

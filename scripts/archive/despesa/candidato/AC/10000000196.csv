@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CLAUDIO ROBERTO CORREIA DA SILVA;484.400.002-00;03/09/2010;45000429193;R$ 1.500,00;Estimado;EDSON FIRMINO DE PAULA;4563;Deputado Federal;PSDB;AC;
-Comitê Financeiro Único;12.200.153/0001-61;14/09/2010;45000429191;R$ 290,00;Depósito em espécie;EDSON FIRMINO DE PAULA;4563;Deputado Federal;PSDB;AC;
-EDSON FIRMINO DE PAULA;017.761.381-55;16/09/2010;45000429192;R$ 50,00;Depósito em espécie;EDSON FIRMINO DE PAULA;4563;Deputado Federal;PSDB;AC;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CLAUDIO ROBERTO CORREIA DA SILVA;484.400.002-00;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado; -  -  / 4563 - EDSON FIRMINO DE PAULA - AC - Deputado Federal;
+R. C. DE LIMA;03.608.766/0006-56;15/09/2010;       Combustíveis e lubrificantes;R$ 326,00;Cheque; -  -  / 4563 - EDSON FIRMINO DE PAULA - AC - Deputado Federal;
+R. C. DE LIMA;03.608.766/0006-56;30/09/2010;       Combustíveis e lubrificantes;R$ 14,00;Cheque; -  -  / 4563 - EDSON FIRMINO DE PAULA - AC - Deputado Federal;

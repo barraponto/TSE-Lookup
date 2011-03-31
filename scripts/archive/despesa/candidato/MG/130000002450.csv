@@ -1,4 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;16.739.948/0001-01;15/09/2010;15000132001;R$ 40.000,00;Cheque;HELIO JOSÉ TOLLENDAL COSTA;1501;Deputado Federal;PMDB;MG;
-ELEIÇÃO 2010 HELIO CALIXTO COSTA GOVERNADOR;12.189.609/0001-30;21/09/2010;15000132003;R$ 500,00;Estimado;HELIO JOSÉ TOLLENDAL COSTA;1501;Deputado Federal;PMDB;MG;
-ELEIÇÃO 2010 HELIO CALIXTO DA COSTA;12.189.609/0001-30;21/09/2010;15000132002;R$ 2.859,90;Estimado;HELIO JOSÉ TOLLENDAL COSTA;1501;Deputado Federal;PMDB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 HELIO CALIXTO COSTA GOVERNADOR;12.189.609/0001-30;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;15 -  - PMDB -  - Governador / 1501 - HELIO JOSÉ TOLLENDAL COSTA - MG - Deputado Federal;
+ELEIÇÃO 2010 HELIO CALIXTO DA COSTA;12.189.609/0001-30;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.859,90;Estimado;15 -  - PMDB -  - Governador / 1501 - HELIO JOSÉ TOLLENDAL COSTA - MG - Deputado Federal;
+FORMATO PRODUÇÕES DE EVENTOS LTDA;09.635.601/0001-45;20/09/2010;       Eventos de promoção da candidatura;R$ 30.000,00;Cheque; -  -  / 1501 - HELIO JOSÉ TOLLENDAL COSTA - MG - Deputado Federal;
+IMAGEM 2000 LTDA - ME;08.713.792/0001-53;06/09/2010;       Publicidade por materiais impressos;R$ 652,00;Cheque; -  -  / 1501 - HELIO JOSÉ TOLLENDAL COSTA - MG - Deputado Federal;
+IMAGEM 2000 LTDA - ME;08.713.792/0001-53;06/09/2010;       Publicidade por materiais impressos;R$ 590,00;Cheque; -  -  / 1501 - HELIO JOSÉ TOLLENDAL COSTA - MG - Deputado Federal;
+LÚCIO RODRIGUES MONTEIRO;10.777.822/0001-37;20/09/2010;       Produção de jingles, vinhetas e slogans;R$ 3.000,00;Cheque; -  -  / 1501 - HELIO JOSÉ TOLLENDAL COSTA - MG - Deputado Federal;
+LÚCIO RODRIGUES MONTEIRO;10.777.822/0001-37;28/09/2010;       Diversas a especificar;R$ 768,00;Cheque; -  -  / 1501 - HELIO JOSÉ TOLLENDAL COSTA - MG - Deputado Federal;
+LÚCIO RODRIGUES MONTEIRO;10.777.822/0001-37;27/09/2010;       Produção de jingles, vinhetas e slogans;R$ 4.990,00;Cheque; -  -  / 1501 - HELIO JOSÉ TOLLENDAL COSTA - MG - Deputado Federal;

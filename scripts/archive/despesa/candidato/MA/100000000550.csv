@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.176.110/0001-98;30/09/2010;13000668500;R$ 2.542,36;Estimado;CID OLIVEIRA SANTOS FILHO;13567;Deputado Estadual;PT;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.176.110/0001-98;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.542,36;Estimado;Comitê Financeiro Único - PT -  / 13567 - CID OLIVEIRA SANTOS FILHO - MA - Deputado Estadual;

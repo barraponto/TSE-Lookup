@@ -1,5 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.221.845/0001-96;23/08/2010;45000418893;R$ 360,00;Estimado;MARCEL DA GLORIA PEREIRA;45444;Deputado Distrital;PSDB;DF;
-Diretório Estadual/Distrital;12.221.845/0001-96;12/08/2010;45000418892;R$ 360,00;Estimado;MARCEL DA GLORIA PEREIRA;45444;Deputado Distrital;PSDB;DF;
-MARCEL DA GLORIA PEREIRA;316.252.661-20;21/07/2010;45000418891;R$ 4.162,88;Cheque;MARCEL DA GLORIA PEREIRA;45444;Deputado Distrital;PSDB;DF;
-MARIA DE LOURDES ABADIA;12.167.909/0001-18;29/09/2010;45000418894;R$ 300,00;Estimado;MARCEL DA GLORIA PEREIRA;45444;Deputado Distrital;PSDB;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.221.845/0001-96;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Direção Estadual/Distrital - PSDB -  / 45444 - MARCEL DA GLORIA PEREIRA - DF - Deputado Distrital;
+Diretório Estadual/Distrital;12.221.845/0001-96;12/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Direção Estadual/Distrital - PSDB -  / 45444 - MARCEL DA GLORIA PEREIRA - DF - Deputado Distrital;
+GRÁFICA E EDITORA COLORPRINT;00.827.521/0001-17;16/09/2010;       Publicidade por materiais impressos;R$ 466,00;Cheque; -  -  / 45444 - MARCEL DA GLORIA PEREIRA - DF - Deputado Distrital;
+GRÁFICA E EDITORA COLORPRINT;00.827.521/0001-17;09/09/2010;       Publicidade por materiais impressos;R$ 700,00;Cheque; -  -  / 45444 - MARCEL DA GLORIA PEREIRA - DF - Deputado Distrital;
+IMPRESS BRASÍLIA COMUNICAÇÃO VISUAL LTDA-ME;09.432.796/0001-26;26/08/2010;       Publicidade por materiais impressos;R$ 60,00;Cheque; -  -  / 45444 - MARCEL DA GLORIA PEREIRA - DF - Deputado Distrital;
+IMPRESS BRASÍLIA COMUNICAÇÃO VISUAL LTDA-ME;09.432.796/0001-26;23/08/2010;       Publicidade por materiais impressos;R$ 936,00;Cheque; -  -  / 45444 - MARCEL DA GLORIA PEREIRA - DF - Deputado Distrital;
+MARIA DE LOURDES ABADIA;12.167.909/0001-18;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;456 -  - PSDB -  - Senador / 45444 - MARCEL DA GLORIA PEREIRA - DF - Deputado Distrital;
+SAMUEL ALVES DE PAULA;12.175.176/0001-63;03/09/2010;       Encargos sociais;R$ 100,00;Cheque; -  -  / 45444 - MARCEL DA GLORIA PEREIRA - DF - Deputado Distrital;
+SAMUEL ALVES DE PAULA;12.175.176/0001-63;03/09/2010;       Encargos sociais;R$ 400,00;Cheque; -  -  / 45444 - MARCEL DA GLORIA PEREIRA - DF - Deputado Distrital;
+SAMUEL ALVES DE PAULA;726.600.311-34;26/08/2010;       Serviços prestados por terceiros;R$ 1.500,00;Cheque; -  -  / 45444 - MARCEL DA GLORIA PEREIRA - DF - Deputado Distrital;

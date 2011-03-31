@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JORGE LUIZ VIANNA PINTO;413.046.597-04;01/09/2010;44000029362;R$ 1.200,00;Depósito em espécie;JORGE LUIZ VIANNA PINTO;44123;Deputado Estadual;PRP;RJ;
-JORGE LUIZ VIANNA PINTO;413.046.597-04;16/07/2010;44000029361;R$ 300,00;Depósito em espécie;JORGE LUIZ VIANNA PINTO;44123;Deputado Estadual;PRP;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ISAÍAS GUIMARÃES DEMÓCRITO;794.149.317-91;01/09/2010;       Serviços prestados por terceiros;R$ 80,00;Cheque; -  -  / 44123 - JORGE LUIZ VIANNA PINTO - RJ - Deputado Estadual;
+MDM'S SERVIÇOS TIPOGRÁFICOS E ARTES GRAFICAS LTDA;05.949.907/0001-15;21/07/2010;       Publicidade por materiais impressos;R$ 220,00;Cheque; -  -  / 44123 - JORGE LUIZ VIANNA PINTO - RJ - Deputado Estadual;
+RAQUEL CRISTINA DE OLIVEIRA VIANNA;127.013.207-55;01/09/2010;       Serviços prestados por terceiros;R$ 1.200,00;Cheque; -  -  / 44123 - JORGE LUIZ VIANNA PINTO - RJ - Deputado Estadual;

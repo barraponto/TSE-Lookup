@@ -1,6 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALDA MONTEIRO NASCIMENTO;616.733.582-68;29/07/2010;25000572703;R$ 2.300,00;Depósito em espécie;LUIZ ANTONIO FERREIRA MARANHÃO;2577;Deputado Federal;DEM;AP;
-ALDA MONTEIRO NASCIMENTO;616.733.582-68;28/07/2010;25000572704;R$ 2.720,00;Estimado;LUIZ ANTONIO FERREIRA MARANHÃO;2577;Deputado Federal;DEM;AP;
-ELIELCLES LEAL DA SILVA;833.615.292-04;28/07/2010;25000572705;R$ 5.440,00;Estimado;LUIZ ANTONIO FERREIRA MARANHÃO;2577;Deputado Federal;DEM;AP;
-GENI FERREIRA MARANHAO;225.325.281-68;28/07/2010;25000572701;R$ 2.000,00;Depósito em espécie;LUIZ ANTONIO FERREIRA MARANHÃO;2577;Deputado Federal;DEM;AP;
-LUIZ ANTONIO FERREIRA MARANHÃO;268.599.391-68;29/07/2010;25000572702;R$ 1.700,00;Depósito em espécie;LUIZ ANTONIO FERREIRA MARANHÃO;2577;Deputado Federal;DEM;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALDA MONTEIRO NASCIMENTO;616.733.582-68;28/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.720,00;Estimado; -  -  / 2577 - LUIZ ANTONIO FERREIRA MARANHÃO - AP - Deputado Federal;
+ELIELCLES LEAL DA SILVA;833.615.292-04;28/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 5.440,00;Estimado; -  -  / 2577 - LUIZ ANTONIO FERREIRA MARANHÃO - AP - Deputado Federal;
+R C VON SHARTEN;07.093.512/0001-99;29/07/2010;       Serviços prestados por terceiros;R$ 5.000,00;Cheque; -  -  / 2577 - LUIZ ANTONIO FERREIRA MARANHÃO - AP - Deputado Federal;
+SALOMÃO ALCOLUMBRE III;05.983.192/0003-89;27/09/2010;       Combustíveis e lubrificantes;R$ 250,00;Cheque; -  -  / 2577 - LUIZ ANTONIO FERREIRA MARANHÃO - AP - Deputado Federal;
+SALOMÃO ALCOLUMBRE III;05.983.192/0003-89;02/08/2010;       Combustíveis e lubrificantes;R$ 200,00;Cheque; -  -  / 2577 - LUIZ ANTONIO FERREIRA MARANHÃO - AP - Deputado Federal;
+STAMP ART INDUSTRIA COM E SERV LTDA EPP;02.154.768/0001-45;30/07/2010;       Serviços prestados por terceiros;R$ 550,00;Cheque; -  -  / 2577 - LUIZ ANTONIO FERREIRA MARANHÃO - AP - Deputado Federal;

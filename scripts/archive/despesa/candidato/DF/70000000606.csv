@@ -1,3 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Nacional;01.770.770/0001-86;01/10/2010;31000003803;R$ 3.000,00;Cheque;KATIA DE DEUS MARTINGIL SOUZA;31725;Deputado Distrital;PHS;DF;
-Diretório Nacional;01.770.770/0001-86;22/09/2010;31000003802;R$ 3.200,00;Cheque;KATIA DE DEUS MARTINGIL SOUZA;31725;Deputado Distrital;PHS;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CLICIA COSTA CUNHA;579.910.301-72;01/09/2010;       Despesas com pessoal;R$ 797,95;Cheque; -  -  / 31725 - KATIA DE DEUS MARTINGIL SOUZA - DF - Deputado Distrital;
+CLICIA COSTA CUNHA;579.910.301-72;01/09/2010;       Despesas com pessoal;R$ 1.000,00;Cheque; -  -  / 31725 - KATIA DE DEUS MARTINGIL SOUZA - DF - Deputado Distrital;
+CLORIS AUTA COSTA CUNHA;559.800.401-10;01/09/2010;       Despesas com pessoal;R$ 1.000,00;Cheque; -  -  / 31725 - KATIA DE DEUS MARTINGIL SOUZA - DF - Deputado Distrital;
+CLORIS AUTA COSTA CUNHA;559.800.401-10;01/09/2010;       Despesas com pessoal;R$ 1.200,00;Cheque; -  -  / 31725 - KATIA DE DEUS MARTINGIL SOUZA - DF - Deputado Distrital;
+KELLY FREITAS LEMOS DE ABREU;735.381.751-87;01/09/2010;       Despesas com pessoal;R$ 1.150,95;Cheque; -  -  / 31725 - KATIA DE DEUS MARTINGIL SOUZA - DF - Deputado Distrital;
+SANDRO FORTES SANTOS;428.896.501-20;01/09/2010;       Despesas com pessoal;R$ 1.000,00;Cheque; -  -  / 31725 - KATIA DE DEUS MARTINGIL SOUZA - DF - Deputado Distrital;
+;;01/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,00;Débito em conta; -  -  / 31725 - KATIA DE DEUS MARTINGIL SOUZA - DF - Deputado Distrital;
+;;22/09/2010;       Encargos financeiros e taxas bancárias;R$ 14,00;Débito em conta; -  -  / 31725 - KATIA DE DEUS MARTINGIL SOUZA - DF - Deputado Distrital;
+;;24/09/2010;       Encargos financeiros e taxas bancárias;R$ 35,00;Débito em conta; -  -  / 31725 - KATIA DE DEUS MARTINGIL SOUZA - DF - Deputado Distrital;
+;;24/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,05;Débito em conta; -  -  / 31725 - KATIA DE DEUS MARTINGIL SOUZA - DF - Deputado Distrital;
+;;01/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,05;Débito em conta; -  -  / 31725 - KATIA DE DEUS MARTINGIL SOUZA - DF - Deputado Distrital;

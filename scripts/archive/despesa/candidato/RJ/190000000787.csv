@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MARCIA GOTTGTROY FRAGA ZIGOLIS;860.750.717-68;04/09/2010;40000999251;R$ 392,15;Estimado;MARCIA GOTTGTROY FRAGA ZIGOLIS;40177;Deputado Estadual;PSB;RJ;
-MARCIA GOTTGTROY FRAGA ZIGOLIS;860.750.717-68;30/09/2010;40000999253;R$ 150,00;Estimado;MARCIA GOTTGTROY FRAGA ZIGOLIS;40177;Deputado Estadual;PSB;RJ;
-MARCIA GOTTGTROY FRAGA ZIGOLIS;860.750.717-68;30/09/2010;40000999252;R$ 150,00;Estimado;MARCIA GOTTGTROY FRAGA ZIGOLIS;40177;Deputado Estadual;PSB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+MARCIA GOTTGTROY FRAGA ZIGOLIS;860.750.717-68;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado; -  -  / 40177 - MARCIA GOTTGTROY FRAGA ZIGOLIS - RJ - Deputado Estadual;
+MARCIA GOTTGTROY FRAGA ZIGOLIS;860.750.717-68;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado; -  -  / 40177 - MARCIA GOTTGTROY FRAGA ZIGOLIS - RJ - Deputado Estadual;
+MARCIA GOTTGTROY FRAGA ZIGOLIS;860.750.717-68;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 392,15;Estimado; -  -  / 40177 - MARCIA GOTTGTROY FRAGA ZIGOLIS - RJ - Deputado Estadual;

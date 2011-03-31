@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.191.570/0001-95;23/07/2010;20000073202;R$ 204,00;Estimado;MARIA JOSE COELHO DOS SANTOS;20557;Deputado Estadual;PSC;BA;
-Diretório Estadual/Distrital;12.191.570/0001-95;30/09/2010;20000073203;R$ 381,60;Estimado;MARIA JOSE COELHO DOS SANTOS;20557;Deputado Estadual;PSC;BA;
-ERIVELTON LIMA SANTANA;12.173.661/0001-06;22/07/2010;20000073201;R$ 250,00;Estimado;MARIA JOSE COELHO DOS SANTOS;20557;Deputado Estadual;PSC;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 381,60;Estimado;Direção Estadual/Distrital - PMDB -  / 20557 - MARIA JOSE COELHO DOS SANTOS - BA - Deputado Estadual;
+Diretório Estadual/Distrital;12.191.570/0001-95;23/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 204,00;Estimado;Direção Estadual/Distrital - PMDB -  / 20557 - MARIA JOSE COELHO DOS SANTOS - BA - Deputado Estadual;
+ERIVELTON LIMA SANTANA;12.173.661/0001-06;22/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado; -  -  / 20557 - MARIA JOSE COELHO DOS SANTOS - BA - Deputado Estadual;

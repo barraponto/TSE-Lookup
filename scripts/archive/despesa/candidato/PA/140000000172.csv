@@ -1,2 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ODAIR DE ALMEIDA MELO;232.978.912-20;03/08/2010;14000211851;R$ 5.000,00;Depósito em espécie;ODAIR DE ALMEIDA MELO;14001;Deputado Estadual;PTB;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+MARCOS SOUZA RAMOS;578.113.262-72;27/08/2010;       Publicidade por materiais impressos;R$ 1.200,00;Cheque; -  -  / 14001 - ODAIR DE ALMEIDA MELO - PA - Deputado Estadual;
+MARCOS SOUZA RAMOS;578.113.262-72;23/09/2010;       Publicidade por materiais impressos;R$ 1.400,00;Cheque; -  -  / 14001 - ODAIR DE ALMEIDA MELO - PA - Deputado Estadual;
+MARCOS SOUZA RAMOS;578.113.262-72;02/09/2010;       Publicidade por materiais impressos;R$ 2.400,00;Cheque; -  -  / 14001 - ODAIR DE ALMEIDA MELO - PA - Deputado Estadual;

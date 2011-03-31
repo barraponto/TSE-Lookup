@@ -1,4 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-RICARDO COSTA DE SIQUEIRA;558.848.573-49;03/08/2010;43001893946;R$ 3.000,00;Depósito em espécie;RICARDO COSTA DE SIQUEIRA;43443;Deputado Estadual;PV;CE;
-RICARDO COSTA DE SIQUEIRA;558.848.573-49;29/09/2010;43001893948;R$ 76,50;Transferência eletrônica;RICARDO COSTA DE SIQUEIRA;43443;Deputado Estadual;PV;CE;
-RICARDO COSTA DE SIQUEIRA;558.848.573-49;27/09/2010;43001893947;R$ 263,98;Transferência eletrônica;RICARDO COSTA DE SIQUEIRA;43443;Deputado Estadual;PV;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARTBAN - JOSÉ JONES ALVES;01.139.126/0001-04;20/08/2010;       Publicidade por materiais impressos;R$ 282,00;Cheque; -  -  / 43443 - RICARDO COSTA DE SIQUEIRA - CE - Deputado Estadual;
+ARTBAN - JOSÉ JONES ALVES;01.139.126/0001-04;10/08/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 43443 - RICARDO COSTA DE SIQUEIRA - CE - Deputado Estadual;
+FRANCISCA CREUZA DA SILVA;516.292.918-20;29/09/2010;       Serviços prestados por terceiros;R$ 76,50;Cheque; -  -  / 43443 - RICARDO COSTA DE SIQUEIRA - CE - Deputado Estadual;
+JOVITA COMÉRCIO DE PETRÓLEO LTDA;08.529.918/0001-34;07/08/2010;       Combustíveis e lubrificantes;R$ 100,00;Cheque; -  -  / 43443 - RICARDO COSTA DE SIQUEIRA - CE - Deputado Estadual;
+LUIZ EVANILDO DE FRANÇA - ME;41.536.160/0001-37;16/09/2010;       Diversas a especificar;R$ 76,50;Cheque; -  -  / 43443 - RICARDO COSTA DE SIQUEIRA - CE - Deputado Estadual;
+POSTO BRISA DA SERRA LTDA;02.699.941/0001-90;30/08/2010;       Combustíveis e lubrificantes;R$ 70,00;Cheque; -  -  / 43443 - RICARDO COSTA DE SIQUEIRA - CE - Deputado Estadual;
+SERVPEL GRÁFICA - RUTH VALERIA DE OLIVEIRA;05.492.196/0001-00;27/09/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 43443 - RICARDO COSTA DE SIQUEIRA - CE - Deputado Estadual;
+SERVPEL GRÁFICA - RUTH VALERIA DE OLIVEIRA;05.492.196/0001-00;03/08/2010;       Publicidade por materiais impressos;R$ 1.800,00;Cheque; -  -  / 43443 - RICARDO COSTA DE SIQUEIRA - CE - Deputado Estadual;
+VERDE RIO HOTELARIA E SERVIÇOS LTDA.;11.119.758/0001-60;31/08/2010;       Diversas a especificar;R$ 102,50;Cheque; -  -  / 43443 - RICARDO COSTA DE SIQUEIRA - CE - Deputado Estadual;
+WASSBI SUSHI RESTAUARANTTE LTDA. - ME;08.312.757/0001-22;30/08/2010;       Alimentação;R$ 32,98;Cheque; -  -  / 43443 - RICARDO COSTA DE SIQUEIRA - CE - Deputado Estadual;
+43443 - RICARDO COSTA DE SIQUEIRA - DEPUTADO ESTADUAL;12.178.296/0001-14;03/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 100,00;Cheque;Comitê Financeiro Único - PV - CE / 43443 - RICARDO COSTA DE SIQUEIRA - CE - Deputado Estadual;

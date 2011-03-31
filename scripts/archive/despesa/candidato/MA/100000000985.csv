@@ -1,2 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-EMANUEL DA SILVA CHAVES;290.791.873-72;30/08/2010;50000210971;R$ 250,00;Depósito em espécie;EMANOEL DA SILVA CHAVES;500;2º Suplente Senador;PSOL;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+M. P. C. DE OLIVEIRA ARTES GRAFICA;07.267.788/0001-46;10/09/2010;       Publicidade por placas, estandartes e faixas;R$ 132,00;Cheque; -  -  / 500 - EMANOEL DA SILVA CHAVES - MA - 2º Suplente Senador;
+MALHAS E CONFECÇÕES M&C LTDA;41.367.384/0001-62;06/09/2010;       Diversas a especificar;R$ 50,00;Cheque; -  -  / 500 - EMANOEL DA SILVA CHAVES - MA - 2º Suplente Senador;

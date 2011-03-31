@@ -1,8 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ROBSON GONÇALVES MONTEIRO;356.696.673-87;22/07/2010;;R$ 500,00;Depósito em espécie;ROBSON GONÇALVES MONTEIRO;50123;Deputado Estadual;PSOL;CE;
-ROBSON GONÇALVES MONTEIRO;356.696.673-87;20/07/2010;;R$ 100,00;Depósito em espécie;ROBSON GONÇALVES MONTEIRO;50123;Deputado Estadual;PSOL;CE;
-ROBSON GONÇALVES MONTEIRO;356.696.673-87;27/07/2010;;R$ 150,00;Depósito em espécie;ROBSON GONÇALVES MONTEIRO;50123;Deputado Estadual;PSOL;CE;
-ROBSON GONÇALVES MONTEIRO;356.696.673-87;03/11/2010;;R$ 10,00;Depósito em espécie;ROBSON GONÇALVES MONTEIRO;50123;Deputado Estadual;PSOL;CE;
-ROBSON GONÇALVES MONTEIRO;356.696.673-87;06/08/2010;;R$ 1.500,00;Depósito em espécie;ROBSON GONÇALVES MONTEIRO;50123;Deputado Estadual;PSOL;CE;
-ROBSON GONÇALVES MONTEIRO;356.696.673-87;30/08/2010;;R$ 200,00;Depósito em espécie;ROBSON GONÇALVES MONTEIRO;50123;Deputado Estadual;PSOL;CE;
-ROBSON GONÇALVES MONTEIRO;356.696.673-87;29/07/2010;;R$ 167,00;Depósito em espécie;ROBSON GONÇALVES MONTEIRO;50123;Deputado Estadual;PSOL;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CENTRO DAS COPIAS;63.356.836/0002-24;04/09/2010;       Publicidade por materiais impressos;R$ 122,00;Cheque; -  -  / 50123 - ROBSON GONÇALVES MONTEIRO - CE - Deputado Estadual;
+L DIGITAL SERVIÇOS DE SERIGRAFIA LTDA;08.174.756/0001-69;26/07/2010;       Publicidade por materiais impressos;R$ 630,00;Não informado; -  -  / 50123 - ROBSON GONÇALVES MONTEIRO - CE - Deputado Estadual;
+POSTO SERVI 100;08.090.734/0001-10;27/08/2010;       Combustíveis e lubrificantes;R$ 80,00;Cheque; -  -  / 50123 - ROBSON GONÇALVES MONTEIRO - CE - Deputado Estadual;
+POSTO SERVI 100;08.090.734/0001-10;01/09/2010;       Combustíveis e lubrificantes;R$ 90,70;Cheque; -  -  / 50123 - ROBSON GONÇALVES MONTEIRO - CE - Deputado Estadual;
+POSTO SERVI 100;08.090.734/0001-10;27/08/2010;       Combustíveis e lubrificantes;R$ 7,10;Cheque; -  -  / 50123 - ROBSON GONÇALVES MONTEIRO - CE - Deputado Estadual;
+POSTO SERVI 100;08.090.734/0001-10;12/08/2010;       Combustíveis e lubrificantes;R$ 91,72;Cheque; -  -  / 50123 - ROBSON GONÇALVES MONTEIRO - CE - Deputado Estadual;

@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO FERNANDES SOBRINHO;204.203.156-91;20/09/2010;;R$ 250,00;Depósito em espécie;ANTONIO FERNANDES SOBRINHO;28122;Deputado Estadual;PRTB;MG;
-Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;28000546004;R$ 590,00;Estimado;ANTONIO FERNANDES SOBRINHO;28122;Deputado Estadual;PRTB;MG;
-Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;28000546003;R$ 300,00;Estimado;ANTONIO FERNANDES SOBRINHO;28122;Deputado Estadual;PRTB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANGELA MARA PONTONE;034.152.406-90;21/09/2010;       Serviços prestados por terceiros;R$ 240,00;Cheque; -  -  / 28122 - ANTONIO FERNANDES SOBRINHO - MG - Deputado Estadual;
+Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PT do B -  / 28122 - ANTONIO FERNANDES SOBRINHO - MG - Deputado Estadual;
+Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 590,00;Estimado;Comitê Financeiro Único - PT do B -  / 28122 - ANTONIO FERNANDES SOBRINHO - MG - Deputado Estadual;

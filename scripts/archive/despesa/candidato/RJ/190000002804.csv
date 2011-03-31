@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;01/09/2010;28000183400;R$ 150,00;Estimado;MARCELO ANTONIO ROSA ZAYAT;28747;Deputado Estadual;PRTB;RJ;
-Comitê Financeiro Único;12.191.469/0001-34;30/09/2010;28000183401;R$ 273,00;Estimado;MARCELO ANTONIO ROSA ZAYAT;28747;Deputado Estadual;PRTB;RJ;
-JORGE SAYED PICCIANI;12.176.626/0001-32;01/09/2010;28000183399;R$ 17,00;Estimado;MARCELO ANTONIO ROSA ZAYAT;28747;Deputado Estadual;PRTB;RJ;
-MARCOS ANTONIO ROSA ZAYAT;483.827.011-91;15/09/2010;28000183402;R$ 770,00;Depósito em espécie;MARCELO ANTONIO ROSA ZAYAT;28747;Deputado Estadual;PRTB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 28747 - MARCELO ANTONIO ROSA ZAYAT - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.191.469/0001-34;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 273,00;Estimado;Comitê Financeiro Único - PRTB -  / 28747 - MARCELO ANTONIO ROSA ZAYAT - RJ - Deputado Estadual;
+JORGE SAYED PICCIANI;12.176.626/0001-32;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 28747 - MARCELO ANTONIO ROSA ZAYAT - RJ - Deputado Estadual;
+SHAOVAN GRAFICA LTDA;28.040.277/0001-67;16/09/2010;       Publicidade por materiais impressos;R$ 770,00;Cheque; -  -  / 28747 - MARCELO ANTONIO ROSA ZAYAT - RJ - Deputado Estadual;

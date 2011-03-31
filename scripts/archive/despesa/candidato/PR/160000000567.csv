@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DIONISIO BANASZEWSKI;234.330.869-15;13/09/2010;23000185104;R$ 1.180,00;Transferência eletrônica;DIONISIO BANASZEWSKI;2347;Deputado Federal;PPS;PR;
-ELEIÇÃO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;12/08/2010;23000185101;R$ 1.575,00;Estimado;DIONISIO BANASZEWSKI;2347;Deputado Federal;PPS;PR;
-ELEIÇÃO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;21/09/2010;23000185102;R$ 1.250,00;Estimado;DIONISIO BANASZEWSKI;2347;Deputado Federal;PPS;PR;
-ELEIÇÃO 2010 RICARDO JOSE MAGALHAES BARROS;12.190.665/0001-94;28/09/2010;23000185106;R$ 562,50;Estimado;DIONISIO BANASZEWSKI;2347;Deputado Federal;PPS;PR;
-MARCO ANTONIO SILVA MONTEIRO;879.896.117-91;14/09/2010;23000185103;R$ 2.275,00;Estimado;DIONISIO BANASZEWSKI;2347;Deputado Federal;PPS;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+A.R. WEIRICH CENTRO GRAFICO - ME;05.379.275/0001-00;16/09/2010;       Publicidade por materiais impressos;R$ 1.180,00;Cheque; -  -  / 2347 - DIONISIO BANASZEWSKI - PR - Deputado Federal;
+ELEIÇÃO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.250,00;Estimado;45 -  - PSDB -  - Governador / 2347 - DIONISIO BANASZEWSKI - PR - Deputado Federal;
+ELEIÇÃO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;12/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.575,00;Estimado;45 -  - PSDB -  - Governador / 2347 - DIONISIO BANASZEWSKI - PR - Deputado Federal;
+ELEIÇÃO 2010 RICARDO JOSE MAGALHAES BARROS;12.190.665/0001-94;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 562,50;Estimado;111 -  - PP -  - Senador / 2347 - DIONISIO BANASZEWSKI - PR - Deputado Federal;
+MARCO ANTONIO SILVA MONTEIRO;879.896.117-91;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.275,00;Estimado; -  -  / 2347 - DIONISIO BANASZEWSKI - PR - Deputado Federal;

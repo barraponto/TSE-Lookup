@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;04.160.131/0001-97;29/09/2010;15000181961;R$ 435,00;Cheque;ZENITA AMARAL CASTRO;15115;Deputado Estadual;PMDB;AM;
-Diretório Estadual/Distrital;04.160.131/0001-97;30/09/2010;15000181963;R$ 200,00;Estimado;ZENITA AMARAL CASTRO;15115;Deputado Estadual;PMDB;AM;
-Diretório Estadual/Distrital;04.160.131/0001-97;13/08/2010;15000181962;R$ 300,00;Estimado;ZENITA AMARAL CASTRO;15115;Deputado Estadual;PMDB;AM;
-ELEIÇÕES 2010 ZENITA AMARAL CASTRO CANDIDATA DEPUTADA ESTADUAL;025.517.528-09;01/11/2010;15000181967;R$ 2,90;Depósito em espécie;ZENITA AMARAL CASTRO;15115;Deputado Estadual;PMDB;AM;
-MARIA DULCILENE FROTA DA SILVA;070.471.002-10;04/09/2010;15000181964;R$ 510,00;Estimado;ZENITA AMARAL CASTRO;15115;Deputado Estadual;PMDB;AM;
-MARIA ZILAH MELO DE OLIVEIRA;107.388.602-63;04/09/2010;15000181966;R$ 510,00;Estimado;ZENITA AMARAL CASTRO;15115;Deputado Estadual;PMDB;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;04.160.131/0001-97;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;Direção Estadual/Distrital - PMDB -  / 15115 - ZENITA AMARAL CASTRO - AM - Deputado Estadual;
+Diretório Estadual/Distrital;04.160.131/0001-97;13/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Direção Estadual/Distrital - PMDB -  / 15115 - ZENITA AMARAL CASTRO - AM - Deputado Estadual;
+LP DE ANDRADE COMERCIAL;02.765.976/0001-80;18/09/2010;       Publicidade por materiais impressos;R$ 435,00;Cheque; -  -  / 15115 - ZENITA AMARAL CASTRO - AM - Deputado Estadual;
+MARIA DULCILENE FROTA DA SILVA;070.471.002-10;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 510,00;Estimado; -  -  / 15115 - ZENITA AMARAL CASTRO - AM - Deputado Estadual;
+MARIA ZILAH MELO DE OLIVEIRA;107.388.602-63;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 510,00;Estimado; -  -  / 15115 - ZENITA AMARAL CASTRO - AM - Deputado Estadual;
+;;01/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 15115 - ZENITA AMARAL CASTRO - AM - Deputado Estadual;

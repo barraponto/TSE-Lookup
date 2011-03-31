@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-BENEDITO AUGUSTO DOMINGOS;12.203.737/0001-90;16/08/2010;11000094883;R$ 360,00;Estimado;FRANCISCO VITOR DE OLIVEIRA DORNAS;11000;Deputado Distrital;PP;DF;
-BENEDITO AUGUSTO DOMINGOS;12.203.737/0001-90;23/08/2010;11000094882;R$ 360,00;Estimado;FRANCISCO VITOR DE OLIVEIRA DORNAS;11000;Deputado Distrital;PP;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BENEDITO AUGUSTO DOMINGOS;12.203.737/0001-90;16/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;11234 -  - PP -  - Deputado Distrital / 11000 - FRANCISCO VITOR DE OLIVEIRA DORNAS - DF - Deputado Distrital;
+BENEDITO AUGUSTO DOMINGOS;12.203.737/0001-90;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;11234 -  - PP -  - Deputado Distrital / 11000 - FRANCISCO VITOR DE OLIVEIRA DORNAS - DF - Deputado Distrital;

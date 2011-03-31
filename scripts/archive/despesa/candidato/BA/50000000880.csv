@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CATIA SULENE DOS SANTOS ALVES;002.815.645-58;03/09/2010;22000011605;R$ 600,00;Estimado;MAOME SIIDID MARTINS ALVES;22053;Deputado Estadual;PR;BA;
-Comitê Financeiro Único;12.191.570/0001-95;31/07/2010;22000011601;R$ 192,00;Estimado;MAOME SIIDID MARTINS ALVES;22053;Deputado Estadual;PR;BA;
-Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;22000011603;R$ 1.526,40;Estimado;MAOME SIIDID MARTINS ALVES;22053;Deputado Estadual;PR;BA;
-GEDEL VIEIRA LIMA;12.173.503/0001-48;30/09/2010;22000011602;R$ 204,00;Estimado;MAOME SIIDID MARTINS ALVES;22053;Deputado Estadual;PR;BA;
-LORENA TERESA VIVAS DOS SANTOS;510.656.812-91;25/08/2010;22000011604;R$ 200,00;Estimado;MAOME SIIDID MARTINS ALVES;22053;Deputado Estadual;PR;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CATIA SULENE DOS SANTOS ALVES;002.815.645-58;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado; -  -  / 22053 - MAOME SIIDID MARTINS ALVES - BA - Deputado Estadual;
+Comitê Financeiro Único;12.191.570/0001-95;31/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 192,00;Estimado;Comitê Financeiro Único - PMDB -  / 22053 - MAOME SIIDID MARTINS ALVES - BA - Deputado Estadual;
+Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.526,40;Estimado;Comitê Financeiro Único - PMDB -  / 22053 - MAOME SIIDID MARTINS ALVES - BA - Deputado Estadual;
+GEDEL VIEIRA LIMA;12.173.503/0001-48;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 204,00;Estimado;15 -  - PMDB -  - Governador / 22053 - MAOME SIIDID MARTINS ALVES - BA - Deputado Estadual;
+LORENA TERESA VIVAS DOS SANTOS;510.656.812-91;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado; -  -  / 22053 - MAOME SIIDID MARTINS ALVES - BA - Deputado Estadual;

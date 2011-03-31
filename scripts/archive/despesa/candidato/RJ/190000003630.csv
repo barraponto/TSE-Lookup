@@ -1,4 +1,14 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FRANKI HENRI DESCHAMPS;089.678.167-40;18/08/2010;43001506002;R$ 70.000,00;Transferência eletrônica;MARIO DESCHAMPS;4312;Deputado Federal;PV;RJ;
-FRANKI HENRI DESCHAMPS;089.678.167-40;10/09/2010;43001506003;R$ 3.000,00;Transferência eletrônica;MARIO DESCHAMPS;4312;Deputado Federal;PV;RJ;
-MARIO DESCHAMPS;387.810.347-68;16/08/2010;43001506001;R$ 100,00;Depósito em espécie;MARIO DESCHAMPS;4312;Deputado Federal;PV;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EDITORA O DIA SA;33.216.797/0001-18;23/08/2010;       Publicidade por jornais e revistas;R$ 2.580,00;Transferência eletrônica; -  -  / 4312 - MARIO DESCHAMPS - RJ - Deputado Federal;
+EDITORA O DIA SA;33.216.797/0001-18;21/09/2010;       Publicidade por jornais e revistas;R$ 6.450,00;Transferência eletrônica; -  -  / 4312 - MARIO DESCHAMPS - RJ - Deputado Federal;
+EDITORA O DIA SA;33.216.797/0001-18;23/08/2010;       Publicidade por jornais e revistas;R$ 3.870,00;Transferência eletrônica; -  -  / 4312 - MARIO DESCHAMPS - RJ - Deputado Federal;
+EMPRESA JORNALISTICA MARE LTDA;30.321.657/0001-11;24/08/2010;       Publicidade por jornais e revistas;R$ 1.800,00;Cheque; -  -  / 4312 - MARIO DESCHAMPS - RJ - Deputado Federal;
+JOSNEI ROCHA FARMAGIO;222.759.246-04;25/08/2010;       Publicidade por jornais e revistas;R$ 1.250,00;Cheque; -  -  / 4312 - MARIO DESCHAMPS - RJ - Deputado Federal;
+O GLOBO;00.396.253/0001-26;23/08/2010;       Publicidade por jornais e revistas;R$ 52.563,15;Transferência eletrônica; -  -  / 4312 - MARIO DESCHAMPS - RJ - Deputado Federal;
+VIVA A VIDA DE ANGRA  GRAFICA LTDA;03.652.676/0001-58;02/09/2010;       Serviços prestados por terceiros;R$ 770,00;Cheque; -  -  / 4312 - MARIO DESCHAMPS - RJ - Deputado Federal;
+VIVA A VIDA DE ANGRA  GRAFICA LTDA;03.652.676/0001-58;13/09/2010;       Serviços prestados por terceiros;R$ 3.095,00;Cheque; -  -  / 4312 - MARIO DESCHAMPS - RJ - Deputado Federal;
+VIVA A VIDA DE ANGRA  GRAFICA LTDA;03.652.676/0001-58;02/10/2010;       Serviços prestados por terceiros;R$ 652,85;Cheque; -  -  / 4312 - MARIO DESCHAMPS - RJ - Deputado Federal;
+;;21/09/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Débito em conta; -  -  / 4312 - MARIO DESCHAMPS - RJ - Deputado Federal;
+;;23/08/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Débito em conta; -  -  / 4312 - MARIO DESCHAMPS - RJ - Deputado Federal;
+;;04/10/2010;       Encargos financeiros e taxas bancárias;R$ 21,00;Débito em conta; -  -  / 4312 - MARIO DESCHAMPS - RJ - Deputado Federal;
+;;02/09/2010;       Encargos financeiros e taxas bancárias;R$ 21,00;Débito em conta; -  -  / 4312 - MARIO DESCHAMPS - RJ - Deputado Federal;

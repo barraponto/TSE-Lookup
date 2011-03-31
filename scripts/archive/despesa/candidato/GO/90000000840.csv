@@ -1,4 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.504/0001-15;28/10/2010;25000054203;R$ 1.000,00;Estimado;ROSELI MARIA DE OLIVEIRA SILVEIRA;25125;Deputado Estadual;DEM;GO;
-EDUARDO ABRÃO HELOU;500.073.861-68;30/09/2010;25000054202;R$ 260,00;Cheque;ROSELI MARIA DE OLIVEIRA SILVEIRA;25125;Deputado Estadual;DEM;GO;
-MARCOS ROBERTO SILVA;938.380.341-04;20/07/2010;25000054201;R$ 1.000,00;Estimado;ROSELI MARIA DE OLIVEIRA SILVEIRA;25125;Deputado Estadual;DEM;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.504/0001-15;28/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;Comitê Financeiro Único - PSDB -  / 25125 - ROSELI MARIA DE OLIVEIRA SILVEIRA - GO - Deputado Estadual;
+ELENICE MARIA FERREIRA;457.460.601-00;01/09/2010;       Despesas com pessoal;R$ 240,00;Cheque; -  -  / 25125 - ROSELI MARIA DE OLIVEIRA SILVEIRA - GO - Deputado Estadual;
+MARCOS ROBERTO SILVA;938.380.341-04;20/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 25125 - ROSELI MARIA DE OLIVEIRA SILVEIRA - GO - Deputado Estadual;
+;;18/10/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Débito em conta; -  -  / 25125 - ROSELI MARIA DE OLIVEIRA SILVEIRA - GO - Deputado Estadual;
+;;05/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,50;Débito em conta; -  -  / 25125 - ROSELI MARIA DE OLIVEIRA SILVEIRA - GO - Deputado Estadual;

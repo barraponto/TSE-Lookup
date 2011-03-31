@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANDRESSA OLIVEIRA SANTOS;113.294.456-27;11/08/2010;20000072702;R$ 400,00;Estimado;JULIO CESAR DE OLIVEIRA CAVALCANTE;20111;Deputado Estadual;PSC;BA;
-JULIO CESAR DE OLIVEIRA CAVALCANTE;603.307.915-91;24/09/2010;20000072701;R$ 1.115,00;Depósito em espécie;JULIO CESAR DE OLIVEIRA CAVALCANTE;20111;Deputado Estadual;PSC;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANDRESSA OLIVEIRA SANTOS;113.294.456-27;11/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado; -  -  / 20111 - JULIO CESAR DE OLIVEIRA CAVALCANTE - BA - Deputado Estadual;
+JEOVANE DE ALMEIDA SILVA - ME;04.247.643/0001-95;31/08/2010;       Publicidade por materiais impressos;R$ 1.112,00;Cheque; -  -  / 20111 - JULIO CESAR DE OLIVEIRA CAVALCANTE - BA - Deputado Estadual;
+;;28/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 20111 - JULIO CESAR DE OLIVEIRA CAVALCANTE - BA - Deputado Estadual;

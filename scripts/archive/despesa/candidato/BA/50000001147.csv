@@ -1,2 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADRIANA SILVEIRA ALBAN;917.997.675-15;10/08/2010;40002406651;R$ 3.000,00;Cheque;LAZARO SILVA DE JESUS;4094;Deputado Federal;PSB;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA SANTA ROSA LTDA;01.071.207/0001-10;23/09/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 4094 - LAZARO SILVA DE JESUS - BA - Deputado Federal;
+IMAGEM EQUIPAMENTOS PARA ESCRITORIO LTDA;10.389.877/0001-70;03/08/2010;       Publicidade por materiais impressos;R$ 909,00;Cheque; -  -  / 4094 - LAZARO SILVA DE JESUS - BA - Deputado Federal;
+VITOR ALEXANDRE S. G. DOS SANTOS;011.158.025-00;22/09/2010;       Despesas com pessoal;R$ 1.500,00;Cheque; -  -  / 4094 - LAZARO SILVA DE JESUS - BA - Deputado Federal;
+;;20/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 4094 - LAZARO SILVA DE JESUS - BA - Deputado Federal;
+;;12/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 4094 - LAZARO SILVA DE JESUS - BA - Deputado Federal;

@@ -1,3 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 JOSÉ TARGINO MARANHÃO GOVERNADOR;12.189.345/0001-14;03/10/2010;13000775943;R$ 523,56;Estimado;OLIVEROS MARSHALL DE ARAUJO BORGES;1317;Deputado Federal;PT;PB;
-OLIVEROS MARSHALL DE ARAÚJO BORGES;160.189.904-15;19/07/2010;13000775944;R$ 40,00;Depósito em espécie;OLIVEROS MARSHALL DE ARAUJO BORGES;1317;Deputado Federal;PT;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 JOSÉ TARGINO MARANHÃO GOVERNADOR;12.189.345/0001-14;03/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 523,56;Estimado;15 -  - PMDB -  - Governador / 1317 - OLIVEROS MARSHALL DE ARAUJO BORGES - PB - Deputado Federal;

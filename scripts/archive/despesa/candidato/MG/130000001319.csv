@@ -1,2 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-PEDRO WILSON ROCHA;604.605.806-63;17/08/2010;44000038351;R$ 720,00;Depósito em espécie;PEDRO WILSON ROCHA;44550;Deputado Estadual;PRP;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CAMILO REIS DUARTE;072.888.026-12;05/08/2010;       Serviços prestados por terceiros;R$ 700,00;Cheque; -  -  / 44550 - PEDRO WILSON ROCHA - MG - Deputado Estadual;
+;;01/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 44550 - PEDRO WILSON ROCHA - MG - Deputado Estadual;
+;;01/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 44550 - PEDRO WILSON ROCHA - MG - Deputado Estadual;
+;;10/09/2010;       Encargos financeiros e taxas bancárias;R$ 1,80;Débito em conta; -  -  / 44550 - PEDRO WILSON ROCHA - MG - Deputado Estadual;
+;;01/09/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 44550 - PEDRO WILSON ROCHA - MG - Deputado Estadual;

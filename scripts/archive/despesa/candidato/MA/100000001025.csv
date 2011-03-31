@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.221.879/0001-80;18/08/2010;50000210922;R$ 500,00;Estimado;LUIS ROGERIO VIEIRA DA SILVA;5000;Deputado Federal;PSOL;MA;
-LUIS ROGERIO VIEIRA DA SILVA;005.986.573-39;01/09/2010;50000210921;R$ 250,00;Depósito em espécie;LUIS ROGERIO VIEIRA DA SILVA;5000;Deputado Federal;PSOL;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.221.879/0001-80;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;Comitê Financeiro Único - PSOL -  / 5000 - LUIS ROGERIO VIEIRA DA SILVA - MA - Deputado Federal;
+R M GRAFICA E EDITORA;09.443.246/0001-02;01/09/2010;       Publicidade por materiais impressos;R$ 250,00;Cheque; -  -  / 5000 - LUIS ROGERIO VIEIRA DA SILVA - MA - Deputado Federal;

@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.560/0001-50;30/09/2010;65000092305;R$ 162,00;Estimado;ERNANDES JOSE DA SILVA;65220;Deputado Estadual;PC do B;MG;
-Comitê Financeiro Único;12.191.560/0001-50;30/09/2010;65000092307;R$ 114,00;Estimado;ERNANDES JOSE DA SILVA;65220;Deputado Estadual;PC do B;MG;
-Diretório Estadual/Distrital;12.191.560/0001-50;03/08/2010;65000092301;R$ 73,17;Estimado;ERNANDES JOSE DA SILVA;65220;Deputado Estadual;PC do B;MG;
-ELEIÇÕES 2010 FERNANDO DA MATA PIMENTEL SENADOR;12.189.933/0001-58;30/09/2010;65000092304;R$ 275,30;Estimado;ERNANDES JOSE DA SILVA;65220;Deputado Estadual;PC do B;MG;
-GILDÁSIO JARDIM BARBOSA;049.196.266-57;26/08/2010;65000092302;R$ 300,00;Depósito em espécie;ERNANDES JOSE DA SILVA;65220;Deputado Estadual;PC do B;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.560/0001-50;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 114,00;Estimado;Comitê Financeiro Único - PC do B -  / 65220 - ERNANDES JOSE DA SILVA - MG - Deputado Estadual;
+Comitê Financeiro Único;12.191.560/0001-50;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 162,00;Estimado;Comitê Financeiro Único - PC do B -  / 65220 - ERNANDES JOSE DA SILVA - MG - Deputado Estadual;
+Diretório Estadual/Distrital;12.191.560/0001-50;03/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 73,17;Estimado;Direção Estadual/Distrital - PC do B -  / 65220 - ERNANDES JOSE DA SILVA - MG - Deputado Estadual;
+ELEIÇÕES 2010 FERNANDO DA MATA PIMENTEL SENADOR;12.189.933/0001-58;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 275,30;Estimado;133 -  - PT -  - Senador / 65220 - ERNANDES JOSE DA SILVA - MG - Deputado Estadual;
+LASER TECH COPIADORAS E SUPRIMENTOS LTDA.;05.080.085/0002-60;26/08/2010;       Publicidade por placas, estandartes e faixas;R$ 300,00;Cheque; -  -  / 65220 - ERNANDES JOSE DA SILVA - MG - Deputado Estadual;

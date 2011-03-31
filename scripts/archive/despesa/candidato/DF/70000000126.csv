@@ -1,5 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSE MOACIR PINHEIRO DA SILVEIRA;318.838.001-10;28/07/2010;12001522931;R$ 100,00;Depósito em espécie;JOSE MOACIR PINHEIRO DA SILVEIRA;12131;Deputado Distrital;PDT;DF;
-MARIA FRANCISCA P. DA SILVEIRA;150.058.281-68;30/09/2010;12001522933;R$ 1.500,00;Transferência eletrônica;JOSE MOACIR PINHEIRO DA SILVEIRA;12131;Deputado Distrital;PDT;DF;
-RAIMUNDO PINHEIRO DA SILVEIRA;381.789.741-34;30/09/2010;12001522934;R$ 1.490,00;Transferência eletrônica;JOSE MOACIR PINHEIRO DA SILVEIRA;12131;Deputado Distrital;PDT;DF;
-RAIMUNDO PINHEIRO DA SILVEIRA;381.789.741-34;28/09/2010;12001522932;R$ 3.000,00;Depósito em espécie;JOSE MOACIR PINHEIRO DA SILVEIRA;12131;Deputado Distrital;PDT;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DAMIAO DA SILVA ROSA;473.570.961-49;27/10/2010;       Despesas com pessoal;R$ 600,00;Não informado; -  -  / 12131 - JOSE MOACIR PINHEIRO DA SILVEIRA - DF - Deputado Distrital;
+MARLENE DA SILVA ROSA SILVA;701.918.081-72;27/10/2010;       Despesas com pessoal;R$ 600,00;Não informado; -  -  / 12131 - JOSE MOACIR PINHEIRO DA SILVEIRA - DF - Deputado Distrital;
+POSTO CASCOL QNO 5;00.306.597/0017-64;01/10/2010;       Combustíveis e lubrificantes;R$ 50,00;Não informado; -  -  / 12131 - JOSE MOACIR PINHEIRO DA SILVEIRA - DF - Deputado Distrital;
+POSTO CASCOL QNO 5;00.306.597/0017-64;01/10/2010;       Combustíveis e lubrificantes;R$ 30,00;Não informado; -  -  / 12131 - JOSE MOACIR PINHEIRO DA SILVEIRA - DF - Deputado Distrital;
+POSTO CASCOL QNO 5;00.306.597/0017-64;13/10/2010;       Combustíveis e lubrificantes;R$ 20,00;Não informado; -  -  / 12131 - JOSE MOACIR PINHEIRO DA SILVEIRA - DF - Deputado Distrital;
+POSTO CASCOL QNO 5;00.306.597/0017-64;30/09/2010;       Combustíveis e lubrificantes;R$ 50,00;Não informado; -  -  / 12131 - JOSE MOACIR PINHEIRO DA SILVEIRA - DF - Deputado Distrital;
+RITA GORETE VIANA DA SILVA - ME;04.119.644/0001-54;01/10/2010;       Despesas com pessoal;R$ 240,00;Não informado; -  -  / 12131 - JOSE MOACIR PINHEIRO DA SILVEIRA - DF - Deputado Distrital;
+SERMA GRAFICA E PAPELARIA LTDA - ME;26.468.231/0001-18;17/09/2010;       Publicidade por materiais impressos;R$ 4.500,00;Não informado; -  -  / 12131 - JOSE MOACIR PINHEIRO DA SILVEIRA - DF - Deputado Distrital;

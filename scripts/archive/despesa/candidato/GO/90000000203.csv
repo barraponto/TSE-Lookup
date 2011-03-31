@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 WILMAR MARTINS TEIXEIRA JUNIOR DEPUTADO ESTADUAL;800.471.811-68;01/10/2010;17000037802;R$ 2.900,00;Estimado;WILMAR MARTINS TEIXEIRA JUNIOR;17333;Deputado Estadual;PSL;GO;
-JOÃO BATISTA FERREIRA MACHADO;278.830.941-49;19/07/2010;17000037801;R$ 50,00;Depósito em espécie;WILMAR MARTINS TEIXEIRA JUNIOR;17333;Deputado Estadual;PSL;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 WILMAR MARTINS TEIXEIRA JUNIOR DEPUTADO ESTADUAL;800.471.811-68;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.900,00;Estimado; -  -  / 17333 - WILMAR MARTINS TEIXEIRA JUNIOR - GO - Deputado Estadual;
+;;02/09/2010;       Encargos financeiros e taxas bancárias;R$ 21,00;Débito em conta; -  -  / 17333 - WILMAR MARTINS TEIXEIRA JUNIOR - GO - Deputado Estadual;
+;;04/10/2010;       Encargos financeiros e taxas bancárias;R$ 21,00;Débito em conta; -  -  / 17333 - WILMAR MARTINS TEIXEIRA JUNIOR - GO - Deputado Estadual;

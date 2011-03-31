@@ -1,4 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;91.698.118/0001-90;20/07/2010;40000921601;R$ 200,00;Transferência eletrônica;MARTA DE SOUZA;40999;Deputado Estadual;PSB;RS;
-Diretório Estadual/Distrital;91.698.118/0001-90;28/09/2010;40000921603;R$ 400,00;Transferência eletrônica;MARTA DE SOUZA;40999;Deputado Estadual;PSB;RS;
-MARTA DE SOUZA;455.452.000-53;03/09/2010;40000921602;R$ 100,00;Depósito em espécie;MARTA DE SOUZA;40999;Deputado Estadual;PSB;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CLAUDIOMIRO DANIELI;986.575.509-20;21/07/2010;       Cessão ou Locação de Veículos;R$ 200,00;Cheque; -  -  / 40999 - MARTA DE SOUZA - RS - Deputado Estadual;
+PAULO SERGIO ARAUJO DA SILVA;519.633.450-53;29/09/2010;       Serviços prestados por terceiros;R$ 200,00;Cheque; -  -  / 40999 - MARTA DE SOUZA - RS - Deputado Estadual;
+POSTAL MKT INFORMATICA LTDA;94.012.127/0001-74;16/09/2010;       Publicidade por materiais impressos;R$ 100,00;Cheque; -  -  / 40999 - MARTA DE SOUZA - RS - Deputado Estadual;
+ROSIMERI LUISA GIUSTI;143.839.258-39;29/09/2010;       Serviços prestados por terceiros;R$ 50,00;Cheque; -  -  / 40999 - MARTA DE SOUZA - RS - Deputado Estadual;
+SAULINA MARQUES DE SOUZA;253.562.910-00;29/09/2010;       Serviços prestados por terceiros;R$ 150,00;Cheque; -  -  / 40999 - MARTA DE SOUZA - RS - Deputado Estadual;

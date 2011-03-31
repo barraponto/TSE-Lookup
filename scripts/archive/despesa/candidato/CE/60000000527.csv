@@ -1,4 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANA ADILIA RODRIGUES;746.096.613-49;09/09/2010;11000099502;R$ 1.000,00;Estimado;ANA ADILIA RODRIGUES;11500;Deputado Estadual;PP;CE;
-ANA ADILIA RODRIGUES;746.096.613-49;07/10/2010;11000099503;R$ 390,00;Depósito em espécie;ANA ADILIA RODRIGUES;11500;Deputado Estadual;PP;CE;
-Diretório Nacional;00.887.169/0001-05;09/09/2010;11000099501;R$ 5.000,00;Cheque;ANA ADILIA RODRIGUES;11500;Deputado Estadual;PP;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADILIA OLIVEIRA ALVES;039.111.583-94;14/09/2010;       Serviços prestados por terceiros;R$ 445,00;Cheque; -  -  / 11500 - ANA ADILIA RODRIGUES - CE - Deputado Estadual;
+ALICE OLIVEIRA ALVES;027.660.403-23;14/09/2010;       Serviços prestados por terceiros;R$ 445,00;Cheque; -  -  / 11500 - ANA ADILIA RODRIGUES - CE - Deputado Estadual;
+ANA ADILIA RODRIGUES;746.096.613-49;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 11500 - ANA ADILIA RODRIGUES - CE - Deputado Estadual;
+CARLOS ANTONIO SILVA DE SIQUEIRA;273.059.883-91;14/09/2010;       Serviços prestados por terceiros;R$ 1.068,00;Cheque; -  -  / 11500 - ANA ADILIA RODRIGUES - CE - Deputado Estadual;
+ELANDRO WELLINGTON DA SILVA SOARES;028.128.953-06;14/09/2010;       Serviços prestados por terceiros;R$ 801,00;Cheque; -  -  / 11500 - ANA ADILIA RODRIGUES - CE - Deputado Estadual;
+FRANCISCO CARLOS DO NASCIMENTO SOARES;799.102.383-49;14/09/2010;       Serviços prestados por terceiros;R$ 712,00;Cheque; -  -  / 11500 - ANA ADILIA RODRIGUES - CE - Deputado Estadual;
+MINISTERIO DA PREVIDENCIA SOCIAL;29.979.036/0044-80;30/09/2010;       Encargos sociais;R$ 1.209,00;Cheque; -  -  / 11500 - ANA ADILIA RODRIGUES - CE - Deputado Estadual;
+V C EMPREENDIMENTOS LTDA.;03.551.935/0001-54;15/09/2010;       Combustíveis e lubrificantes;R$ 710,00;Cheque; -  -  / 11500 - ANA ADILIA RODRIGUES - CE - Deputado Estadual;

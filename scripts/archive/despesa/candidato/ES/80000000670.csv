@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO DE SOUZA PIRES;938.683.327-15;14/09/2010;12121017114;R$ 60,00;Depósito em espécie;RONIS JOSE PEREIRA ALVES;12200;Deputado Estadual;PDT;ES;
-Comitê Financeiro Único;12.206.653/0001-00;01/10/2010;12121017112;R$ 356,61;Estimado;RONIS JOSE PEREIRA ALVES;12200;Deputado Estadual;PDT;ES;
-SUELI RANGEL SILVA VIDIGAL;12.177.157/0001-76;01/10/2010;12121017113;R$ 623,29;Estimado;RONIS JOSE PEREIRA ALVES;12200;Deputado Estadual;PDT;ES;
-WELLINGTON CAMILO RODRIGUES JUNIOR;138.218.317-82;16/08/2010;12121017111;R$ 30,00;Depósito em espécie;RONIS JOSE PEREIRA ALVES;12200;Deputado Estadual;PDT;ES;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.206.653/0001-00;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 356,61;Estimado;Comitê Financeiro Único - PDT -  / 12200 - RONIS JOSE PEREIRA ALVES - ES - Deputado Estadual;
+GRÁFICA ESPÍRITO SANTO;30.955.538/0001-10;13/09/2010;       Publicidade por materiais impressos;R$ 60,00;Cheque; -  -  / 12200 - RONIS JOSE PEREIRA ALVES - ES - Deputado Estadual;
+GRÁFICA SANTO ANTONIO LTDA;28.156.297/0001-06;30/07/2010;       Publicidade por materiais impressos;R$ 30,00;Cheque; -  -  / 12200 - RONIS JOSE PEREIRA ALVES - ES - Deputado Estadual;
+SUELI RANGEL SILVA VIDIGAL;12.177.157/0001-76;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 623,29;Estimado;1212 -  - PDT -  - Deputado Federal / 12200 - RONIS JOSE PEREIRA ALVES - ES - Deputado Estadual;

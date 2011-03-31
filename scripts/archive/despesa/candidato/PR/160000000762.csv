@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇAO CARLOS ALBERTO RICHA;12.190.887/0001-07;27/09/2010;36000073066;R$ 630,00;Estimado;MIGUEL ARILDO DE LIMA;36133;Deputado Estadual;PTC;PR;
-ELEIÇAO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;30/09/2010;36000073067;R$ 500,00;Estimado;MIGUEL ARILDO DE LIMA;36133;Deputado Estadual;PTC;PR;
-ELEIÇÃO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;24/09/2010;36000073068;R$ 1.680,00;Transferência eletrônica;MIGUEL ARILDO DE LIMA;36133;Deputado Estadual;PTC;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ART GRAF-COMUNICAÇAO VISUAL LTDA;05.430.559/0001-75;27/09/2010;       Publicidade por materiais impressos;R$ 1.680,00;Transferência eletrônica; -  -  / 36133 - MIGUEL ARILDO DE LIMA - PR - Deputado Estadual;
+ELEIÇAO CARLOS ALBERTO RICHA;12.190.887/0001-07;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 630,00;Estimado;45 -  - PSDB -  - Governador / 36133 - MIGUEL ARILDO DE LIMA - PR - Deputado Estadual;
+ELEIÇAO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;45 -  - PSDB -  - Governador / 36133 - MIGUEL ARILDO DE LIMA - PR - Deputado Estadual;

@@ -1,3 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 ALFREDO PEREIRA DO NASCIMENTO GOVERNADOR;12.169.771/0001-96;08/08/2010;17000027057;R$ 5.000,00;Cheque;LUCIO FLAVIO MOREIRA DO NASCIMENTO;17000;Deputado Estadual;PSL;AM;
-ELEIÇÕES 2010 ALFREDO PEREIRA DO NASCIMENTO GOVERNADOR;12.169.771/0001-96;22/09/2010;17000027058;R$ 5.000,00;Cheque;LUCIO FLAVIO MOREIRA DO NASCIMENTO;17000;Deputado Estadual;PSL;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+COILPLAST;11.814.984/0001-60;17/09/2010;       Publicidade por placas, estandartes e faixas;R$ 2.000,00;Cheque; -  -  / 17000 - LUCIO FLAVIO MOREIRA DO NASCIMENTO - AM - Deputado Estadual;
+DAVI DUARTE DE ARAUJO;441.195.772-87;19/08/2010;       Reembolsos de gastos realizados por eleitores;R$ 1.200,00;Cheque; -  -  / 17000 - LUCIO FLAVIO MOREIRA DO NASCIMENTO - AM - Deputado Estadual;
+EURI MONTENEGRO RODRIGUES DE SOUZA JUNIOR;345.195.482-68;15/09/2010;       Serviços prestados por terceiros;R$ 750,00;Cheque; -  -  / 17000 - LUCIO FLAVIO MOREIRA DO NASCIMENTO - AM - Deputado Estadual;
+G.H.S.MAIA;07.502.744/0002-34;02/08/2010;       Publicidade por placas, estandartes e faixas;R$ 1.600,00;Cheque; -  -  / 17000 - LUCIO FLAVIO MOREIRA DO NASCIMENTO - AM - Deputado Estadual;
+JAIME SEVERICHE ZEBALLOS;273.099.402-53;18/08/2010;       Publicidade por jornais e revistas;R$ 1.400,00;Cheque; -  -  / 17000 - LUCIO FLAVIO MOREIRA DO NASCIMENTO - AM - Deputado Estadual;
+SALATIEL MORIZ DA SILVA;948.254.162-68;17/09/2010;       Serviços prestados por terceiros;R$ 3.000,00;Cheque; -  -  / 17000 - LUCIO FLAVIO MOREIRA DO NASCIMENTO - AM - Deputado Estadual;

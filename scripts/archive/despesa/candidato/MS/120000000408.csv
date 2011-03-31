@@ -1,6 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.578/0001-51;19/08/2010;43001890301;R$ 3.000,00;Cheque;SEVERINO RUFINO DOS SANTOS;43678;Deputado Estadual;PV;MS;
-Comitê Financeiro Único;12.191.578/0001-51;19/08/2010;43001890302;R$ 413,08;Estimado;SEVERINO RUFINO DOS SANTOS;43678;Deputado Estadual;PV;MS;
-Comitê Financeiro Único;12.191.578/0001-51;01/10/2010;43001890309;R$ 2.000,00;Cheque;SEVERINO RUFINO DOS SANTOS;43678;Deputado Estadual;PV;MS;
-Comitê Financeiro Único;12.191.578/0001-51;19/08/2010;43001890303;R$ 627,00;Estimado;SEVERINO RUFINO DOS SANTOS;43678;Deputado Estadual;PV;MS;
-JOSE ORCIRIO MIRANDA DOS SANTOS;12.189.573/0001-94;18/09/2010;43001890305;R$ 4.000,00;Cheque;SEVERINO RUFINO DOS SANTOS;43678;Deputado Estadual;PV;MS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.578/0001-51;19/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 413,08;Estimado;Comitê Financeiro Único - PT -  / 43678 - SEVERINO RUFINO DOS SANTOS - MS - Deputado Estadual;
+Comitê Financeiro Único;12.191.578/0001-51;19/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 627,00;Estimado;Comitê Financeiro Único - PT -  / 43678 - SEVERINO RUFINO DOS SANTOS - MS - Deputado Estadual;
+GRANADO COMUNICAÇÃO VISULA - CALHA;08.431.159/0001-72;18/08/2010;       Publicidade por materiais impressos;R$ 280,00;Cheque; -  -  / 43678 - SEVERINO RUFINO DOS SANTOS - MS - Deputado Estadual;
+INACIO FRANCISCO DA SILVA;250.522.761-68;30/09/2010;       Cessão ou Locação de Veículos;R$ 2.020,00;Cheque; -  -  / 43678 - SEVERINO RUFINO DOS SANTOS - MS - Deputado Estadual;
+INACIO FRANCISCO DA SILVA;250.522.761-68;20/08/2010;       Publicidade por carros de som;R$ 500,00;Cheque; -  -  / 43678 - SEVERINO RUFINO DOS SANTOS - MS - Deputado Estadual;
+MARIA H. J. BERNARDINO;481.084.481-15;01/08/2010;       Despesas com pessoal;R$ 2.200,00;Cheque; -  -  / 43678 - SEVERINO RUFINO DOS SANTOS - MS - Deputado Estadual;
+MARLI MARIA DOS SANTOS;001.260.781-90;28/09/2010;       Despesas com pessoal;R$ 4.000,00;Cheque; -  -  / 43678 - SEVERINO RUFINO DOS SANTOS - MS - Deputado Estadual;

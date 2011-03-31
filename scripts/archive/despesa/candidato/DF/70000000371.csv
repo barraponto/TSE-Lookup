@@ -1,4 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSÉ MESSIAS DE SOUZA;12.171.862/0001-66;30/09/2010;65000177679;R$ 3.400,00;Cheque;PAULO HENRIQUE ABREU DE OLIVEIRA;65478;Deputado Distrital;PC do B;DF;
-PAULO HENRIQUE ABREU DE OLIVEIRA;372.941.131-49;20/07/2010;65000177678;R$ 800,00;Depósito em espécie;PAULO HENRIQUE ABREU DE OLIVEIRA;65478;Deputado Distrital;PC do B;DF;
-WLISSES BORGES DE RESENDE;224.913.251-87;15/09/2010;65000177680;R$ 1.290,00;Transferência eletrônica;PAULO HENRIQUE ABREU DE OLIVEIRA;65478;Deputado Distrital;PC do B;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRÁFIKA PAPEL & CORES LTDA  - ME;05.792.573/0001-19;03/09/2010;       Publicidade por placas, estandartes e faixas;R$ 1.290,00;Cheque; -  -  / 65478 - PAULO HENRIQUE ABREU DE OLIVEIRA - DF - Deputado Distrital;
+JAILSON PEREIRA BASTOS JÚNIOR;036.962.415-71;30/09/2010;       Despesas com pessoal;R$ 1.619,00;Cheque; -  -  / 65478 - PAULO HENRIQUE ABREU DE OLIVEIRA - DF - Deputado Distrital;
+JAILSON PEREIRA BASTOS JÚNIOR;036.962.415-71;01/10/2010;       Despesas com pessoal;R$ 1.781,00;Cheque; -  -  / 65478 - PAULO HENRIQUE ABREU DE OLIVEIRA - DF - Deputado Distrital;
+KARSERV COMBUSTIVEIS LUBRIFICANTES E SERVIÇOS LTDA;00.689.380/0001-13;01/10/2010;       Combustíveis e lubrificantes;R$ 50,00;Cheque; -  -  / 65478 - PAULO HENRIQUE ABREU DE OLIVEIRA - DF - Deputado Distrital;
+SPEED EDITORA GRÁFICA E BRINDES LTDA - ME;06.967.801/0001-07;29/07/2010;       Publicidade por placas, estandartes e faixas;R$ 750,00;Cheque; -  -  / 65478 - PAULO HENRIQUE ABREU DE OLIVEIRA - DF - Deputado Distrital;

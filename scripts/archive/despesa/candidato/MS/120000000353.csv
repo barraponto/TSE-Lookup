@@ -1,6 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.241.698/0001-16;01/09/2010;17000035812;R$ 99,00;Estimado;WALDIR SOARES CARDOSO;17777;Deputado Estadual;PSL;MS;
-Comitê Financeiro Único;12.191.578/0001-51;25/09/2010;17000035813;R$ 4.000,00;Cheque;WALDIR SOARES CARDOSO;17777;Deputado Estadual;PSL;MS;
-Comitê Financeiro Único;12.241.698/0001-16;01/09/2010;17000035815;R$ 162,00;Estimado;WALDIR SOARES CARDOSO;17777;Deputado Estadual;PSL;MS;
-Comitê Financeiro Único;12.241.698/0001-16;01/09/2010;17000035814;R$ 366,00;Estimado;WALDIR SOARES CARDOSO;17777;Deputado Estadual;PSL;MS;
-WALDIR SOARES CARDOSO;164.893.221-53;09/09/2010;17000035811;R$ 400,00;Depósito em espécie;WALDIR SOARES CARDOSO;17777;Deputado Estadual;PSL;MS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.241.698/0001-16;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 366,00;Estimado;Comitê Financeiro Único - PSL -  / 17777 - WALDIR SOARES CARDOSO - MS - Deputado Estadual;
+Comitê Financeiro Único;12.241.698/0001-16;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 162,00;Estimado;Comitê Financeiro Único - PSL -  / 17777 - WALDIR SOARES CARDOSO - MS - Deputado Estadual;
+Comitê Financeiro Único;12.241.698/0001-16;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 99,00;Estimado;Comitê Financeiro Único - PSL -  / 17777 - WALDIR SOARES CARDOSO - MS - Deputado Estadual;
+ROSARIO SOARES CARDOSO;028.527.131-87;30/09/2010;       Cessão ou Locação de Veículos;R$ 2.000,00;Cheque; -  -  / 17777 - WALDIR SOARES CARDOSO - MS - Deputado Estadual;
+ROSARIO SOARES CARDOSO;028.527.131-87;30/09/2010;       Cessão ou Locação de Veículos;R$ 2.000,00;Cheque; -  -  / 17777 - WALDIR SOARES CARDOSO - MS - Deputado Estadual;
+SERIGRAFIA LINCON LTDA ME;04.401.229/0001-99;10/09/2010;       Publicidade por materiais impressos;R$ 195,00;Cheque; -  -  / 17777 - WALDIR SOARES CARDOSO - MS - Deputado Estadual;
+WANDERLEY FERREIRA ROCHA;421.624.401-72;30/09/2010;       Despesas com pessoal;R$ 205,00;Cheque; -  -  / 17777 - WALDIR SOARES CARDOSO - MS - Deputado Estadual;

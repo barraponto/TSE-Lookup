@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.297/0001-00;30/09/2010;16000030553;R$ 720,00;Cheque;MANOEL DA SILVA FERNANDES;1616;Deputado Federal;PSTU;RS;
-Comitê Financeiro Único;12.205.297/0001-00;02/08/2010;16000030554;R$ 600,00;Estimado;MANOEL DA SILVA FERNANDES;1616;Deputado Federal;PSTU;RS;
-REGIS BATISTA ETHUR;541.823.280-00;27/08/2010;16000030551;R$ 660,00;Cheque;MANOEL DA SILVA FERNANDES;1616;Deputado Federal;PSTU;RS;
-REGIS BATISTA ETHUR;541.823.280-00;06/09/2010;16000030552;R$ 134,00;Cheque;MANOEL DA SILVA FERNANDES;1616;Deputado Federal;PSTU;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.297/0001-00;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado;Comitê Financeiro Único - PSTU -  / 1616 - MANOEL DA SILVA FERNANDES - RS - Deputado Federal;
+EXPANSÃO ARTES GRÁFICAS LTDA;91.541.326/0001-81;06/09/2010;       Publicidade por materiais impressos;R$ 134,00;Cheque; -  -  / 1616 - MANOEL DA SILVA FERNANDES - RS - Deputado Federal;
+GRÁFICA EDITORA VALE DO GRAVATAÍ LTDA;02.927.161/0001-50;30/09/2010;       Publicidade por jornais e revistas;R$ 720,00;Cheque; -  -  / 1616 - MANOEL DA SILVA FERNANDES - RS - Deputado Federal;
+IMPERIAL ARTES GRAFICAS LTDA;88.952.239/0001-02;27/08/2010;       Publicidade por materiais impressos;R$ 660,00;Cheque; -  -  / 1616 - MANOEL DA SILVA FERNANDES - RS - Deputado Federal;

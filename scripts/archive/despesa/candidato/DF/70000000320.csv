@@ -1,3 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;03.604.170/0001-73;29/09/2010;65000175007;R$ 168,70;Estimado;ANGELA ROSARIA BARBOSA ASSIS;65001;Deputado Distrital;PC do B;DF;
-MESSIAS DE SOUZA;12.171.862/0001-66;30/09/2010;65000175002;R$ 3.400,00;Cheque;ANGELA ROSARIA BARBOSA ASSIS;65001;Deputado Distrital;PC do B;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO ALVES DE ARAÚJO;038.687.321-60;18/10/2010;       Despesas com pessoal;R$ 480,00;Transferência eletrônica; -  -  / 65001 - ANGELA ROSARIA BARBOSA ASSIS - DF - Deputado Distrital;
+BIANCA PEREIRA DE SOUZA;956.488.951-00;18/10/2010;       Despesas com pessoal;R$ 480,00;Transferência eletrônica; -  -  / 65001 - ANGELA ROSARIA BARBOSA ASSIS - DF - Deputado Distrital;
+Diretório Estadual/Distrital;03.604.170/0001-73;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 168,70;Estimado;Direção Estadual/Distrital - PC do B -  / 65001 - ANGELA ROSARIA BARBOSA ASSIS - DF - Deputado Distrital;
+EMPRESA BRASILEIRA DE TELECOMUNICAÇÕES;76.535.764/0326-90;30/08/2010;       Telefone;R$ 151,04;Transferência eletrônica; -  -  / 65001 - ANGELA ROSARIA BARBOSA ASSIS - DF - Deputado Distrital;
+FRANCISCO VIRGINO DA SILVA;486.482.641-20;19/10/2010;       Despesas com pessoal;R$ 480,00;Transferência eletrônica; -  -  / 65001 - ANGELA ROSARIA BARBOSA ASSIS - DF - Deputado Distrital;
+GLOBAL VILAGE TELECOM LTDA;03.420.926/0011-04;02/09/2010;       Telefone;R$ 282,33;Transferência eletrônica; -  -  / 65001 - ANGELA ROSARIA BARBOSA ASSIS - DF - Deputado Distrital;
+GLOBAL VILAGE TELECOM LTDA;03.420.926/0011-04;02/08/2010;       Telefone;R$ 429,72;Transferência eletrônica; -  -  / 65001 - ANGELA ROSARIA BARBOSA ASSIS - DF - Deputado Distrital;
+MARIA ALVES GOMES DE CARVALHO;776.071.121-20;19/10/2010;       Despesas com pessoal;R$ 480,00;Transferência eletrônica; -  -  / 65001 - ANGELA ROSARIA BARBOSA ASSIS - DF - Deputado Distrital;
+MARIA ALVES GOMES DE CARVALHO;776.071.121-20;21/10/2010;       Combustíveis e lubrificantes;R$ 250,00;Transferência eletrônica; -  -  / 65001 - ANGELA ROSARIA BARBOSA ASSIS - DF - Deputado Distrital;
+NILTON DE PELEGRIN;210.526.030-68;16/10/2010;       Despesas com pessoal;R$ 364,25;Transferência eletrônica; -  -  / 65001 - ANGELA ROSARIA BARBOSA ASSIS - DF - Deputado Distrital;

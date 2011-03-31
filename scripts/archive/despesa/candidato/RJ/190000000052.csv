@@ -1,7 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALEXSANDRO RAIMUNDO;081.183.137-00;26/08/2010;11000007242;R$ 480,00;Depósito em espécie;AYLA CRISTINA DOS SANTOS GUEDES;11028;Deputado Estadual;PP;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;11000007245;R$ 150,00;Estimado;AYLA CRISTINA DOS SANTOS GUEDES;11028;Deputado Estadual;PP;RJ;
-Comitê Financeiro Único;12.200.097/0001-65;02/10/2010;11000007243;R$ 3.592,00;Estimado;AYLA CRISTINA DOS SANTOS GUEDES;11028;Deputado Estadual;PP;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;11000007244;R$ 150,00;Estimado;AYLA CRISTINA DOS SANTOS GUEDES;11028;Deputado Estadual;PP;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;11000007246;R$ 300,00;Estimado;AYLA CRISTINA DOS SANTOS GUEDES;11028;Deputado Estadual;PP;RJ;
-GRASIELLE AMARAL GOMES;073.958.377-89;13/08/2010;11000007241;R$ 1.000,00;Depósito em espécie;AYLA CRISTINA DOS SANTOS GUEDES;11028;Deputado Estadual;PP;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CASHFLOWS CONSULTORIA E EDITORA LTDA;07.578.936/0001-43;17/08/2010;       Publicidade por materiais impressos;R$ 128,00;Cheque; -  -  / 11028 - AYLA CRISTINA DOS SANTOS GUEDES - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.200.097/0001-65;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.592,00;Estimado;Comitê Financeiro Único - PP -  / 11028 - AYLA CRISTINA DOS SANTOS GUEDES - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 11028 - AYLA CRISTINA DOS SANTOS GUEDES - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 11028 - AYLA CRISTINA DOS SANTOS GUEDES - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 11028 - AYLA CRISTINA DOS SANTOS GUEDES - RJ - Deputado Estadual;
+FILMAREI STUDIO GRAFICO LTDA;00.306.971/0001-64;30/08/2010;       Publicidade por materiais impressos;R$ 588,00;Cheque; -  -  / 11028 - AYLA CRISTINA DOS SANTOS GUEDES - RJ - Deputado Estadual;
+FILMAREI STUDIO GRAFICO LTDA;00.306.971/0001-64;13/08/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 11028 - AYLA CRISTINA DOS SANTOS GUEDES - RJ - Deputado Estadual;
+TARCISIO CESAR GOMES - GRAFICA ME;05.825.009/0001-55;23/08/2010;       Publicidade por materiais impressos;R$ 450,00;Cheque; -  -  / 11028 - AYLA CRISTINA DOS SANTOS GUEDES - RJ - Deputado Estadual;

@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;28/09/2010;44000048341;R$ 630,00;Estimado;MARILENE PUCHTA;4417;Deputado Federal;PRP;PR;
-MARILENE PUCHTA;882.017.839-72;20/09/2010;44000048342;R$ 225,00;Depósito em espécie;MARILENE PUCHTA;4417;Deputado Federal;PRP;PR;
-MARILENE PUCHTA;882.017.839-72;23/09/2010;44000048343;R$ 180,00;Depósito em espécie;MARILENE PUCHTA;4417;Deputado Federal;PRP;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALBACH & ALBACH LTDA;06.195.555/0001-12;23/09/2010;       Publicidade por placas, estandartes e faixas;R$ 180,00;Cheque; -  -  / 4417 - MARILENE PUCHTA - PR - Deputado Federal;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 630,00;Estimado;45 -  - PSDB -  - Governador / 4417 - MARILENE PUCHTA - PR - Deputado Federal;
+CASA DAS FAIXAS ANDRADE LTDA;882.017.839-72;17/09/2010;       Publicidade por placas, estandartes e faixas;R$ 225,00;Transferência eletrônica; -  -  / 4417 - MARILENE PUCHTA - PR - Deputado Federal;

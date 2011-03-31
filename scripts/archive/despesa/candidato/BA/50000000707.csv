@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JL COMERCIAL DE MOVEIS E SERVICOS LTDA;05.615.626/0002-07;10/08/2010;19000006324;R$ 950,00;Estimado;JOSE RICARDO BUDOG DE OLIVEIRA;19333;Deputado Estadual;PTN;BA;
-JOSE RICARDO BUDOG DE OLIVEIRA;239.434.755-49;14/10/2010;19000006323;R$ 300,00;Depósito em espécie;JOSE RICARDO BUDOG DE OLIVEIRA;19333;Deputado Estadual;PTN;BA;
-JOSE RICARDO BUDOG DE OLIVEIRA;239.434.755-49;04/08/2010;19000006321;R$ 600,00;Depósito em espécie;JOSE RICARDO BUDOG DE OLIVEIRA;19333;Deputado Estadual;PTN;BA;
-JOSE RICARDO BUDOG DE OLIVEIRA;239.434.755-49;20/08/2010;19000006322;R$ 1.200,00;Depósito em espécie;JOSE RICARDO BUDOG DE OLIVEIRA;19333;Deputado Estadual;PTN;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BLM ALAGOINHAS E PRODUCOES DE SERVICOS;10.539.678/0001-09;06/08/2010;       Diversas a especificar;R$ 500,00;Cheque; -  -  / 19333 - JOSE RICARDO BUDOG DE OLIVEIRA - BA - Deputado Estadual;
+BLM ALAGOINHAS E PRODUCOES DE SERVICOS;10.539.678/0001-09;26/08/2010;       Diversas a especificar;R$ 1.200,00;Cheque; -  -  / 19333 - JOSE RICARDO BUDOG DE OLIVEIRA - BA - Deputado Estadual;
+JL COMERCIAL DE MOVEIS E SERVICOS LTDA;05.615.626/0002-07;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 950,00;Estimado; -  -  / 19333 - JOSE RICARDO BUDOG DE OLIVEIRA - BA - Deputado Estadual;
+POSTO ESTRELA;74.008.566/0001-04;16/10/2010;       Combustíveis e lubrificantes;R$ 312,00;Cheque; -  -  / 19333 - JOSE RICARDO BUDOG DE OLIVEIRA - BA - Deputado Estadual;
+RUBEM MOREIRA DA SILVA;612.111.095-34;30/09/2010;       Diversas a especificar;R$ 88,00;Cheque; -  -  / 19333 - JOSE RICARDO BUDOG DE OLIVEIRA - BA - Deputado Estadual;

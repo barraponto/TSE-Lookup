@@ -1,6 +1,8 @@
-Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
-Comitê Financeiro Único - PP;12.217.619/0001-31;16/08/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 100.000,00;Depósito em espécie;Comitê Financeiro Distrital/Estadual para Governador - PPS - RO / Comitê Financeiro Único - PP - RO;
-Comitê Financeiro Único - PP;12.217.619/0001-31;17/08/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 40.000,00;Depósito em espécie;Comitê Financeiro Distrital/Estadual para Governador - PPS - RO / Comitê Financeiro Único - PP - RO;
-Comitê Financeiro Único - PP;12.217.619/0001-31;09/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 40.000,00;Cheque;Comitê Financeiro Distrital/Estadual para Governador - PPS - RO / Comitê Financeiro Único - PP - RO;
-Comitê Financeiro Único - PP;12.217.619/0001-31;26/10/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 80.999,65;Cheque;Comitê Financeiro Distrital/Estadual para Governador - PPS - RO / Comitê Financeiro Único - PP - RO;
-;;01/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / Comitê Financeiro Único - PP - RO;
+Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
+Diretório Estadual/Distrital;02.104.754/0001-17;21/07/2010;11000101201;R$ 100.000,00;Cheque;Comitê Financeiro Único;PP;RO;
+Diretório Estadual/Distrital;02.104.754/0001-17;31/08/2010;11000101204;R$ 30.000,00;Transferência eletrônica;Comitê Financeiro Único;PP;RO;
+Diretório Estadual/Distrital;02.104.754/0001-17;31/08/2010;11000101203;R$ 10.000,00;Transferência eletrônica;Comitê Financeiro Único;PP;RO;
+Diretório Nacional;00.887.169/0001-05;04/08/2010;11000101202;R$ 40.000,00;Cheque;Comitê Financeiro Único;PP;RO;
+Diretório Nacional;00.887.169/0001-05;02/09/2010;11000101205;R$ 40.000,00;Depósito em espécie;Comitê Financeiro Único;PP;RO;
+QUANTICA SERVICOS DE CONSULTORIA E REPRESENTACOES LTDA.;07.548.496/0001-81;02/09/2010;11000101221;R$ 21.000,00;Transferência eletrônica;Comitê Financeiro Único;PP;RO;
+QUANTICA SERVICOS DE CONSULTORIA E REPRESENTACOES LTDA.;07.548.496/0001-81;22/09/2010;11000101222;R$ 20.000,00;Transferência eletrônica;Comitê Financeiro Único;PP;RO;

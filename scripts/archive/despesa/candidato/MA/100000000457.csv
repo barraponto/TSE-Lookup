@@ -1,2 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-COSME SANTOS DA SILVA;137.161.663-91;25/09/2010;;R$ 734,40;Outros títulos de crédito;COSME SANTOS DA SILVA;33334;Deputado Estadual;PMN;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ATALIBIO DE PAULA MARTINS;048.825.903-79;04/10/2010;       Serviços prestados por terceiros;R$ 300,00;Não informado; -  -  / 33334 - COSME SANTOS DA SILVA - MA - Deputado Estadual;
+AUTO POSTO PROGRESSO;02.308.554/0001-86;03/10/2010;       Combustíveis e lubrificantes;R$ 34,40;Não informado; -  -  / 33334 - COSME SANTOS DA SILVA - MA - Deputado Estadual;
+FRANCINETE LEAO FERRAZ;853.413.633-53;01/10/2010;       Publicidade por carros de som;R$ 400,00;Não informado; -  -  / 33334 - COSME SANTOS DA SILVA - MA - Deputado Estadual;

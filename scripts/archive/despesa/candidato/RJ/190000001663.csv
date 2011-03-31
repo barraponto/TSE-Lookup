@@ -1,7 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Nacional;01.585.552/0001-71;25/08/2010;21000009903;R$ 177,84;Estimado;GRACIETE SANTANA NOGUEIRA NUNES;21123;Deputado Estadual;PCB;RJ;
-Diretório Nacional;01.585.552/0001-71;20/08/2010;21000009901;R$ 959,04;Estimado;GRACIETE SANTANA NOGUEIRA NUNES;21123;Deputado Estadual;PCB;RJ;
-GRACIETESANTANA NOGUEIRA NUNES;561.154.317-00;26/09/2010;21000009905;R$ 132,50;Depósito em espécie;GRACIETE SANTANA NOGUEIRA NUNES;21123;Deputado Estadual;PCB;RJ;
-GRACIETESANTANA NOGUEIRA NUNES;561.154.317-00;29/09/2010;21000009906;R$ 222,50;Depósito em espécie;GRACIETE SANTANA NOGUEIRA NUNES;21123;Deputado Estadual;PCB;RJ;
-IVAN PINHEIRO;12.198.076/0001-52;23/08/2010;21000009902;R$ 959,04;Estimado;GRACIETE SANTANA NOGUEIRA NUNES;21123;Deputado Estadual;PCB;RJ;
-PEDRO XAVIER NUNES;161.993.327-68;16/08/2010;21000009904;R$ 1.000,00;Cheque;GRACIETE SANTANA NOGUEIRA NUNES;21123;Deputado Estadual;PCB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALVO DESIGN SUPRAMAX COMÉRCIO DE HIGIÊNICOS E SERVIÇOS LTDA;11.066.086/0001-71;29/09/2010;       Publicidade por placas, estandartes e faixas;R$ 119,00;Transferência eletrônica; -  -  / 21123 - GRACIETE SANTANA NOGUEIRA NUNES - RJ - Deputado Estadual;
+ALVO DESIGN SUPRAMAX COMÉRCIO DE HIGIÊNICOS E SERVIÇOS LTDA;11.066.086/0001-71;29/09/2010;       Publicidade por materiais impressos;R$ 209,00;Transferência eletrônica; -  -  / 21123 - GRACIETE SANTANA NOGUEIRA NUNES - RJ - Deputado Estadual;
+ALVO DESIGN SUPRAMAX COMÉRCIO DE HIGIÊNICOS E SERVIÇOS LTDA;11.066.086/0001-71;23/08/2010;       Publicidade por materiais impressos;R$ 1.000,00;Transferência eletrônica; -  -  / 21123 - GRACIETE SANTANA NOGUEIRA NUNES - RJ - Deputado Estadual;
+Diretório Nacional;01.585.552/0001-71;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 177,84;Estimado;Direção Nacional - PCB -  / 21123 - GRACIETE SANTANA NOGUEIRA NUNES - RJ - Deputado Estadual;
+Diretório Nacional;01.585.552/0001-71;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 959,04;Estimado;Direção Nacional - PCB -  / 21123 - GRACIETE SANTANA NOGUEIRA NUNES - RJ - Deputado Estadual;
+IVAN PINHEIRO;12.198.076/0001-52;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 959,04;Estimado;21 -  - PCB -  - Presidente / 21123 - GRACIETE SANTANA NOGUEIRA NUNES - RJ - Deputado Estadual;
+;;26/10/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Transferência eletrônica; -  -  / 21123 - GRACIETE SANTANA NOGUEIRA NUNES - RJ - Deputado Estadual;
+;;01/11/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Transferência eletrônica; -  -  / 21123 - GRACIETE SANTANA NOGUEIRA NUNES - RJ - Deputado Estadual;

@@ -1,5 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DENISE RIBEIRO DE FARIAS BRITO;182.755.910-15;12/08/2010;12001522312;R$ 430,00;Depósito em espécie;EPITACIO FARIAS DE BRITTO JUNIOR;12120;Deputado Distrital;PDT;DF;
-EPITACIO FARIAS DE BRITTO JUNIOR;470.786.263-20;15/09/2010;12001522314;R$ 450,00;Depósito em espécie;EPITACIO FARIAS DE BRITTO JUNIOR;12120;Deputado Distrital;PDT;DF;
-EPITACIO FARIAS DE BRITTO JUNIOR;470.786.263-20;21/07/2010;12001522311;R$ 680,00;Depósito em espécie;EPITACIO FARIAS DE BRITTO JUNIOR;12120;Deputado Distrital;PDT;DF;
-NIELSEN NUNES DE CARVALHO;786.126.241-34;12/09/2010;12001522313;R$ 600,00;Estimado;EPITACIO FARIAS DE BRITTO JUNIOR;12120;Deputado Distrital;PDT;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CAPITAL GRÁFICA E FOTOLITO;10.813.208/0001-83;16/09/2010;       Publicidade por materiais impressos;R$ 450,00;Cheque; -  -  / 12120 - EPITACIO FARIAS DE BRITTO JUNIOR - DF - Deputado Distrital;
+CAPITAL GRÁFICA E FOTOLITO;10.813.208/0001-83;22/07/2010;       Publicidade por materiais impressos;R$ 650,00;Cheque; -  -  / 12120 - EPITACIO FARIAS DE BRITTO JUNIOR - DF - Deputado Distrital;
+NIELSEN NUNES DE CARVALHO;786.126.241-34;12/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado; -  -  / 12120 - EPITACIO FARIAS DE BRITTO JUNIOR - DF - Deputado Distrital;
+RENARTS CONFECÇOES - RENATO JOSÉ VIDAL DE FIGUEIREDO;07.199.430/0001-23;06/09/2010;       Publicidade por materiais impressos;R$ 440,00;Cheque; -  -  / 12120 - EPITACIO FARIAS DE BRITTO JUNIOR - DF - Deputado Distrital;
+;;06/10/2010;       Encargos financeiros e taxas bancárias;R$ 4,50;Débito em conta; -  -  / 12120 - EPITACIO FARIAS DE BRITTO JUNIOR - DF - Deputado Distrital;
+;;06/09/2010;       Encargos financeiros e taxas bancárias;R$ 4,50;Débito em conta; -  -  / 12120 - EPITACIO FARIAS DE BRITTO JUNIOR - DF - Deputado Distrital;

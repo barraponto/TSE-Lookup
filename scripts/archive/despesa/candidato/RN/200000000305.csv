@@ -1,7 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANA SANTANA DOS SANTOS PEREIRA;060.678.434-98;07/10/2010;16000035606;R$ 400,00;Estimado;ROSÁLIA MARIA FERNANDES;16166;Deputado Estadual;PSTU;RN;
-Comitê Financeiro Único;12.235.322/0001-07;24/09/2010;16000035603;R$ 400,00;Depósito em espécie;ROSÁLIA MARIA FERNANDES;16166;Deputado Estadual;PSTU;RN;
-Comitê Financeiro Único;12.235.322/0001-07;10/10/2010;16000035608;R$ 600,00;Estimado;ROSÁLIA MARIA FERNANDES;16166;Deputado Estadual;PSTU;RN;
-Comitê Financeiro Único;12.235.322/0001-07;22/10/2010;16000035609;R$ 200,00;Estimado;ROSÁLIA MARIA FERNANDES;16166;Deputado Estadual;PSTU;RN;
-LUCIANA LIMA DA SILVA;12.199.743/0001-11;24/09/2010;16000035604;R$ 45,00;Estimado;ROSÁLIA MARIA FERNANDES;16166;Deputado Estadual;PSTU;RN;
-VERONICA SIMONE DUTRA VERAS;12.178.468/0001-50;07/10/2010;16000035607;R$ 50,00;Estimado;ROSÁLIA MARIA FERNANDES;16166;Deputado Estadual;PSTU;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANA SANTANA DOS SANTOS PEREIRA;060.678.434-98;07/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado; -  -  / 16166 - ROSÁLIA MARIA FERNANDES - RN - Deputado Estadual;
+Comitê Financeiro Único;12.235.322/0001-07;22/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;Comitê Financeiro Único - PSTU -  / 16166 - ROSÁLIA MARIA FERNANDES - RN - Deputado Estadual;
+Comitê Financeiro Único;12.235.322/0001-07;10/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado;Comitê Financeiro Único - PSTU -  / 16166 - ROSÁLIA MARIA FERNANDES - RN - Deputado Estadual;
+GRAFICA SUL E EDITORA;06.948.614/0001-86;18/10/2010;       Publicidade por materiais impressos;R$ 230,00;Cheque; -  -  / 16166 - ROSÁLIA MARIA FERNANDES - RN - Deputado Estadual;
+GRAFIPEL SERVIÇOS GRAFICOS E REPROGRAFICOS LTDA;03.239.088/0001-97;23/09/2010;       Publicidade por materiais impressos;R$ 150,00;Cheque; -  -  / 16166 - ROSÁLIA MARIA FERNANDES - RN - Deputado Estadual;
+LUCIANA LIMA DA SILVA;12.199.743/0001-11;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 45,00;Estimado;16123 -  - PSTU -  - Deputado Estadual / 16166 - ROSÁLIA MARIA FERNANDES - RN - Deputado Estadual;
+VERONICA SIMONE DUTRA VERAS;12.178.468/0001-50;07/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 50,00;Estimado;16 -  - PSTU -  - Governador / 16166 - ROSÁLIA MARIA FERNANDES - RN - Deputado Estadual;

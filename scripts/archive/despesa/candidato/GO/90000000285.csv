@@ -1,2 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-SILVEIRA ALVES DE MOURA;351.541.601-34;27/10/2010;;R$ 792,00;Depósito em espécie;SILVEIRA ALVES DE MOURA;44567;Deputado Estadual;PRP;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARISTIDES FERREIRA DE MORAIS;186.484.871-53;30/09/2010;       Serviços prestados por terceiros;R$ 700,00;Cheque; -  -  / 44567 - SILVEIRA ALVES DE MOURA - GO - Deputado Estadual;
+ARISTIDES FERREIRA DE MORAIS;186.484.871-53;30/09/2010;       Serviços prestados por terceiros;R$ 1.100,00;Cheque; -  -  / 44567 - SILVEIRA ALVES DE MOURA - GO - Deputado Estadual;
+GRAFICA E PAPELARIA DIAS LTDA - ME;11.987.128/0001-07;22/09/2010;       Publicidade por materiais impressos;R$ 2.100,00;Cheque; -  -  / 44567 - SILVEIRA ALVES DE MOURA - GO - Deputado Estadual;
+PINTA CORES LTDA;08.254.752/0001-90;23/09/2010;       Publicidade por materiais impressos;R$ 792,00;Cheque; -  -  / 44567 - SILVEIRA ALVES DE MOURA - GO - Deputado Estadual;
+PINTA CORES LTDA;08.254.752/0001-90;05/11/2010;       Diversas a especificar;R$ 789,20;Cheque; -  -  / 44567 - SILVEIRA ALVES DE MOURA - GO - Deputado Estadual;

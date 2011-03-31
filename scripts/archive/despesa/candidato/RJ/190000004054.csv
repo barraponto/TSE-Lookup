@@ -1,7 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DIEGO PINTO BRANDAO;131.871.217-30;25/09/2010;22000163536;R$ 300,00;Estimado;VIRGINIA DA CONCEICAO PINTO BRANDAO;22144;Deputado Estadual;PR;RJ;
-Diretório Estadual/Distrital;12.217.557/0001-68;30/09/2010;22000163533;R$ 2.272,72;Estimado;VIRGINIA DA CONCEICAO PINTO BRANDAO;22144;Deputado Estadual;PR;RJ;
-FLÁVIA CARDOSO MOREIRA;089.934.857-20;25/09/2010;22000163535;R$ 300,00;Estimado;VIRGINIA DA CONCEICAO PINTO BRANDAO;22144;Deputado Estadual;PR;RJ;
-SÔNIA MARIA FERREIRA COSTA;464.709.057-49;25/09/2010;22000163534;R$ 300,00;Estimado;VIRGINIA DA CONCEICAO PINTO BRANDAO;22144;Deputado Estadual;PR;RJ;
-SÔNIA MARIA FERREIRA COSTA;464.709.057-49;16/09/2010;22000163532;R$ 500,00;Depósito em espécie;VIRGINIA DA CONCEICAO PINTO BRANDAO;22144;Deputado Estadual;PR;RJ;
-VIRGINIA DA CONCEIÇAO PINTO BRANDAO;529.284.547-72;08/09/2010;22000163531;R$ 900,00;Depósito em espécie;VIRGINIA DA CONCEICAO PINTO BRANDAO;22144;Deputado Estadual;PR;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BEMIL ARTES GRÁFICAS LTDA.ME;73.752.214/0001-98;16/09/2010;       Publicidade por materiais impressos;R$ 245,00;Cheque; -  -  / 22144 - VIRGINIA DA CONCEICAO PINTO BRANDAO - RJ - Deputado Estadual;
+BEMIL ARTES GRÁFICAS LTDA.ME;73.752.214/0001-98;08/09/2010;       Publicidade por materiais impressos;R$ 605,00;Cheque; -  -  / 22144 - VIRGINIA DA CONCEICAO PINTO BRANDAO - RJ - Deputado Estadual;
+BEMIL ARTES GRÁFICAS LTDA.ME;73.752.214/0001-98;27/09/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 22144 - VIRGINIA DA CONCEICAO PINTO BRANDAO - RJ - Deputado Estadual;
+DIEGO PINTO BRANDAO;131.871.217-30;25/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 22144 - VIRGINIA DA CONCEICAO PINTO BRANDAO - RJ - Deputado Estadual;
+Diretório Estadual/Distrital;12.217.557/0001-68;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.272,72;Estimado;Direção Estadual/Distrital - PR -  / 22144 - VIRGINIA DA CONCEICAO PINTO BRANDAO - RJ - Deputado Estadual;
+ECT - EMP. BRAS. DE CORREIOS E TELÉGRAFOS;34.028.316/0710-43;28/09/2010;       Despesas postais;R$ 18,40;Cheque; -  -  / 22144 - VIRGINIA DA CONCEICAO PINTO BRANDAO - RJ - Deputado Estadual;
+ECT - EMP. BRAS. DE CORREIOS E TELÉGRAFOS;34.028.316/0710-43;17/09/2010;       Despesas postais;R$ 132,50;Cheque; -  -  / 22144 - VIRGINIA DA CONCEICAO PINTO BRANDAO - RJ - Deputado Estadual;
+FLÁVIA CARDOSO MOREIRA;089.934.857-20;25/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 22144 - VIRGINIA DA CONCEICAO PINTO BRANDAO - RJ - Deputado Estadual;
+KALUNGA COM. E IND. GRAFICA LTDA;43.283.811/0044-90;16/09/2010;       Materiais de expediente;R$ 29,60;Cheque; -  -  / 22144 - VIRGINIA DA CONCEICAO PINTO BRANDAO - RJ - Deputado Estadual;
+SÔNIA MARIA FERREIRA COSTA;464.709.057-49;25/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 22144 - VIRGINIA DA CONCEICAO PINTO BRANDAO - RJ - Deputado Estadual;

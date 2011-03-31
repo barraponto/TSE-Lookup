@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;18/08/2010;40002064114;R$ 630,00;Estimado;ELISETE MENIN ARNOLD;4039;Deputado Federal;PSB;PR;
-RICARDO JOSÉ MAGALHÃES BARROS;12.190.665/0001-94;29/09/2010;40002064115;R$ 450,00;Estimado;ELISETE MENIN ARNOLD;4039;Deputado Federal;PSB;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 630,00;Estimado;45 -  - PSDB -  - Governador / 4039 - ELISETE MENIN ARNOLD - PR - Deputado Federal;
+RICARDO JOSÉ MAGALHÃES BARROS;12.190.665/0001-94;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 450,00;Estimado;111 -  - PP -  - Senador / 4039 - ELISETE MENIN ARNOLD - PR - Deputado Federal;

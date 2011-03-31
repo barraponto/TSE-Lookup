@@ -1,4 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.189.609/0001-30;01/10/2010;15000133152;R$ 600,00;Estimado;ELIAS ROSA DE LISBOA;15183;Deputado Estadual;PMDB;MG;
-Diretório Estadual/Distrital;12.189.609/0001-30;23/09/2010;15000133154;R$ 180,00;Estimado;ELIAS ROSA DE LISBOA;15183;Deputado Estadual;PMDB;MG;
-ELIAS ROSA DE LISBOA;068.919.186-34;09/08/2010;15000133151;R$ 1.700,00;Depósito em espécie;ELIAS ROSA DE LISBOA;15183;Deputado Estadual;PMDB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DAVI VASCONCELOS MONTEIRO;676.225.267-20;01/10/2010;       Publicidade por carros de som;R$ 650,00;Cheque; -  -  / 15183 - ELIAS ROSA DE LISBOA - MG - Deputado Estadual;
+Diretório Estadual/Distrital;12.189.609/0001-30;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 180,00;Estimado;Direção Estadual/Distrital - PMDB -  / 15183 - ELIAS ROSA DE LISBOA - MG - Deputado Estadual;
+Diretório Estadual/Distrital;12.189.609/0001-30;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado;Direção Estadual/Distrital - PMDB -  / 15183 - ELIAS ROSA DE LISBOA - MG - Deputado Estadual;
+GOL PUBLICIDADE LTDA;64.351.752/0001-80;29/09/2010;       Publicidade por materiais impressos;R$ 165,00;Cheque; -  -  / 15183 - ELIAS ROSA DE LISBOA - MG - Deputado Estadual;
+GOL PUBLICIDADE LTDA;64.351.752/0001-80;29/09/2010;       Publicidade por materiais impressos;R$ 180,00;Cheque; -  -  / 15183 - ELIAS ROSA DE LISBOA - MG - Deputado Estadual;
+MAURO FONSECA DA SILVA JUNIOR;091.719.206-09;01/10/2010;       Diversas a especificar;R$ 150,00;Cheque; -  -  / 15183 - ELIAS ROSA DE LISBOA - MG - Deputado Estadual;
+MG SERVIÇOS GRAFICOS LTDA ME;01.021.751/0001-57;06/09/2010;       Publicidade por materiais impressos;R$ 420,00;Cheque; -  -  / 15183 - ELIAS ROSA DE LISBOA - MG - Deputado Estadual;
+VERA LUCIA PEREIRA DOS REIS;607.949.336-53;23/09/2010;       Publicidade por materiais impressos;R$ 100,00;Cheque; -  -  / 15183 - ELIAS ROSA DE LISBOA - MG - Deputado Estadual;

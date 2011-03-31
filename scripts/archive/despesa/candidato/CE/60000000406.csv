@@ -1,3 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FRANCISCO MAGALHÃES FERREIRA;944.051.403-59;11/08/2010;50000101341;R$ 200,00;Depósito em espécie;FRANCISCO MAGALHÃES FERREIRA;50888;Deputado Estadual;PSOL;CE;
-JOÃO GALENO LIMA;317.813.223-68;04/09/2010;50000101342;R$ 200,00;Estimado;FRANCISCO MAGALHÃES FERREIRA;50888;Deputado Estadual;PSOL;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+B.F DOS SANTOS FILH - ME;08.140.249/0001-04;01/09/2010;       Diversas a especificar;R$ 120,00;Cheque; -  -  / 50888 - FRANCISCO MAGALHÃES FERREIRA - CE - Deputado Estadual;
+JOÃO GALENO LIMA;317.813.223-68;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado; -  -  / 50888 - FRANCISCO MAGALHÃES FERREIRA - CE - Deputado Estadual;
+POSTO ROCHA (RAIMUNDO IVAN ROCHA & CIA LTDA);07.282.031/0001-21;24/09/2010;       Combustíveis e lubrificantes;R$ 30,00;Cheque; -  -  / 50888 - FRANCISCO MAGALHÃES FERREIRA - CE - Deputado Estadual;
+POSTO ROCHA (RAIMUNDO IVAN ROCHA & CIA LTDA);07.282.031/0001-21;09/09/2010;       Combustíveis e lubrificantes;R$ 50,00;Cheque; -  -  / 50888 - FRANCISCO MAGALHÃES FERREIRA - CE - Deputado Estadual;

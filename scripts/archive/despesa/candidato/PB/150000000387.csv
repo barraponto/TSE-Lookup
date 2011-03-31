@@ -1,9 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.221.889/0001-16;30/08/2010;13000776206;R$ 160,00;Estimado;RICARDO CARDOSO AGRA DE CASTRO;1333;Deputado Federal;PT;PB;
-GUTHEMBERG CARDOSO A. DE CASTRO;034.041.904-08;28/07/2010;13000776201;R$ 300,00;Depósito em espécie;RICARDO CARDOSO AGRA DE CASTRO;1333;Deputado Federal;PT;PB;
-GUTHEMBERG CARDOSO A. DE CASTRO;034.041.904-08;26/08/2010;13000776204;R$ 480,00;Depósito em espécie;RICARDO CARDOSO AGRA DE CASTRO;1333;Deputado Federal;PT;PB;
-HELMAX JOSE CRIZANTO PAIVA GONCALVES;022.761.014-82;01/09/2010;13000776208;R$ 150,00;Depósito em espécie;RICARDO CARDOSO AGRA DE CASTRO;1333;Deputado Federal;PT;PB;
-JOSÉ TARGINO MARANHÃO;12.189.345/0001-14;23/09/2010;13000776207;R$ 523,56;Estimado;RICARDO CARDOSO AGRA DE CASTRO;1333;Deputado Federal;PT;PB;
-MARIA AGRA CARDOSO;554.522.134-49;15/09/2010;13000776205;R$ 1.000,00;Depósito em espécie;RICARDO CARDOSO AGRA DE CASTRO;1333;Deputado Federal;PT;PB;
-MARIA AGRA CARDOSO;554.522.134-49;11/08/2010;13000776203;R$ 800,00;Depósito em espécie;RICARDO CARDOSO AGRA DE CASTRO;1333;Deputado Federal;PT;PB;
-PEDRO PAULO MONTENEGRO;009.476.474-30;11/08/2010;13000776202;R$ 100,00;Depósito em espécie;RICARDO CARDOSO AGRA DE CASTRO;1333;Deputado Federal;PT;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+A S DE CASTRO E CIA LTDA;10.851.582/0004-16;05/09/2010;       Combustíveis e lubrificantes;R$ 50,00;Não informado; -  -  / 1333 - RICARDO CARDOSO AGRA DE CASTRO - PB - Deputado Federal;
+ADRIANO JOSÉ DE SOUZA;10.325.332/0001-08;30/07/2010;       Publicidade por materiais impressos;R$ 300,00;Não informado; -  -  / 1333 - RICARDO CARDOSO AGRA DE CASTRO - PB - Deputado Federal;
+Comitê Financeiro Único;12.221.889/0001-16;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 160,00;Estimado;Comitê Financeiro Único - PT -  / 1333 - RICARDO CARDOSO AGRA DE CASTRO - PB - Deputado Federal;
+GRAFIPEL EDITORA GRAFICA LTDA;40.953.788/0001-75;17/09/2010;       Publicidade por materiais impressos;R$ 1.100,00;Não informado; -  -  / 1333 - RICARDO CARDOSO AGRA DE CASTRO - PB - Deputado Federal;
+GRAFIPEL EDITORA GRAFICA LTDA;40.953.788/0001-75;17/08/2010;       Publicidade por materiais impressos;R$ 1.380,00;Não informado; -  -  / 1333 - RICARDO CARDOSO AGRA DE CASTRO - PB - Deputado Federal;
+JOSÉ TARGINO MARANHÃO;12.189.345/0001-14;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 523,56;Estimado;15 -  - PMDB -  - Governador / 1333 - RICARDO CARDOSO AGRA DE CASTRO - PB - Deputado Federal;

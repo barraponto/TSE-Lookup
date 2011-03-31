@@ -1,7 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 LILIAM SÁ DE PAULA DEPUTADO FEDERAL;12.204.928/0001-77;30/09/2010;22000163133;R$ 7.000,00;Cheque;LUIZ ANDRE FERREIRA DA SILVA;22770;Deputado Estadual;PR;RJ;
-ELEIÇÃO 2010 LILIAM SÁ DE PAULA DEPUTADO FEDERAL;12.204.928/0001-77;30/09/2010;22000163134;R$ 8.000,00;Cheque;LUIZ ANDRE FERREIRA DA SILVA;22770;Deputado Estadual;PR;RJ;
-LILIAM SÁ DE PAULA;12.204.928/0001-77;23/07/2010;22000163131;R$ 9.502,35;Estimado;LUIZ ANDRE FERREIRA DA SILVA;22770;Deputado Estadual;PR;RJ;
-REGINALDO DA SILVA FREITAS;714.819.827-53;22/09/2010;22000163135;R$ 2.990,00;Depósito em espécie;LUIZ ANDRE FERREIRA DA SILVA;22770;Deputado Estadual;PR;RJ;
-VERONICA FERREIRA DE CARVALHO;086.300.987-59;23/08/2010;22000163136;R$ 6.624,00;Depósito em espécie;LUIZ ANDRE FERREIRA DA SILVA;22770;Deputado Estadual;PR;RJ;
-VERONICA FERREIRA DE CARVALHO;086.300.987-59;01/09/2010;22000163137;R$ 1.430,00;Depósito em espécie;LUIZ ANDRE FERREIRA DA SILVA;22770;Deputado Estadual;PR;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+INFO EVOLUTION COMERCIO,SERVIÇOS E REPRES. DE TELEFONIA LTDA;08.855.260/0001-50;22/09/2010;       Criação e inclusão de páginas na internet;R$ 980,00;Cheque; -  -  / 22770 - LUIZ ANDRE FERREIRA DA SILVA - RJ - Deputado Estadual;
+KASHIMIR STUDIO GRÁFICO LTDA;07.002.644/0001-68;24/09/2010;       Publicidade por materiais impressos;R$ 2.000,00;Cheque; -  -  / 22770 - LUIZ ANDRE FERREIRA DA SILVA - RJ - Deputado Estadual;
+KASHIMIR STUDIO GRÁFICO LTDA;07.002.644/0001-68;31/08/2010;       Publicidade por materiais impressos;R$ 1.426,00;Cheque; -  -  / 22770 - LUIZ ANDRE FERREIRA DA SILVA - RJ - Deputado Estadual;
+KASHIMIR STUDIO GRÁFICO LTDA;07.002.644/0001-68;01/10/2010;       Publicidade por materiais impressos;R$ 9.200,00;Cheque; -  -  / 22770 - LUIZ ANDRE FERREIRA DA SILVA - RJ - Deputado Estadual;
+LILIAM SÁ DE PAULA;12.204.928/0001-77;23/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 9.502,35;Estimado;2222 -  - PR -  - Deputado Federal / 22770 - LUIZ ANDRE FERREIRA DA SILVA - RJ - Deputado Estadual;
+MADEZATTERA COMERCIO DE MADEIRAS LTDA;03.650.019/0001-71;23/08/2010;       Diversas a especificar;R$ 2.057,50;Cheque; -  -  / 22770 - LUIZ ANDRE FERREIRA DA SILVA - RJ - Deputado Estadual;
+POSTO DE GASOLINA MATO ALTO LTDA;33.256.272/0001-06;23/08/2010;       Combustíveis e lubrificantes;R$ 2.199,57;Cheque; -  -  / 22770 - LUIZ ANDRE FERREIRA DA SILVA - RJ - Deputado Estadual;
+POSTO DE GASOLINA MATO ALTO LTDA;33.256.272/0001-06;01/10/2010;       Combustíveis e lubrificantes;R$ 5.732,48;Cheque; -  -  / 22770 - LUIZ ANDRE FERREIRA DA SILVA - RJ - Deputado Estadual;
+POSTO DE GASOLINA MATO ALTO LTDA;33.256.272/0001-06;23/08/2010;       Combustíveis e lubrificantes;R$ 2.266,36;Cheque; -  -  / 22770 - LUIZ ANDRE FERREIRA DA SILVA - RJ - Deputado Estadual;

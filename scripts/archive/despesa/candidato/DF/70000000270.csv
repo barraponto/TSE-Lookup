@@ -1,7 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-SIMONE ETERNA COELHO;611.486.951-68;10/08/2010;36000062522;R$ 800,00;Estimado;VANIA APARECIDA COELHO;36456;Deputado Distrital;PTC;DF;
-SIMONE ETERNA COELHO;611.486.951-68;03/10/2010;36000062526;R$ 800,00;Estimado;VANIA APARECIDA COELHO;36456;Deputado Distrital;PTC;DF;
-SIMONE ETERNA COELHO;611.486.951-68;03/09/2010;36000062525;R$ 800,00;Estimado;VANIA APARECIDA COELHO;36456;Deputado Distrital;PTC;DF;
-VANIA APARECIDA COELHO;913.996.106-00;10/08/2010;36000062521;R$ 2.000,00;Estimado;VANIA APARECIDA COELHO;36456;Deputado Distrital;PTC;DF;
-VANIA APARECIDA COELHO;913.996.106-00;03/09/2010;36000062524;R$ 400,00;Transferência eletrônica;VANIA APARECIDA COELHO;36456;Deputado Distrital;PTC;DF;
-VANIA APARECIDA COELHO;913.996.106-00;03/09/2010;36000062523;R$ 600,00;Transferência eletrônica;VANIA APARECIDA COELHO;36456;Deputado Distrital;PTC;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO BR 060 LTDA;07.736.181/0001-68;11/09/2010;       Combustíveis e lubrificantes;R$ 50,00;Não informado; -  -  / 36456 - VANIA APARECIDA COELHO - DF - Deputado Distrital;
+GASOL COMBUSTIVEIS AUTOMOTIVOS LTDA;00.603.738/0004-96;27/09/2010;       Combustíveis e lubrificantes;R$ 60,00;Não informado; -  -  / 36456 - VANIA APARECIDA COELHO - DF - Deputado Distrital;
+MARTONIA LOPES DA SILVA;561.514.381-91;10/09/2010;       Despesas com pessoal;R$ 440,00;Não informado; -  -  / 36456 - VANIA APARECIDA COELHO - DF - Deputado Distrital;
+MARTONIA LOPES DA SILVA;561.514.381-91;02/10/2010;       Despesas com pessoal;R$ 440,00;Não informado; -  -  / 36456 - VANIA APARECIDA COELHO - DF - Deputado Distrital;
+PANIFICADORA E CONFEITARIA RECANTO DAS EMAS LTDA ME;05.777.786/0001-71;27/09/2010;       Alimentação;R$ 10,00;Não informado; -  -  / 36456 - VANIA APARECIDA COELHO - DF - Deputado Distrital;
+SIMONE ETERNA COELHO;611.486.951-68;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 800,00;Estimado; -  -  / 36456 - VANIA APARECIDA COELHO - DF - Deputado Distrital;
+SIMONE ETERNA COELHO;611.486.951-68;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 800,00;Estimado; -  -  / 36456 - VANIA APARECIDA COELHO - DF - Deputado Distrital;
+SIMONE ETERNA COELHO;611.486.951-68;03/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 800,00;Estimado; -  -  / 36456 - VANIA APARECIDA COELHO - DF - Deputado Distrital;
+VANIA APARECIDA COELHO;913.996.106-00;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado; -  -  / 36456 - VANIA APARECIDA COELHO - DF - Deputado Distrital;

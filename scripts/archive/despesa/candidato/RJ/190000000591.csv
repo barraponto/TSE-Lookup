@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.171/0001-43;30/09/2010;13000867201;R$ 750,00;Estimado;MARIA DAS GRAÇAS FARIAS RAUDA;13949;Deputado Estadual;PT;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;27/09/2010;13000867205;R$ 150,00;Estimado;MARIA DAS GRAÇAS FARIAS RAUDA;13949;Deputado Estadual;PT;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;13000867206;R$ 300,00;Estimado;MARIA DAS GRAÇAS FARIAS RAUDA;13949;Deputado Estadual;PT;RJ;
-EGIDIO ANTONIO R. DA SILVA MELO;299.220.117-00;16/08/2010;13000867204;R$ 400,00;Estimado;MARIA DAS GRAÇAS FARIAS RAUDA;13949;Deputado Estadual;PT;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 13949 - MARIA DAS GRAÇAS FARIAS RAUDA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.200.171/0001-43;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 750,00;Estimado;Comitê Financeiro Único - PT -  / 13949 - MARIA DAS GRAÇAS FARIAS RAUDA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 13949 - MARIA DAS GRAÇAS FARIAS RAUDA - RJ - Deputado Estadual;
+EGIDIO ANTONIO R. DA SILVA MELO;299.220.117-00;16/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado; -  -  / 13949 - MARIA DAS GRAÇAS FARIAS RAUDA - RJ - Deputado Estadual;

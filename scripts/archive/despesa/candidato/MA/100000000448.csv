@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LEONARDO OLIVEIRA DE SOUSA;939.466.353-34;10/08/2010;10000072808;R$ 1.500,00;Estimado;ANTONIO FRANCISCO DE OLIVEIRA DE SOUSA;10111;Deputado Estadual;PRB;MA;
-LEONILDE RODRIGUES COSTA;656.586.123-49;06/08/2010;10000072807;R$ 800,00;Depósito em espécie;ANTONIO FRANCISCO DE OLIVEIRA DE SOUSA;10111;Deputado Estadual;PRB;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA SANTA CLARA LTDA-ME;11.783.446/0001-56;28/09/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 10111 - ANTONIO FRANCISCO DE OLIVEIRA DE SOUSA - MA - Deputado Estadual;
+LEONARDO OLIVEIRA DE SOUSA;939.466.353-34;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado; -  -  / 10111 - ANTONIO FRANCISCO DE OLIVEIRA DE SOUSA - MA - Deputado Estadual;
+M CRISTINA SOUSA LACERDA & CIA LTDA;02.143.897/0001-38;10/08/2010;       Combustíveis e lubrificantes;R$ 300,00;Cheque; -  -  / 10111 - ANTONIO FRANCISCO DE OLIVEIRA DE SOUSA - MA - Deputado Estadual;

@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ÁTILA NUNES PEREIRA FILHO;12.189.868/0001-60;02/09/2010;17000064955;R$ 230,00;Estimado;EDSON MOREIRA BRIGIDO;1769;Deputado Federal;PSL;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;28/09/2010;17000064957;R$ 150,00;Estimado;EDSON MOREIRA BRIGIDO;1769;Deputado Federal;PSL;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;28/09/2010;17000064956;R$ 150,00;Estimado;EDSON MOREIRA BRIGIDO;1769;Deputado Federal;PSL;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;20/08/2010;17000064951;R$ 150,00;Estimado;EDSON MOREIRA BRIGIDO;1769;Deputado Federal;PSL;RJ;
-JORGE SAYED PICCIANI;12.176.626/0001-32;30/08/2010;17000064952;R$ 17,00;Estimado;EDSON MOREIRA BRIGIDO;1769;Deputado Federal;PSL;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ÁTILA NUNES PEREIRA FILHO;12.189.868/0001-60;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 230,00;Estimado;17172 -  - PSL -  - Deputado Estadual / 1769 - EDSON MOREIRA BRIGIDO - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 1769 - EDSON MOREIRA BRIGIDO - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 1769 - EDSON MOREIRA BRIGIDO - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 1769 - EDSON MOREIRA BRIGIDO - RJ - Deputado Federal;
+JORGE SAYED PICCIANI;12.176.626/0001-32;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 1769 - EDSON MOREIRA BRIGIDO - RJ - Deputado Federal;

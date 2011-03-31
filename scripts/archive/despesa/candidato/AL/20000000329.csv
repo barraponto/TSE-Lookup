@@ -1,5 +1,13 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Governador;12.191.521/0001-52;20/08/2010;13000599286;R$ 1.787,98;Estimado;EMANUEL PAULO DA SILVA;13111;Deputado Estadual;PT;AL;
-Diretório Estadual/Distrital;24.472.136/0001-62;13/09/2010;13000599285;R$ 25.000,00;Cheque;EMANUEL PAULO DA SILVA;13111;Deputado Estadual;PT;AL;
-Diretório Estadual/Distrital;24.472.136/0001-62;05/08/2010;13000599282;R$ 25.000,00;Cheque;EMANUEL PAULO DA SILVA;13111;Deputado Estadual;PT;AL;
-EMANUEL PAULO DA SILVA;543.285.274-87;22/07/2010;13000599281;R$ 11.192,00;Estimado;EMANUEL PAULO DA SILVA;13111;Deputado Estadual;PT;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO SANTA MARIA MADALENA;05.519.322/0001-65;01/10/2010;       Combustíveis e lubrificantes;R$ 3.000,00;Cheque; -  -  / 13111 - EMANUEL PAULO DA SILVA - AL - Deputado Estadual;
+CARLA OMENA DE MELO;046.518.354-90;20/07/2010;       Cessão ou Locação de Veículos;R$ 2.000,00;Cheque; -  -  / 13111 - EMANUEL PAULO DA SILVA - AL - Deputado Estadual;
+Comitê Financeiro Estadual/Distrital para Governador;12.191.521/0001-52;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.787,98;Estimado;Comitê Financeiro Distrital/Estadual para Governador - PDT -  / 13111 - EMANUEL PAULO DA SILVA - AL - Deputado Estadual;
+EDNA LOPES DE ASSUNÇÃO;10.787.570/0001-27;06/08/2010;       Publicidade por carros de som;R$ 20.000,00;Cheque; -  -  / 13111 - EMANUEL PAULO DA SILVA - AL - Deputado Estadual;
+EMANUEL PAULO DA SILVA;543.285.274-87;22/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 11.192,00;Estimado; -  -  / 13111 - EMANUEL PAULO DA SILVA - AL - Deputado Estadual;
+FABIANO TENORIO QUINTILIANO FRANÇA;815.626.324-34;20/07/2010;       Cessão ou Locação de Veículos;R$ 3.900,00;Cheque; -  -  / 13111 - EMANUEL PAULO DA SILVA - AL - Deputado Estadual;
+GRAFPEL IND. GRAFICA LTDA ME;01.301.040/0001-36;28/09/2010;       Publicidade por materiais impressos;R$ 6.800,00;Cheque; -  -  / 13111 - EMANUEL PAULO DA SILVA - AL - Deputado Estadual;
+GRAFPEL IND. GRAFICA LTDA ME;01.301.040/0001-36;14/09/2010;       Publicidade por materiais impressos;R$ 4.200,00;Cheque; -  -  / 13111 - EMANUEL PAULO DA SILVA - AL - Deputado Estadual;
+JOSE THAYRONE CARDOSO LOPES;263.733.088-04;20/07/2010;       Cessão ou Locação de Veículos;R$ 1.500,00;Cheque; -  -  / 13111 - EMANUEL PAULO DA SILVA - AL - Deputado Estadual;
+LUÍS EDUARDO CUNHA DE PAULA VAZ - ME;09.628.181/0001-70;17/08/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 6.000,00;Cheque; -  -  / 13111 - EMANUEL PAULO DA SILVA - AL - Deputado Estadual;
+MULTI GRAFICA SERVIÇOS GRAFICOS E EDITORA LTDA.;02.212.550/0001-08;14/08/2010;       Publicidade por materiais impressos;R$ 1.100,00;Cheque; -  -  / 13111 - EMANUEL PAULO DA SILVA - AL - Deputado Estadual;
+SUELI VIANA CAVALCANTE;122.212.364-91;12/08/2010;       Locação/cessão de bens imóveis;R$ 1.500,00;Cheque; -  -  / 13111 - EMANUEL PAULO DA SILVA - AL - Deputado Estadual;

@@ -1,3 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS ANTONIO DE ARAUJO;470.245.856-68;20/08/2010;10000052502;R$ 700,00;Depósito em espécie;CARLOS ANTÔNIO DE ARAÚJO;10102;Deputado Estadual;PRB;GO;
-CARLOS ANTONIO DE ARAUJO;470.245.856-68;16/07/2010;10000052501;R$ 400,00;Depósito em espécie;CARLOS ANTÔNIO DE ARAÚJO;10102;Deputado Estadual;PRB;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+A B  MILHOMENS;11.459.404/0001-64;28/07/2010;       Publicidade por materiais impressos;R$ 100,00;Cheque; -  -  / 10102 - CARLOS ANTÔNIO DE ARAÚJO - GO - Deputado Estadual;
+A B  MILHOMENS;11.459.404/0001-64;20/08/2010;       Publicidade por materiais impressos;R$ 100,00;Cheque; -  -  / 10102 - CARLOS ANTÔNIO DE ARAÚJO - GO - Deputado Estadual;
+GRAFICA GARAVELO;01.468.395/0001-14;19/07/2010;       Publicidade por materiais impressos;R$ 250,00;Cheque; -  -  / 10102 - CARLOS ANTÔNIO DE ARAÚJO - GO - Deputado Estadual;
+GRAFICA GARAVELO;01.468.395/0001-14;24/08/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 10102 - CARLOS ANTÔNIO DE ARAÚJO - GO - Deputado Estadual;
+POSTO NOVO HORIZONTE;01.495.316/0001-64;02/10/2010;       Combustíveis e lubrificantes;R$ 50,00;Cheque; -  -  / 10102 - CARLOS ANTÔNIO DE ARAÚJO - GO - Deputado Estadual;

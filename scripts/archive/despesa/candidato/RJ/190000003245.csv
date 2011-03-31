@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.555/0001-47;06/09/2010;65000147651;R$ 406,25;Estimado;MARIA ISABEL REIS NOGUEIRA;65919;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.191.555/0001-47;30/09/2010;65000147656;R$ 100,00;Estimado;MARIA ISABEL REIS NOGUEIRA;65919;Deputado Estadual;PC do B;RJ;
-JORGE SAYED PICCCIANI;12.176.626/0001-32;06/09/2010;65000147652;R$ 100,00;Estimado;MARIA ISABEL REIS NOGUEIRA;65919;Deputado Estadual;PC do B;RJ;
-JORGE SAYED PICCIANI;12.176.626/0001-32;06/09/2010;65000147653;R$ 17,00;Estimado;MARIA ISABEL REIS NOGUEIRA;65919;Deputado Estadual;PC do B;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.555/0001-47;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado;Comitê Financeiro Único - PC do B -  / 65919 - MARIA ISABEL REIS NOGUEIRA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.191.555/0001-47;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 406,25;Estimado;Comitê Financeiro Único - PC do B -  / 65919 - MARIA ISABEL REIS NOGUEIRA - RJ - Deputado Estadual;
+JORGE SAYED PICCCIANI;12.176.626/0001-32;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado;155 -  - PMDB -  - Senador / 65919 - MARIA ISABEL REIS NOGUEIRA - RJ - Deputado Estadual;
+JORGE SAYED PICCIANI;12.176.626/0001-32;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 65919 - MARIA ISABEL REIS NOGUEIRA - RJ - Deputado Estadual;

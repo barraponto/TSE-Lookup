@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.217.560/0001-81;02/08/2010;23000052702;R$ 1.800,00;Estimado;LUIZ WILSON DE QUEIROZ GOMES;23130;Deputado Estadual;PPS;AM;
-Comitê Financeiro Único;12.217.560/0001-81;02/08/2010;23000052703;R$ 3.180,00;Estimado;LUIZ WILSON DE QUEIROZ GOMES;23130;Deputado Estadual;PPS;AM;
-JALDIMA MARIA MARTINS GOMES;290.892.802-78;20/07/2010;23000052705;R$ 1.000,00;Estimado;LUIZ WILSON DE QUEIROZ GOMES;23130;Deputado Estadual;PPS;AM;
-JALDIMA MARIA MARTINS GOMES;290.892.802-78;20/07/2010;23000052704;R$ 1.000,00;Estimado;LUIZ WILSON DE QUEIROZ GOMES;23130;Deputado Estadual;PPS;AM;
-LUIZ WILSON DE QUEIROZ GOMES;120.094.232-91;10/08/2010;23000052701;R$ 200,00;Depósito em espécie;LUIZ WILSON DE QUEIROZ GOMES;23130;Deputado Estadual;PPS;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.217.560/0001-81;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.180,00;Estimado;Comitê Financeiro Único - PPS -  / 23130 - LUIZ WILSON DE QUEIROZ GOMES - AM - Deputado Estadual;
+Comitê Financeiro Único;12.217.560/0001-81;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.800,00;Estimado;Comitê Financeiro Único - PPS -  / 23130 - LUIZ WILSON DE QUEIROZ GOMES - AM - Deputado Estadual;
+GRAFICA GOUVEIA;05.424.312/0001-46;10/08/2010;       Publicidade por materiais impressos;R$ 180,00;Cheque; -  -  / 23130 - LUIZ WILSON DE QUEIROZ GOMES - AM - Deputado Estadual;
+JALDIMA MARIA MARTINS GOMES;290.892.802-78;20/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 23130 - LUIZ WILSON DE QUEIROZ GOMES - AM - Deputado Estadual;
+JALDIMA MARIA MARTINS GOMES;290.892.802-78;20/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 23130 - LUIZ WILSON DE QUEIROZ GOMES - AM - Deputado Estadual;

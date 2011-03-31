@@ -1,5 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.229.922/0001-54;07/08/2010;20000140792;R$ 360,00;Estimado;GILSON JOSÉ DE OLIVEIRA;20678;Deputado Distrital;PSC;DF;
-Comitê Financeiro Único;12.229.922/0001-54;07/08/2010;20000140805;R$ 360,00;Estimado;GILSON JOSÉ DE OLIVEIRA;20678;Deputado Distrital;PSC;DF;
-MARCELO MENEZES GONÇALVES;701.757.561-04;10/08/2010;20000140801;R$ 350,00;Transferência eletrônica;GILSON JOSÉ DE OLIVEIRA;20678;Deputado Distrital;PSC;DF;
-PAULO DIAS DO NASCIMENTO FILHO;297.311.601-59;10/09/2010;20000140791;R$ 320,00;Transferência eletrônica;GILSON JOSÉ DE OLIVEIRA;20678;Deputado Distrital;PSC;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CLASSE A IMPRESSOS LTDA;06.053.439/0001-69;13/09/2010;       Publicidade por materiais impressos;R$ 350,00;Cheque; -  -  / 20678 - GILSON JOSÉ DE OLIVEIRA - DF - Deputado Distrital;
+CLASSE A IMPRESSOS LTDA;06.053.439/0001-69;25/08/2010;       Publicidade por materiais impressos;R$ 280,00;Cheque; -  -  / 20678 - GILSON JOSÉ DE OLIVEIRA - DF - Deputado Distrital;
+Comitê Financeiro Único;12.229.922/0001-54;07/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Único - PSC -  / 20678 - GILSON JOSÉ DE OLIVEIRA - DF - Deputado Distrital;
+Comitê Financeiro Único;12.229.922/0001-54;07/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Único - PSC -  / 20678 - GILSON JOSÉ DE OLIVEIRA - DF - Deputado Distrital;
+;;27/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,00;Débito em conta; -  -  / 20678 - GILSON JOSÉ DE OLIVEIRA - DF - Deputado Distrital;
+;;08/09/2010;       Encargos financeiros e taxas bancárias;R$ 20,00;Débito em conta; -  -  / 20678 - GILSON JOSÉ DE OLIVEIRA - DF - Deputado Distrital;
+;;02/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,00;Débito em conta; -  -  / 20678 - GILSON JOSÉ DE OLIVEIRA - DF - Deputado Distrital;
+;;30/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,00;Débito em conta; -  -  / 20678 - GILSON JOSÉ DE OLIVEIRA - DF - Deputado Distrital;
+;;11/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,00;Débito em conta; -  -  / 20678 - GILSON JOSÉ DE OLIVEIRA - DF - Deputado Distrital;
+;;09/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,00;Débito em conta; -  -  / 20678 - GILSON JOSÉ DE OLIVEIRA - DF - Deputado Distrital;

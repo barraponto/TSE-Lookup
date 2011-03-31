@@ -1,4 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
-BANCO BMG;61.186.680/0001-74;08/10/2010;14000161051;R$ 200.000,00;Transferência eletrônica;Comitê Financeiro Único;PTB;AP;
-Diretório Nacional;03.605.136/0001-13;29/09/2010;14000161054;R$ 50.000,00;Cheque;Comitê Financeiro Único;PTB;AP;
-LUIZ CANTUÁRIA BARRETO;12.173.251/0001-57;08/10/2010;14000161055;R$ 150.000,00;Cheque;Comitê Financeiro Único;PTB;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO DE LIMA CORDOVIL JUNIOR;248.457.872-53;15/10/2010;       Produção de jingles, vinhetas e slogans;R$ 1.000,00;Cheque; -  -  / Comitê Financeiro Único - PTB - AP;
+R.A.M. GOMES;01.206.453/0001-31;30/09/2010;       Serviços prestados por terceiros;R$ 198.969,79;Cheque; -  -  / Comitê Financeiro Único - PTB - AP;
+TARGET COMUNICAÇÃO LTDA;08.191.194/0001-61;14/10/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 200.000,00;Cheque; -  -  / Comitê Financeiro Único - PTB - AP;
+;;14/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / Comitê Financeiro Único - PTB - AP;

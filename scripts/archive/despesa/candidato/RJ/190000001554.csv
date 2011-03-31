@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 JORGE SAYED PICCIANI SENADOR;12.176.626/0001-32;23/09/2010;31000025311;R$ 17,00;Estimado;EDSON MARTINS;31310;Deputado Estadual;PHS;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 JORGE SAYED PICCIANI SENADOR;12.176.626/0001-32;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 31310 - EDSON MARTINS - RJ - Deputado Estadual;

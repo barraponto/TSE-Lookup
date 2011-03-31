@@ -1,8 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-REGINALDO COSTA PORTO;349.668.543-34;19/07/2010;65000177810;R$ 350,00;Cheque;REGINALDO COSTA PORTO;65465;Deputado Distrital;PC do B;DF;
-REGINALDO COSTA PORTO;349.668.543-34;23/07/2010;65000177811;R$ 400,00;Cheque;REGINALDO COSTA PORTO;65465;Deputado Distrital;PC do B;DF;
-REGINALDO COSTA PORTO;349.668.543-34;30/07/2010;65000177812;R$ 250,00;Depósito em espécie;REGINALDO COSTA PORTO;65465;Deputado Distrital;PC do B;DF;
-REGINALDO COSTA PORTO;349.668.543-34;06/09/2010;65000177816;R$ 1.000,00;Depósito em espécie;REGINALDO COSTA PORTO;65465;Deputado Distrital;PC do B;DF;
-REGINALDO COSTA PORTO;349.668.543-34;25/08/2010;65000177814;R$ 1.000,00;Depósito em espécie;REGINALDO COSTA PORTO;65465;Deputado Distrital;PC do B;DF;
-REGINALDO COSTA PORTO;349.668.543-34;31/08/2010;65000177815;R$ 530,00;Transferência eletrônica;REGINALDO COSTA PORTO;65465;Deputado Distrital;PC do B;DF;
-REGINALDO COSTA PORTO;349.668.543-34;30/07/2010;65000177813;R$ 50,00;Depósito em espécie;REGINALDO COSTA PORTO;65465;Deputado Distrital;PC do B;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARTCOLOR LETREIROS;38.046.827/0001-09;31/08/2010;       Publicidade por materiais impressos;R$ 900,00;Cheque; -  -  / 65465 - REGINALDO COSTA PORTO - DF - Deputado Distrital;
+DISTAK AUTO PEÇAS LTDA;33.504.689/0001-40;11/10/2010;       Combustíveis e lubrificantes;R$ 150,00;Cheque; -  -  / 65465 - REGINALDO COSTA PORTO - DF - Deputado Distrital;
+FORMATO DIGITAL;11.055.808/0001-92;06/09/2010;       Publicidade por placas, estandartes e faixas;R$ 1.000,00;Cheque; -  -  / 65465 - REGINALDO COSTA PORTO - DF - Deputado Distrital;
+GRAFICA BOX;09.490.493/0001-60;22/07/2010;       Publicidade por materiais impressos;R$ 750,00;Cheque; -  -  / 65465 - REGINALDO COSTA PORTO - DF - Deputado Distrital;
+GRAFICA E EDITORA MOVIMENTO LTDA;08.220.275/0001-42;27/08/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 65465 - REGINALDO COSTA PORTO - DF - Deputado Distrital;
+GRAFICA E EDITORA MOVIMENTO LTDA;08.220.275/0001-42;28/07/2010;       Publicidade por materiais impressos;R$ 250,00;Cheque; -  -  / 65465 - REGINALDO COSTA PORTO - DF - Deputado Distrital;
+PARTIDO COMUNISTA DO BRASIL;03.604.170/0001-73;27/10/2010;       Diversas a especificar;R$ 1,00;Transferência eletrônica; -  -  / 65465 - REGINALDO COSTA PORTO - DF - Deputado Distrital;
+;;27/10/2010;       Impostos, contribuições e taxas;R$ 15,00;Transferência eletrônica; -  -  / 65465 - REGINALDO COSTA PORTO - DF - Deputado Distrital;
+;;23/07/2010;       Encargos financeiros e taxas bancárias;R$ 14,00;Débito em conta; -  -  / 65465 - REGINALDO COSTA PORTO - DF - Deputado Distrital;

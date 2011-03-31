@@ -1,2 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-PAULO FERNANDO CARNEIRO MONTEIRO;179.779.754-91;13/10/2010;25000621004;R$ 800,00;Transferência eletrônica;PAULO FERNANDO CARNEIRO MONTEIRO;25500;Deputado Distrital;DEM;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+COPIADORA BRASÍLIA;03.621.399/0001-16;28/07/2010;       Materiais de expediente;R$ 80,00;Cheque; -  -  / 25500 - PAULO FERNANDO CARNEIRO MONTEIRO - DF - Deputado Distrital;
+LOGOMARCA;08.497.022/0001-10;10/09/2010;       Publicidade por materiais impressos;R$ 1.125,00;Cheque; -  -  / 25500 - PAULO FERNANDO CARNEIRO MONTEIRO - DF - Deputado Distrital;
+LOGOMARCA;08.497.022/0001-10;23/09/2010;       Publicidade por materiais impressos;R$ 1.400,00;Cheque; -  -  / 25500 - PAULO FERNANDO CARNEIRO MONTEIRO - DF - Deputado Distrital;
+RNA;00.412.130/0001-31;09/09/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 25500 - PAULO FERNANDO CARNEIRO MONTEIRO - DF - Deputado Distrital;

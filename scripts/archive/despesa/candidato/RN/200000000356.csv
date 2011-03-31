@@ -1,10 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANDREA DE ARAUJO SA;021.748.794-76;23/09/2010;65000245205;R$ 1.100,00;Depósito em espécie;FRASCISCO CANINDE DE FRANÇA;6510;Deputado Federal;PC do B;RN;
-CARLOS ALBERICO DE MEDEIROS;500.731.334-34;21/09/2010;65000245204;R$ 400,00;Depósito em espécie;FRASCISCO CANINDE DE FRANÇA;6510;Deputado Federal;PC do B;RN;
-FRANCISCA DAISE GALVAO FREIRE DE FRANCA;703.819.334-15;14/07/2010;65000245208;R$ 195,00;Outros títulos de crédito;FRASCISCO CANINDE DE FRANÇA;6510;Deputado Federal;PC do B;RN;
-ILEUDA MARIA DE AQUINO FREIRE;328.734.684-91;21/09/2010;65000245203;R$ 900,00;Depósito em espécie;FRASCISCO CANINDE DE FRANÇA;6510;Deputado Federal;PC do B;RN;
-LUCIA DE FATIMA ARAUJO;409.415.234-20;28/09/2010;65000245207;R$ 300,00;Depósito em espécie;FRASCISCO CANINDE DE FRANÇA;6510;Deputado Federal;PC do B;RN;
-RICARDO BRUNO DOS SANTOS BEZERRA;014.186.084-75;28/09/2010;65000245209;R$ 1.345,00;Outros títulos de crédito;FRASCISCO CANINDE DE FRANÇA;6510;Deputado Federal;PC do B;RN;
-ROSANGELA BEZERRA;034.116.034-29;21/09/2010;65000245202;R$ 300,00;Depósito em espécie;FRASCISCO CANINDE DE FRANÇA;6510;Deputado Federal;PC do B;RN;
-VALDEMIR SALES DANTAS;199.773.954-20;28/07/2010;65000245201;R$ 350,00;Depósito em espécie;FRASCISCO CANINDE DE FRANÇA;6510;Deputado Federal;PC do B;RN;
-VITAL NOGUEIRA DE SOUZA;336.542.474-15;28/09/2010;65000245206;R$ 800,00;Depósito em espécie;FRASCISCO CANINDE DE FRANÇA;6510;Deputado Federal;PC do B;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO CARLOS BEZERRA;761.017.894-20;30/09/2010;       Serviços prestados por terceiros;R$ 900,00;Cheque; -  -  / 6510 - FRASCISCO CANINDE DE FRANÇA - RN - Deputado Federal;
+F. J. GADELHA FERNANDES JUNIOR-ME;02.728.914/0001-07;01/09/2010;       Locação/cessão de bens móveis;R$ 1.300,00;Cheque; -  -  / 6510 - FRASCISCO CANINDE DE FRANÇA - RN - Deputado Federal;
+GIL PUBLICIDADE;70.152.277/0001-15;30/09/2010;       Locação/cessão de bens móveis;R$ 500,00;Cheque; -  -  / 6510 - FRASCISCO CANINDE DE FRANÇA - RN - Deputado Federal;
+LM SERVGRAFICA E COPIADORA LTDA ME;07.805.649/0001-29;14/07/2010;       Publicidade por materiais impressos;R$ 195,00;Não informado; -  -  / 6510 - FRASCISCO CANINDE DE FRANÇA - RN - Deputado Federal;
+POSTO GAS DO BRASIL LTDA - EPP;03.129.116/0001-13;05/10/2010;       Combustíveis e lubrificantes;R$ 1.345,00;Não informado; -  -  / 6510 - FRASCISCO CANINDE DE FRANÇA - RN - Deputado Federal;
+SIG TECNOLOGIA SERVIÇOS DE INFORMÁTICA LTDA;10.740.584/0001-95;28/07/2010;       Criação e inclusão de páginas na internet;R$ 300,00;Cheque; -  -  / 6510 - FRASCISCO CANINDE DE FRANÇA - RN - Deputado Federal;
+UNIGRAFICA - GRAFICA E EDITORA LTDA;02.749.278/0001-91;09/09/2010;       Publicidade por materiais impressos;R$ 1.090,00;Cheque; -  -  / 6510 - FRASCISCO CANINDE DE FRANÇA - RN - Deputado Federal;

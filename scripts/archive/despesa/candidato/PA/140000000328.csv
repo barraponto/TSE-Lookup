@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇAO 2010 JOSE MEGALE FILHO DEPUTADO ESTADUAL;12.189.756/0001-00;28/09/2010;45000315561;R$ 2.000,00;Cheque;JOSE HILTON PINHEIRO DE LIMA;4522;Deputado Federal;PSDB;PA;
-ELEIÇÃO 2010 JOSE MEGALE FILHO DEPUTADO ESTADUAL;12.189.756/0001-00;04/08/2010;45000315560;R$ 280,00;Estimado;JOSE HILTON PINHEIRO DE LIMA;4522;Deputado Federal;PSDB;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ABENAIAS GUIMARAES DA COSTA;578.267.492-04;23/09/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 4522 - JOSE HILTON PINHEIRO DE LIMA - PA - Deputado Federal;
+ELEIÇÃO 2010 JOSE MEGALE FILHO DEPUTADO ESTADUAL;12.189.756/0001-00;04/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 280,00;Estimado;45045 -  - PSDB -  - Deputado Estadual / 4522 - JOSE HILTON PINHEIRO DE LIMA - PA - Deputado Federal;
+ELIELZA AZEVEDO DA COSTA;581.157.652-87;23/09/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 4522 - JOSE HILTON PINHEIRO DE LIMA - PA - Deputado Federal;

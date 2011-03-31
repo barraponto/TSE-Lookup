@@ -1,3 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-PAULO ALBERTO LIMA VIANA;232.084.813-49;01/09/2010;50000101551;R$ 300,00;Depósito em espécie;PAULO ALBERTO LIMA VIANA;50144;Deputado Estadual;PSOL;CE;
-PAULO ALBERTO LIMA VIANA;232.084.813-49;05/08/2010;50000101552;R$ 200,00;Depósito em espécie;PAULO ALBERTO LIMA VIANA;50144;Deputado Estadual;PSOL;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+;;15/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,70;Débito em conta; -  -  / 50144 - PAULO ALBERTO LIMA VIANA - CE - Deputado Estadual;
+;;26/10/2010;       Encargos financeiros e taxas bancárias;R$ 48,00;Cheque; -  -  / 50144 - PAULO ALBERTO LIMA VIANA - CE - Deputado Estadual;
+;;09/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 50144 - PAULO ALBERTO LIMA VIANA - CE - Deputado Estadual;
+;;10/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 50144 - PAULO ALBERTO LIMA VIANA - CE - Deputado Estadual;

@@ -1,4 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO CARLOS MAGALHAES NETO;12.156.128/0001-28;03/08/2010;44000007881;R$ 5.000,00;Cheque;IOVANE DE OLIVEIRA GUANAES FILHO;44044;Deputado Estadual;PRP;BA;
-ANTONIO CARLOS PEIXOTO MAGALHÃES NETO;12.156.128/0001-28;27/09/2010;44000007883;R$ 8.000,00;Cheque;IOVANE DE OLIVEIRA GUANAES FILHO;44044;Deputado Estadual;PRP;BA;
-IOVANE DE OLIVEIRA GUANAES FILHO;485.639.195-04;10/08/2010;44000007884;R$ 4.000,00;Estimado;IOVANE DE OLIVEIRA GUANAES FILHO;44044;Deputado Estadual;PRP;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO ROQUE NOGUEIRA LEITE;018.029.995-66;27/09/2010;       Publicidade por carros de som;R$ 1.500,00;Cheque; -  -  / 44044 - IOVANE DE OLIVEIRA GUANAES FILHO - BA - Deputado Estadual;
+AUTO POSTO SÃO FRANCISCO LTDA;15.654.957/0001-29;19/08/2010;       Cessão ou Locação de Veículos;R$ 1.000,00;Cheque; -  -  / 44044 - IOVANE DE OLIVEIRA GUANAES FILHO - BA - Deputado Estadual;
+ERKMILSON PIRES LEÃO;128.784.055-87;01/09/2010;       Cessão ou Locação de Veículos;R$ 1.500,00;Cheque; -  -  / 44044 - IOVANE DE OLIVEIRA GUANAES FILHO - BA - Deputado Estadual;
+IOVANE DE OLIVEIRA GUANAES FILHO;485.639.195-04;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.000,00;Estimado; -  -  / 44044 - IOVANE DE OLIVEIRA GUANAES FILHO - BA - Deputado Estadual;
+JURANDY ALVES DE ALMEIDA FILHO;960.443.905-78;27/09/2010;       Cessão ou Locação de Veículos;R$ 1.500,00;Cheque; -  -  / 44044 - IOVANE DE OLIVEIRA GUANAES FILHO - BA - Deputado Estadual;
+JURANDY ALVES DE ALMEIDA FILHO;001.940.225-28;05/08/2010;       Cessão ou Locação de Veículos;R$ 1.500,00;Cheque; -  -  / 44044 - IOVANE DE OLIVEIRA GUANAES FILHO - BA - Deputado Estadual;
+LIMA & TELES LTDA;06.964.085/0001-04;11/08/2010;       Publicidade por materiais impressos;R$ 1.420,00;Cheque; -  -  / 44044 - IOVANE DE OLIVEIRA GUANAES FILHO - BA - Deputado Estadual;
+MARLAN VELOSO E SILVA;485.633.405-06;27/09/2010;       Cessão ou Locação de Veículos;R$ 2.500,00;Cheque; -  -  / 44044 - IOVANE DE OLIVEIRA GUANAES FILHO - BA - Deputado Estadual;
+PAULO CESAR DE OLIVEIRA;211.384.785-04;16/08/2010;       Publicidade por carros de som;R$ 950,00;Cheque; -  -  / 44044 - IOVANE DE OLIVEIRA GUANAES FILHO - BA - Deputado Estadual;
+PAULO CESAR DE OLIVEIRA;211.384.785-04;27/09/2010;       Publicidade por carros de som;R$ 1.000,00;Cheque; -  -  / 44044 - IOVANE DE OLIVEIRA GUANAES FILHO - BA - Deputado Estadual;
+SERGIO DE OLIVEIRA ATHAYDE ME;02.182.142/0001-42;26/10/2010;       Materiais de expediente;R$ 130,00;Cheque; -  -  / 44044 - IOVANE DE OLIVEIRA GUANAES FILHO - BA - Deputado Estadual;

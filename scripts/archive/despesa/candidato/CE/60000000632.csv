@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Governador;12.181.912/0001-96;29/09/2010;36000079013;R$ 800,00;Estimado;NECI COSTA DE PAULO;36213;Deputado Estadual;PTC;CE;
-MARCOGRAF GRAFICA LTDA;02.963.095/0001-74;20/08/2010;36000079012;R$ 172,00;Estimado;NECI COSTA DE PAULO;36213;Deputado Estadual;PTC;CE;
-NECI COSTA DE PAULO;117.995.283-91;05/08/2010;36000079011;R$ 250,00;Depósito em espécie;NECI COSTA DE PAULO;36213;Deputado Estadual;PTC;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Governador;12.181.912/0001-96;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 800,00;Estimado;Comitê Financeiro Distrital/Estadual para Governador - PSB -  / 36213 - NECI COSTA DE PAULO - CE - Deputado Estadual;
+DINAMICA GRAFICA E EDITORA LTDA;00.392.846/0001-14;05/08/2010;       Publicidade por materiais impressos;R$ 250,00;Transferência eletrônica; -  -  / 36213 - NECI COSTA DE PAULO - CE - Deputado Estadual;
+MARCOGRAF GRAFICA LTDA;02.963.095/0001-74;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 172,00;Estimado; -  -  / 36213 - NECI COSTA DE PAULO - CE - Deputado Estadual;

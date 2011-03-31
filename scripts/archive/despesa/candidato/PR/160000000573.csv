@@ -1,6 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;16/09/2010;10000046102;R$ 1.250,00;Estimado;GERSON AURELIO MARTINS;1050;Deputado Federal;PRB;PR;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;24/08/2010;10000046103;R$ 1.680,00;Transferência eletrônica;GERSON AURELIO MARTINS;1050;Deputado Federal;PRB;PR;
-ELEIÇÕES 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;10/08/2010;10000046101;R$ 1.575,00;Estimado;GERSON AURELIO MARTINS;1050;Deputado Federal;PRB;PR;
-GERSON AURELIO MARTINS;519.462.549-91;17/09/2010;10000046104;R$ 1.955,20;Cheque;GERSON AURELIO MARTINS;1050;Deputado Federal;PRB;PR;
-RICARDO JOSE MAGALHAES BARROS;12.190.665/0001-94;29/09/2010;10000046105;R$ 562,50;Estimado;GERSON AURELIO MARTINS;1050;Deputado Federal;PRB;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AMAURI FERREIRA DE LIMA;534.417.539-68;02/10/2010;       Serviços prestados por terceiros;R$ 84,20;Cheque; -  -  / 1050 - GERSON AURELIO MARTINS - PR - Deputado Federal;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;16/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.250,00;Estimado;45 -  - PSDB -  - Governador / 1050 - GERSON AURELIO MARTINS - PR - Deputado Federal;
+ELEIÇÕES 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.575,00;Estimado;45 -  - PSDB -  - Governador / 1050 - GERSON AURELIO MARTINS - PR - Deputado Federal;
+G PRINTER LTDA;03.407.742/0001-24;18/09/2010;       Publicidade por materiais impressos;R$ 2.795,00;Cheque; -  -  / 1050 - GERSON AURELIO MARTINS - PR - Deputado Federal;
+JORNAL O POPULAR DO PARANA LTDA;07.846.774/0001-87;28/09/2010;       Publicidade por jornais e revistas;R$ 756,00;Cheque; -  -  / 1050 - GERSON AURELIO MARTINS - PR - Deputado Federal;
+RICARDO JOSE MAGALHAES BARROS;12.190.665/0001-94;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 562,50;Estimado;111 -  - PP -  - Senador / 1050 - GERSON AURELIO MARTINS - PR - Deputado Federal;

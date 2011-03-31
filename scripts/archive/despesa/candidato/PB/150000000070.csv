@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-EDVAN CARNEIRO DA SILVA;12.190.222/0001-01;30/09/2010;17000010528;R$ 400,00;Estimado;LÚCIA DE FATIMA FIDELIS MARTINS;17333;Deputado Estadual;PSL;PB;
-JOSÉ MARANHÃO;12.189.345/0001-14;23/08/2010;17000010526;R$ 600,00;Estimado;LÚCIA DE FATIMA FIDELIS MARTINS;17333;Deputado Estadual;PSL;PB;
-JOSÉ TARGINO MARANHÃO - GOVERNADOR;12.189.345/0001-14;23/09/2010;17000010527;R$ 523,56;Estimado;LÚCIA DE FATIMA FIDELIS MARTINS;17333;Deputado Estadual;PSL;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EDVAN CARNEIRO DA SILVA;12.190.222/0001-01;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado;1010 -  - PRB -  - Deputado Federal / 17333 - LÚCIA DE FATIMA FIDELIS MARTINS - PB - Deputado Estadual;
+JOSÉ MARANHÃO;12.189.345/0001-14;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado;15 -  - PMDB -  - Governador / 17333 - LÚCIA DE FATIMA FIDELIS MARTINS - PB - Deputado Estadual;
+JOSÉ TARGINO MARANHÃO - GOVERNADOR;12.189.345/0001-14;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 523,56;Estimado;15 -  - PMDB -  - Governador / 17333 - LÚCIA DE FATIMA FIDELIS MARTINS - PB - Deputado Estadual;

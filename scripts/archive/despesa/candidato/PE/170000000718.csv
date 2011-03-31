@@ -1,2 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-PAULO ROGERIO DE LIMA;530.328.024-15;18/08/2010;43001841376;R$ 640,00;Cheque;JACILENE SILVA DE LUCENA DUARTE;43987;Deputado Estadual;PV;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+SERGIO MARCIO DA SILVA;880.459.864-68;20/08/2010;       Diversas a especificar;R$ 550,00;Cheque; -  -  / 43987 - JACILENE SILVA DE LUCENA DUARTE - PE - Deputado Estadual;
+SERGIO MARCIO DA SILVA;880.459.864-68;10/09/2010;       Diversas a especificar;R$ 90,00;Cheque; -  -  / 43987 - JACILENE SILVA DE LUCENA DUARTE - PE - Deputado Estadual;

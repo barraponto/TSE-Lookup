@@ -1,6 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ARTHUR BAPTISTA DAS NEVES;162.340.306-53;02/08/2010;14000087006;R$ 50,80;Depósito em espécie;ARTHUR BATISTA DAS NEVES;14145;Deputado Estadual;PTB;MG;
-ARTHUR BAPTISTA DAS NEVES;162.340.306-53;01/09/2010;14000087007;R$ 50,00;Depósito em espécie;ARTHUR BATISTA DAS NEVES;14145;Deputado Estadual;PTB;MG;
-ERICA SILVA NEVES DE CARVALHO;528.011.286-00;05/08/2010;14000087002;R$ 200,00;Depósito em espécie;ARTHUR BATISTA DAS NEVES;14145;Deputado Estadual;PTB;MG;
-PARTIDO TRABALHISTA BRASILEIRO;21.531.363/0001-23;06/09/2010;14000087004;R$ 1.073,38;Estimado;ARTHUR BATISTA DAS NEVES;14145;Deputado Estadual;PTB;MG;
-PARTIDO TRABALHISTA BRASILEIRO;21.531.363/0001-23;06/09/2010;14000087003;R$ 1.444,55;Estimado;ARTHUR BATISTA DAS NEVES;14145;Deputado Estadual;PTB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+PARTIDO TRABALHISTA BRASILEIRO;21.531.363/0001-23;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.073,38;Estimado; -  -  / 14145 - ARTHUR BATISTA DAS NEVES - MG - Deputado Estadual;
+PARTIDO TRABALHISTA BRASILEIRO;21.531.363/0001-23;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.444,55;Estimado; -  -  / 14145 - ARTHUR BATISTA DAS NEVES - MG - Deputado Estadual;
+RAELLI ARTES GRAFICAS LTDA;01.251.802/0001-37;09/08/2010;       Publicidade por materiais impressos;R$ 180,00;Cheque; -  -  / 14145 - ARTHUR BATISTA DAS NEVES - MG - Deputado Estadual;
+REPRESENTAÇÕES E PUBLICIDADE LTDA;03.905.872/0001-97;01/09/2010;       Publicidade por jornais e revistas;R$ 50,00;Cheque; -  -  / 14145 - ARTHUR BATISTA DAS NEVES - MG - Deputado Estadual;
+SCAPOLE MALHAS DISTRIBUIDORA DE TRANSFER LTDA;07.235.006/0001-97;05/08/2010;       Publicidade por materiais impressos;R$ 22,00;Cheque; -  -  / 14145 - ARTHUR BATISTA DAS NEVES - MG - Deputado Estadual;
+SCAPOLE MALHAS DISTRIBUIDORA DE TRANSFER LTDA;07.235.006/0001-97;27/07/2010;       Diversas a especificar;R$ 28,80;Cheque; -  -  / 14145 - ARTHUR BATISTA DAS NEVES - MG - Deputado Estadual;
+;;05/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,50;Não informado; -  -  / 14145 - ARTHUR BATISTA DAS NEVES - MG - Deputado Estadual;
+;;15/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Não informado; -  -  / 14145 - ARTHUR BATISTA DAS NEVES - MG - Deputado Estadual;
+;;02/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,50;Não informado; -  -  / 14145 - ARTHUR BATISTA DAS NEVES - MG - Deputado Estadual;
+;;15/10/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Não informado; -  -  / 14145 - ARTHUR BATISTA DAS NEVES - MG - Deputado Estadual;
+;;19/10/2010;       Encargos financeiros e taxas bancárias;R$ 1,15;Não informado; -  -  / 14145 - ARTHUR BATISTA DAS NEVES - MG - Deputado Estadual;

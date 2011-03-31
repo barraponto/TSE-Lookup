@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.372.871/0001-15;31/08/2010;12001676451;R$ 1.320,00;Estimado;CARLOS ROBERTO JACINTO DE MELO;1225;Deputado Federal;PDT;MG;
-Comitê Financeiro Único;12.372.871/0001-15;29/07/2010;12001676452;R$ 1.197,84;Estimado;CARLOS ROBERTO JACINTO DE MELO;1225;Deputado Federal;PDT;MG;
-JOSÉ FRANCISCO MARTINS;12.191.100/0001-21;09/08/2010;12001676453;R$ 400,00;Estimado;CARLOS ROBERTO JACINTO DE MELO;1225;Deputado Federal;PDT;MG;
-JOSÉ FRANCISCO MARTINS;12.191.100/0001-21;19/08/2010;12001676454;R$ 827,25;Estimado;CARLOS ROBERTO JACINTO DE MELO;1225;Deputado Federal;PDT;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.372.871/0001-15;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.320,00;Estimado;Comitê Financeiro Único - PDT -  / 1225 - CARLOS ROBERTO JACINTO DE MELO - MG - Deputado Federal;
+Comitê Financeiro Único;12.372.871/0001-15;29/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.197,84;Estimado;Comitê Financeiro Único - PDT -  / 1225 - CARLOS ROBERTO JACINTO DE MELO - MG - Deputado Federal;
+JOSÉ FRANCISCO MARTINS;12.191.100/0001-21;19/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 827,25;Estimado;12200 -  - PDT -  - Deputado Estadual / 1225 - CARLOS ROBERTO JACINTO DE MELO - MG - Deputado Federal;
+JOSÉ FRANCISCO MARTINS;12.191.100/0001-21;09/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado;12200 -  - PDT -  - Deputado Estadual / 1225 - CARLOS ROBERTO JACINTO DE MELO - MG - Deputado Federal;

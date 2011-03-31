@@ -1,4 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-RODRIGO SOBRAL ROLLEMBERG;12.173.922/0001-80;22/09/2010;40002158202;R$ 1.000,00;Cheque;MARIA LUCINETE GONÇALVES MOREIRA;40010;Deputado Distrital;PSB;DF;
-RODRIGO SOBRAL ROLLEMBERG;12.173.922/0001-80;30/09/2010;40002158203;R$ 422,44;Estimado;MARIA LUCINETE GONÇALVES MOREIRA;40010;Deputado Distrital;PSB;DF;
-RODRIGO SOBRAL ROLLEMBERG;12.173.922/0001-80;12/08/2010;40002158201;R$ 260,00;Estimado;MARIA LUCINETE GONÇALVES MOREIRA;40010;Deputado Distrital;PSB;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EVANILDO DA SILVA MACEDO SANTOS;611.333.702-25;01/10/2010;       Locação/cessão de bens imóveis;R$ 978,00;Cheque; -  -  / 40010 - MARIA LUCINETE GONÇALVES MOREIRA - DF - Deputado Distrital;
+RODRIGO SOBRAL ROLLEMBERG;12.173.922/0001-80;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 422,44;Estimado;400 -  - PSB -  - Senador / 40010 - MARIA LUCINETE GONÇALVES MOREIRA - DF - Deputado Distrital;
+RODRIGO SOBRAL ROLLEMBERG;12.173.922/0001-80;12/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 260,00;Estimado;400 -  - PSB -  - Senador / 40010 - MARIA LUCINETE GONÇALVES MOREIRA - DF - Deputado Distrital;
+;;30/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 40010 - MARIA LUCINETE GONÇALVES MOREIRA - DF - Deputado Distrital;
+;;28/09/2010;       Encargos financeiros e taxas bancárias;R$ 3,80;Débito em conta; -  -  / 40010 - MARIA LUCINETE GONÇALVES MOREIRA - DF - Deputado Distrital;
+;;30/09/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 40010 - MARIA LUCINETE GONÇALVES MOREIRA - DF - Deputado Distrital;

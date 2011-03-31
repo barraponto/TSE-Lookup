@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSE ANTAO DA SILVA FILHO;464.547.644-00;20/09/2010;43001842951;R$ 150,00;Depósito em espécie;JOSE ANTÃO DA SILVA FILHO;4314;Deputado Federal;PV;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JULIO CESAR PESSOA DE SIQUEIRA;070.324.844-84;20/09/2010;       Despesas com pessoal;R$ 140,00;Cheque; -  -  / 4314 - JOSE ANTÃO DA SILVA FILHO - PE - Deputado Federal;

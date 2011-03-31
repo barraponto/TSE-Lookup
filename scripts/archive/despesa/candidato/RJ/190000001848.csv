@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;29/09/2010;65000143203;R$ 150,00;Estimado;CLOVIS DOS SANTOS PEREIRA;65133;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;29/09/2010;65000143202;R$ 150,00;Estimado;CLOVIS DOS SANTOS PEREIRA;65133;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.191.555/0001-47;30/09/2010;65000143205;R$ 100,00;Estimado;CLOVIS DOS SANTOS PEREIRA;65133;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;29/09/2010;65000143204;R$ 300,00;Estimado;CLOVIS DOS SANTOS PEREIRA;65133;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.191.555/0001-47;06/09/2010;65000143206;R$ 406,25;Estimado;CLOVIS DOS SANTOS PEREIRA;65133;Deputado Estadual;PC do B;RJ;
-JORGE SAYED PICCIANI;12.176.626/0001-32;31/08/2010;65000143300;R$ 17,00;Estimado;CLOVIS DOS SANTOS PEREIRA;65133;Deputado Estadual;PC do B;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 65133 - CLOVIS DOS SANTOS PEREIRA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 65133 - CLOVIS DOS SANTOS PEREIRA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.191.555/0001-47;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado;Comitê Financeiro Único - PC do B -  / 65133 - CLOVIS DOS SANTOS PEREIRA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 65133 - CLOVIS DOS SANTOS PEREIRA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.191.555/0001-47;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 406,25;Estimado;Comitê Financeiro Único - PC do B -  / 65133 - CLOVIS DOS SANTOS PEREIRA - RJ - Deputado Estadual;
+JORGE SAYED PICCIANI;12.176.626/0001-32;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 65133 - CLOVIS DOS SANTOS PEREIRA - RJ - Deputado Estadual;

@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.503/0001-70;24/08/2010;20000325061;R$ 530,00;Estimado;ARIVALDO SOUZA DE OLIVEIRA;2048;Deputado Federal;PSC;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.503/0001-70;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 530,00;Estimado;Comitê Financeiro Único - PSC -  / 2048 - ARIVALDO SOUZA DE OLIVEIRA - MG - Deputado Federal;

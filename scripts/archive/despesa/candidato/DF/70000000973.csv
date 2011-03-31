@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-BENEDITO AUGUSTO DOMINGOS;12.203.737/0001-90;17/08/2010;11000095165;R$ 360,00;Estimado;PEDRO JOSE DE CASTRO;11777;Deputado Distrital;PP;DF;
-BENEDITO AUGUSTO DOMINGOS;12.203.737/0001-90;11/08/2010;11000095161;R$ 360,00;Estimado;PEDRO JOSE DE CASTRO;11777;Deputado Distrital;PP;DF;
-Comitê Financeiro Único;12.205.256/0001-14;17/09/2010;11000095162;R$ 1.530,00;Cheque;PEDRO JOSE DE CASTRO;11777;Deputado Distrital;PP;DF;
-Comitê Financeiro Único;12.205.256/0001-14;08/10/2010;11000095163;R$ 1.530,00;Cheque;PEDRO JOSE DE CASTRO;11777;Deputado Distrital;PP;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BENEDITO AUGUSTO DOMINGOS;12.203.737/0001-90;11/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;11234 -  - PP -  - Deputado Distrital / 11777 - PEDRO JOSE DE CASTRO - DF - Deputado Distrital;
+BENEDITO AUGUSTO DOMINGOS;12.203.737/0001-90;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;11234 -  - PP -  - Deputado Distrital / 11777 - PEDRO JOSE DE CASTRO - DF - Deputado Distrital;
+BRUNO BESSA MACEDO;035.983.941-01;01/10/2010;       Despesas com pessoal;R$ 1.496,97;Transferência eletrônica; -  -  / 11777 - PEDRO JOSE DE CASTRO - DF - Deputado Distrital;
+BRUNO BESSA MACEDO;035.983.941-01;22/09/2010;       Despesas com pessoal;R$ 1.502,00;Transferência eletrônica; -  -  / 11777 - PEDRO JOSE DE CASTRO - DF - Deputado Distrital;
+;;17/09/2010;       Encargos financeiros e taxas bancárias;R$ 61,03;Débito em conta; -  -  / 11777 - PEDRO JOSE DE CASTRO - DF - Deputado Distrital;

@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO GARCIA DE MEDEIROS;839.794.177-00;18/08/2010;33000106521;R$ 300,00;Depósito em espécie;ANTONIO GARCIA DE MEDEIROS;33222;Deputado Estadual;PMN;PB;
-ANTONIO GARCIA DE MEDEIROS;839.794.177-00;16/09/2010;33000106526;R$ 200,00;Depósito em espécie;ANTONIO GARCIA DE MEDEIROS;33222;Deputado Estadual;PMN;PB;
-ANTONIO GARCIA DE MEDEIROS;839.794.177-00;27/09/2010;33000106528;R$ 500,00;Estimado;ANTONIO GARCIA DE MEDEIROS;33222;Deputado Estadual;PMN;PB;
-Diretório Nacional;29.549.433/0001-82;24/08/2010;33000106524;R$ 125,00;Estimado;ANTONIO GARCIA DE MEDEIROS;33222;Deputado Estadual;PMN;PB;
-Diretório Nacional;29.549.433/0001-82;24/08/2010;33000106525;R$ 37,50;Estimado;ANTONIO GARCIA DE MEDEIROS;33222;Deputado Estadual;PMN;PB;
-JOSE TARGINO MARANHAO;12.189.345/0001-14;23/09/2010;33000106523;R$ 523,56;Estimado;ANTONIO GARCIA DE MEDEIROS;33222;Deputado Estadual;PMN;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO GARCIA DE MEDEIROS;839.794.177-00;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 33222 - ANTONIO GARCIA DE MEDEIROS - PB - Deputado Estadual;
+AUTO POSTO DE COMBUSTIVEIS MANGABEIRA LTDA;09.062.603/0001-92;03/10/2010;       Combustíveis e lubrificantes;R$ 190,00;Cheque; -  -  / 33222 - ANTONIO GARCIA DE MEDEIROS - PB - Deputado Estadual;
+Diretório Nacional;29.549.433/0001-82;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 125,00;Estimado;Direção Nacional - PMN -  / 33222 - ANTONIO GARCIA DE MEDEIROS - PB - Deputado Estadual;
+Diretório Nacional;29.549.433/0001-82;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 37,50;Estimado;Direção Nacional - PMN -  / 33222 - ANTONIO GARCIA DE MEDEIROS - PB - Deputado Estadual;
+GIOVANA MIRANDA TEJO DI PACE;010.946.464-82;29/07/2010;       Serviços prestados por terceiros;R$ 307,68;Cheque; -  -  / 33222 - ANTONIO GARCIA DE MEDEIROS - PB - Deputado Estadual;
+JOSE TARGINO MARANHAO;12.189.345/0001-14;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 523,56;Estimado;15 -  - PMDB -  - Governador / 33222 - ANTONIO GARCIA DE MEDEIROS - PB - Deputado Estadual;

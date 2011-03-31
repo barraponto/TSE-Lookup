@@ -1,6 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.229.925/0001-98;15/09/2010;44000048239;R$ 2.077,26;Estimado;DORGIVAL DA SILVA;4444;Deputado Federal;PRP;MT;
-ELEICAO 2010 DORJIVAL DA SILVA DEPUTADO FEDERAL;430.072.524-15;27/10/2010;44000048221;R$ 1.675,20;Depósito em espécie;DORGIVAL DA SILVA;4444;Deputado Federal;PRP;MT;
-ELEICAO 2010 DORJIVAL DA SILVA DEPUTADO FEDERAL;430.072.524-15;10/09/2010;44000048224;R$ 5.000,00;Estimado;DORGIVAL DA SILVA;4444;Deputado Federal;PRP;MT;
-MAURILIA CESAR DEDOJA-ME;07.220.050/0001-23;27/08/2010;44000048222;R$ 418,00;Estimado;DORGIVAL DA SILVA;4444;Deputado Federal;PRP;MT;
-SIRLIE R PEREIRA;03.837.148/0001-73;27/08/2010;44000048223;R$ 210,00;Estimado;DORGIVAL DA SILVA;4444;Deputado Federal;PRP;MT;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO CAMINHONEIRO LTDA;10.764.227/0001-67;27/10/2010;       Combustíveis e lubrificantes;R$ 900,00;Cheque; -  -  / 4444 - DORGIVAL DA SILVA - MT - Deputado Federal;
+Comitê Financeiro Único;12.229.925/0001-98;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.077,26;Estimado;Comitê Financeiro Único - PRP -  / 4444 - DORGIVAL DA SILVA - MT - Deputado Federal;
+ELEICAO 2010 DORJIVAL DA SILVA DEPUTADO FEDERAL;430.072.524-15;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 5.000,00;Estimado; -  -  / 4444 - DORGIVAL DA SILVA - MT - Deputado Federal;
+GRAFICA EDITORA DIARIO DA SERRA;01.828.544/0001-09;20/09/2010;       Publicidade por jornais e revistas;R$ 237,60;Cheque; -  -  / 4444 - DORGIVAL DA SILVA - MT - Deputado Federal;
+GRAFICA EDITORA DIARIO DA SERRA;01.828.544/0001-09;23/09/2010;       Publicidade por jornais e revistas;R$ 237,60;Cheque; -  -  / 4444 - DORGIVAL DA SILVA - MT - Deputado Federal;
+MAURILIA CESAR DEDOJA-ME;07.220.050/0001-23;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 418,00;Estimado; -  -  / 4444 - DORGIVAL DA SILVA - MT - Deputado Federal;
+SIRLIE R PEREIRA;03.837.148/0001-73;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 210,00;Estimado; -  -  / 4444 - DORGIVAL DA SILVA - MT - Deputado Federal;
+T,K, DIEL;10.544.391/0001-69;27/10/2010;       Publicidade por jornais e revistas;R$ 300,00;Cheque; -  -  / 4444 - DORGIVAL DA SILVA - MT - Deputado Federal;

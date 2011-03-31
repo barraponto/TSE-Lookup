@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.229.907/0001-06;16/08/2010;25000620505;R$ 360,00;Estimado;PAULO AFONSO MIRANDA LIMA;25111;Deputado Distrital;DEM;DF;
-Diretório Estadual/Distrital;12.229.907/0001-06;10/08/2010;25000620504;R$ 360,00;Estimado;PAULO AFONSO MIRANDA LIMA;25111;Deputado Distrital;DEM;DF;
-ELEICOES 2010 JAQUELINE MARIA RORIZ DEP FEDERAL;12.198.906/0001-41;02/10/2010;25000620507;R$ 220,00;Estimado;PAULO AFONSO MIRANDA LIMA;25111;Deputado Distrital;DEM;DF;
-ELEICOES 2010 JAQUELINE MARIA RORIZ DEP FEDERAL;12.198.906/0001-41;02/10/2010;25000620506;R$ 100,00;Estimado;PAULO AFONSO MIRANDA LIMA;25111;Deputado Distrital;DEM;DF;
-FREIDES DE FARIA LEAO;523.650.341-87;15/07/2010;25000620503;R$ 2.500,00;Estimado;PAULO AFONSO MIRANDA LIMA;25111;Deputado Distrital;DEM;DF;
-HEILTON LUIZ DE SOUZA LANDIM;564.621.741-53;17/07/2010;25000620501;R$ 1.000,00;Estimado;PAULO AFONSO MIRANDA LIMA;25111;Deputado Distrital;DEM;DF;
-PAULO AFONSO MIRANDA LIMA;296.103.201-63;13/07/2010;25000620502;R$ 1.972,00;Estimado;PAULO AFONSO MIRANDA LIMA;25111;Deputado Distrital;DEM;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.229.907/0001-06;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Direção Estadual/Distrital - DEM -  / 25111 - PAULO AFONSO MIRANDA LIMA - DF - Deputado Distrital;
+Diretório Estadual/Distrital;12.229.907/0001-06;16/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Direção Estadual/Distrital - DEM -  / 25111 - PAULO AFONSO MIRANDA LIMA - DF - Deputado Distrital;
+ELEICOES 2010 JAQUELINE MARIA RORIZ DEP FEDERAL;12.198.906/0001-41;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 220,00;Estimado;3320 -  - PMN -  - Deputado Federal / 25111 - PAULO AFONSO MIRANDA LIMA - DF - Deputado Distrital;
+ELEICOES 2010 JAQUELINE MARIA RORIZ DEP FEDERAL;12.198.906/0001-41;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado;3320 -  - PMN -  - Deputado Federal / 25111 - PAULO AFONSO MIRANDA LIMA - DF - Deputado Distrital;
+FREIDES DE FARIA LEAO;523.650.341-87;15/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.500,00;Estimado; -  -  / 25111 - PAULO AFONSO MIRANDA LIMA - DF - Deputado Distrital;
+HEILTON LUIZ DE SOUZA LANDIM;564.621.741-53;17/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 25111 - PAULO AFONSO MIRANDA LIMA - DF - Deputado Distrital;
+PAULO AFONSO MIRANDA LIMA;296.103.201-63;13/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.972,00;Estimado; -  -  / 25111 - PAULO AFONSO MIRANDA LIMA - DF - Deputado Distrital;

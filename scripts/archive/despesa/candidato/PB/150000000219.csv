@@ -1,4 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FABIANO SOARES BATISTA;236.355.174-53;12/08/2010;70000143401;R$ 95,00;Depósito em espécie;FABIANO SOARES BATISTA;70234;Deputado Estadual;PT do B;PB;
-FABIANO SOARES BATISTA;236.355.174-53;14/09/2010;70000143403;R$ 250,00;Depósito em espécie;FABIANO SOARES BATISTA;70234;Deputado Estadual;PT do B;PB;
-FABIANO SOARES BATISTA;236.355.174-53;18/08/2010;70000143402;R$ 250,00;Depósito em espécie;FABIANO SOARES BATISTA;70234;Deputado Estadual;PT do B;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ART IMPACT - GALVANNE RIVEIRA CAVALCANTE BORGES ME;07.087.863/0001-97;11/08/2010;       Publicidade por materiais impressos;R$ 90,00;Cheque; -  -  / 70234 - FABIANO SOARES BATISTA - PB - Deputado Estadual;
+JRC GRAFICA E EDITORA - JOHEBE DA ROCHA CAVALCANTE ME;00.688.399/0001-45;20/08/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 70234 - FABIANO SOARES BATISTA - PB - Deputado Estadual;

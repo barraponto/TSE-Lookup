@@ -1,2 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-RENATO MIRANDA ROCHA;584.557.011-53;13/09/2010;17000029751;R$ 1.500,00;Transferência eletrônica;RENATO MIRANDA ROCHA;1790;Deputado Federal;PSL;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFIBI GRAFICA LTDA ME;05.926.960/0001-09;15/09/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 1790 - RENATO MIRANDA ROCHA - DF - Deputado Federal;
+RICARDO MARTINS SOARES;699.312.591-91;02/10/2010;       Despesas com pessoal;R$ 510,00;Cheque; -  -  / 1790 - RENATO MIRANDA ROCHA - DF - Deputado Federal;
+VG COMERCIO DE CONFECCOES E PUBLICIDADE LTDA ME;04.417.165/0001-14;13/09/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 1790 - RENATO MIRANDA ROCHA - DF - Deputado Federal;
+VG COMERCIO DE CONFECCOES E PUBLICIDADE LTDA ME;04.417.165/0001-14;30/09/2010;       Publicidade por materiais impressos;R$ 76,00;Cheque; -  -  / 1790 - RENATO MIRANDA ROCHA - DF - Deputado Federal;
+;;13/09/2010;       Encargos financeiros e taxas bancárias;R$ 14,00;Débito em conta; -  -  / 1790 - RENATO MIRANDA ROCHA - DF - Deputado Federal;

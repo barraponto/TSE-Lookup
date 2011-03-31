@@ -1,7 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALCI LOPES DE MOURA;807.301.591-91;04/08/2010;43001905447;R$ 2.000,00;Estimado;VANDELY MARTINS ARRUDA;43333;Deputado Estadual;PV;MT;
-Comitê Financeiro Único;12.221.863/0001-78;24/09/2010;43001905446;R$ 2.500,00;Transferência eletrônica;VANDELY MARTINS ARRUDA;43333;Deputado Estadual;PV;MT;
-Comitê Financeiro Único;12.221.863/0001-78;16/08/2010;43001905444;R$ 2.500,00;Transferência eletrônica;VANDELY MARTINS ARRUDA;43333;Deputado Estadual;PV;MT;
-Comitê Financeiro Único;12.221.863/0001-78;24/08/2010;43001905443;R$ 4.500,00;Transferência eletrônica;VANDELY MARTINS ARRUDA;43333;Deputado Estadual;PV;MT;
-ELEIÇOES 2010 MAUTO MENDES FERREIRA;12.199.024/0001-09;24/09/2010;43001905445;R$ 5.000,00;Transferência eletrônica;VANDELY MARTINS ARRUDA;43333;Deputado Estadual;PV;MT;
-ELEIÇÕES 2010 OTAVIANO OLAVO PIVETA;12.198.935/0001-03;28/09/2010;43001905449;R$ 5.000,00;Cheque;VANDELY MARTINS ARRUDA;43333;Deputado Estadual;PV;MT;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALCI LOPES DE MOURA;807.301.591-91;04/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado; -  -  / 43333 - VANDELY MARTINS ARRUDA - MT - Deputado Estadual;
+C A V COMUNICAÇÃO VISUAL LTDA EPP;03.066.320/0002-13;05/09/2010;       Publicidade por materiais impressos;R$ 2.080,00;Cheque; -  -  / 43333 - VANDELY MARTINS ARRUDA - MT - Deputado Estadual;
+EDITORA DE LIZ LTDA;07.773.026/0001-11;20/09/2010;       Publicidade por materiais impressos;R$ 800,00;Cheque; -  -  / 43333 - VANDELY MARTINS ARRUDA - MT - Deputado Estadual;
+REI FORTE COMBUSTIVEIS LTDA;03.856.504/0001-04;20/09/2010;       Combustíveis e lubrificantes;R$ 914,20;Cheque; -  -  / 43333 - VANDELY MARTINS ARRUDA - MT - Deputado Estadual;
+REI FORTE COMBUSTIVEIS LTDA;03.856.504/0001-04;02/09/2010;       Combustíveis e lubrificantes;R$ 3.000,00;Cheque; -  -  / 43333 - VANDELY MARTINS ARRUDA - MT - Deputado Estadual;
+REI FORTE COMBUSTIVEIS LTDA;03.856.504/0001-04;15/09/2010;       Combustíveis e lubrificantes;R$ 5.700,00;Cheque; -  -  / 43333 - VANDELY MARTINS ARRUDA - MT - Deputado Estadual;
+RUBENS ROBERTO FERNANDES;328.766.701-78;08/08/2010;       Cessão ou Locação de Veículos;R$ 4.000,00;Cheque; -  -  / 43333 - VANDELY MARTINS ARRUDA - MT - Deputado Estadual;
+RUBENS ROBERTO FERNANDES;328.766.701-78;08/08/2010;       Cessão ou Locação de Veículos;R$ 3.000,00;Cheque; -  -  / 43333 - VANDELY MARTINS ARRUDA - MT - Deputado Estadual;
+;;01/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 43333 - VANDELY MARTINS ARRUDA - MT - Deputado Estadual;
+;;20/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 43333 - VANDELY MARTINS ARRUDA - MT - Deputado Estadual;

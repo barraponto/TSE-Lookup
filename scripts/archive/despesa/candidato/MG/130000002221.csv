@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS AUGUSTO MARÇAL;491.982.896-91;16/07/2010;12001588651;R$ 4.100,00;Transferência eletrônica;CARLOS AUGUSTO MARÇAL;12789;Deputado Estadual;PDT;MG;
-CARLOS AUGUSTO MARÇAL;491.982.896-91;27/08/2010;12001588654;R$ 2.100,00;Transferência eletrônica;CARLOS AUGUSTO MARÇAL;12789;Deputado Estadual;PDT;MG;
-CARLOS AUGUSTO MARÇAL;491.982.896-91;08/09/2010;12001588655;R$ 800,00;Transferência eletrônica;CARLOS AUGUSTO MARÇAL;12789;Deputado Estadual;PDT;MG;
-Comitê Financeiro Único;12.372.871/0001-15;31/08/2010;12001588652;R$ 1.320,00;Estimado;CARLOS AUGUSTO MARÇAL;12789;Deputado Estadual;PDT;MG;
-Comitê Financeiro Único;12.372.871/0001-15;12/08/2010;12001588653;R$ 1.197,84;Estimado;CARLOS AUGUSTO MARÇAL;12789;Deputado Estadual;PDT;MG;
-HAROLDO DARTAGIAN DE CARVALHO;12.235.242/0001-43;02/09/2010;12001588657;R$ 214,55;Estimado;CARLOS AUGUSTO MARÇAL;12789;Deputado Estadual;PDT;MG;
-JOSIAS ALVES DA SILVA;678.185.526-34;02/09/2010;12001588656;R$ 290,00;Estimado;CARLOS AUGUSTO MARÇAL;12789;Deputado Estadual;PDT;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.372.871/0001-15;12/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.197,84;Estimado;Comitê Financeiro Único - PDT -  / 12789 - CARLOS AUGUSTO MARÇAL - MG - Deputado Estadual;
+Comitê Financeiro Único;12.372.871/0001-15;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.320,00;Estimado;Comitê Financeiro Único - PDT -  / 12789 - CARLOS AUGUSTO MARÇAL - MG - Deputado Estadual;
+HAROLDO DARTAGIAN DE CARVALHO;12.235.242/0001-43;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 214,55;Estimado;1280 -  - PDT -  - Deputado Federal / 12789 - CARLOS AUGUSTO MARÇAL - MG - Deputado Estadual;
+JOSIAS ALVES DA SILVA;678.185.526-34;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 290,00;Estimado; -  -  / 12789 - CARLOS AUGUSTO MARÇAL - MG - Deputado Estadual;
+OUT WAY PRODUÇÕES LTDA ME;07.782.192/0001-84;16/07/2010;       Publicidade por materiais impressos;R$ 3.800,00;Cheque; -  -  / 12789 - CARLOS AUGUSTO MARÇAL - MG - Deputado Estadual;
+OUT WAY PRODUÇÕES LTDA ME;07.782.192/0001-84;09/08/2010;       Publicidade por materiais impressos;R$ 2.360,00;Não informado; -  -  / 12789 - CARLOS AUGUSTO MARÇAL - MG - Deputado Estadual;
+OUT WAY PRODUÇÕES LTDA ME;07.782.192/0001-84;08/09/2010;       Publicidade por materiais impressos;R$ 800,00;Cheque; -  -  / 12789 - CARLOS AUGUSTO MARÇAL - MG - Deputado Estadual;

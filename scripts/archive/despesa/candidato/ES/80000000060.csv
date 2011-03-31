@@ -1,5 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.235.346/0001-58;30/09/2010;11000167461;R$ 900,00;Cheque;WANDERSON DA SILVA LEITE;11114;Deputado Estadual;PP;ES;
-NEUZA HERMENEGILDA DA SILVA;348.743.566-72;07/10/2010;11000167463;R$ 350,00;Depósito em espécie;WANDERSON DA SILVA LEITE;11114;Deputado Estadual;PP;ES;
-WANDERSON DA SILVA LEITE;081.287.027-18;13/09/2010;11000167464;R$ 19,50;Depósito em espécie;WANDERSON DA SILVA LEITE;11114;Deputado Estadual;PP;ES;
-WANDERSON DA SILVA LEITE;081.287.027-18;30/09/2010;11000167462;R$ 200,00;Depósito em espécie;WANDERSON DA SILVA LEITE;11114;Deputado Estadual;PP;ES;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADMAR MOREIRA DOS SANTOS;031.754.607-47;15/09/2010;       Despesas com pessoal;R$ 400,00;Cheque; -  -  / 11114 - WANDERSON DA SILVA LEITE - ES - Deputado Estadual;
+AUTO LIDER RENT A CAR;06.662.020/0001-04;02/10/2010;       Diversas a especificar;R$ 680,00;Cheque; -  -  / 11114 - WANDERSON DA SILVA LEITE - ES - Deputado Estadual;
+AUTO POSTO PERIM LTDA;71.221.600/0001-28;02/10/2010;       Combustíveis e lubrificantes;R$ 113,00;Cheque; -  -  / 11114 - WANDERSON DA SILVA LEITE - ES - Deputado Estadual;
+GRAFICA E EDITORA GEP;27.252.147/0001-25;04/08/2010;       Publicidade por materiais impressos;R$ 32,50;Cheque; -  -  / 11114 - WANDERSON DA SILVA LEITE - ES - Deputado Estadual;
+GRAFICA ESPIRITO SANTO;30.955.538/0001-10;27/09/2010;       Publicidade por materiais impressos;R$ 60,00;Cheque; -  -  / 11114 - WANDERSON DA SILVA LEITE - ES - Deputado Estadual;
+GRAFICA SANTO ANTONIO;28.156.297/0001-06;30/09/2010;       Publicidade por materiais impressos;R$ 30,00;Cheque; -  -  / 11114 - WANDERSON DA SILVA LEITE - ES - Deputado Estadual;
+GRAFITUSA S/A;05.461.408/0001-84;30/09/2010;       Publicidade por materiais impressos;R$ 29,16;Cheque; -  -  / 11114 - WANDERSON DA SILVA LEITE - ES - Deputado Estadual;
+POSTO DE SERVIÇO AGUA DOCE LTDA;30.578.009/0001-45;03/10/2010;       Combustíveis e lubrificantes;R$ 50,00;Cheque; -  -  / 11114 - WANDERSON DA SILVA LEITE - ES - Deputado Estadual;
+POSTO DE SERVIÇO AGUA DOCE LTDA;30.578.009/0001-45;03/10/2010;       Combustíveis e lubrificantes;R$ 50,00;Cheque; -  -  / 11114 - WANDERSON DA SILVA LEITE - ES - Deputado Estadual;
+;;13/09/2010;       Encargos financeiros e taxas bancárias;R$ 19,50;Transferência eletrônica; -  -  / 11114 - WANDERSON DA SILVA LEITE - ES - Deputado Estadual;

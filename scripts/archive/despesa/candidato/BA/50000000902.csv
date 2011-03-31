@@ -1,4 +1,13 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;22000011003;R$ 6.678,00;Estimado;REINALDO TEIXEIRA BRAGA;22555;Deputado Estadual;PR;BA;
-REINALDO BRAGA;047.108.515-49;26/07/2010;22000011001;R$ 50.000,00;Depósito em espécie;REINALDO TEIXEIRA BRAGA;22555;Deputado Estadual;PR;BA;
-REINALDO TEIXEIRA BRAGA FILHO;787.152.025-34;01/08/2010;22000011002;R$ 4.500,00;Estimado;REINALDO TEIXEIRA BRAGA;22555;Deputado Estadual;PR;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AVELINO NOGUEIRA DA SILVA FILHO ME;07.305.104/0001-53;29/09/2010;       Serviços prestados por terceiros;R$ 12.150,00;Cheque; -  -  / 22555 - REINALDO TEIXEIRA BRAGA - BA - Deputado Estadual;
+AVELINO NOGUEIRA DA SILVA FILHO ME;07.305.104/0001-53;30/07/2010;       Serviços prestados por terceiros;R$ 6.000,00;Cheque; -  -  / 22555 - REINALDO TEIXEIRA BRAGA - BA - Deputado Estadual;
+CAARGRALI CARAIBAS GRAFICAS LTDA;14.048.862/0001-07;29/09/2010;       Publicidade por materiais impressos;R$ 4.850,00;Cheque; -  -  / 22555 - REINALDO TEIXEIRA BRAGA - BA - Deputado Estadual;
+CHIC GAS LTDA;07.369.831/0001-84;29/09/2010;       Combustíveis e lubrificantes;R$ 9.671,10;Cheque; -  -  / 22555 - REINALDO TEIXEIRA BRAGA - BA - Deputado Estadual;
+Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 6.678,00;Estimado;Comitê Financeiro Único - PMDB -  / 22555 - REINALDO TEIXEIRA BRAGA - BA - Deputado Estadual;
+EMPRESA EDITORA ATARDE S/A;15.111.297/0001-30;03/09/2010;       Publicidade por jornais e revistas;R$ 10.319,40;Cheque; -  -  / 22555 - REINALDO TEIXEIRA BRAGA - BA - Deputado Estadual;
+JOSEILTON VIEIRA FRAGA;547.148.345-68;30/08/2010;       Cessão ou Locação de Veículos;R$ 4.000,00;Cheque; -  -  / 22555 - REINALDO TEIXEIRA BRAGA - BA - Deputado Estadual;
+JUSTINO DOS SANTOS;317.471.835-04;30/08/2010;       Cessão ou Locação de Veículos;R$ 1.500,00;Cheque; -  -  / 22555 - REINALDO TEIXEIRA BRAGA - BA - Deputado Estadual;
+KLEYTON CARVALHO PAIVA;044.495.275-69;30/08/2010;       Cessão ou Locação de Veículos;R$ 1.500,00;Cheque; -  -  / 22555 - REINALDO TEIXEIRA BRAGA - BA - Deputado Estadual;
+REINALDO TEIXEIRA BRAGA FILHO;787.152.025-34;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.500,00;Estimado; -  -  / 22555 - REINALDO TEIXEIRA BRAGA - BA - Deputado Estadual;
+;;28/07/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 22555 - REINALDO TEIXEIRA BRAGA - BA - Deputado Estadual;
+;;17/08/2010;       Encargos financeiros e taxas bancárias;R$ 6,60;Débito em conta; -  -  / 22555 - REINALDO TEIXEIRA BRAGA - BA - Deputado Estadual;

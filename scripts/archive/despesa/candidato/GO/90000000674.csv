@@ -1,5 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-SEBASTIÃO LOURENÇO SOBRINHO;163.248.461-72;04/08/2010;10000054051;R$ 200,00;Transferência eletrônica;SEBASTIÃO LOURENÇO SOBRINHO;10210;Deputado Estadual;PRB;GO;
-SEBASTIÃO LOURENÇO SOBRINHO;163.248.461-72;04/09/2010;10000054054;R$ 3.250,00;Estimado;SEBASTIÃO LOURENÇO SOBRINHO;10210;Deputado Estadual;PRB;GO;
-SEBASTIÃO LOURENÇO SOBRINHO;163.248.461-72;31/08/2010;10000054053;R$ 60,00;Depósito em espécie;SEBASTIÃO LOURENÇO SOBRINHO;10210;Deputado Estadual;PRB;GO;
-SEBASTIÃO LOURENÇO SOBRINHO;163.248.461-72;31/08/2010;10000054052;R$ 275,00;Depósito em espécie;SEBASTIÃO LOURENÇO SOBRINHO;10210;Deputado Estadual;PRB;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+A B MILHOMENS;11.459.404/0001-64;31/08/2010;       Publicidade por materiais impressos;R$ 60,00;Transferência eletrônica; -  -  / 10210 - SEBASTIÃO LOURENÇO SOBRINHO - GO - Deputado Estadual;
+EDITORA VISAO - E P LUZ - VISÃO;04.273.807/0001-59;27/08/2010;       Publicidade por materiais impressos;R$ 275,00;Transferência eletrônica; -  -  / 10210 - SEBASTIÃO LOURENÇO SOBRINHO - GO - Deputado Estadual;
+PIZZARIA E RESTAURANTE EL - SHADAY LTDA;04.946.990/0001-06;09/08/2010;       Alimentação;R$ 22,10;Transferência eletrônica; -  -  / 10210 - SEBASTIÃO LOURENÇO SOBRINHO - GO - Deputado Estadual;
+POSTO OPÇAO LTDA;08.943.405/0001-75;11/08/2010;       Combustíveis e lubrificantes;R$ 46,12;Transferência eletrônica; -  -  / 10210 - SEBASTIÃO LOURENÇO SOBRINHO - GO - Deputado Estadual;
+POSTO SAO FRANCISCO;09.304.078/0001-74;27/09/2010;       Combustíveis e lubrificantes;R$ 15,00;Transferência eletrônica; -  -  / 10210 - SEBASTIÃO LOURENÇO SOBRINHO - GO - Deputado Estadual;
+POSTO 13 LTDA;01.840.578/0001-19;14/08/2010;       Combustíveis e lubrificantes;R$ 30,00;Transferência eletrônica; -  -  / 10210 - SEBASTIÃO LOURENÇO SOBRINHO - GO - Deputado Estadual;
+POSTO 13 LTDA;01.840.578/0001-19;07/08/2010;       Combustíveis e lubrificantes;R$ 48,17;Transferência eletrônica; -  -  / 10210 - SEBASTIÃO LOURENÇO SOBRINHO - GO - Deputado Estadual;
+ROCHA PRODUTOS ALIMENTICIOS LTDA - ME;09.582.819/0001-89;11/08/2010;       Alimentação;R$ 38,44;Transferência eletrônica; -  -  / 10210 - SEBASTIÃO LOURENÇO SOBRINHO - GO - Deputado Estadual;
+SEBASTIÃO LOURENÇO SOBRINHO;163.248.461-72;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.250,00;Estimado; -  -  / 10210 - SEBASTIÃO LOURENÇO SOBRINHO - GO - Deputado Estadual;
+;;28/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,17;Transferência eletrônica; -  -  / 10210 - SEBASTIÃO LOURENÇO SOBRINHO - GO - Deputado Estadual;

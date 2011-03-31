@@ -1,2 +1,14 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-NELSON PADOVANI;12.168.474/0001-26;21/09/2010;20000000001;R$ 17.750,00;Depósito em espécie;JOAO ALBERGONI;20740;Deputado Estadual;PSC;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADEODATO MARTINS TOSTA;372.786.659-49;24/09/2010;       Cessão ou Locação de Veículos;R$ 2.000,00;Cheque; -  -  / 20740 - JOAO ALBERGONI - PR - Deputado Estadual;
+CARINA DE FATIMA RIBEIRO;063.337.319-27;28/09/2010;       Despesas com pessoal;R$ 510,00;Cheque; -  -  / 20740 - JOAO ALBERGONI - PR - Deputado Estadual;
+DANIELA MARTINS;060.664.139-45;28/09/2010;       Despesas com pessoal;R$ 510,00;Cheque; -  -  / 20740 - JOAO ALBERGONI - PR - Deputado Estadual;
+FABIANA APARECIDA DOS SANTOS;042.993.099-28;28/09/2010;       Despesas com pessoal;R$ 510,00;Cheque; -  -  / 20740 - JOAO ALBERGONI - PR - Deputado Estadual;
+LUANE RUFINO BROCA JOAQUIM;009.105.949-61;28/09/2010;       Despesas com pessoal;R$ 510,00;Cheque; -  -  / 20740 - JOAO ALBERGONI - PR - Deputado Estadual;
+LUCIANA APARECIDA DOS SANTOS LEITE;059.236.289-29;28/09/2010;       Despesas com pessoal;R$ 510,00;Cheque; -  -  / 20740 - JOAO ALBERGONI - PR - Deputado Estadual;
+MARIA TEREZA GONÇALVES;056.740.889-26;28/09/2010;       Despesas com pessoal;R$ 510,00;Cheque; -  -  / 20740 - JOAO ALBERGONI - PR - Deputado Estadual;
+NATANAEL MANTOVANI;529.921.799-49;01/10/2010;       Cessão ou Locação de Veículos;R$ 1.100,00;Cheque; -  -  / 20740 - JOAO ALBERGONI - PR - Deputado Estadual;
+PATRICIA DE LIMA;060.010.899-65;28/09/2010;       Despesas com pessoal;R$ 510,00;Cheque; -  -  / 20740 - JOAO ALBERGONI - PR - Deputado Estadual;
+RAINHA DAS COLINAS IND. GRÁFICA LTDA;80.796.642/0001-88;27/09/2010;       Publicidade por materiais impressos;R$ 795,00;Cheque; -  -  / 20740 - JOAO ALBERGONI - PR - Deputado Estadual;
+VALDEMAR ANTONIO VALENTINI;239.601.758-68;24/09/2010;       Locação/cessão de bens imóveis;R$ 1.275,00;Cheque; -  -  / 20740 - JOAO ALBERGONI - PR - Deputado Estadual;
+VITOR FERREIRA GANDRA;980.753.069-53;23/09/2010;       Cessão ou Locação de Veículos;R$ 2.000,00;Cheque; -  -  / 20740 - JOAO ALBERGONI - PR - Deputado Estadual;
+VITOR FERREIRA GANDRA;980.753.069-53;23/09/2010;       Cessão ou Locação de Veículos;R$ 7.000,00;Cheque; -  -  / 20740 - JOAO ALBERGONI - PR - Deputado Estadual;

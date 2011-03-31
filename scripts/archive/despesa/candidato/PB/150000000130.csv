@@ -1,6 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-RICARDO VIEIRA COUTINHO;12.173.462/0001-90;30/09/2010;44000046425;R$ 48,00;Estimado;SERGIO FRANCISCO MAXIMO;44111;Deputado Estadual;PRP;PB;
-RICARDO VIEIRA COUTINHO;12.173.462/0001-90;01/10/2010;44000046424;R$ 1.192,50;Estimado;SERGIO FRANCISCO MAXIMO;44111;Deputado Estadual;PRP;PB;
-RICARDO VIEIRA COUTINHO;12.173.462/0001-90;09/08/2010;44000046423;R$ 125,00;Estimado;SERGIO FRANCISCO MAXIMO;44111;Deputado Estadual;PRP;PB;
-SÉRGIO FRANCISCO MÁXIMO;376.392.774-34;26/10/2010;44000046426;R$ 42,42;Depósito em espécie;SERGIO FRANCISCO MAXIMO;44111;Deputado Estadual;PRP;PB;
-SÉRGIO FRANCISCO MÁXIMO JÚNIOR;077.932.654-75;06/08/2010;44000046421;R$ 1.100,00;Depósito em espécie;SERGIO FRANCISCO MAXIMO;44111;Deputado Estadual;PRP;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DISMACON DIST MAT DE CONSTRUÇÃO LTDA;03.730.347/0001-88;16/08/2010;       Diversas a especificar;R$ 387,72;Cheque; -  -  / 44111 - SERGIO FRANCISCO MAXIMO - PB - Deputado Estadual;
+LUIZ CARLOS LACERDA VIRGOLINO;02.988.494/0001-90;13/08/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 44111 - SERGIO FRANCISCO MAXIMO - PB - Deputado Estadual;
+POSTO CAVALCANTI COMÉRCIO DE COMBUSTÍVEIS LTDA.;07.917.488/0001-65;31/08/2010;       Combustíveis e lubrificantes;R$ 200,00;Cheque; -  -  / 44111 - SERGIO FRANCISCO MAXIMO - PB - Deputado Estadual;
+RICARDO VIEIRA COUTINHO;12.173.462/0001-90;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 48,00;Estimado;40 -  - PSB -  - Governador / 44111 - SERGIO FRANCISCO MAXIMO - PB - Deputado Estadual;
+RICARDO VIEIRA COUTINHO;12.173.462/0001-90;09/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 125,00;Estimado;40 -  - PSB -  - Governador / 44111 - SERGIO FRANCISCO MAXIMO - PB - Deputado Estadual;
+RICARDO VIEIRA COUTINHO;12.173.462/0001-90;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.192,50;Estimado;40 -  - PSB -  - Governador / 44111 - SERGIO FRANCISCO MAXIMO - PB - Deputado Estadual;
+;;21/09/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 44111 - SERGIO FRANCISCO MAXIMO - PB - Deputado Estadual;
+;;06/08/2010;       Encargos financeiros e taxas bancárias;R$ 19,00;Débito em conta; -  -  / 44111 - SERGIO FRANCISCO MAXIMO - PB - Deputado Estadual;
+;;24/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 44111 - SERGIO FRANCISCO MAXIMO - PB - Deputado Estadual;
+;;21/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 44111 - SERGIO FRANCISCO MAXIMO - PB - Deputado Estadual;
+;;24/09/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 44111 - SERGIO FRANCISCO MAXIMO - PB - Deputado Estadual;

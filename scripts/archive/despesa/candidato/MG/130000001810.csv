@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-SEBASTIAO RIBEIRO DOS SANTOS;037.589.216-86;09/09/2010;50000233452;R$ 50,00;Depósito em espécie;SEBASTIAO RIBEIRO DOS SANTOS;50060;Deputado Estadual;PSOL;MG;
-SEBASTIAO RIBEIRO DOS SANTOS;037.589.216-86;09/08/2010;50000233451;R$ 100,00;Depósito em espécie;SEBASTIAO RIBEIRO DOS SANTOS;50060;Deputado Estadual;PSOL;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CEVAN EMPREENDIMENTOS LTDA;05.639.764/0001-45;09/09/2010;       Combustíveis e lubrificantes;R$ 49,50;Cheque; -  -  / 50060 - SEBASTIAO RIBEIRO DOS SANTOS - MG - Deputado Estadual;
+NELSON BARBOSA DA SILVA;920.730.506-20;11/08/2010;       Produção de jingles, vinhetas e slogans;R$ 60,00;Cheque; -  -  / 50060 - SEBASTIAO RIBEIRO DOS SANTOS - MG - Deputado Estadual;
+POSTO VELHO CHICO LTDA;05.410.945/0001-03;11/08/2010;       Combustíveis e lubrificantes;R$ 29,00;Cheque; -  -  / 50060 - SEBASTIAO RIBEIRO DOS SANTOS - MG - Deputado Estadual;

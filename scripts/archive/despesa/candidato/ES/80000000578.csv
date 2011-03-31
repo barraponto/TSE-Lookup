@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-RENATO CASAGRANDE;12.179.825/0001-02;01/10/2010;31000037951;R$ 811,68;Estimado;MARIA DAS GRAÇAS DE ARAUJO;31831;Deputado Estadual;PHS;ES;
-RENATO CASAGRANDE;12.179.825/0001-02;01/10/2010;31000037953;R$ 330,03;Estimado;MARIA DAS GRAÇAS DE ARAUJO;31831;Deputado Estadual;PHS;ES;
-RENATO CASAGRANDE;12.179.825/0001-02;01/10/2010;31000037952;R$ 324,67;Estimado;MARIA DAS GRAÇAS DE ARAUJO;31831;Deputado Estadual;PHS;ES;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+RENATO CASAGRANDE;12.179.825/0001-02;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 811,68;Estimado;40 -  - PSB -  - Governador / 31831 - MARIA DAS GRAÇAS DE ARAUJO - ES - Deputado Estadual;
+RENATO CASAGRANDE;12.179.825/0001-02;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 330,03;Estimado;40 -  - PSB -  - Governador / 31831 - MARIA DAS GRAÇAS DE ARAUJO - ES - Deputado Estadual;
+RENATO CASAGRANDE;12.179.825/0001-02;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 324,67;Estimado;40 -  - PSB -  - Governador / 31831 - MARIA DAS GRAÇAS DE ARAUJO - ES - Deputado Estadual;

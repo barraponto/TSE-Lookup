@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 CLAIR DA FLORA MARTINS;12.172.378/0001-51;29/07/2010;43001777601;R$ 1.467,00;Estimado;WILSON DA SILVA BALTAZAR;43111;Deputado Estadual;PV;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 CLAIR DA FLORA MARTINS;12.172.378/0001-51;29/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.467,00;Estimado;4399 -  - PV -  - Deputado Federal / 43111 - WILSON DA SILVA BALTAZAR - PR - Deputado Estadual;

@@ -1,3 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ERICO JOSÉ DANTAS LIRA;090.378.025-91;27/09/2010;36000080332;R$ 1.000,00;Transferência eletrônica;ERICO JOSE DANTAS DE LIRA;36628;Deputado Estadual;PTC;BA;
-ERICO JOSÉ DANTAS LIRA;090.378.025-91;21/07/2010;36000080331;R$ 2.000,00;Depósito em espécie;ERICO JOSE DANTAS DE LIRA;36628;Deputado Estadual;PTC;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALDO OLIVEIRA SILVA;068.018.114-87;27/09/2010;       Serviços prestados por terceiros;R$ 500,00;Cheque; -  -  / 36628 - ERICO JOSE DANTAS DE LIRA - BA - Deputado Estadual;
+ALDO OLIVEIRA SILVA;068.018.114-87;21/07/2010;       Serviços prestados por terceiros;R$ 500,00;Cheque; -  -  / 36628 - ERICO JOSE DANTAS DE LIRA - BA - Deputado Estadual;
+ANGELA CRISTINA SANTOS BARBOSA;05.339.610/0001-38;17/09/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 36628 - ERICO JOSE DANTAS DE LIRA - BA - Deputado Estadual;
+ANGELA CRISTINA SANTOS BARBOSA;05.339.610/0001-38;22/07/2010;       Publicidade por materiais impressos;R$ 1.500,00;Cheque; -  -  / 36628 - ERICO JOSE DANTAS DE LIRA - BA - Deputado Estadual;

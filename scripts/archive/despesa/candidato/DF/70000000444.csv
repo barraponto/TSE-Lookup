@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.270.065/0001-36;21/09/2010;27000043955;R$ 360,00;Estimado;ROBERT JOSE MIRANDA LIMA;27444;Deputado Distrital;PSDC;DF;
-Comitê Financeiro Único;12.270.065/0001-36;14/09/2010;27000043954;R$ 360,00;Estimado;ROBERT JOSE MIRANDA LIMA;27444;Deputado Distrital;PSDC;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.270.065/0001-36;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Único - PSDC -  / 27444 - ROBERT JOSE MIRANDA LIMA - DF - Deputado Distrital;
+Comitê Financeiro Único;12.270.065/0001-36;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Único - PSDC -  / 27444 - ROBERT JOSE MIRANDA LIMA - DF - Deputado Distrital;

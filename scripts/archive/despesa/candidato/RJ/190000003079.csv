@@ -1,6 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;28/09/2010;65000147456;R$ 150,00;Estimado;MARCOS AZEVEDO LOBO;65111;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;28/09/2010;65000147457;R$ 150,00;Estimado;MARCOS AZEVEDO LOBO;65111;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;23/09/2010;65000147458;R$ 600,00;Estimado;MARCOS AZEVEDO LOBO;65111;Deputado Estadual;PC do B;RJ;
-ILKA VALÉRIA SANTOS;854.115.407-63;17/09/2010;65000147452;R$ 193,00;Cheque;MARCOS AZEVEDO LOBO;65111;Deputado Estadual;PC do B;RJ;
-ILKA VALÉRIA SANTOS;854.115.407-63;26/08/2010;65000147451;R$ 1.000,00;Cheque;MARCOS AZEVEDO LOBO;65111;Deputado Estadual;PC do B;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 65111 - MARCOS AZEVEDO LOBO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado;Comitê Financeiro Único - PMDB -  / 65111 - MARCOS AZEVEDO LOBO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 65111 - MARCOS AZEVEDO LOBO - RJ - Deputado Estadual;
+DAJA RESTAURAÇÃO E ARTES LTDA;08.747.567/0001-38;31/08/2010;       Publicidade por materiais impressos;R$ 500,00;Transferência eletrônica; -  -  / 65111 - MARCOS AZEVEDO LOBO - RJ - Deputado Estadual;
+DAJA RESTAURAÇÃO E ARTES LTDA;08.747.567/0001-38;27/09/2010;       Publicidade por materiais impressos;R$ 663,00;Transferência eletrônica; -  -  / 65111 - MARCOS AZEVEDO LOBO - RJ - Deputado Estadual;
+;;03/09/2010;       Encargos financeiros e taxas bancárias;R$ 3,00;Débito em conta; -  -  / 65111 - MARCOS AZEVEDO LOBO - RJ - Deputado Estadual;
+;;22/09/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Débito em conta; -  -  / 65111 - MARCOS AZEVEDO LOBO - RJ - Deputado Estadual;
+;;31/08/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Transferência eletrônica; -  -  / 65111 - MARCOS AZEVEDO LOBO - RJ - Deputado Estadual;

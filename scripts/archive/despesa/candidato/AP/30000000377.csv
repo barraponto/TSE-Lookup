@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.256.162/0001-74;27/08/2010;11000174703;R$ 240,00;Estimado;RIBANES NASCIMENTO DE AGUIAR;11196;Deputado Estadual;PP;AP;
-Comitê Financeiro Único;12.241.703/0001-90;27/08/2010;11000174702;R$ 400,00;Estimado;RIBANES NASCIMENTO DE AGUIAR;11196;Deputado Estadual;PP;AP;
-Comitê Financeiro Único;12.241.703/0001-90;01/10/2010;11000174705;R$ 550,00;Estimado;RIBANES NASCIMENTO DE AGUIAR;11196;Deputado Estadual;PP;AP;
-Comitê Financeiro Único;12.241.703/0001-90;27/08/2010;11000174704;R$ 1.100,00;Estimado;RIBANES NASCIMENTO DE AGUIAR;11196;Deputado Estadual;PP;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.256.162/0001-74;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 240,00;Estimado;Comitê Financeiro Único - PDT -  / 11196 - RIBANES NASCIMENTO DE AGUIAR - AP - Deputado Estadual;
+Comitê Financeiro Único;12.241.703/0001-90;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.100,00;Estimado;Comitê Financeiro Único - PP -  / 11196 - RIBANES NASCIMENTO DE AGUIAR - AP - Deputado Estadual;
+Comitê Financeiro Único;12.241.703/0001-90;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado;Comitê Financeiro Único - PP -  / 11196 - RIBANES NASCIMENTO DE AGUIAR - AP - Deputado Estadual;
+Comitê Financeiro Único;12.241.703/0001-90;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 550,00;Estimado;Comitê Financeiro Único - PP -  / 11196 - RIBANES NASCIMENTO DE AGUIAR - AP - Deputado Estadual;

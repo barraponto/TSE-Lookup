@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.173.503/0001-48;30/08/2010;20000073403;R$ 204,00;Estimado;MARILDA MARCELA DA LUZ;20190;Deputado Estadual;PSC;BA;
-Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;20000073405;R$ 1.908,00;Estimado;MARILDA MARCELA DA LUZ;20190;Deputado Estadual;PSC;BA;
-Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;20000073404;R$ 56,40;Estimado;MARILDA MARCELA DA LUZ;20190;Deputado Estadual;PSC;BA;
-ERIVELTON LIMA SANTANA;12.173.661/0001-06;10/09/2010;20000073407;R$ 500,00;Estimado;MARILDA MARCELA DA LUZ;20190;Deputado Estadual;PSC;BA;
-ERIVELTON LIMA SANTANA;12.173.661/0001-06;02/08/2010;20000073401;R$ 250,00;Estimado;MARILDA MARCELA DA LUZ;20190;Deputado Estadual;PSC;BA;
-GEDDEL QUADROS VIEIRA LIMA;12.173.503/0001-48;01/08/2010;20000073402;R$ 192,00;Estimado;MARILDA MARCELA DA LUZ;20190;Deputado Estadual;PSC;BA;
-MARILDA MARCELA DA LUZ;146.228.405-10;03/08/2010;20000073406;R$ 750,00;Transferência eletrônica;MARILDA MARCELA DA LUZ;20190;Deputado Estadual;PSC;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.173.503/0001-48;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 204,00;Estimado;Comitê Financeiro Único - PC do B -  / 20190 - MARILDA MARCELA DA LUZ - BA - Deputado Estadual;
+Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 56,40;Estimado;Comitê Financeiro Único - PMDB -  / 20190 - MARILDA MARCELA DA LUZ - BA - Deputado Estadual;
+Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.908,00;Estimado;Comitê Financeiro Único - PMDB -  / 20190 - MARILDA MARCELA DA LUZ - BA - Deputado Estadual;
+ERIVELTON LIMA SANTANA;12.173.661/0001-06;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;2012 -  - PSC -  - Deputado Federal / 20190 - MARILDA MARCELA DA LUZ - BA - Deputado Estadual;
+ERIVELTON LIMA SANTANA;12.173.661/0001-06;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;2012 -  - PSC -  - Deputado Federal / 20190 - MARILDA MARCELA DA LUZ - BA - Deputado Estadual;
+FALCÃO COMUNICAÇÃO PROPAGANDA E SERVIÇOS GRAFICOS LTDA;96.713.383/0001-14;22/07/2010;       Publicidade por materiais impressos;R$ 750,00;Cheque; -  -  / 20190 - MARILDA MARCELA DA LUZ - BA - Deputado Estadual;
+GEDDEL QUADROS VIEIRA LIMA;12.173.503/0001-48;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 192,00;Estimado;15 -  - PMDB -  - Governador / 20190 - MARILDA MARCELA DA LUZ - BA - Deputado Estadual;

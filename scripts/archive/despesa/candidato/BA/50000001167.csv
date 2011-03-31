@@ -1,4 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÕES 2010 WALTER DE FREITAS PINHEIRO;12.172.009/0001-69;24/09/2010;11000159682;R$ 5.000,00;Cheque;VASCO DA COSTA QUEIROZ;1100;Deputado Federal;PP;BA;
-PLOTETER BRASIL COMUNICAÇÕES VISUAL LTDA;03.115.308/0001-70;23/09/2010;11000159683;R$ 5.910,00;Estimado;VASCO DA COSTA QUEIROZ;1100;Deputado Federal;PP;BA;
-R AMARAL SILVA JUNIOR;10.142.303/0001-00;30/09/2010;11000159684;R$ 1.000,00;Estimado;VASCO DA COSTA QUEIROZ;1100;Deputado Federal;PP;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GIDEVAL DO AMPARO CERQUEIRA;708.090.895-72;20/09/2010;       Serviços prestados por terceiros;R$ 500,00;Transferência eletrônica; -  -  / 1100 - VASCO DA COSTA QUEIROZ - BA - Deputado Federal;
+IZAMAR ROCHA SIMÕES;028.050.125-00;20/08/2010;       Publicidade por carros de som;R$ 500,00;Transferência eletrônica; -  -  / 1100 - VASCO DA COSTA QUEIROZ - BA - Deputado Federal;
+IZAMAR ROCHA SIMÕES;028.050.125-00;20/08/2010;       Publicidade por carros de som;R$ 500,00;Transferência eletrônica; -  -  / 1100 - VASCO DA COSTA QUEIROZ - BA - Deputado Federal;
+JOÃO FERREIRA BATISTA;561.848.598-20;20/08/2010;       Publicidade por carros de som;R$ 500,00;Transferência eletrônica; -  -  / 1100 - VASCO DA COSTA QUEIROZ - BA - Deputado Federal;
+JOÃO FERREIRA BATISTA;561.848.598-20;20/08/2010;       Publicidade por carros de som;R$ 500,00;Transferência eletrônica; -  -  / 1100 - VASCO DA COSTA QUEIROZ - BA - Deputado Federal;
+PLOTETER BRASIL COMUNICAÇÕES VISUAL LTDA;03.115.308/0001-70;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 5.910,00;Estimado; -  -  / 1100 - VASCO DA COSTA QUEIROZ - BA - Deputado Federal;
+POSTO DOS TAXISTA LTDA;06.129.109/0001-00;30/09/2010;       Combustíveis e lubrificantes;R$ 2.500,00;Transferência eletrônica; -  -  / 1100 - VASCO DA COSTA QUEIROZ - BA - Deputado Federal;
+R AMARAL SILVA JUNIOR;10.142.303/0001-00;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 1100 - VASCO DA COSTA QUEIROZ - BA - Deputado Federal;

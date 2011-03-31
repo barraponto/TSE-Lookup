@@ -1,6 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;23/09/2010;23000187255;R$ 3.360,00;Transferência eletrônica;ROBERTO ATHAYDE DE HOLLANDA;23453;Deputado Estadual;PPS;PR;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;27/09/2010;23000187254;R$ 500,00;Estimado;ROBERTO ATHAYDE DE HOLLANDA;23453;Deputado Estadual;PPS;PR;
-ROBERTO ATHAYDE DE HOLLANDA;574.729.989-15;16/09/2010;23000187252;R$ 1.000,00;Transferência eletrônica;ROBERTO ATHAYDE DE HOLLANDA;23453;Deputado Estadual;PPS;PR;
-ROBERTO ATHAYDE DE HOLLANDA;574.729.989-15;02/09/2010;23000187251;R$ 2.500,00;Transferência eletrônica;ROBERTO ATHAYDE DE HOLLANDA;23453;Deputado Estadual;PPS;PR;
-RUBENS BUENO;12.172.903/0001-39;14/09/2010;23000187253;R$ 42,50;Estimado;ROBERTO ATHAYDE DE HOLLANDA;23453;Deputado Estadual;PPS;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;45 -  - PSDB -  - Governador / 23453 - ROBERTO ATHAYDE DE HOLLANDA - PR - Deputado Estadual;
+CARMÉLIO RIBEIRO;299.364.119-00;08/09/2010;       Despesas com pessoal;R$ 400,00;Cheque; -  -  / 23453 - ROBERTO ATHAYDE DE HOLLANDA - PR - Deputado Estadual;
+CLAUDIO ROBERTO DA PAIXÃO FERREIRA;021.753.299-33;28/09/2010;       Despesas com pessoal;R$ 3.300,00;Cheque; -  -  / 23453 - ROBERTO ATHAYDE DE HOLLANDA - PR - Deputado Estadual;
+DALTON MOREIRA;978.606.119-53;03/09/2010;       Despesas com pessoal;R$ 250,00;Cheque; -  -  / 23453 - ROBERTO ATHAYDE DE HOLLANDA - PR - Deputado Estadual;
+EDITORA TRIBUNA DE SÃO JOSÉ LTDA;75.235.358/0001-00;16/09/2010;       Publicidade por jornais e revistas;R$ 400,00;Cheque; -  -  / 23453 - ROBERTO ATHAYDE DE HOLLANDA - PR - Deputado Estadual;
+EDITORA TRIBUNA DE SÃO JOSÉ LTDA;75.235.358/0001-00;30/09/2010;       Publicidade por jornais e revistas;R$ 200,00;Cheque; -  -  / 23453 - ROBERTO ATHAYDE DE HOLLANDA - PR - Deputado Estadual;
+EDITORA TRIBUNA DE SÃO JOSÉ LTDA;75.235.358/0001-00;09/09/2010;       Publicidade por jornais e revistas;R$ 200,00;Cheque; -  -  / 23453 - ROBERTO ATHAYDE DE HOLLANDA - PR - Deputado Estadual;
+HELVÉTICA COMPOSIÇÕES GRÁFICAS;76.684.646/0001-05;30/09/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 23453 - ROBERTO ATHAYDE DE HOLLANDA - PR - Deputado Estadual;
+LAURO DE OLIVEIRA;664.065.369-91;27/09/2010;       Despesas com pessoal;R$ 250,00;Cheque; -  -  / 23453 - ROBERTO ATHAYDE DE HOLLANDA - PR - Deputado Estadual;
+PELICANO COMERCIO DE MATERIAIS PERSONALIZADOS LTDA;05.112.031/0001-58;02/09/2010;       Publicidade por materiais impressos;R$ 1.360,00;Cheque; -  -  / 23453 - ROBERTO ATHAYDE DE HOLLANDA - PR - Deputado Estadual;
+RUBENS BUENO;12.172.903/0001-39;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 42,50;Estimado;2300 -  - PPS -  - Deputado Federal / 23453 - ROBERTO ATHAYDE DE HOLLANDA - PR - Deputado Estadual;

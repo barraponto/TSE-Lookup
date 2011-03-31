@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANGELA DE ALENCAR ARARIPE PINHEIRO;081.864.303-00;15/09/2010;50000102462;R$ 100,00;Depósito em espécie;CESAR AUGUSTO LUCENA DA SILVA;50666;Deputado Estadual;PSOL;CE;
-IDEVALDO DA SILVA BODIÃO;574.374.408-49;12/08/2010;50000102461;R$ 200,00;Cheque;CESAR AUGUSTO LUCENA DA SILVA;50666;Deputado Estadual;PSOL;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JOSE EDSON DE SOUSA FILHO;901.830.293-72;30/09/2010;       Serviços prestados por terceiros;R$ 150,00;Cheque; -  -  / 50666 - CESAR AUGUSTO LUCENA DA SILVA - CE - Deputado Estadual;
+50666 - CESAR AUGUSTO LUCENA DA SILVA - DEPUTADO ESTADUAL;12.214.486/0001-40;23/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 150,00;Cheque;Comitê Financeiro Único - PSOL - CE / 50666 - CESAR AUGUSTO LUCENA DA SILVA - CE - Deputado Estadual;

@@ -1,6 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CAPEMISA SEGURADORA DE VIDA E PREVIDENCIA SA;08.602.745/0001-32;24/09/2010;22000169255;R$ 25.000,00;Cheque;MARCELLO TEIXEIRA DE HOLLANDA;2299;Deputado Federal;PR;RJ;
-MARCELO TEIXEIRA DE HOLLANDA;728.262.237-04;22/09/2010;22000169253;R$ 700,00;Cheque;MARCELLO TEIXEIRA DE HOLLANDA;2299;Deputado Federal;PR;RJ;
-PATRICK ANTONIO CLAUDE DE LARRAGOITI LUCAS;718.245.297-91;01/10/2010;22000169256;R$ 2.000,00;Transferência eletrônica;MARCELLO TEIXEIRA DE HOLLANDA;2299;Deputado Federal;PR;RJ;
-RCJV CONSULTORIO DE GINECOLOGIA E OBSTETRICIA LTDA;04.020.641/0001-69;25/08/2010;22000169251;R$ 1.700,00;Cheque;MARCELLO TEIXEIRA DE HOLLANDA;2299;Deputado Federal;PR;RJ;
-RCJV CONSULTORIO DE GINECOLOGIA E OBSTETRICIA LTDA;04.020.641/0001-69;22/09/2010;22000169252;R$ 1.440,00;Cheque;MARCELLO TEIXEIRA DE HOLLANDA;2299;Deputado Federal;PR;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EDITORA O DIA SA;33.216.797/0001-18;27/09/2010;       Publicidade por jornais e revistas;R$ 17.626,00;Cheque; -  -  / 2299 - MARCELLO TEIXEIRA DE HOLLANDA - RJ - Deputado Federal;
+EDITORA RIODG LTDA;03.889.967/0001-64;02/10/2010;       Publicidade por materiais impressos;R$ 1.922,00;Cheque; -  -  / 2299 - MARCELLO TEIXEIRA DE HOLLANDA - RJ - Deputado Federal;
+INFOGLOBO COMUNICACOES E PARTICIPAÇÕES LTDA;60.452.752/0001-15;24/09/2010;       Publicidade por jornais e revistas;R$ 3.780,00;Cheque; -  -  / 2299 - MARCELLO TEIXEIRA DE HOLLANDA - RJ - Deputado Federal;
+INFOMASTER SUPRIMENTOS DE INFORMATICA LTDA;01.581.315/0001-32;27/09/2010;       Publicidade por materiais impressos;R$ 360,00;Cheque; -  -  / 2299 - MARCELLO TEIXEIRA DE HOLLANDA - RJ - Deputado Federal;
+J DI GIORGIO E CIA LTDA;34.005.108/0001-99;20/08/2010;       Publicidade por materiais impressos;R$ 522,00;Cheque; -  -  / 2299 - MARCELLO TEIXEIRA DE HOLLANDA - RJ - Deputado Federal;
+J DI GIORGIO E CIA LTDA;34.005.108/0001-99;29/09/2010;       Publicidade por materiais impressos;R$ 2.860,00;Cheque; -  -  / 2299 - MARCELLO TEIXEIRA DE HOLLANDA - RJ - Deputado Federal;
+J DI GIORGIO E CIA LTDA;34.005.108/0001-99;02/10/2010;       Publicidade por materiais impressos;R$ 700,00;Cheque; -  -  / 2299 - MARCELLO TEIXEIRA DE HOLLANDA - RJ - Deputado Federal;
+J DI GIORGIO E CIA LTDA;34.005.108/0001-99;29/09/2010;       Publicidade por materiais impressos;R$ 700,00;Cheque; -  -  / 2299 - MARCELLO TEIXEIRA DE HOLLANDA - RJ - Deputado Federal;
+J DI GIORGIO E CIA LTDA;34.005.108/0001-99;27/08/2010;       Publicidade por materiais impressos;R$ 1.150,00;Cheque; -  -  / 2299 - MARCELLO TEIXEIRA DE HOLLANDA - RJ - Deputado Federal;
+MTLCORP COMERCIO DE EQUIPAMENTOS PARA COMUNICAÇÕES LTDA;07.567.687/0001-90;29/09/2010;       Publicidade por telemarketing;R$ 1.200,00;Cheque; -  -  / 2299 - MARCELLO TEIXEIRA DE HOLLANDA - RJ - Deputado Federal;
+;;28/09/2010;       Encargos financeiros e taxas bancárias;R$ 19,38;Débito em conta; -  -  / 2299 - MARCELLO TEIXEIRA DE HOLLANDA - RJ - Deputado Federal;

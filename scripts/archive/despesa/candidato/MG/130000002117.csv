@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-SEVERINA TAVARES DE ARAUJO;359.130.376-34;29/07/2010;65000088151;R$ 368,45;Estimado;SEVERINA TAVARES DE ARAUJO;6566;Deputado Federal;PC do B;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+SEVERINA TAVARES DE ARAUJO;359.130.376-34;29/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 368,45;Estimado; -  -  / 6566 - SEVERINA TAVARES DE ARAUJO - MG - Deputado Federal;

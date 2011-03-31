@@ -1,4 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LINDAMIR VAZ GAWLOSKI;064.607.809-78;17/08/2010;50000385191;R$ 700,00;Depósito em espécie;CHRISTIANE ELIZABETH RIGHETTO;50027;Deputado Estadual;PSOL;PR;
-MARIA HELENA TEIXEIRA DOS SANTOS;187.248.929-04;17/08/2010;50000385192;R$ 1.000,00;Depósito em espécie;CHRISTIANE ELIZABETH RIGHETTO;50027;Deputado Estadual;PSOL;PR;
-MIGUEL AMILTON GAWLOSKI;072.191.489-68;25/08/2010;50000385193;R$ 1.000,00;Depósito em espécie;CHRISTIANE ELIZABETH RIGHETTO;50027;Deputado Estadual;PSOL;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARTE SIGNS COMUNICAÇÃO VISUAL;04.728.364/0001-43;24/08/2010;       Produção de jingles, vinhetas e slogans;R$ 500,00;Cheque; -  -  / 50027 - CHRISTIANE ELIZABETH RIGHETTO - PR - Deputado Estadual;
+AUTO POSTO CAVALO BRANCO LTDA.;07.074.091/0001-59;09/09/2010;       Combustíveis e lubrificantes;R$ 101,02;Cheque; -  -  / 50027 - CHRISTIANE ELIZABETH RIGHETTO - PR - Deputado Estadual;
+AUTO POSTO E TRASNPORTES MILLENNIUM LTDA.;02.691.747/0001-69;17/09/2010;       Combustíveis e lubrificantes;R$ 115,35;Cheque; -  -  / 50027 - CHRISTIANE ELIZABETH RIGHETTO - PR - Deputado Estadual;
+AUTO POSTO E TRASNPORTES MILLENNIUM LTDA.;02.691.747/0001-69;27/09/2010;       Combustíveis e lubrificantes;R$ 134,00;Cheque; -  -  / 50027 - CHRISTIANE ELIZABETH RIGHETTO - PR - Deputado Estadual;
+AUTO POSTO E TRASNPORTES MILLENNIUM LTDA.;02.691.747/0001-69;27/08/2010;       Combustíveis e lubrificantes;R$ 119,00;Cheque; -  -  / 50027 - CHRISTIANE ELIZABETH RIGHETTO - PR - Deputado Estadual;
+AUTO POSTO E TRASNPORTES MILLENNIUM LTDA.;02.691.747/0001-69;17/08/2010;       Combustíveis e lubrificantes;R$ 132,18;Cheque; -  -  / 50027 - CHRISTIANE ELIZABETH RIGHETTO - PR - Deputado Estadual;
+UPEG CONFECÇÕES E COMÉRCIO DE ROUPAS LTDA.;00.123.845/0001-74;25/08/2010;       Diversas a especificar;R$ 334,00;Cheque; -  -  / 50027 - CHRISTIANE ELIZABETH RIGHETTO - PR - Deputado Estadual;

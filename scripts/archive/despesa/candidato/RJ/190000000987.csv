@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.181.923/0001-76;30/09/2010;12001063563;R$ 150,00;Estimado;VANILDO JOSE DA COSTA JUNIOR;12300;Deputado Estadual;PDT;RJ;
-Diretório Estadual/Distrital;12.181.923/0001-76;30/09/2010;12001063564;R$ 300,00;Estimado;VANILDO JOSE DA COSTA JUNIOR;12300;Deputado Estadual;PDT;RJ;
-ELEIÇAO 2010 LUIZ LINDBERG F. FILHO;12.179.678/0001-62;29/09/2010;12001063567;R$ 90,00;Estimado;VANILDO JOSE DA COSTA JUNIOR;12300;Deputado Estadual;PDT;RJ;
-FILIPE DE ALMEIDA PEREIRA;12.171.101/0001-04;30/09/2010;12001063565;R$ 675,00;Estimado;VANILDO JOSE DA COSTA JUNIOR;12300;Deputado Estadual;PDT;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Direção Estadual/Distrital - PMDB -  / 12300 - VANILDO JOSE DA COSTA JUNIOR - RJ - Deputado Estadual;
+Diretório Estadual/Distrital;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Direção Estadual/Distrital - PMDB -  / 12300 - VANILDO JOSE DA COSTA JUNIOR - RJ - Deputado Estadual;
+ELEIÇAO 2010 LUIZ LINDBERG F. FILHO;12.179.678/0001-62;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 90,00;Estimado;131 -  - PT -  - Senador / 12300 - VANILDO JOSE DA COSTA JUNIOR - RJ - Deputado Estadual;
+FILIPE DE ALMEIDA PEREIRA;12.171.101/0001-04;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 675,00;Estimado;2010 -  - PSC -  - Deputado Federal / 12300 - VANILDO JOSE DA COSTA JUNIOR - RJ - Deputado Estadual;
+JORGE LUIZ VIDAL;010.353.387-77;02/10/2010;       Despesas com pessoal;R$ 200,00;Cheque; -  -  / 12300 - VANILDO JOSE DA COSTA JUNIOR - RJ - Deputado Estadual;

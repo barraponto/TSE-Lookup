@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.229.905/0001-17;30/09/2010;23000169731;R$ 50.000,00;Estimado;CARLA CRISTINA FREITAS DOS SANTOS;2322;Deputado Federal;PPS;PA;
-Comitê Financeiro Único;12.229.905/0001-17;01/10/2010;23000169733;R$ 100.000,00;Estimado;CARLA CRISTINA FREITAS DOS SANTOS;2322;Deputado Federal;PPS;PA;
-Comitê Financeiro Único;12.229.905/0001-17;01/10/2010;23000169732;R$ 50.000,00;Estimado;CARLA CRISTINA FREITAS DOS SANTOS;2322;Deputado Federal;PPS;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.229.905/0001-17;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 50.000,00;Estimado;Comitê Financeiro Único - PSDB -  / 2322 - CARLA CRISTINA FREITAS DOS SANTOS - PA - Deputado Federal;
+Comitê Financeiro Único;12.229.905/0001-17;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100.000,00;Estimado;Comitê Financeiro Único - PSDB -  / 2322 - CARLA CRISTINA FREITAS DOS SANTOS - PA - Deputado Federal;
+Comitê Financeiro Único;12.229.905/0001-17;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 50.000,00;Estimado;Comitê Financeiro Único - PPS -  / 2322 - CARLA CRISTINA FREITAS DOS SANTOS - PA - Deputado Federal;

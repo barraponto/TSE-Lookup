@@ -1,4 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CRISTOVAM BUARQUE;12.173.559/0001-00;27/09/2010;;R$ 1.600,00;Estimado;DENIZARD LOPES AUGUSTO DE SOUZA;12800;Deputado Distrital;PDT;DF;
-CRISTOVAM BUARQUE;12.173.559/0001-00;13/09/2010;;R$ 440,00;Outros títulos de crédito;DENIZARD LOPES AUGUSTO DE SOUZA;12800;Deputado Distrital;PDT;DF;
-JOSÉ ANTONIO REGUFFE;12.180.457/0001-04;01/09/2010;;R$ 2.000,00;Estimado;DENIZARD LOPES AUGUSTO DE SOUZA;12800;Deputado Distrital;PDT;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CRISTOVAM BUARQUE;12.173.559/0001-00;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.600,00;Estimado;123 -  - PDT -  - Senador / 12800 - DENIZARD LOPES AUGUSTO DE SOUZA - DF - Deputado Distrital;
+JOSÉ ANTONIO REGUFFE;12.180.457/0001-04;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado;1234 -  - PDT -  - Deputado Federal / 12800 - DENIZARD LOPES AUGUSTO DE SOUZA - DF - Deputado Distrital;

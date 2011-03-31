@@ -1,6 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.108/0001-07;10/08/2010;28000507622;R$ 2.500,00;Estimado;ILDELFONSO REBOUCAS LACERDA;288;Senador;PRTB;AL;
-Comitê Financeiro Único;12.200.108/0001-07;27/09/2010;28000507623;R$ 900,00;Estimado;ILDELFONSO REBOUCAS LACERDA;288;Senador;PRTB;AL;
-Comitê Financeiro Único;12.200.108/0001-07;16/09/2010;28000507625;R$ 500,00;Estimado;ILDELFONSO REBOUCAS LACERDA;288;Senador;PRTB;AL;
-ILDELFONSO REBOUÇAS LACERDA;004.894.411-49;02/08/2010;28000507621;R$ 350,00;Depósito em espécie;ILDELFONSO REBOUCAS LACERDA;288;Senador;PRTB;AL;
-RICARDO NOBRE AGRA;525.054.054-68;03/10/2010;28000507624;R$ 1.500,00;Estimado;ILDELFONSO REBOUCAS LACERDA;288;Senador;PRTB;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+A.M. VIEIRA SOUZA PRODUÇÕES E  EVENTOS ME;11.982.937/0001-26;03/08/2010;       Publicidade por materiais impressos;R$ 260,00;Cheque; -  -  / 288 - ILDELFONSO REBOUCAS LACERDA - AL - Senador;
+CARLOS ALBERTO TEIXEIRA BEZERRA;494.355.824-00;27/10/2010;       Diversas a especificar;R$ 90,00;Cheque; -  -  / 288 - ILDELFONSO REBOUCAS LACERDA - AL - Senador;
+Comitê Financeiro Único;12.200.108/0001-07;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 900,00;Estimado;Comitê Financeiro Único - PRTB -  / 288 - ILDELFONSO REBOUCAS LACERDA - AL - Senador;
+Comitê Financeiro Único;12.200.108/0001-07;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.500,00;Estimado;Comitê Financeiro Único - PRTB -  / 288 - ILDELFONSO REBOUCAS LACERDA - AL - Senador;
+Comitê Financeiro Único;12.200.108/0001-07;16/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;Comitê Financeiro Único - PRTB -  / 288 - ILDELFONSO REBOUCAS LACERDA - AL - Senador;
+RICARDO NOBRE AGRA;525.054.054-68;03/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado; -  -  / 288 - ILDELFONSO REBOUCAS LACERDA - AL - Senador;

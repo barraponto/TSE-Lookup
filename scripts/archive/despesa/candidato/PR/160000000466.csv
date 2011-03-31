@@ -1,3 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;24/09/2010;11000148463;R$ 1.680,00;Transferência eletrônica;APARECIDA NEIDE VIEIRA MOTA;11411;Deputado Estadual;PP;PR;
-RICARDO JOSÉ MAGALHÃES BARROS;12.190.665/0001-94;18/09/2010;11000148462;R$ 562,50;Estimado;APARECIDA NEIDE VIEIRA MOTA;11411;Deputado Estadual;PP;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+LUIZ FERNANDO DE SOUZA;075.727.389-07;27/09/2010;       Despesas com transporte ou deslocamento;R$ 829,50;Cheque; -  -  / 11411 - APARECIDA NEIDE VIEIRA MOTA - PR - Deputado Estadual;
+RICARDO JOSÉ MAGALHÃES BARROS;12.190.665/0001-94;18/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 562,50;Estimado;111 -  - PP -  - Senador / 11411 - APARECIDA NEIDE VIEIRA MOTA - PR - Deputado Estadual;
+WELLINGTON RICARDO DE SOUZA;306.504.728-45;27/09/2010;       Despesas com transporte ou deslocamento;R$ 829,50;Cheque; -  -  / 11411 - APARECIDA NEIDE VIEIRA MOTA - PR - Deputado Estadual;
+;;27/09/2010;       Encargos financeiros e taxas bancárias;R$ 21,00;Débito em conta; -  -  / 11411 - APARECIDA NEIDE VIEIRA MOTA - PR - Deputado Estadual;

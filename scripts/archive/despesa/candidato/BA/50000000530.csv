@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSÉ CLAUBER BRITO LACERDA;010.969.085-06;22/09/2010;23000062702;R$ 194,00;Depósito em espécie;JOSE CARLOS BRITO LACERDA;23888;Deputado Estadual;PPS;BA;
-MARIA DE LOURDES ALBUQUERQUE DE SOUZA;218.761.935-49;16/08/2010;23000062701;R$ 1.000,00;Cheque;JOSE CARLOS BRITO LACERDA;23888;Deputado Estadual;PPS;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARTOGRAF GRAFICA E EDITORA LTDA;34.136.598/0001-62;31/08/2010;       Publicidade por materiais impressos;R$ 194,00;Cheque; -  -  / 23888 - JOSE CARLOS BRITO LACERDA - BA - Deputado Estadual;
+MUNDIAL ARTE GRAFICA LTDA;96.694.716/0001-05;19/08/2010;       Publicidade por materiais impressos;R$ 950,00;Cheque; -  -  / 23888 - JOSE CARLOS BRITO LACERDA - BA - Deputado Estadual;
+23888 - JOSÉ CARLOS BRITO LACERDA - DEPUTADO ESTADUAL;12.276.264/0001-51;21/10/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 50,00;Cheque;Direção Estadual/Distrital - PPS - BA / 23888 - JOSE CARLOS BRITO LACERDA - BA - Deputado Estadual;

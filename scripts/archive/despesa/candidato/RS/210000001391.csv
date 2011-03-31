@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADILSON TROCA;12.175.087/0001-17;13/08/2010;45000330854;R$ 473,56;Estimado;LANE HELENA TOSCA TOLDO;4507;Deputado Federal;PSDB;RS;
-YEDA RORATO CRUSIUS;12.172.247/0001-74;01/10/2010;45000330857;R$ 600,00;Estimado;LANE HELENA TOSCA TOLDO;4507;Deputado Federal;PSDB;RS;
-YEDA RORATO CRUSIUS;12.172.247/0001-74;01/10/2010;45000330858;R$ 5.633,80;Estimado;LANE HELENA TOSCA TOLDO;4507;Deputado Federal;PSDB;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADILSON TROCA;12.175.087/0001-17;13/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 473,56;Estimado;45123 -  - PSDB -  - Deputado Estadual / 4507 - LANE HELENA TOSCA TOLDO - RS - Deputado Federal;
+YEDA RORATO CRUSIUS;12.172.247/0001-74;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado;45 -  - PSDB -  - Governador / 4507 - LANE HELENA TOSCA TOLDO - RS - Deputado Federal;
+YEDA RORATO CRUSIUS;12.172.247/0001-74;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 5.633,80;Estimado;45 -  - PSDB -  - Governador / 4507 - LANE HELENA TOSCA TOLDO - RS - Deputado Federal;

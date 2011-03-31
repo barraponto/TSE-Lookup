@@ -1,2 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DIONISIA KOSTECKI;045.242.979-01;10/08/2010;70000179037;R$ 1.000,00;Cheque;PEDRO CLAUDIO OLIVEIRA;7007;Deputado Federal;PT do B;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+FOLHA DE TAMANDARE LTDA;05.241.886/0001-89;18/08/2010;       Publicidade por jornais e revistas;R$ 200,00;Cheque; -  -  / 7007 - PEDRO CLAUDIO OLIVEIRA - PR - Deputado Federal;
+PLOTTAGA COMUNICAÇÃO VISUAL;04.536.540/0001-45;31/08/2010;       Publicidade por materiais impressos;R$ 430,00;Cheque; -  -  / 7007 - PEDRO CLAUDIO OLIVEIRA - PR - Deputado Federal;
+PLOTTAGA COMUNICAÇÃO VISUAL;04.536.540/0001-45;11/08/2010;       Publicidade por materiais impressos;R$ 275,00;Cheque; -  -  / 7007 - PEDRO CLAUDIO OLIVEIRA - PR - Deputado Federal;
+WNS SUPERNERCADOS DO BRASIL;93.209.765/0088-78;02/10/2010;       Publicidade por placas, estandartes e faixas;R$ 95,00;Cheque; -  -  / 7007 - PEDRO CLAUDIO OLIVEIRA - PR - Deputado Federal;

@@ -1,3 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-AILTON DE JESUS DIAS;078.884.575-68;31/08/2010;27000017082;R$ 204,00;Estimado;AILTON DE JESUS DIAS;27239;Deputado Estadual;PSDC;BA;
-Comitê Financeiro Único;12.191.570/0001-95;31/07/2010;27000017081;R$ 192,00;Estimado;AILTON DE JESUS DIAS;27239;Deputado Estadual;PSDC;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AILTON DE JESUS DIAS;078.884.575-68;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 204,00;Estimado; -  -  / 27239 - AILTON DE JESUS DIAS - BA - Deputado Estadual;
+ANTONILDO AQUILINO DOS SANTOS;143.102.285-34;05/10/2010;       Despesas com pessoal;R$ 2.000,00;Cheque; -  -  / 27239 - AILTON DE JESUS DIAS - BA - Deputado Estadual;
+Comitê Financeiro Único;12.191.570/0001-95;31/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 192,00;Estimado;Comitê Financeiro Único - PMDB -  / 27239 - AILTON DE JESUS DIAS - BA - Deputado Estadual;
+FABIO RIOS SILVA;016.750.455-00;06/09/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 27239 - AILTON DE JESUS DIAS - BA - Deputado Estadual;

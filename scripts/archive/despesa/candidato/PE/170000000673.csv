@@ -1,4 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CLEYDSON DA SILVA;007.434.124-35;06/09/2010;28000818303;R$ 250,00;Depósito em espécie;PANTALEAO VELOSO DA SILVA;28678;Deputado Estadual;PRTB;PE;
-LUIZ GONZAGA PATRIOTA;12.168.227/0001-20;30/08/2010;28000196602;R$ 2.000,00;Cheque;PANTALEAO VELOSO DA SILVA;28678;Deputado Estadual;PRTB;PE;
-PANTALEAO VELOSO DA SILVA;153.617.804-72;23/08/2010;28000818302;R$ 600,00;Depósito em espécie;PANTALEAO VELOSO DA SILVA;28678;Deputado Estadual;PRTB;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+FRANCISCO VELOSO DA SILVA;134.742.515-20;05/09/2010;       Serviços prestados por terceiros;R$ 515,30;Cheque; -  -  / 28678 - PANTALEAO VELOSO DA SILVA - PE - Deputado Estadual;
+JOELSON MORAIS FEITOSA ME;08.936.736/0001-88;06/08/2010;       Publicidade por materiais impressos;R$ 550,00;Cheque; -  -  / 28678 - PANTALEAO VELOSO DA SILVA - PE - Deputado Estadual;
+M DE F SILVA SANTOS PRODUTOS GRAFICOS-ME;08.415.124/0001-40;06/09/2010;       Publicidade por materiais impressos;R$ 844,00;Cheque; -  -  / 28678 - PANTALEAO VELOSO DA SILVA - PE - Deputado Estadual;
+M DE F SILVA SANTOS PRODUTOS GRAFICOS-ME;08.415.124/0001-40;02/09/2010;       Publicidade por materiais impressos;R$ 640,00;Cheque; -  -  / 28678 - PANTALEAO VELOSO DA SILVA - PE - Deputado Estadual;
+MARIA DOS ANJOS CAVALCANTI REIS DE FIGUEIREDO;08.784.035/0001-70;09/09/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 28678 - PANTALEAO VELOSO DA SILVA - PE - Deputado Estadual;
+;;28/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 28678 - PANTALEAO VELOSO DA SILVA - PE - Deputado Estadual;
+;;23/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 28678 - PANTALEAO VELOSO DA SILVA - PE - Deputado Estadual;

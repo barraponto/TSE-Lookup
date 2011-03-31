@@ -1,6 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FUNDO DE INVESTIMENTO IMOBILIÁRIO P. M. VENTO;01.636.325/0001-28;30/09/2010;25000502693;R$ 7.500,00;Cheque;RODOLFO LANDGRAF SANTOS;25444;Deputado Estadual;DEM;RS;
-ONYX  DORNELLES LORENZONI;12.173.278/0001-40;10/08/2010;25000502691;R$ 5.000,00;Cheque;RODOLFO LANDGRAF SANTOS;25444;Deputado Estadual;DEM;RS;
-ONYX  DORNELLES LORENZONI;12.173.278/0001-40;01/09/2010;25000502692;R$ 5.000,00;Cheque;RODOLFO LANDGRAF SANTOS;25444;Deputado Estadual;DEM;RS;
-ONYX  DORNELLES LORENZONI;12.173.278/0001-40;01/10/2010;25000502694;R$ 1.750,00;Estimado;RODOLFO LANDGRAF SANTOS;25444;Deputado Estadual;DEM;RS;
-ONYX DORNELLES LORENZONI;12.173.278/0001-40;01/10/2010;25000502695;R$ 1.062,00;Estimado;RODOLFO LANDGRAF SANTOS;25444;Deputado Estadual;DEM;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANDRESSA S. DA SILVA;950.370.470-72;28/09/2010;       Despesas com pessoal;R$ 1.250,00;Transferência eletrônica; -  -  / 25444 - RODOLFO LANDGRAF SANTOS - RS - Deputado Estadual;
+CLAUDIO ANTONIO BARBOSA BORBA;293.646.550-87;28/09/2010;       Despesas com pessoal;R$ 2.500,00;Transferência eletrônica; -  -  / 25444 - RODOLFO LANDGRAF SANTOS - RS - Deputado Estadual;
+GARAGEM CARUMBÉ LTDA.;90.970.070/0002-46;03/09/2010;       Combustíveis e lubrificantes;R$ 1.500,00;Transferência eletrônica; -  -  / 25444 - RODOLFO LANDGRAF SANTOS - RS - Deputado Estadual;
+JOCEMARA SILVA DA SILVA;909.211.600-97;28/09/2010;       Despesas com pessoal;R$ 1.200,00;Transferência eletrônica; -  -  / 25444 - RODOLFO LANDGRAF SANTOS - RS - Deputado Estadual;
+JULIANO COSTA DA SILVA;432.952.900-91;28/09/2010;       Despesas com pessoal;R$ 850,00;Transferência eletrônica; -  -  / 25444 - RODOLFO LANDGRAF SANTOS - RS - Deputado Estadual;
+L B EDITORA E PROMOÇÕES LTDA.;94.554.482/0001-75;30/09/2010;       Serviços prestados por terceiros;R$ 6.000,00;Transferência eletrônica; -  -  / 25444 - RODOLFO LANDGRAF SANTOS - RS - Deputado Estadual;
+NOÊMIA DE MORAES;771.864.430-87;25/08/2010;       Despesas com pessoal;R$ 2.000,00;Transferência eletrônica; -  -  / 25444 - RODOLFO LANDGRAF SANTOS - RS - Deputado Estadual;
+ONYX  DORNELLES LORENZONI;12.173.278/0001-40;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.750,00;Estimado;2522 -  - DEM -  - Deputado Federal / 25444 - RODOLFO LANDGRAF SANTOS - RS - Deputado Estadual;
+ONYX DORNELLES LORENZONI;12.173.278/0001-40;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.062,00;Estimado;2522 -  - DEM -  - Deputado Federal / 25444 - RODOLFO LANDGRAF SANTOS - RS - Deputado Estadual;
+SIMONE SILVA DA LUZ;015.726.560-93;23/09/2010;       Despesas com pessoal;R$ 1.000,00;Transferência eletrônica; -  -  / 25444 - RODOLFO LANDGRAF SANTOS - RS - Deputado Estadual;
+WALDENIR DOS SANTOS ROSA;295.041.390-00;23/09/2010;       Despesas com pessoal;R$ 1.200,00;Transferência eletrônica; -  -  / 25444 - RODOLFO LANDGRAF SANTOS - RS - Deputado Estadual;

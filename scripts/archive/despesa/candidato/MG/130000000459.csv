@@ -1,4 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CLAUDIA VASCONCELOS SILVA;568.517.826-34;30/08/2010;27000022506;R$ 1.400,00;Cheque;JOÃO JOSÉ JOAQUIM DE OLIVEIRA;2701;Deputado Federal;PSDC;MG;
-FRANCO VASCONCELOS SILVA OLIVEIRA;073.140.666-47;25/09/2010;27000022508;R$ 4.000,00;Estimado;JOÃO JOSÉ JOAQUIM DE OLIVEIRA;2701;Deputado Federal;PSDC;MG;
-RENILTON GONCALVES PACHECO;09.382.918/0001-17;25/09/2010;27000022507;R$ 5.200,00;Estimado;JOÃO JOSÉ JOAQUIM DE OLIVEIRA;2701;Deputado Federal;PSDC;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+FRANCO VASCONCELOS SILVA OLIVEIRA;073.140.666-47;25/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.000,00;Estimado; -  -  / 2701 - JOÃO JOSÉ JOAQUIM DE OLIVEIRA - MG - Deputado Federal;
+GRAFICA ITAUNA LTDA;10.715.253/0001-03;30/08/2010;       Publicidade por materiais impressos;R$ 1.350,00;Cheque; -  -  / 2701 - JOÃO JOSÉ JOAQUIM DE OLIVEIRA - MG - Deputado Federal;
+JOAO MARCOS DA CRUZ PIMENTA;095.883.166-18;27/09/2010;       Serviços prestados por terceiros;R$ 50,00;Cheque; -  -  / 2701 - JOÃO JOSÉ JOAQUIM DE OLIVEIRA - MG - Deputado Federal;
+RENILTON GONCALVES PACHECO;09.382.918/0001-17;25/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 5.200,00;Estimado; -  -  / 2701 - JOÃO JOSÉ JOAQUIM DE OLIVEIRA - MG - Deputado Federal;

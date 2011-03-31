@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.154.851/0001-78;30/09/2010;28000545402;R$ 300,00;Estimado;CESAR AUGUSTO DE MELO FELISBERTO;28009;Deputado Estadual;PRTB;MG;
-Diretório Estadual/Distrital;12.154.851/0001-78;15/09/2010;28000545401;R$ 590,00;Estimado;CESAR AUGUSTO DE MELO FELISBERTO;28009;Deputado Estadual;PRTB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.154.851/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Direção Estadual/Distrital - PT do B -  / 28009 - CESAR AUGUSTO DE MELO FELISBERTO - MG - Deputado Estadual;
+Diretório Estadual/Distrital;12.154.851/0001-78;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 590,00;Estimado;Direção Estadual/Distrital - PT do B -  / 28009 - CESAR AUGUSTO DE MELO FELISBERTO - MG - Deputado Estadual;

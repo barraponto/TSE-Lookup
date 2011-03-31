@@ -1,3 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-BANCO INDUSTRIAL E COMERCIAL S A;07.450.604/0001-89;30/08/2010;23000070271;R$ 100.000,00;Cheque;CLAUDIO HENRIQUE DO VALE VIEIRA;22;Vice-Governador;PPS;CE;
-MARCELO VIRGILIO LUCENA DA CUNHA;241.325.003-49;24/09/2010;23000070272;R$ 100,00;Depósito em espécie;CLAUDIO HENRIQUE DO VALE VIEIRA;22;Vice-Governador;PPS;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GLERISTON DIEGO ALMEIDA ALVES;022.282.753-01;02/10/2010;       Serviços prestados por terceiros;R$ 67,03;Cheque; -  -  / 22 - CLAUDIO HENRIQUE DO VALE VIEIRA - CE - Vice-Governador;
+HN COMERCIAL DE PETROLEO LTDA;04.138.490/0001-48;01/09/2010;       Combustíveis e lubrificantes;R$ 18.057,00;Cheque; -  -  / 22 - CLAUDIO HENRIQUE DO VALE VIEIRA - CE - Vice-Governador;
+HN COMERCIAL DE PETROLEO LTDA;04.138.490/0001-48;17/09/2010;       Combustíveis e lubrificantes;R$ 13.599,00;Cheque; -  -  / 22 - CLAUDIO HENRIQUE DO VALE VIEIRA - CE - Vice-Governador;
+JF 5 COMERCIO DE DERIVADOS DE PETROLEO LTDA;09.026.465/0001-96;21/09/2010;       Combustíveis e lubrificantes;R$ 23.207,56;Cheque; -  -  / 22 - CLAUDIO HENRIQUE DO VALE VIEIRA - CE - Vice-Governador;
+JF 5 COMERCIO DE DERIVADOS DE PETROLEO LTDA;09.026.465/0001-96;16/09/2010;       Combustíveis e lubrificantes;R$ 13.069,06;Cheque; -  -  / 22 - CLAUDIO HENRIQUE DO VALE VIEIRA - CE - Vice-Governador;
+VM REVENDEDORA DE PETROLEO LTDA;03.024.468/0001-04;17/09/2010;       Combustíveis e lubrificantes;R$ 32.100,00;Cheque; -  -  / 22 - CLAUDIO HENRIQUE DO VALE VIEIRA - CE - Vice-Governador;
+;;23/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 22 - CLAUDIO HENRIQUE DO VALE VIEIRA - CE - Vice-Governador;

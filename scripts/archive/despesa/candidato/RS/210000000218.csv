@@ -1,3 +1,15 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LUIZ  ROBERTO DE ALBUQUERQUE DEPUTADO FEDERAL;12.156.040/0001-06;03/09/2010;40000922753;R$ 10.000,00;Cheque;CLORACI DOS SANTOS RAMOS;40640;Deputado Estadual;PSB;RS;
-LUIZ  ROBERTO DE ALBUQUERQUE DEPUTADO FEDERAL;12.156.040/0001-06;11/08/2010;40000922751;R$ 5.000,00;Cheque;CLORACI DOS SANTOS RAMOS;40640;Deputado Estadual;PSB;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CLAUDIO VIEIRA ROCHA;471.917.160-53;12/08/2010;       Publicidade por carros de som;R$ 3.000,00;Cheque; -  -  / 40640 - CLORACI DOS SANTOS RAMOS - RS - Deputado Estadual;
+CLAUDIO VIEIRA ROCHA;471.917.160-53;08/09/2010;       Publicidade por carros de som;R$ 2.500,00;Cheque; -  -  / 40640 - CLORACI DOS SANTOS RAMOS - RS - Deputado Estadual;
+CLAUDIO VIEIRA ROCHA;471.917.160-53;06/09/2010;       Publicidade por carros de som;R$ 3.500,00;Cheque; -  -  / 40640 - CLORACI DOS SANTOS RAMOS - RS - Deputado Estadual;
+ELIANE REGINA DE RAMOS ROCHA;978.182.590-15;16/08/2010;       Despesas com pessoal;R$ 400,00;Cheque; -  -  / 40640 - CLORACI DOS SANTOS RAMOS - RS - Deputado Estadual;
+ELIANE REGINA DE RAMOS ROCHA;978.182.590-15;17/09/2010;       Despesas com pessoal;R$ 600,00;Cheque; -  -  / 40640 - CLORACI DOS SANTOS RAMOS - RS - Deputado Estadual;
+ELIANE REGINA DE RAMOS ROCHA;978.182.590-15;23/08/2010;       Despesas com pessoal;R$ 100,00;Cheque; -  -  / 40640 - CLORACI DOS SANTOS RAMOS - RS - Deputado Estadual;
+ERIC ROBERTO DE RAMOS ROCHA;021.915.910-60;10/09/2010;       Despesas com pessoal;R$ 800,00;Cheque; -  -  / 40640 - CLORACI DOS SANTOS RAMOS - RS - Deputado Estadual;
+EVANDRO  MICHELON;663.625.200-68;15/08/2010;       Locação/cessão de bens imóveis;R$ 1.500,00;Não informado; -  -  / 40640 - CLORACI DOS SANTOS RAMOS - RS - Deputado Estadual;
+FATIMA REGINA BOLESINA;347.318.810-72;01/10/2010;       Despesas com pessoal;R$ 510,00;Cheque; -  -  / 40640 - CLORACI DOS SANTOS RAMOS - RS - Deputado Estadual;
+LUANA MARIA ROCHA;014.219.770-01;24/09/2010;       Despesas com pessoal;R$ 200,00;Cheque; -  -  / 40640 - CLORACI DOS SANTOS RAMOS - RS - Deputado Estadual;
+LUANA MARIA ROCHA;014.219.770-01;16/09/2010;       Despesas com pessoal;R$ 350,00;Cheque; -  -  / 40640 - CLORACI DOS SANTOS RAMOS - RS - Deputado Estadual;
+ROSEANE MELLO;016.890.400-41;24/09/2010;       Despesas com pessoal;R$ 510,00;Cheque; -  -  / 40640 - CLORACI DOS SANTOS RAMOS - RS - Deputado Estadual;
+WAGNER  GOMES;011.783.610-98;01/10/2010;       Publicidade por carros de som;R$ 385,00;Cheque; -  -  / 40640 - CLORACI DOS SANTOS RAMOS - RS - Deputado Estadual;
+WAGNER  GOMES;011.783.610-98;01/10/2010;       Publicidade por carros de som;R$ 645,00;Cheque; -  -  / 40640 - CLORACI DOS SANTOS RAMOS - RS - Deputado Estadual;

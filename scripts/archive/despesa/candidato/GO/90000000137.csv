@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.242/0001-09;23/08/2010;65000185406;R$ 120,00;Estimado;JANE BELLE PIMENTEL DE CASTRO;65121;Deputado Estadual;PC do B;GO;
-ELEICAO 2010 FABIO TOKARSKI DEPUTADO FEDERAL;12.171.879/0001-13;20/07/2010;65000185401;R$ 345,00;Estimado;JANE BELLE PIMENTEL DE CASTRO;65121;Deputado Estadual;PC do B;GO;
-ELEIÇÃO 2010 IRIS REZENDE MACHADO GOVERNADOR;12.167.313/0001-18;02/10/2010;65000185409;R$ 1.612,90;Estimado;JANE BELLE PIMENTEL DE CASTRO;65121;Deputado Estadual;PC do B;GO;
-PAULO ROBERTO DE CASTRO;167.456.981-53;06/08/2010;65000185402;R$ 300,00;Depósito em espécie;JANE BELLE PIMENTEL DE CASTRO;65121;Deputado Estadual;PC do B;GO;
-PAULO ROBERTO DE CASTRO;167.456.981-53;17/08/2010;65000185404;R$ 710,00;Depósito em espécie;JANE BELLE PIMENTEL DE CASTRO;65121;Deputado Estadual;PC do B;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.242/0001-09;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 120,00;Estimado;Comitê Financeiro Único - PC do B -  / 65121 - JANE BELLE PIMENTEL DE CASTRO - GO - Deputado Estadual;
+ELEICAO 2010 FABIO TOKARSKI DEPUTADO FEDERAL;12.171.879/0001-13;20/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 345,00;Estimado;6565 -  - PC do B -  - Deputado Federal / 65121 - JANE BELLE PIMENTEL DE CASTRO - GO - Deputado Estadual;
+ELEIÇÃO 2010 IRIS REZENDE MACHADO GOVERNADOR;12.167.313/0001-18;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.612,90;Estimado;15 -  - PMDB -  - Governador / 65121 - JANE BELLE PIMENTEL DE CASTRO - GO - Deputado Estadual;
+MECA PRESTADORA DE SERVIÇOS LTDA;04.701.169/0001-20;10/08/2010;       Publicidade por materiais impressos;R$ 260,00;Cheque; -  -  / 65121 - JANE BELLE PIMENTEL DE CASTRO - GO - Deputado Estadual;
+PRO BANDEIRAS INDUSTRIA E COMERCIO CONFECÇÕES LTDA;11.595.441/0001-08;01/09/2010;       Publicidade por materiais impressos;R$ 740,00;Cheque; -  -  / 65121 - JANE BELLE PIMENTEL DE CASTRO - GO - Deputado Estadual;

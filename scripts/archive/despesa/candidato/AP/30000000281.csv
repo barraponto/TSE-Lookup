@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.285/0001-86;21/09/2010;43001801027;R$ 140,00;Estimado;MANOEL CARDOZO;43143;Deputado Estadual;PV;AP;
-Comitê Financeiro Único;12.205.285/0001-86;17/08/2010;43001801026;R$ 579,34;Estimado;MANOEL CARDOZO;43143;Deputado Estadual;PV;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.285/0001-86;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 140,00;Estimado;Comitê Financeiro Único - PMDB -  / 43143 - MANOEL CARDOZO - AP - Deputado Estadual;
+Comitê Financeiro Único;12.205.285/0001-86;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 579,34;Estimado;Comitê Financeiro Único - PMDB -  / 43143 - MANOEL CARDOZO - AP - Deputado Estadual;

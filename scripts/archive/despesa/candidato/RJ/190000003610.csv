@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.154.856/0001-09;19/07/2010;50000390271;R$ 180,00;Estimado;CARLOS ALBERTO MELO DA SILVA;50150;Deputado Estadual;PSOL;RJ;
-Comitê Financeiro Único;12.154.856/0001-09;29/09/2010;50000390275;R$ 62,50;Estimado;CARLOS ALBERTO MELO DA SILVA;50150;Deputado Estadual;PSOL;RJ;
-Comitê Financeiro Único;12.154.856/0001-09;19/07/2010;50000390274;R$ 250,85;Estimado;CARLOS ALBERTO MELO DA SILVA;50150;Deputado Estadual;PSOL;RJ;
-MILTON TEMER;12.168.390/0001-92;30/09/2010;50000390276;R$ 135,10;Estimado;CARLOS ALBERTO MELO DA SILVA;50150;Deputado Estadual;PSOL;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.154.856/0001-09;19/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,85;Estimado;Comitê Financeiro Único - PSOL -  / 50150 - CARLOS ALBERTO MELO DA SILVA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.154.856/0001-09;19/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 180,00;Estimado;Comitê Financeiro Único - PSOL -  / 50150 - CARLOS ALBERTO MELO DA SILVA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.154.856/0001-09;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 62,50;Estimado;Comitê Financeiro Único - PSOL -  / 50150 - CARLOS ALBERTO MELO DA SILVA - RJ - Deputado Estadual;
+MILTON TEMER;12.168.390/0001-92;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 135,10;Estimado;500 -  - PSOL -  - Senador / 50150 - CARLOS ALBERTO MELO DA SILVA - RJ - Deputado Estadual;

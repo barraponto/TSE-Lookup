@@ -1,8 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.578/0001-51;19/08/2010;43001891101;R$ 363,00;Estimado;ISOLI PAULO FONTOURA;4312;Deputado Federal;PV;MS;
-Comitê Financeiro Único;12.191.578/0001-51;19/08/2010;43001891102;R$ 413,08;Estimado;ISOLI PAULO FONTOURA;4312;Deputado Federal;PV;MS;
-Comitê Financeiro Único;12.191.578/0001-51;03/10/2010;43001891105;R$ 99,00;Estimado;ISOLI PAULO FONTOURA;4312;Deputado Federal;PV;MS;
-Comitê Financeiro Único;12.191.578/0001-51;03/10/2010;43001891106;R$ 165,00;Estimado;ISOLI PAULO FONTOURA;4312;Deputado Federal;PV;MS;
-Comitê Financeiro Único;12.191.578/0001-51;15/09/2010;43001891107;R$ 227,00;Estimado;ISOLI PAULO FONTOURA;4312;Deputado Federal;PV;MS;
-Comitê Financeiro Único;12.191.578/0001-51;15/09/2010;43001891108;R$ 360,00;Estimado;ISOLI PAULO FONTOURA;4312;Deputado Federal;PV;MS;
-JOSE ORCIRIO MIRANDA DO SANTOS;12.189.573/0001-94;20/09/2010;43001891104;R$ 4.000,00;Cheque;ISOLI PAULO FONTOURA;4312;Deputado Federal;PV;MS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.578/0001-51;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Único - PT -  / 4312 - ISOLI PAULO FONTOURA - MS - Deputado Federal;
+Comitê Financeiro Único;12.191.578/0001-51;19/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 363,00;Estimado;Comitê Financeiro Único - PT -  / 4312 - ISOLI PAULO FONTOURA - MS - Deputado Federal;
+Comitê Financeiro Único;12.191.578/0001-51;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 227,00;Estimado;Comitê Financeiro Único - PT -  / 4312 - ISOLI PAULO FONTOURA - MS - Deputado Federal;
+Comitê Financeiro Único;12.191.578/0001-51;19/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 413,08;Estimado;Comitê Financeiro Único - PT -  / 4312 - ISOLI PAULO FONTOURA - MS - Deputado Federal;
+Comitê Financeiro Único;12.191.578/0001-51;03/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 99,00;Estimado;Comitê Financeiro Único - PT -  / 4312 - ISOLI PAULO FONTOURA - MS - Deputado Federal;
+Comitê Financeiro Único;12.191.578/0001-51;03/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 165,00;Estimado;Comitê Financeiro Único - PT -  / 4312 - ISOLI PAULO FONTOURA - MS - Deputado Federal;
+DEIMAR DE OLIVEIRA NETO;806.804.371-34;24/09/2010;       Despesas com pessoal;R$ 2.000,00;Cheque; -  -  / 4312 - ISOLI PAULO FONTOURA - MS - Deputado Federal;
+MARIA TERESA BALSANI;475.622.181-53;24/09/2010;       Despesas com pessoal;R$ 2.000,00;Cheque; -  -  / 4312 - ISOLI PAULO FONTOURA - MS - Deputado Federal;

@@ -1,6 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS OTAVIO SCHNEIDER;12.172.855/0001-89;13/09/2010;33000123360;R$ 500,00;Depósito em espécie;VILNEI OLIVEIRA DA SILVA;3333;Deputado Federal;PMN;RS;
-Diretório Nacional;29.549.433/0001-82;03/09/2010;33000123358;R$ 433,50;Estimado;VILNEI OLIVEIRA DA SILVA;3333;Deputado Federal;PMN;RS;
-Diretório Nacional;29.549.433/0001-82;11/08/2010;33000123357;R$ 1.000,00;Estimado;VILNEI OLIVEIRA DA SILVA;3333;Deputado Federal;PMN;RS;
-Diretório Nacional;29.549.433/0001-82;03/09/2010;33000123359;R$ 1.000,00;Estimado;VILNEI OLIVEIRA DA SILVA;3333;Deputado Federal;PMN;RS;
-WALTER JUNIOR DA SILVA SANTOS;545.805.870-49;16/09/2010;33000123362;R$ 250,00;Depósito em espécie;VILNEI OLIVEIRA DA SILVA;3333;Deputado Federal;PMN;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Nacional;29.549.433/0001-82;11/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;Direção Nacional - PMN -  / 3333 - VILNEI OLIVEIRA DA SILVA - RS - Deputado Federal;
+Diretório Nacional;29.549.433/0001-82;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 433,50;Estimado;Direção Nacional - PMN -  / 3333 - VILNEI OLIVEIRA DA SILVA - RS - Deputado Federal;
+Diretório Nacional;29.549.433/0001-82;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;Direção Nacional - PMN -  / 3333 - VILNEI OLIVEIRA DA SILVA - RS - Deputado Federal;

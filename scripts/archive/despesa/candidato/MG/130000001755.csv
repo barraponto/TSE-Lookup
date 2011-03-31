@@ -1,3 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LUIZ CARLOS FERREIRA;792.688.546-00;30/09/2010;50000233002;R$ 250,00;Depósito em espécie;LUIZ CARLOS FERREIRA;50;Governador;PSOL;MG;
-LUIZ CARLOS FERREIRA;792.688.546-00;15/07/2010;50000233001;R$ 3.000,00;Transferência eletrônica;LUIZ CARLOS FERREIRA;50;Governador;PSOL;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EDITORA DE JORNAIS RESISTENCIA LTDA;08.749.980/0001-31;05/10/2010;       Publicidade por jornais e revistas;R$ 270,00;Cheque; -  -  / 50 - LUIZ CARLOS FERREIRA - MG - Governador;
+GRADUAL COMUNICAÇÃO VISUAL;05.745.950/0001-69;17/07/2010;       Publicidade por materiais impressos;R$ 110,00;Cheque; -  -  / 50 - LUIZ CARLOS FERREIRA - MG - Governador;
+GRAFICA UNISET;41.810.235/0001-26;15/07/2010;       Publicidade por materiais impressos;R$ 2.680,00;Cheque; -  -  / 50 - LUIZ CARLOS FERREIRA - MG - Governador;
+OSMARINA DA COSTA SILVA;775.760.806-63;15/10/2010;       Serviços prestados por terceiros;R$ 20,85;Cheque; -  -  / 50 - LUIZ CARLOS FERREIRA - MG - Governador;
+OSMARINA DA COSTA SILVA;775.760.806-63;06/09/2010;       Serviços prestados por terceiros;R$ 20,00;Cheque; -  -  / 50 - LUIZ CARLOS FERREIRA - MG - Governador;
+OSMARINA DA COSTA SILVA;775.760.806-63;17/08/2010;       Serviços prestados por terceiros;R$ 20,00;Cheque; -  -  / 50 - LUIZ CARLOS FERREIRA - MG - Governador;
+;;03/08/2010;       Encargos financeiros e taxas bancárias;R$ 6,00;Débito em conta; -  -  / 50 - LUIZ CARLOS FERREIRA - MG - Governador;
+;;08/10/2010;       Encargos financeiros e taxas bancárias;R$ 6,00;Débito em conta; -  -  / 50 - LUIZ CARLOS FERREIRA - MG - Governador;
+;;08/10/2010;       Encargos financeiros e taxas bancárias;R$ 6,00;Débito em conta; -  -  / 50 - LUIZ CARLOS FERREIRA - MG - Governador;
+;;08/10/2010;       Encargos financeiros e taxas bancárias;R$ 6,00;Débito em conta; -  -  / 50 - LUIZ CARLOS FERREIRA - MG - Governador;
+;;03/08/2010;       Encargos financeiros e taxas bancárias;R$ 6,00;Débito em conta; -  -  / 50 - LUIZ CARLOS FERREIRA - MG - Governador;

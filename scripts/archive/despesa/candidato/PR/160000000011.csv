@@ -1,5 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;12/08/2010;40002063728;R$ 630,00;Estimado;CARMEN CHAVES SOARES;4016;Deputado Federal;PSB;PR;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;27/10/2010;40002063732;R$ 1.106,60;Estimado;CARMEN CHAVES SOARES;4016;Deputado Federal;PSB;PR;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;24/09/2010;40002063730;R$ 1.680,00;Depósito em espécie;CARMEN CHAVES SOARES;4016;Deputado Federal;PSB;PR;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;16/09/2010;40002063729;R$ 500,00;Estimado;CARMEN CHAVES SOARES;4016;Deputado Federal;PSB;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANA PAULA BRANDALIZE;049.757.289-31;28/09/2010;       Despesas com pessoal;R$ 280,00;Cheque; -  -  / 4016 - CARMEN CHAVES SOARES - PR - Deputado Federal;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;16/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;45 -  - PSDB -  - Governador / 4016 - CARMEN CHAVES SOARES - PR - Deputado Federal;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;27/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.106,60;Estimado;45 -  - PSDB -  - Governador / 4016 - CARMEN CHAVES SOARES - PR - Deputado Federal;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;12/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 630,00;Estimado;45 -  - PSDB -  - Governador / 4016 - CARMEN CHAVES SOARES - PR - Deputado Federal;
+CARMELIA CHAVES SOARES SANTOS;394.422.929-00;28/09/2010;       Despesas com pessoal;R$ 350,00;Cheque; -  -  / 4016 - CARMEN CHAVES SOARES - PR - Deputado Federal;
+FRANCISCA CHAVES SOARES;025.175.049-38;28/09/2010;       Despesas com pessoal;R$ 350,00;Cheque; -  -  / 4016 - CARMEN CHAVES SOARES - PR - Deputado Federal;
+POLLYANA MARTINS;024.079.539-32;28/09/2010;       Despesas com pessoal;R$ 350,00;Cheque; -  -  / 4016 - CARMEN CHAVES SOARES - PR - Deputado Federal;
+ROBSON LEANDRO MARTINS;031.508.549-54;28/09/2010;       Despesas com pessoal;R$ 350,00;Cheque; -  -  / 4016 - CARMEN CHAVES SOARES - PR - Deputado Federal;

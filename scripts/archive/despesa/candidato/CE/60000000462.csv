@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JF EPITÁCIO PEREIRA FILHO - ME;03.360.900/0001-38;30/09/2010;15000184901;R$ 200,00;Estimado;JOSE JEFERSON GOMES DE FREITAS;15222;Deputado Estadual;PMDB;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JF EPITÁCIO PEREIRA FILHO - ME;03.360.900/0001-38;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado; -  -  / 15222 - JOSE JEFERSON GOMES DE FREITAS - CE - Deputado Estadual;

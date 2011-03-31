@@ -1,5 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEICOES 2010 CLEUSA ROSANE RIBAS FERREIRA DEP FED;12.178.049/0001-18;17/08/2010;43001768201;R$ 335,00;Estimado;IZAQUE DA ROCHA ANDRADE;43567;Deputado Estadual;PV;PR;
-IZAQUE DA ROCHA ANDRADE;093.520.188-26;13/09/2010;43001768203;R$ 200,00;Depósito em espécie;IZAQUE DA ROCHA ANDRADE;43567;Deputado Estadual;PV;PR;
-IZAQUE DA ROCHA ANDRADE;093.520.188-26;25/08/2010;43001768202;R$ 100,00;Depósito em espécie;IZAQUE DA ROCHA ANDRADE;43567;Deputado Estadual;PV;PR;
-IZAQUE DA ROCHA ANDRADE;093.520.188-26;29/10/2010;43001768204;R$ 200,00;Depósito em espécie;IZAQUE DA ROCHA ANDRADE;43567;Deputado Estadual;PV;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO 4;76.425.776/0001-15;13/09/2010;       Publicidade por materiais impressos;R$ 100,00;Cheque; -  -  / 43567 - IZAQUE DA ROCHA ANDRADE - PR - Deputado Estadual;
+ELEICOES 2010 CLEUSA ROSANE RIBAS FERREIRA DEP FED;12.178.049/0001-18;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 335,00;Estimado;4343 -  - PV -  - Deputado Federal / 43567 - IZAQUE DA ROCHA ANDRADE - PR - Deputado Estadual;
+GIANFAGNER BIAZÃO DAS NEVES;070.110.519-45;14/09/2010;       Despesas com pessoal;R$ 100,00;Cheque; -  -  / 43567 - IZAQUE DA ROCHA ANDRADE - PR - Deputado Estadual;
+GRAFICA PÉROLA;00.521.361/0001-83;13/09/2010;       Publicidade por materiais impressos;R$ 40,00;Cheque; -  -  / 43567 - IZAQUE DA ROCHA ANDRADE - PR - Deputado Estadual;
+GRAFICA UMUARAMA;03.895.029/0001-77;31/08/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 43567 - IZAQUE DA ROCHA ANDRADE - PR - Deputado Estadual;
+;;04/11/2010;       Encargos financeiros e taxas bancárias;R$ 59,30;Débito em conta; -  -  / 43567 - IZAQUE DA ROCHA ANDRADE - PR - Deputado Estadual;
+;;22/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,70;Débito em conta; -  -  / 43567 - IZAQUE DA ROCHA ANDRADE - PR - Deputado Estadual;

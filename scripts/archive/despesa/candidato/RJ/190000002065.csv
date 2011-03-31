@@ -1,7 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 JOSE GUILHERME DE MORAES NETO;12.168.151/0001-32;05/08/2010;20000676323;R$ 150,00;Estimado;NEIDE ASSAD GONÇALVES;20077;Deputado Estadual;PSC;RJ;
-ELEIÇÃO 2010 JOSE GUILHERME DE MORAES NETO;12.168.151/0001-32;31/07/2010;20000676322;R$ 640,00;Estimado;NEIDE ASSAD GONÇALVES;20077;Deputado Estadual;PSC;RJ;
-ELEIÇÃO 2010 JOSE GUILHERME DE MORAES NETO DEP FED;12.168.151/0001-32;29/09/2010;20000676326;R$ 1.489,50;Estimado;NEIDE ASSAD GONÇALVES;20077;Deputado Estadual;PSC;RJ;
-NEIDE ASSAD GONÇALVES;351.384.087-04;16/08/2010;20000676325;R$ 400,00;Depósito em espécie;NEIDE ASSAD GONÇALVES;20077;Deputado Estadual;PSC;RJ;
-ROSEMARY LEMOS DE MORAES;767.655.717-87;09/08/2010;20000676324;R$ 90,00;Estimado;NEIDE ASSAD GONÇALVES;20077;Deputado Estadual;PSC;RJ;
-ROSEMARY LEMOS DE MORAES;767.655.717-87;31/07/2010;20000676321;R$ 45,00;Estimado;NEIDE ASSAD GONÇALVES;20077;Deputado Estadual;PSC;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CRIAR CAMISETAS SIGNS GRÁFICA E BRINDES LTDA;11.297.969/0001-92;13/09/2010;       Publicidade por placas, estandartes e faixas;R$ 60,00;Cheque; -  -  / 20077 - NEIDE ASSAD GONÇALVES - RJ - Deputado Estadual;
+ELEIÇÃO 2010 JOSE GUILHERME DE MORAES NETO;12.168.151/0001-32;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;2044 -  - PSC -  - Deputado Federal / 20077 - NEIDE ASSAD GONÇALVES - RJ - Deputado Estadual;
+ELEIÇÃO 2010 JOSE GUILHERME DE MORAES NETO;12.168.151/0001-32;31/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 640,00;Estimado;2044 -  - PSC -  - Deputado Federal / 20077 - NEIDE ASSAD GONÇALVES - RJ - Deputado Estadual;
+ELEIÇÃO 2010 JOSE GUILHERME DE MORAES NETO DEP FED;12.168.151/0001-32;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.489,50;Estimado;2044 -  - PSC -  - Deputado Federal / 20077 - NEIDE ASSAD GONÇALVES - RJ - Deputado Estadual;
+PARCO PAPELARIA LTDA - NFE 1958;05.214.053/0018-77;18/08/2010;       Materiais de expediente;R$ 314,86;Cheque; -  -  / 20077 - NEIDE ASSAD GONÇALVES - RJ - Deputado Estadual;
+ROSEMARY LEMOS DE MORAES;767.655.717-87;09/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 90,00;Estimado; -  -  / 20077 - NEIDE ASSAD GONÇALVES - RJ - Deputado Estadual;
+ROSEMARY LEMOS DE MORAES;767.655.717-87;31/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 45,00;Estimado; -  -  / 20077 - NEIDE ASSAD GONÇALVES - RJ - Deputado Estadual;
+20077 - NEIDE ASSAD GONÇALVES - DEPUTADO ESTADUAL;12.175.756/0001-50;22/10/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 25,14;Depósito em espécie;Direção Estadual/Distrital - PSC - RJ / 20077 - NEIDE ASSAD GONÇALVES - RJ - Deputado Estadual;

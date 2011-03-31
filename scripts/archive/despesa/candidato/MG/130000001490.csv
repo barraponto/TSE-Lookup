@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.213/0001-39;20/09/2010;40002208576;R$ 1.500,00;Cheque;GIOVANNI BASTOS GONCALVES;40490;Deputado Estadual;PSB;MG;
-Comitê Financeiro Único;12.205.213/0001-39;30/09/2010;40002208579;R$ 27,95;Estimado;GIOVANNI BASTOS GONCALVES;40490;Deputado Estadual;PSB;MG;
-Comitê Financeiro Único;12.205.213/0001-39;17/09/2010;40002208578;R$ 1.197,84;Estimado;GIOVANNI BASTOS GONCALVES;40490;Deputado Estadual;PSB;MG;
-Comitê Financeiro Único;12.205.213/0001-39;17/09/2010;40002208577;R$ 508,00;Estimado;GIOVANNI BASTOS GONCALVES;40490;Deputado Estadual;PSB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.213/0001-39;17/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.197,84;Estimado;Comitê Financeiro Único - PSB -  / 40490 - GIOVANNI BASTOS GONCALVES - MG - Deputado Estadual;
+Comitê Financeiro Único;12.205.213/0001-39;17/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 508,00;Estimado;Comitê Financeiro Único - PSB -  / 40490 - GIOVANNI BASTOS GONCALVES - MG - Deputado Estadual;
+Comitê Financeiro Único;12.205.213/0001-39;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 27,95;Estimado;Comitê Financeiro Único - PSB -  / 40490 - GIOVANNI BASTOS GONCALVES - MG - Deputado Estadual;
+GRÁFICA ESTRELA DA MANHÃ LTDA.;02.412.259/0001-75;27/09/2010;       Publicidade por materiais impressos;R$ 590,00;Cheque; -  -  / 40490 - GIOVANNI BASTOS GONCALVES - MG - Deputado Estadual;
+RITA DE CÁSSIA ROCHA;251.612.026-53;30/09/2010;       Despesas com pessoal;R$ 910,00;Cheque; -  -  / 40490 - GIOVANNI BASTOS GONCALVES - MG - Deputado Estadual;

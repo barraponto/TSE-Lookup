@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.270.065/0001-36;09/08/2010;27000043701;R$ 360,00;Estimado;OLIVEIRA ALVES VIEIRA;27777;Deputado Distrital;PSDC;DF;
-Diretório Estadual/Distrital;12.270.065/0001-36;16/08/2010;27000043703;R$ 360,00;Estimado;OLIVEIRA ALVES VIEIRA;27777;Deputado Distrital;PSDC;DF;
-OLIVEIRA ALVES VIEIRA;098.743.211-72;13/08/2010;27000043702;R$ 1.400,00;Cheque;OLIVEIRA ALVES VIEIRA;27777;Deputado Distrital;PSDC;DF;
-OLIVEIRA ALVES VIEIRA;098.743.211-72;21/09/2010;27000043704;R$ 650,00;Cheque;OLIVEIRA ALVES VIEIRA;27777;Deputado Distrital;PSDC;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BSB FORMULARIOS CONTINUOS E EDITORA LTDA;72.588.668/0001-02;23/09/2010;       Publicidade por materiais impressos;R$ 850,00;Cheque; -  -  / 27777 - OLIVEIRA ALVES VIEIRA - DF - Deputado Distrital;
+CRACHAS BRASILIA LTDA ME;07.160.094/0001-05;16/08/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 27777 - OLIVEIRA ALVES VIEIRA - DF - Deputado Distrital;
+CRACHAS BRASILIA LTDA ME;07.160.094/0001-05;26/08/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 27777 - OLIVEIRA ALVES VIEIRA - DF - Deputado Distrital;
+Diretório Estadual/Distrital;12.270.065/0001-36;09/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Direção Estadual/Distrital - PSDC -  / 27777 - OLIVEIRA ALVES VIEIRA - DF - Deputado Distrital;
+Diretório Estadual/Distrital;12.270.065/0001-36;16/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Direção Estadual/Distrital - PSDC -  / 27777 - OLIVEIRA ALVES VIEIRA - DF - Deputado Distrital;

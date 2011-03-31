@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEICAO 2010 JAQUES WAGNER GOVERNADOR;12.174.245/0001-14;15/09/2010;10000004180;R$ 1.200,00;Estimado;ALCINO SABADINI;10950;Deputado Estadual;PRB;BA;
-ELEIÇAO 2010 JAQUES WAGNER GOVERNADOR;12.174.245/0001-14;15/09/2010;10000004182;R$ 875,00;Estimado;ALCINO SABADINI;10950;Deputado Estadual;PRB;BA;
-ELEIÇAO 2010 JAQUES WAGNER GOVERNADOR;12.174.245/0001-14;15/09/2010;10000004183;R$ 550,00;Estimado;ALCINO SABADINI;10950;Deputado Estadual;PRB;BA;
-ELEIÇAO 2010 JAQUES WAGNER GOVERNADOR;12.174.245/0001-14;15/09/2010;10000004181;R$ 875,00;Estimado;ALCINO SABADINI;10950;Deputado Estadual;PRB;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEICAO 2010 JAQUES WAGNER GOVERNADOR;12.174.245/0001-14;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.200,00;Estimado;13 -  - PT -  - Governador / 10950 - ALCINO SABADINI - BA - Deputado Estadual;
+ELEIÇAO 2010 JAQUES WAGNER GOVERNADOR;12.174.245/0001-14;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 550,00;Estimado;13 -  - PT -  - Governador / 10950 - ALCINO SABADINI - BA - Deputado Estadual;
+ELEIÇAO 2010 JAQUES WAGNER GOVERNADOR;12.174.245/0001-14;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 875,00;Estimado;13 -  - PT -  - Governador / 10950 - ALCINO SABADINI - BA - Deputado Estadual;
+ELEIÇAO 2010 JAQUES WAGNER GOVERNADOR;12.174.245/0001-14;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 875,00;Estimado;13 -  - PT -  - Governador / 10950 - ALCINO SABADINI - BA - Deputado Estadual;

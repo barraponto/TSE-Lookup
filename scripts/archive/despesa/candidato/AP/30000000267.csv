@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-J.M.P. PAES NETTO;07.861.585/0001-83;02/09/2010;23000040122;R$ 1.000,00;Estimado;BENEDITO ANISO ALBERTO NERI;23456;Deputado Estadual;PPS;AP;
-MARIA DE FÁTIMA ALBERTO NERI;261.469.402-91;26/07/2010;23000040121;R$ 240,00;Estimado;BENEDITO ANISO ALBERTO NERI;23456;Deputado Estadual;PPS;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+J.M.P. PAES NETTO;07.861.585/0001-83;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 23456 - BENEDITO ANISO ALBERTO NERI - AP - Deputado Estadual;
+MARIA DE FÁTIMA ALBERTO NERI;261.469.402-91;26/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 240,00;Estimado; -  -  / 23456 - BENEDITO ANISO ALBERTO NERI - AP - Deputado Estadual;

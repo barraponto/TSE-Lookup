@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALFREDO PEREIRA DO NASCIMENTO;12.169.771/0001-96;09/09/2010;12001006911;R$ 2.000,00;Cheque;NELS NELSON OLIVEIRA DOS SANTOS;12321;Deputado Estadual;PDT;AM;
-Comitê Financeiro Único;12.156.263/0001-73;21/07/2010;12001006912;R$ 250,00;Estimado;NELS NELSON OLIVEIRA DOS SANTOS;12321;Deputado Estadual;PDT;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.156.263/0001-73;21/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;Comitê Financeiro Único - PDT -  / 12321 - NELS NELSON OLIVEIRA DOS SANTOS - AM - Deputado Estadual;
+JOAO LUIZ PINA ESTEVES;259.441.505-72;13/09/2010;       Despesas com pessoal;R$ 2.000,00;Cheque; -  -  / 12321 - NELS NELSON OLIVEIRA DOS SANTOS - AM - Deputado Estadual;

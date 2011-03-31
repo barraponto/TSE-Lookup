@@ -1,2 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CRISTIANO CARRILHO SILVEIRA DE MEDEIROS;881.048.184-49;27/07/2010;43001842536;R$ 1.000,00;Transferência eletrônica;CRISTIANO CARRILHO SILVEIRA DE MEDEIROS;4311;Deputado Federal;PV;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JARIO SANTANA SANTOS;011.653.394-39;30/09/2010;       Serviços prestados por terceiros;R$ 154,40;Cheque; -  -  / 4311 - CRISTIANO CARRILHO SILVEIRA DE MEDEIROS - PE - Deputado Federal;
+SIM SISTEMA INTEGRADO MULTIMIDIA LTDA;09.554.907/0001-77;26/07/2010;       Publicidade por materiais impressos;R$ 760,75;Cheque; -  -  / 4311 - CRISTIANO CARRILHO SILVEIRA DE MEDEIROS - PE - Deputado Federal;
+SIM SISTEMA INTEGRADO MULTIMIDIA LTDA;09.554.907/0001-77;30/07/2010;       Publicidade por materiais impressos;R$ 84,50;Cheque; -  -  / 4311 - CRISTIANO CARRILHO SILVEIRA DE MEDEIROS - PE - Deputado Federal;
+;;03/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 4311 - CRISTIANO CARRILHO SILVEIRA DE MEDEIROS - PE - Deputado Federal;

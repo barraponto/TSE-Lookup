@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FRANCISCO JOAQUIM DE MEDEIROS;116.593.001-34;16/07/2010;50000139151;R$ 950,00;Depósito em espécie;FRANCISCO JOAQUIM DE MEDEIROS;50222;Deputado Distrital;PSOL;DF;
-FRANCISCO JOAQUIM DE MEDEIROS;116.593.001-34;17/09/2010;50000139154;R$ 400,00;Depósito em espécie;FRANCISCO JOAQUIM DE MEDEIROS;50222;Deputado Distrital;PSOL;DF;
-FRANCISCO JOAQUIM DE MEDEIROS;116.593.001-34;13/08/2010;50000139153;R$ 300,00;Depósito em espécie;FRANCISCO JOAQUIM DE MEDEIROS;50222;Deputado Distrital;PSOL;DF;
-FRANCISCO JOAQUIM DE MEDEIROS;116.593.001-34;30/07/2010;50000139152;R$ 600,00;Depósito em espécie;FRANCISCO JOAQUIM DE MEDEIROS;50222;Deputado Distrital;PSOL;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+J BRINDES LTDA;04.679.318/0001-00;21/07/2010;       Publicidade por materiais impressos;R$ 1.500,00;Cheque; -  -  / 50222 - FRANCISCO JOAQUIM DE MEDEIROS - DF - Deputado Distrital;
+J BRINDES LTDA;04.679.318/0001-00;24/08/2010;       Publicidade por materiais impressos;R$ 250,00;Cheque; -  -  / 50222 - FRANCISCO JOAQUIM DE MEDEIROS - DF - Deputado Distrital;
+J BRINDES LTDA;04.679.318/0001-00;28/09/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 50222 - FRANCISCO JOAQUIM DE MEDEIROS - DF - Deputado Distrital;
+50222 - FRANCISCO JOAQUIM DE MEDEIROS - DEPUTADO DISTRITAL;12.198.478/0001-57;29/10/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 86,00;Depósito em espécie;Direção Estadual/Distrital - PSOL - DF / 50222 - FRANCISCO JOAQUIM DE MEDEIROS - DF - Deputado Distrital;
+;;23/07/2010;       Impostos, contribuições e taxas;R$ 14,00;Débito em conta; -  -  / 50222 - FRANCISCO JOAQUIM DE MEDEIROS - DF - Deputado Distrital;

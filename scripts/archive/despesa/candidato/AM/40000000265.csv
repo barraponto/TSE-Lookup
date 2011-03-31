@@ -1,2 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALFREDO PEREIRA DO NASCIMENTO;12.169.771/0001-96;03/08/2010;17000026651;R$ 2.000,00;Cheque;MARIA DO SOCORRO DOS SANTOS MARINHO;1713;Deputado Federal;PSL;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CELIO ALVES GOMES;133.451.412-72;11/08/2010;       Combustíveis e lubrificantes;R$ 180,00;Cheque; -  -  / 1713 - MARIA DO SOCORRO DOS SANTOS MARINHO - AM - Deputado Federal;
+CELIO ALVES GOMES;133.451.412-72;11/08/2010;       Cessão ou Locação de Veículos;R$ 1.800,00;Cheque; -  -  / 1713 - MARIA DO SOCORRO DOS SANTOS MARINHO - AM - Deputado Federal;
+;;29/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 1713 - MARIA DO SOCORRO DOS SANTOS MARINHO - AM - Deputado Federal;

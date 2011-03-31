@@ -1,5 +1,13 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLITO FERREIRA PEREIRA DOS SANTOS;079.475.185-72;31/08/2010;22000012201;R$ 2.000,00;Depósito em espécie;CARLITO FERREIRA PEREIRA DOS SANTOS;2233;Deputado Federal;PR;BA;
-CARLITO FERREIRA PEREIRA DOS SANTOS;079.475.185-72;28/09/2010;22000012204;R$ 700,00;Depósito em espécie;CARLITO FERREIRA PEREIRA DOS SANTOS;2233;Deputado Federal;PR;BA;
-CARLITO FERREIRA PEREIRA DOS SANTOS;079.475.185-72;15/08/2010;22000012203;R$ 5.000,00;Depósito em espécie;CARLITO FERREIRA PEREIRA DOS SANTOS;2233;Deputado Federal;PR;BA;
-CARLITO FERREIRA PEREIRA DOS SANTOS;079.475.185-72;08/09/2010;22000012202;R$ 520,00;Depósito em espécie;CARLITO FERREIRA PEREIRA DOS SANTOS;2233;Deputado Federal;PR;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADIEL SANTOS FONTES;799.515.115-20;17/09/2010;       Criação e inclusão de páginas na internet;R$ 480,00;Cheque; -  -  / 2233 - CARLITO FERREIRA PEREIRA DOS SANTOS - BA - Deputado Federal;
+GIVANILDO SANTOS LIMA;912.337.125-00;02/10/2010;       Despesas com pessoal;R$ 140,00;Cheque; -  -  / 2233 - CARLITO FERREIRA PEREIRA DOS SANTOS - BA - Deputado Federal;
+IVAN VIEIRA DE OLIVEIRA FILHO;020.794.165-37;16/09/2010;       Criação e inclusão de páginas na internet;R$ 1.000,00;Cheque; -  -  / 2233 - CARLITO FERREIRA PEREIRA DOS SANTOS - BA - Deputado Federal;
+LENILSON DOS SANTOS TRINDADE;928.059.145-20;27/09/2010;       Publicidade por carros de som;R$ 400,00;Cheque; -  -  / 2233 - CARLITO FERREIRA PEREIRA DOS SANTOS - BA - Deputado Federal;
+MARIVALDO SANTOS ANGELO;030.474.195-74;24/09/2010;       Despesas com pessoal;R$ 600,00;Cheque; -  -  / 2233 - CARLITO FERREIRA PEREIRA DOS SANTOS - BA - Deputado Federal;
+MORZANI BULOS BACELAR;07.067.439/0001-80;25/09/2010;       Publicidade por materiais impressos;R$ 1.900,00;Cheque; -  -  / 2233 - CARLITO FERREIRA PEREIRA DOS SANTOS - BA - Deputado Federal;
+MORZANI BULOS BACELAR;07.067.439/0001-80;30/09/2010;       Publicidade por materiais impressos;R$ 1.200,00;Cheque; -  -  / 2233 - CARLITO FERREIRA PEREIRA DOS SANTOS - BA - Deputado Federal;
+MULTIMIDIA INDUSTRA COMERCIO E EDITORA LTDA;09.424.089/0001-98;30/09/2010;       Publicidade por materiais impressos;R$ 800,00;Cheque; -  -  / 2233 - CARLITO FERREIRA PEREIRA DOS SANTOS - BA - Deputado Federal;
+NORMANDO PASSOS LIMA FILHO;740.787.045-49;16/09/2010;       Despesas com pessoal;R$ 250,00;Cheque; -  -  / 2233 - CARLITO FERREIRA PEREIRA DOS SANTOS - BA - Deputado Federal;
+SANDRA PAULA DA SILVA;009.133.785-26;21/09/2010;       Criação e inclusão de páginas na internet;R$ 500,00;Cheque; -  -  / 2233 - CARLITO FERREIRA PEREIRA DOS SANTOS - BA - Deputado Federal;
+VALDIRENE PINTO REIS;031.081.755-21;28/09/2010;       Despesas com pessoal;R$ 150,00;Cheque; -  -  / 2233 - CARLITO FERREIRA PEREIRA DOS SANTOS - BA - Deputado Federal;
+VALDIRENE PINTO REIS;031.081.755-21;16/09/2010;       Despesas com pessoal;R$ 220,00;Cheque; -  -  / 2233 - CARLITO FERREIRA PEREIRA DOS SANTOS - BA - Deputado Federal;

@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-EURIDES RODRIGUES DE FREITAS;611.769.076-20;02/10/2010;19000016852;R$ 300,00;Estimado;JAIRO MARTINS DE SOUZA;1999;Deputado Federal;PTN;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EURIDES RODRIGUES DE FREITAS;611.769.076-20;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 1999 - JAIRO MARTINS DE SOUZA - GO - Deputado Federal;

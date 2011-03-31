@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
-DALVACIR AZEVEDO DE GOIS;007.288.128-35;30/10/2010;50000548512;R$ 758,46;Estimado;Comitê Financeiro Único;PSOL;SE;
-DALVACIR AZEVEDO DE GOIS;007.288.128-35;30/10/2010;50000548514;R$ 50,00;Estimado;Comitê Financeiro Único;PSOL;SE;
-DALVACIR AZEVEDO DE GOIS;007.288.128-35;30/10/2010;50000548513;R$ 150,00;Estimado;Comitê Financeiro Único;PSOL;SE;
-DALVACIR AZEVEDO DE GOIS;007.288.128-35;30/10/2010;50000548515;R$ 14,25;Estimado;Comitê Financeiro Único;PSOL;SE;
-JOÃO PAULO DA SILVA SANTANA;022.083.975-17;30/10/2010;50000548511;R$ 100,00;Estimado;Comitê Financeiro Único;PSOL;SE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DALVACIR AZEVEDO DE GOIS;007.288.128-35;30/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 758,46;Estimado; -  -  / Comitê Financeiro Único - PSOL - SE;
+DALVACIR AZEVEDO DE GOIS;007.288.128-35;30/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado; -  -  / Comitê Financeiro Único - PSOL - SE;
+DALVACIR AZEVEDO DE GOIS;007.288.128-35;30/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 50,00;Estimado; -  -  / Comitê Financeiro Único - PSOL - SE;
+DALVACIR AZEVEDO DE GOIS;007.288.128-35;30/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 14,25;Estimado; -  -  / Comitê Financeiro Único - PSOL - SE;
+JOÃO PAULO DA SILVA SANTANA;022.083.975-17;30/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado; -  -  / Comitê Financeiro Único - PSOL - SE;

@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO AUGUSTO JUNHO ANASTASIA;12.177.426/0001-02;29/10/2010;20000322123;R$ 1.215,72;Estimado;ROVILSON DE ASSIS PIMENTEL;2013;Deputado Federal;PSC;MG;
-ANTONIO AUGUSTO JUNHO ANASTASIA;12.177.426/0001-02;29/10/2010;20000322124;R$ 27,95;Estimado;ROVILSON DE ASSIS PIMENTEL;2013;Deputado Federal;PSC;MG;
-Comitê Financeiro Único;12.191.503/0001-70;24/08/2010;20000322121;R$ 530,00;Estimado;ROVILSON DE ASSIS PIMENTEL;2013;Deputado Federal;PSC;MG;
-ROVILSON DE ASSIS PIMENTEL;495.600.266-15;06/08/2010;20000322122;R$ 1.020,00;Estimado;ROVILSON DE ASSIS PIMENTEL;2013;Deputado Federal;PSC;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO AUGUSTO JUNHO ANASTASIA;12.177.426/0001-02;29/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 27,95;Estimado;45 -  - PSDB -  - Governador / 2013 - ROVILSON DE ASSIS PIMENTEL - MG - Deputado Federal;
+ANTONIO AUGUSTO JUNHO ANASTASIA;12.177.426/0001-02;29/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.215,72;Estimado;45 -  - PSDB -  - Governador / 2013 - ROVILSON DE ASSIS PIMENTEL - MG - Deputado Federal;
+Comitê Financeiro Único;12.191.503/0001-70;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 530,00;Estimado;Comitê Financeiro Único - PSC -  / 2013 - ROVILSON DE ASSIS PIMENTEL - MG - Deputado Federal;
+ROVILSON DE ASSIS PIMENTEL;495.600.266-15;06/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.020,00;Estimado; -  -  / 2013 - ROVILSON DE ASSIS PIMENTEL - MG - Deputado Federal;

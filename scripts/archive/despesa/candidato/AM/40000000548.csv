@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.172/0001-98;03/09/2010;43001903352;R$ 3.200,00;Estimado;ALEANE JOSELE COSTA DE SOUSA;43144;Deputado Estadual;PV;AM;
-Comitê Financeiro Único;12.229.930/0001-09;01/09/2010;43001903350;R$ 170,00;Estimado;ALEANE JOSELE COSTA DE SOUSA;43144;Deputado Estadual;PV;AM;
-Comitê Financeiro Único;12.229.930/0001-09;01/09/2010;43001903351;R$ 258,70;Estimado;ALEANE JOSELE COSTA DE SOUSA;43144;Deputado Estadual;PV;AM;
-EDMILZA RABELO LIMA;811.761.802-82;01/09/2010;43001903346;R$ 510,00;Estimado;ALEANE JOSELE COSTA DE SOUSA;43144;Deputado Estadual;PV;AM;
-EFRAM FERREIRA GOMES;838.651.872-34;01/09/2010;43001903347;R$ 510,00;Estimado;ALEANE JOSELE COSTA DE SOUSA;43144;Deputado Estadual;PV;AM;
-ELIAN FERREIRA GOMES;743.726.452-87;01/09/2010;43001903348;R$ 510,00;Estimado;ALEANE JOSELE COSTA DE SOUSA;43144;Deputado Estadual;PV;AM;
-MARCUS PANTOJA DE QUEIROZ;952.964.332-20;01/09/2010;43001903349;R$ 510,00;Estimado;ALEANE JOSELE COSTA DE SOUSA;43144;Deputado Estadual;PV;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.172/0001-98;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.200,00;Estimado;Comitê Financeiro Único - PSDB -  / 43144 - ALEANE JOSELE COSTA DE SOUSA - AM - Deputado Estadual;
+Comitê Financeiro Único;12.229.930/0001-09;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 258,70;Estimado;Comitê Financeiro Único - PV -  / 43144 - ALEANE JOSELE COSTA DE SOUSA - AM - Deputado Estadual;
+Comitê Financeiro Único;12.229.930/0001-09;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 170,00;Estimado;Comitê Financeiro Único - PV -  / 43144 - ALEANE JOSELE COSTA DE SOUSA - AM - Deputado Estadual;
+EDMILZA RABELO LIMA;811.761.802-82;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 510,00;Estimado; -  -  / 43144 - ALEANE JOSELE COSTA DE SOUSA - AM - Deputado Estadual;
+EFRAM FERREIRA GOMES;838.651.872-34;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 510,00;Estimado; -  -  / 43144 - ALEANE JOSELE COSTA DE SOUSA - AM - Deputado Estadual;
+ELIAN FERREIRA GOMES;743.726.452-87;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 510,00;Estimado; -  -  / 43144 - ALEANE JOSELE COSTA DE SOUSA - AM - Deputado Estadual;
+MARCUS PANTOJA DE QUEIROZ;952.964.332-20;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 510,00;Estimado; -  -  / 43144 - ALEANE JOSELE COSTA DE SOUSA - AM - Deputado Estadual;

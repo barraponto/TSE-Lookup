@@ -1,5 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ENÉIAS ANTONIO MARTINS;590.899.036-15;13/08/2010;50000232301;R$ 300,00;Depósito em espécie;ENEIAS ANTONIO MARTINS;50707;Deputado Estadual;PSOL;MG;
-ENÉIAS ANTONIO MARTINS;590.899.036-15;28/09/2010;50000232304;R$ 500,00;Depósito em espécie;ENEIAS ANTONIO MARTINS;50707;Deputado Estadual;PSOL;MG;
-ENÉIAS ANTONIO MARTINS;590.899.036-15;23/09/2010;50000232303;R$ 660,00;Depósito em espécie;ENEIAS ANTONIO MARTINS;50707;Deputado Estadual;PSOL;MG;
-FIDELIS ALDO DE MORAES;106.600.798-52;13/08/2010;50000232302;R$ 300,00;Depósito em espécie;ENEIAS ANTONIO MARTINS;50707;Deputado Estadual;PSOL;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+SEMPRE EDITORA LTDA;26.198.515/0004-84;28/09/2010;       Publicidade por jornais e revistas;R$ 500,00;Cheque; -  -  / 50707 - ENEIAS ANTONIO MARTINS - MG - Deputado Estadual;
+SEMPRE EDITORA LTDA;26.198.515/0004-84;13/08/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 50707 - ENEIAS ANTONIO MARTINS - MG - Deputado Estadual;
+SEMPRE EDITORA LTDA;26.198.515/0004-84;21/09/2010;       Publicidade por materiais impressos;R$ 660,00;Cheque; -  -  / 50707 - ENEIAS ANTONIO MARTINS - MG - Deputado Estadual;

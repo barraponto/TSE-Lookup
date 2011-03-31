@@ -1,2 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DNIZETE LIMA NASCIMENTO;530.948.836-72;30/08/2010;50000233201;R$ 3.200,00;Depósito em espécie;THIAGO FELIPE GOMES LIMA DO NASCIMENTO;50123;Deputado Estadual;PSOL;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DEJAN GRAFICA E EDITORA LTDA;26.338.269/0001-76;13/08/2010;       Publicidade por materiais impressos;R$ 2.200,00;Cheque; -  -  / 50123 - THIAGO FELIPE GOMES LIMA DO NASCIMENTO - MG - Deputado Estadual;
+GRAFICA DIGITAL DE MONTES CLAROS LTDA;08.654.009/0001-28;30/08/2010;       Publicidade por materiais impressos;R$ 841,00;Cheque; -  -  / 50123 - THIAGO FELIPE GOMES LIMA DO NASCIMENTO - MG - Deputado Estadual;
+JOAO ROBERTO MARQUES DO VALE;278.104.615-91;30/08/2010;       Serviços prestados por terceiros;R$ 100,00;Cheque; -  -  / 50123 - THIAGO FELIPE GOMES LIMA DO NASCIMENTO - MG - Deputado Estadual;
+OSMARINA DA COSTA SILVA;775.760.806-63;16/09/2010;       Serviços prestados por terceiros;R$ 20,00;Cheque; -  -  / 50123 - THIAGO FELIPE GOMES LIMA DO NASCIMENTO - MG - Deputado Estadual;

@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANA JULIA DE VASCOCELOS CAREPA;12.171.430/0001-55;09/09/2010;43001883827;R$ 1.920,93;Estimado;AGUINALDO COSTA DA SILVA;43227;Deputado Estadual;PV;PA;
-ANA JULIA DE VASCONCELOS CAREPA;12.171.430/0001-55;29/09/2010;43001883829;R$ 2.070,75;Estimado;AGUINALDO COSTA DA SILVA;43227;Deputado Estadual;PV;PA;
-ANA JULIA DE VASCONCELOS CAREPA;12.171.430/0001-55;10/09/2010;43001883828;R$ 2.325,58;Estimado;AGUINALDO COSTA DA SILVA;43227;Deputado Estadual;PV;PA;
-ANA JULIA DE VASCONCELOS CAREPA;12.171.430/0001-55;13/09/2010;43001883826;R$ 1.395,35;Estimado;AGUINALDO COSTA DA SILVA;43227;Deputado Estadual;PV;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANA JULIA DE VASCOCELOS CAREPA;12.171.430/0001-55;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.920,93;Estimado;13 -  - PT -  - Governador / 43227 - AGUINALDO COSTA DA SILVA - PA - Deputado Estadual;
+ANA JULIA DE VASCONCELOS CAREPA;12.171.430/0001-55;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.070,75;Estimado;13 -  - PT -  - Governador / 43227 - AGUINALDO COSTA DA SILVA - PA - Deputado Estadual;
+ANA JULIA DE VASCONCELOS CAREPA;12.171.430/0001-55;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.325,58;Estimado;13 -  - PT -  - Governador / 43227 - AGUINALDO COSTA DA SILVA - PA - Deputado Estadual;
+ANA JULIA DE VASCONCELOS CAREPA;12.171.430/0001-55;13/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.395,35;Estimado;13 -  - PT -  - Governador / 43227 - AGUINALDO COSTA DA SILVA - PA - Deputado Estadual;

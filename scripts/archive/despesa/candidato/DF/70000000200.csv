@@ -1,7 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-RAIMUNDO JOSE PIMENTEL REIS;238.275.213-00;21/07/2010;17000029101;R$ 2.000,00;Depósito em espécie;RAIMUNDO JOSE PIMENTEL REIS;17250;Deputado Distrital;PSL;DF;
-RAIMUNDO JOSE PIMENTEL REIS;238.275.213-00;26/07/2010;17000029102;R$ 400,00;Depósito em espécie;RAIMUNDO JOSE PIMENTEL REIS;17250;Deputado Distrital;PSL;DF;
-RAIMUNDO JOSE PIMENTEL REIS;238.275.213-00;18/08/2010;17000029103;R$ 600,00;Depósito em espécie;RAIMUNDO JOSE PIMENTEL REIS;17250;Deputado Distrital;PSL;DF;
-RAIMUNDO JOSE PIMENTEL REIS;238.275.213-00;25/08/2010;17000029104;R$ 1.000,00;Depósito em espécie;RAIMUNDO JOSE PIMENTEL REIS;17250;Deputado Distrital;PSL;DF;
-WINE & COM COML DE BEBIDAS LTDA;05.407.560/0001-89;30/09/2010;17000029105;R$ 500,00;Depósito em espécie;RAIMUNDO JOSE PIMENTEL REIS;17250;Deputado Distrital;PSL;DF;
-WINE & COM COML DE BEBIDAS LTDA;05.407.560/0001-89;01/10/2010;17000029106;R$ 70,00;Depósito em espécie;RAIMUNDO JOSE PIMENTEL REIS;17250;Deputado Distrital;PSL;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DALLAS SERVIÇOS GRAFICOS LTDA ME;11.112.858/0001-64;26/08/2010;       Publicidade por materiais impressos;R$ 470,00;Cheque; -  -  / 17250 - RAIMUNDO JOSE PIMENTEL REIS - DF - Deputado Distrital;
+DALLAS SERVIÇOS GRAFICOS LTDA ME;11.112.858/0001-64;23/07/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 17250 - RAIMUNDO JOSE PIMENTEL REIS - DF - Deputado Distrital;
+DIGITAL MASTERS LTDA ME;11.367.824/0001-10;18/08/2010;       Serviços prestados por terceiros;R$ 600,00;Cheque; -  -  / 17250 - RAIMUNDO JOSE PIMENTEL REIS - DF - Deputado Distrital;
+DIS COMERCIO DE EQUIPAMENTOS ELETRONICOS DE AUDIO E VIDEO LTDA ME;05.114.031/0001-97;23/07/2010;       Serviços prestados por terceiros;R$ 700,00;Cheque; -  -  / 17250 - RAIMUNDO JOSE PIMENTEL REIS - DF - Deputado Distrital;
+OMEGA PLASTIFICACAO E GRAFICA LTDA ME;10.912.423/0001-31;26/08/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 17250 - RAIMUNDO JOSE PIMENTEL REIS - DF - Deputado Distrital;
+SERI CARD ONLINE SERVICOS GRAFICOS LTDA;11.708.660/0001-48;14/09/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 17250 - RAIMUNDO JOSE PIMENTEL REIS - DF - Deputado Distrital;
+WM COMUNICACAO VISUAL LTDA ME;05.055.276/0001-90;22/07/2010;       Publicidade por materiais impressos;R$ 1.300,00;Cheque; -  -  / 17250 - RAIMUNDO JOSE PIMENTEL REIS - DF - Deputado Distrital;

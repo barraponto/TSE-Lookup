@@ -1,2 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇAO 2010 ROBERTO ROBAINA;12.154.815/0001-04;24/09/2010;50000480061;R$ 388,12;Transferência eletrônica;PAULO ROGERIO BENITES;5080;Deputado Federal;PSOL;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JK EMPRESA JORNALISTICA LTDA;04.842.757/0001-83;28/09/2010;       Publicidade por jornais e revistas;R$ 174,72;Cheque; -  -  / 5080 - PAULO ROGERIO BENITES - RS - Deputado Federal;
+JORNAL CORREIO DO PAMPA;07.775.969/0001-83;28/09/2010;       Publicidade por jornais e revistas;R$ 213,40;Cheque; -  -  / 5080 - PAULO ROGERIO BENITES - RS - Deputado Federal;

@@ -1,4 +1,13 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSE WAGNER DE OLIVEIRA;078.704.694-91;16/08/2010;21000011269;R$ 600,00;Depósito em espécie;JOSÉ WAGNER DE OLIVEIRA;2111;Deputado Federal;PCB;PB;
-JOSE WAGNER DE OLIVEIRA;078.704.694-91;03/09/2010;21000011272;R$ 200,00;Transferência eletrônica;JOSÉ WAGNER DE OLIVEIRA;2111;Deputado Federal;PCB;PB;
-JOSE WAGNER DE OLIVEIRA;078.704.694-91;03/09/2010;;R$ 80,00;Depósito em espécie;JOSÉ WAGNER DE OLIVEIRA;2111;Deputado Federal;PCB;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA ATUAL LTDA - ME;00.647.076/0001-03;09/09/2010;       Publicidade por materiais impressos;R$ 150,00;Cheque; -  -  / 2111 - JOSÉ WAGNER DE OLIVEIRA - PB - Deputado Federal;
+HS LOCAÇÃO DE MAQUINAS COPIADORAS LTDA;00.491.724/0001-85;19/08/2010;       Publicidade por materiais impressos;R$ 100,00;Cheque; -  -  / 2111 - JOSÉ WAGNER DE OLIVEIRA - PB - Deputado Federal;
+ORLANDO VIDEO E PRODUÇÕES;08.314.388/0001-07;30/08/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 500,00;Cheque; -  -  / 2111 - JOSÉ WAGNER DE OLIVEIRA - PB - Deputado Federal;
+;;03/09/2010;       Encargos financeiros e taxas bancárias;R$ 3,00;Débito em conta; -  -  / 2111 - JOSÉ WAGNER DE OLIVEIRA - PB - Deputado Federal;
+;;30/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 2111 - JOSÉ WAGNER DE OLIVEIRA - PB - Deputado Federal;
+;;30/08/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 2111 - JOSÉ WAGNER DE OLIVEIRA - PB - Deputado Federal;
+;;25/10/2010;       Encargos financeiros e taxas bancárias;R$ 15,00;Débito em conta; -  -  / 2111 - JOSÉ WAGNER DE OLIVEIRA - PB - Deputado Federal;
+;;24/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 2111 - JOSÉ WAGNER DE OLIVEIRA - PB - Deputado Federal;
+;;27/09/2010;       Encargos financeiros e taxas bancárias;R$ 15,00;Débito em conta; -  -  / 2111 - JOSÉ WAGNER DE OLIVEIRA - PB - Deputado Federal;
+;;16/08/2010;       Encargos financeiros e taxas bancárias;R$ 28,50;Débito em conta; -  -  / 2111 - JOSÉ WAGNER DE OLIVEIRA - PB - Deputado Federal;
+;;25/08/2010;       Encargos financeiros e taxas bancárias;R$ 15,00;Débito em conta; -  -  / 2111 - JOSÉ WAGNER DE OLIVEIRA - PB - Deputado Federal;
+;;24/08/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 2111 - JOSÉ WAGNER DE OLIVEIRA - PB - Deputado Federal;

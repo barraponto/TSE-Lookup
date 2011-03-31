@@ -1,2 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-RENI VILMAR DOS SANTOS;661.249.990-72;24/09/2010;43001824876;R$ 200,00;Depósito em espécie;RENI VILMAR DOS SANTOS;4311;Deputado Federal;PV;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+MARGARETE CARPES;533.363.640-00;02/10/2010;       Despesas com pessoal;R$ 60,00;Cheque; -  -  / 4311 - RENI VILMAR DOS SANTOS - RS - Deputado Federal;
+TEMPOGRAFICA LTDA;05.576.187/0001-90;01/09/2010;       Publicidade por materiais impressos;R$ 140,00;Cheque; -  -  / 4311 - RENI VILMAR DOS SANTOS - RS - Deputado Federal;

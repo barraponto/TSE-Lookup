@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JORGE PANZERA;12.204.180/0001-02;05/08/2010;65000223801;R$ 240,00;Estimado;MARIA DE NAZARE DOS SANTOS RODRIGUES;65412;Deputado Estadual;PC do B;PA;
-JORGE PANZERA;12.204.180/0001-02;22/09/2010;65000223802;R$ 1.000,00;Cheque;MARIA DE NAZARE DOS SANTOS RODRIGUES;65412;Deputado Estadual;PC do B;PA;
-JORGE PANZERA;12.204.180/0001-02;02/10/2010;65000223807;R$ 143,00;Estimado;MARIA DE NAZARE DOS SANTOS RODRIGUES;65412;Deputado Estadual;PC do B;PA;
-JORGE PANZERA;12.204.180/0001-02;30/09/2010;65000223806;R$ 150,00;Estimado;MARIA DE NAZARE DOS SANTOS RODRIGUES;65412;Deputado Estadual;PC do B;PA;
-JORGE PANZERA;12.204.180/0001-02;14/09/2010;65000223805;R$ 161,00;Estimado;MARIA DE NAZARE DOS SANTOS RODRIGUES;65412;Deputado Estadual;PC do B;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JORGE PANZERA;12.204.180/0001-02;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 143,00;Estimado;6565 -  - PC do B -  - Deputado Federal / 65412 - MARIA DE NAZARE DOS SANTOS RODRIGUES - PA - Deputado Estadual;
+JORGE PANZERA;12.204.180/0001-02;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 161,00;Estimado;6565 -  - PC do B -  - Deputado Federal / 65412 - MARIA DE NAZARE DOS SANTOS RODRIGUES - PA - Deputado Estadual;
+JORGE PANZERA;12.204.180/0001-02;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 240,00;Estimado;6565 -  - PC do B -  - Deputado Federal / 65412 - MARIA DE NAZARE DOS SANTOS RODRIGUES - PA - Deputado Estadual;
+JORGE PANZERA;12.204.180/0001-02;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;6565 -  - PC do B -  - Deputado Federal / 65412 - MARIA DE NAZARE DOS SANTOS RODRIGUES - PA - Deputado Estadual;
+MICHAEL LUIZ DOS SANTOS;863.760.122-72;01/10/2010;       Publicidade por carros de som;R$ 1.000,00;Cheque; -  -  / 65412 - MARIA DE NAZARE DOS SANTOS RODRIGUES - PA - Deputado Estadual;

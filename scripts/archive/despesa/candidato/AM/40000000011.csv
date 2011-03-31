@@ -1,6 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALFREDO PEREIRA DO NASCIMENTO;12.169.771/0001-96;09/09/2010;13000599723;R$ 3.000,00;Cheque;CLAUDIO DE ALBUQUERQUE VIANA;13100;Deputado Estadual;PT;AM;
-ALFREDOPEREIRA DONASCIMENTO;12.169.771/0001-96;02/08/2010;13000599722;R$ 3.000,00;Cheque;CLAUDIO DE ALBUQUERQUE VIANA;13100;Deputado Estadual;PT;AM;
-CLAUDIO VIANA;159.943.502-06;23/07/2010;13000599721;R$ 1.000,00;Depósito em espécie;CLAUDIO DE ALBUQUERQUE VIANA;13100;Deputado Estadual;PT;AM;
-Comitê Financeiro Único;12.191.488/0001-60;28/10/2010;13000599725;R$ 375,00;Estimado;CLAUDIO DE ALBUQUERQUE VIANA;13100;Deputado Estadual;PT;AM;
-ELEIÇAO 2010 FRANCISCO EDNALDO PRACIANO;12.168.503/0001-50;30/09/2010;13000599724;R$ 975,00;Estimado;CLAUDIO DE ALBUQUERQUE VIANA;13100;Deputado Estadual;PT;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CLENILDA CARVALHO DA SILVA;519.610.912-91;11/08/2010;       Serviços prestados por terceiros;R$ 2.000,00;Cheque; -  -  / 13100 - CLAUDIO DE ALBUQUERQUE VIANA - AM - Deputado Estadual;
+CLENILDA CARVALHO DA SILVA;519.610.912-91;13/09/2010;       Serviços prestados por terceiros;R$ 2.000,00;Cheque; -  -  / 13100 - CLAUDIO DE ALBUQUERQUE VIANA - AM - Deputado Estadual;
+Comitê Financeiro Único;12.191.488/0001-60;28/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 375,00;Estimado;Comitê Financeiro Único - PT -  / 13100 - CLAUDIO DE ALBUQUERQUE VIANA - AM - Deputado Estadual;
+ELEIÇAO 2010 FRANCISCO EDNALDO PRACIANO;12.168.503/0001-50;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 975,00;Estimado;1313 -  - PT -  - Deputado Federal / 13100 - CLAUDIO DE ALBUQUERQUE VIANA - AM - Deputado Estadual;
+ISAEL PALHETA LABORDA;853.415.922-04;20/08/2010;       Serviços prestados por terceiros;R$ 650,00;Cheque; -  -  / 13100 - CLAUDIO DE ALBUQUERQUE VIANA - AM - Deputado Estadual;
+ISAEL PALHETA LABORDA;853.415.922-04;13/09/2010;       Serviços prestados por terceiros;R$ 1.000,00;Cheque; -  -  / 13100 - CLAUDIO DE ALBUQUERQUE VIANA - AM - Deputado Estadual;
+J B DA SILVA CARVALHO ME;08.890.522/0001-18;06/08/2010;       Publicidade por materiais impressos;R$ 1.100,00;Cheque; -  -  / 13100 - CLAUDIO DE ALBUQUERQUE VIANA - AM - Deputado Estadual;
+J B DA SILVA CARVALHO ME;08.890.522/0001-18;17/08/2010;       Publicidade por materiais impressos;R$ 250,00;Cheque; -  -  / 13100 - CLAUDIO DE ALBUQUERQUE VIANA - AM - Deputado Estadual;

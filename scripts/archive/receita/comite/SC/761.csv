@@ -1,10 +1,6 @@
-Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
-COMISSAO EXEC PROVISORIA PARTIDO HUMANISTA DA SOLIDARIEDADE SC;11.103.779/0001-97;27/10/2010;       Diversas a especificar;R$ 86,50;Transferência eletrônica; -  -  / Comitê Financeiro Único - PHS - SC;
-Comitê Financeiro Único;12.205.309/0001-05;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.000,00;Estimado;Comitê Financeiro Único - PT -  / Comitê Financeiro Único - PHS - SC;
-Comitê Financeiro Único;12.205.309/0001-05;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 6.416,00;Estimado;Comitê Financeiro Único - PT -  / Comitê Financeiro Único - PHS - SC;
-Comitê Financeiro Único;12.205.309/0001-05;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 5.768,57;Estimado;Comitê Financeiro Único - PT -  / Comitê Financeiro Único - PHS - SC;
-Comitê Financeiro Único - PHS;12.235.328/0001-76;01/10/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 2.000,00;Transferência eletrônica;3123 - ELEICAO 2010 FRANCISCO CARLOS DA SILVA - PHS - SC - Deputado Federal / Comitê Financeiro Único - PHS - SC;
-GRAFICA WILLEJACK LTDA;85.191.146/0001-14;05/08/2010;       Publicidade por materiais impressos;R$ 903,50;Transferência eletrônica; -  -  / Comitê Financeiro Único - PHS - SC;
-SULBANDEIRAS COMERCIO LTDA-ME;05.159.529/0001-76;01/10/2010;       Publicidade por placas, estandartes e faixas;R$ 17.900,00;Transferência eletrônica; -  -  / Comitê Financeiro Único - PHS - SC;
-TOOL PRINT BUREAU ORIGINAIS GRAFICOS LTDA-ME;09.410.102/0001-50;05/08/2010;       Serviços prestados por terceiros;R$ 116,50;Transferência eletrônica; -  -  / Comitê Financeiro Único - PHS - SC;
-;;01/10/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Débito em conta; -  -  / Comitê Financeiro Único - PHS - SC;
+Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
+CARLOS ALBERTO ROSA KAMINSKI;734.215.459-87;05/08/2010;31000009605;R$ 1.020,00;Depósito em espécie;Comitê Financeiro Único;PHS;SC;
+Comitê Financeiro Único;12.205.309/0001-05;01/10/2010;31000009603;R$ 4.000,00;Estimado;Comitê Financeiro Único;PHS;SC;
+Comitê Financeiro Único;12.205.309/0001-05;01/10/2010;31000009604;R$ 5.768,57;Estimado;Comitê Financeiro Único;PHS;SC;
+Comitê Financeiro Único;12.205.309/0001-05;01/10/2010;31000009601;R$ 20.000,00;Transferência eletrônica;Comitê Financeiro Único;PHS;SC;
+Comitê Financeiro Único;12.205.309/0001-05;01/10/2010;31000009602;R$ 6.416,00;Estimado;Comitê Financeiro Único;PHS;SC;

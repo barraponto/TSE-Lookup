@@ -1,6 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;36000002105;R$ 300,00;Estimado;EDIVAM TEODORO;36909;Deputado Estadual;PTC;MG;
-Comitê Financeiro Único;12.154.851/0001-78;15/09/2010;36000002104;R$ 1.180,00;Estimado;EDIVAM TEODORO;36909;Deputado Estadual;PTC;MG;
-EDIVAM TEODORO;534.420.086-20;22/07/2010;36000002101;R$ 500,00;Depósito em espécie;EDIVAM TEODORO;36909;Deputado Estadual;PTC;MG;
-EDIVAM TEODORO;534.420.086-20;26/07/2010;36000002102;R$ 200,00;Depósito em espécie;EDIVAM TEODORO;36909;Deputado Estadual;PTC;MG;
-VIA GRAFICA INDUSTRIA LTDA;05.894.354/0001-40;31/08/2010;36000002103;R$ 920,00;Estimado;EDIVAM TEODORO;36909;Deputado Estadual;PTC;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.154.851/0001-78;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.180,00;Estimado;Comitê Financeiro Único - PT do B -  / 36909 - EDIVAM TEODORO - MG - Deputado Estadual;
+Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PT do B -  / 36909 - EDIVAM TEODORO - MG - Deputado Estadual;
+VIA GRAFICA INDUSTRIA LTDA;05.894.354/0001-40;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 920,00;Estimado; -  -  / 36909 - EDIVAM TEODORO - MG - Deputado Estadual;
+VIA GRAFICA INDUSTRIA LTDA;05.894.354/0001-40;29/07/2010;       Publicidade por materiais impressos;R$ 700,00;Cheque; -  -  / 36909 - EDIVAM TEODORO - MG - Deputado Estadual;

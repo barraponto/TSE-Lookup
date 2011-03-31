@@ -1,7 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOÃO POLLO GASPARY;716.754.340-34;10/08/2010;45000330301;R$ 4.500,00;Depósito em espécie;SERGIO ROBERTO POLLO;45789;Deputado Estadual;PSDB;RS;
-JOÃO POLLO GASPARY;716.754.340-34;04/10/2010;45000330302;R$ 1.000,00;Depósito em espécie;SERGIO ROBERTO POLLO;45789;Deputado Estadual;PSDB;RS;
-JOÃO POLLO GASPARY;716.754.340-34;04/10/2010;45000330303;R$ 1.000,00;Depósito em espécie;SERGIO ROBERTO POLLO;45789;Deputado Estadual;PSDB;RS;
-JOÃO POLLO GASPARY;716.754.340-34;29/10/2010;45000330306;R$ 1.195,00;Depósito em espécie;SERGIO ROBERTO POLLO;45789;Deputado Estadual;PSDB;RS;
-NELSON MARCHEZAN JUNIOR;12.181.907/0001-83;30/09/2010;45000330304;R$ 1.700,00;Estimado;SERGIO ROBERTO POLLO;45789;Deputado Estadual;PSDB;RS;
-NELSON MARCHEZAN JUNIOR;12.181.907/0001-83;01/10/2010;45000330305;R$ 2.100,00;Estimado;SERGIO ROBERTO POLLO;45789;Deputado Estadual;PSDB;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANELISE GARZON VIEIRA;09.242.806/0001-60;06/09/2010;       Publicidade por placas, estandartes e faixas;R$ 1.200,00;Cheque; -  -  / 45789 - SERGIO ROBERTO POLLO - RS - Deputado Estadual;
+ANELISE GARZON VIEIRA;09.242.806/0001-60;30/09/2010;       Publicidade por placas, estandartes e faixas;R$ 1.445,00;Cheque; -  -  / 45789 - SERGIO ROBERTO POLLO - RS - Deputado Estadual;
+C. CARNIELUTTI & IRMÃO LTDA;87.527.792/0001-35;01/10/2010;       Publicidade por materiais impressos;R$ 1.850,00;Cheque; -  -  / 45789 - SERGIO ROBERTO POLLO - RS - Deputado Estadual;
+C. CARNIELUTTI & IRMÃO LTDA;87.527.792/0001-35;26/08/2010;       Publicidade por materiais impressos;R$ 2.700,00;Cheque; -  -  / 45789 - SERGIO ROBERTO POLLO - RS - Deputado Estadual;
+MULTIPRESS INDÚSTRIA GRÁFICA E EDITORA LTDA;93.264.232/0001-38;02/09/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 45789 - SERGIO ROBERTO POLLO - RS - Deputado Estadual;
+NELSON MARCHEZAN JUNIOR;12.181.907/0001-83;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.700,00;Estimado;4545 -  - PSDB -  - Deputado Federal / 45789 - SERGIO ROBERTO POLLO - RS - Deputado Estadual;
+NELSON MARCHEZAN JUNIOR;12.181.907/0001-83;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.100,00;Estimado;4545 -  - PSDB -  - Deputado Federal / 45789 - SERGIO ROBERTO POLLO - RS - Deputado Estadual;

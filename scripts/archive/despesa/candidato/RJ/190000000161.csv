@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANDRE LUIZ CECILIANO;12.181.182/0001-23;30/09/2010;13000869706;R$ 300,00;Estimado;JOSE AUGUSTO TELLES DE LIMA;1364;Deputado Federal;PT;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;13000869703;R$ 150,00;Estimado;JOSE AUGUSTO TELLES DE LIMA;1364;Deputado Federal;PT;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;13000869705;R$ 450,00;Estimado;JOSE AUGUSTO TELLES DE LIMA;1364;Deputado Federal;PT;RJ;
-Comitê Financeiro Único;12.200.171/0001-43;30/09/2010;13000869701;R$ 750,00;Estimado;JOSE AUGUSTO TELLES DE LIMA;1364;Deputado Federal;PT;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANDRE LUIZ CECILIANO;12.181.182/0001-23;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;13567 -  - PT -  - Deputado Estadual / 1364 - JOSE AUGUSTO TELLES DE LIMA - RJ - Deputado Federal;
+Comitê Financeiro Único;12.200.171/0001-43;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 750,00;Estimado;Comitê Financeiro Único - PT -  / 1364 - JOSE AUGUSTO TELLES DE LIMA - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 450,00;Estimado;Comitê Financeiro Único - PMDB -  / 1364 - JOSE AUGUSTO TELLES DE LIMA - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 1364 - JOSE AUGUSTO TELLES DE LIMA - RJ - Deputado Federal;

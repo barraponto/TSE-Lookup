@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS ROBERTO MASSA JUNIOR;12.168.777/0001-49;29/07/2010;20000619101;R$ 251,00;Estimado;LUIZ SANTOS FERREIRA;20011;Deputado Estadual;PSC;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS ROBERTO MASSA JUNIOR;12.168.777/0001-49;29/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 251,00;Estimado;2020 -  - PSC -  - Deputado Federal / 20011 - LUIZ SANTOS FERREIRA - PR - Deputado Estadual;

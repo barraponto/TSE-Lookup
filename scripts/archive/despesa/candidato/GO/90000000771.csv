@@ -1,4 +1,14 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEICAO 2010 GERSON SANTANA DEPUTADO FEDERAL;279.207.391-87;17/08/2010;31000067601;R$ 3.000,00;Depósito em espécie;GÉRSON SANT ANA;3131;Deputado Federal;PHS;GO;
-ELEICAO 2010 GERSON SANTANA DEPUTADO FEDERAL;279.207.391-87;29/09/2010;31000067603;R$ 4.800,00;Depósito em espécie;GÉRSON SANT ANA;3131;Deputado Federal;PHS;GO;
-SIMONE SOUSA SILVA SANTANA;508.964.821-20;17/08/2010;31000067602;R$ 2.000,00;Cheque;GÉRSON SANT ANA;3131;Deputado Federal;PHS;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GEOVANI ALEXANDRE TRONCON;399.315.011-20;23/09/2010;       Produção de jingles, vinhetas e slogans;R$ 300,00;Cheque; -  -  / 3131 - GÉRSON SANT ANA - GO - Deputado Federal;
+IMAGEM DIGITAL INFORMATICA LTDA;01.706.770/0001-17;01/10/2010;       Publicidade por materiais impressos;R$ 1.078,00;Cheque; -  -  / 3131 - GÉRSON SANT ANA - GO - Deputado Federal;
+MODELO COMUNICAÇÃO VISUAL LTDA;05.159.380/0001-25;01/09/2010;       Publicidade por materiais impressos;R$ 2.200,00;Cheque; -  -  / 3131 - GÉRSON SANT ANA - GO - Deputado Federal;
+MODELO COMUNICAÇÃO VISUAL LTDA;05.159.380/0001-25;01/10/2010;       Publicidade por materiais impressos;R$ 2.500,00;Cheque; -  -  / 3131 - GÉRSON SANT ANA - GO - Deputado Federal;
+MULTIPLA GRAFICA E EDITORA;02.136.764/0001-34;03/09/2010;       Publicidade por materiais impressos;R$ 1.500,00;Cheque; -  -  / 3131 - GÉRSON SANT ANA - GO - Deputado Federal;
+POSTO ANAPOLINO;37.358.744/0001-92;02/10/2010;       Combustíveis e lubrificantes;R$ 1.300,00;Cheque; -  -  / 3131 - GÉRSON SANT ANA - GO - Deputado Federal;
+SEMEADOR GOSPEL;01.995.115/0001-26;24/09/2010;       Publicidade por jornais e revistas;R$ 150,00;Cheque; -  -  / 3131 - GÉRSON SANT ANA - GO - Deputado Federal;
+SEMEADOR GOSPEL;01.995.115/0001-26;01/09/2010;       Publicidade por jornais e revistas;R$ 160,00;Cheque; -  -  / 3131 - GÉRSON SANT ANA - GO - Deputado Federal;
+VERSATIL CONSULTORIA / PLANETA AGUA;04.417.983/0001-17;29/09/2010;       Publicidade por jornais e revistas;R$ 300,00;Cheque; -  -  / 3131 - GÉRSON SANT ANA - GO - Deputado Federal;
+VERSATIL CONSULTORIA / PLANETA AGUA;04.417.983/0001-17;03/09/2010;       Publicidade por jornais e revistas;R$ 300,00;Cheque; -  -  / 3131 - GÉRSON SANT ANA - GO - Deputado Federal;
+;;18/10/2010;       Encargos financeiros e taxas bancárias;R$ 6,20;Débito em conta; -  -  / 3131 - GÉRSON SANT ANA - GO - Deputado Federal;
+;;19/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 3131 - GÉRSON SANT ANA - GO - Deputado Federal;
+;;01/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 3131 - GÉRSON SANT ANA - GO - Deputado Federal;

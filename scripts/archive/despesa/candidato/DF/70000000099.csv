@@ -1,2 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALDECYR FREITAS MACIEL;185.027.921-72;19/07/2010;12001522121;R$ 18.000,00;Transferência eletrônica;ALDECYR FREITAS MACIEL;12777;Deputado Distrital;PDT;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+HORUAL LEON DOS SANTOS;047.176.856-10;22/07/2010;       Produção de jingles, vinhetas e slogans;R$ 1.500,00;Cheque; -  -  / 12777 - ALDECYR FREITAS MACIEL - DF - Deputado Distrital;
+MELHOR POSTO DE COMBUSTIVES LTDA;02.989.654/0011-97;15/09/2010;       Combustíveis e lubrificantes;R$ 128,93;Transferência eletrônica; -  -  / 12777 - ALDECYR FREITAS MACIEL - DF - Deputado Distrital;
+POSTO METROPOLITANO DERIVADOS DE PETRÓLEO;04.273.260/0001-91;06/08/2010;       Combustíveis e lubrificantes;R$ 110,48;Cheque; -  -  / 12777 - ALDECYR FREITAS MACIEL - DF - Deputado Distrital;
+POSTO 105 - REVENDEDORA DE DERIVADOS DE PETROLEO LTDA;02.760.928/0001-08;17/08/2010;       Combustíveis e lubrificantes;R$ 135,59;Transferência eletrônica; -  -  / 12777 - ALDECYR FREITAS MACIEL - DF - Deputado Distrital;
+VISUAL SUPLIES;04.180.268/0001-03;26/07/2010;       Publicidade por materiais impressos;R$ 12.000,00;Cheque; -  -  / 12777 - ALDECYR FREITAS MACIEL - DF - Deputado Distrital;
+VISUAL SUPLIES;04.180.268/0001-03;26/07/2010;       Publicidade por materiais impressos;R$ 4.125,00;Cheque; -  -  / 12777 - ALDECYR FREITAS MACIEL - DF - Deputado Distrital;

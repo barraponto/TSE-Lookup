@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.172/0001-98;03/09/2010;43001902450;R$ 3.200,00;Estimado;JOSE MELO DO NASCIMENTO;43222;Deputado Estadual;PV;AM;
-Comitê Financeiro Único;12.229.930/0001-09;01/09/2010;43001902452;R$ 258,70;Estimado;JOSE MELO DO NASCIMENTO;43222;Deputado Estadual;PV;AM;
-Comitê Financeiro Único;12.229.930/0001-09;01/09/2010;43001902453;R$ 170,00;Estimado;JOSE MELO DO NASCIMENTO;43222;Deputado Estadual;PV;AM;
-EDILAZIO DOS SANTOS BATISTA;857.357.872-68;01/09/2010;43001902447;R$ 510,00;Estimado;JOSE MELO DO NASCIMENTO;43222;Deputado Estadual;PV;AM;
-SANDRA MELO DO NASCIMENTO;456.694.902-82;01/09/2010;43001902449;R$ 510,00;Estimado;JOSE MELO DO NASCIMENTO;43222;Deputado Estadual;PV;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.172/0001-98;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.200,00;Estimado;Comitê Financeiro Único - PSDB -  / 43222 - JOSE MELO DO NASCIMENTO - AM - Deputado Estadual;
+Comitê Financeiro Único;12.229.930/0001-09;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 258,70;Estimado;Comitê Financeiro Único - PV -  / 43222 - JOSE MELO DO NASCIMENTO - AM - Deputado Estadual;
+Comitê Financeiro Único;12.229.930/0001-09;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 170,00;Estimado;Comitê Financeiro Único - PV -  / 43222 - JOSE MELO DO NASCIMENTO - AM - Deputado Estadual;
+EDILAZIO DOS SANTOS BATISTA;857.357.872-68;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 510,00;Estimado; -  -  / 43222 - JOSE MELO DO NASCIMENTO - AM - Deputado Estadual;
+SANDRA MELO DO NASCIMENTO;456.694.902-82;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 510,00;Estimado; -  -  / 43222 - JOSE MELO DO NASCIMENTO - AM - Deputado Estadual;

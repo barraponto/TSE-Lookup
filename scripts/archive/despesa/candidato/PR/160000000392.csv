@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;10/08/2010;17000072935;R$ 630,00;Estimado;CLARICE CASTORINA DOS SANTOS BAPTISTA;17888;Deputado Estadual;PSL;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 630,00;Estimado;45 -  - PSDB -  - Governador / 17888 - CLARICE CASTORINA DOS SANTOS BAPTISTA - PR - Deputado Estadual;

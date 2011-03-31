@@ -1,2 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ROBSON ANDRADE RODRIGUES;677.448.936-20;22/07/2010;50000233501;R$ 200,00;Depósito em espécie;ROBSON ANDRADE RODRIGUES;50222;Deputado Estadual;PSOL;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+OSMARINA DA COSTA SILVA;775.760.806-63;04/08/2010;       Serviços prestados por terceiros;R$ 20,00;Cheque; -  -  / 50222 - ROBSON ANDRADE RODRIGUES - MG - Deputado Estadual;
+OSMARINA DA COSTA SILVA;775.760.806-63;15/10/2010;       Serviços prestados por terceiros;R$ 22,00;Cheque; -  -  / 50222 - ROBSON ANDRADE RODRIGUES - MG - Deputado Estadual;
+OSMARINA DA COSTA SILVA;775.760.806-63;06/09/2010;       Serviços prestados por terceiros;R$ 20,00;Cheque; -  -  / 50222 - ROBSON ANDRADE RODRIGUES - MG - Deputado Estadual;
+;;15/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,50;Débito em conta; -  -  / 50222 - ROBSON ANDRADE RODRIGUES - MG - Deputado Estadual;
+;;04/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,50;Débito em conta; -  -  / 50222 - ROBSON ANDRADE RODRIGUES - MG - Deputado Estadual;
+;;06/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,50;Débito em conta; -  -  / 50222 - ROBSON ANDRADE RODRIGUES - MG - Deputado Estadual;

@@ -1,4 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;09.057.316/0001-94;06/09/2010;25000543547;R$ 5.000,00;Transferência eletrônica;WELLINGTON RICARDO DA SILVA;25225;Deputado Estadual;DEM;PE;
-Diretório Estadual/Distrital;09.057.316/0001-94;27/09/2010;25000543548;R$ 5.000,00;Transferência eletrônica;WELLINGTON RICARDO DA SILVA;25225;Deputado Estadual;DEM;PE;
-JOSE MENDONCA BEZERRA FILHO;12.176.573/0001-50;09/08/2010;25000543546;R$ 4.000,00;Transferência eletrônica;WELLINGTON RICARDO DA SILVA;25225;Deputado Estadual;DEM;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADEILDO R. SANTOS;031.677.084-17;22/09/2010;       Despesas com pessoal;R$ 300,00;Cheque; -  -  / 25225 - WELLINGTON RICARDO DA SILVA - PE - Deputado Estadual;
+ADEILDO R. SANTOS;031.677.084-17;22/09/2010;       Despesas com pessoal;R$ 300,00;Cheque; -  -  / 25225 - WELLINGTON RICARDO DA SILVA - PE - Deputado Estadual;
+GILDETE DE OLIVEIRA MARTINS;134.689.794-87;22/09/2010;       Despesas com pessoal;R$ 300,00;Cheque; -  -  / 25225 - WELLINGTON RICARDO DA SILVA - PE - Deputado Estadual;
+GRÁFICA AVANÇAR LTDA;05.321.759/0001-90;23/09/2010;       Publicidade por materiais impressos;R$ 350,00;Cheque; -  -  / 25225 - WELLINGTON RICARDO DA SILVA - PE - Deputado Estadual;
+IRONILDA RAMOS DE OLIVEIRA LOPES;278.892.798-33;10/08/2010;       Despesas com pessoal;R$ 200,00;Cheque; -  -  / 25225 - WELLINGTON RICARDO DA SILVA - PE - Deputado Estadual;
+JAMERSON GALDINO FERREIRA;060.115.974-83;10/08/2010;       Locação/cessão de bens móveis;R$ 3.800,00;Cheque; -  -  / 25225 - WELLINGTON RICARDO DA SILVA - PE - Deputado Estadual;
+PAULO SÉRGIO LOPES;278.905.928-41;12/09/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / 25225 - WELLINGTON RICARDO DA SILVA - PE - Deputado Estadual;
+POSTO IMPÉRIO - C. ALBUQUERQUE COM. DE COMBUSTÍVEIS LTDA;07.553.578/0001-14;09/09/2010;       Combustíveis e lubrificantes;R$ 4.500,00;Cheque; -  -  / 25225 - WELLINGTON RICARDO DA SILVA - PE - Deputado Estadual;
+POSTO IMPÉRIO - C. ALBUQUERQUE COM. DE COMBUSTÍVEIS LTDA;07.553.578/0001-14;23/09/2010;       Diversas a especificar;R$ 3.450,00;Cheque; -  -  / 25225 - WELLINGTON RICARDO DA SILVA - PE - Deputado Estadual;
+WENDEL FELIX DOS SANTOS;032.543.984-24;22/09/2010;       Despesas com pessoal;R$ 300,00;Cheque; -  -  / 25225 - WELLINGTON RICARDO DA SILVA - PE - Deputado Estadual;

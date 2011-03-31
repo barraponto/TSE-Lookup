@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JAQUES WAGNER;12.174.245/0001-14;21/09/2010;31000057101;R$ 1.200,00;Estimado;JOSELITO OLIVEIRA PINTO;31027;Deputado Estadual;PHS;BA;
-JAQUES WAGNER;12.174.245/0001-14;21/09/2010;31000057105;R$ 550,00;Estimado;JOSELITO OLIVEIRA PINTO;31027;Deputado Estadual;PHS;BA;
-JAQUES WAGNER;12.174.245/0001-14;21/09/2010;31000057104;R$ 875,00;Estimado;JOSELITO OLIVEIRA PINTO;31027;Deputado Estadual;PHS;BA;
-JAQUES WAGNER;12.174.245/0001-14;21/09/2010;31000057102;R$ 875,00;Estimado;JOSELITO OLIVEIRA PINTO;31027;Deputado Estadual;PHS;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JAQUES WAGNER;12.174.245/0001-14;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 875,00;Estimado;13 -  - PT -  - Governador / 31027 - JOSELITO OLIVEIRA PINTO - BA - Deputado Estadual;
+JAQUES WAGNER;12.174.245/0001-14;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 550,00;Estimado;13 -  - PT -  - Governador / 31027 - JOSELITO OLIVEIRA PINTO - BA - Deputado Estadual;
+JAQUES WAGNER;12.174.245/0001-14;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.200,00;Estimado;13 -  - PT -  - Governador / 31027 - JOSELITO OLIVEIRA PINTO - BA - Deputado Estadual;
+JAQUES WAGNER;12.174.245/0001-14;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 875,00;Estimado;13 -  - PT -  - Governador / 31027 - JOSELITO OLIVEIRA PINTO - BA - Deputado Estadual;

@@ -1,5 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSE LUCIANO MUNIZ LIMA;073.894.003-82;03/08/2010;50000101781;R$ 4.000,00;Cheque;JOSÉ LUCIANO MUNIZ LIMA;5010;Deputado Federal;PSOL;CE;
-JOSE LUCIANO MUNIZ LIMA;073.894.003-82;04/08/2010;50000101784;R$ 1.000,00;Estimado;JOSÉ LUCIANO MUNIZ LIMA;5010;Deputado Federal;PSOL;CE;
-JOSE LUCIANO MUNIZ LIMA;073.894.003-82;02/09/2010;50000101783;R$ 1.000,00;Depósito em espécie;JOSÉ LUCIANO MUNIZ LIMA;5010;Deputado Federal;PSOL;CE;
-JOSE LUCIANO MUNIZ LIMA;073.894.003-82;16/08/2010;50000101782;R$ 2.000,00;Cheque;JOSÉ LUCIANO MUNIZ LIMA;5010;Deputado Federal;PSOL;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ESPUMAD SERVIICO E COMERCIO LTDA;41.429.325/0001-71;04/09/2010;       Combustíveis e lubrificantes;R$ 133,01;Cheque; -  -  / 5010 - JOSÉ LUCIANO MUNIZ LIMA - CE - Deputado Federal;
+GRAFICA COLOR MAX;07.450.862/0001-65;22/09/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 5010 - JOSÉ LUCIANO MUNIZ LIMA - CE - Deputado Federal;
+GRAFICA COLOR MAX;07.450.862/0001-65;06/08/2010;       Publicidade por materiais impressos;R$ 3.080,00;Cheque; -  -  / 5010 - JOSÉ LUCIANO MUNIZ LIMA - CE - Deputado Federal;
+JOSE LUCIANO MUNIZ LIMA;073.894.003-82;04/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 5010 - JOSÉ LUCIANO MUNIZ LIMA - CE - Deputado Federal;
+MIDI GRAF;01.761.902/0001-03;18/08/2010;       Publicidade por materiais impressos;R$ 3.036,58;Cheque; -  -  / 5010 - JOSÉ LUCIANO MUNIZ LIMA - CE - Deputado Federal;
+POSTO FROTA AVENIDA LTDA;05.390.613/0001-04;06/09/2010;       Combustíveis e lubrificantes;R$ 136,00;Cheque; -  -  / 5010 - JOSÉ LUCIANO MUNIZ LIMA - CE - Deputado Federal;
+;073.894.003-82;03/09/2010;       Impostos, contribuições e taxas;R$ 0,35;Débito em conta; -  -  / 5010 - JOSÉ LUCIANO MUNIZ LIMA - CE - Deputado Federal;

@@ -1,9 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JAQUES WAGNER;12.174.245/0001-14;20/09/2010;31000056505;R$ 550,00;Estimado;WILSON FALCAO FADIGAS;31456;Deputado Estadual;PHS;BA;
-JAQUES WAGNER;12.174.245/0001-14;20/09/2010;31000056503;R$ 875,00;Estimado;WILSON FALCAO FADIGAS;31456;Deputado Estadual;PHS;BA;
-JAQUES WAGNER;12.174.245/0001-14;20/09/2010;31000056504;R$ 1.200,00;Estimado;WILSON FALCAO FADIGAS;31456;Deputado Estadual;PHS;BA;
-JAQUES WAGNER;12.174.245/0001-14;20/09/2010;31000056502;R$ 875,00;Estimado;WILSON FALCAO FADIGAS;31456;Deputado Estadual;PHS;BA;
-WILSON FALCÃO FADIGAS;071.862.825-04;04/08/2010;31000056507;R$ 400,00;Transferência eletrônica;WILSON FALCAO FADIGAS;31456;Deputado Estadual;PHS;BA;
-WILSON FALCÃO FADIGAS;071.862.825-04;04/08/2010;31000056506;R$ 400,00;Transferência eletrônica;WILSON FALCAO FADIGAS;31456;Deputado Estadual;PHS;BA;
-WILSON FALCÃO FADIGAS;071.862.825-04;13/07/2010;31000056509;R$ 400,00;Transferência eletrônica;WILSON FALCAO FADIGAS;31456;Deputado Estadual;PHS;BA;
-WILSON FALCÃO FADIGAS;071.862.825-04;13/07/2010;31000056508;R$ 400,00;Transferência eletrônica;WILSON FALCAO FADIGAS;31456;Deputado Estadual;PHS;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JAQUES WAGNER;12.174.245/0001-14;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 875,00;Estimado;13 -  - PT -  - Governador / 31456 - WILSON FALCAO FADIGAS - BA - Deputado Estadual;
+JAQUES WAGNER;12.174.245/0001-14;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 875,00;Estimado;13 -  - PT -  - Governador / 31456 - WILSON FALCAO FADIGAS - BA - Deputado Estadual;
+JAQUES WAGNER;12.174.245/0001-14;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.200,00;Estimado;13 -  - PT -  - Governador / 31456 - WILSON FALCAO FADIGAS - BA - Deputado Estadual;
+JAQUES WAGNER;12.174.245/0001-14;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 550,00;Estimado;13 -  - PT -  - Governador / 31456 - WILSON FALCAO FADIGAS - BA - Deputado Estadual;
+JOÃO CARLOS CAVALCANTE DE OLIVEIRA;581.874.805-72;23/08/2010;       Publicidade por placas, estandartes e faixas;R$ 400,00;Cheque; -  -  / 31456 - WILSON FALCAO FADIGAS - BA - Deputado Estadual;
+PAULO DA SILVA SANTOS;645.419.085-49;24/08/2010;       Publicidade por carros de som;R$ 400,00;Cheque; -  -  / 31456 - WILSON FALCAO FADIGAS - BA - Deputado Estadual;
+VAL SOM PEÇAS E ACESSORIOS AUTOMOTIVOS;08.891.929/0001-60;23/09/2010;       Bens permanentes;R$ 400,00;Cheque; -  -  / 31456 - WILSON FALCAO FADIGAS - BA - Deputado Estadual;
+VAL SOM PEÇAS E ACESSORIOS AUTOMOTIVOS;08.891.929/0001-60;23/09/2010;       Bens permanentes;R$ 400,00;Cheque; -  -  / 31456 - WILSON FALCAO FADIGAS - BA - Deputado Estadual;

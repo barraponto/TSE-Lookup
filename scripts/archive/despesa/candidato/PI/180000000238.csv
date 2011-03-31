@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.206.659/0001-88;30/09/2010;36000068852;R$ 1.500,00;Estimado;FRANCISCO CELSO RODRIGUES;3678;Deputado Federal;PTC;PI;
-Comitê Financeiro Único;12.206.659/0001-88;22/07/2010;36000068851;R$ 853,57;Estimado;FRANCISCO CELSO RODRIGUES;3678;Deputado Federal;PTC;PI;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.206.659/0001-88;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado;Comitê Financeiro Único - PTC -  / 3678 - FRANCISCO CELSO RODRIGUES - PI - Deputado Federal;
+Comitê Financeiro Único;12.206.659/0001-88;22/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 853,57;Estimado;Comitê Financeiro Único - PTC -  / 3678 - FRANCISCO CELSO RODRIGUES - PI - Deputado Federal;

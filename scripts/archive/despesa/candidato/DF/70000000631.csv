@@ -1,3 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;01.770.770/0001-86;01/10/2010;31000005901;R$ 3.000,00;Cheque;ARIONILDO BARROS LIMA;3124;Deputado Federal;PHS;DF;
-Diretório Estadual/Distrital;01.770.770/0001-86;21/09/2010;31000005851;R$ 3.200,00;Cheque;ARIONILDO BARROS LIMA;3124;Deputado Federal;PHS;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANAIDE GOMES DA SILVA;034.586.751-32;01/10/2010;       Despesas com pessoal;R$ 885,00;Não informado; -  -  / 3124 - ARIONILDO BARROS LIMA - DF - Deputado Federal;
+ANTONIA MARIA GOMES;026.577.301-67;01/10/2010;       Despesas com pessoal;R$ 885,00;Não informado; -  -  / 3124 - ARIONILDO BARROS LIMA - DF - Deputado Federal;
+ARIOSVALDO LIMA;381.825.641-15;15/08/2010;       Despesas com transporte ou deslocamento;R$ 1.200,00;Não informado; -  -  / 3124 - ARIONILDO BARROS LIMA - DF - Deputado Federal;
+INES DA SILVA NASCIMENTO;379.812.851-00;05/09/2010;       Locação/cessão de bens imóveis;R$ 750,00;Não informado; -  -  / 3124 - ARIONILDO BARROS LIMA - DF - Deputado Federal;
+INES DA SILVA NASCIMENTO;379.812.851-00;05/08/2010;       Locação/cessão de bens imóveis;R$ 750,00;Não informado; -  -  / 3124 - ARIONILDO BARROS LIMA - DF - Deputado Federal;
+JOSE REIS GOMES DA SILVA;364.319.038-70;01/10/2010;       Despesas com pessoal;R$ 885,00;Não informado; -  -  / 3124 - ARIONILDO BARROS LIMA - DF - Deputado Federal;
+RAIMUNDA NONATA GOMES;005.986.803-14;01/10/2010;       Despesas com pessoal;R$ 885,00;Não informado; -  -  / 3124 - ARIONILDO BARROS LIMA - DF - Deputado Federal;

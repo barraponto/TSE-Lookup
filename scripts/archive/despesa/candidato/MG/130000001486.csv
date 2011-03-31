@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELTON REIS DA COSTA;056.277.086-03;30/07/2010;14000087205;R$ 100,00;Estimado;FILIPE CARDOSO CARIELO;14321;Deputado Estadual;PTB;MG;
-LUCAS CARDOSO CARIELO;067.042.406-40;30/07/2010;14000087202;R$ 100,00;Depósito em espécie;FILIPE CARDOSO CARIELO;14321;Deputado Estadual;PTB;MG;
-LUCAS CARDOSO CARIELO;067.042.406-40;30/07/2010;14000087204;R$ 100,00;Estimado;FILIPE CARDOSO CARIELO;14321;Deputado Estadual;PTB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELTON REIS DA COSTA;056.277.086-03;30/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado; -  -  / 14321 - FILIPE CARDOSO CARIELO - MG - Deputado Estadual;
+LUCAS CARDOSO CARIELO;067.042.406-40;30/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado; -  -  / 14321 - FILIPE CARDOSO CARIELO - MG - Deputado Estadual;
+TIPOGRAFIA OLIVEIRA LTDA;10.381.307/0001-33;30/07/2010;       Materiais de expediente;R$ 100,00;Cheque; -  -  / 14321 - FILIPE CARDOSO CARIELO - MG - Deputado Estadual;

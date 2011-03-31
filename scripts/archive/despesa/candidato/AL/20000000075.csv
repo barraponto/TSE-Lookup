@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.083/0001-41;30/09/2010;31000007962;R$ 300,00;Estimado;JOSENILDO TENORIO DA SILVA;3155;Deputado Federal;PHS;AL;
-ELEIÇÃO 2010 FERNANDO AFFOSNO COLLOR DE MELLO;12.168.659/0001-30;29/09/2010;31000007961;R$ 3.906,25;Estimado;JOSENILDO TENORIO DA SILVA;3155;Deputado Federal;PHS;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.083/0001-41;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PHS -  / 3155 - JOSENILDO TENORIO DA SILVA - AL - Deputado Federal;
+ELEIÇÃO 2010 FERNANDO AFFOSNO COLLOR DE MELLO;12.168.659/0001-30;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.906,25;Estimado;14 -  - PTB -  - Governador / 3155 - JOSENILDO TENORIO DA SILVA - AL - Deputado Federal;

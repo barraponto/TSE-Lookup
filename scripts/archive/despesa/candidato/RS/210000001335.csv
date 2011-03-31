@@ -1,6 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-EDISON ESTIVALETE BILHALVA;215.574.700-49;13/08/2010;43001830277;R$ 432,34;Depósito em espécie;EDISON ESTIVALETE BILHALVA;43234;Deputado Estadual;PV;RS;
-EDISON ESTIVALETE BILHALVA;215.574.700-49;14/09/2010;43001830278;R$ 1.000,00;Depósito em espécie;EDISON ESTIVALETE BILHALVA;43234;Deputado Estadual;PV;RS;
-EDISON ESTIVALETE BILHALVA;215.574.700-49;01/10/2010;43001830280;R$ 426,15;Depósito em espécie;EDISON ESTIVALETE BILHALVA;43234;Deputado Estadual;PV;RS;
-EDISON ESTIVALETE BILHALVA;215.574.700-49;29/09/2010;43001830279;R$ 820,00;Depósito em espécie;EDISON ESTIVALETE BILHALVA;43234;Deputado Estadual;PV;RS;
-MAURÍCIO DAL' AGNOL;546.956.190-91;16/08/2010;43001830276;R$ 10.000,00;Cheque;EDISON ESTIVALETE BILHALVA;43234;Deputado Estadual;PV;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+A SEMANA - EDITORA JORNALÍSTICA LTDA.;74.119.256/0001-59;01/10/2010;       Publicidade por jornais e revistas;R$ 276,15;Cheque; -  -  / 43234 - EDISON ESTIVALETE BILHALVA - RS - Deputado Estadual;
+ARVEL VEÍCULOS;93.526.242/0001-02;18/08/2010;       Locação/cessão de bens móveis;R$ 1.000,00;Cheque; -  -  / 43234 - EDISON ESTIVALETE BILHALVA - RS - Deputado Estadual;
+CORREIO DINÂMICO;01.983.145/0001-12;07/10/2010;       Publicidade por jornais e revistas;R$ 150,00;Cheque; -  -  / 43234 - EDISON ESTIVALETE BILHALVA - RS - Deputado Estadual;
+D. N. INDUSTRIA E COMÉRCIO DE ALIMENTOS LTDA.;08.048.105/0001-22;04/10/2010;       Alimentação;R$ 207,33;Cheque; -  -  / 43234 - EDISON ESTIVALETE BILHALVA - RS - Deputado Estadual;
+DA SILVA INDUSTRIA E COMÉRCIO DE ETIQUETAS LTDA. - ME;08.315.668/0001-30;15/09/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 43234 - EDISON ESTIVALETE BILHALVA - RS - Deputado Estadual;
+JORNAL DE ALVORADA EDITORA JORNALÍSTICA;09.352.046/0001-44;29/09/2010;       Publicidade por jornais e revistas;R$ 820,00;Cheque; -  -  / 43234 - EDISON ESTIVALETE BILHALVA - RS - Deputado Estadual;
+NOSCHANG ARTES GRÁFICAS LTDA.;07.027.856/0001-08;13/09/2010;       Publicidade por materiais impressos;R$ 3.200,00;Cheque; -  -  / 43234 - EDISON ESTIVALETE BILHALVA - RS - Deputado Estadual;
+POSTO DE COMBUSTÍVEIS ANDINO LTDA.;93.013.845/0001-00;04/09/2010;       Combustíveis e lubrificantes;R$ 1.200,01;Cheque; -  -  / 43234 - EDISON ESTIVALETE BILHALVA - RS - Deputado Estadual;
+REAL GRAPHICS;10.748.823/0001-53;03/09/2010;       Publicidade por placas, estandartes e faixas;R$ 3.700,00;Cheque; -  -  / 43234 - EDISON ESTIVALETE BILHALVA - RS - Deputado Estadual;
+TEMPOGRÁFICA LTDA;05.576.187/0001-90;18/08/2010;       Publicidade por materiais impressos;R$ 1.125,00;Cheque; -  -  / 43234 - EDISON ESTIVALETE BILHALVA - RS - Deputado Estadual;

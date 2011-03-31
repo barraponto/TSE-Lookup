@@ -1,3 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-;;27/08/2010;;R$ 800,00;Não informado;FRANZ FORTES THALHOFER;44400;Deputado Estadual;PRP;RJ;
-;;10/08/2010;;R$ 460,00;Não informado;FRANZ FORTES THALHOFER;44400;Deputado Estadual;PRP;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ART  E DESING GRÁFICA;11.990.459/0001-45;30/07/2010;       Publicidade por materiais impressos;R$ 460,00;Não informado; -  -  / 44400 - FRANZ FORTES THALHOFER - RJ - Deputado Estadual;
+ART  E DESING GRÁFICA;11.990.459/0001-45;27/04/2010;       Publicidade por materiais impressos;R$ 870,00;Não informado; -  -  / 44400 - FRANZ FORTES THALHOFER - RJ - Deputado Estadual;
+CEM POR CENTO ORIGINAL FOTOCÓPIAS LTDA;05.984.087/0001-00;25/08/2010;       Publicidade por materiais impressos;R$ 256,00;Não informado; -  -  / 44400 - FRANZ FORTES THALHOFER - RJ - Deputado Estadual;
+CEM POR CENTO ORIGINAL FOTOCÓPIAS LTDA;05.984.087/0001-00;25/08/2010;       Publicidade por materiais impressos;R$ 760,00;Não informado; -  -  / 44400 - FRANZ FORTES THALHOFER - RJ - Deputado Estadual;
+ÓTICA CEM POR CENTO VISUAL LTDA;11.076.278/0001-69;20/06/2010;       Publicidade por placas, estandartes e faixas;R$ 1.490,00;Não informado; -  -  / 44400 - FRANZ FORTES THALHOFER - RJ - Deputado Estadual;
+PINGOS DE PRATA;31.859.945/0001-97;26/08/2010;       Publicidade por materiais impressos;R$ 1.122,00;Não informado; -  -  / 44400 - FRANZ FORTES THALHOFER - RJ - Deputado Estadual;
+SCS FOTOGRAFIAS DIGITAL LTDA;08.664.296/0001-57;01/09/2010;       Publicidade por placas, estandartes e faixas;R$ 180,00;Não informado; -  -  / 44400 - FRANZ FORTES THALHOFER - RJ - Deputado Estadual;
+SCS FOTOGRAFIAS DIGITAL LTDA;08.664.296/0001-57;20/08/2010;       Publicidade por placas, estandartes e faixas;R$ 140,00;Cheque; -  -  / 44400 - FRANZ FORTES THALHOFER - RJ - Deputado Estadual;

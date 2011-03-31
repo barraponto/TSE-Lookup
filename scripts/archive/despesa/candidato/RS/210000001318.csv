@@ -1,3 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSE ELDIR BARBOSA;468.859.780-00;26/07/2010;43001822377;R$ 95,00;Depósito em espécie;JOSE ELDIR BARBOSA;4350;Deputado Federal;PV;RS;
-JOSE ELDIR BARBOSA;468.859.780-00;23/07/2010;43001822376;R$ 115,00;Depósito em espécie;JOSE ELDIR BARBOSA;4350;Deputado Federal;PV;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIA FARAON SALAMI - CONFECOES WINELLI;95.097.622/0001-96;23/07/2010;       Diversas a especificar;R$ 20,00;Cheque; -  -  / 4350 - JOSE ELDIR BARBOSA - RS - Deputado Federal;
+COMERCIO EMB CRISTINA LTDA;72.426.695/0001-89;23/07/2010;       Diversas a especificar;R$ 19,80;Cheque; -  -  / 4350 - JOSE ELDIR BARBOSA - RS - Deputado Federal;
+COMERCIO EMB CRISTINA LTDA;72.426.695/0001-89;23/07/2010;       Diversas a especificar;R$ 23,15;Cheque; -  -  / 4350 - JOSE ELDIR BARBOSA - RS - Deputado Federal;
+MOISES RODRIGUES DA SILVA;00.847.628/0001-27;26/07/2010;       Diversas a especificar;R$ 100,00;Cheque; -  -  / 4350 - JOSE ELDIR BARBOSA - RS - Deputado Federal;
+PATRIMONIO REGISTROS EMPRESARIAIS LTDA;00.727.279/0001-00;01/10/2010;       Diversas a especificar;R$ 0,50;Cheque; -  -  / 4350 - JOSE ELDIR BARBOSA - RS - Deputado Federal;
+PATRIMONIO REGISTROS EMPRESARIAIS LTDA;12.177.354/0001-95;01/10/2010;       Diversas a especificar;R$ 46,05;Cheque; -  -  / 4350 - JOSE ELDIR BARBOSA - RS - Deputado Federal;
+;;28/07/2010;       Encargos financeiros e taxas bancárias;R$ 0,50;Cheque; -  -  / 4350 - JOSE ELDIR BARBOSA - RS - Deputado Federal;

@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO DE SOUZA FILHO;516.805.131-68;08/08/2010;27000043927;R$ 600,00;Estimado;JOCILON BARBOSA PIRES DE SOUZA;27220;Deputado Distrital;PSDC;DF;
-ARNALDO ALVES DA SILVA;226.562.941-34;07/08/2010;27000043926;R$ 1.000,00;Estimado;JOCILON BARBOSA PIRES DE SOUZA;27220;Deputado Distrital;PSDC;DF;
-Comitê Financeiro Único;12.270.065/0001-36;07/08/2010;27000043921;R$ 360,00;Estimado;JOCILON BARBOSA PIRES DE SOUZA;27220;Deputado Distrital;PSDC;DF;
-Comitê Financeiro Único;12.270.065/0001-36;23/08/2010;27000043923;R$ 360,00;Estimado;JOCILON BARBOSA PIRES DE SOUZA;27220;Deputado Distrital;PSDC;DF;
-UMBERTO AFONSO FERREIRA;373.773.101-20;08/08/2010;27000043925;R$ 800,00;Estimado;JOCILON BARBOSA PIRES DE SOUZA;27220;Deputado Distrital;PSDC;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO DE SOUZA FILHO;516.805.131-68;08/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado; -  -  / 27220 - JOCILON BARBOSA PIRES DE SOUZA - DF - Deputado Distrital;
+ARNALDO ALVES DA SILVA;226.562.941-34;07/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 27220 - JOCILON BARBOSA PIRES DE SOUZA - DF - Deputado Distrital;
+Comitê Financeiro Único;12.270.065/0001-36;07/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Único - PSDC -  / 27220 - JOCILON BARBOSA PIRES DE SOUZA - DF - Deputado Distrital;
+Comitê Financeiro Único;12.270.065/0001-36;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Único - PSDC -  / 27220 - JOCILON BARBOSA PIRES DE SOUZA - DF - Deputado Distrital;
+UMBERTO AFONSO FERREIRA;373.773.101-20;08/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 800,00;Estimado; -  -  / 27220 - JOCILON BARBOSA PIRES DE SOUZA - DF - Deputado Distrital;

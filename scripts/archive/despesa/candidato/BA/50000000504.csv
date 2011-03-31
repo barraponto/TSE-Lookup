@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.570/0001-95;06/08/2010;44000007521;R$ 85,20;Estimado;EDNALDO SANTANA DOS SANTOS;44221;Deputado Estadual;PRP;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.570/0001-95;06/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 85,20;Estimado;Comitê Financeiro Único - PMDB -  / 44221 - EDNALDO SANTANA DOS SANTOS - BA - Deputado Estadual;

@@ -1,5 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ARMANDO ANDRADE DE MENEZES;000.306.862-53;22/07/2010;65000280091;R$ 50.000,00;Depósito em espécie;DAVID DE MENEZES ERSE;65123;Deputado Estadual;PC do B;RO;
-Diretório Estadual/Distrital;84.638.196/0001-34;06/09/2010;65000280093;R$ 247,50;Estimado;DAVID DE MENEZES ERSE;65123;Deputado Estadual;PC do B;RO;
-ELEIÇÃO 2010 VALDIR RAUPP DE MATOS;12.204.539/0001-41;06/09/2010;65000280094;R$ 1.225,00;Estimado;DAVID DE MENEZES ERSE;65123;Deputado Estadual;PC do B;RO;
-ODMAR RODRIGUES BARROS;350.962.682-68;23/07/2010;65000280092;R$ 20.000,00;Estimado;DAVID DE MENEZES ERSE;65123;Deputado Estadual;PC do B;RO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+C E J LUMINOSOS E FACHADAS LTDA;09.087.635/0001-42;27/08/2010;       Publicidade por materiais impressos;R$ 6.500,00;Cheque; -  -  / 65123 - DAVID DE MENEZES ERSE - RO - Deputado Estadual;
+C E J LUMINOSOS E FACHADAS LTDA;09.087.635/0001-42;21/09/2010;       Publicidade por materiais impressos;R$ 950,00;Cheque; -  -  / 65123 - DAVID DE MENEZES ERSE - RO - Deputado Estadual;
+C E J LUMINOSOS E FACHADAS LTDA;09.087.635/0001-42;29/07/2010;       Publicidade por materiais impressos;R$ 4.170,00;Cheque; -  -  / 65123 - DAVID DE MENEZES ERSE - RO - Deputado Estadual;
+Diretório Estadual/Distrital;84.638.196/0001-34;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 247,50;Estimado;Direção Estadual/Distrital - PMDB -  / 65123 - DAVID DE MENEZES ERSE - RO - Deputado Estadual;
+ELEIÇÃO 2010 VALDIR RAUPP DE MATOS;12.204.539/0001-41;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.225,00;Estimado;151 -  - PMDB -  - Senador / 65123 - DAVID DE MENEZES ERSE - RO - Deputado Estadual;
+EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS -ECT;34.028.316/4673-89;20/08/2010;       Despesas postais;R$ 8.664,00;Cheque; -  -  / 65123 - DAVID DE MENEZES ERSE - RO - Deputado Estadual;
+ODMAR RODRIGUES BARROS;350.962.682-68;23/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 20.000,00;Estimado; -  -  / 65123 - DAVID DE MENEZES ERSE - RO - Deputado Estadual;
+PCDOB;22.819.890/0001-09;19/10/2010;       Diversas a especificar;R$ 136,00;Transferência eletrônica; -  -  / 65123 - DAVID DE MENEZES ERSE - RO - Deputado Estadual;
+RONDOFORMS INDUSTRIA GRAFICA LTDA;00.465.156/0001-48;14/09/2010;       Publicidade por materiais impressos;R$ 4.150,00;Cheque; -  -  / 65123 - DAVID DE MENEZES ERSE - RO - Deputado Estadual;
+RONDOFORMS INDUSTRIA GRAFICA LTDA;00.465.156/0001-48;21/09/2010;       Publicidade por materiais impressos;R$ 10.680,00;Cheque; -  -  / 65123 - DAVID DE MENEZES ERSE - RO - Deputado Estadual;
+RONDOFORMS INDUSTRIA GRAFICA LTDA;00.465.156/0001-48;23/07/2010;       Publicidade por materiais impressos;R$ 14.750,00;Cheque; -  -  / 65123 - DAVID DE MENEZES ERSE - RO - Deputado Estadual;

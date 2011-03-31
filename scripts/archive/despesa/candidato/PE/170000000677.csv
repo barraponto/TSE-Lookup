@@ -1,5 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANDRÉ LUCENA;12.205.039/0001-24;22/09/2010;28000816202;R$ 5.000,00;Transferência eletrônica;RENATO MAC CORMICK SANHACO;28333;Deputado Estadual;PRTB;PE;
-LUIZ GERALDO LEITE;144.037.408-20;03/09/2010;28000816204;R$ 2.000,00;Transferência eletrônica;RENATO MAC CORMICK SANHACO;28333;Deputado Estadual;PRTB;PE;
-LUIZ GERALDO LEITE;144.037.408-20;03/09/2010;28000816201;R$ 2.000,00;Cheque;RENATO MAC CORMICK SANHACO;28333;Deputado Estadual;PRTB;PE;
-LUIZ GERALDO LEITE;144.037.408-20;03/09/2010;28000816203;R$ 2.000,00;Cheque;RENATO MAC CORMICK SANHACO;28333;Deputado Estadual;PRTB;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALESANDRO NOGUEIRA DE CARVALHO;046.440.407-03;22/09/2010;       Despesas com pessoal;R$ 300,00;Cheque; -  -  / 28333 - RENATO MAC CORMICK SANHACO - PE - Deputado Estadual;
+ALESSANDRO MENDES DO NASCIMENTO;019.300.784-39;22/09/2010;       Despesas com pessoal;R$ 300,00;Cheque; -  -  / 28333 - RENATO MAC CORMICK SANHACO - PE - Deputado Estadual;
+AUGUSTO SILVIO DA SILVA;722.849.789-91;06/09/2010;       Despesas com pessoal;R$ 300,00;Cheque; -  -  / 28333 - RENATO MAC CORMICK SANHACO - PE - Deputado Estadual;
+ELISANGELA CRISTINA PADILHA;956.635.689-72;22/09/2010;       Despesas com pessoal;R$ 300,00;Cheque; -  -  / 28333 - RENATO MAC CORMICK SANHACO - PE - Deputado Estadual;
+J.A. DA SILVA SERVIÇOS DE IMPRESSÃO;08.990.148/0001-22;31/08/2010;       Publicidade por materiais impressos;R$ 1.700,00;Cheque; -  -  / 28333 - RENATO MAC CORMICK SANHACO - PE - Deputado Estadual;
+LUIZ ANTONIO BERNARDO;037.259.897-88;22/09/2010;       Despesas com pessoal;R$ 300,00;Cheque; -  -  / 28333 - RENATO MAC CORMICK SANHACO - PE - Deputado Estadual;
+SILVIO BORBA DE MORAES;35.705.946/0001-38;01/09/2010;       Publicidade por materiais impressos;R$ 2.000,00;Cheque; -  -  / 28333 - RENATO MAC CORMICK SANHACO - PE - Deputado Estadual;
+THIAGO DE L. DUARTE IMPRESSOS;11.756.048/0001-40;01/10/2010;       Publicidade por materiais impressos;R$ 2.000,00;Cheque; -  -  / 28333 - RENATO MAC CORMICK SANHACO - PE - Deputado Estadual;
+THIAGO DE L. DUARTE IMPRESSOS;11.756.048/0001-40;31/08/2010;       Publicidade por materiais impressos;R$ 2.000,00;Cheque; -  -  / 28333 - RENATO MAC CORMICK SANHACO - PE - Deputado Estadual;
+TNL PCS SA;04.164.616/0001-59;22/09/2010;       Telefone;R$ 1.783,25;Cheque; -  -  / 28333 - RENATO MAC CORMICK SANHACO - PE - Deputado Estadual;

@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.217.557/0001-68;02/09/2010;22000164502;R$ 1.250,00;Estimado;ANDRE LUIS PEREIRA KAIZER;22193;Deputado Estadual;PR;RJ;
-Comitê Financeiro Único;12.176.027/0001-19;30/09/2010;22000164506;R$ 775,00;Estimado;ANDRE LUIS PEREIRA KAIZER;22193;Deputado Estadual;PR;RJ;
-Comitê Financeiro Único;12.217.557/0001-68;30/09/2010;22000164504;R$ 2.272,72;Estimado;ANDRE LUIS PEREIRA KAIZER;22193;Deputado Estadual;PR;RJ;
-ELEIÇÃO 2010 - ANTHONY WILLIAM GAROTINHO MATHEUS DE OLIVEIRA;12.199.794/0001-43;04/08/2010;22000164501;R$ 175,00;Estimado;ANDRE LUIS PEREIRA KAIZER;22193;Deputado Estadual;PR;RJ;
-ELEIÇÃO 2010 - ANTHONY WILLIAM GAROTINHO MATHEUS DE OLIVEIRA;12.199.794/0001-43;03/09/2010;22000164503;R$ 175,00;Estimado;ANDRE LUIS PEREIRA KAIZER;22193;Deputado Estadual;PR;RJ;
-ELEIÇÃO 2010 - FERNANDO OTÁVIO DE FREITAS PEREGRINO;12.176.027/0001-19;30/09/2010;22000164505;R$ 500,00;Estimado;ANDRE LUIS PEREIRA KAIZER;22193;Deputado Estadual;PR;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.217.557/0001-68;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.272,72;Estimado;Comitê Financeiro Único - PR -  / 22193 - ANDRE LUIS PEREIRA KAIZER - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.217.557/0001-68;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.250,00;Estimado;Comitê Financeiro Único - PR -  / 22193 - ANDRE LUIS PEREIRA KAIZER - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.176.027/0001-19;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 775,00;Estimado;Comitê Financeiro Único - PR -  / 22193 - ANDRE LUIS PEREIRA KAIZER - RJ - Deputado Estadual;
+ELEIÇÃO 2010 - ANTHONY WILLIAM GAROTINHO MATHEUS DE OLIVEIRA;12.199.794/0001-43;04/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 175,00;Estimado;2258 -  - PR -  - Deputado Federal / 22193 - ANDRE LUIS PEREIRA KAIZER - RJ - Deputado Estadual;
+ELEIÇÃO 2010 - ANTHONY WILLIAM GAROTINHO MATHEUS DE OLIVEIRA;12.199.794/0001-43;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 175,00;Estimado;2258 -  - PR -  - Deputado Federal / 22193 - ANDRE LUIS PEREIRA KAIZER - RJ - Deputado Estadual;
+ELEIÇÃO 2010 - FERNANDO OTÁVIO DE FREITAS PEREGRINO;12.176.027/0001-19;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;22 -  - PR -  - Governador / 22193 - ANDRE LUIS PEREIRA KAIZER - RJ - Deputado Estadual;

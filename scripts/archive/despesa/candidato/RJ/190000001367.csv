@@ -1,3 +1,14 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MARINA  VERA   CRUZ   XIMENES;051.083.817-00;06/08/2010;23000220561;R$ 2.000,00;Transferência eletrônica;SILVIO DE CARVALHO XIMENES;23611;Deputado Estadual;PPS;RJ;
-STEPAN NERCESSIAN;12.190.309/0001-70;13/09/2010;23000220562;R$ 400,00;Estimado;SILVIO DE CARVALHO XIMENES;23611;Deputado Estadual;PPS;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BOM DESING IMPRESSOS E ETIQUETAS;08.854.885/0001-06;05/08/2010;       Publicidade por materiais impressos;R$ 1.308,50;Cheque; -  -  / 23611 - SILVIO DE CARVALHO XIMENES - RJ - Deputado Estadual;
+BOM DESING IMPRESSOS E ETIQUETAS;08.854.885/0001-06;23/08/2010;       Publicidade por materiais impressos;R$ 220,00;Cheque; -  -  / 23611 - SILVIO DE CARVALHO XIMENES - RJ - Deputado Estadual;
+POSTO MIRANTE DA TAQUARA LTDA;00.792.114/0001-11;26/09/2010;       Combustíveis e lubrificantes;R$ 50,00;Cheque; -  -  / 23611 - SILVIO DE CARVALHO XIMENES - RJ - Deputado Estadual;
+POSTO MIRANTE DA TAQUARA LTDA;00.792.114/0001-11;23/09/2010;       Combustíveis e lubrificantes;R$ 50,00;Cheque; -  -  / 23611 - SILVIO DE CARVALHO XIMENES - RJ - Deputado Estadual;
+POSTO MIRANTE DA TAQUARA LTDA;00.792.114/0001-11;15/09/2010;       Combustíveis e lubrificantes;R$ 50,00;Cheque; -  -  / 23611 - SILVIO DE CARVALHO XIMENES - RJ - Deputado Estadual;
+POSTO MIRANTE DA TAQUARA LTDA;00.792.114/0001-11;02/10/2010;       Combustíveis e lubrificantes;R$ 50,00;Cheque; -  -  / 23611 - SILVIO DE CARVALHO XIMENES - RJ - Deputado Estadual;
+POSTO MIRANTE DA TAQUARA LTDA;00.792.114/0001-11;14/09/2010;       Combustíveis e lubrificantes;R$ 50,00;Cheque; -  -  / 23611 - SILVIO DE CARVALHO XIMENES - RJ - Deputado Estadual;
+POSTO MIRANTE DA TAQUARA LTDA;00.792.114/0001-11;18/09/2010;       Combustíveis e lubrificantes;R$ 50,00;Cheque; -  -  / 23611 - SILVIO DE CARVALHO XIMENES - RJ - Deputado Estadual;
+POSTO MIRANTE DA TAQUARA LTDA;00.792.114/0001-11;20/09/2010;       Combustíveis e lubrificantes;R$ 50,00;Cheque; -  -  / 23611 - SILVIO DE CARVALHO XIMENES - RJ - Deputado Estadual;
+POSTO MIRANTE DA TAQUARA LTDA;00.792.114/0001-11;26/09/2010;       Combustíveis e lubrificantes;R$ 50,00;Cheque; -  -  / 23611 - SILVIO DE CARVALHO XIMENES - RJ - Deputado Estadual;
+STEPAN NERCESSIAN;12.190.309/0001-70;13/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado;2323 -  - PPS -  - Deputado Federal / 23611 - SILVIO DE CARVALHO XIMENES - RJ - Deputado Estadual;
+;;09/08/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 23611 - SILVIO DE CARVALHO XIMENES - RJ - Deputado Estadual;
+;;09/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 23611 - SILVIO DE CARVALHO XIMENES - RJ - Deputado Estadual;

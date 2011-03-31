@@ -1,4 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DIONE E OSNI FRANCISCO MINOTTO;76.805.514/0001-86;15/09/2010;33000000515;R$ 300,00;Estimado;OSNI FRANCISCO MINOTTO;3369;Deputado Federal;PMN;PR;
-ELEIÇAO ALBERTO CARLOS RICHA;12.190.887/0001-07;27/09/2010;33000000524;R$ 630,00;Estimado;OSNI FRANCISCO MINOTTO;3369;Deputado Federal;PMN;PR;
-ELEIÇAO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;05/10/2010;33000000517;R$ 1.680,00;Transferência eletrônica;OSNI FRANCISCO MINOTTO;3369;Deputado Federal;PMN;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CSR INFORMATICA;04.124.391/0001-07;28/09/2010;       Publicidade por materiais impressos;R$ 800,00;Cheque; -  -  / 3369 - OSNI FRANCISCO MINOTTO - PR - Deputado Federal;
+CSR INFORMATICA;04.124.391/0001-07;28/09/2010;       Publicidade por materiais impressos;R$ 880,00;Cheque; -  -  / 3369 - OSNI FRANCISCO MINOTTO - PR - Deputado Federal;
+DIONE E OSNI FRANCISCO MINOTTO;76.805.514/0001-86;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 3369 - OSNI FRANCISCO MINOTTO - PR - Deputado Federal;
+ELEIÇAO ALBERTO CARLOS RICHA;12.190.887/0001-07;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 630,00;Estimado;45 -  - PSDB -  - Governador / 3369 - OSNI FRANCISCO MINOTTO - PR - Deputado Federal;

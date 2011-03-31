@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CLAUDIO JOSE DA SILVA;12.204.833/0001-53;09/08/2010;10000045501;R$ 810,00;Estimado;EMERSON ERNESTO ENCISO ALVES;10111;Deputado Estadual;PRB;MT;
-CLAUDIO JSOE DA SILVA;12.204.833/0001-53;09/08/2010;10000045502;R$ 1.000,00;Estimado;EMERSON ERNESTO ENCISO ALVES;10111;Deputado Estadual;PRB;MT;
-Comitê Financeiro Único;12.200.166/0001-30;08/09/2010;10000045503;R$ 1.870,00;Estimado;EMERSON ERNESTO ENCISO ALVES;10111;Deputado Estadual;PRB;MT;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CLAUDIO JOSE DA SILVA;12.204.833/0001-53;09/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 810,00;Estimado;1010 -  - PRB -  - Deputado Federal / 10111 - EMERSON ERNESTO ENCISO ALVES - MT - Deputado Estadual;
+CLAUDIO JSOE DA SILVA;12.204.833/0001-53;09/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;1010 -  - PRB -  - Deputado Federal / 10111 - EMERSON ERNESTO ENCISO ALVES - MT - Deputado Estadual;
+Comitê Financeiro Único;12.200.166/0001-30;08/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.870,00;Estimado;Comitê Financeiro Único - PRB -  / 10111 - EMERSON ERNESTO ENCISO ALVES - MT - Deputado Estadual;

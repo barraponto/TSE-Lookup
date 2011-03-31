@@ -1,5 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANA AMELIA DE LEMOS;12.189.401/0001-10;29/09/2010;11000042023;R$ 5.000,00;Cheque;JOSE ANTONIO DA SILVA;11577;Deputado Estadual;PP;RS;
-JOSE ANTONIO DA SILVA;292.690.910-15;15/07/2010;11000042021;R$ 1.000,00;Cheque;JOSE ANTONIO DA SILVA;11577;Deputado Estadual;PP;RS;
-JOSE ANTONIO DA SILVA;292.690.910-15;19/07/2010;11000042022;R$ 548,00;Cheque;JOSE ANTONIO DA SILVA;11577;Deputado Estadual;PP;RS;
-YEDA RORATO CRUSIUS;12.172.247/0001-74;01/10/2010;11000042024;R$ 9.000,00;Estimado;JOSE ANTONIO DA SILVA;11577;Deputado Estadual;PP;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALESSANDRA DOS SANTOS;854.140.500-15;30/09/2010;       Despesas com pessoal;R$ 1.250,00;Cheque; -  -  / 11577 - JOSE ANTONIO DA SILVA - RS - Deputado Estadual;
+JAMPIERRE DOMINGUES DA SILVA;019.025.690-75;30/09/2010;       Despesas com pessoal;R$ 1.250,00;Cheque; -  -  / 11577 - JOSE ANTONIO DA SILVA - RS - Deputado Estadual;
+OSCAR DO CANTO;024.301.430-97;30/09/2010;       Despesas com pessoal;R$ 1.250,00;Cheque; -  -  / 11577 - JOSE ANTONIO DA SILVA - RS - Deputado Estadual;
+RGB SOLUÇÕES GRAFICAS LTDA;08.910.080/0001-24;15/07/2010;       Publicidade por materiais impressos;R$ 1.548,00;Cheque; -  -  / 11577 - JOSE ANTONIO DA SILVA - RS - Deputado Estadual;
+VANESSA DOS SANTOS DA SILVA;025.497.480-50;30/09/2010;       Despesas com pessoal;R$ 1.250,00;Cheque; -  -  / 11577 - JOSE ANTONIO DA SILVA - RS - Deputado Estadual;
+YEDA RORATO CRUSIUS;12.172.247/0001-74;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 9.000,00;Estimado;45 -  - PSDB -  - Governador / 11577 - JOSE ANTONIO DA SILVA - RS - Deputado Estadual;

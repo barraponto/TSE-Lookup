@@ -1,6 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-AURI CLEIA GUEDES FIGUEIREDO MACEDO;415.517.702-10;02/09/2010;20000041753;R$ 2.000,00;Depósito em espécie;UBIRANILDO DA SILVA MACÊDO;20190;Deputado Estadual;PSC;AP;
-Comitê Financeiro Único;12.256.171/0001-65;02/09/2010;20000041752;R$ 2.700,00;Estimado;UBIRANILDO DA SILVA MACÊDO;20190;Deputado Estadual;PSC;AP;
-Comitê Financeiro Único;12.256.171/0001-65;02/09/2010;20000041751;R$ 300,00;Estimado;UBIRANILDO DA SILVA MACÊDO;20190;Deputado Estadual;PSC;AP;
-FERNANDO JOSÉ ARAUJO AMARAL;431.985.382-20;16/09/2010;20000041755;R$ 7.000,00;Depósito em espécie;UBIRANILDO DA SILVA MACÊDO;20190;Deputado Estadual;PSC;AP;
-UBIRANILDO DA SILVA MACÊDO;256.238.932-87;01/09/2010;20000041756;R$ 3.000,00;Estimado;UBIRANILDO DA SILVA MACÊDO;20190;Deputado Estadual;PSC;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.256.171/0001-65;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PSC -  / 20190 - UBIRANILDO DA SILVA MACÊDO - AP - Deputado Estadual;
+Comitê Financeiro Único;12.256.171/0001-65;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.700,00;Estimado;Comitê Financeiro Único - PSC -  / 20190 - UBIRANILDO DA SILVA MACÊDO - AP - Deputado Estadual;
+GOMES & AMARAL COM. E REPRESENTAÇÕES LTDA;02.163.903/0001-19;29/09/2010;       Combustíveis e lubrificantes;R$ 2.400,00;Cheque; -  -  / 20190 - UBIRANILDO DA SILVA MACÊDO - AP - Deputado Estadual;
+M.M. SANTOS LTDA-ME;07.354.397/0001-69;27/09/2010;       Publicidade por placas, estandartes e faixas;R$ 1.000,00;Cheque; -  -  / 20190 - UBIRANILDO DA SILVA MACÊDO - AP - Deputado Estadual;
+M.R. COM. E SERVIÇOS LTDA-ME;09.175.231/0001-00;02/09/2010;       Publicidade por materiais impressos;R$ 1.600,00;Cheque; -  -  / 20190 - UBIRANILDO DA SILVA MACÊDO - AP - Deputado Estadual;
+M.R. COM. E SERVIÇOS LTDA-ME;09.175.231/0001-00;20/09/2010;       Publicidade por materiais impressos;R$ 4.000,00;Cheque; -  -  / 20190 - UBIRANILDO DA SILVA MACÊDO - AP - Deputado Estadual;
+UBIRANILDO DA SILVA MACÊDO;256.238.932-87;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.000,00;Estimado; -  -  / 20190 - UBIRANILDO DA SILVA MACÊDO - AP - Deputado Estadual;

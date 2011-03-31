@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FABIANO PEREIRA;12.181.576/0001-81;01/10/2010;13000964501;R$ 65,00;Estimado;LAURO LUIZ CHIELLE;13300;Deputado Estadual;PT;RS;
-LAURO LUIZ CHIELLE;167.543.100-06;23/08/2010;13000964503;R$ 390,00;Depósito em espécie;LAURO LUIZ CHIELLE;13300;Deputado Estadual;PT;RS;
-LAURO LUIZ CHIELLE;167.543.100-06;30/08/2010;13000964504;R$ 400,00;Depósito em espécie;LAURO LUIZ CHIELLE;13300;Deputado Estadual;PT;RS;
-LAURO LUIZ CHIELLE;167.543.100-06;06/09/2010;13000964506;R$ 3.500,00;Depósito em espécie;LAURO LUIZ CHIELLE;13300;Deputado Estadual;PT;RS;
-LAURO LUIZ CHIELLE;167.543.100-06;30/09/2010;13000964507;R$ 3.600,00;Depósito em espécie;LAURO LUIZ CHIELLE;13300;Deputado Estadual;PT;RS;
-LAURO LUIZ CHIELLE;167.543.100-06;23/08/2010;13000964502;R$ 3.500,00;Depósito em espécie;LAURO LUIZ CHIELLE;13300;Deputado Estadual;PT;RS;
-LAURO LUIZ CHIELLE;167.543.100-06;03/09/2010;13000964505;R$ 1.500,00;Depósito em espécie;LAURO LUIZ CHIELLE;13300;Deputado Estadual;PT;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALESSANDRO JORGE VIEIRA;11.064.349/0001-03;30/08/2010;       Produção de jingles, vinhetas e slogans;R$ 180,00;Cheque; -  -  / 13300 - LAURO LUIZ CHIELLE - RS - Deputado Estadual;
+EDITORA GRAFICA ESCALA LTDA - ME;09.249.668/0001-41;29/07/2010;       Publicidade por materiais impressos;R$ 9.880,00;Cheque; -  -  / 13300 - LAURO LUIZ CHIELLE - RS - Deputado Estadual;
+EMPRESA JORNALISTICA JORNAL O ALTO URUGUAI LTDA;03.514.708/0001-59;06/09/2010;       Publicidade por jornais e revistas;R$ 500,00;Cheque; -  -  / 13300 - LAURO LUIZ CHIELLE - RS - Deputado Estadual;
+FABIANO PEREIRA;12.181.576/0001-81;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 65,00;Estimado;1321 -  - PT -  - Deputado Federal / 13300 - LAURO LUIZ CHIELLE - RS - Deputado Estadual;
+JADS PESQUISA E INFORMAÇÃO JORNALISTICA LTDA;10.949.813/0001-86;28/09/2010;       Publicidade por jornais e revistas;R$ 600,00;Cheque; -  -  / 13300 - LAURO LUIZ CHIELLE - RS - Deputado Estadual;
+ULTRAVISUAL;05.551.793/0001-50;02/10/2010;       Publicidade por placas, estandartes e faixas;R$ 730,00;Cheque; -  -  / 13300 - LAURO LUIZ CHIELLE - RS - Deputado Estadual;
+ULTRAVISUAL;05.551.793/0001-50;03/09/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 13300 - LAURO LUIZ CHIELLE - RS - Deputado Estadual;

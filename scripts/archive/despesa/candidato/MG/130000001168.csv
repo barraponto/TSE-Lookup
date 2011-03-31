@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;28000583202;R$ 300,00;Estimado;FERNANDO CARLOS DE SOUZA;28500;Deputado Estadual;PRTB;MG;
-Comitê Financeiro Único;12.154.851/0001-78;15/09/2010;28000583203;R$ 590,00;Estimado;FERNANDO CARLOS DE SOUZA;28500;Deputado Estadual;PRTB;MG;
-FERNANDO CARLOS DE SOUZA;040.903.336-79;17/08/2010;28000583201;R$ 160,00;Depósito em espécie;FERNANDO CARLOS DE SOUZA;28500;Deputado Estadual;PRTB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.154.851/0001-78;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 590,00;Estimado;Comitê Financeiro Único - PT do B -  / 28500 - FERNANDO CARLOS DE SOUZA - MG - Deputado Estadual;
+Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PT do B -  / 28500 - FERNANDO CARLOS DE SOUZA - MG - Deputado Estadual;
+J PAULO'S DIGITAL LTDA;11.332.031/0001-66;18/08/2010;       Publicidade por materiais impressos;R$ 150,00;Cheque; -  -  / 28500 - FERNANDO CARLOS DE SOUZA - MG - Deputado Estadual;

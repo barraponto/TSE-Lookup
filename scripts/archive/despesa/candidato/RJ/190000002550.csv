@@ -1,4 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSE CLAUDIO DE ARAUJO;453.338.407-25;17/09/2010;22000000101;R$ 3.500,00;Cheque;OTAVIO MARCOS GAMA;2253;Deputado Federal;PR;RJ;
-LUIZ HENRIQUE FERREIRA SPINGARN;917.180.238-04;28/10/2010;22000000102;R$ 2.000,00;Cheque;OTAVIO MARCOS GAMA;2253;Deputado Federal;PR;RJ;
-VITOR JOSE GOMES DA SILVA;077.918.847-04;28/10/2010;22000000104;R$ 2.100,00;Cheque;OTAVIO MARCOS GAMA;2253;Deputado Federal;PR;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADRIANO LUIS MELLODA CRUZ;970.668.857-91;01/10/2010;       Serviços prestados por terceiros;R$ 409,40;Cheque; -  -  / 2253 - OTAVIO MARCOS GAMA - RJ - Deputado Federal;
+AUTO POSTO CIDADE HISTORICADE PARATYLTDA;35.898.451/0001-72;28/10/2010;       Materiais de expediente;R$ 1.500,00;Cheque; -  -  / 2253 - OTAVIO MARCOS GAMA - RJ - Deputado Federal;
+INSTITUTO NACIONAL DOSEGURO SOCIAL;12.181.229/0001-59;01/10/2010;       Encargos sociais;R$ 427,80;Cheque; -  -  / 2253 - OTAVIO MARCOS GAMA - RJ - Deputado Federal;
+LISIANE RESENDE ALCANFOR ME;09.293.357/0001-80;27/10/2010;       Materiais de expediente;R$ 1.000,00;Cheque; -  -  / 2253 - OTAVIO MARCOS GAMA - RJ - Deputado Federal;
+MAGNO VIEIRACONCEICAO;095.197.067-47;01/10/2010;       Serviços prestados por terceiros;R$ 409,40;Cheque; -  -  / 2253 - OTAVIO MARCOS GAMA - RJ - Deputado Federal;
+RAFAELA OLIVEIRA DE VARGAS;145.497.977-11;01/10/2010;       Serviços prestados por terceiros;R$ 409,40;Cheque; -  -  / 2253 - OTAVIO MARCOS GAMA - RJ - Deputado Federal;
+VIVA A VIDA DE ANGRA GRAFICA, EDITORA E BRINDES LTDA;03.652.676/0001-58;30/09/2010;       Materiais de expediente;R$ 3.300,00;Cheque; -  -  / 2253 - OTAVIO MARCOS GAMA - RJ - Deputado Federal;
+;;01/11/2010;       Impostos, contribuições e taxas;R$ 0,35;Débito em conta; -  -  / 2253 - OTAVIO MARCOS GAMA - RJ - Deputado Federal;

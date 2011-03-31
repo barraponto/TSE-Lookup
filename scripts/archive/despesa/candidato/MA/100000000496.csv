@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-BENEDITO JORGE PINHEIRO NOGUEIRA;137.491.963-20;26/08/2010;17000052554;R$ 300,00;Depósito em espécie;MARIA CACILDA CARVALHO NOGUEIRA;17200;Deputado Estadual;PSL;MA;
-CARLOS F D S LALACIO;12.171.410/0001-84;27/08/2010;17000052555;R$ 49,50;Estimado;MARIA CACILDA CARVALHO NOGUEIRA;17200;Deputado Estadual;PSL;MA;
-CARLOS F D S PALACIO;12.171.410/0001-84;27/08/2010;17000052556;R$ 298,60;Estimado;MARIA CACILDA CARVALHO NOGUEIRA;17200;Deputado Estadual;PSL;MA;
-Comitê Financeiro Único;12.205.310/0001-21;02/09/2010;17000052557;R$ 641,00;Estimado;MARIA CACILDA CARVALHO NOGUEIRA;17200;Deputado Estadual;PSL;MA;
-Comitê Financeiro Único;12.205.310/0001-21;02/08/2010;17000052553;R$ 166,65;Estimado;MARIA CACILDA CARVALHO NOGUEIRA;17200;Deputado Estadual;PSL;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS F D S LALACIO;12.171.410/0001-84;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 49,50;Estimado;1745 -  - PSL -  - Deputado Federal / 17200 - MARIA CACILDA CARVALHO NOGUEIRA - MA - Deputado Estadual;
+CARLOS F D S PALACIO;12.171.410/0001-84;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 298,60;Estimado;1745 -  - PSL -  - Deputado Federal / 17200 - MARIA CACILDA CARVALHO NOGUEIRA - MA - Deputado Estadual;
+Comitê Financeiro Único;12.205.310/0001-21;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 641,00;Estimado;Comitê Financeiro Único - PSL -  / 17200 - MARIA CACILDA CARVALHO NOGUEIRA - MA - Deputado Estadual;
+Comitê Financeiro Único;12.205.310/0001-21;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 166,65;Estimado;Comitê Financeiro Único - PSL -  / 17200 - MARIA CACILDA CARVALHO NOGUEIRA - MA - Deputado Estadual;
+H M BOGEA E CIA LTDA;01.153.837/0001-33;23/08/2010;       Publicidade por jornais e revistas;R$ 300,00;Cheque; -  -  / 17200 - MARIA CACILDA CARVALHO NOGUEIRA - MA - Deputado Estadual;

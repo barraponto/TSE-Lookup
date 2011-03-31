@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 ROSALBA CIARLINI ROSADO;12.190.097/0001-21;24/09/2010;45000286971;R$ 10.000,00;Estimado;JOSÉ MASCENA DE LIMA;45123;Deputado Estadual;PSDB;RN;
-JOSÉ MASCENA DE LIMA;029.663.854-48;02/09/2010;45000286972;R$ 140,00;Depósito em espécie;JOSÉ MASCENA DE LIMA;45123;Deputado Estadual;PSDB;RN;
-JOSÉ MASCENA DE LIMA;029.663.854-48;04/08/2010;45000286973;R$ 500,00;Depósito em espécie;JOSÉ MASCENA DE LIMA;45123;Deputado Estadual;PSDB;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 ROSALBA CIARLINI ROSADO;12.190.097/0001-21;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 10.000,00;Estimado;25 -  - DEM -  - Governador / 45123 - JOSÉ MASCENA DE LIMA - RN - Deputado Estadual;
+SEM INDUSTRIA E SERVIÇOS EM COMUNICAÇÃO LTDA ME;10.958.860/0001-96;04/08/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 45123 - JOSÉ MASCENA DE LIMA - RN - Deputado Estadual;
+SEM INDUSTRIA E SERVIÇOS EM COMUNICAÇÃO LTDA ME;10.958.860/0001-96;11/08/2010;       Publicidade por materiais impressos;R$ 138,20;Cheque; -  -  / 45123 - JOSÉ MASCENA DE LIMA - RN - Deputado Estadual;

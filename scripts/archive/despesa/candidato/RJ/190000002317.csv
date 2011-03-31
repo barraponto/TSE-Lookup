@@ -1,2 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LUCIO MAURO LIMA DE CASTRO;051.548.757-02;04/08/2010;70000152341;R$ 900,00;Depósito em espécie;LUCIO MAURO LIMA DE CASTRO;70700;Deputado Estadual;PT do B;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+NELSON FERREIRA DA COSTA;11.796.693/0001-97;22/09/2010;       Publicidade por materiais impressos;R$ 450,00;Transferência eletrônica; -  -  / 70700 - LUCIO MAURO LIMA DE CASTRO - RJ - Deputado Estadual;
+SUHETT E MARQUES ARTES GRÁFICAS LTDA;28.972.156/0001-53;06/09/2010;       Publicidade por materiais impressos;R$ 317,00;Transferência eletrônica; -  -  / 70700 - LUCIO MAURO LIMA DE CASTRO - RJ - Deputado Estadual;
+VIAPRIMOS SOLUÇÕES GRÁFICAS LTDA ME;10.330.845/0001-07;13/09/2010;       Publicidade por materiais impressos;R$ 133,00;Transferência eletrônica; -  -  / 70700 - LUCIO MAURO LIMA DE CASTRO - RJ - Deputado Estadual;

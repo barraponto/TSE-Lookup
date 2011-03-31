@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-TACITO ALMEIDA LIMA;164.173.214-87;19/07/2010;25000457851;R$ 300,00;Depósito em espécie;TACITO ALMEIDA LIMA;25888;Deputado Estadual;DEM;AL;
-TACITO ALMEIDA LIMA;164.173.214-87;01/11/2010;25000457854;R$ 18,00;Depósito em espécie;TACITO ALMEIDA LIMA;25888;Deputado Estadual;DEM;AL;
-TACITO ALMEIDA LIMA;164.173.214-87;28/10/2010;25000457853;R$ 370,00;Depósito em espécie;TACITO ALMEIDA LIMA;25888;Deputado Estadual;DEM;AL;
-TACITO ALMEIDA LIMA;164.173.214-87;22/10/2010;25000457852;R$ 500,00;Depósito em espécie;TACITO ALMEIDA LIMA;25888;Deputado Estadual;DEM;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AERO SING;02.831.181/0001-23;31/08/2010;       Publicidade por materiais impressos;R$ 490,00;Transferência eletrônica; -  -  / 25888 - TACITO ALMEIDA LIMA - AL - Deputado Estadual;
+AERO SING;02.831.181/0001-23;17/08/2010;       Publicidade por materiais impressos;R$ 180,00;Cheque; -  -  / 25888 - TACITO ALMEIDA LIMA - AL - Deputado Estadual;
+GRAFICA MANACIUAL LTDA;09.073.852/0001-83;29/09/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 25888 - TACITO ALMEIDA LIMA - AL - Deputado Estadual;
+;;22/10/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 25888 - TACITO ALMEIDA LIMA - AL - Deputado Estadual;
+;;22/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 25888 - TACITO ALMEIDA LIMA - AL - Deputado Estadual;

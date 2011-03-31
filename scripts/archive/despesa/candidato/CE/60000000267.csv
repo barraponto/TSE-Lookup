@@ -1,5 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.217.587/0001-74;05/09/2010;12000009871;R$ 1.780,00;Estimado;SILVANA FURTADO SATIRO;12312;Deputado Estadual;PDT;CE;
-HYPERIDES PEREIRA DE MACEDO;013.238.903-78;13/09/2010;12000009873;R$ 500,00;Cheque;SILVANA FURTADO SATIRO;12312;Deputado Estadual;PDT;CE;
-OLAVO FELIPE ALBUQUERQUE FILHO-ME;02.759.345/0001-59;14/09/2010;12000009872;R$ 1.500,00;Cheque;SILVANA FURTADO SATIRO;12312;Deputado Estadual;PDT;CE;
-SILVANA FURTADO SÁTIRO;098.249.283-91;27/09/2010;12000009874;R$ 2,90;Depósito em espécie;SILVANA FURTADO SATIRO;12312;Deputado Estadual;PDT;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.217.587/0001-74;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.780,00;Estimado;Comitê Financeiro Único - PDT -  / 12312 - SILVANA FURTADO SATIRO - CE - Deputado Estadual;
+EDITORA CELIGRAFICA;07.646.938/0001-22;24/09/2010;       Publicidade por materiais impressos;R$ 2.000,00;Cheque; -  -  / 12312 - SILVANA FURTADO SATIRO - CE - Deputado Estadual;
+;;17/09/2010;       Impostos, contribuições e taxas;R$ 2,90;Débito em conta; -  -  / 12312 - SILVANA FURTADO SATIRO - CE - Deputado Estadual;

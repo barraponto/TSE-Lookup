@@ -1,3 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALEXANDRE CIPRIANO DE OLIVEIRA;949.626.427-15;27/08/2010;43001510452;R$ 1.500,00;Depósito em espécie;ALEXANDRE CIPRIANO DE OLIVEIRA;4325;Deputado Federal;PV;RJ;
-COMERCIAL RIO DOMINGAO RECICLAVEIS LTDA.;07.991.155/0001-86;11/08/2010;43001510451;R$ 1.200,00;Depósito em espécie;ALEXANDRE CIPRIANO DE OLIVEIRA;4325;Deputado Federal;PV;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARTES GRÁFICAS VIA 7 LTDA;02.174.741/0001-14;13/08/2010;       Publicidade por materiais impressos;R$ 380,50;Cheque; -  -  / 4325 - ALEXANDRE CIPRIANO DE OLIVEIRA - RJ - Deputado Federal;
+ARTES GRÁFICAS VIA 7 LTDA;02.174.741/0001-14;30/08/2010;       Publicidade por materiais impressos;R$ 1.210,00;Cheque; -  -  / 4325 - ALEXANDRE CIPRIANO DE OLIVEIRA - RJ - Deputado Federal;
+ORIGINAL GRÁFICA DO RECREIO LTDA.;09.403.750/0001-89;05/09/2010;       Combustíveis e lubrificantes;R$ 108,86;Cheque; -  -  / 4325 - ALEXANDRE CIPRIANO DE OLIVEIRA - RJ - Deputado Federal;
+POSTO SANTA EFIGENIA;33.905.027/0001-82;16/08/2010;       Combustíveis e lubrificantes;R$ 121,13;Cheque; -  -  / 4325 - ALEXANDRE CIPRIANO DE OLIVEIRA - RJ - Deputado Federal;
+POSTO SANTA EFIGENIA;33.905.027/0001-82;19/09/2010;       Combustíveis e lubrificantes;R$ 64,00;Cheque; -  -  / 4325 - ALEXANDRE CIPRIANO DE OLIVEIRA - RJ - Deputado Federal;
+POSTO SANTA EFIGENIA;33.905.027/0001-82;10/09/2010;       Combustíveis e lubrificantes;R$ 70,00;Cheque; -  -  / 4325 - ALEXANDRE CIPRIANO DE OLIVEIRA - RJ - Deputado Federal;
+POSTO SANTA EFIGENIA;33.905.027/0001-82;14/08/2010;       Combustíveis e lubrificantes;R$ 110,00;Cheque; -  -  / 4325 - ALEXANDRE CIPRIANO DE OLIVEIRA - RJ - Deputado Federal;
+POSTO SANTA EFIGENIA;33.905.027/0001-82;21/08/2010;       Combustíveis e lubrificantes;R$ 72,71;Cheque; -  -  / 4325 - ALEXANDRE CIPRIANO DE OLIVEIRA - RJ - Deputado Federal;
+VINILART 1547 ADESIVOS ESPECIAIS LTDA.;05.959.864/0001-59;24/08/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 4325 - ALEXANDRE CIPRIANO DE OLIVEIRA - RJ - Deputado Federal;
+;;15/09/2010;       Encargos financeiros e taxas bancárias;R$ 28,50;Débito em conta; -  -  / 4325 - ALEXANDRE CIPRIANO DE OLIVEIRA - RJ - Deputado Federal;
+;;20/10/2010;       Encargos financeiros e taxas bancárias;R$ 22,20;Débito em conta; -  -  / 4325 - ALEXANDRE CIPRIANO DE OLIVEIRA - RJ - Deputado Federal;

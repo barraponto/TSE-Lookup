@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;36000080892;R$ 1.144,80;Estimado;LUCAS CONCEIÇÃO LEITE;36036;Deputado Estadual;PTC;BA;
-Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;36000080891;R$ 192,00;Estimado;LUCAS CONCEIÇÃO LEITE;36036;Deputado Estadual;PTC;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.144,80;Estimado;Comitê Financeiro Único - PMDB -  / 36036 - LUCAS CONCEIÇÃO LEITE - BA - Deputado Estadual;
+Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 192,00;Estimado;Comitê Financeiro Único - PMDB -  / 36036 - LUCAS CONCEIÇÃO LEITE - BA - Deputado Estadual;

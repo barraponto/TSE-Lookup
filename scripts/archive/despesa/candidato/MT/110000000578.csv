@@ -1,4 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.235.324/0001-98;04/09/2010;23000120801;R$ 3.136,00;Cheque;ANTONIO SANTANA CORREA MARQUES JUNIOR;23555;Deputado Estadual;PPS;MT;
-MARCO LEVY RODRIGUES DO PRADO;523.056.601-97;06/09/2010;23000120802;R$ 600,00;Estimado;ANTONIO SANTANA CORREA MARQUES JUNIOR;23555;Deputado Estadual;PPS;MT;
-OSVALDO AGUIAR DE AZEVEDO;551.329.609-87;22/09/2010;23000120803;R$ 1.200,00;Estimado;ANTONIO SANTANA CORREA MARQUES JUNIOR;23555;Deputado Estadual;PPS;MT;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AMERICA AUTO POSTO LTDA F01;36.933.539/0001-40;10/09/2010;       Combustíveis e lubrificantes;R$ 1.014,88;Cheque; -  -  / 23555 - ANTONIO SANTANA CORREA MARQUES JUNIOR - MT - Deputado Estadual;
+DARCY CESARIO PRETTO NETO ME;10.919.886/0001-25;01/10/2010;       Cessão ou Locação de Veículos;R$ 1.730,00;Cheque; -  -  / 23555 - ANTONIO SANTANA CORREA MARQUES JUNIOR - MT - Deputado Estadual;
+DEGOTTI E ZANELLA LTDA;09.079.447/0001-72;04/10/2010;       Combustíveis e lubrificantes;R$ 77,00;Cheque; -  -  / 23555 - ANTONIO SANTANA CORREA MARQUES JUNIOR - MT - Deputado Estadual;
+ELEICOES 2010 COMITE FINANCEIRO UNICO PPS;12.235.324/0001-98;01/11/2010;       Diversas a especificar;R$ 314,12;Cheque; -  -  / 23555 - ANTONIO SANTANA CORREA MARQUES JUNIOR - MT - Deputado Estadual;
+MARCO LEVY RODRIGUES DO PRADO;523.056.601-97;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado; -  -  / 23555 - ANTONIO SANTANA CORREA MARQUES JUNIOR - MT - Deputado Estadual;
+OSVALDO AGUIAR DE AZEVEDO;551.329.609-87;22/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.200,00;Estimado; -  -  / 23555 - ANTONIO SANTANA CORREA MARQUES JUNIOR - MT - Deputado Estadual;

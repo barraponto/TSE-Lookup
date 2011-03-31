@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LUIZ PAULO VELLOZO LUCAS;12.179.441/0001-81;30/09/2010;14000001705;R$ 800,00;Estimado;RANIERI DINIZ LIMA;14558;Deputado Estadual;PTB;ES;
-LUIZ PAULO VELLOZO LUCAS;12.179.441/0001-81;30/09/2010;14000001704;R$ 1.800,00;Estimado;RANIERI DINIZ LIMA;14558;Deputado Estadual;PTB;ES;
-RANIERI DINIZ LIMA;765.004.707-53;01/11/2010;14000001707;R$ 42,14;Depósito em espécie;RANIERI DINIZ LIMA;14558;Deputado Estadual;PTB;ES;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+LUIZ PAULO VELLOZO LUCAS;12.179.441/0001-81;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.800,00;Estimado;45 -  - PSDB -  - Governador / 14558 - RANIERI DINIZ LIMA - ES - Deputado Estadual;
+LUIZ PAULO VELLOZO LUCAS;12.179.441/0001-81;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 800,00;Estimado;45 -  - PSDB -  - Governador / 14558 - RANIERI DINIZ LIMA - ES - Deputado Estadual;
+;;01/11/2010;       Encargos financeiros e taxas bancárias;R$ 42,14;Débito em conta; -  -  / 14558 - RANIERI DINIZ LIMA - ES - Deputado Estadual;

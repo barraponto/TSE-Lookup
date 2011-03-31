@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.221.840/0001-63;30/09/2010;13000667122;R$ 3.389,84;Estimado;MARCELO DE CARVALHO BARROS;13065;Deputado Estadual;PT;MA;
-MARCELO DE CARVALHO BARROS;268.243.023-68;19/08/2010;13000667121;R$ 1.500,00;Depósito em espécie;MARCELO DE CARVALHO BARROS;13065;Deputado Estadual;PT;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.221.840/0001-63;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.389,84;Estimado;Comitê Financeiro Único - PT -  / 13065 - MARCELO DE CARVALHO BARROS - MA - Deputado Estadual;
+IMPRESS GRÁFICA;11.263.542/0001-73;19/08/2010;       Publicidade por materiais impressos;R$ 1.200,00;Cheque; -  -  / 13065 - MARCELO DE CARVALHO BARROS - MA - Deputado Estadual;
+P. V. S. NEVES COMÉRCIO;08.633.593/0001-35;02/09/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 13065 - MARCELO DE CARVALHO BARROS - MA - Deputado Estadual;

@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALDIR ANTONIO DE SOUZA;044.580.497-12;21/09/2010;36000052002;R$ 140,00;Depósito em espécie;CAMILA PIRES DE OLIVEIRA;3629;Deputado Federal;PTC;RJ;
-JORGE SAYDE PICCIANI;12.176.626/0001-32;01/10/2010;36000052001;R$ 47,18;Estimado;CAMILA PIRES DE OLIVEIRA;3629;Deputado Federal;PTC;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JORGE SAYDE PICCIANI;12.176.626/0001-32;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 47,18;Estimado;155 -  - PMDB -  - Senador / 3629 - CAMILA PIRES DE OLIVEIRA - RJ - Deputado Federal;
+NOVA D'SILVA GRÁFICA E CARIMBO LTDA-ME;02.780.516/0001-21;29/09/2010;       Diversas a especificar;R$ 140,00;Cheque; -  -  / 3629 - CAMILA PIRES DE OLIVEIRA - RJ - Deputado Federal;

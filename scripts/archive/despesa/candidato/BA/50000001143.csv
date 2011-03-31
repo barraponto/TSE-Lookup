@@ -1,2 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-RAFAELA MARIA DE JESUS;028.203.975-90;24/09/2010;10000004754;R$ 1.600,00;Depósito em espécie;JOÃO BATISTA OLIVEIRA SOUZA;1045;Deputado Federal;PRB;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO CARLOS DA SILVA DE SERRINHA;34.391.953/0001-40;29/10/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 1045 - JOÃO BATISTA OLIVEIRA SOUZA - BA - Deputado Federal;
+JC SERVIÇOS DE INFORMATICA;11.531.819/0001-00;06/09/2010;       Serviços prestados por terceiros;R$ 1.020,00;Cheque; -  -  / 1045 - JOÃO BATISTA OLIVEIRA SOUZA - BA - Deputado Federal;
+POSTO AUTO SERENO LTDA;07.794.863/0001-27;18/10/2010;       Combustíveis e lubrificantes;R$ 280,00;Cheque; -  -  / 1045 - JOÃO BATISTA OLIVEIRA SOUZA - BA - Deputado Federal;

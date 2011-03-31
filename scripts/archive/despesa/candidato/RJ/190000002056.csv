@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;31/08/2010;20000676061;R$ 150,00;Estimado;MARIO DA CRUZ SENNA FILHO;20333;Deputado Estadual;PSC;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;10/09/2010;20000676062;R$ 150,00;Estimado;MARIO DA CRUZ SENNA FILHO;20333;Deputado Estadual;PSC;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;10/09/2010;20000676063;R$ 150,00;Estimado;MARIO DA CRUZ SENNA FILHO;20333;Deputado Estadual;PSC;RJ;
-MARIO DA CRUZ SENNA FILHO;351.969.717-34;30/09/2010;20000676065;R$ 600,00;Estimado;MARIO DA CRUZ SENNA FILHO;20333;Deputado Estadual;PSC;RJ;
-MARIO DA CRUZ SENNA FILHO;351.969.717-34;30/09/2010;20000676064;R$ 600,00;Estimado;MARIO DA CRUZ SENNA FILHO;20333;Deputado Estadual;PSC;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 20333 - MARIO DA CRUZ SENNA FILHO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 20333 - MARIO DA CRUZ SENNA FILHO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 20333 - MARIO DA CRUZ SENNA FILHO - RJ - Deputado Estadual;
+MARIO DA CRUZ SENNA FILHO;351.969.717-34;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado; -  -  / 20333 - MARIO DA CRUZ SENNA FILHO - RJ - Deputado Estadual;
+MARIO DA CRUZ SENNA FILHO;351.969.717-34;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado; -  -  / 20333 - MARIO DA CRUZ SENNA FILHO - RJ - Deputado Estadual;

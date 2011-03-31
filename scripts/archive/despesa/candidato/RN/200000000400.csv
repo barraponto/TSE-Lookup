@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FRANCISCO JOSE DA COSTA;590.176.437-49;30/09/2010;13000880841;R$ 400,00;Estimado;OTILIA MARIA ATAIDE DA CRUZ;13313;Deputado Estadual;PT;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+FRANCISCO JOSE DA COSTA;590.176.437-49;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado; -  -  / 13313 - OTILIA MARIA ATAIDE DA CRUZ - RN - Deputado Estadual;

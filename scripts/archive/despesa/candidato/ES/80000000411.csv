@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JEINISON RAMPINELLI LECCO;099.346.477-70;30/09/2010;45000295831;R$ 1.166,00;Depósito em espécie;JEINISON RAMPINELLI LECCO;45310;Deputado Estadual;PSDB;ES;
-JEINISON RAMPINELLI LECCO;099.346.477-70;06/10/2010;45000295832;R$ 75,00;Depósito em espécie;JEINISON RAMPINELLI LECCO;45310;Deputado Estadual;PSDB;ES;
-LUIZ PAULO;12.181.907/0001-83;01/10/2010;45000295833;R$ 2.600,00;Estimado;JEINISON RAMPINELLI LECCO;45310;Deputado Estadual;PSDB;ES;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AM2 JORNALISMO E PUBLICIDADE LTDA ME;05.471.229/0001-28;30/09/2010;       Publicidade por jornais e revistas;R$ 1.160,00;Cheque; -  -  / 45310 - JEINISON RAMPINELLI LECCO - ES - Deputado Estadual;
+GRAFICA SANTO ANTONIO LTDA;28.156.297/0001-06;06/10/2010;       Publicidade por jornais e revistas;R$ 75,00;Cheque; -  -  / 45310 - JEINISON RAMPINELLI LECCO - ES - Deputado Estadual;
+LUIZ PAULO;12.181.907/0001-83;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.600,00;Estimado;45 -  - PSDB -  - Governador / 45310 - JEINISON RAMPINELLI LECCO - ES - Deputado Estadual;

@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 CESAR EPITACIO MAIA;12.176.116/0001-65;01/10/2010;25000166040;R$ 8,25;Estimado;JOSE FLORIPES HENRIQUE BEZERRA;2526;Deputado Federal;DEM;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 CESAR EPITACIO MAIA;12.176.116/0001-65;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 8,25;Estimado;251 -  - DEM -  - Senador / 2526 - JOSE FLORIPES HENRIQUE BEZERRA - RJ - Deputado Federal;

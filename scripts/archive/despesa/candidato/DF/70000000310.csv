@@ -1,8 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.221.845/0001-96;01/09/2010;45000420893;R$ 100,00;Estimado;RIOGRANDINO TABAJARA BARBOSA ALVES BRANCO;45888;Deputado Distrital;PSDB;DF;
-Comitê Financeiro Único;12.221.845/0001-96;13/09/2010;45000420896;R$ 400,00;Estimado;RIOGRANDINO TABAJARA BARBOSA ALVES BRANCO;45888;Deputado Distrital;PSDB;DF;
-Comitê Financeiro Único;12.221.845/0001-96;19/08/2010;45000420892;R$ 720,00;Estimado;RIOGRANDINO TABAJARA BARBOSA ALVES BRANCO;45888;Deputado Distrital;PSDB;DF;
-MARIA DE LOURDES ABADIA;12.167.909/0001-18;06/09/2010;45000420895;R$ 71,66;Estimado;RIOGRANDINO TABAJARA BARBOSA ALVES BRANCO;45888;Deputado Distrital;PSDB;DF;
-RIOGRANDINO TABAJARA BARBOSA ALVES BRANCO;147.654.460-34;27/07/2010;45000420897;R$ 2.500,00;Estimado;RIOGRANDINO TABAJARA BARBOSA ALVES BRANCO;45888;Deputado Distrital;PSDB;DF;
-RIOGRANDINO TABAJARA BARBOSA ALVES BRANCO;147.654.460-34;27/07/2010;45000420891;R$ 100,00;Transferência eletrônica;RIOGRANDINO TABAJARA BARBOSA ALVES BRANCO;45888;Deputado Distrital;PSDB;DF;
-RIOGRANDINO TABAJARA BARBOSA ALVES BRANCO;147.654.460-34;10/08/2010;45000420894;R$ 571,00;Transferência eletrônica;RIOGRANDINO TABAJARA BARBOSA ALVES BRANCO;45888;Deputado Distrital;PSDB;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.221.845/0001-96;19/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 720,00;Estimado;Comitê Financeiro Único - PSDB -  / 45888 - RIOGRANDINO TABAJARA BARBOSA ALVES BRANCO - DF - Deputado Distrital;
+Comitê Financeiro Único;12.221.845/0001-96;13/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado;Comitê Financeiro Único - PSDB -  / 45888 - RIOGRANDINO TABAJARA BARBOSA ALVES BRANCO - DF - Deputado Distrital;
+Comitê Financeiro Único;12.221.845/0001-96;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado;Comitê Financeiro Único - PSDB -  / 45888 - RIOGRANDINO TABAJARA BARBOSA ALVES BRANCO - DF - Deputado Distrital;
+GRAFICA NICODEMOS;11.850.861/0001-85;10/08/2010;       Publicidade por materiais impressos;R$ 670,00;Cheque; -  -  / 45888 - RIOGRANDINO TABAJARA BARBOSA ALVES BRANCO - DF - Deputado Distrital;
+MARIA DE LOURDES ABADIA;12.167.909/0001-18;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 71,66;Estimado;456 -  - PSDB -  - Senador / 45888 - RIOGRANDINO TABAJARA BARBOSA ALVES BRANCO - DF - Deputado Distrital;
+RIOGRANDINO TABAJARA BARBOSA ALVES BRANCO;147.654.460-34;27/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.500,00;Estimado; -  -  / 45888 - RIOGRANDINO TABAJARA BARBOSA ALVES BRANCO - DF - Deputado Distrital;

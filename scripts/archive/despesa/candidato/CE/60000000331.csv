@@ -1,3 +1,13 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Nacional;31.886.963/0001-68;19/08/2010;43001893747;R$ 5.000,00;Transferência eletrônica;MARIO TAVARES GURJAO;4388;Deputado Federal;PV;CE;
-MÁRIO TAVARES GURJÃO;021.906.713-96;06/08/2010;43001893746;R$ 500,00;Depósito em espécie;MARIO TAVARES GURJAO;4388;Deputado Federal;PV;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AFIO COUROS LTDA;23.552.847/0001-84;17/09/2010;       Publicidade por materiais impressos;R$ 80,50;Cheque; -  -  / 4388 - MARIO TAVARES GURJAO - CE - Deputado Federal;
+AFIO COUROS LTDA;23.552.847/0001-84;31/08/2010;       Publicidade por placas, estandartes e faixas;R$ 298,20;Cheque; -  -  / 4388 - MARIO TAVARES GURJAO - CE - Deputado Federal;
+AFIO COUROS LTDA;23.552.847/0001-84;10/09/2010;       Publicidade por placas, estandartes e faixas;R$ 163,20;Cheque; -  -  / 4388 - MARIO TAVARES GURJAO - CE - Deputado Federal;
+AFIO COUROS LTDA;23.552.847/0001-84;23/09/2010;       Publicidade por materiais impressos;R$ 120,00;Cheque; -  -  / 4388 - MARIO TAVARES GURJAO - CE - Deputado Federal;
+AFIO COUROS LTDA;23.552.847/0001-84;30/08/2010;       Publicidade por placas, estandartes e faixas;R$ 201,60;Cheque; -  -  / 4388 - MARIO TAVARES GURJAO - CE - Deputado Federal;
+AFIO COUROS LTDA;23.552.847/0001-84;23/08/2010;       Publicidade por placas, estandartes e faixas;R$ 118,00;Cheque; -  -  / 4388 - MARIO TAVARES GURJAO - CE - Deputado Federal;
+FRANCISCO RODRIGUES;04.490.628/0001-73;17/09/2010;       Publicidade por materiais impressos;R$ 1.300,00;Cheque; -  -  / 4388 - MARIO TAVARES GURJAO - CE - Deputado Federal;
+HEDIGLEY SANTOS MENDES;004.956.933-32;30/08/2010;       Produção de jingles, vinhetas e slogans;R$ 280,00;Cheque; -  -  / 4388 - MARIO TAVARES GURJAO - CE - Deputado Federal;
+MARCOS VINICIOS RODRIGUES EUGENIO;037.782.713-42;05/09/2010;       Publicidade por carros de som;R$ 1.181,00;Cheque; -  -  / 4388 - MARIO TAVARES GURJAO - CE - Deputado Federal;
+POSTO CAMPEAO - O E D - COMERCIO DE PETROLEO LTDA;02.411.443/0001-09;10/09/2010;       Combustíveis e lubrificantes;R$ 500,00;Cheque; -  -  / 4388 - MARIO TAVARES GURJAO - CE - Deputado Federal;
+ROCELIA PONCIANO DA SILVA;07.450.862/0001-65;06/09/2010;       Publicidade por materiais impressos;R$ 1.150,00;Cheque; -  -  / 4388 - MARIO TAVARES GURJAO - CE - Deputado Federal;
+4388 - MÁRIO TAVARES GURJÃO - DEPUTADO FEDERAL;12.168.319/0001-00;30/08/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 100,00;Cheque;Comitê Financeiro Único - PV - CE / 4388 - MARIO TAVARES GURJAO - CE - Deputado Federal;

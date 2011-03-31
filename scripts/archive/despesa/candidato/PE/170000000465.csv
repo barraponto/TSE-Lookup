@@ -1,2 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-EDMILSON ANTONIO DA SILVA;848.182.984-68;29/07/2010;31000042551;R$ 500,00;Transferência eletrônica;EDMILSON ANTONIO DA SILVA;31500;Deputado Estadual;PHS;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADRIANO BARBOSA NERY;036.228.834-80;06/08/2010;       Publicidade por materiais impressos;R$ 380,00;Cheque; -  -  / 31500 - EDMILSON ANTONIO DA SILVA - PE - Deputado Estadual;
+ADRIANO BARBOSA NERY;036.228.834-80;06/08/2010;       Publicidade por materiais impressos;R$ 120,00;Cheque; -  -  / 31500 - EDMILSON ANTONIO DA SILVA - PE - Deputado Estadual;

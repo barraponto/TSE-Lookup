@@ -1,3 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
-Diretório Estadual/Distrital;01.295.780/0001-07;16/08/2010;43001904124;R$ 9.000,00;Cheque;Comitê Financeiro Único;PV;AL;
-Diretório Estadual/Distrital;01.295.780/0001-07;01/09/2010;43001904125;R$ 5.000,00;Cheque;Comitê Financeiro Único;PV;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GHAFPEL IND. GRAFICA LTDA - ME;01.301.040/0001-36;18/08/2010;       Publicidade por materiais impressos;R$ 6.500,00;Cheque; -  -  / Comitê Financeiro Único - PV - AL;
+JOSE HELIO DIAS - NO VEICULOS;09.345.224/0002-90;01/09/2010;       Cessão ou Locação de Veículos;R$ 2.600,00;Cheque; -  -  / Comitê Financeiro Único - PV - AL;
+SALGADINHO AUTO POSTO;03.939.542/0005-46;24/09/2010;       Combustíveis e lubrificantes;R$ 2.000,00;Cheque; -  -  / Comitê Financeiro Único - PV - AL;
+TIF PROPAGANDA VISUAL LTDA - ME;41.185.398/0001-65;20/08/2010;       Publicidade por materiais impressos;R$ 2.500,00;Cheque; -  -  / Comitê Financeiro Único - PV - AL;
+TIF PROPAGANDA VISUAL LTDA - ME;41.185.398/0001-65;02/09/2010;       Publicidade por materiais impressos;R$ 350,00;Cheque; -  -  / Comitê Financeiro Único - PV - AL;
+;;25/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / Comitê Financeiro Único - PV - AL;
+;;18/08/2010;       Encargos financeiros e taxas bancárias;R$ 18,00;Débito em conta; -  -  / Comitê Financeiro Único - PV - AL;
+;;25/08/2010;       Encargos financeiros e taxas bancárias;R$ 20,50;Débito em conta; -  -  / Comitê Financeiro Único - PV - AL;

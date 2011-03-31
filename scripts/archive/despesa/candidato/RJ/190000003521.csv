@@ -1,3 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LUIZ CARLOS RODRIGUES BATISTA;893.346.717-34;27/07/2010;44000027861;R$ 5.000,00;Transferência eletrônica;DEIZE CAMPOS DOS SANTOS;44007;Deputado Estadual;PRP;RJ;
-REPÚBLICA COREA COM DE VEÍCULOS LTDA.;09.450.300/0001-47;27/09/2010;44000027862;R$ 2.000,00;Cheque;DEIZE CAMPOS DOS SANTOS;44007;Deputado Estadual;PRP;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA EDITORA STAMPPA LTDA;28.844.405/0001-25;30/08/2010;       Publicidade por materiais impressos;R$ 694,00;Cheque; -  -  / 44007 - DEIZE CAMPOS DOS SANTOS - RJ - Deputado Estadual;
+GRAFICA EDITORA STAMPPA LTDA;28.844.405/0001-25;06/08/2010;       Publicidade por materiais impressos;R$ 1.738,00;Cheque; -  -  / 44007 - DEIZE CAMPOS DOS SANTOS - RJ - Deputado Estadual;
+GRAFICA EDITORA STAMPPA LTDA;28.844.405/0001-25;12/08/2010;       Publicidade por materiais impressos;R$ 825,00;Cheque; -  -  / 44007 - DEIZE CAMPOS DOS SANTOS - RJ - Deputado Estadual;
+M.R.CEDA IMPRESSOS LTDA;40.166.704/0001-53;25/08/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 44007 - DEIZE CAMPOS DOS SANTOS - RJ - Deputado Estadual;
+POSTO DE GASOLINA KOHARA LTDA;00.742.248/0001-28;16/09/2010;       Reembolsos de gastos realizados por eleitores;R$ 596,92;Cheque; -  -  / 44007 - DEIZE CAMPOS DOS SANTOS - RJ - Deputado Estadual;
+POSTO DE GASOLINA KOHARA LTDA;00.742.248/0001-28;28/09/2010;       Combustíveis e lubrificantes;R$ 2.300,00;Cheque; -  -  / 44007 - DEIZE CAMPOS DOS SANTOS - RJ - Deputado Estadual;
+WELLINGTON LUIZ ROCHA LOPES;11.817.770/0001-48;07/09/2010;       Diversas a especificar;R$ 200,00;Cheque; -  -  / 44007 - DEIZE CAMPOS DOS SANTOS - RJ - Deputado Estadual;

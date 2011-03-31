@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.230/0001-76;15/09/2010;31000034401;R$ 2.000,00;Cheque;FRANCISCO RICARDO DE SOUSA;31345;Deputado Estadual;PHS;CE;
-Comitê Financeiro Único;12.205.230/0001-76;09/09/2010;31000034402;R$ 910,71;Estimado;FRANCISCO RICARDO DE SOUSA;31345;Deputado Estadual;PHS;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.230/0001-76;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 910,71;Estimado;Comitê Financeiro Único - PHS -  / 31345 - FRANCISCO RICARDO DE SOUSA - CE - Deputado Estadual;
+JOSÉ CARLOS MOREIRA DE OLIVEIRA - ME;41.594.565/0001-21;09/09/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 910,71;Não informado; -  -  / 31345 - FRANCISCO RICARDO DE SOUSA - CE - Deputado Estadual;
+LEANDRO ARAÚJO PEREIRA - ME;08.375.034/0001-72;17/09/2010;       Publicidade por materiais impressos;R$ 2.000,00;Cheque; -  -  / 31345 - FRANCISCO RICARDO DE SOUSA - CE - Deputado Estadual;

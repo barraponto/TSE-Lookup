@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-VANDERLAN VIEIRA CARDOSO;12.198.568/0001-48;30/09/2010;44000004704;R$ 3.500,00;Transferência eletrônica;RICARDO DOS SANTOS COSTA;44626;Deputado Estadual;PRP;GO;
-VANDERLAN VIEIRA CARDOSO;12.198.568/0001-48;02/10/2010;44000004701;R$ 350,00;Estimado;RICARDO DOS SANTOS COSTA;44626;Deputado Estadual;PRP;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+PILOTO SOLUÇÕES EM IMPRESSÃO;37.655.784/0001-04;16/09/2010;       Diversas a especificar;R$ 350,00;Não informado; -  -  / 44626 - RICARDO DOS SANTOS COSTA - GO - Deputado Estadual;
+VALDEMIR DOS SANTOS;020.460.761-25;01/10/2010;       Cessão ou Locação de Veículos;R$ 3.500,00;Transferência eletrônica; -  -  / 44626 - RICARDO DOS SANTOS COSTA - GO - Deputado Estadual;
+VANDERLAN VIEIRA CARDOSO;12.198.568/0001-48;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 350,00;Estimado;22 -  - PR -  - Governador / 44626 - RICARDO DOS SANTOS COSTA - GO - Deputado Estadual;

@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;20/09/2010;31000026181;R$ 150,00;Estimado;VALDECI DOS SANTOS;3116;Deputado Federal;PHS;RJ;
-ELEIÇÃO 2010 DOMINGOS INÁCIO BRAZÃO DEP. ESTADUAL;12.199.922/0001-59;28/09/2010;31000026186;R$ 200,00;Estimado;VALDECI DOS SANTOS;3116;Deputado Federal;PHS;RJ;
-ELEIÇÃO 2010 DOMINGOS INÁCIO BRAZÃO DEP. ESTADUAL;12.199.922/0001-59;28/09/2010;31000026185;R$ 185,00;Estimado;VALDECI DOS SANTOS;3116;Deputado Federal;PHS;RJ;
-ELEIÇÃO 2010 DOMINGOS INÁCIO BRAZÃO DEP. ESTADUAL;12.199.922/0001-59;28/09/2010;31000026183;R$ 180,00;Estimado;VALDECI DOS SANTOS;3116;Deputado Federal;PHS;RJ;
-ELEIÇÃO 2010 DOMINGOS INÁCIO BRAZÃO DEP. ESTADUAL;12.199.922/0001-59;28/09/2010;31000026184;R$ 800,00;Estimado;VALDECI DOS SANTOS;3116;Deputado Federal;PHS;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 3116 - VALDECI DOS SANTOS - RJ - Deputado Federal;
+ELEIÇÃO 2010 DOMINGOS INÁCIO BRAZÃO DEP. ESTADUAL;12.199.922/0001-59;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 185,00;Estimado;15101 -  - PMDB -  - Deputado Estadual / 3116 - VALDECI DOS SANTOS - RJ - Deputado Federal;
+ELEIÇÃO 2010 DOMINGOS INÁCIO BRAZÃO DEP. ESTADUAL;12.199.922/0001-59;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;15101 -  - PMDB -  - Deputado Estadual / 3116 - VALDECI DOS SANTOS - RJ - Deputado Federal;
+ELEIÇÃO 2010 DOMINGOS INÁCIO BRAZÃO DEP. ESTADUAL;12.199.922/0001-59;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 180,00;Estimado;15101 -  - PMDB -  - Deputado Estadual / 3116 - VALDECI DOS SANTOS - RJ - Deputado Federal;
+ELEIÇÃO 2010 DOMINGOS INÁCIO BRAZÃO DEP. ESTADUAL;12.199.922/0001-59;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 800,00;Estimado;15101 -  - PMDB -  - Deputado Estadual / 3116 - VALDECI DOS SANTOS - RJ - Deputado Federal;

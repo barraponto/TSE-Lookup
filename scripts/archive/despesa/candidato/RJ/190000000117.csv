@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;26/07/2010;11000006861;R$ 150,00;Estimado;SERGIO RODRIGUES BANDEIRA;11115;Deputado Estadual;PP;RJ;
-ELEIÇÃO 2010 JORGE SAYED PICCIANI;12.176.626/0001-32;03/09/2010;11000006866;R$ 1.333,33;Estimado;SERGIO RODRIGUES BANDEIRA;11115;Deputado Estadual;PP;RJ;
-ELEIÇÃO 2010 JORGE SAYED PICCIANI;12.176.626/0001-32;03/09/2010;11000006864;R$ 15,75;Estimado;SERGIO RODRIGUES BANDEIRA;11115;Deputado Estadual;PP;RJ;
-ELEIÇÃO 2010 JORGE SAYED PICCIANI;12.176.626/0001-32;03/09/2010;11000006865;R$ 201,67;Estimado;SERGIO RODRIGUES BANDEIRA;11115;Deputado Estadual;PP;RJ;
-ELEIÇÃO 2010 JORGE SAYED PICCIANI;12.176.626/0001-32;03/09/2010;11000006863;R$ 13,86;Estimado;SERGIO RODRIGUES BANDEIRA;11115;Deputado Estadual;PP;RJ;
-ELEIÇÃO 2010 JORGE SAYED PICCIANI;12.176.626/0001-32;03/09/2010;11000006862;R$ 17,00;Estimado;SERGIO RODRIGUES BANDEIRA;11115;Deputado Estadual;PP;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;26/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 11115 - SERGIO RODRIGUES BANDEIRA - RJ - Deputado Estadual;
+ELEIÇÃO 2010 JORGE SAYED PICCIANI;12.176.626/0001-32;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 11115 - SERGIO RODRIGUES BANDEIRA - RJ - Deputado Estadual;
+ELEIÇÃO 2010 JORGE SAYED PICCIANI;12.176.626/0001-32;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 201,67;Estimado;155 -  - PMDB -  - Senador / 11115 - SERGIO RODRIGUES BANDEIRA - RJ - Deputado Estadual;
+ELEIÇÃO 2010 JORGE SAYED PICCIANI;12.176.626/0001-32;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.333,33;Estimado;155 -  - PMDB -  - Senador / 11115 - SERGIO RODRIGUES BANDEIRA - RJ - Deputado Estadual;
+ELEIÇÃO 2010 JORGE SAYED PICCIANI;12.176.626/0001-32;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 13,86;Estimado;155 -  - PMDB -  - Senador / 11115 - SERGIO RODRIGUES BANDEIRA - RJ - Deputado Estadual;
+ELEIÇÃO 2010 JORGE SAYED PICCIANI;12.176.626/0001-32;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 15,75;Estimado;155 -  - PMDB -  - Senador / 11115 - SERGIO RODRIGUES BANDEIRA - RJ - Deputado Estadual;

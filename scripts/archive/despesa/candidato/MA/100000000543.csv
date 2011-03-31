@@ -1,5 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOILCE PORTELA TEIXEIRA;854.050.433-20;05/09/2010;31000047504;R$ 1.500,00;Estimado;SAMOEL CAMPELO;3111;Deputado Federal;PHS;MA;
-SAMOEL CAMPELO;811.510.803-06;27/08/2010;31000047503;R$ 520,00;Depósito em espécie;SAMOEL CAMPELO;3111;Deputado Federal;PHS;MA;
-SAMOEL CAMPELO;811.510.803-06;04/08/2010;31000047501;R$ 4.500,00;Depósito em espécie;SAMOEL CAMPELO;3111;Deputado Federal;PHS;MA;
-SAMOEL CAMPELO;811.510.803-06;16/08/2010;31000047502;R$ 1.410,00;Depósito em espécie;SAMOEL CAMPELO;3111;Deputado Federal;PHS;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JOILCE PORTELA TEIXEIRA;854.050.433-20;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado; -  -  / 3111 - SAMOEL CAMPELO - MA - Deputado Federal;
+NS GRAFICA EDITORA NORTE SUL LTDA;41.470.063/0001-99;04/08/2010;       Publicidade por materiais impressos;R$ 4.000,00;Cheque; -  -  / 3111 - SAMOEL CAMPELO - MA - Deputado Federal;
+POSTO AMERICANO LTDA COM. VAREJ. DE COMB. P/ VEIC. AUTOMOTORES;23.706.245/0001-34;21/10/2010;       Combustíveis e lubrificantes;R$ 78,00;Cheque; -  -  / 3111 - SAMOEL CAMPELO - MA - Deputado Federal;
+POSTO AMERICANO LTDA COM. VAREJ. DE COMB. P/ VEIC. AUTOMOTORES;23.706.245/0001-34;27/08/2010;       Combustíveis e lubrificantes;R$ 500,00;Cheque; -  -  / 3111 - SAMOEL CAMPELO - MA - Deputado Federal;
+3A COMUNICAÇÃO VISUAL ROSALIA SILVA LISBOA;03.831.842/0001-83;05/08/2010;       Publicidade por materiais impressos;R$ 390,00;Cheque; -  -  / 3111 - SAMOEL CAMPELO - MA - Deputado Federal;
+3A COMUNICAÇÃO VISUAL ROSALIA SILVA LISBOA;03.831.842/0001-83;13/08/2010;       Publicidade por materiais impressos;R$ 1.462,00;Cheque; -  -  / 3111 - SAMOEL CAMPELO - MA - Deputado Federal;

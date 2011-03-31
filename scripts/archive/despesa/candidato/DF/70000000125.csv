@@ -1,3 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSE EDIVALDO RODRIGUES BALZANI;461.365.331-20;08/11/2010;12001522562;R$ 940,00;Depósito em espécie;JOSE EDIVALDO RODRIGUES BALZANI;12100;Deputado Distrital;PDT;DF;
-JOSE EDIVALDO RODRIGUES BALZANI;461.365.331-20;09/08/2010;12001522561;R$ 3.000,00;Depósito em espécie;JOSE EDIVALDO RODRIGUES BALZANI;12100;Deputado Distrital;PDT;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+INPRESS BRASILIA COMUNICAÇÃO VISUAL LTDA - ME;09.432.796/0001-26;12/08/2010;       Publicidade por materiais impressos;R$ 1.300,00;Cheque; -  -  / 12100 - JOSE EDIVALDO RODRIGUES BALZANI - DF - Deputado Distrital;
+PONTO EDITORA GRAFICA LTDA - ME;26.457.614/0001-90;22/07/2010;       Publicidade por materiais impressos;R$ 150,00;Cheque; -  -  / 12100 - JOSE EDIVALDO RODRIGUES BALZANI - DF - Deputado Distrital;
+ÚRSULA GRÁFICA E EDITORA LTDA-ME;00.858.687/0001-09;10/08/2010;       Publicidade por materiais impressos;R$ 2.080,00;Transferência eletrônica; -  -  / 12100 - JOSE EDIVALDO RODRIGUES BALZANI - DF - Deputado Distrital;
+ÚRSULA GRÁFICA E EDITORA LTDA-ME;00.858.687/0001-09;16/07/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 12100 - JOSE EDIVALDO RODRIGUES BALZANI - DF - Deputado Distrital;
+;;01/09/2010;       Encargos financeiros e taxas bancárias;R$ 1,45;Débito em conta; -  -  / 12100 - JOSE EDIVALDO RODRIGUES BALZANI - DF - Deputado Distrital;
+;;11/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 12100 - JOSE EDIVALDO RODRIGUES BALZANI - DF - Deputado Distrital;
+;;14/09/2010;       Encargos financeiros e taxas bancárias;R$ 1,45;Débito em conta; -  -  / 12100 - JOSE EDIVALDO RODRIGUES BALZANI - DF - Deputado Distrital;
+;;20/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 12100 - JOSE EDIVALDO RODRIGUES BALZANI - DF - Deputado Distrital;

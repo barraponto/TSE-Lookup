@@ -1,2 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-SEVERINO CARDOSO SOBRINHO;214.717.204-97;15/09/2010;15000176351;R$ 200,00;Depósito em espécie;SEVERINO CARDOSO SOBRINHO;15433;Deputado Estadual;PMDB;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO AURORA;01.207.642/0001-29;15/09/2010;       Combustíveis e lubrificantes;R$ 20,00;Cheque; -  -  / 15433 - SEVERINO CARDOSO SOBRINHO - PE - Deputado Estadual;
+CARREFOUR COMERCIO E INDUSTRIA LTDA;45.543.915/0282-72;15/09/2010;       Combustíveis e lubrificantes;R$ 27,00;Cheque; -  -  / 15433 - SEVERINO CARDOSO SOBRINHO - PE - Deputado Estadual;
+MERCANTIL LEAL LTDA;10.970.135/0001-33;15/09/2010;       Combustíveis e lubrificantes;R$ 50,00;Cheque; -  -  / 15433 - SEVERINO CARDOSO SOBRINHO - PE - Deputado Estadual;
+MERCANTIL LEAL LTDA;10.970.135/0001-33;15/09/2010;       Combustíveis e lubrificantes;R$ 100,00;Cheque; -  -  / 15433 - SEVERINO CARDOSO SOBRINHO - PE - Deputado Estadual;
+PAULO JOSE DA SILVA;317.158.774-20;15/09/2010;       Combustíveis e lubrificantes;R$ 3,00;Cheque; -  -  / 15433 - SEVERINO CARDOSO SOBRINHO - PE - Deputado Estadual;

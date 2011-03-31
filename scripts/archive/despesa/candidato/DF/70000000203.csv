@@ -1,3 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ROBERTO KENNEDY FERREIRA DA SILVA DE QUEIROZ;249.057.471-04;28/09/2010;17000029202;R$ 1.000,00;Depósito em espécie;ROBERTO KENNEDY FERREIRA DA SILVA DE QUEIROZ;17333;Deputado Distrital;PSL;DF;
-ROBERTO KENNEDY FERREIRA DA SILVA DE QUEIROZ;249.057.471-04;29/07/2010;17000029201;R$ 1,00;Depósito em espécie;ROBERTO KENNEDY FERREIRA DA SILVA DE QUEIROZ;17333;Deputado Distrital;PSL;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO RIBEIRO LTDA;04.814.024/0001-35;29/09/2010;       Combustíveis e lubrificantes;R$ 1.000,00;Cheque; -  -  / 17333 - ROBERTO KENNEDY FERREIRA DA SILVA DE QUEIROZ - DF - Deputado Distrital;

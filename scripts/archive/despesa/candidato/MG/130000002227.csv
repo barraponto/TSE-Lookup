@@ -1,6 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.372.871/0001-15;31/08/2010;12001707601;R$ 1.320,00;Estimado;ELISANGELA ALVES RIBEIRO;12000;Deputado Estadual;PDT;MG;
-Comitê Financeiro Único;12.372.871/0001-15;29/07/2010;12001707602;R$ 1.197,84;Estimado;ELISANGELA ALVES RIBEIRO;12000;Deputado Estadual;PDT;MG;
-Comitê Financeiro Único;12.372.871/0001-15;21/09/2010;12001707603;R$ 500,00;Cheque;ELISANGELA ALVES RIBEIRO;12000;Deputado Estadual;PDT;MG;
-HAROLDO DARTAGNAN DE CARVALHO;12.235.242/0001-43;02/09/2010;12001707605;R$ 296,00;Estimado;ELISANGELA ALVES RIBEIRO;12000;Deputado Estadual;PDT;MG;
-HAROLDO DARTAGNAN DE CARVALHO;12.235.242/0001-43;02/09/2010;12001707608;R$ 643,24;Estimado;ELISANGELA ALVES RIBEIRO;12000;Deputado Estadual;PDT;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.372.871/0001-15;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.320,00;Estimado;Comitê Financeiro Único - PDT -  / 12000 - ELISANGELA ALVES RIBEIRO - MG - Deputado Estadual;
+Comitê Financeiro Único;12.372.871/0001-15;29/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.197,84;Estimado;Comitê Financeiro Único - PDT -  / 12000 - ELISANGELA ALVES RIBEIRO - MG - Deputado Estadual;
+HAROLDO DARTAGNAN DE CARVALHO;12.235.242/0001-43;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 296,00;Estimado;1280 -  - PDT -  - Deputado Federal / 12000 - ELISANGELA ALVES RIBEIRO - MG - Deputado Estadual;
+HAROLDO DARTAGNAN DE CARVALHO;12.235.242/0001-43;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 643,24;Estimado;1280 -  - PDT -  - Deputado Federal / 12000 - ELISANGELA ALVES RIBEIRO - MG - Deputado Estadual;
+LUZIA MEDEIROS ALVES;035.027.296-46;28/09/2010;       Reembolsos de gastos realizados por eleitores;R$ 57,00;Cheque; -  -  / 12000 - ELISANGELA ALVES RIBEIRO - MG - Deputado Estadual;
+MÁRCIO ANTÔNIO DE JESUS;940.228.876-72;24/09/2010;       Despesas com pessoal;R$ 140,29;Cheque; -  -  / 12000 - ELISANGELA ALVES RIBEIRO - MG - Deputado Estadual;
+NUBIA QUINTINO VERTEIRO;066.636.116-90;22/09/2010;       Serviços prestados por terceiros;R$ 120,00;Cheque; -  -  / 12000 - ELISANGELA ALVES RIBEIRO - MG - Deputado Estadual;
+SORAIA DE CASTRO MONTOVANI;541.960.196-68;27/09/2010;       Serviços prestados por terceiros;R$ 120,00;Cheque; -  -  / 12000 - ELISANGELA ALVES RIBEIRO - MG - Deputado Estadual;
+VIVIANE ALVES DE OLIVEIRA;922.773.816-91;30/08/2010;       Despesas com pessoal;R$ 62,71;Cheque; -  -  / 12000 - ELISANGELA ALVES RIBEIRO - MG - Deputado Estadual;

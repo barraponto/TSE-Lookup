@@ -1,3 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JORGE ALVES PINTO;007.108.577-72;08/11/2010;20000674162;R$ 1.000,00;Depósito em espécie;JORGE ALVES PINTO;20080;Deputado Estadual;PSC;RJ;
-JORGE ALVES PINTO;007.108.577-72;18/08/2010;20000674161;R$ 4.000,00;Depósito em espécie;JORGE ALVES PINTO;20080;Deputado Estadual;PSC;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BIANCA ORNELAS;083.569.317-11;10/09/2010;       Despesas com pessoal;R$ 910,00;Cheque; -  -  / 20080 - JORGE ALVES PINTO - RJ - Deputado Estadual;
+BIANCA ORNELAS;083.569.317-11;30/09/2010;       Despesas com pessoal;R$ 1.000,00;Cheque; -  -  / 20080 - JORGE ALVES PINTO - RJ - Deputado Estadual;
+COOP DOS MOTORISTAS DE TAXI DE ICARAI;02.074.593/0001-66;11/09/2010;       Despesas com transporte ou deslocamento;R$ 159,00;Cheque; -  -  / 20080 - JORGE ALVES PINTO - RJ - Deputado Estadual;
+COOP DOS MOTORISTAS DE TAXI DE ICARAI;02.074.593/0001-66;17/08/2010;       Despesas com transporte ou deslocamento;R$ 359,00;Cheque; -  -  / 20080 - JORGE ALVES PINTO - RJ - Deputado Estadual;
+ECT EMP. BRAS DE CORREIOS E TELEGRAFOS;34.028.316/0065-78;30/08/2010;       Despesas postais;R$ 113,70;Cheque; -  -  / 20080 - JORGE ALVES PINTO - RJ - Deputado Estadual;
+G3 NIT GRAFICA E EDITORA LTDA ME;73.285.892/0001-98;19/08/2010;       Publicidade por materiais impressos;R$ 1.380,00;Cheque; -  -  / 20080 - JORGE ALVES PINTO - RJ - Deputado Estadual;
+;;16/11/2010;       Encargos financeiros e taxas bancárias;R$ 2,50;Débito em conta; -  -  / 20080 - JORGE ALVES PINTO - RJ - Deputado Estadual;

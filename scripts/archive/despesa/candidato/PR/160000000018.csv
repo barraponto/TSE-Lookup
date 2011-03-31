@@ -1,6 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Governador;12.190.887/0001-07;14/09/2010;40002060515;R$ 1.250,00;Estimado;JOAO CARLOS DA COSTA;4067;Deputado Federal;PSB;PR;
-Comitê Financeiro Estadual/Distrital para Governador;12.190.887/0001-07;10/09/2010;40002060518;R$ 1.106,60;Estimado;JOAO CARLOS DA COSTA;4067;Deputado Federal;PSB;PR;
-Comitê Financeiro Estadual/Distrital para Governador;12.190.887/0001-07;10/08/2010;40002060514;R$ 1.575,00;Estimado;JOAO CARLOS DA COSTA;4067;Deputado Federal;PSB;PR;
-Comitê Financeiro Estadual/Distrital para Senador da República;12.190.665/0001-94;01/10/2010;40002060519;R$ 562,50;Estimado;JOAO CARLOS DA COSTA;4067;Deputado Federal;PSB;PR;
-MÚLTIPLA COM. DE ADESIVOS LONAS E IMAGENS LTDA.;07.047.417/0001-59;30/07/2010;40002060513;R$ 360,00;Estimado;JOAO CARLOS DA COSTA;4067;Deputado Federal;PSB;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Governador;12.190.887/0001-07;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.250,00;Estimado;Comitê Financeiro Distrital/Estadual para Governador - PSDB -  / 4067 - JOAO CARLOS DA COSTA - PR - Deputado Federal;
+Comitê Financeiro Estadual/Distrital para Governador;12.190.887/0001-07;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.575,00;Estimado;Comitê Financeiro Distrital/Estadual para Governador - PSB -  / 4067 - JOAO CARLOS DA COSTA - PR - Deputado Federal;
+Comitê Financeiro Estadual/Distrital para Governador;12.190.887/0001-07;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.106,60;Estimado;Comitê Financeiro Distrital/Estadual para Governador - PSDB -  / 4067 - JOAO CARLOS DA COSTA - PR - Deputado Federal;
+Comitê Financeiro Estadual/Distrital para Senador da República;12.190.665/0001-94;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 562,50;Estimado;Comitê Financeiro Distrital/Estadual para Senador da República - PPS -  / 4067 - JOAO CARLOS DA COSTA - PR - Deputado Federal;
+ESTACIONAMENTO RIVOLI LTDA.;76.608.157/0003-28;25/09/2010;       Despesas com transporte ou deslocamento;R$ 110,00;Cheque; -  -  / 4067 - JOAO CARLOS DA COSTA - PR - Deputado Federal;
+GRÁFICA BROCKWELD LTDA - SINAIGRAF;09.423.982/0001-07;17/09/2010;       Publicidade por materiais impressos;R$ 388,00;Cheque; -  -  / 4067 - JOAO CARLOS DA COSTA - PR - Deputado Federal;
+GRÁFICA BROCKWELD LTDA - SINAIGRAF;09.423.982/0001-07;29/09/2010;       Publicidade por materiais impressos;R$ 333,00;Cheque; -  -  / 4067 - JOAO CARLOS DA COSTA - PR - Deputado Federal;
+GUILHERME STUMM;028.485.559-63;27/09/2010;       Criação e inclusão de páginas na internet;R$ 750,00;Cheque; -  -  / 4067 - JOAO CARLOS DA COSTA - PR - Deputado Federal;
+MÚLTIPLA COM. DE ADESIVOS LONAS E IMAGENS LTDA.;07.047.417/0001-59;30/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado; -  -  / 4067 - JOAO CARLOS DA COSTA - PR - Deputado Federal;
+TICCOLOR VIDEOFOTO SOM LTDA.;77.986.321/0001-31;30/09/2010;       Publicidade por placas, estandartes e faixas;R$ 99,00;Cheque; -  -  / 4067 - JOAO CARLOS DA COSTA - PR - Deputado Federal;

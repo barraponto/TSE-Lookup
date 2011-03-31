@@ -1,6 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSE RENATO CASAGRANDE;12.179.825/0001-02;01/10/2010;22220097004;R$ 811,68;Estimado;PEDRO ANTONIO MUNIZ;22333;Deputado Estadual;PR;ES;
-JOSE RENATO CASAGRANDE;12.179.825/0001-02;01/10/2010;22220097005;R$ 324,67;Estimado;PEDRO ANTONIO MUNIZ;22333;Deputado Estadual;PR;ES;
-PEDRO ANTÔNIO MUNIZ;574.455.087-91;16/09/2010;22220097002;R$ 500,00;Depósito em espécie;PEDRO ANTONIO MUNIZ;22333;Deputado Estadual;PR;ES;
-PEDRO ANTÔNIO MUNIZ;574.455.087-91;14/07/2010;22220097001;R$ 1.500,00;Depósito em espécie;PEDRO ANTONIO MUNIZ;22333;Deputado Estadual;PR;ES;
-PEDRO ANTÔNIO MUNIZ;574.455.087-91;21/09/2010;22220097003;R$ 430,00;Depósito em espécie;PEDRO ANTONIO MUNIZ;22333;Deputado Estadual;PR;ES;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CRIAR INDUSTRIA E COMERCIO LTDA-ME;04.139.667/0001-20;29/07/2010;       Publicidade por materiais impressos;R$ 420,00;Cheque; -  -  / 22333 - PEDRO ANTONIO MUNIZ - ES - Deputado Estadual;
+CRIAR INDUSTRIA E COMERCIO LTDA-ME;04.139.667/0001-20;16/09/2010;       Publicidade por placas, estandartes e faixas;R$ 528,00;Cheque; -  -  / 22333 - PEDRO ANTONIO MUNIZ - ES - Deputado Estadual;
+CRIAR INDUSTRIA E COMERCIO LTDA-ME;04.139.667/0001-20;27/08/2010;       Publicidade por placas, estandartes e faixas;R$ 360,00;Cheque; -  -  / 22333 - PEDRO ANTONIO MUNIZ - ES - Deputado Estadual;
+GRAFICA E EDITORA QUATRO IRMÃOS LTDA-ME;36.356.251/0002-31;02/08/2010;       Publicidade por materiais impressos;R$ 540,00;Cheque; -  -  / 22333 - PEDRO ANTONIO MUNIZ - ES - Deputado Estadual;
+GRAFICA E EDITORA QUATRO IRMÃOS LTDA-ME;36.356.251/0002-31;25/09/2010;       Publicidade por materiais impressos;R$ 580,00;Cheque; -  -  / 22333 - PEDRO ANTONIO MUNIZ - ES - Deputado Estadual;
+JOSE RENATO CASAGRANDE;12.179.825/0001-02;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 324,67;Estimado;40 -  - PSB -  - Governador / 22333 - PEDRO ANTONIO MUNIZ - ES - Deputado Estadual;
+JOSE RENATO CASAGRANDE;12.179.825/0001-02;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 811,68;Estimado;40 -  - PSB -  - Governador / 22333 - PEDRO ANTONIO MUNIZ - ES - Deputado Estadual;

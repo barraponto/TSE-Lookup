@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANDRE LUIZ MESQUITA GUIMARAES;951.597.546-87;10/09/2010;36000010402;R$ 500,00;Estimado;EDUARDO TEODORO ROCHA AZEVEDO;3611;Deputado Federal;PTC;MG;
-Diretório Estadual/Distrital;12.154.851/0001-78;05/09/2010;36000010404;R$ 1.180,00;Estimado;EDUARDO TEODORO ROCHA AZEVEDO;3611;Deputado Federal;PTC;MG;
-Diretório Estadual/Distrital;12.154.851/0001-78;30/09/2010;36000010403;R$ 300,00;Estimado;EDUARDO TEODORO ROCHA AZEVEDO;3611;Deputado Federal;PTC;MG;
-EDUARDO TEODORO ROCHA AZEVEDO;061.711.676-81;25/08/2010;36000010401;R$ 400,00;Depósito em espécie;EDUARDO TEODORO ROCHA AZEVEDO;3611;Deputado Federal;PTC;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANDRE LUIZ MESQUITA GUIMARAES;951.597.546-87;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 3611 - EDUARDO TEODORO ROCHA AZEVEDO - MG - Deputado Federal;
+Diretório Estadual/Distrital;12.154.851/0001-78;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.180,00;Estimado;Direção Estadual/Distrital - PTC -  / 3611 - EDUARDO TEODORO ROCHA AZEVEDO - MG - Deputado Federal;
+Diretório Estadual/Distrital;12.154.851/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Direção Estadual/Distrital - PTC -  / 3611 - EDUARDO TEODORO ROCHA AZEVEDO - MG - Deputado Federal;
+EDITORA E GRAFICA CORTES;00.973.901/0001-60;25/08/2010;       Publicidade por materiais impressos;R$ 349,00;Cheque; -  -  / 3611 - EDUARDO TEODORO ROCHA AZEVEDO - MG - Deputado Federal;
+;;30/09/2010;       Encargos financeiros e taxas bancárias;R$ 35,70;Débito em conta; -  -  / 3611 - EDUARDO TEODORO ROCHA AZEVEDO - MG - Deputado Federal;

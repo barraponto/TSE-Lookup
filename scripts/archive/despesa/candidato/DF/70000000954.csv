@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-BENEDITO AUGUSTO DOMINGOS;12.203.737/0001-90;10/08/2010;11000094441;R$ 360,00;Estimado;JOSE MARIA FERREIRA DA SILVA;11333;Deputado Distrital;PP;DF;
-BENEDITO AUGUSTO DOMINGOS;12.203.737/0001-90;16/08/2010;11000094442;R$ 360,00;Estimado;JOSE MARIA FERREIRA DA SILVA;11333;Deputado Distrital;PP;DF;
-Diretório Nacional;00.887.169/0001-05;22/09/2010;11000094446;R$ 2.000,00;Transferência eletrônica;JOSE MARIA FERREIRA DA SILVA;11333;Deputado Distrital;PP;DF;
-Diretório Nacional;00.887.169/0001-05;22/09/2010;11000094447;R$ 2.000,00;Transferência eletrônica;JOSE MARIA FERREIRA DA SILVA;11333;Deputado Distrital;PP;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BENEDITO AUGUSTO DOMINGOS;12.203.737/0001-90;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;11234 -  - PP -  - Deputado Distrital / 11333 - JOSE MARIA FERREIRA DA SILVA - DF - Deputado Distrital;
+BENEDITO AUGUSTO DOMINGOS;12.203.737/0001-90;16/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;11234 -  - PP -  - Deputado Distrital / 11333 - JOSE MARIA FERREIRA DA SILVA - DF - Deputado Distrital;
+ELIANE PEREIRA SOARES DORNELAS;026.388.061-37;30/08/2010;       Despesas com pessoal;R$ 2.000,00;Transferência eletrônica; -  -  / 11333 - JOSE MARIA FERREIRA DA SILVA - DF - Deputado Distrital;
+ELIANE PEREIRA SOARES DORNELAS;026.388.061-37;23/09/2010;       Despesas com pessoal;R$ 2.000,00;Transferência eletrônica; -  -  / 11333 - JOSE MARIA FERREIRA DA SILVA - DF - Deputado Distrital;

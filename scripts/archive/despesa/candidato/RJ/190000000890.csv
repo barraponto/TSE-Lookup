@@ -1,2 +1,13 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-RONILDO TEIXEIRA MARCELO;970.119.916-20;20/07/2010;12000000001;R$ 900,00;Depósito em espécie;ADEIR THEOFILO APOLINARIO;12381;Deputado Estadual;PDT;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADEIR THEOFILO APOLINARIO;547.241.047-91;10/09/2010;       Despesas com transporte ou deslocamento;R$ 127,50;Não informado; -  -  / 12381 - ADEIR THEOFILO APOLINARIO - RJ - Deputado Estadual;
+CARVALHAIS POSTO DE GASOLINA;30.296.883/0001-90;17/09/2010;       Combustíveis e lubrificantes;R$ 17,00;Não informado; -  -  / 12381 - ADEIR THEOFILO APOLINARIO - RJ - Deputado Estadual;
+CRISTIELE DA SILVA;110.576.977-10;01/10/2010;       Despesas com pessoal;R$ 250,00;Não informado; -  -  / 12381 - ADEIR THEOFILO APOLINARIO - RJ - Deputado Estadual;
+LUCIANA GERÔNIMO DA SILVA;095.830.737-76;01/10/2010;       Despesas com pessoal;R$ 250,00;Não informado; -  -  / 12381 - ADEIR THEOFILO APOLINARIO - RJ - Deputado Estadual;
+POSTO DE GASOLINA CITROL;06.153.179/0001-01;19/09/2010;       Combustíveis e lubrificantes;R$ 40,00;Não informado; -  -  / 12381 - ADEIR THEOFILO APOLINARIO - RJ - Deputado Estadual;
+POSTO DE GASOLINA TRES HERDEIROS;29.491.453/0001-40;22/08/2010;       Combustíveis e lubrificantes;R$ 20,00;Não informado; -  -  / 12381 - ADEIR THEOFILO APOLINARIO - RJ - Deputado Estadual;
+POSTO DE GASOLINA TRES HERDEIROS;29.491.453/0001-40;15/08/2010;       Combustíveis e lubrificantes;R$ 20,00;Não informado; -  -  / 12381 - ADEIR THEOFILO APOLINARIO - RJ - Deputado Estadual;
+POSTO DE GASOLINA TRES HERDEIROS;29.491.453/0001-40;01/10/2010;       Combustíveis e lubrificantes;R$ 100,00;Não informado; -  -  / 12381 - ADEIR THEOFILO APOLINARIO - RJ - Deputado Estadual;
+POSTO DE GASOLINA TRES HERDEIROS;29.491.453/0001-40;26/09/2010;       Combustíveis e lubrificantes;R$ 20,00;Não informado; -  -  / 12381 - ADEIR THEOFILO APOLINARIO - RJ - Deputado Estadual;
+POSTO DE GASOLINA TRES HERDEIROS;29.491.453/0001-40;31/08/2010;       Combustíveis e lubrificantes;R$ 20,00;Não informado; -  -  / 12381 - ADEIR THEOFILO APOLINARIO - RJ - Deputado Estadual;
+POSTO DE GASOLINA TRES HERDEIROS;29.491.453/0001-40;22/09/2010;       Combustíveis e lubrificantes;R$ 10,00;Não informado; -  -  / 12381 - ADEIR THEOFILO APOLINARIO - RJ - Deputado Estadual;
+VÂNIA MARTA TEIXEIRA;103.882.677-20;01/10/2010;       Despesas com pessoal;R$ 25,50;Não informado; -  -  / 12381 - ADEIR THEOFILO APOLINARIO - RJ - Deputado Estadual;

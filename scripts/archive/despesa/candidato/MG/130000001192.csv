@@ -1,8 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-EMANUEL JOAQUIM DA COSTA SILVA;793.580.556-34;18/09/2010;36000004557;R$ 40,00;Estimado;JOSÉ SÁVIO DA COSTA SILVA;36262;Deputado Estadual;PTC;MG;
-JOSE SAVIO DA COSTA SILVA;407.012.396-20;30/08/2010;36000004552;R$ 150,00;Estimado;JOSÉ SÁVIO DA COSTA SILVA;36262;Deputado Estadual;PTC;MG;
-JOSE SAVIO DA COSTA SILVA;407.012.396-20;02/09/2010;36000004553;R$ 760,00;Depósito em espécie;JOSÉ SÁVIO DA COSTA SILVA;36262;Deputado Estadual;PTC;MG;
-JOSE SAVIO DA COSTA SILVA;407.012.396-20;04/10/2010;36000004555;R$ 600,00;Cheque;JOSÉ SÁVIO DA COSTA SILVA;36262;Deputado Estadual;PTC;MG;
-JOSE SAVIO DA COSTA SILVA;407.012.396-20;27/08/2010;36000004551;R$ 1.200,00;Depósito em espécie;JOSÉ SÁVIO DA COSTA SILVA;36262;Deputado Estadual;PTC;MG;
-JOSE SAVIO DA COSTA SILVA;407.012.396-20;22/09/2010;36000004554;R$ 90,00;Cheque;JOSÉ SÁVIO DA COSTA SILVA;36262;Deputado Estadual;PTC;MG;
-JULIANA TEMER OLIVEIRA DA COSTA SILVA;030.180.146-00;18/09/2010;36000004556;R$ 40,00;Estimado;JOSÉ SÁVIO DA COSTA SILVA;36262;Deputado Estadual;PTC;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BRUNO SOARES VON RANDOW;01.237.462/0001-90;01/10/2010;       Publicidade por materiais impressos;R$ 90,00;Cheque; -  -  / 36262 - JOSÉ SÁVIO DA COSTA SILVA - MG - Deputado Estadual;
+EMANUEL JOAQUIM DA COSTA SILVA;793.580.556-34;18/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 40,00;Estimado; -  -  / 36262 - JOSÉ SÁVIO DA COSTA SILVA - MG - Deputado Estadual;
+GRAFICA ALGEMINAS LTDA;00.395.630/0001-02;26/08/2010;       Publicidade por materiais impressos;R$ 100,00;Cheque; -  -  / 36262 - JOSÉ SÁVIO DA COSTA SILVA - MG - Deputado Estadual;
+JOSE SAVIO DA COSTA SILVA;407.012.396-20;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado; -  -  / 36262 - JOSÉ SÁVIO DA COSTA SILVA - MG - Deputado Estadual;
+JULIANA TEMER OLIVEIRA DA COSTA SILVA;030.180.146-00;18/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 40,00;Estimado; -  -  / 36262 - JOSÉ SÁVIO DA COSTA SILVA - MG - Deputado Estadual;
+PAPELFORM EDITORA LTDA;05.539.072/0001-25;26/08/2010;       Publicidade por materiais impressos;R$ 1.100,00;Cheque; -  -  / 36262 - JOSÉ SÁVIO DA COSTA SILVA - MG - Deputado Estadual;
+PAPELFORM EDITORA LTDA;05.539.072/0001-25;31/08/2010;       Publicidade por materiais impressos;R$ 760,00;Cheque; -  -  / 36262 - JOSÉ SÁVIO DA COSTA SILVA - MG - Deputado Estadual;
+SEBASTIAO RODRIGUES DE SOUZA;290.641.986-91;04/09/2010;       Serviços prestados por terceiros;R$ 600,00;Cheque; -  -  / 36262 - JOSÉ SÁVIO DA COSTA SILVA - MG - Deputado Estadual;

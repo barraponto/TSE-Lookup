@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-GEDSON BASÍLIO TAVARES;994.919.074-68;01/10/2010;23000038008;R$ 900,00;Estimado;CRISTIANE SOARES DE LIMA;23002;Deputado Estadual;PPS;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GEDSON BASÍLIO TAVARES;994.919.074-68;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 900,00;Estimado; -  -  / 23002 - CRISTIANE SOARES DE LIMA - AL - Deputado Estadual;

@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-BLAIRO BORGES MAGGI;12.198.837/0001-76;31/08/2010;22000050301;R$ 2.940,00;Estimado;EDIVAL DE PINHO COSTA;2277;Deputado Federal;PR;MT;
-Comitê Financeiro Único;12.217.585/0001-85;10/09/2010;22000050302;R$ 2.000,00;Estimado;EDIVAL DE PINHO COSTA;2277;Deputado Federal;PR;MT;
-SILVAL DA CUNHA BARBOSA;12.199.108/0001-34;22/09/2010;22000050303;R$ 1.250,00;Estimado;EDIVAL DE PINHO COSTA;2277;Deputado Federal;PR;MT;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BLAIRO BORGES MAGGI;12.198.837/0001-76;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.940,00;Estimado;222 -  - PR -  - Senador / 2277 - EDIVAL DE PINHO COSTA - MT - Deputado Federal;
+Comitê Financeiro Único;12.217.585/0001-85;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado;Comitê Financeiro Único - PR -  / 2277 - EDIVAL DE PINHO COSTA - MT - Deputado Federal;
+SILVAL DA CUNHA BARBOSA;12.199.108/0001-34;22/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.250,00;Estimado;15 -  - PMDB -  - Governador / 2277 - EDIVAL DE PINHO COSTA - MT - Deputado Federal;

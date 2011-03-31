@@ -1,7 +1,4 @@
-Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
-AUTO POSTO MUNHOZ DA ROCHA LTDA;07.806.969/0001-01;30/09/2010;       Combustíveis e lubrificantes;R$ 7.151,40;Cheque; -  -  / Comitê Financeiro Único - PPS - PR;
-AUTO POSTO MUNHOZ DA ROCHA LTDA;07.806.969/0001-01;28/09/2010;       Combustíveis e lubrificantes;R$ 8.522,65;Cheque; -  -  / Comitê Financeiro Único - PPS - PR;
-AUTO POSTO MUNHOZ DA ROCHA LTDA;07.806.969/0001-01;01/10/2010;       Combustíveis e lubrificantes;R$ 44.325,95;Cheque; -  -  / Comitê Financeiro Único - PPS - PR;
-Comitê Financeiro Único - PPS;12.217.546/0001-88;27/08/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 50.000,00;Cheque;23121 - CESAR AUGUSTO CAROLLO SILVESTRI FILHO - PPS - PR - Deputado Estadual / Comitê Financeiro Único - PPS - PR;
-Comitê Financeiro Único - PPS;12.217.546/0001-88;27/08/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 50.000,00;Cheque;2313 - CEZAR AUGUSTI CAROLLO SILVESTRI - PPS - PR - Deputado Federal / Comitê Financeiro Único - PPS - PR;
-Comitê Financeiro Único - PPS;12.217.546/0001-88;02/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 60.000,00;Depósito em espécie;2300 - RUBENS BUENO - PPS - PR - Deputado Federal / Comitê Financeiro Único - PPS - PR;
+Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
+BANCO ALVORADA S.A.;33.870.163/0001-84;25/08/2010;23000199001;R$ 100.000,00;Transferência eletrônica;Comitê Financeiro Único;PPS;PR;
+BANCO ALVORADA S.A.;33.870.163/0001-84;31/08/2010;23000199002;R$ 60.000,00;Transferência eletrônica;Comitê Financeiro Único;PPS;PR;
+BANCO ALVORADA S.A.;33.870.163/0001-84;24/09/2010;23000199003;R$ 60.000,00;Transferência eletrônica;Comitê Financeiro Único;PPS;PR;

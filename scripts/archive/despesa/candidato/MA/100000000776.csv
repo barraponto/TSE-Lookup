@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-PEDRO FERNANDES;12.169.916/0001-59;25/08/2010;14000129101;R$ 300,00;Estimado;MARIA VITÓRIA DA SILVA;14234;Deputado Estadual;PTB;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+PEDRO FERNANDES;12.169.916/0001-59;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;1414 -  - PTB -  - Deputado Federal / 14234 - MARIA VITÓRIA DA SILVA - MA - Deputado Estadual;

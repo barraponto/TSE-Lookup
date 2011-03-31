@@ -1,5 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADRIANO BATISTA DE OLIVEIRA ME;05.682.261/0001-52;01/10/2010;14000002209;R$ 200,00;Estimado;SEBASTIÃO ARY CORREA;14190;Deputado Estadual;PTB;ES;
-ARIANA DE MATOS CORREA;093.285.897-03;01/10/2010;14000002207;R$ 400,00;Depósito em espécie;SEBASTIÃO ARY CORREA;14190;Deputado Estadual;PTB;ES;
-SEBASTIÃO ARY CORREA;538.307.337-04;01/10/2010;14000002208;R$ 250,00;Depósito em espécie;SEBASTIÃO ARY CORREA;14190;Deputado Estadual;PTB;ES;
-SEBASTIÃO ARY CORREA;538.307.337-04;01/09/2010;14000002206;R$ 510,00;Depósito em espécie;SEBASTIÃO ARY CORREA;14190;Deputado Estadual;PTB;ES;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADRIANO BATISTA DE OLIVEIRA ME;05.682.261/0001-52;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado; -  -  / 14190 - SEBASTIÃO ARY CORREA - ES - Deputado Estadual;
+DIGRAPEL DISTRIBUIDORA DE PAPEL E GRÁFICA LTDA. EPP;27.740.877/0001-75;24/09/2010;       Publicidade por materiais impressos;R$ 450,00;Cheque; -  -  / 14190 - SEBASTIÃO ARY CORREA - ES - Deputado Estadual;
+GRACAL - GRÁFICA E EDITORA LTDA. EPP;27.126.101/0001-60;11/08/2010;       Materiais de expediente;R$ 60,00;Cheque; -  -  / 14190 - SEBASTIÃO ARY CORREA - ES - Deputado Estadual;
+GRACAL - GRÁFICA E EDITORA LTDA. EPP;27.126.101/0001-60;22/09/2010;       Publicidade por materiais impressos;R$ 60,00;Cheque; -  -  / 14190 - SEBASTIÃO ARY CORREA - ES - Deputado Estadual;
+POSTO NOGUEIRA LTDA;27.124.023/0001-64;18/10/2010;       Combustíveis e lubrificantes;R$ 322,00;Cheque; -  -  / 14190 - SEBASTIÃO ARY CORREA - ES - Deputado Estadual;
+R PARTELLI ME;04.968.312/0001-44;20/09/2010;       Publicidade por placas, estandartes e faixas;R$ 250,00;Cheque; -  -  / 14190 - SEBASTIÃO ARY CORREA - ES - Deputado Estadual;
+;;01/10/2010;       Encargos financeiros e taxas bancárias;R$ 17,85;Débito em conta; -  -  / 14190 - SEBASTIÃO ARY CORREA - ES - Deputado Estadual;

@@ -1,9 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;02/09/2010;36000051751;R$ 825,00;Estimado;ADILIO DE OLIVEIRA GONCALVES;3608;Deputado Federal;PTC;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;28/09/2010;36000051757;R$ 300,00;Estimado;ADILIO DE OLIVEIRA GONCALVES;3608;Deputado Federal;PTC;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;28/09/2010;36000051756;R$ 300,00;Estimado;ADILIO DE OLIVEIRA GONCALVES;3608;Deputado Federal;PTC;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;28/09/2010;36000051758;R$ 300,00;Estimado;ADILIO DE OLIVEIRA GONCALVES;3608;Deputado Federal;PTC;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;02/09/2010;36000051752;R$ 130,00;Estimado;ADILIO DE OLIVEIRA GONCALVES;3608;Deputado Federal;PTC;RJ;
-JOSÉ RICARDO MATOZO ALMEIDA;300.296.197-34;13/09/2010;36000051754;R$ 50.000,00;Depósito em espécie;ADILIO DE OLIVEIRA GONCALVES;3608;Deputado Federal;PTC;RJ;
-MARCELO PESSANHA DE SOUZA;796.623.587-49;13/09/2010;36000051755;R$ 300.000,00;Depósito em espécie;ADILIO DE OLIVEIRA GONCALVES;3608;Deputado Federal;PTC;RJ;
-NETMED INSTRUMENTOS CIENTÍFICOS;04.206.016/0001-06;11/08/2010;36000051753;R$ 14.000,00;Transferência eletrônica;ADILIO DE OLIVEIRA GONCALVES;3608;Deputado Federal;PTC;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 3608 - ADILIO DE OLIVEIRA GONCALVES - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 3608 - ADILIO DE OLIVEIRA GONCALVES - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 825,00;Estimado;Comitê Financeiro Único - PMDB -  / 3608 - ADILIO DE OLIVEIRA GONCALVES - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 130,00;Estimado;Comitê Financeiro Único - PMDB -  / 3608 - ADILIO DE OLIVEIRA GONCALVES - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 3608 - ADILIO DE OLIVEIRA GONCALVES - RJ - Deputado Federal;

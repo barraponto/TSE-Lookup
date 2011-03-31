@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-HELENA MAGALHÃES PORTO LIRA;586.486.744-68;24/09/2010;23000204352;R$ 300,00;Transferência eletrônica;UILTON GEORGE MAGALHAES CAVALCANTI;23133;Deputado Estadual;PPS;PE;
-MARLOS MAGALHÃES PORTO;042.698.074-31;02/09/2010;23000204351;R$ 200,00;Transferência eletrônica;UILTON GEORGE MAGALHAES CAVALCANTI;23133;Deputado Estadual;PPS;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+MS GRÁFICA E BRINDES LTDA;11.719.760/0001-70;24/09/2010;       Publicidade por materiais impressos;R$ 100,00;Cheque; -  -  / 23133 - UILTON GEORGE MAGALHAES CAVALCANTI - PE - Deputado Estadual;
+POSTO SERRANO LTDA;09.566.613/0001-65;27/09/2010;       Combustíveis e lubrificantes;R$ 200,00;Cheque; -  -  / 23133 - UILTON GEORGE MAGALHAES CAVALCANTI - PE - Deputado Estadual;
+POSTO SERRANO LTDA;09.566.613/0001-65;06/09/2010;       Combustíveis e lubrificantes;R$ 200,00;Cheque; -  -  / 23133 - UILTON GEORGE MAGALHAES CAVALCANTI - PE - Deputado Estadual;

@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ITALO HENRIQUE A. CRUZ;050.944.564-07;09/08/2010;70000180081;R$ 500,00;Cheque;YOLANDA ALEXANDRINO DA SILVA;70222;Deputado Estadual;PT do B;PE;
-MARCILIO ALEXANDRINO DO NASCIMENTO;24.548.778/0001-06;18/08/2010;70000180082;R$ 300,00;Estimado;YOLANDA ALEXANDRINO DA SILVA;70222;Deputado Estadual;PT do B;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALFA PUBLICIDADE;24.558.778/0001-06;10/08/2010;       Publicidade por placas, estandartes e faixas;R$ 300,00;Cheque; -  -  / 70222 - YOLANDA ALEXANDRINO DA SILVA - PE - Deputado Estadual;
+ALFA PUBLICIDADE;24.558.778/0001-06;16/09/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 70222 - YOLANDA ALEXANDRINO DA SILVA - PE - Deputado Estadual;
+MARCILIO ALEXANDRINO DO NASCIMENTO;24.548.778/0001-06;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 70222 - YOLANDA ALEXANDRINO DA SILVA - PE - Deputado Estadual;

@@ -1,3 +1,14 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JANALDO PINHEIRO CAVALCANTE;652.445.672-68;27/09/2010;25000577612;R$ 22,80;Depósito em espécie;JANALDO PINHEIRO CAVALCANTE;25678;Deputado Estadual;DEM;AC;
-JANALDO PINHEIRO CAVALCANTE;652.445.672-68;27/09/2010;25000577611;R$ 15.000,00;Transferência eletrônica;JANALDO PINHEIRO CAVALCANTE;25678;Deputado Estadual;DEM;AC;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO JOSE DA SILVA;308.594.172-04;27/09/2010;       Cessão ou Locação de Veículos;R$ 1.800,00;Cheque; -  -  / 25678 - JANALDO PINHEIRO CAVALCANTE - AC - Deputado Estadual;
+AUTO POSTO FRONTEIRA;00.761.340/0001-35;08/10/2010;       Combustíveis e lubrificantes;R$ 500,00;Cheque; -  -  / 25678 - JANALDO PINHEIRO CAVALCANTE - AC - Deputado Estadual;
+FRANCIMAR SOTERO DA SILVA;123.153.202-59;28/09/2010;       Despesas com pessoal;R$ 1.500,00;Cheque; -  -  / 25678 - JANALDO PINHEIRO CAVALCANTE - AC - Deputado Estadual;
+FRANCIMAR SOTERO DA SILVA;123.153.202-59;27/09/2010;       Cessão ou Locação de Veículos;R$ 1.500,00;Cheque; -  -  / 25678 - JANALDO PINHEIRO CAVALCANTE - AC - Deputado Estadual;
+G.F SILVEIRA LTDA;84.313.923/0001-93;28/09/2010;       Publicidade por materiais impressos;R$ 7.474,20;Cheque; -  -  / 25678 - JANALDO PINHEIRO CAVALCANTE - AC - Deputado Estadual;
+KLEISON BERG GONÇALVES DA SILVA;000.000.152-40;28/09/2010;       Despesas com pessoal;R$ 224,05;Cheque; -  -  / 25678 - JANALDO PINHEIRO CAVALCANTE - AC - Deputado Estadual;
+MAQ SOLLO COMÉRCIO E REPRESENTAÇÕES IMPORTAÇÃO E EXP. LTDA;00.302.347/0001-99;30/09/2010;       Publicidade por materiais impressos;R$ 1.200,00;Cheque; -  -  / 25678 - JANALDO PINHEIRO CAVALCANTE - AC - Deputado Estadual;
+MAQ SOLLO COMÉRCIO E REPRESENTAÇÕES IMPORTAÇÃO E EXP. LTDA;00.302.347/0001-99;01/10/2010;       Publicidade por materiais impressos;R$ 800,00;Cheque; -  -  / 25678 - JANALDO PINHEIRO CAVALCANTE - AC - Deputado Estadual;
+;;27/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 25678 - JANALDO PINHEIRO CAVALCANTE - AC - Deputado Estadual;
+;;27/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,70;Débito em conta; -  -  / 25678 - JANALDO PINHEIRO CAVALCANTE - AC - Deputado Estadual;
+;;29/10/2010;       Encargos financeiros e taxas bancárias;R$ 11,40;Débito em conta; -  -  / 25678 - JANALDO PINHEIRO CAVALCANTE - AC - Deputado Estadual;
+;;27/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,70;Débito em conta; -  -  / 25678 - JANALDO PINHEIRO CAVALCANTE - AC - Deputado Estadual;
+;;29/10/2010;       Encargos financeiros e taxas bancárias;R$ 11,40;Débito em conta; -  -  / 25678 - JANALDO PINHEIRO CAVALCANTE - AC - Deputado Estadual;

@@ -1,4 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.221.863/0001-78;16/08/2010;43001905287;R$ 2.000,00;Transferência eletrônica;VALQUIRIA DE CARVALHO AZEVEDO;43999;Deputado Estadual;PV;MT;
-Comitê Financeiro Único;12.221.863/0001-78;24/09/2010;43001905289;R$ 2.500,00;Transferência eletrônica;VALQUIRIA DE CARVALHO AZEVEDO;43999;Deputado Estadual;PV;MT;
-Comitê Financeiro Único;12.221.863/0001-78;24/08/2010;43001905288;R$ 3.000,00;Transferência eletrônica;VALQUIRIA DE CARVALHO AZEVEDO;43999;Deputado Estadual;PV;MT;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JOSE CAMERINDO AZEVEDO;120.339.286-91;02/08/2010;       Despesas com pessoal;R$ 1.000,00;Cheque; -  -  / 43999 - VALQUIRIA DE CARVALHO AZEVEDO - MT - Deputado Estadual;
+LUZINETE FERREIRA FAGUNDES;013.645.861-00;31/08/2010;       Despesas com pessoal;R$ 1.202,00;Cheque; -  -  / 43999 - VALQUIRIA DE CARVALHO AZEVEDO - MT - Deputado Estadual;
+LUZINETE FERREIRA FAGUNDES;013.645.861-00;02/08/2010;       Despesas com pessoal;R$ 1.000,00;Cheque; -  -  / 43999 - VALQUIRIA DE CARVALHO AZEVEDO - MT - Deputado Estadual;
+MARIANGELA BIANCARDINI ARAUJO;912.029.301-15;19/08/2010;       Despesas com pessoal;R$ 1.000,00;Cheque; -  -  / 43999 - VALQUIRIA DE CARVALHO AZEVEDO - MT - Deputado Estadual;
+MARIANGELA BIANCARDINI ARAUJO;912.029.301-15;27/09/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / 43999 - VALQUIRIA DE CARVALHO AZEVEDO - MT - Deputado Estadual;
+METROPOLITANO COMERCIO DE COMBUSTIVEIS E DERIVADOS LTDA;07.094.917/0001-41;19/08/2010;       Combustíveis e lubrificantes;R$ 998,00;Cheque; -  -  / 43999 - VALQUIRIA DE CARVALHO AZEVEDO - MT - Deputado Estadual;
+MILENIUM COMUNICAÇÃO VISUAL LTDA;02.313.430/0001-99;20/08/2010;       Publicidade por materiais impressos;R$ 800,00;Cheque; -  -  / 43999 - VALQUIRIA DE CARVALHO AZEVEDO - MT - Deputado Estadual;
+RODRIGO ALEXANDRE ARAUJO;569.855.921-04;05/09/2010;       Criação e inclusão de páginas na internet;R$ 1.000,00;Cheque; -  -  / 43999 - VALQUIRIA DE CARVALHO AZEVEDO - MT - Deputado Estadual;

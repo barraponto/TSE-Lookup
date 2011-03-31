@@ -1,6 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.242/0001-09;23/08/2010;65000185334;R$ 600,00;Estimado;SANNY FERREIRA FERNANDES;65465;Deputado Estadual;PC do B;GO;
-ELEICAO 2010 FABIO TOKARSKI DEPUTADO FEDERAL;12.171.879/0001-13;28/07/2010;65000185331;R$ 345,00;Estimado;SANNY FERREIRA FERNANDES;65465;Deputado Estadual;PC do B;GO;
-ELEIÇÃO 2010 IRIS REZENDE MACHADO GOVERNADOR;12.167.313/0001-18;02/10/2010;65000185337;R$ 1.612,90;Estimado;SANNY FERREIRA FERNANDES;65465;Deputado Estadual;PC do B;GO;
-ELEICAO 2010 SANNY FERREIRA FERNANDES DEPUTADO ESTADUAL;821.514.741-00;26/08/2010;65000185333;R$ 800,00;Depósito em espécie;SANNY FERREIRA FERNANDES;65465;Deputado Estadual;PC do B;GO;
-ELEICAO 2010 SANNY FERREIRA FERNANDES DEPUTADO ESTADUAL;821.514.741-00;30/09/2010;65000185336;R$ 1.760,00;Depósito em espécie;SANNY FERREIRA FERNANDES;65465;Deputado Estadual;PC do B;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.242/0001-09;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado;Comitê Financeiro Único - PC do B -  / 65465 - SANNY FERREIRA FERNANDES - GO - Deputado Estadual;
+ELEICAO 2010 FABIO TOKARSKI DEPUTADO FEDERAL;12.171.879/0001-13;28/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 345,00;Estimado;6565 -  - PC do B -  - Deputado Federal / 65465 - SANNY FERREIRA FERNANDES - GO - Deputado Estadual;
+ELEIÇÃO 2010 IRIS REZENDE MACHADO GOVERNADOR;12.167.313/0001-18;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.612,90;Estimado;15 -  - PMDB -  - Governador / 65465 - SANNY FERREIRA FERNANDES - GO - Deputado Estadual;
+GRÁFICA EDITORA DO COMÉRCIO LTDA;37.325.776/0001-91;30/08/2010;       Publicidade por materiais impressos;R$ 130,00;Cheque; -  -  / 65465 - SANNY FERREIRA FERNANDES - GO - Deputado Estadual;
+HECTUS PUBLICIDADE LTDA - ME;05.457.147/0001-29;02/10/2010;       Publicidade por carros de som;R$ 780,00;Cheque; -  -  / 65465 - SANNY FERREIRA FERNANDES - GO - Deputado Estadual;
+JORNAL DIÁRIO DO NORTE LTDA - ME;03.982.492/0001-56;30/09/2010;       Publicidade por jornais e revistas;R$ 450,00;Cheque; -  -  / 65465 - SANNY FERREIRA FERNANDES - GO - Deputado Estadual;
+MECA PRESTADORA DE SERVIÇOS LTDA;04.701.169/0001-20;30/08/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 65465 - SANNY FERREIRA FERNANDES - GO - Deputado Estadual;
+MECA PRESTADORA DE SERVIÇOS LTDA;04.701.169/0001-20;30/09/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 65465 - SANNY FERREIRA FERNANDES - GO - Deputado Estadual;

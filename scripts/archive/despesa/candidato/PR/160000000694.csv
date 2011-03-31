@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-C ARLOS ALBERTO RICHA;12.190.887/0001-07;18/09/2010;27000046597;R$ 2.500,00;Estimado;ADEL LUIZ YOUSSEF;27789;Deputado Estadual;PSDC;PR;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;10/08/2010;27000046598;R$ 630,00;Estimado;ADEL LUIZ YOUSSEF;27789;Deputado Estadual;PSDC;PR;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;24/09/2010;27000046599;R$ 1.680,00;Depósito em espécie;ADEL LUIZ YOUSSEF;27789;Deputado Estadual;PSDC;PR;
-LUIZ ANTONIO GONÇALVES DA SILVA;142.081.999-20;03/08/2010;27000046591;R$ 1.260,00;Depósito em espécie;ADEL LUIZ YOUSSEF;27789;Deputado Estadual;PSDC;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AIG SERVIÇO DE AGENCIAMENTO DE PUBLICIDADE LTDA;02.691.994/0001-65;29/07/2010;       Publicidade por placas, estandartes e faixas;R$ 1.253,00;Cheque; -  -  / 27789 - ADEL LUIZ YOUSSEF - PR - Deputado Estadual;
+AIG SERVIÇO DE AGENCIAMENTO DE PUBLICIDADE LTDA;02.691.994/0001-65;28/09/2010;       Diversas a especificar;R$ 1.680,00;Cheque; -  -  / 27789 - ADEL LUIZ YOUSSEF - PR - Deputado Estadual;
+C ARLOS ALBERTO RICHA;12.190.887/0001-07;18/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.500,00;Estimado;45 -  - PSDB -  - Governador / 27789 - ADEL LUIZ YOUSSEF - PR - Deputado Estadual;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 630,00;Estimado;45 -  - PSDB -  - Governador / 27789 - ADEL LUIZ YOUSSEF - PR - Deputado Estadual;
+PANETTERIA BARBIERI LTDA;01.272.984/0001-22;04/10/2010;       Alimentação;R$ 7,00;Transferência eletrônica; -  -  / 27789 - ADEL LUIZ YOUSSEF - PR - Deputado Estadual;

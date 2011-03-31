@@ -1,8 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;11/08/2010;31000052012;R$ 630,00;Estimado;MOYSES BERNARDO DA SILVA;3151;Deputado Federal;PHS;PR;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;21/09/2010;31000052151;R$ 500,00;Estimado;MOYSES BERNARDO DA SILVA;3151;Deputado Federal;PHS;PR;
-GUSTAVO BONATO FRUET;12.179.221/0001-58;29/09/2010;31000052153;R$ 25,00;Estimado;MOYSES BERNARDO DA SILVA;3151;Deputado Federal;PHS;PR;
-MOYSES BERNARDO DA SILVA;164.145.199-87;08/09/2010;31000052156;R$ 1.600,00;Depósito em espécie;MOYSES BERNARDO DA SILVA;3151;Deputado Federal;PHS;PR;
-MOYSES BERNARDO DA SILVA;164.145.199-87;01/09/2010;31000052155;R$ 130,00;Depósito em espécie;MOYSES BERNARDO DA SILVA;3151;Deputado Federal;PHS;PR;
-RICARDO JOSE MAGALHAES BARROS;12.190.665/0001-94;26/09/2010;31000052154;R$ 900,00;Estimado;MOYSES BERNARDO DA SILVA;3151;Deputado Federal;PHS;PR;
-VILSO ROBERTO ALVES CARDOSO;767.919.399-15;17/08/2010;31000052177;R$ 1.380,00;Estimado;MOYSES BERNARDO DA SILVA;3151;Deputado Federal;PHS;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;45 -  - PSDB -  - Governador / 3151 - MOYSES BERNARDO DA SILVA - PR - Deputado Federal;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;11/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 630,00;Estimado;45 -  - PSDB -  - Governador / 3151 - MOYSES BERNARDO DA SILVA - PR - Deputado Federal;
+GRAFINORTE S/A;03.758.336/0001-06;09/09/2010;       Publicidade por materiais impressos;R$ 1.600,00;Cheque; -  -  / 3151 - MOYSES BERNARDO DA SILVA - PR - Deputado Federal;
+GUSTAVO BONATO FRUET;12.179.221/0001-58;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 25,00;Estimado;456 -  - PSDB -  - Senador / 3151 - MOYSES BERNARDO DA SILVA - PR - Deputado Federal;
+LEAOZINHO PRESENTES E ARMARINHOS LTDA;01.295.933/0001-16;29/09/2010;       Materiais de expediente;R$ 12,00;Cheque; -  -  / 3151 - MOYSES BERNARDO DA SILVA - PR - Deputado Federal;
+RICARDO JOSE MAGALHAES BARROS;12.190.665/0001-94;26/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 900,00;Estimado;111 -  - PP -  - Senador / 3151 - MOYSES BERNARDO DA SILVA - PR - Deputado Federal;
+SANA MARIA BUSINESS PAPER LTDA;76.627.025/0001-81;01/09/2010;       Materiais de expediente;R$ 118,00;Cheque; -  -  / 3151 - MOYSES BERNARDO DA SILVA - PR - Deputado Federal;
+VILSO ROBERTO ALVES CARDOSO;767.919.399-15;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.380,00;Estimado; -  -  / 3151 - MOYSES BERNARDO DA SILVA - PR - Deputado Federal;

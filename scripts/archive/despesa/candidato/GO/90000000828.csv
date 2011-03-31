@@ -1,4 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.175.815/0001-90;08/09/2010;15000091301;R$ 750,00;Estimado;THAYS PRISCILLA BECHEPECHE RIBEIRO;15415;Deputado Estadual;PMDB;GO;
-MAURO MARTINS BORBA;225.814.991-68;01/09/2010;15000091303;R$ 2.000,00;Estimado;THAYS PRISCILLA BECHEPECHE RIBEIRO;15415;Deputado Estadual;PMDB;GO;
-TERRA BRASIL PRODUÇÕES;05.200.544/0001-10;20/09/2010;15000091302;R$ 10.000,00;Cheque;THAYS PRISCILLA BECHEPECHE RIBEIRO;15415;Deputado Estadual;PMDB;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.175.815/0001-90;08/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 750,00;Estimado;Comitê Financeiro Único - PMDB -  / 15415 - THAYS PRISCILLA BECHEPECHE RIBEIRO - GO - Deputado Estadual;
+GRAFICA NOVA ALIANÇA LTDA;06.044.313/0001-28;15/10/2010;       Publicidade por materiais impressos;R$ 880,00;Cheque; -  -  / 15415 - THAYS PRISCILLA BECHEPECHE RIBEIRO - GO - Deputado Estadual;
+MARILENE OLIVEIRA SOARES DA ROCHA;413.862.211-04;14/09/2010;       Despesas com pessoal;R$ 281,52;Cheque; -  -  / 15415 - THAYS PRISCILLA BECHEPECHE RIBEIRO - GO - Deputado Estadual;
+MAURO MARTINS BORBA;225.814.991-68;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado; -  -  / 15415 - THAYS PRISCILLA BECHEPECHE RIBEIRO - GO - Deputado Estadual;
+POLIGRAFICA INDUSTRIA E COMERCIO LTDA;02.234.227/0001-27;29/09/2010;       Publicidade por materiais impressos;R$ 2.590,00;Cheque; -  -  / 15415 - THAYS PRISCILLA BECHEPECHE RIBEIRO - GO - Deputado Estadual;
+PRINTER MIDIA COMUNICAÇÃO VISUAL LTDA;04.939.217/0001-12;13/10/2010;       Serviços prestados por terceiros;R$ 2.550,00;Cheque; -  -  / 15415 - THAYS PRISCILLA BECHEPECHE RIBEIRO - GO - Deputado Estadual;
+TERRA FORTE MULT SERVICE LTDA-ME;11.070.103/0001-44;07/10/2010;       Publicidade por materiais impressos;R$ 3.200,00;Cheque; -  -  / 15415 - THAYS PRISCILLA BECHEPECHE RIBEIRO - GO - Deputado Estadual;
+VILANDIR NOQUEIRA DE QUEIROZ;035.694.892-72;02/09/2010;       Despesas com pessoal;R$ 469,20;Cheque; -  -  / 15415 - THAYS PRISCILLA BECHEPECHE RIBEIRO - GO - Deputado Estadual;

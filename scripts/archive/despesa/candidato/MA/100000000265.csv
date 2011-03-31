@@ -1,5 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.486/0001-71;01/08/2010;44000025502;R$ 561,00;Estimado;RICARDO SILVA;44222;Deputado Estadual;PRP;MA;
-RICARDO SILVA;255.728.303-72;16/09/2010;44000025504;R$ 400,00;Depósito em espécie;RICARDO SILVA;44222;Deputado Estadual;PRP;MA;
-RICARDO SILVA;255.728.303-72;05/08/2010;44000025501;R$ 200,00;Depósito em espécie;RICARDO SILVA;44222;Deputado Estadual;PRP;MA;
-RICARDO SILVA;255.728.303-72;16/09/2010;44000025503;R$ 350,00;Depósito em espécie;RICARDO SILVA;44222;Deputado Estadual;PRP;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.486/0001-71;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 561,00;Estimado;Comitê Financeiro Único - PRP -  / 44222 - RICARDO SILVA - MA - Deputado Estadual;
+RAIMUNDO NONATO SANCHES SILVA;197.506.093-87;05/08/2010;       Alimentação;R$ 200,00;Cheque; -  -  / 44222 - RICARDO SILVA - MA - Deputado Estadual;
+RAIMUNDO NONATO SANCHES SILVA;197.506.093-87;01/09/2010;       Publicidade por carros de som;R$ 750,00;Cheque; -  -  / 44222 - RICARDO SILVA - MA - Deputado Estadual;

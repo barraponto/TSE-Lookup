@@ -1,3 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÕES 2010 ALFREDO PEREIRA DO NASCIMENTO;12.169.771/0001-96;29/09/2010;17000026552;R$ 2.000,00;Cheque;CELMA DA SILVA DE MELO;17170;Deputado Estadual;PSL;AM;
-ELEIÇÕES 2010 ALFREDO PEREIRA DO NASCIMENTO;12.169.771/0001-96;10/08/2010;17000026551;R$ 2.000,00;Cheque;CELMA DA SILVA DE MELO;17170;Deputado Estadual;PSL;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DENISE LILIANNE DA SILVA COSTA;857.740.812-49;03/10/2010;       Serviços prestados por terceiros;R$ 500,00;Cheque; -  -  / 17170 - CELMA DA SILVA DE MELO - AM - Deputado Estadual;
+IANO FERREIRA DA SILVA;624.236.572-34;03/10/2010;       Serviços prestados por terceiros;R$ 500,00;Cheque; -  -  / 17170 - CELMA DA SILVA DE MELO - AM - Deputado Estadual;
+JORNADA DE MELO GUERREIRO;666.578.732-04;03/10/2010;       Serviços prestados por terceiros;R$ 497,10;Cheque; -  -  / 17170 - CELMA DA SILVA DE MELO - AM - Deputado Estadual;
+LILIANE DE SOUZA PINHEIRO;998.464.202-00;03/10/2010;       Serviços prestados por terceiros;R$ 500,00;Cheque; -  -  / 17170 - CELMA DA SILVA DE MELO - AM - Deputado Estadual;
+MARIA DO ROSARIO DE FREITAS SILVA;012.684.922-64;03/10/2010;       Serviços prestados por terceiros;R$ 997,10;Cheque; -  -  / 17170 - CELMA DA SILVA DE MELO - AM - Deputado Estadual;
+MARINALDO FREITAS DA FONSECA;006.344.612-06;03/10/2010;       Serviços prestados por terceiros;R$ 500,00;Cheque; -  -  / 17170 - CELMA DA SILVA DE MELO - AM - Deputado Estadual;
+MARIO CESAR MOURA GUERREIRO;214.183.062-15;03/10/2010;       Serviços prestados por terceiros;R$ 500,00;Cheque; -  -  / 17170 - CELMA DA SILVA DE MELO - AM - Deputado Estadual;
+;;13/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 17170 - CELMA DA SILVA DE MELO - AM - Deputado Estadual;
+;;01/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 17170 - CELMA DA SILVA DE MELO - AM - Deputado Estadual;

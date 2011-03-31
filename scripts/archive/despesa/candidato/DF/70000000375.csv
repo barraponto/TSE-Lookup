@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-RODRIGO SOBRAL ROLLEMBERG;12.173.922/0001-80;12/08/2010;40002158601;R$ 260,00;Estimado;ROZELIA DOS SANTOS SILVA MENDES;40408;Deputado Distrital;PSB;DF;
-RODRIGO SOBRAL ROLLEMBERG;12.173.922/0001-80;24/09/2010;40002158602;R$ 2.000,00;Cheque;ROZELIA DOS SANTOS SILVA MENDES;40408;Deputado Distrital;PSB;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+REDEHOST-INTERNET LTDA.;249.103.171-04;23/07/2010;       Criação e inclusão de páginas na internet;R$ 31,40;Não informado; -  -  / 40408 - ROZELIA DOS SANTOS SILVA MENDES - DF - Deputado Distrital;
+RODRIGO SOBRAL ROLLEMBERG;12.173.922/0001-80;12/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 260,00;Estimado;400 -  - PSB -  - Senador / 40408 - ROZELIA DOS SANTOS SILVA MENDES - DF - Deputado Distrital;
+SANDRO RODRIGUES CARNEIRO CONFECÇOES GRAFICAS - ME;11.990.752/0001-63;30/09/2010;       Publicidade por materiais impressos;R$ 2.000,00;Transferência eletrônica; -  -  / 40408 - ROZELIA DOS SANTOS SILVA MENDES - DF - Deputado Distrital;

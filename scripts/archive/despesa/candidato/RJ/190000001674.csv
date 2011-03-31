@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;29/09/2010;11000006560;R$ 150,00;Estimado;BARBARA PUPPIN DA SILVA;1127;Deputado Federal;PP;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;11000007069;R$ 150,00;Estimado;BARBARA PUPPIN DA SILVA;1127;Deputado Federal;PP;RJ;
-Comitê Financeiro Único;12.200.097/0001-65;02/10/2010;11000007070;R$ 11.666,00;Estimado;BARBARA PUPPIN DA SILVA;1127;Deputado Federal;PP;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;11000007068;R$ 150,00;Estimado;BARBARA PUPPIN DA SILVA;1127;Deputado Federal;PP;RJ;
-MARIA LUCIA MADEIRA LIMA;546.739.337-53;30/09/2010;11000007073;R$ 300,00;Estimado;BARBARA PUPPIN DA SILVA;1127;Deputado Federal;PP;RJ;
-NIT HOST SERVIÇOS DE INTERNET E COMUNICAÇÃO LTDA ME;08.579.382/0001-61;30/09/2010;11000006559;R$ 60,00;Estimado;BARBARA PUPPIN DA SILVA;1127;Deputado Federal;PP;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.097/0001-65;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 11.666,00;Estimado;Comitê Financeiro Único - PP -  / 1127 - BARBARA PUPPIN DA SILVA - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 1127 - BARBARA PUPPIN DA SILVA - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 1127 - BARBARA PUPPIN DA SILVA - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 1127 - BARBARA PUPPIN DA SILVA - RJ - Deputado Federal;
+MARIA LUCIA MADEIRA LIMA;546.739.337-53;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 1127 - BARBARA PUPPIN DA SILVA - RJ - Deputado Federal;
+NIT HOST SERVIÇOS DE INTERNET E COMUNICAÇÃO LTDA ME;08.579.382/0001-61;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 60,00;Estimado; -  -  / 1127 - BARBARA PUPPIN DA SILVA - RJ - Deputado Federal;

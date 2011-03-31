@@ -1,3 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;09.057.316/0001-94;06/09/2010;25000543826;R$ 4.000,00;Depósito em espécie;JOÃO FERREIRA DE SOUZA;25322;Deputado Estadual;DEM;PE;
-GB REPRESENTAÇÕES LTDA;35.509.322/0001-45;14/09/2010;25000543827;R$ 400,00;Cheque;JOÃO FERREIRA DE SOUZA;25322;Deputado Estadual;DEM;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ABÍLIO ABGE AZEVEDO CARVALHO;440.868.904-10;13/09/2010;       Cessão ou Locação de Veículos;R$ 900,00;Cheque; -  -  / 25322 - JOÃO FERREIRA DE SOUZA - PE - Deputado Estadual;
+CCS GRÁFICA E EDITORA COM. E REP. LTDA EPP;35.603.307/0001-61;15/09/2010;       Publicidade por materiais impressos;R$ 710,00;Cheque; -  -  / 25322 - JOÃO FERREIRA DE SOUZA - PE - Deputado Estadual;
+EDSON RODRIGUES DA SILVA JÚNIOR;013.513.094-80;13/09/2010;       Cessão ou Locação de Veículos;R$ 540,00;Cheque; -  -  / 25322 - JOÃO FERREIRA DE SOUZA - PE - Deputado Estadual;
+POSTO SÃO JANUÁRIO LTDA;08.757.155/0001-89;13/09/2010;       Combustíveis e lubrificantes;R$ 1.030,00;Cheque; -  -  / 25322 - JOÃO FERREIRA DE SOUZA - PE - Deputado Estadual;
+REDE POSTOS JAC´S - CAVALCANTE RABELO LTDA;08.041.444/0001-87;16/09/2010;       Combustíveis e lubrificantes;R$ 459,75;Cheque; -  -  / 25322 - JOÃO FERREIRA DE SOUZA - PE - Deputado Estadual;
+REDE POSTOS JAC´S - CAVALCANTE RABELO LTDA;08.041.444/0001-87;16/09/2010;       Combustíveis e lubrificantes;R$ 735,60;Cheque; -  -  / 25322 - JOÃO FERREIRA DE SOUZA - PE - Deputado Estadual;

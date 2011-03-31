@@ -1,6 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-BRAZ DA PAZ;056.671.517-15;26/08/2010;13000869903;R$ 2.100,00;Depósito em espécie;BRAZ PAULINO DA SILVA;13666;Deputado Estadual;PT;RJ;
-Comitê Financeiro Único;12.200.171/0001-43;30/09/2010;13000869902;R$ 750,00;Estimado;BRAZ PAULINO DA SILVA;13666;Deputado Estadual;PT;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;13000869907;R$ 450,00;Estimado;BRAZ PAULINO DA SILVA;13666;Deputado Estadual;PT;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;13000869906;R$ 150,00;Estimado;BRAZ PAULINO DA SILVA;13666;Deputado Estadual;PT;RJ;
-SANDRO SIQUEIRA DA SILVA;009.330.457-94;02/09/2010;13000869905;R$ 120,00;Depósito em espécie;BRAZ PAULINO DA SILVA;13666;Deputado Estadual;PT;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 450,00;Estimado;Comitê Financeiro Único - PMDB -  / 13666 - BRAZ PAULINO DA SILVA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 13666 - BRAZ PAULINO DA SILVA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.200.171/0001-43;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 750,00;Estimado;Comitê Financeiro Único - PT -  / 13666 - BRAZ PAULINO DA SILVA - RJ - Deputado Estadual;
+ETHIS GRAPHIC E EDITORA LTDA;10.417.882/0001-49;31/08/2010;       Publicidade por materiais impressos;R$ 4.100,00;Cheque; -  -  / 13666 - BRAZ PAULINO DA SILVA - RJ - Deputado Estadual;
+POSTO DE GASOLINA JAGUAR DO ANIL LTDA;07.752.635/0001-94;01/09/2010;       Combustíveis e lubrificantes;R$ 120,00;Cheque; -  -  / 13666 - BRAZ PAULINO DA SILVA - RJ - Deputado Estadual;
+;;02/08/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 13666 - BRAZ PAULINO DA SILVA - RJ - Deputado Estadual;
+;;28/09/2010;       Encargos financeiros e taxas bancárias;R$ 25,00;Débito em conta; -  -  / 13666 - BRAZ PAULINO DA SILVA - RJ - Deputado Estadual;
+;;23/08/2010;       Encargos financeiros e taxas bancárias;R$ 25,00;Débito em conta; -  -  / 13666 - BRAZ PAULINO DA SILVA - RJ - Deputado Estadual;
+;;24/09/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 13666 - BRAZ PAULINO DA SILVA - RJ - Deputado Estadual;

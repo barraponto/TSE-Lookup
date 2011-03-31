@@ -1,3 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-BRAZ MONTEIRO DE FARIA;603.497.191-87;21/09/2010;17000037377;R$ 300,00;Estimado;DELVACI ANTONIO DA SILVA;17621;Deputado Estadual;PSL;GO;
-ELEICAO 2010 DELVACI ANTONIO DA SILVA DEPUTADO ESTADUAL;219.861.261-53;21/09/2010;17000037376;R$ 330,00;Depósito em espécie;DELVACI ANTONIO DA SILVA;17621;Deputado Estadual;PSL;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BRAZ MONTEIRO DE FARIA;603.497.191-87;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 17621 - DELVACI ANTONIO DA SILVA - GO - Deputado Estadual;
+CACILIA MAGALHAES LTDA;03.691.588/0001-65;10/09/2010;       Publicidade por materiais impressos;R$ 140,00;Cheque; -  -  / 17621 - DELVACI ANTONIO DA SILVA - GO - Deputado Estadual;
+RCJ COMBUSTIVEIS E DER DE PETROLEO LTDA;37.372.802/0001-32;21/09/2010;       Combustíveis e lubrificantes;R$ 60,00;Cheque; -  -  / 17621 - DELVACI ANTONIO DA SILVA - GO - Deputado Estadual;
+RIO VERDÃO COM E IND DE MAT LTDA;00.441.095/0001-89;21/09/2010;       Publicidade por placas, estandartes e faixas;R$ 82,00;Cheque; -  -  / 17621 - DELVACI ANTONIO DA SILVA - GO - Deputado Estadual;
+SUAIDENE E GUADANHIM LTDA;08.630.010/0002-01;21/09/2010;       Combustíveis e lubrificantes;R$ 46,00;Cheque; -  -  / 17621 - DELVACI ANTONIO DA SILVA - GO - Deputado Estadual;

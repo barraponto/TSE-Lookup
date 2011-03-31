@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LOURDES SARMENTO;12.172.418/0001-65;15/08/2010;29000002241;R$ 1.000,00;Estimado;ANDRÉ SARMENTO DE SOUSA;29029;Deputado Estadual;PCO;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+LOURDES SARMENTO;12.172.418/0001-65;15/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;29 -  - PCO -  - Governador / 29029 - ANDRÉ SARMENTO DE SOUSA - PB - Deputado Estadual;

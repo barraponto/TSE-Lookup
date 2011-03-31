@@ -1,9 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;20.764.395/0001-06;05/08/2010;23000153152;R$ 2.000,00;Estimado;JOSÉ SOARES SOBRINHO;23678;Deputado Estadual;PPS;MG;
-Diretório Estadual/Distrital;20.764.395/0001-06;20/09/2010;23000153155;R$ 360,00;Estimado;JOSÉ SOARES SOBRINHO;23678;Deputado Estadual;PPS;MG;
-Diretório Estadual/Distrital;20.764.395/0001-06;10/08/2010;23000153154;R$ 508,00;Estimado;JOSÉ SOARES SOBRINHO;23678;Deputado Estadual;PPS;MG;
-Diretório Estadual/Distrital;20.764.395/0001-06;24/08/2010;23000153156;R$ 1.215,45;Estimado;JOSÉ SOARES SOBRINHO;23678;Deputado Estadual;PPS;MG;
-Diretório Estadual/Distrital;20.764.395/0001-06;04/08/2010;23000153153;R$ 356,00;Estimado;JOSÉ SOARES SOBRINHO;23678;Deputado Estadual;PPS;MG;
-GERALDINO ALEXANDRE FERREIRA;176.357.136-04;30/09/2010;23000153159;R$ 1.000,00;Estimado;JOSÉ SOARES SOBRINHO;23678;Deputado Estadual;PPS;MG;
-RENATO SOARES;935.429.416-20;30/09/2010;23000153157;R$ 1.000,00;Estimado;JOSÉ SOARES SOBRINHO;23678;Deputado Estadual;PPS;MG;
-RONALDO SOARES;811.502.376-00;30/09/2010;23000153158;R$ 1.000,00;Estimado;JOSÉ SOARES SOBRINHO;23678;Deputado Estadual;PPS;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;20.764.395/0001-06;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 508,00;Estimado;Direção Estadual/Distrital - PPS -  / 23678 - JOSÉ SOARES SOBRINHO - MG - Deputado Estadual;
+Diretório Estadual/Distrital;20.764.395/0001-06;04/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 356,00;Estimado;Direção Estadual/Distrital - PPS -  / 23678 - JOSÉ SOARES SOBRINHO - MG - Deputado Estadual;
+Diretório Estadual/Distrital;20.764.395/0001-06;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.215,45;Estimado;Direção Estadual/Distrital - PPS -  / 23678 - JOSÉ SOARES SOBRINHO - MG - Deputado Estadual;
+Diretório Estadual/Distrital;20.764.395/0001-06;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Direção Estadual/Distrital - PPS -  / 23678 - JOSÉ SOARES SOBRINHO - MG - Deputado Estadual;
+Diretório Estadual/Distrital;20.764.395/0001-06;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado;Direção Estadual/Distrital - PPS -  / 23678 - JOSÉ SOARES SOBRINHO - MG - Deputado Estadual;
+GERALDINO ALEXANDRE FERREIRA;176.357.136-04;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 23678 - JOSÉ SOARES SOBRINHO - MG - Deputado Estadual;
+RENATO SOARES;935.429.416-20;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 23678 - JOSÉ SOARES SOBRINHO - MG - Deputado Estadual;
+RONALDO SOARES;811.502.376-00;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 23678 - JOSÉ SOARES SOBRINHO - MG - Deputado Estadual;

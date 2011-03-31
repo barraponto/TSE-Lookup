@@ -1,4 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.249.210/0001-05;23/09/2010;23000080703;R$ 3.000,00;Cheque;ELAINE FURTADO;23021;Deputado Distrital;PPS;DF;
-DF DISTRIBUIDORA DE PAPEIS LTDA;03.988.378/0001-33;13/08/2010;23000080702;R$ 1.975,00;Estimado;ELAINE FURTADO;23021;Deputado Distrital;PPS;DF;
-DF DISTRIBUIDORA DE PAPEIS LTDA;03.988.378/0001-33;01/10/2010;23000080704;R$ 200,00;Estimado;ELAINE FURTADO;23021;Deputado Distrital;PPS;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DF DISTRIBUIDORA DE PAPEIS LTDA;03.988.378/0001-33;13/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.975,00;Estimado; -  -  / 23021 - ELAINE FURTADO - DF - Deputado Distrital;
+DF DISTRIBUIDORA DE PAPEIS LTDA;03.988.378/0001-33;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado; -  -  / 23021 - ELAINE FURTADO - DF - Deputado Distrital;
+EDNAN COSTA DE BARROS;001.405.881-24;25/09/2010;       Despesas com pessoal;R$ 150,00;Cheque; -  -  / 23021 - ELAINE FURTADO - DF - Deputado Distrital;
+ELAINE COSTA CAMPOS;372.203.651-87;30/09/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / 23021 - ELAINE FURTADO - DF - Deputado Distrital;
+IDUSUITE FLOR DA ROCHA;443.002.471-53;30/09/2010;       Despesas com pessoal;R$ 484,21;Transferência eletrônica; -  -  / 23021 - ELAINE FURTADO - DF - Deputado Distrital;
+INGRID COSTA RIBEIRO DA ROCHA;025.405.781-01;30/09/2010;       Despesas com pessoal;R$ 220,00;Cheque; -  -  / 23021 - ELAINE FURTADO - DF - Deputado Distrital;
+LEILA NASCIMENTO ARAGÃO;890.908.371-91;27/09/2010;       Despesas com pessoal;R$ 110,00;Cheque; -  -  / 23021 - ELAINE FURTADO - DF - Deputado Distrital;
+MARIA DO CARMO LINO SANTOS;701.692.681-87;30/09/2010;       Despesas com pessoal;R$ 300,00;Cheque; -  -  / 23021 - ELAINE FURTADO - DF - Deputado Distrital;
+MÔNICA ROCHA SANTOS GOMES;722.510.851-49;30/09/2010;       Despesas com pessoal;R$ 1.000,00;Cheque; -  -  / 23021 - ELAINE FURTADO - DF - Deputado Distrital;
+PAULO OCTÁVIO IMOBILIÁRIA E ADMINISTRADORA LTDA;00.642.397/0001-15;30/09/2010;       Locação/cessão de bens imóveis;R$ 235,79;Cheque; -  -  / 23021 - ELAINE FURTADO - DF - Deputado Distrital;

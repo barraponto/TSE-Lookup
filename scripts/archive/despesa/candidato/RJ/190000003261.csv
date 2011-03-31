@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FRANCISCO RODRIGUES DE ARAUJO;639.508.207-87;12/08/2010;17000065902;R$ 650,00;Depósito em espécie;EDSON DA SILVA MOTA;17321;Deputado Estadual;PSL;RJ;
-JAIRO COSME DA SILVA;452.222.157-68;23/09/2010;17000065908;R$ 200,00;Depósito em espécie;EDSON DA SILVA MOTA;17321;Deputado Estadual;PSL;RJ;
-LASST ARTES GRÁFICAS DE SÃO GONÇALO LTDA.;06.888.998/0001-99;02/08/2010;17000065910;R$ 800,00;Estimado;EDSON DA SILVA MOTA;17321;Deputado Estadual;PSL;RJ;
-SOLANGE ESPINDOLA DE ABREU;029.827.977-04;01/08/2010;17000065909;R$ 1.200,00;Estimado;EDSON DA SILVA MOTA;17321;Deputado Estadual;PSL;RJ;
-SOLANGE ESPINDOLA DE ABREU;029.827.977-04;05/08/2010;17000065905;R$ 1.300,00;Depósito em espécie;EDSON DA SILVA MOTA;17321;Deputado Estadual;PSL;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+KNOSEL SIGN DE ADESIVOS LTDA.;06.227.873/0001-18;02/08/2010;       Publicidade por placas, estandartes e faixas;R$ 1.250,00;Cheque; -  -  / 17321 - EDSON DA SILVA MOTA - RJ - Deputado Estadual;
+KNOSEL SIGN DE ADESIVOS LTDA.;06.227.873/0001-18;15/09/2010;       Publicidade por materiais impressos;R$ 250,00;Cheque; -  -  / 17321 - EDSON DA SILVA MOTA - RJ - Deputado Estadual;
+KNOSEL SIGN DE ADESIVOS LTDA.;06.227.873/0001-18;12/08/2010;       Publicidade por placas, estandartes e faixas;R$ 650,00;Cheque; -  -  / 17321 - EDSON DA SILVA MOTA - RJ - Deputado Estadual;
+LASST ARTES GRÁFICAS DE SÃO GONÇALO LTDA.;06.888.998/0001-99;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 800,00;Estimado; -  -  / 17321 - EDSON DA SILVA MOTA - RJ - Deputado Estadual;
+SOLANGE ESPINDOLA DE ABREU;029.827.977-04;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.200,00;Estimado; -  -  / 17321 - EDSON DA SILVA MOTA - RJ - Deputado Estadual;

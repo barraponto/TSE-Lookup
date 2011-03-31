@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;06/09/2010;33000018302;R$ 150,00;Estimado;WALTER FRANCESCO CORCIONE;3320;Deputado Federal;PMN;RJ;
-ELEIÇÃO 2010 ALESSANDRO ALVES CALAZANS;12.167.596/0001-06;30/09/2010;33000018304;R$ 260,00;Estimado;WALTER FRANCESCO CORCIONE;3320;Deputado Federal;PMN;RJ;
-ELEIÇÃO 2010 ALESSANDRO ALVES CALAZANS;12.167.596/0001-06;30/09/2010;33000018305;R$ 38,00;Estimado;WALTER FRANCESCO CORCIONE;3320;Deputado Federal;PMN;RJ;
-ELEIÇÃO 2010 JORGE S. PICCIANE;12.176.626/0001-32;21/09/2010;33000018303;R$ 17,00;Estimado;WALTER FRANCESCO CORCIONE;3320;Deputado Federal;PMN;RJ;
-FILIPE SAMPAIO TAVARES;134.851.717-43;01/09/2010;33000018301;R$ 300,00;Estimado;WALTER FRANCESCO CORCIONE;3320;Deputado Federal;PMN;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 3320 - WALTER FRANCESCO CORCIONE - RJ - Deputado Federal;
+ELEIÇÃO 2010 ALESSANDRO ALVES CALAZANS;12.167.596/0001-06;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 260,00;Estimado;33333 -  - PMN -  - Deputado Estadual / 3320 - WALTER FRANCESCO CORCIONE - RJ - Deputado Federal;
+ELEIÇÃO 2010 ALESSANDRO ALVES CALAZANS;12.167.596/0001-06;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 38,00;Estimado;33333 -  - PMN -  - Deputado Estadual / 3320 - WALTER FRANCESCO CORCIONE - RJ - Deputado Federal;
+ELEIÇÃO 2010 JORGE S. PICCIANE;12.176.626/0001-32;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 3320 - WALTER FRANCESCO CORCIONE - RJ - Deputado Federal;
+FILIPE SAMPAIO TAVARES;134.851.717-43;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 3320 - WALTER FRANCESCO CORCIONE - RJ - Deputado Federal;

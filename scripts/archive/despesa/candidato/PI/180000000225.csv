@@ -1,6 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.206.658/0001-33;24/07/2010;11000062063;R$ 311,10;Estimado;MÁRCIO ANTONIO ARMOND DE SOUZA;11000;Deputado Estadual;PP;PI;
-Comitê Financeiro Único;12.206.658/0001-33;09/09/2010;11000062064;R$ 1.030,84;Estimado;MÁRCIO ANTONIO ARMOND DE SOUZA;11000;Deputado Estadual;PP;PI;
-Comitê Financeiro Único;12.206.658/0001-33;01/10/2010;11000062065;R$ 840,00;Estimado;MÁRCIO ANTONIO ARMOND DE SOUZA;11000;Deputado Estadual;PP;PI;
-MÁRCIO ANTONIO ARMOND DE SOUZA;722.526.186-04;20/07/2010;11000062062;R$ 4.500,00;Estimado;MÁRCIO ANTONIO ARMOND DE SOUZA;11000;Deputado Estadual;PP;PI;
-MÁRCIO ANTONIO ARMOND DE SOUZA;722.526.186-04;20/07/2010;11000062061;R$ 1.000,00;Depósito em espécie;MÁRCIO ANTONIO ARMOND DE SOUZA;11000;Deputado Estadual;PP;PI;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.206.658/0001-33;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 840,00;Estimado;Comitê Financeiro Único - PP -  / 11000 - MÁRCIO ANTONIO ARMOND DE SOUZA - PI - Deputado Estadual;
+Comitê Financeiro Único;12.206.658/0001-33;24/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 311,10;Estimado;Comitê Financeiro Único - PP -  / 11000 - MÁRCIO ANTONIO ARMOND DE SOUZA - PI - Deputado Estadual;
+Comitê Financeiro Único;12.206.658/0001-33;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.030,84;Estimado;Comitê Financeiro Único - PP -  / 11000 - MÁRCIO ANTONIO ARMOND DE SOUZA - PI - Deputado Estadual;
+DIGIART LTDA - ME;07.021.078/0001-31;21/07/2010;       Publicidade por materiais impressos;R$ 250,00;Cheque; -  -  / 11000 - MÁRCIO ANTONIO ARMOND DE SOUZA - PI - Deputado Estadual;
+LUCIMAR REBELO SAMPAIO;06.590.459/0005-00;02/10/2010;       Combustíveis e lubrificantes;R$ 70,00;Cheque; -  -  / 11000 - MÁRCIO ANTONIO ARMOND DE SOUZA - PI - Deputado Estadual;
+LUCIMAR REBELO SAMPAIO;06.590.459/0005-00;02/08/2010;       Combustíveis e lubrificantes;R$ 200,00;Cheque; -  -  / 11000 - MÁRCIO ANTONIO ARMOND DE SOUZA - PI - Deputado Estadual;
+MÁRCIO ANTONIO ARMOND DE SOUZA;722.526.186-04;20/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.500,00;Estimado; -  -  / 11000 - MÁRCIO ANTONIO ARMOND DE SOUZA - PI - Deputado Estadual;
+MARIA LUCIA RODRIGUES DE MEDEIROS - MEE;06.992.799/0001-26;23/07/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 11000 - MÁRCIO ANTONIO ARMOND DE SOUZA - PI - Deputado Estadual;
+NOVA EXPANSÃO GRÁFICA E EDITORA;07.649.469/0001-03;22/07/2010;       Publicidade por materiais impressos;R$ 280,00;Cheque; -  -  / 11000 - MÁRCIO ANTONIO ARMOND DE SOUZA - PI - Deputado Estadual;

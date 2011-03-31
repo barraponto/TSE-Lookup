@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.310/0001-21;30/09/2010;17000039407;R$ 166,65;Estimado;PEDRO CASTRO BASTOS;17350;Deputado Estadual;PSL;MA;
-Comitê Financeiro Único;12.205.310/0001-21;30/09/2010;17000039409;R$ 641,00;Estimado;PEDRO CASTRO BASTOS;17350;Deputado Estadual;PSL;MA;
-FERNANDO PALACIO;12.171.410/0001-84;30/09/2010;17000039403;R$ 480,00;Estimado;PEDRO CASTRO BASTOS;17350;Deputado Estadual;PSL;MA;
-FERNANDO PALACIO;12.171.410/0001-84;30/09/2010;17000039404;R$ 450,00;Estimado;PEDRO CASTRO BASTOS;17350;Deputado Estadual;PSL;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.310/0001-21;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 641,00;Estimado;Comitê Financeiro Único - PSL -  / 17350 - PEDRO CASTRO BASTOS - MA - Deputado Estadual;
+Comitê Financeiro Único;12.205.310/0001-21;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 166,65;Estimado;Comitê Financeiro Único - PSL -  / 17350 - PEDRO CASTRO BASTOS - MA - Deputado Estadual;
+FERNANDO PALACIO;12.171.410/0001-84;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 480,00;Estimado;1745 -  - PSL -  - Deputado Federal / 17350 - PEDRO CASTRO BASTOS - MA - Deputado Estadual;
+FERNANDO PALACIO;12.171.410/0001-84;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 450,00;Estimado;1745 -  - PSL -  - Deputado Federal / 17350 - PEDRO CASTRO BASTOS - MA - Deputado Estadual;

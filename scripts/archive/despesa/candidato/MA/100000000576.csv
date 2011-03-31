@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.221.840/0001-63;30/09/2010;13000668021;R$ 2.542,36;Estimado;NILSON DE JESUS SOUSA;13555;Deputado Estadual;PT;MA;
-CONCEIÇÃO DE MARIA COSTA SOUSA;745.217.993-53;01/08/2010;13000668024;R$ 150,00;Estimado;NILSON DE JESUS SOUSA;13555;Deputado Estadual;PT;MA;
-GRAFICA E EDITORA LTDA (SUPER GRAF);23.671.803/0001-73;06/08/2010;13000668027;R$ 1.080,00;Estimado;NILSON DE JESUS SOUSA;13555;Deputado Estadual;PT;MA;
-R. J. N. MARTINS (GRAFICA E EDITORA MARTINS);41.613.985/0001-08;17/09/2010;13000668028;R$ 400,00;Estimado;NILSON DE JESUS SOUSA;13555;Deputado Estadual;PT;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.221.840/0001-63;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.542,36;Estimado;Comitê Financeiro Único - PT -  / 13555 - NILSON DE JESUS SOUSA - MA - Deputado Estadual;
+CONCEIÇÃO DE MARIA COSTA SOUSA;745.217.993-53;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado; -  -  / 13555 - NILSON DE JESUS SOUSA - MA - Deputado Estadual;
+GRAFICA E EDITORA LTDA (SUPER GRAF);23.671.803/0001-73;06/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.080,00;Estimado; -  -  / 13555 - NILSON DE JESUS SOUSA - MA - Deputado Estadual;
+R. J. N. MARTINS (GRAFICA E EDITORA MARTINS);41.613.985/0001-08;17/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado; -  -  / 13555 - NILSON DE JESUS SOUSA - MA - Deputado Estadual;

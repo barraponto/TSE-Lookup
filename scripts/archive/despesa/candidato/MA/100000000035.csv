@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÕES 2010 JACKSON LAGO;12.167.170/0001-44;15/09/2010;36000060701;R$ 2.698,80;Estimado;JOÃO EVILASIO SILVA;3608;Deputado Federal;PTC;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÕES 2010 JACKSON LAGO;12.167.170/0001-44;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.698,80;Estimado;12 -  - PDT -  - Governador / 3608 - JOÃO EVILASIO SILVA - MA - Deputado Federal;

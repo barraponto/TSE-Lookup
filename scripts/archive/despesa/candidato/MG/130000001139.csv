@@ -1,8 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANIZIO GONÇALVES DE SOUZA;486.215.446-87;10/09/2010;28000552206;R$ 550,00;Cheque;ANIZIO GONÇALVES DE SOUZA;28222;Deputado Estadual;PRTB;MG;
-ANIZIO GONÇALVES DE SOUZA;486.215.446-87;20/08/2010;28000552201;R$ 1.000,00;Cheque;ANIZIO GONÇALVES DE SOUZA;28222;Deputado Estadual;PRTB;MG;
-ANIZIO GONÇALVES DE SOUZA;486.215.446-87;31/08/2010;28000552203;R$ 345,00;Cheque;ANIZIO GONÇALVES DE SOUZA;28222;Deputado Estadual;PRTB;MG;
-Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;28000552209;R$ 300,00;Estimado;ANIZIO GONÇALVES DE SOUZA;28222;Deputado Estadual;PRTB;MG;
-Comitê Financeiro Único;12.154.851/0001-78;05/09/2010;28000552208;R$ 590,00;Estimado;ANIZIO GONÇALVES DE SOUZA;28222;Deputado Estadual;PRTB;MG;
-ELAINE MARIA CONCOLATO LABANCA;388.280.226-04;01/10/2010;28000552210;R$ 1.000,00;Cheque;ANIZIO GONÇALVES DE SOUZA;28222;Deputado Estadual;PRTB;MG;
-RITA DE CASSIA ANTUNES;335.203.726-49;31/08/2010;28000552202;R$ 1.500,00;Cheque;ANIZIO GONÇALVES DE SOUZA;28222;Deputado Estadual;PRTB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PT do B -  / 28222 - ANIZIO GONÇALVES DE SOUZA - MG - Deputado Estadual;
+Comitê Financeiro Único;12.154.851/0001-78;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 590,00;Estimado;Comitê Financeiro Único - PT do B -  / 28222 - ANIZIO GONÇALVES DE SOUZA - MG - Deputado Estadual;

@@ -1,8 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;20.764.395/0001-06;04/08/2010;23000331022;R$ 356,00;Estimado;GERALDO MAGELA STARLING DE OLIVEIRA;2345;Deputado Federal;PPS;MG;
-Diretório Estadual/Distrital;20.764.395/0001-06;20/09/2010;23000331024;R$ 360,00;Estimado;GERALDO MAGELA STARLING DE OLIVEIRA;2345;Deputado Federal;PPS;MG;
-Diretório Estadual/Distrital;20.764.395/0001-06;02/08/2010;23000331021;R$ 1.116,00;Estimado;GERALDO MAGELA STARLING DE OLIVEIRA;2345;Deputado Federal;PPS;MG;
-Diretório Estadual/Distrital;20.764.395/0001-06;24/08/2010;23000331027;R$ 1.215,45;Estimado;GERALDO MAGELA STARLING DE OLIVEIRA;2345;Deputado Federal;PPS;MG;
-Diretório Estadual/Distrital;20.764.395/0001-06;10/08/2010;23000331023;R$ 1.116,00;Estimado;GERALDO MAGELA STARLING DE OLIVEIRA;2345;Deputado Federal;PPS;MG;
-GERALDO MAGELA STARLING DE OLIVEIRA;674.222.846-68;27/09/2010;23000331026;R$ 299,46;Depósito em espécie;GERALDO MAGELA STARLING DE OLIVEIRA;2345;Deputado Federal;PPS;MG;
-GERALDO MAGELA STARLING DE OLIVEIRA;674.222.846-68;10/09/2010;23000331025;R$ 2.000,00;Depósito em espécie;GERALDO MAGELA STARLING DE OLIVEIRA;2345;Deputado Federal;PPS;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;20.764.395/0001-06;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.116,00;Estimado;Direção Estadual/Distrital - PPS -  / 2345 - GERALDO MAGELA STARLING DE OLIVEIRA - MG - Deputado Federal;
+Diretório Estadual/Distrital;20.764.395/0001-06;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Direção Estadual/Distrital - PPS -  / 2345 - GERALDO MAGELA STARLING DE OLIVEIRA - MG - Deputado Federal;
+Diretório Estadual/Distrital;20.764.395/0001-06;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.215,45;Estimado;Direção Estadual/Distrital - PPS -  / 2345 - GERALDO MAGELA STARLING DE OLIVEIRA - MG - Deputado Federal;
+Diretório Estadual/Distrital;20.764.395/0001-06;04/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 356,00;Estimado;Direção Estadual/Distrital - PPS -  / 2345 - GERALDO MAGELA STARLING DE OLIVEIRA - MG - Deputado Federal;
+Diretório Estadual/Distrital;20.764.395/0001-06;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.116,00;Estimado;Direção Estadual/Distrital - PPS -  / 2345 - GERALDO MAGELA STARLING DE OLIVEIRA - MG - Deputado Federal;
+ESTUDIO MATRACA ARTES DIGITAIS LTDA;10.503.227/0001-03;22/09/2010;       Publicidade por placas, estandartes e faixas;R$ 92,40;Cheque; -  -  / 2345 - GERALDO MAGELA STARLING DE OLIVEIRA - MG - Deputado Federal;
+ESTUDIO MATRACA ARTES DIGITAIS LTDA;10.503.227/0001-03;10/09/2010;       Publicidade por materiais impressos;R$ 565,40;Cheque; -  -  / 2345 - GERALDO MAGELA STARLING DE OLIVEIRA - MG - Deputado Federal;
+ESTUDIO MATRACA ARTES DIGITAIS LTDA;10.503.227/0001-03;23/09/2010;       Publicidade por materiais impressos;R$ 341,66;Cheque; -  -  / 2345 - GERALDO MAGELA STARLING DE OLIVEIRA - MG - Deputado Federal;
+RP SERVICOS GRAFICOS LTDA -ME;02.518.146/0001-59;10/09/2010;       Publicidade por materiais impressos;R$ 1.300,00;Cheque; -  -  / 2345 - GERALDO MAGELA STARLING DE OLIVEIRA - MG - Deputado Federal;

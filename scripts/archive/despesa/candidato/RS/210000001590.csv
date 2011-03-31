@@ -1,4 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DEROCI SOUZA LIPERTT;293.513.240-87;26/08/2010;10000079202;R$ 150,00;Depósito em espécie;DEROCI SOUZA LIPERT;10777;Deputado Estadual;PRB;RS;
-DEROCI SOUZA LIPERTT;293.513.240-87;04/10/2010;10000079203;R$ 140,00;Depósito em espécie;DEROCI SOUZA LIPERT;10777;Deputado Estadual;PRB;RS;
-DEROCI SOUZA LIPERTT;293.513.240-87;12/08/2010;10000079201;R$ 100,00;Depósito em espécie;DEROCI SOUZA LIPERT;10777;Deputado Estadual;PRB;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+PAULO JEFFERSON MACHADO SEVERO;97.056.923/0001-05;29/07/2010;       Publicidade por placas, estandartes e faixas;R$ 175,00;Cheque; -  -  / 10777 - DEROCI SOUZA LIPERT - RS - Deputado Estadual;
+PAULO JEFFERSON MACHADO SEVERO;97.056.923/0001-05;26/08/2010;       Publicidade por placas, estandartes e faixas;R$ 190,00;Cheque; -  -  / 10777 - DEROCI SOUZA LIPERT - RS - Deputado Estadual;
+;;13/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 10777 - DEROCI SOUZA LIPERT - RS - Deputado Estadual;
+;;13/08/2010;       Encargos financeiros e taxas bancárias;R$ 18,00;Débito em conta; -  -  / 10777 - DEROCI SOUZA LIPERT - RS - Deputado Estadual;

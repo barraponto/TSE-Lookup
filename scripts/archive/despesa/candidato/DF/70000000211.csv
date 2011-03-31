@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEICAO 2010 JOAO ALBERTO FRAGA SILVA ENADOR;12.206.143/0001-33;24/08/2010;17000029553;R$ 925,00;Estimado;WELLINGTON XAVIER SIQUEIRA;17777;Deputado Distrital;PSL;DF;
-LOOK PAINEIS LTDA;33.464.678/0001-84;10/08/2010;17000029551;R$ 500,00;Estimado;WELLINGTON XAVIER SIQUEIRA;17777;Deputado Distrital;PSL;DF;
-PRINTMAX COMERCIO E SERVIÇOS E CONF ET LTDA;02.299.603/0001-61;16/08/2010;17000029552;R$ 1.794,00;Estimado;WELLINGTON XAVIER SIQUEIRA;17777;Deputado Distrital;PSL;DF;
-WELLINGTON XAVIER SIQUEIRA;359.215.871-68;14/10/2010;17000029554;R$ 800,00;Transferência eletrônica;WELLINGTON XAVIER SIQUEIRA;17777;Deputado Distrital;PSL;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EDITORA GRAFICA ROQUETE LTDA;04.573.995/0001-30;24/08/2010;       Publicidade por materiais impressos;R$ 800,00;Cheque; -  -  / 17777 - WELLINGTON XAVIER SIQUEIRA - DF - Deputado Distrital;
+ELEICAO 2010 JOAO ALBERTO FRAGA SILVA ENADOR;12.206.143/0001-33;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 925,00;Estimado;255 -  - DEM -  - Senador / 17777 - WELLINGTON XAVIER SIQUEIRA - DF - Deputado Distrital;
+LOOK PAINEIS LTDA;33.464.678/0001-84;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 17777 - WELLINGTON XAVIER SIQUEIRA - DF - Deputado Distrital;
+PRINTMAX COMERCIO E SERVIÇOS E CONF ET LTDA;02.299.603/0001-61;16/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.794,00;Estimado; -  -  / 17777 - WELLINGTON XAVIER SIQUEIRA - DF - Deputado Distrital;

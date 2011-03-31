@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LUIZ MARQUES RODRIGUES;255.770.693-00;30/09/2010;45000425451;R$ 3.000,00;Estimado;JOSÉ JOAQUIM GUIMARÃES RAMOS;456;2º Suplente Senador;PSDB;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+LUIZ MARQUES RODRIGUES;255.770.693-00;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.000,00;Estimado; -  -  / 456 - JOSÉ JOAQUIM GUIMARÃES RAMOS - MA - 2º Suplente Senador;

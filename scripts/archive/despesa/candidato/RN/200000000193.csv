@@ -1,4 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ARNÓBIO DA PENHA PACHECO;108.447.914-15;03/08/2010;33000004951;R$ 2.500,00;Cheque;ARNÓBIO DA PENHA PACHECO;33456;Deputado Estadual;PMN;RN;
-ARNÓBIO DA PENHA PACHECO;108.447.914-15;01/10/2010;33000004953;R$ 1.230,48;Cheque;ARNÓBIO DA PENHA PACHECO;33456;Deputado Estadual;PMN;RN;
-ARNÓBIO DA PENHA PACHECO;108.447.914-15;09/09/2010;33000004952;R$ 6.260,00;Cheque;ARNÓBIO DA PENHA PACHECO;33456;Deputado Estadual;PMN;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EMPRESA JORNALISTICA TRIBUNA DO NORTE LTDA.;08.272.908/0001-66;31/08/2010;       Publicidade por jornais e revistas;R$ 1.435,70;Cheque; -  -  / 33456 - ARNÓBIO DA PENHA PACHECO - RN - Deputado Estadual;
+EMPRESA JORNALISTICA TRIBUNA DO NORTE LTDA.;08.272.908/0001-66;29/09/2010;       Publicidade por jornais e revistas;R$ 369,12;Cheque; -  -  / 33456 - ARNÓBIO DA PENHA PACHECO - RN - Deputado Estadual;
+EMPRESA JORNALISTICA TRIBUNA DO NORTE LTDA.;08.272.908/0001-66;29/09/2010;       Publicidade por jornais e revistas;R$ 369,12;Cheque; -  -  / 33456 - ARNÓBIO DA PENHA PACHECO - RN - Deputado Estadual;
+EMPRESA JORNALISTICA TRIBUNA DO NORTE LTDA.;08.272.908/0001-66;29/09/2010;       Publicidade por jornais e revistas;R$ 492,24;Cheque; -  -  / 33456 - ARNÓBIO DA PENHA PACHECO - RN - Deputado Estadual;
+GRAFICA SUL & EDITORA LTDA - EPP;06.948.614/0001-86;13/08/2010;       Publicidade por materiais impressos;R$ 2.490,00;Cheque; -  -  / 33456 - ARNÓBIO DA PENHA PACHECO - RN - Deputado Estadual;
+GRAFICA SUL & EDITORA LTDA - EPP;06.948.614/0001-86;31/08/2010;       Publicidade por materiais impressos;R$ 2.580,00;Cheque; -  -  / 33456 - ARNÓBIO DA PENHA PACHECO - RN - Deputado Estadual;
+RN GRÁFICA E EDITORA LTDA.;08.423.279/0001-28;25/08/2010;       Publicidade por jornais e revistas;R$ 2.240,00;Cheque; -  -  / 33456 - ARNÓBIO DA PENHA PACHECO - RN - Deputado Estadual;

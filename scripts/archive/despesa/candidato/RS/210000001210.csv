@@ -1,4 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADIPEREIRA DE BRUM;231.208.510-00;10/08/2010;45000099403;R$ 70,00;Depósito em espécie;ADI PEREIRA DE BRUM;45888;Deputado Estadual;PSDB;RS;
-ADIPEREIRA DE BRUM;231.208.510-00;25/08/2010;45000099401;R$ 160,00;Depósito em espécie;ADI PEREIRA DE BRUM;45888;Deputado Estadual;PSDB;RS;
-YEDA RORATO CRUSIUS;12.172.247/0001-74;01/10/2010;45000099402;R$ 850,00;Estimado;ADI PEREIRA DE BRUM;45888;Deputado Estadual;PSDB;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+TEXTIL G LTDA;02.700.115/0001-14;26/07/2010;       Publicidade por placas, estandartes e faixas;R$ 63,00;Cheque; -  -  / 45888 - ADI PEREIRA DE BRUM - RS - Deputado Estadual;
+USINA DA ARTE SERVIÇOS GRAFICOOS LTDA;11.064.096/0001-78;09/08/2010;       Publicidade por placas, estandartes e faixas;R$ 160,00;Cheque; -  -  / 45888 - ADI PEREIRA DE BRUM - RS - Deputado Estadual;
+YEDA RORATO CRUSIUS;12.172.247/0001-74;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 850,00;Estimado;45 -  - PSDB -  - Governador / 45888 - ADI PEREIRA DE BRUM - RS - Deputado Estadual;
+;;10/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 45888 - ADI PEREIRA DE BRUM - RS - Deputado Estadual;

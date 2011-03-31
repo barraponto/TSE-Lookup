@@ -1,2 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.205.178/0001-58;06/08/2010;12001075976;R$ 5.000,00;Cheque;GILMAR SOUZA FIGUEIREDO;1258;Deputado Federal;PDT;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS SCHIMITTI;978.441.440-68;09/08/2010;       Cessão ou Locação de Veículos;R$ 600,00;Cheque; -  -  / 1258 - GILMAR SOUZA FIGUEIREDO - RS - Deputado Federal;
+F.G. ARTES GRÁFICAS LTDA;01.580.107/0001-19;01/09/2010;       Publicidade por materiais impressos;R$ 247,00;Transferência eletrônica; -  -  / 1258 - GILMAR SOUZA FIGUEIREDO - RS - Deputado Federal;
+GIL PAINÉIS - GILBERTO GROSSMANN;89.437.537/0001-27;23/08/2010;       Publicidade por placas, estandartes e faixas;R$ 560,00;Transferência eletrônica; -  -  / 1258 - GILMAR SOUZA FIGUEIREDO - RS - Deputado Federal;
+INDUSTRIA GRAFICA LIMBARDI;08.004.044/0001-00;17/08/2010;       Publicidade por materiais impressos;R$ 1.000,00;Transferência eletrônica; -  -  / 1258 - GILMAR SOUZA FIGUEIREDO - RS - Deputado Federal;
+LEO SOM - MANOEL DE OLIVEIRA MATOS;91.687.400/0001-72;17/08/2010;       Despesas postais;R$ 1.390,00;Transferência eletrônica; -  -  / 1258 - GILMAR SOUZA FIGUEIREDO - RS - Deputado Federal;
+MASSANTONIO EVANGELISTA CHINEPPE;010.219.070-49;01/08/2010;       Locação/cessão de bens móveis;R$ 450,00;Transferência eletrônica; -  -  / 1258 - GILMAR SOUZA FIGUEIREDO - RS - Deputado Federal;
+MASSANTONIO EVANGELISTA CHINEPPE;010.219.070-49;17/08/2010;       Locação/cessão de bens móveis;R$ 750,00;Transferência eletrônica; -  -  / 1258 - GILMAR SOUZA FIGUEIREDO - RS - Deputado Federal;
+;;09/08/2010;       Encargos financeiros e taxas bancárias;R$ 3,00;Débito em conta; -  -  / 1258 - GILMAR SOUZA FIGUEIREDO - RS - Deputado Federal;

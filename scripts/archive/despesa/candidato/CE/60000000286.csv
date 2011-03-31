@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.217.614/0001-09;06/09/2010;19000002923;R$ 292,96;Estimado;VERONICA DO AMARAL MADEIRO BATISTA;1933;Deputado Federal;PTN;CE;
-MARCOGRAF GRAFICA LTDA;02.963.095/0001-74;03/09/2010;19000002922;R$ 36,00;Estimado;VERONICA DO AMARAL MADEIRO BATISTA;1933;Deputado Federal;PTN;CE;
-VERÔNICA DO AMARAL MADEIRO;123.139.123-53;30/07/2010;19000002921;R$ 500,00;Depósito em espécie;VERONICA DO AMARAL MADEIRO BATISTA;1933;Deputado Federal;PTN;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.217.614/0001-09;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 292,96;Estimado;Comitê Financeiro Único - PTN -  / 1933 - VERONICA DO AMARAL MADEIRO BATISTA - CE - Deputado Federal;
+MARCOGRAF GRAFICA LTDA;02.963.095/0001-74;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 36,00;Estimado; -  -  / 1933 - VERONICA DO AMARAL MADEIRO BATISTA - CE - Deputado Federal;
+PAPELTINTA SERIGRAFIA OFF SET;05.770.141/0001-07;06/08/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 1933 - VERONICA DO AMARAL MADEIRO BATISTA - CE - Deputado Federal;

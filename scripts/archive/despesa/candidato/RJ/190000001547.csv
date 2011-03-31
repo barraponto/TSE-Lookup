@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-COSME NEMESIO FERREIRA;935.252.577-91;26/08/2010;19190000502;R$ 360,00;Estimado;DAMIAO NEMESIO FERREIRA;19284;Deputado Estadual;PTN;RJ;
-COSME NEMESIO FERREIRA;935.252.577-91;13/08/2010;19190000501;R$ 506,00;Estimado;DAMIAO NEMESIO FERREIRA;19284;Deputado Estadual;PTN;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+COSME NEMESIO FERREIRA;935.252.577-91;26/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado; -  -  / 19284 - DAMIAO NEMESIO FERREIRA - RJ - Deputado Estadual;
+COSME NEMESIO FERREIRA;935.252.577-91;13/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 506,00;Estimado; -  -  / 19284 - DAMIAO NEMESIO FERREIRA - RJ - Deputado Estadual;

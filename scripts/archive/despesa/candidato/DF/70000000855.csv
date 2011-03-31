@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-RENILDO LOPES DE SOUSA;386.113.501-97;31/12/2010;43001793091;R$ 37,00;Estimado;RENILDO LOPES DE SOUSA;43399;Deputado Distrital;PV;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+RENILDO LOPES DE SOUSA;386.113.501-97;31/12/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 37,00;Estimado; -  -  / 43399 - RENILDO LOPES DE SOUSA - DF - Deputado Distrital;

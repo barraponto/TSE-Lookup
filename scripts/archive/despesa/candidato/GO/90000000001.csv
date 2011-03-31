@@ -1,2 +1,13 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ARMANDO VERGILIO S JUNIOR;12.175.164/0001-39;25/08/2010;33000002451;R$ 10.000,00;Cheque;ADÃO LADE FERNANDES BRAGA;33276;Deputado Estadual;PMN;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AGAMENON DE SOUZA REIS;235.060.321-00;29/09/2010;       Despesas com pessoal;R$ 284,00;Transferência eletrônica; -  -  / 33276 - ADÃO LADE FERNANDES BRAGA - GO - Deputado Estadual;
+AGAMENON DE SOUZA REIS;235.060.321-00;01/09/2010;       Despesas com pessoal;R$ 2.600,00;Transferência eletrônica; -  -  / 33276 - ADÃO LADE FERNANDES BRAGA - GO - Deputado Estadual;
+ANTONIO SILVERIO DA SILVA;274.123.261-04;06/09/2010;       Diversas a especificar;R$ 100,00;Transferência eletrônica; -  -  / 33276 - ADÃO LADE FERNANDES BRAGA - GO - Deputado Estadual;
+CLAYTON A. REZENDE;389.264.741-00;03/09/2010;       Publicidade por carros de som;R$ 3.000,00;Transferência eletrônica; -  -  / 33276 - ADÃO LADE FERNANDES BRAGA - GO - Deputado Estadual;
+DEUSENI CANDIDO TEOFILO;984.922.331-68;03/09/2010;       Despesas com pessoal;R$ 500,00;Transferência eletrônica; -  -  / 33276 - ADÃO LADE FERNANDES BRAGA - GO - Deputado Estadual;
+DEUSENI CANDIDO TEOFILO;984.922.331-68;28/09/2010;       Despesas com pessoal;R$ 780,00;Transferência eletrônica; -  -  / 33276 - ADÃO LADE FERNANDES BRAGA - GO - Deputado Estadual;
+ELISMAR VIEIRA DOS SANTOS;438.528.741-49;03/09/2010;       Despesas com pessoal;R$ 500,00;Transferência eletrônica; -  -  / 33276 - ADÃO LADE FERNANDES BRAGA - GO - Deputado Estadual;
+ELISMAR VIEIRA DOS SANTOS;438.528.741-49;28/09/2010;       Despesas com pessoal;R$ 500,00;Transferência eletrônica; -  -  / 33276 - ADÃO LADE FERNANDES BRAGA - GO - Deputado Estadual;
+HILDA ELIDIS BATISTA;324.270.691-91;04/10/2010;       Despesas com pessoal;R$ 600,00;Transferência eletrônica; -  -  / 33276 - ADÃO LADE FERNANDES BRAGA - GO - Deputado Estadual;
+POSTO NOVA ESPERANÇA;01.766.001/0001-04;02/09/2010;       Combustíveis e lubrificantes;R$ 1.120,00;Transferência eletrônica; -  -  / 33276 - ADÃO LADE FERNANDES BRAGA - GO - Deputado Estadual;
+;;06/09/2010;       Encargos financeiros e taxas bancárias;R$ 8,00;Débito em conta; -  -  / 33276 - ADÃO LADE FERNANDES BRAGA - GO - Deputado Estadual;
+;;03/09/2010;       Encargos financeiros e taxas bancárias;R$ 8,00;Débito em conta; -  -  / 33276 - ADÃO LADE FERNANDES BRAGA - GO - Deputado Estadual;

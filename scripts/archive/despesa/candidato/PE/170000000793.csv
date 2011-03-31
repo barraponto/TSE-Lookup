@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-HUMBERTO SERGIO COSTA LIMA;12.172.210/0001-46;14/09/2010;13000798181;R$ 15.000,00;Cheque;ENILDO ARANTES DE SOUZA;13222;Deputado Estadual;PT;PE;
-HUMBERTO SERGIO COSTA LIMA;12.172.210/0001-46;01/10/2010;13000798185;R$ 10.000,00;Cheque;ENILDO ARANTES DE SOUZA;13222;Deputado Estadual;PT;PE;
-HUMBERTO SERGIO COSTA LIMA;12.172.210/0001-46;29/09/2010;13000798184;R$ 3.000,00;Cheque;ENILDO ARANTES DE SOUZA;13222;Deputado Estadual;PT;PE;
-HUMBERTO SERGIO COSTA LIMA;12.172.210/0001-46;27/09/2010;13000798182;R$ 15.000,00;Cheque;ENILDO ARANTES DE SOUZA;13222;Deputado Estadual;PT;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JOSENILDO JOAQUIM DE MELO;393.920.154-53;08/10/2010;       Despesas com pessoal;R$ 3.292,00;Cheque; -  -  / 13222 - ENILDO ARANTES DE SOUZA - PE - Deputado Estadual;
+JOSENILDO JOAQUIM DE MELO;393.920.154-53;16/09/2010;       Diversas a especificar;R$ 15.000,00;Cheque; -  -  / 13222 - ENILDO ARANTES DE SOUZA - PE - Deputado Estadual;
+JOSENILDO JOAQUIM DE MELO;393.920.154-53;01/10/2010;       Despesas com pessoal;R$ 15.000,00;Cheque; -  -  / 13222 - ENILDO ARANTES DE SOUZA - PE - Deputado Estadual;
+JOSENILDO JOAQUIM DE MELO;393.920.154-53;05/10/2010;       Despesas com pessoal;R$ 3.000,00;Cheque; -  -  / 13222 - ENILDO ARANTES DE SOUZA - PE - Deputado Estadual;
+POSTO ENSEADA DO NORTE LTDA;00.338.804/0001-03;05/10/2010;       Combustíveis e lubrificantes;R$ 6.708,00;Cheque; -  -  / 13222 - ENILDO ARANTES DE SOUZA - PE - Deputado Estadual;

@@ -1,4 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.147.818/0001-10;01/09/2010;43001505753;R$ 1.926,02;Estimado;PAULO COSTA DA ROCHA;43021;Deputado Estadual;PV;RJ;
-PAULO COSTA DA ROCHA;494.450.227-34;04/08/2010;43001505751;R$ 4.500,00;Depósito em espécie;PAULO COSTA DA ROCHA;43021;Deputado Estadual;PV;RJ;
-PAULO COSTA DA ROCHA;494.450.227-34;10/09/2010;43001505752;R$ 500,00;Depósito em espécie;PAULO COSTA DA ROCHA;43021;Deputado Estadual;PV;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.147.818/0001-10;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.926,02;Estimado;Comitê Financeiro Único - PV -  / 43021 - PAULO COSTA DA ROCHA - RJ - Deputado Estadual;
+POSTO DE GASOLINA CARDEAL LTDA;33.527.201/0001-09;01/10/2010;       Combustíveis e lubrificantes;R$ 18,00;Transferência eletrônica; -  -  / 43021 - PAULO COSTA DA ROCHA - RJ - Deputado Estadual;
+POSTOS IATE COMERCIO E SERVIÇOS LTDA;34.002.337/0001-50;30/09/2010;       Combustíveis e lubrificantes;R$ 74,31;Transferência eletrônica; -  -  / 43021 - PAULO COSTA DA ROCHA - RJ - Deputado Estadual;
+SYNALPLAST COMÉRCIO E SERVIÇOS LTDA;02.718.784/0001-13;05/08/2010;       Publicidade por placas, estandartes e faixas;R$ 896,00;Cheque; -  -  / 43021 - PAULO COSTA DA ROCHA - RJ - Deputado Estadual;
+SYNALPLAST COMÉRCIO E SERVIÇOS LTDA;02.718.784/0001-13;02/09/2010;       Publicidade por placas, estandartes e faixas;R$ 256,00;Cheque; -  -  / 43021 - PAULO COSTA DA ROCHA - RJ - Deputado Estadual;
+SYNALPLAST COMÉRCIO E SERVIÇOS LTDA;02.718.784/0001-13;02/09/2010;       Publicidade por placas, estandartes e faixas;R$ 96,00;Cheque; -  -  / 43021 - PAULO COSTA DA ROCHA - RJ - Deputado Estadual;
+TRANSNET;03.984.925/0019-31;11/09/2010;       Cessão ou Locação de Veículos;R$ 1.695,65;Transferência eletrônica; -  -  / 43021 - PAULO COSTA DA ROCHA - RJ - Deputado Estadual;
+VISUANA GRÁFICA E EDITORA LTDA;04.561.145/0001-12;20/08/2010;       Publicidade por materiais impressos;R$ 1.320,00;Cheque; -  -  / 43021 - PAULO COSTA DA ROCHA - RJ - Deputado Estadual;
+VISUANA GRÁFICA E EDITORA LTDA;04.561.145/0001-12;10/08/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 43021 - PAULO COSTA DA ROCHA - RJ - Deputado Estadual;
+;;13/10/2010;       Encargos financeiros e taxas bancárias;R$ 21,00;Débito em conta; -  -  / 43021 - PAULO COSTA DA ROCHA - RJ - Deputado Estadual;
+;;30/08/2010;       Encargos financeiros e taxas bancárias;R$ 10,50;Débito em conta; -  -  / 43021 - PAULO COSTA DA ROCHA - RJ - Deputado Estadual;

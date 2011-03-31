@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MANOEL EDUARDO DA SILVA;488.508.537-34;29/07/2010;10000026541;R$ 50,00;Depósito em espécie;MANOEL EDUARDO DA SILVA;10018;Deputado Estadual;PRB;RJ;
-MANOEL EDUARDO DA SILVA;488.508.537-34;20/08/2010;10000026544;R$ 70,00;Depósito em espécie;MANOEL EDUARDO DA SILVA;10018;Deputado Estadual;PRB;RJ;
-MANOEL EDUARDO DA SILVA;488.508.537-34;16/08/2010;10000026543;R$ 35,00;Depósito em espécie;MANOEL EDUARDO DA SILVA;10018;Deputado Estadual;PRB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+COMÉRCIO REPRESENTAÇÃO E DISTRIBUIÇÃO LTDA;29.281.649/0001-00;29/07/2010;       Combustíveis e lubrificantes;R$ 40,00;Cheque; -  -  / 10018 - MANOEL EDUARDO DA SILVA - RJ - Deputado Estadual;
+COMÉRCIO REPRESENTAÇÃO E DISTRIBUIÇÃO LTDA;29.281.649/0001-00;20/08/2010;       Combustíveis e lubrificantes;R$ 70,00;Cheque; -  -  / 10018 - MANOEL EDUARDO DA SILVA - RJ - Deputado Estadual;
+GRÁFICA AJATO BÚZIOS LTDA-ME;05.680.192/0001-48;16/08/2010;       Publicidade por materiais impressos;R$ 35,00;Cheque; -  -  / 10018 - MANOEL EDUARDO DA SILVA - RJ - Deputado Estadual;

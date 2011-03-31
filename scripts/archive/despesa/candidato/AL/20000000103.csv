@@ -1,8 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.515/0001-03;30/09/2010;33000083455;R$ 300,00;Estimado;JOSÉ MARIA CERQUEIRA TENÓRIO;33332;Deputado Estadual;PMN;AL;
-ELEIÇÃO 2010 FERNANDO AFFONSO COLLOR DE MELLO;12.168.659/0001-30;29/09/2010;33000083454;R$ 3.906,25;Estimado;JOSÉ MARIA CERQUEIRA TENÓRIO;33332;Deputado Estadual;PMN;AL;
-JOBSON NETO;008.763.594-11;22/07/2010;33000083451;R$ 2.000,00;Depósito em espécie;JOSÉ MARIA CERQUEIRA TENÓRIO;33332;Deputado Estadual;PMN;AL;
-JOSÉ MARIA CERQUEIRA TENORIO;133.570.264-49;30/09/2010;33000083457;R$ 3.800,00;Estimado;JOSÉ MARIA CERQUEIRA TENÓRIO;33332;Deputado Estadual;PMN;AL;
-JOSÉ MARIA CERQUEIRA TENORIO;133.570.264-49;03/09/2010;33000083453;R$ 700,00;Depósito em espécie;JOSÉ MARIA CERQUEIRA TENÓRIO;33332;Deputado Estadual;PMN;AL;
-JOSÉ MARIA CERQUEIRA TENORIO;133.570.264-49;04/08/2010;33000083452;R$ 500,00;Depósito em espécie;JOSÉ MARIA CERQUEIRA TENÓRIO;33332;Deputado Estadual;PMN;AL;
-JOSÉ MARIA CERQUEIRA TENORIO;133.570.264-49;20/10/2010;33000083456;R$ 56,00;Depósito em espécie;JOSÉ MARIA CERQUEIRA TENÓRIO;33332;Deputado Estadual;PMN;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.515/0001-03;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMN -  / 33332 - JOSÉ MARIA CERQUEIRA TENÓRIO - AL - Deputado Estadual;
+ELEIÇÃO 2010 FERNANDO AFFONSO COLLOR DE MELLO;12.168.659/0001-30;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.906,25;Estimado;14 -  - PTB -  - Governador / 33332 - JOSÉ MARIA CERQUEIRA TENÓRIO - AL - Deputado Estadual;
+FLEX POSTO LTDA EPP;12.347.811/0001-42;09/08/2010;       Combustíveis e lubrificantes;R$ 1.000,00;Transferência eletrônica; -  -  / 33332 - JOSÉ MARIA CERQUEIRA TENÓRIO - AL - Deputado Estadual;
+GENTIL MELLO PORTO ME;70.013.925/0001-52;03/08/2010;       Publicidade por materiais impressos;R$ 750,00;Transferência eletrônica; -  -  / 33332 - JOSÉ MARIA CERQUEIRA TENÓRIO - AL - Deputado Estadual;
+GENTIL MELLO PORTO ME;70.013.925/0001-52;03/08/2010;       Publicidade por materiais impressos;R$ 500,00;Transferência eletrônica; -  -  / 33332 - JOSÉ MARIA CERQUEIRA TENÓRIO - AL - Deputado Estadual;
+JOSÉ MARIA CERQUEIRA TENORIO;133.570.264-49;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.800,00;Estimado; -  -  / 33332 - JOSÉ MARIA CERQUEIRA TENÓRIO - AL - Deputado Estadual;
+POSTO HOLANDA TEIXEIRA LTDA;06.964.197/0001-65;06/08/2010;       Combustíveis e lubrificantes;R$ 1.000,00;Transferência eletrônica; -  -  / 33332 - JOSÉ MARIA CERQUEIRA TENÓRIO - AL - Deputado Estadual;
+;;03/09/2010;       Encargos financeiros e taxas bancárias;R$ 3,00;Débito em conta; -  -  / 33332 - JOSÉ MARIA CERQUEIRA TENÓRIO - AL - Deputado Estadual;
+;;03/08/2010;       Encargos financeiros e taxas bancárias;R$ 3,00;Débito em conta; -  -  / 33332 - JOSÉ MARIA CERQUEIRA TENÓRIO - AL - Deputado Estadual;

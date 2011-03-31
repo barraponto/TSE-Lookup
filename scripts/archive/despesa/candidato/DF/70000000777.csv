@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.229.922/0001-54;07/08/2010;20000140562;R$ 360,00;Estimado;KÁTHIA VALÉRIA MARTINS DE CARVALHO DOS SANTOS;20566;Deputado Distrital;PSC;DF;
-Comitê Financeiro Único;12.229.922/0001-54;16/08/2010;20000140565;R$ 360,00;Estimado;KÁTHIA VALÉRIA MARTINS DE CARVALHO DOS SANTOS;20566;Deputado Distrital;PSC;DF;
-JAQUELINE MARIA RORIZ;12.198.906/0001-41;03/10/2010;20000140567;R$ 250,00;Estimado;KÁTHIA VALÉRIA MARTINS DE CARVALHO DOS SANTOS;20566;Deputado Distrital;PSC;DF;
-KATHIA VALERIA MARTINS DE CARVALHO DOS SANTOS;562.226.960-15;23/07/2010;20000140561;R$ 4.600,00;Estimado;KÁTHIA VALÉRIA MARTINS DE CARVALHO DOS SANTOS;20566;Deputado Distrital;PSC;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.229.922/0001-54;07/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Único - PSC -  / 20566 - KÁTHIA VALÉRIA MARTINS DE CARVALHO DOS SANTOS - DF - Deputado Distrital;
+Comitê Financeiro Único;12.229.922/0001-54;16/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Único - PSC -  / 20566 - KÁTHIA VALÉRIA MARTINS DE CARVALHO DOS SANTOS - DF - Deputado Distrital;
+JAQUELINE MARIA RORIZ;12.198.906/0001-41;03/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;3320 -  - PMN -  - Deputado Federal / 20566 - KÁTHIA VALÉRIA MARTINS DE CARVALHO DOS SANTOS - DF - Deputado Distrital;
+KATHIA VALERIA MARTINS DE CARVALHO DOS SANTOS;562.226.960-15;23/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.600,00;Estimado; -  -  / 20566 - KÁTHIA VALÉRIA MARTINS DE CARVALHO DOS SANTOS - DF - Deputado Distrital;

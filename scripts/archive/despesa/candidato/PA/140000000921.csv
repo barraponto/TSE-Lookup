@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANA JULIA CAREPA;12.171.430/0001-55;01/10/2010;11000172141;R$ 1.200,00;Estimado;LOURIVAL BORGES DA SILVA FILHO;11444;Deputado Estadual;PP;PA;
-ANA JULIA CAREPA;12.171.430/0001-55;21/09/2010;11000172142;R$ 1.000,00;Estimado;LOURIVAL BORGES DA SILVA FILHO;11444;Deputado Estadual;PP;PA;
-ANA JULIA CAREPA;12.171.430/0001-55;19/09/2010;11000172143;R$ 1.000,00;Estimado;LOURIVAL BORGES DA SILVA FILHO;11444;Deputado Estadual;PP;PA;
-GERSON DOS SANTOS PERES;12.167.168/0001-75;28/09/2010;11000172144;R$ 300,00;Estimado;LOURIVAL BORGES DA SILVA FILHO;11444;Deputado Estadual;PP;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANA JULIA CAREPA;12.171.430/0001-55;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.200,00;Estimado;13 -  - PT -  - Governador / 11444 - LOURIVAL BORGES DA SILVA FILHO - PA - Deputado Estadual;
+ANA JULIA CAREPA;12.171.430/0001-55;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;13 -  - PT -  - Governador / 11444 - LOURIVAL BORGES DA SILVA FILHO - PA - Deputado Estadual;
+ANA JULIA CAREPA;12.171.430/0001-55;19/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;13 -  - PT -  - Governador / 11444 - LOURIVAL BORGES DA SILVA FILHO - PA - Deputado Estadual;
+GERSON DOS SANTOS PERES;12.167.168/0001-75;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;1115 -  - PP -  - Deputado Federal / 11444 - LOURIVAL BORGES DA SILVA FILHO - PA - Deputado Estadual;

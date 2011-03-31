@@ -1,2 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LUIZ CARLOS DE CARVALHO;728.085.867-87;16/08/2010;36000050751;R$ 59,60;Estimado;CLAUDIO GERALDO AVELAR DE ARAUJO;3610;Deputado Federal;PTC;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 COMITE FINANCEIRO RJ UNICO PMDB;12.181.923/0001-76;22/09/2010;       Publicidade por materiais impressos;R$ 150,00;Não informado; -  -  / 3610 - CLAUDIO GERALDO AVELAR DE ARAUJO - RJ - Deputado Federal;
+ELEIÇÃO 2010 COMITE FINANCEIRO RJ UNICO PMDB;12.181.923/0001-76;09/09/2010;       Publicidade por materiais impressos;R$ 150,00;Não informado; -  -  / 3610 - CLAUDIO GERALDO AVELAR DE ARAUJO - RJ - Deputado Federal;
+ELEIÇÃO 2010 COMITE FINANCEIRO RJ UNICO PMDB;12.181.923/0001-76;22/09/2010;       Publicidade por materiais impressos;R$ 150,00;Não informado; -  -  / 3610 - CLAUDIO GERALDO AVELAR DE ARAUJO - RJ - Deputado Federal;
+ELEIÇÃO 2010 COMITE FINANCEIRO RJ UNICO PMDB;12.181.923/0001-76;22/09/2010;       Publicidade por materiais impressos;R$ 150,00;Não informado; -  -  / 3610 - CLAUDIO GERALDO AVELAR DE ARAUJO - RJ - Deputado Federal;
+ELEIÇÃO 2010 JORGE SOYLD PICIANI SENADOR;12.176.626/0001-32;22/09/2010;       Publicidade por materiais impressos;R$ 23,59;Não informado; -  -  / 3610 - CLAUDIO GERALDO AVELAR DE ARAUJO - RJ - Deputado Federal;
+ELEIÇÃO 2010 JORGE SOYLD PICIANI SENADOR;12.176.626/0001-32;17/09/2010;       Publicidade por materiais impressos;R$ 23,59;Não informado; -  -  / 3610 - CLAUDIO GERALDO AVELAR DE ARAUJO - RJ - Deputado Federal;
+LUIZ CARLOS DE CARVALHO;728.085.867-87;16/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 59,60;Estimado; -  -  / 3610 - CLAUDIO GERALDO AVELAR DE ARAUJO - RJ - Deputado Federal;

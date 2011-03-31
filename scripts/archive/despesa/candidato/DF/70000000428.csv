@@ -1,5 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO CESAR SANTANA;12.178.544/0001-27;16/08/2010;27000045788;R$ 1.250,00;Cheque;MARIA DE LOURDES DE ALENCAR DIAS;27020;Deputado Distrital;PSDC;DF;
-ANTONIO CESAR SANTANA;12.178.544/0001-27;12/08/2010;27000045785;R$ 5.000,00;Cheque;MARIA DE LOURDES DE ALENCAR DIAS;27020;Deputado Distrital;PSDC;DF;
-Comitê Financeiro Único;12.270.065/0001-36;07/08/2010;27000045781;R$ 360,00;Estimado;MARIA DE LOURDES DE ALENCAR DIAS;27020;Deputado Distrital;PSDC;DF;
-Comitê Financeiro Único;12.270.065/0001-36;07/08/2010;27000045782;R$ 360,00;Estimado;MARIA DE LOURDES DE ALENCAR DIAS;27020;Deputado Distrital;PSDC;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.270.065/0001-36;07/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Único - PSDC -  / 27020 - MARIA DE LOURDES DE ALENCAR DIAS - DF - Deputado Distrital;
+Comitê Financeiro Único;12.270.065/0001-36;07/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Único - PSDC -  / 27020 - MARIA DE LOURDES DE ALENCAR DIAS - DF - Deputado Distrital;
+JOSE DIAS DE JESUS;183.922.451-72;16/08/2010;       Despesas com pessoal;R$ 850,00;Cheque; -  -  / 27020 - MARIA DE LOURDES DE ALENCAR DIAS - DF - Deputado Distrital;
+JOSE DIAS DE JESUS;183.922.451-72;12/08/2010;       Despesas com pessoal;R$ 4.600,00;Cheque; -  -  / 27020 - MARIA DE LOURDES DE ALENCAR DIAS - DF - Deputado Distrital;
+MARITANA MOREIRA BORGES;329.738.371-20;13/08/2010;       Despesas com pessoal;R$ 400,00;Cheque; -  -  / 27020 - MARIA DE LOURDES DE ALENCAR DIAS - DF - Deputado Distrital;
+MARITANA MOREIRA BORGES;329.738.371-20;19/08/2010;       Despesas com pessoal;R$ 400,00;Cheque; -  -  / 27020 - MARIA DE LOURDES DE ALENCAR DIAS - DF - Deputado Distrital;

@@ -1,4 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.256/0001-14;09/09/2010;17000028602;R$ 1.530,00;Cheque;LEDA MARIA SILVA;17888;Deputado Distrital;PSL;DF;
-Comitê Financeiro Único;12.205.256/0001-14;05/10/2010;17000028603;R$ 1.530,00;Cheque;LEDA MARIA SILVA;17888;Deputado Distrital;PSL;DF;
-LEDA MARIA SILVA;114.877.631-15;30/08/2010;17000028601;R$ 530,00;Depósito em espécie;LEDA MARIA SILVA;17888;Deputado Distrital;PSL;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+LM BARROS GRAFICA ME;05.864.801/0001-19;16/09/2010;       Publicidade por materiais impressos;R$ 450,00;Cheque; -  -  / 17888 - LEDA MARIA SILVA - DF - Deputado Distrital;
+LM BARROS GRAFICA ME;05.864.801/0001-19;24/08/2010;       Publicidade por materiais impressos;R$ 520,00;Cheque; -  -  / 17888 - LEDA MARIA SILVA - DF - Deputado Distrital;
+LUCILEIDE MARIA DA SILVA;004.827.771-17;01/10/2010;       Despesas com pessoal;R$ 1.530,00;Cheque; -  -  / 17888 - LEDA MARIA SILVA - DF - Deputado Distrital;
+MILENE SILVA;910.480.521-68;01/10/2010;       Despesas com pessoal;R$ 545,00;Transferência eletrônica; -  -  / 17888 - LEDA MARIA SILVA - DF - Deputado Distrital;
+NICODEMOS R. SAMPAIO;333.595.981-72;01/10/2010;       Despesas com pessoal;R$ 545,00;Transferência eletrônica; -  -  / 17888 - LEDA MARIA SILVA - DF - Deputado Distrital;

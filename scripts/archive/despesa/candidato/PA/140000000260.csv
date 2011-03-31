@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADEMIR GALVAO ANDRADE;12.189.621/0001-44;23/09/2010;40002343521;R$ 5.000,00;Cheque;LEO FERREIRA CASTRO;40190;Deputado Estadual;PSB;PA;
-ADEMIR GALVAO ANDRADE;12.189.621/0001-44;29/09/2010;40002343522;R$ 5.000,00;Cheque;LEO FERREIRA CASTRO;40190;Deputado Estadual;PSB;PA;
-ADEMIR GALVAO ANDRADE;12.189.621/0001-44;05/09/2010;40002343523;R$ 395,00;Estimado;LEO FERREIRA CASTRO;40190;Deputado Estadual;PSB;PA;
-ADEMIR GALVAO ANDRADE;12.189.621/0001-44;20/09/2010;40002343524;R$ 954,00;Estimado;LEO FERREIRA CASTRO;40190;Deputado Estadual;PSB;PA;
-ADEMIR GALVAO ANDRADE;12.189.621/0001-44;04/09/2010;40002343526;R$ 300,00;Estimado;LEO FERREIRA CASTRO;40190;Deputado Estadual;PSB;PA;
-ADEMIR GALVAO ANDRADE;12.189.621/0001-44;04/09/2010;40002343527;R$ 425,00;Estimado;LEO FERREIRA CASTRO;40190;Deputado Estadual;PSB;PA;
-PÉRCIO ROBERTO DOS SANTOS PALACIO;608.166.351-53;01/08/2010;40002343528;R$ 500,00;Estimado;LEO FERREIRA CASTRO;40190;Deputado Estadual;PSB;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADEMIR GALVAO ANDRADE;12.189.621/0001-44;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;4040 -  - PSB -  - Deputado Federal / 40190 - LEO FERREIRA CASTRO - PA - Deputado Estadual;
+ADEMIR GALVAO ANDRADE;12.189.621/0001-44;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 954,00;Estimado;4040 -  - PSB -  - Deputado Federal / 40190 - LEO FERREIRA CASTRO - PA - Deputado Estadual;
+ADEMIR GALVAO ANDRADE;12.189.621/0001-44;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 395,00;Estimado;4040 -  - PSB -  - Deputado Federal / 40190 - LEO FERREIRA CASTRO - PA - Deputado Estadual;
+ADEMIR GALVAO ANDRADE;12.189.621/0001-44;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 425,00;Estimado;4040 -  - PSB -  - Deputado Federal / 40190 - LEO FERREIRA CASTRO - PA - Deputado Estadual;
+FRANCISCO JONATHAN ALVES MOREIRA;866.868.792-15;30/09/2010;       Publicidade por carros de som;R$ 5.000,00;Transferência eletrônica; -  -  / 40190 - LEO FERREIRA CASTRO - PA - Deputado Estadual;
+FRANCISCO JONATHAN ALVES MOREIRA;866.868.792-15;30/08/2010;       Publicidade por carros de som;R$ 5.000,00;Transferência eletrônica; -  -  / 40190 - LEO FERREIRA CASTRO - PA - Deputado Estadual;
+PÉRCIO ROBERTO DOS SANTOS PALACIO;608.166.351-53;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 40190 - LEO FERREIRA CASTRO - PA - Deputado Estadual;

@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.515/0001-03;30/09/2010;33000083313;R$ 300,00;Estimado;HELIO SOARES DE GOES;33123;Deputado Estadual;PMN;AL;
-ELEIÇÃO 2010 FERNANDO AFFONSO COLLOR DE MELLO;12.168.659/0001-30;29/09/2010;33000083312;R$ 3.906,25;Estimado;HELIO SOARES DE GOES;33123;Deputado Estadual;PMN;AL;
-HÉLIO SOARES DE GÓES;312.870.184-91;01/09/2010;33000083311;R$ 650,00;Depósito em espécie;HELIO SOARES DE GOES;33123;Deputado Estadual;PMN;AL;
-HÉLIO SOARES DE GÓES;312.870.184-91;23/09/2010;33000083314;R$ 900,00;Depósito em espécie;HELIO SOARES DE GOES;33123;Deputado Estadual;PMN;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+,AGENTA GRAFICA E EDITORA LTDA - ME;03.814.734/0001-00;31/08/2010;       Publicidade por materiais impressos;R$ 650,00;Cheque; -  -  / 33123 - HELIO SOARES DE GOES - AL - Deputado Estadual;
+Comitê Financeiro Único;12.191.515/0001-03;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMN -  / 33123 - HELIO SOARES DE GOES - AL - Deputado Estadual;
+ELEIÇÃO 2010 FERNANDO AFFONSO COLLOR DE MELLO;12.168.659/0001-30;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.906,25;Estimado;14 -  - PTB -  - Governador / 33123 - HELIO SOARES DE GOES - AL - Deputado Estadual;
+LUIZ SANTANA VITOR;259.706.234-15;21/09/2010;       Publicidade por materiais impressos;R$ 900,00;Cheque; -  -  / 33123 - HELIO SOARES DE GOES - AL - Deputado Estadual;

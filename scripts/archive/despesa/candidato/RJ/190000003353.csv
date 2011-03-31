@@ -1,2 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS GOMES DE SOUZA;000.568.747-07;06/08/2010;43001504701;R$ 3.000,00;Depósito em espécie;CARLOS GOMES DE SOUZA;43430;Deputado Estadual;PV;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+RATO´S ARTES GRÁFICAS LTDA.;09.720.792/0001-43;22/09/2010;       Diversas a especificar;R$ 260,00;Cheque; -  -  / 43430 - CARLOS GOMES DE SOUZA - RJ - Deputado Estadual;
+RATO´S ARTES GRÁFICAS LTDA.;09.720.792/0001-43;11/08/2010;       Publicidade por materiais impressos;R$ 640,00;Cheque; -  -  / 43430 - CARLOS GOMES DE SOUZA - RJ - Deputado Estadual;
+U.F. BRINDES INDUSTRIA E COMERCIO LTDA.;40.205.791/0001-00;09/08/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 43430 - CARLOS GOMES DE SOUZA - RJ - Deputado Estadual;
+WEST SIGN LTDA;02.111.289/0001-41;10/08/2010;       Publicidade por materiais impressos;R$ 1.600,00;Cheque; -  -  / 43430 - CARLOS GOMES DE SOUZA - RJ - Deputado Estadual;

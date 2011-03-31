@@ -1,5 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.200.167/0001-85;04/08/2010;10000026721;R$ 1.633,00;Outros títulos de crédito;PAULO SERGIO CAETANO FERREIRA;10685;Deputado Estadual;PRB;RJ;
-Diretório Estadual/Distrital;12.200.167/0001-85;06/09/2010;10000026723;R$ 2.075,00;Outros títulos de crédito;PAULO SERGIO CAETANO FERREIRA;10685;Deputado Estadual;PRB;RJ;
-Diretório Estadual/Distrital;12.200.167/0001-85;31/08/2010;10000026722;R$ 630,00;Outros títulos de crédito;PAULO SERGIO CAETANO FERREIRA;10685;Deputado Estadual;PRB;RJ;
-MIRANDA PRATTES E GADELHA DA SILVA ADVO ASSOCIADOS;73.315.327/0001-26;02/08/2010;10000026724;R$ 2.080,00;Transferência eletrônica;PAULO SERGIO CAETANO FERREIRA;10685;Deputado Estadual;PRB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EDITORA GRAFICA UNIVERSAL;30.521.728/0001-20;04/08/2010;       Publicidade por materiais impressos;R$ 1.633,00;Não informado; -  -  / 10685 - PAULO SERGIO CAETANO FERREIRA - RJ - Deputado Estadual;
+EDITORA GRAFICA UNIVERSAL;30.521.728/0001-20;06/09/2010;       Publicidade por materiais impressos;R$ 2.075,00;Não informado; -  -  / 10685 - PAULO SERGIO CAETANO FERREIRA - RJ - Deputado Estadual;
+GRAFICA ABRAHÃO;10.668.905/0001-98;31/08/2010;       Publicidade por materiais impressos;R$ 630,00;Não informado; -  -  / 10685 - PAULO SERGIO CAETANO FERREIRA - RJ - Deputado Estadual;
+GRAFICA ONIDA LTDA;33.129.800/0001-66;18/08/2010;       Publicidade por materiais impressos;R$ 600,00;Não informado; -  -  / 10685 - PAULO SERGIO CAETANO FERREIRA - RJ - Deputado Estadual;
+MARIA NEIDE GUEDES;058.442.907-04;09/09/2010;       Publicidade por placas, estandartes e faixas;R$ 1.000,00;Cheque; -  -  / 10685 - PAULO SERGIO CAETANO FERREIRA - RJ - Deputado Estadual;
+MARIA NEIDE GUEDES;058.442.907-04;03/09/2010;       Diversas a especificar;R$ 480,00;Cheque; -  -  / 10685 - PAULO SERGIO CAETANO FERREIRA - RJ - Deputado Estadual;

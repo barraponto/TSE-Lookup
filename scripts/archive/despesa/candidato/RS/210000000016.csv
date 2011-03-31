@@ -1,5 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-IARA SOARES LEAL;066.366.750-04;10/09/2010;50000479831;R$ 450,00;Estimado;CELEDO HEITOR ELZ NETO;5011;Deputado Federal;PSOL;RS;
-ONICIO MACHADO DA SILVA;263.860.540-91;05/08/2010;50000479832;R$ 150,00;Depósito em espécie;CELEDO HEITOR ELZ NETO;5011;Deputado Federal;PSOL;RS;
-ROSE MARI ELZ;230.180.700-20;29/11/2010;50000479834;R$ 300,00;Estimado;CELEDO HEITOR ELZ NETO;5011;Deputado Federal;PSOL;RS;
-SOLANGE R GONCALVES SILVA;626.978.030-68;05/08/2010;50000479833;R$ 100,00;Depósito em espécie;CELEDO HEITOR ELZ NETO;5011;Deputado Federal;PSOL;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+IARA SOARES LEAL;066.366.750-04;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 450,00;Estimado; -  -  / 5011 - CELEDO HEITOR ELZ NETO - RS - Deputado Federal;
+JORNAL DO MAR;80.121.676/0001-72;30/07/2010;       Publicidade por jornais e revistas;R$ 250,00;Cheque; -  -  / 5011 - CELEDO HEITOR ELZ NETO - RS - Deputado Federal;
+ROSE MARI ELZ;230.180.700-20;29/11/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 5011 - CELEDO HEITOR ELZ NETO - RS - Deputado Federal;

@@ -1,4 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADELMA POLIDORO SOARES GERALDO;784.990.207-63;26/08/2010;17000066502;R$ 300,00;Estimado;EDSON DE OLIVEIRA PIMENTA;17500;Deputado Estadual;PSL;RJ;
-EDSON DE OLIVEIRA PIMENTA;630.898.827-87;03/08/2010;17000066501;R$ 2.000,00;Depósito em espécie;EDSON DE OLIVEIRA PIMENTA;17500;Deputado Estadual;PSL;RJ;
-JORGE SAYED PICCIANI;12.176.626/0001-32;01/09/2010;17000066503;R$ 17,00;Estimado;EDSON DE OLIVEIRA PIMENTA;17500;Deputado Estadual;PSL;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADELMA POLIDORO SOARES GERALDO;784.990.207-63;26/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 17500 - EDSON DE OLIVEIRA PIMENTA - RJ - Deputado Estadual;
+ALINE ARTE PUBLICIDADE LTDA;10.212.846/0001-49;03/08/2010;       Publicidade por materiais impressos;R$ 1.520,00;Cheque; -  -  / 17500 - EDSON DE OLIVEIRA PIMENTA - RJ - Deputado Estadual;
+ASG ORGANIZAÇÃO CONTABIL LTDA;05.592.694/0001-17;20/08/2010;       Serviços prestados por terceiros;R$ 300,00;Cheque; -  -  / 17500 - EDSON DE OLIVEIRA PIMENTA - RJ - Deputado Estadual;
+JORGE SAYED PICCIANI;12.176.626/0001-32;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 17500 - EDSON DE OLIVEIRA PIMENTA - RJ - Deputado Estadual;
+SERITECNICA MATERIAIS SERIGRAFICOS LTDA;42.409.789/0001-89;03/09/2010;       Diversas a especificar;R$ 161,00;Cheque; -  -  / 17500 - EDSON DE OLIVEIRA PIMENTA - RJ - Deputado Estadual;
+;;03/08/2010;       Encargos financeiros e taxas bancárias;R$ 19,00;Débito em conta; -  -  / 17500 - EDSON DE OLIVEIRA PIMENTA - RJ - Deputado Estadual;

@@ -1,6 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JADER TEIXEIRA GARDELINE;632.586.762-91;29/10/2010;15000047356;R$ 14.000,00;Transferência eletrônica;JADER TEIXEIRA GARDELINE;15551;Deputado Estadual;PMDB;PA;
-JADER TEIXEIRA GARDELINE;632.586.762-91;03/08/2010;15000047351;R$ 500,00;Transferência eletrônica;JADER TEIXEIRA GARDELINE;15551;Deputado Estadual;PMDB;PA;
-JOSE BENITO PRIANTE JUNIOR;12.172.627/0001-09;23/09/2010;15000047354;R$ 750,00;Estimado;JADER TEIXEIRA GARDELINE;15551;Deputado Estadual;PMDB;PA;
-JOSE BENITO PRIANTE JUNIOR;12.172.627/0001-09;23/09/2010;15000047355;R$ 300,00;Estimado;JADER TEIXEIRA GARDELINE;15551;Deputado Estadual;PMDB;PA;
-JOSE BENITO PRIANTE JUNIOR;12.172.627/0001-09;10/09/2010;15000047353;R$ 500,00;Estimado;JADER TEIXEIRA GARDELINE;15551;Deputado Estadual;PMDB;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+A DE M LARRAT ME;07.354.456/0001-07;03/08/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 15551 - JADER TEIXEIRA GARDELINE - PA - Deputado Estadual;
+J M DOS SANTOS & FILHOS LTDA;04.894.382/0001-03;08/09/2010;       Publicidade por materiais impressos;R$ 14.000,00;Cheque; -  -  / 15551 - JADER TEIXEIRA GARDELINE - PA - Deputado Estadual;
+JOSE BENITO PRIANTE JUNIOR;12.172.627/0001-09;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;1555 -  - PMDB -  - Deputado Federal / 15551 - JADER TEIXEIRA GARDELINE - PA - Deputado Estadual;
+JOSE BENITO PRIANTE JUNIOR;12.172.627/0001-09;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 750,00;Estimado;1555 -  - PMDB -  - Deputado Federal / 15551 - JADER TEIXEIRA GARDELINE - PA - Deputado Estadual;
+JOSE BENITO PRIANTE JUNIOR;12.172.627/0001-09;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;1555 -  - PMDB -  - Deputado Federal / 15551 - JADER TEIXEIRA GARDELINE - PA - Deputado Estadual;
+RAIMUNDO ANTONIO CAMPOS SOARES COUTO;431.687.792-53;01/10/2010;       Despesas com pessoal;R$ 100,00;Cheque; -  -  / 15551 - JADER TEIXEIRA GARDELINE - PA - Deputado Estadual;

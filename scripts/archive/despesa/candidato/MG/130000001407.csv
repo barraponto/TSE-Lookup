@@ -1,5 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.213/0001-39;13/09/2010;40000201276;R$ 1.900,00;Cheque;CARLOS ALBERTO ALVES;4013;Deputado Federal;PSB;MG;
-Comitê Financeiro Único;12.205.213/0001-39;30/09/2010;40000201279;R$ 45,00;Estimado;CARLOS ALBERTO ALVES;4013;Deputado Federal;PSB;MG;
-Comitê Financeiro Único;12.205.213/0001-39;03/09/2010;40000201278;R$ 1.197,84;Estimado;CARLOS ALBERTO ALVES;4013;Deputado Federal;PSB;MG;
-Comitê Financeiro Único;12.205.213/0001-39;30/08/2010;40000201277;R$ 508,00;Estimado;CARLOS ALBERTO ALVES;4013;Deputado Federal;PSB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS ALBERTO ALVES;577.743.406-10;01/11/2010;       Diversas a especificar;R$ 50,00;Cheque; -  -  / 4013 - CARLOS ALBERTO ALVES - MG - Deputado Federal;
+CARLOS ALBERTO ALVES;577.743.406-10;21/09/2010;       Diversas a especificar;R$ 300,00;Cheque; -  -  / 4013 - CARLOS ALBERTO ALVES - MG - Deputado Federal;
+Comitê Financeiro Único;12.205.213/0001-39;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.197,84;Estimado;Comitê Financeiro Único - PSB -  / 4013 - CARLOS ALBERTO ALVES - MG - Deputado Federal;
+Comitê Financeiro Único;12.205.213/0001-39;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 508,00;Estimado;Comitê Financeiro Único - PSB -  / 4013 - CARLOS ALBERTO ALVES - MG - Deputado Federal;
+Comitê Financeiro Único;12.205.213/0001-39;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 45,00;Estimado;Comitê Financeiro Único - PSB -  / 4013 - CARLOS ALBERTO ALVES - MG - Deputado Federal;
+IRACI DA CONCEIÇÃO ALVES;568.377.556-68;28/09/2010;       Despesas com pessoal;R$ 150,00;Cheque; -  -  / 4013 - CARLOS ALBERTO ALVES - MG - Deputado Federal;
+JUSSARA ALVES;681.891.336-91;27/09/2010;       Publicidade por carros de som;R$ 700,00;Cheque; -  -  / 4013 - CARLOS ALBERTO ALVES - MG - Deputado Federal;
+PAULO RICARDO DA CONCEIÇAO ALVES;045.749.266-00;27/09/2010;       Publicidade por carros de som;R$ 700,00;Cheque; -  -  / 4013 - CARLOS ALBERTO ALVES - MG - Deputado Federal;

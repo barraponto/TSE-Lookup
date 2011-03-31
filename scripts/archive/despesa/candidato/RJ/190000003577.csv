@@ -1,5 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.254/0001-25;28/10/2010;44000027945;R$ 1.000,00;Estimado;SAMUEL SUIÇO FLORES;44222;Deputado Estadual;PRP;RJ;
-SAMUEL SUIÇO FLORES;543.438.797-04;30/09/2010;44000027948;R$ 3.000,00;Cheque;SAMUEL SUIÇO FLORES;44222;Deputado Estadual;PRP;RJ;
-SAMUEL SUIÇO FLORES;543.438.797-04;16/08/2010;44000027942;R$ 5.000,00;Cheque;SAMUEL SUIÇO FLORES;44222;Deputado Estadual;PRP;RJ;
-SAMUEL SUIÇO FLORES;543.438.797-04;23/09/2010;44000027947;R$ 3.000,00;Cheque;SAMUEL SUIÇO FLORES;44222;Deputado Estadual;PRP;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CLAUDINHO DO SOM DIVULGAÇAO MOVEL LTDA ME;09.473.744/0001-06;28/10/2010;       Publicidade por carros de som;R$ 1.620,00;Cheque; -  -  / 44222 - SAMUEL SUIÇO FLORES - RJ - Deputado Estadual;
+CLAUDINHO DO SOM DIVULGAÇAO MOVEL LTDA ME;09.473.744/0001-06;20/09/2010;       Publicidade por carros de som;R$ 2.100,00;Cheque; -  -  / 44222 - SAMUEL SUIÇO FLORES - RJ - Deputado Estadual;
+CLAUDINHO DO SOM DIVULGAÇAO MOVEL LTDA ME;09.473.744/0001-06;29/08/2010;       Publicidade por carros de som;R$ 2.100,00;Cheque; -  -  / 44222 - SAMUEL SUIÇO FLORES - RJ - Deputado Estadual;
+CLAUDINHO DO SOM DIVULGAÇAO MOVEL LTDA ME;09.473.744/0001-06;28/09/2010;       Publicidade por carros de som;R$ 1.160,00;Cheque; -  -  / 44222 - SAMUEL SUIÇO FLORES - RJ - Deputado Estadual;
+CLAUDINHO DO SOM DIVULGAÇAO MOVEL LTDA ME;09.473.744/0001-06;28/09/2010;       Publicidade por carros de som;R$ 900,00;Cheque; -  -  / 44222 - SAMUEL SUIÇO FLORES - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.205.254/0001-25;28/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;Comitê Financeiro Único - PRP -  / 44222 - SAMUEL SUIÇO FLORES - RJ - Deputado Estadual;
+DANIELA E SONIA SERVIÇOS GRAFICOS LTDA;05.359.098/0001-91;22/09/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 44222 - SAMUEL SUIÇO FLORES - RJ - Deputado Estadual;
+MARCIO ANTONIO SILVA BITENCOURT PAPELARIA ME;10.312.993/0001-90;16/08/2010;       Publicidade por materiais impressos;R$ 100,00;Cheque; -  -  / 44222 - SAMUEL SUIÇO FLORES - RJ - Deputado Estadual;
+MARCIO ANTONIO SILVA BITENCOURT PAPELARIA ME;10.312.993/0001-90;01/10/2010;       Publicidade por materiais impressos;R$ 1.810,00;Cheque; -  -  / 44222 - SAMUEL SUIÇO FLORES - RJ - Deputado Estadual;
+MARIA DA CONCEICAO NUNES DE MATTOS;012.389.687-83;06/09/2010;       Serviços prestados por terceiros;R$ 510,00;Cheque; -  -  / 44222 - SAMUEL SUIÇO FLORES - RJ - Deputado Estadual;
+RATO´S ARTES GRÁFICAS LTDA;09.720.792/0001-43;08/09/2010;       Publicidade por materiais impressos;R$ 100,00;Cheque; -  -  / 44222 - SAMUEL SUIÇO FLORES - RJ - Deputado Estadual;

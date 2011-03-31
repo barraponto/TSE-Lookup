@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Governador;12.191.521/0001-52;01/10/2010;22000030014;R$ 1.193,98;Estimado;FLAVIEL DOS SANTOS;22123;Deputado Estadual;PR;AL;
-FLAVIEL DOS SANTOS;985.857.974-87;15/09/2010;22000030015;R$ 45,00;Depósito em espécie;FLAVIEL DOS SANTOS;22123;Deputado Estadual;PR;AL;
-MAURÍCIO QUINTELLA LESSA;12.180.644/0001-98;20/08/2010;22000030011;R$ 185,00;Estimado;FLAVIEL DOS SANTOS;22123;Deputado Estadual;PR;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARTECORES COMUNICAÇÃO VISUAL LTDA;02.796.182/0001-84;17/09/2010;       Publicidade por materiais impressos;R$ 45,00;Cheque; -  -  / 22123 - FLAVIEL DOS SANTOS - AL - Deputado Estadual;
+Comitê Financeiro Estadual/Distrital para Governador;12.191.521/0001-52;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.193,98;Estimado;Comitê Financeiro Distrital/Estadual para Governador - PDT -  / 22123 - FLAVIEL DOS SANTOS - AL - Deputado Estadual;
+MAURÍCIO QUINTELLA LESSA;12.180.644/0001-98;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 185,00;Estimado;2266 -  - PR -  - Deputado Federal / 22123 - FLAVIEL DOS SANTOS - AL - Deputado Estadual;

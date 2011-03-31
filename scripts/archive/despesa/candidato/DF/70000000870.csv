@@ -1,5 +1,13 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.197/0001-84;21/09/2010;43001785073;R$ 5.000,00;Cheque;MOACIR BUENO ARRUDA;433;Senador;PV;DF;
-ESCAE CONSULTORES ASSOCIADOS LTDA;26.429.597/0001-88;11/08/2010;43001785071;R$ 6.000,00;Cheque;MOACIR BUENO ARRUDA;433;Senador;PV;DF;
-LORENO ANTONIO SOSTENES;163.883.729-53;19/08/2010;43001785072;R$ 2.000,00;Cheque;MOACIR BUENO ARRUDA;433;Senador;PV;DF;
-MOACIR BUENO ARRUDA;696.278.278-00;02/09/2010;43001785074;R$ 640,00;Depósito em espécie;MOACIR BUENO ARRUDA;433;Senador;PV;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+COPIADORA BRASÍLIA IMPRESSÕES;03.621.399/0001-16;18/08/2010;       Publicidade por placas, estandartes e faixas;R$ 140,00;Cheque; -  -  / 433 - MOACIR BUENO ARRUDA - DF - Senador;
+DANIELLY DE SOUZA;046.227.051-33;30/09/2010;       Serviços prestados por terceiros;R$ 500,00;Cheque; -  -  / 433 - MOACIR BUENO ARRUDA - DF - Senador;
+FERNANDO MESQUITA;019.833.201-70;30/09/2010;       Criação e inclusão de páginas na internet;R$ 800,00;Cheque; -  -  / 433 - MOACIR BUENO ARRUDA - DF - Senador;
+FOMULÁRIOS CONTÍNUOS E EDITORA OLIVIERI LTDA;04.393.822/0001-30;27/08/2010;       Publicidade por materiais impressos;R$ 2.400,00;Cheque; -  -  / 433 - MOACIR BUENO ARRUDA - DF - Senador;
+FOMULÁRIOS CONTÍNUOS E EDITORA OLIVIERI LTDA;04.393.822/0001-30;16/08/2010;       Publicidade por materiais impressos;R$ 3.200,00;Cheque; -  -  / 433 - MOACIR BUENO ARRUDA - DF - Senador;
+HITOSHI MATSUZAKI;028.804.231-04;01/10/2010;       Serviços prestados por terceiros;R$ 695,50;Cheque; -  -  / 433 - MOACIR BUENO ARRUDA - DF - Senador;
+HITOSHI MATSUZAKI;028.804.231-04;30/09/2010;       Serviços prestados por terceiros;R$ 2.000,00;Cheque; -  -  / 433 - MOACIR BUENO ARRUDA - DF - Senador;
+IMPRESSIONART COMUNICAÇÃO VISUAL;02.470.071/0001-83;19/08/2010;       Publicidade por materiais impressos;R$ 2.050,00;Cheque; -  -  / 433 - MOACIR BUENO ARRUDA - DF - Senador;
+J.E SILVA MADEIRAS;10.912.521/0001-79;16/08/2010;       Publicidade por placas, estandartes e faixas;R$ 350,00;Cheque; -  -  / 433 - MOACIR BUENO ARRUDA - DF - Senador;
+QUALY COMUNICAÇÃO VISUAL;10.370.753/0001-42;23/09/2010;       Publicidade por placas, estandartes e faixas;R$ 1.000,00;Cheque; -  -  / 433 - MOACIR BUENO ARRUDA - DF - Senador;
+RONIE-VON VIEIRA DAMASCENA;519.992.421-49;26/08/2010;       Produção de jingles, vinhetas e slogans;R$ 500,00;Cheque; -  -  / 433 - MOACIR BUENO ARRUDA - DF - Senador;
+;;06/10/2010;       Encargos financeiros e taxas bancárias;R$ 4,50;Débito em conta; -  -  / 433 - MOACIR BUENO ARRUDA - DF - Senador;

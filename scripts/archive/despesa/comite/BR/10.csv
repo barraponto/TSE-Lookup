@@ -1,5 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
-AGROPECUÁRIA QUANTUM LTDA.;02.941.136/0001-21;30/09/2010;12000000003;R$ 100.000,00;Estimado;Comitê Financeiro Nacional para Presidente da República;PDT;BR;
-BRASKEN S/A;42.150.391/0001-70;15/09/2010;12000000002;R$ 30.000,00;Transferência eletrônica;Comitê Financeiro Nacional para Presidente da República;PDT;BR;
-BRASKEN S/A;42.150.391/0001-70;19/08/2010;12000000001;R$ 50.000,00;Transferência eletrônica;Comitê Financeiro Nacional para Presidente da República;PDT;BR;
-Diretório Nacional;00.719.575/0001-69;03/09/2010;12000000004;R$ 82.000,00;Cheque;Comitê Financeiro Nacional para Presidente da República;PDT;BR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AGROPECUÁRIA QUANTUM LTDA.;02.941.136/0001-21;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100.000,00;Estimado; -  -  / Comitê Financeiro Nacional para Presidente da República - PDT - BR;
+Comitê Financeiro Nacional para Presidente da República - PDT;12.127.663/0001-50;13/10/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 21.525,00;Cheque;Comitê Financeiro Único - PDT - RJ / Comitê Financeiro Nacional para Presidente da República - PDT - BR;
+Comitê Financeiro Nacional para Presidente da República - PDT;12.127.663/0001-50;21/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 30.000,00;Cheque;12345 - PAULO SERGIO RAMOS BARBOSA - PDT - RJ - Deputado Estadual / Comitê Financeiro Nacional para Presidente da República - PDT - BR;
+Comitê Financeiro Nacional para Presidente da República - PDT;12.127.663/0001-50;25/08/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 50.000,00;Cheque;12345 - PAULO SERGIO RAMOS BARBOSA - PDT - RJ - Deputado Estadual / Comitê Financeiro Nacional para Presidente da República - PDT - BR;
+Comitê Financeiro Nacional para Presidente da República - PDT;12.127.663/0001-50;22/10/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 50.000,00;Cheque;Comitê Financeiro Único - PDT - RJ / Comitê Financeiro Nacional para Presidente da República - PDT - BR;
+UOL SEGURO INTERNET;08.561.701/0001-01;03/09/2010;       Diversas a especificar;R$ 3.001,00;Cheque; -  -  / Comitê Financeiro Nacional para Presidente da República - PDT - BR;
+UOL SEGURO INTERNET;08.561.701/0001-01;03/09/2010;       Diversas a especificar;R$ 3.001,00;Cheque; -  -  / Comitê Financeiro Nacional para Presidente da República - PDT - BR;

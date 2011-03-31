@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELMO THIAGO ARAUJO OLIVEIRA;830.029.607-72;23/09/2010;23000092201;R$ 250,00;Estimado;VALDIR RIBEIRO;2322;Deputado Federal;PPS;ES;
-ERON DOMINGOSNUNES;048.712.546-07;30/09/2010;23000092203;R$ 2.000,00;Estimado;VALDIR RIBEIRO;2322;Deputado Federal;PPS;ES;
-RONALDO MOREIRA DE SOUZA (RONALDO SOM);101.005.027-33;30/09/2010;23000092204;R$ 325,00;Estimado;VALDIR RIBEIRO;2322;Deputado Federal;PPS;ES;
-TEREZA CRISTINA MARTINHO MOREIRA;094.216.907-70;24/09/2010;23000092202;R$ 100,00;Estimado;VALDIR RIBEIRO;2322;Deputado Federal;PPS;ES;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELMO THIAGO ARAUJO OLIVEIRA;830.029.607-72;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado; -  -  / 2322 - VALDIR RIBEIRO - ES - Deputado Federal;
+ERON DOMINGOSNUNES;048.712.546-07;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado; -  -  / 2322 - VALDIR RIBEIRO - ES - Deputado Federal;
+RONALDO MOREIRA DE SOUZA (RONALDO SOM);101.005.027-33;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 325,00;Estimado; -  -  / 2322 - VALDIR RIBEIRO - ES - Deputado Federal;
+TEREZA CRISTINA MARTINHO MOREIRA;094.216.907-70;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado; -  -  / 2322 - VALDIR RIBEIRO - ES - Deputado Federal;

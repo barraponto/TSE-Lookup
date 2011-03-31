@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-SANDRO ANTONIO SCODRO;12.167.331/0001-08;30/09/2010;22000041004;R$ 37,00;Estimado;ABRAÃO NAVES DA SILVA FILHO;22555;Deputado Estadual;PR;GO;
-SANDRO ANTONIO SCODRO;12.167.331/0001-08;04/10/2010;22000041006;R$ 188,00;Estimado;ABRAÃO NAVES DA SILVA FILHO;22555;Deputado Estadual;PR;GO;
-SANDRO ANTONIO SCODRO;12.167.331/0001-08;04/10/2010;22000041005;R$ 45,00;Estimado;ABRAÃO NAVES DA SILVA FILHO;22555;Deputado Estadual;PR;GO;
-VANDERLAN VIEIRA CARDOSO;12.198.568/0001-48;02/10/2010;22000041003;R$ 700,00;Estimado;ABRAÃO NAVES DA SILVA FILHO;22555;Deputado Estadual;PR;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+SANDRO ANTONIO SCODRO;12.167.331/0001-08;04/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 188,00;Estimado;2233 -  - PR -  - Deputado Federal / 22555 - ABRAÃO NAVES DA SILVA FILHO - GO - Deputado Estadual;
+SANDRO ANTONIO SCODRO;12.167.331/0001-08;04/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 45,00;Estimado;2233 -  - PR -  - Deputado Federal / 22555 - ABRAÃO NAVES DA SILVA FILHO - GO - Deputado Estadual;
+SANDRO ANTONIO SCODRO;12.167.331/0001-08;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 37,00;Estimado;2233 -  - PR -  - Deputado Federal / 22555 - ABRAÃO NAVES DA SILVA FILHO - GO - Deputado Estadual;
+VANDERLAN VIEIRA CARDOSO;12.198.568/0001-48;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 700,00;Estimado;22 -  - PR -  - Governador / 22555 - ABRAÃO NAVES DA SILVA FILHO - GO - Deputado Estadual;

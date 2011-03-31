@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.217.560/0001-81;02/08/2010;23000052504;R$ 1.800,00;Estimado;JOSE HAMILTON RIBEIRO PINHEIRO;2317;Deputado Federal;PPS;AM;
-Comitê Financeiro Único;12.217.560/0001-81;02/08/2010;23000052505;R$ 3.501,00;Estimado;JOSE HAMILTON RIBEIRO PINHEIRO;2317;Deputado Federal;PPS;AM;
-CYNTHIA MARIA RIBEIRO PINHEIRO;437.274.922-87;01/08/2010;23000052502;R$ 1.020,00;Estimado;JOSE HAMILTON RIBEIRO PINHEIRO;2317;Deputado Federal;PPS;AM;
-JAQUELINE SILVA DE SOUZA PINHEIRO;437.094.512-72;01/08/2010;23000052503;R$ 1.020,00;Estimado;JOSE HAMILTON RIBEIRO PINHEIRO;2317;Deputado Federal;PPS;AM;
-JAQUELINE SILVA DE SOUZA PINHEIRO;437.094.512-72;01/08/2010;23000052501;R$ 6.000,00;Estimado;JOSE HAMILTON RIBEIRO PINHEIRO;2317;Deputado Federal;PPS;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.217.560/0001-81;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.501,00;Estimado;Comitê Financeiro Único - PPS -  / 2317 - JOSE HAMILTON RIBEIRO PINHEIRO - AM - Deputado Federal;
+Comitê Financeiro Único;12.217.560/0001-81;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.800,00;Estimado;Comitê Financeiro Único - PPS -  / 2317 - JOSE HAMILTON RIBEIRO PINHEIRO - AM - Deputado Federal;
+CYNTHIA MARIA RIBEIRO PINHEIRO;437.274.922-87;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.020,00;Estimado; -  -  / 2317 - JOSE HAMILTON RIBEIRO PINHEIRO - AM - Deputado Federal;
+JAQUELINE SILVA DE SOUZA PINHEIRO;437.094.512-72;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 6.000,00;Estimado; -  -  / 2317 - JOSE HAMILTON RIBEIRO PINHEIRO - AM - Deputado Federal;
+JAQUELINE SILVA DE SOUZA PINHEIRO;437.094.512-72;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.020,00;Estimado; -  -  / 2317 - JOSE HAMILTON RIBEIRO PINHEIRO - AM - Deputado Federal;

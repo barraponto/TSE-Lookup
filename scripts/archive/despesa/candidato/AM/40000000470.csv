@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;04.160.131/0001-97;13/08/2010;44000000802;R$ 300,00;Estimado;GILBERTO HILARIO DA SILVA;44345;Deputado Estadual;PRP;AM;
-Diretório Estadual/Distrital;04.160.131/0001-97;30/09/2010;44000000803;R$ 200,00;Estimado;GILBERTO HILARIO DA SILVA;44345;Deputado Estadual;PRP;AM;
-Diretório Estadual/Distrital;04.160.131/0001-97;21/09/2010;44000000801;R$ 1.125,00;Cheque;GILBERTO HILARIO DA SILVA;44345;Deputado Estadual;PRP;AM;
-GILBERTO HILARIO DA SILVA;159.775.952-04;19/08/2010;44000000804;R$ 40,00;Depósito em espécie;GILBERTO HILARIO DA SILVA;44345;Deputado Estadual;PRP;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO OZIVAL;04.643.904/0002-77;23/09/2010;       Combustíveis e lubrificantes;R$ 20,00;Cheque; -  -  / 44345 - GILBERTO HILARIO DA SILVA - AM - Deputado Estadual;
+Diretório Estadual/Distrital;04.160.131/0001-97;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;Direção Estadual/Distrital - PMDB -  / 44345 - GILBERTO HILARIO DA SILVA - AM - Deputado Estadual;
+Diretório Estadual/Distrital;04.160.131/0001-97;13/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Direção Estadual/Distrital - PMDB -  / 44345 - GILBERTO HILARIO DA SILVA - AM - Deputado Estadual;
+L P DE ANDRADE COMERCIAL;02.765.976/0001-80;14/09/2010;       Publicidade por materiais impressos;R$ 1.125,00;Cheque; -  -  / 44345 - GILBERTO HILARIO DA SILVA - AM - Deputado Estadual;
+TRADING DERIVADOS DE PETROLEO LTDA - POSTO 700;04.173.910/0001-27;23/09/2010;       Combustíveis e lubrificantes;R$ 20,00;Cheque; -  -  / 44345 - GILBERTO HILARIO DA SILVA - AM - Deputado Estadual;

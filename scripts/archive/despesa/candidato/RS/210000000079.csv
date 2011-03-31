@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-GUILHERME RECHDEN CIARLO;009.846.930-41;15/07/2010;50000476801;R$ 900,00;Estimado;PEDRO GERALDO DE FREITAS CIARLO;50111;Deputado Estadual;PSOL;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GUILHERME RECHDEN CIARLO;009.846.930-41;15/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 900,00;Estimado; -  -  / 50111 - PEDRO GERALDO DE FREITAS CIARLO - RS - Deputado Estadual;

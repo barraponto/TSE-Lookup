@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-AUGUSTINHO SCHEFFER DA ROSA;319.596.360-49;06/08/2010;50000175631;R$ 1.020,00;Depósito em espécie;AUGUSTINHO SCHEFFER DA ROSA;5021;Deputado Federal;PSOL;GO;
-WASHINGTON FRAGA GUIMARAES;12.174.176/0001-49;23/08/2010;50000175632;R$ 80,00;Estimado;AUGUSTINHO SCHEFFER DA ROSA;5021;Deputado Federal;PSOL;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+VERA & FRANCILIA COMERCIO E INDUSTRIA DE CARIMBOS LTDA;06.227.397/0001-35;06/08/2010;       Publicidade por materiais impressos;R$ 1.000,00;Transferência eletrônica; -  -  / 5021 - AUGUSTINHO SCHEFFER DA ROSA - GO - Deputado Federal;
+VERA & FRANCILIA COMERCIO E INDUSTRIA DE CARIMBOS LTDA;06.227.397/0001-35;26/09/2010;       Publicidade por materiais impressos;R$ 20,00;Cheque; -  -  / 5021 - AUGUSTINHO SCHEFFER DA ROSA - GO - Deputado Federal;
+WASHINGTON FRAGA GUIMARAES;12.174.176/0001-49;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 80,00;Estimado;50 -  - PSOL -  - Governador / 5021 - AUGUSTINHO SCHEFFER DA ROSA - GO - Deputado Federal;

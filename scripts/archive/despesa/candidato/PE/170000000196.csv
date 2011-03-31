@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Nacional;29.549.433/0001-82;20/08/2010;33000113705;R$ 75,00;Estimado;VERONICA DA SILVA DIAS;3366;Deputado Federal;PMN;PE;
-Diretório Nacional;29.549.433/0001-82;18/08/2010;33000113704;R$ 750,00;Estimado;VERONICA DA SILVA DIAS;3366;Deputado Federal;PMN;PE;
-Diretório Nacional;29.549.433/0001-82;30/09/2010;33000113706;R$ 6.277,78;Estimado;VERONICA DA SILVA DIAS;3366;Deputado Federal;PMN;PE;
-EDUARDO BENTO DIAS;023.599.074-41;06/08/2010;33000113702;R$ 25,00;Estimado;VERONICA DA SILVA DIAS;3366;Deputado Federal;PMN;PE;
-EDUARDO BENTO DIAS;023.599.074-41;06/08/2010;33000113701;R$ 57,50;Estimado;VERONICA DA SILVA DIAS;3366;Deputado Federal;PMN;PE;
-EDUARDO BENTO DIAS;023.599.074-41;06/08/2010;33000113703;R$ 32,50;Estimado;VERONICA DA SILVA DIAS;3366;Deputado Federal;PMN;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Nacional;29.549.433/0001-82;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 6.277,78;Estimado;Direção Nacional - PMN -  / 3366 - VERONICA DA SILVA DIAS - PE - Deputado Federal;
+Diretório Nacional;29.549.433/0001-82;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 750,00;Estimado;Direção Nacional - PMN -  / 3366 - VERONICA DA SILVA DIAS - PE - Deputado Federal;
+Diretório Nacional;29.549.433/0001-82;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 75,00;Estimado;Direção Nacional - PMN -  / 3366 - VERONICA DA SILVA DIAS - PE - Deputado Federal;
+EDUARDO BENTO DIAS;023.599.074-41;06/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 25,00;Estimado; -  -  / 3366 - VERONICA DA SILVA DIAS - PE - Deputado Federal;
+EDUARDO BENTO DIAS;023.599.074-41;06/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 57,50;Estimado; -  -  / 3366 - VERONICA DA SILVA DIAS - PE - Deputado Federal;
+EDUARDO BENTO DIAS;023.599.074-41;06/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 32,50;Estimado; -  -  / 3366 - VERONICA DA SILVA DIAS - PE - Deputado Federal;

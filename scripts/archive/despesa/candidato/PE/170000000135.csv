@@ -1,5 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;09.057.316/0001-94;06/09/2010;25000543687;R$ 3.986,50;Transferência eletrônica;JAMERSON ANDRÉ BERMUDES;25789;Deputado Estadual;DEM;PE;
-Diretório Estadual/Distrital;09.057.316/0001-94;27/09/2010;25000543689;R$ 4.000,00;Transferência eletrônica;JAMERSON ANDRÉ BERMUDES;25789;Deputado Estadual;DEM;PE;
-Diretório Estadual/Distrital;09.057.316/0001-94;06/09/2010;25000543688;R$ 4.000,00;Transferência eletrônica;JAMERSON ANDRÉ BERMUDES;25789;Deputado Estadual;DEM;PE;
-JOSE MENDONCA BEZERRA FILHO;12.176.573/0001-50;10/08/2010;25000543686;R$ 3.000,00;Transferência eletrônica;JAMERSON ANDRÉ BERMUDES;25789;Deputado Estadual;DEM;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALBÉRICO DA SILVA FARIAS;658.470.244-87;11/08/2010;       Publicidade por carros de som;R$ 3.000,00;Não informado; -  -  / 25789 - JAMERSON ANDRÉ BERMUDES - PE - Deputado Estadual;
+ALBUQUERQUE PNEUS LTDA;11.117.785/0005-27;28/09/2010;       Combustíveis e lubrificantes;R$ 1.997,00;Não informado; -  -  / 25789 - JAMERSON ANDRÉ BERMUDES - PE - Deputado Estadual;
+MASTERGÁS - VIEIRA E RABELO LTDA;05.822.300/0001-70;28/09/2010;       Combustíveis e lubrificantes;R$ 2.000,00;Não informado; -  -  / 25789 - JAMERSON ANDRÉ BERMUDES - PE - Deputado Estadual;
+REGINALDO MONTEIRO DA CRUZ M. JÚNIOR;879.777.104-04;09/09/2010;       Serviços prestados por terceiros;R$ 4.000,00;Não informado; -  -  / 25789 - JAMERSON ANDRÉ BERMUDES - PE - Deputado Estadual;
+VALDECI PAULO DA SILVA;611.895.374-00;13/09/2010;       Publicidade por carros de som;R$ 3.980,00;Não informado; -  -  / 25789 - JAMERSON ANDRÉ BERMUDES - PE - Deputado Estadual;
+;;27/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 25789 - JAMERSON ANDRÉ BERMUDES - PE - Deputado Estadual;
+;;06/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 25789 - JAMERSON ANDRÉ BERMUDES - PE - Deputado Estadual;
+;;13/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 25789 - JAMERSON ANDRÉ BERMUDES - PE - Deputado Estadual;

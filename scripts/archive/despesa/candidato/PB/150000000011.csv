@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ESDRAS VIEIRA DA SILVA;123.411.504-20;13/08/2010;21000011359;R$ 610,00;Depósito em espécie;ESDRAS VIEIRA DA SILVA;21777;Deputado Estadual;PCB;PB;
-JOSÉ FERNANDO COSTA CARVALHO;12.206.243/0001-60;19/08/2010;21000011360;R$ 433,80;Estimado;ESDRAS VIEIRA DA SILVA;21777;Deputado Estadual;PCB;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRÁFICA J B S LTDA;08.967.907/0001-36;30/08/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 21777 - ESDRAS VIEIRA DA SILVA - PB - Deputado Estadual;
+JOSÉ FERNANDO COSTA CARVALHO;12.206.243/0001-60;19/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 433,80;Estimado;1551 -  - PMDB -  - Deputado Federal / 21777 - ESDRAS VIEIRA DA SILVA - PB - Deputado Estadual;

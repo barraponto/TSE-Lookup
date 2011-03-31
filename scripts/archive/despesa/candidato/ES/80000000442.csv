@@ -1,4 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FRANZ TRISTÃO DE ALMEIDA;860.505.327-53;22/09/2010;33000094896;R$ 2.000,00;Depósito em espécie;FRANZ TRISTAO DE ALMEIDA;3311;Deputado Federal;PMN;ES;
-FRANZ TRISTÃO DE ALMEIDA;860.505.327-53;08/10/2010;33000094897;R$ 400,00;Depósito em espécie;FRANZ TRISTAO DE ALMEIDA;3311;Deputado Federal;PMN;ES;
-ROBSONROGERIOCARIOCA TRITÃO;471.042.017-34;02/10/2010;33000094898;R$ 3.000,00;Estimado;FRANZ TRISTAO DE ALMEIDA;3311;Deputado Federal;PMN;ES;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BRAGA GRAFICA E CARIMBO (LECI DE ALMEIDA MARCHIORI - ME);07.587.226/0001-80;10/09/2010;       Publicidade por materiais impressos;R$ 1.050,00;Cheque; -  -  / 3311 - FRANZ TRISTAO DE ALMEIDA - ES - Deputado Federal;
+DIRECIONAL MULTI PROPAGANDA LTDA - ME;07.296.852/0001-17;25/09/2010;       Publicidade por placas, estandartes e faixas;R$ 300,00;Cheque; -  -  / 3311 - FRANZ TRISTAO DE ALMEIDA - ES - Deputado Federal;
+JOSE CARLOS MOREIRA GOMES (JORNAL IMPRENSA LIVRE);07.823.054/0001-04;24/09/2010;       Publicidade por jornais e revistas;R$ 400,00;Cheque; -  -  / 3311 - FRANZ TRISTAO DE ALMEIDA - ES - Deputado Federal;
+ROBERTO CARLOS CALMON VINTENA - ME;06.096.917/0001-18;09/09/2010;       Publicidade por carros de som;R$ 650,00;Cheque; -  -  / 3311 - FRANZ TRISTAO DE ALMEIDA - ES - Deputado Federal;
+ROBSONROGERIOCARIOCA TRITÃO;471.042.017-34;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.000,00;Estimado; -  -  / 3311 - FRANZ TRISTAO DE ALMEIDA - ES - Deputado Federal;

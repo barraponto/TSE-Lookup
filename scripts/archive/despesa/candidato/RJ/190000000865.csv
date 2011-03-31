@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Nacional;12.205.322/0001-56;29/09/2010;12001062641;R$ 3.639,86;Estimado;MARCUS AUGUSTUS FUSCO FERREIRA;1235;Deputado Federal;PDT;RJ;
-DOMINGOS BRAZÃO;12.199.922/0001-59;01/10/2010;12001062643;R$ 140,00;Estimado;MARCUS AUGUSTUS FUSCO FERREIRA;1235;Deputado Federal;PDT;RJ;
-DOMINGOS BRAZÃO;12.199.922/0001-59;01/10/2010;12001062644;R$ 180,00;Estimado;MARCUS AUGUSTUS FUSCO FERREIRA;1235;Deputado Federal;PDT;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Nacional;12.205.322/0001-56;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.639,86;Estimado;Direção Nacional - PDT -  / 1235 - MARCUS AUGUSTUS FUSCO FERREIRA - RJ - Deputado Federal;
+DOMINGOS BRAZÃO;12.199.922/0001-59;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 140,00;Estimado;15101 -  - PMDB -  - Deputado Estadual / 1235 - MARCUS AUGUSTUS FUSCO FERREIRA - RJ - Deputado Federal;
+DOMINGOS BRAZÃO;12.199.922/0001-59;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 180,00;Estimado;15101 -  - PMDB -  - Deputado Estadual / 1235 - MARCUS AUGUSTUS FUSCO FERREIRA - RJ - Deputado Federal;

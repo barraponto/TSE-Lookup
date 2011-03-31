@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.154.856/0001-09;18/08/2010;50000391461;R$ 125,43;Estimado;WENDERSON DIAS RIBEIRO;5022;Deputado Federal;PSOL;RJ;
-Diretório Estadual/Distrital;12.154.856/0001-09;29/09/2010;50000391462;R$ 62,50;Estimado;WENDERSON DIAS RIBEIRO;5022;Deputado Federal;PSOL;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.154.856/0001-09;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 62,50;Estimado;Direção Estadual/Distrital - PSOL -  / 5022 - WENDERSON DIAS RIBEIRO - RJ - Deputado Federal;
+Diretório Estadual/Distrital;12.154.856/0001-09;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 125,43;Estimado;Direção Estadual/Distrital - PSOL -  / 5022 - WENDERSON DIAS RIBEIRO - RJ - Deputado Federal;

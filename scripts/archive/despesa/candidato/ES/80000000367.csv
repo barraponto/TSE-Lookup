@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LUIZ PAULO VELOZO LUCAS;12.179.441/0001-81;01/10/2010;14000001753;R$ 2.600,00;Estimado;RENATO PEDRINI;14999;Deputado Estadual;PTB;ES;
-MAX FREITAS MAURO FILHO;12.191.457/0001-00;01/10/2010;14000001754;R$ 60,00;Estimado;RENATO PEDRINI;14999;Deputado Estadual;PTB;ES;
-MAX FREITAS MAURO FILHO;12.191.457/0001-00;03/09/2010;14000001752;R$ 225,00;Estimado;RENATO PEDRINI;14999;Deputado Estadual;PTB;ES;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+LUIZ PAULO VELOZO LUCAS;12.179.441/0001-81;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.600,00;Estimado;45 -  - PSDB -  - Governador / 14999 - RENATO PEDRINI - ES - Deputado Estadual;
+MAX FREITAS MAURO FILHO;12.191.457/0001-00;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 60,00;Estimado;1400 -  - PTB -  - Deputado Federal / 14999 - RENATO PEDRINI - ES - Deputado Estadual;
+MAX FREITAS MAURO FILHO;12.191.457/0001-00;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 225,00;Estimado;1400 -  - PTB -  - Deputado Federal / 14999 - RENATO PEDRINI - ES - Deputado Estadual;

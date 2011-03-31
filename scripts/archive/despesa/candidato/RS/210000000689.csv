@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;87.582.714/0001-33;30/07/2010;15000202551;R$ 18,07;Estimado;SÉRGIO MARQUES SIQUEIRA;1560;Deputado Federal;PMDB;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;87.582.714/0001-33;30/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 18,07;Estimado;Direção Estadual/Distrital - PMDB -  / 1560 - SÉRGIO MARQUES SIQUEIRA - RS - Deputado Federal;

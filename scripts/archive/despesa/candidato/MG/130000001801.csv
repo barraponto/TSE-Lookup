@@ -1,6 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MANOEL CIPRIANO OLIVEIRA;244.783.692-91;11/08/2010;50000233801;R$ 150,00;Depósito em espécie;MANOEL CIPRIANO OLIVEIRA;50696;Deputado Estadual;PSOL;MG;
-MANOEL CIPRIANO OLIVEIRA;244.783.692-91;24/08/2010;50000233802;R$ 300,00;Transferência eletrônica;MANOEL CIPRIANO OLIVEIRA;50696;Deputado Estadual;PSOL;MG;
-MANOEL CIPRIANO OLIVEIRA;244.783.692-91;28/09/2010;50000233805;R$ 100,00;Transferência eletrônica;MANOEL CIPRIANO OLIVEIRA;50696;Deputado Estadual;PSOL;MG;
-MANOEL CIPRIANO OLIVEIRA;244.783.692-91;22/09/2010;50000233804;R$ 50,00;Depósito em espécie;MANOEL CIPRIANO OLIVEIRA;50696;Deputado Estadual;PSOL;MG;
-MANOEL CIPRIANO OLIVEIRA;244.783.692-91;08/09/2010;50000233803;R$ 250,00;Depósito em espécie;MANOEL CIPRIANO OLIVEIRA;50696;Deputado Estadual;PSOL;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BRAZÃO CÓPIAS E SERVIÇOS LTDA;10.391.299/0001-06;14/08/2010;       Publicidade por materiais impressos;R$ 210,00;Cheque; -  -  / 50696 - MANOEL CIPRIANO OLIVEIRA - MG - Deputado Estadual;
+BRAZÃO CÓPIAS E SERVIÇOS LTDA;10.391.299/0001-06;30/09/2010;       Publicidade por materiais impressos;R$ 60,00;Cheque; -  -  / 50696 - MANOEL CIPRIANO OLIVEIRA - MG - Deputado Estadual;
+EDITORA GRÁFICA MOTA LTDA;02.893.308/0001-39;11/09/2010;       Publicidade por materiais impressos;R$ 450,00;Cheque; -  -  / 50696 - MANOEL CIPRIANO OLIVEIRA - MG - Deputado Estadual;
+EDITORA GRÁFICA MOTA LTDA;02.893.308/0001-39;29/09/2010;       Publicidade por materiais impressos;R$ 120,00;Cheque; -  -  / 50696 - MANOEL CIPRIANO OLIVEIRA - MG - Deputado Estadual;

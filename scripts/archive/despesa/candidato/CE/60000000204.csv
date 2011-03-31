@@ -1,4 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-BRENO PESSOA FORMIGHIERI;749.215.683-91;10/08/2010;25000534201;R$ 1.200,00;Depósito em espécie;BRENO PESSOA FORMIGHIERI;25456;Deputado Estadual;DEM;CE;
-BRENO PESSOA FORMIGHIERI;749.215.683-91;20/08/2010;25000534202;R$ 3.000,00;Depósito em espécie;BRENO PESSOA FORMIGHIERI;25456;Deputado Estadual;DEM;CE;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.205.262/0001-71;18/09/2010;25000534203;R$ 345,00;Estimado;BRENO PESSOA FORMIGHIERI;25456;Deputado Estadual;DEM;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.205.262/0001-71;18/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 345,00;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual - DEM -  / 25456 - BRENO PESSOA FORMIGHIERI - CE - Deputado Estadual;
+STILO GRAF;11.506.556/0001-70;06/08/2010;       Publicidade por materiais impressos;R$ 1.145,00;Cheque; -  -  / 25456 - BRENO PESSOA FORMIGHIERI - CE - Deputado Estadual;
+STILO GRAF;11.506.556/0001-70;30/08/2010;       Publicidade por materiais impressos;R$ 550,00;Cheque; -  -  / 25456 - BRENO PESSOA FORMIGHIERI - CE - Deputado Estadual;
+STILO GRAF;11.506.556/0001-70;13/09/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 25456 - BRENO PESSOA FORMIGHIERI - CE - Deputado Estadual;
+STILO GRAF;11.506.556/0001-70;01/09/2010;       Publicidade por materiais impressos;R$ 930,00;Cheque; -  -  / 25456 - BRENO PESSOA FORMIGHIERI - CE - Deputado Estadual;
+STILO GRAF;11.506.556/0001-70;20/08/2010;       Publicidade por materiais impressos;R$ 920,00;Cheque; -  -  / 25456 - BRENO PESSOA FORMIGHIERI - CE - Deputado Estadual;
+;;10/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 25456 - BRENO PESSOA FORMIGHIERI - CE - Deputado Estadual;
+;;22/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 25456 - BRENO PESSOA FORMIGHIERI - CE - Deputado Estadual;
+;;22/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 25456 - BRENO PESSOA FORMIGHIERI - CE - Deputado Estadual;
+;;22/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 25456 - BRENO PESSOA FORMIGHIERI - CE - Deputado Estadual;

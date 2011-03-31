@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;84.638.196/0001-34;06/09/2010;65000280146;R$ 275,00;Estimado;RAIMUNDO SOCORRO LOPES LAMARAO;65102;Deputado Estadual;PC do B;RO;
-Diretório Estadual/Distrital;84.638.196/0001-34;14/09/2010;65000280145;R$ 247,50;Estimado;RAIMUNDO SOCORRO LOPES LAMARAO;65102;Deputado Estadual;PC do B;RO;
-GRAFICA ALFA;01.929.497/0001-90;26/08/2010;65000280141;R$ 50,00;Estimado;RAIMUNDO SOCORRO LOPES LAMARAO;65102;Deputado Estadual;PC do B;RO;
-GRAMIDIA LTDA;05.054.421/0001-19;24/09/2010;65000280143;R$ 240,00;Estimado;RAIMUNDO SOCORRO LOPES LAMARAO;65102;Deputado Estadual;PC do B;RO;
-NEYSON PINHEIRO FREIRE;635.013.172-04;09/09/2010;65000280142;R$ 2.400,00;Depósito em espécie;RAIMUNDO SOCORRO LOPES LAMARAO;65102;Deputado Estadual;PC do B;RO;
-RAIMUNDO SOCORRO LOPES LAMARAO;317.054.132-34;25/09/2010;65000280144;R$ 20,00;Depósito em espécie;RAIMUNDO SOCORRO LOPES LAMARAO;65102;Deputado Estadual;PC do B;RO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;84.638.196/0001-34;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 275,00;Estimado;Direção Estadual/Distrital - PMDB -  / 65102 - RAIMUNDO SOCORRO LOPES LAMARAO - RO - Deputado Estadual;
+Diretório Estadual/Distrital;84.638.196/0001-34;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 247,50;Estimado;Direção Estadual/Distrital - PMDB -  / 65102 - RAIMUNDO SOCORRO LOPES LAMARAO - RO - Deputado Estadual;
+GRAFICA ALFA;01.929.497/0001-90;26/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 50,00;Estimado; -  -  / 65102 - RAIMUNDO SOCORRO LOPES LAMARAO - RO - Deputado Estadual;
+GRAMIDIA LTDA;05.054.421/0001-19;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 240,00;Estimado; -  -  / 65102 - RAIMUNDO SOCORRO LOPES LAMARAO - RO - Deputado Estadual;
+GRAMIDIA LTDA;05.054.421/0001-19;14/09/2010;       Publicidade por materiais impressos;R$ 2.400,00;Cheque; -  -  / 65102 - RAIMUNDO SOCORRO LOPES LAMARAO - RO - Deputado Estadual;
+PCDOB;22.819.890/0001-09;22/10/2010;       Diversas a especificar;R$ 20,00;Transferência eletrônica; -  -  / 65102 - RAIMUNDO SOCORRO LOPES LAMARAO - RO - Deputado Estadual;

@@ -1,4 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.221.845/0001-96;09/09/2010;45000420796;R$ 1.300,00;Estimado;REINALDO COLARES SIQUEIRA;45053;Deputado Distrital;PSDB;DF;
-MARIA DARCI COLARES SIQUEIRA;041.188.632-00;09/09/2010;45000420797;R$ 390,00;Depósito em espécie;REINALDO COLARES SIQUEIRA;45053;Deputado Distrital;PSDB;DF;
-MARIA DE LOURDES ABADIA;12.167.909/0001-18;09/09/2010;45000420798;R$ 71,66;Estimado;REINALDO COLARES SIQUEIRA;45053;Deputado Distrital;PSDB;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADEMIR BEZERRA SANTANA ME;04.517.490/0001-59;10/09/2010;       Publicidade por placas, estandartes e faixas;R$ 335,00;Cheque; -  -  / 45053 - REINALDO COLARES SIQUEIRA - DF - Deputado Distrital;
+C & C CONVENIENCIA SHO, COM DE VARIEDADES LTDA ME;10.560.698/0001-53;03/09/2010;       Publicidade por materiais impressos;R$ 150,00;Cheque; -  -  / 45053 - REINALDO COLARES SIQUEIRA - DF - Deputado Distrital;
+Comitê Financeiro Único;12.221.845/0001-96;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.300,00;Estimado;Comitê Financeiro Único - PSDB -  / 45053 - REINALDO COLARES SIQUEIRA - DF - Deputado Distrital;
+FUSION COMUNICACAO VISUAL LTDA ME;10.940.742/0001-50;01/09/2010;       Publicidade por materiais impressos;R$ 1.540,00;Cheque; -  -  / 45053 - REINALDO COLARES SIQUEIRA - DF - Deputado Distrital;
+MARIA DE LOURDES ABADIA;12.167.909/0001-18;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 71,66;Estimado;456 -  - PSDB -  - Senador / 45053 - REINALDO COLARES SIQUEIRA - DF - Deputado Distrital;
+PANIFICADORA E CONFEITARIA VALLY & HOLLYWOOD LTDA ME;09.636.311/0001-16;01/09/2010;       Alimentação;R$ 54,00;Cheque; -  -  / 45053 - REINALDO COLARES SIQUEIRA - DF - Deputado Distrital;
+THIAGO NASCIMENTO;040.966.591-69;31/08/2010;       Serviços prestados por terceiros;R$ 157,40;Cheque; -  -  / 45053 - REINALDO COLARES SIQUEIRA - DF - Deputado Distrital;
+45053 - REINALDO COLARES SIQUEIRA - DEPUTADO DISTRITAL;12.203.916/0001-28;27/10/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 187,60;Depósito em espécie;Direção Estadual/Distrital - PSDB - DF / 45053 - REINALDO COLARES SIQUEIRA - DF - Deputado Distrital;

@@ -1,6 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANA JULIA CAREPA;12.171.430/0001-55;28/09/2010;11000169902;R$ 1.750,00;Estimado;REGINALDO RABELO;11113;Deputado Estadual;PP;PA;
-GERSON DOS SANTOS PERES;12.167.168/0001-75;22/09/2010;11000169904;R$ 2.600,00;Estimado;REGINALDO RABELO;11113;Deputado Estadual;PP;PA;
-REGINALDO RABELO;023.163.152-91;03/09/2010;11000169903;R$ 1.000,00;Depósito em espécie;REGINALDO RABELO;11113;Deputado Estadual;PP;PA;
-REGINALDO RABELO;023.163.152-91;27/07/2010;11000169901;R$ 2.300,00;Depósito em espécie;REGINALDO RABELO;11113;Deputado Estadual;PP;PA;
-REGINALDO RABELO;023.163.152-91;20/09/2010;11000169905;R$ 2.000,00;Depósito em espécie;REGINALDO RABELO;11113;Deputado Estadual;PP;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANA JULIA CAREPA;12.171.430/0001-55;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.750,00;Estimado;13 -  - PT -  - Governador / 11113 - REGINALDO RABELO - PA - Deputado Estadual;
+GERSON DOS SANTOS PERES;12.167.168/0001-75;22/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.600,00;Estimado;1115 -  - PP -  - Deputado Federal / 11113 - REGINALDO RABELO - PA - Deputado Estadual;
+JOSÉ DE CARVALHO RENTE;333.562.972-87;15/09/2010;       Serviços prestados por terceiros;R$ 230,00;Cheque; -  -  / 11113 - REGINALDO RABELO - PA - Deputado Estadual;
+JOSÉ DE CARVALHO RENTE;333.562.972-87;07/09/2010;       Serviços prestados por terceiros;R$ 250,00;Cheque; -  -  / 11113 - REGINALDO RABELO - PA - Deputado Estadual;
+LITOGRAFICA ALFA LTDA.;04.825.938/0001-00;30/08/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 11113 - REGINALDO RABELO - PA - Deputado Estadual;
+LITOGRAFICA ALFA LTDA.;04.825.938/0001-00;20/09/2010;       Publicidade por materiais impressos;R$ 2.000,00;Cheque; -  -  / 11113 - REGINALDO RABELO - PA - Deputado Estadual;
+LITOGRAFICA ALFA LTDA.;04.825.938/0001-00;09/09/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 11113 - REGINALDO RABELO - PA - Deputado Estadual;
+M V D A MORAIS - EPP;02.446.439/0001-78;29/07/2010;       Publicidade por materiais impressos;R$ 1.240,00;Cheque; -  -  / 11113 - REGINALDO RABELO - PA - Deputado Estadual;
+VINCI MIDIA   - SAMPAIO $ TUMA LTDA - ME;10.410.854/0001-08;31/07/2010;       Publicidade por materiais impressos;R$ 580,00;Cheque; -  -  / 11113 - REGINALDO RABELO - PA - Deputado Estadual;

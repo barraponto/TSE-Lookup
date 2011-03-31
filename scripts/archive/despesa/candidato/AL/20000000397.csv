@@ -1,4 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ARTECORES COMUNICAÇÃO VISUAL LTDA.;02.796.182/0001-84;26/08/2010;19000011603;R$ 280,00;Estimado;LINDOMAR ALVES DE SOUSA;19123;Deputado Estadual;PTN;AL;
-JOÃO CALDAS DA SILVA;12.198.754/0001-87;06/09/2010;19000011604;R$ 5.000,00;Cheque;LINDOMAR ALVES DE SOUSA;19123;Deputado Estadual;PTN;AL;
-LINDOMAR ALVES DE SOUZA;303.165.371-87;04/08/2010;19000011601;R$ 4.000,00;Estimado;LINDOMAR ALVES DE SOUSA;19123;Deputado Estadual;PTN;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARTECORES COMUNICAÇÃO VISUAL LTDA.;02.796.182/0001-84;26/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 280,00;Estimado; -  -  / 19123 - LINDOMAR ALVES DE SOUSA - AL - Deputado Estadual;
+GIRVAN VIEIRA DA SILVA;037.976.574-80;09/09/2010;       Publicidade por materiais impressos;R$ 1.500,00;Cheque; -  -  / 19123 - LINDOMAR ALVES DE SOUSA - AL - Deputado Estadual;
+INDÚSTRIA GRÁFICA DE ALAGOAS LTDA.;03.013.931/0001-12;09/09/2010;       Publicidade por materiais impressos;R$ 3.490,00;Cheque; -  -  / 19123 - LINDOMAR ALVES DE SOUSA - AL - Deputado Estadual;
+LINDOMAR ALVES DE SOUZA;303.165.371-87;04/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.000,00;Estimado; -  -  / 19123 - LINDOMAR ALVES DE SOUSA - AL - Deputado Estadual;
+19123 - LINDOMAR ALVES DE SOUZA - DEPUTADO ESTADUAL;12.214.299/0001-66;26/10/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 10,00;Depósito em espécie;Direção Nacional - PTN - BR / 19123 - LINDOMAR ALVES DE SOUSA - AL - Deputado Estadual;

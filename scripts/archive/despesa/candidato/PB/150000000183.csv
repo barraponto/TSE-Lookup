@@ -1,5 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-WALDEMAR MARINHO FILHO;424.924.164-53;20/07/2010;40001424001;R$ 2.000,00;Depósito em espécie;WALDEMAR MARINHO FILHO;40800;Deputado Estadual;PSB;PB;
-WALDEMAR MARINHO FILHO;424.924.164-53;27/10/2010;40001424004;R$ 185,00;Depósito em espécie;WALDEMAR MARINHO FILHO;40800;Deputado Estadual;PSB;PB;
-WALDEMAR MARINHO FILHO;424.924.164-53;20/09/2010;40001424003;R$ 2.000,00;Depósito em espécie;WALDEMAR MARINHO FILHO;40800;Deputado Estadual;PSB;PB;
-WALDEMAR MARINHO FILHO;424.924.164-53;12/08/2010;40001424002;R$ 2.000,00;Depósito em espécie;WALDEMAR MARINHO FILHO;40800;Deputado Estadual;PSB;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ABIAS DANTAS NETO ME;70.159.272/0001-14;16/07/2010;       Publicidade por materiais impressos;R$ 840,00;Cheque; -  -  / 40800 - WALDEMAR MARINHO FILHO - PB - Deputado Estadual;
+ALCIMAR ABDIAS MEDEIROS;00.443.880/0001-70;29/07/2010;       Publicidade por materiais impressos;R$ 945,00;Cheque; -  -  / 40800 - WALDEMAR MARINHO FILHO - PB - Deputado Estadual;
+ALEXANDRINA SAMMARTINO MADANI;10.332.959/0001-88;18/08/2010;       Publicidade por placas, estandartes e faixas;R$ 500,00;Cheque; -  -  / 40800 - WALDEMAR MARINHO FILHO - PB - Deputado Estadual;
+BONIFÁCIO ROCHA DE MEDEIROS;044.766.464-68;30/09/2010;       Serviços prestados por terceiros;R$ 200,00;Cheque; -  -  / 40800 - WALDEMAR MARINHO FILHO - PB - Deputado Estadual;
+FILIPE ARAUJO REUL;051.405.774-29;12/08/2010;       Serviços prestados por terceiros;R$ 1.200,00;Cheque; -  -  / 40800 - WALDEMAR MARINHO FILHO - PB - Deputado Estadual;
+GRÁFICA JB LTDA.;08.540.403/0001-35;20/09/2010;       Publicidade por materiais impressos;R$ 2.000,00;Cheque; -  -  / 40800 - WALDEMAR MARINHO FILHO - PB - Deputado Estadual;
+LUCINALDO LEITE DE AZEVEDO;218.605.304-78;13/08/2010;       Publicidade por placas, estandartes e faixas;R$ 500,00;Cheque; -  -  / 40800 - WALDEMAR MARINHO FILHO - PB - Deputado Estadual;

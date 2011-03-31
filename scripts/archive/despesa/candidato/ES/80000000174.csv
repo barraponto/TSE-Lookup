@@ -1,5 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADRIANO FRANCISCO ROCHA;12.170.261/0001-39;20/08/2010;17000009201;R$ 150,00;Estimado;LEONARDO DIAS CLAUDIO;17222;Deputado Estadual;PSL;ES;
-Comitê Financeiro Único;12.181.922/0001-21;24/09/2010;17000009204;R$ 1.400,00;Estimado;LEONARDO DIAS CLAUDIO;17222;Deputado Estadual;PSL;ES;
-LEONARDO DIAS CLAUDIO;056.342.147-93;22/09/2010;17000009202;R$ 750,00;Depósito em espécie;LEONARDO DIAS CLAUDIO;17222;Deputado Estadual;PSL;ES;
-18957943749;189.579.437-49;15/10/2010;17000009205;R$ 20,00;Outros títulos de crédito;LEONARDO DIAS CLAUDIO;17222;Deputado Estadual;PSL;ES;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADRIANO FRANCISCO ROCHA;12.170.261/0001-39;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;1700 -  - PSL -  - Deputado Federal / 17222 - LEONARDO DIAS CLAUDIO - ES - Deputado Estadual;
+Comitê Financeiro Único;12.181.922/0001-21;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.400,00;Estimado;Comitê Financeiro Único - PSL -  / 17222 - LEONARDO DIAS CLAUDIO - ES - Deputado Estadual;
+FONTANA ARTES GRAFICAS LTDA ME;31.287.667/0001-40;15/09/2010;       Publicidade por materiais impressos;R$ 680,00;Cheque; -  -  / 17222 - LEONARDO DIAS CLAUDIO - ES - Deputado Estadual;
+GRAFICA ESPIRITO SANTO LTDA;30.955.538/0001-10;22/09/2010;       Publicidade por materiais impressos;R$ 100,00;Cheque; -  -  / 17222 - LEONARDO DIAS CLAUDIO - ES - Deputado Estadual;
+;;05/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 17222 - LEONARDO DIAS CLAUDIO - ES - Deputado Estadual;
+;;22/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 17222 - LEONARDO DIAS CLAUDIO - ES - Deputado Estadual;
+;;26/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 17222 - LEONARDO DIAS CLAUDIO - ES - Deputado Estadual;

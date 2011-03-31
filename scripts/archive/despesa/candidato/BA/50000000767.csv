@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.570/0001-95;31/07/2010;20000074901;R$ 192,00;Estimado;GIVALDO FIUZA DE ALMEIDA;2000;Deputado Federal;PSC;BA;
-Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;20000074904;R$ 1.000,14;Estimado;GIVALDO FIUZA DE ALMEIDA;2000;Deputado Federal;PSC;BA;
-Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;20000074903;R$ 56,40;Estimado;GIVALDO FIUZA DE ALMEIDA;2000;Deputado Federal;PSC;BA;
-GEDDEL QUADROS VIEIRA LIMA;12.173.503/0001-48;30/08/2010;20000074902;R$ 204,00;Estimado;GIVALDO FIUZA DE ALMEIDA;2000;Deputado Federal;PSC;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.570/0001-95;31/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 192,00;Estimado;Comitê Financeiro Único - PMDB -  / 2000 - GIVALDO FIUZA DE ALMEIDA - BA - Deputado Federal;
+Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,14;Estimado;Comitê Financeiro Único - PMDB -  / 2000 - GIVALDO FIUZA DE ALMEIDA - BA - Deputado Federal;
+Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 56,40;Estimado;Comitê Financeiro Único - PMDB -  / 2000 - GIVALDO FIUZA DE ALMEIDA - BA - Deputado Federal;
+GEDDEL QUADROS VIEIRA LIMA;12.173.503/0001-48;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 204,00;Estimado;15 -  - PMDB -  - Governador / 2000 - GIVALDO FIUZA DE ALMEIDA - BA - Deputado Federal;

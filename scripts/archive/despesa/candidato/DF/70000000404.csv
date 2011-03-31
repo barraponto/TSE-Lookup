@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-EMILIANO CALDEIRA DA SILVA;152.434.941-00;20/09/2010;;R$ 5.500,00;Depósito em espécie;EMILIANO CALDEIRA DA SILVA;70700;Deputado Distrital;PT do B;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EMILIANO CALDEIRA DA SILVA;152.434.941-00;21/09/2010;       Despesas com pessoal;R$ 5.430,00;Cheque; -  -  / 70700 - EMILIANO CALDEIRA DA SILVA - DF - Deputado Distrital;

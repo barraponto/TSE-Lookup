@@ -1,3 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;03.870.364/0001-10;17/09/2010;12001838862;R$ 2.000,00;Cheque;IVALDO JOSE PIMENTEL;1234;Deputado Federal;PDT;PA;
-IVALDO JOSE PIMENTEL;186.289.072-20;02/09/2010;12001838861;R$ 300,00;Depósito em espécie;IVALDO JOSE PIMENTEL;1234;Deputado Federal;PDT;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALUISIO SANTANA DA PAIXAO;301.377.212-34;24/09/2010;       Publicidade por jornais e revistas;R$ 200,00;Cheque; -  -  / 1234 - IVALDO JOSE PIMENTEL - PA - Deputado Federal;
+COOPERATIVA INDEPENDENTE DE COMUNICAÇÃO SOCIAL;05.529.857/0001-17;30/09/2010;       Publicidade por jornais e revistas;R$ 150,00;Cheque; -  -  / 1234 - IVALDO JOSE PIMENTEL - PA - Deputado Federal;
+EMP. DE PUBLICIDADE A TRIBUNA DE CASTANHAL S/C LTDA.;00.716.713/0001-56;28/09/2010;       Publicidade por jornais e revistas;R$ 100,00;Cheque; -  -  / 1234 - IVALDO JOSE PIMENTEL - PA - Deputado Federal;
+GRAFITH EXPRESSO GRAFICA E EDITORA;09.177.432/0001-47;24/09/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 1234 - IVALDO JOSE PIMENTEL - PA - Deputado Federal;
+POSTO SÃO JOSÉ DE RIBAMAR LTDA;05.389.267/0001-36;30/09/2010;       Combustíveis e lubrificantes;R$ 617,20;Cheque; -  -  / 1234 - IVALDO JOSE PIMENTEL - PA - Deputado Federal;
+SAMPAIO E TUMA LTDA-ME;10.410.854/0001-08;27/09/2010;       Publicidade por materiais impressos;R$ 932,80;Cheque; -  -  / 1234 - IVALDO JOSE PIMENTEL - PA - Deputado Federal;

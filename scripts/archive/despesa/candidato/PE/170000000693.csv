@@ -1,3 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-SEVERINO XAVIER ELÓI;003.980.714-20;13/09/2010;43001842703;R$ 70,00;Depósito em espécie;CAROLINA MARIA DE MAGALHÃES ELÓI;4369;Deputado Federal;PV;PE;
-SEVERINO XAVIER ELÓI;003.980.714-20;09/08/2010;43001842702;R$ 600,00;Depósito em espécie;CAROLINA MARIA DE MAGALHÃES ELÓI;4369;Deputado Federal;PV;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+A & C SINALIZAÇAÕ LTDA;03.936.575/0001-09;20/09/2010;       Publicidade por materiais impressos;R$ 70,00;Cheque; -  -  / 4369 - CAROLINA MARIA DE MAGALHÃES ELÓI - PE - Deputado Federal;
+A & C SINALIZAÇAÕ LTDA;03.936.575/0001-09;12/08/2010;       Publicidade por materiais impressos;R$ 50,00;Cheque; -  -  / 4369 - CAROLINA MARIA DE MAGALHÃES ELÓI - PE - Deputado Federal;
+CLAUDIA RAQUEL LIDIO BUARQUE DA SILVA;039.536.304-74;18/08/2010;       Publicidade por materiais impressos;R$ 105,00;Cheque; -  -  / 4369 - CAROLINA MARIA DE MAGALHÃES ELÓI - PE - Deputado Federal;
+CLAUDIA RAQUEL LIDIO BUARQUE DA SILVA;039.536.304-74;30/08/2010;       Publicidade por materiais impressos;R$ 60,00;Cheque; -  -  / 4369 - CAROLINA MARIA DE MAGALHÃES ELÓI - PE - Deputado Federal;
+CLAUDIA RAQUEL LIDIO BUARQUE DA SILVA;039.536.304-74;09/08/2010;       Publicidade por materiais impressos;R$ 105,00;Cheque; -  -  / 4369 - CAROLINA MARIA DE MAGALHÃES ELÓI - PE - Deputado Federal;
+GRÁFICA RÁPIDA LAYOUT;01.859.773/0001-90;09/08/2010;       Publicidade por materiais impressos;R$ 280,00;Cheque; -  -  / 4369 - CAROLINA MARIA DE MAGALHÃES ELÓI - PE - Deputado Federal;

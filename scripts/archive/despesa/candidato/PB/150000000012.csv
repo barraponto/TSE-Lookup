@@ -1,4 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FABIO JOSE SOUZA ARRUDA;423.985.684-15;12/08/2010;21000011303;R$ 1.000,00;Depósito em espécie;FRANCISCO EDILSON DA SILVA RIBEIRO;21999;Deputado Estadual;PCB;PB;
-FRANCISCO EDILSON DA SILVA RIBEIRO;855.929.004-49;23/09/2010;21000011305;R$ 400,00;Depósito em espécie;FRANCISCO EDILSON DA SILVA RIBEIRO;21999;Deputado Estadual;PCB;PB;
-MARIA SUELMA TAVARES;022.187.624-39;17/09/2010;21000011304;R$ 400,00;Depósito em espécie;FRANCISCO EDILSON DA SILVA RIBEIRO;21999;Deputado Estadual;PCB;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALEXANDRE GRÁFICA OFFSET;08.661.151/0001-00;30/09/2010;       Publicidade por materiais impressos;R$ 4,35;Cheque; -  -  / 21999 - FRANCISCO EDILSON DA SILVA RIBEIRO - PB - Deputado Estadual;
+ALEXANDRE GRÁFICA OFFSET;08.661.151/0001-00;23/09/2010;       Publicidade por materiais impressos;R$ 250,00;Cheque; -  -  / 21999 - FRANCISCO EDILSON DA SILVA RIBEIRO - PB - Deputado Estadual;
+ALEXANDRE GRÁFICA OFFSET;08.661.151/0001-00;13/08/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 21999 - FRANCISCO EDILSON DA SILVA RIBEIRO - PB - Deputado Estadual;
+ALEXANDRE GRÁFICA OFFSET;08.661.151/0001-00;18/09/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 21999 - FRANCISCO EDILSON DA SILVA RIBEIRO - PB - Deputado Estadual;
+ALEXANDRE GRÁFICA OFFSET;08.661.151/0001-00;18/08/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 21999 - FRANCISCO EDILSON DA SILVA RIBEIRO - PB - Deputado Estadual;
+ALEXANDRE GRÁFICA OFFSET;08.661.151/0001-00;30/09/2010;       Publicidade por materiais impressos;R$ 144,95;Cheque; -  -  / 21999 - FRANCISCO EDILSON DA SILVA RIBEIRO - PB - Deputado Estadual;
+;;23/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 21999 - FRANCISCO EDILSON DA SILVA RIBEIRO - PB - Deputado Estadual;
+;;15/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 21999 - FRANCISCO EDILSON DA SILVA RIBEIRO - PB - Deputado Estadual;

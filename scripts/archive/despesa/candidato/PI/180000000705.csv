@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO FRANCISCO BALDOINO;298.099.833-87;30/09/2010;25000496102;R$ 300,00;Estimado;HÉLIO DE MORAES LOPES;25147;Deputado Estadual;DEM;PI;
-ELEIÇÕES 2010 HERÁCLITO DE SOUSA FORTES;12.169.950/0001-23;22/09/2010;25000496101;R$ 65,63;Estimado;HÉLIO DE MORAES LOPES;25147;Deputado Estadual;DEM;PI;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO FRANCISCO BALDOINO;298.099.833-87;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 25147 - HÉLIO DE MORAES LOPES - PI - Deputado Estadual;
+ELEIÇÕES 2010 HERÁCLITO DE SOUSA FORTES;12.169.950/0001-23;22/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 65,63;Estimado;251 -  - DEM -  - Senador / 25147 - HÉLIO DE MORAES LOPES - PI - Deputado Estadual;

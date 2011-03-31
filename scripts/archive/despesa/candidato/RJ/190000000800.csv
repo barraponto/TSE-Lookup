@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;09/09/2010;33000020481;R$ 150,00;Estimado;MITSE CARLA PEREIRA LEITE COLARES;33123;Deputado Estadual;PMN;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;09/09/2010;33000020483;R$ 150,00;Estimado;MITSE CARLA PEREIRA LEITE COLARES;33123;Deputado Estadual;PMN;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;09/09/2010;33000020482;R$ 150,00;Estimado;MITSE CARLA PEREIRA LEITE COLARES;33123;Deputado Estadual;PMN;RJ;
-MITSE CARLA PEREIRA LEITE COLARES;811.111.007-30;02/10/2010;33000020484;R$ 300,00;Estimado;MITSE CARLA PEREIRA LEITE COLARES;33123;Deputado Estadual;PMN;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 33123 - MITSE CARLA PEREIRA LEITE COLARES - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 33123 - MITSE CARLA PEREIRA LEITE COLARES - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 33123 - MITSE CARLA PEREIRA LEITE COLARES - RJ - Deputado Estadual;
+MITSE CARLA PEREIRA LEITE COLARES;811.111.007-30;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 33123 - MITSE CARLA PEREIRA LEITE COLARES - RJ - Deputado Estadual;

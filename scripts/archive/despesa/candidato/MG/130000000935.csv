@@ -1,7 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO AUGUSTO JUNH ANASTASIA;12.177.426/0001-02;30/09/2010;20000320897;R$ 1.215,72;Estimado;JOSÉ ALEXANDRE DOS REIS;20888;Deputado Estadual;PSC;MG;
-ANTONIO AUGUSTO JUNHO ANASTASIA;12.177.426/0001-02;30/09/2010;20000320896;R$ 27,95;Estimado;JOSÉ ALEXANDRE DOS REIS;20888;Deputado Estadual;PSC;MG;
-Comitê Financeiro Único;12.191.503/0001-70;24/08/2010;20000320895;R$ 530,00;Estimado;JOSÉ ALEXANDRE DOS REIS;20888;Deputado Estadual;PSC;MG;
-JOSE ALEXANDRE DOS REIS;379.303.546-87;11/08/2010;20000320892;R$ 260,00;Cheque;JOSÉ ALEXANDRE DOS REIS;20888;Deputado Estadual;PSC;MG;
-JOSE ALEXANDRE DOS REIS;379.303.546-87;23/08/2010;20000320891;R$ 1.500,00;Cheque;JOSÉ ALEXANDRE DOS REIS;20888;Deputado Estadual;PSC;MG;
-JOSE ALEXANDRE DOS REIS;379.303.546-87;23/08/2010;20000320893;R$ 400,00;Cheque;JOSÉ ALEXANDRE DOS REIS;20888;Deputado Estadual;PSC;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALEX DESIGN COMUNICAÇÃO VISUAL LTDA;11.189.245/0001-25;10/08/2010;       Publicidade por materiais impressos;R$ 240,00;Cheque; -  -  / 20888 - JOSÉ ALEXANDRE DOS REIS - MG - Deputado Estadual;
+ANTONIO AUGUSTO JUNH ANASTASIA;12.177.426/0001-02;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.215,72;Estimado;45 -  - PSDB -  - Governador / 20888 - JOSÉ ALEXANDRE DOS REIS - MG - Deputado Estadual;
+ANTONIO AUGUSTO JUNHO ANASTASIA;12.177.426/0001-02;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 27,95;Estimado;45 -  - PSDB -  - Governador / 20888 - JOSÉ ALEXANDRE DOS REIS - MG - Deputado Estadual;
+Comitê Financeiro Único;12.191.503/0001-70;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 530,00;Estimado;Comitê Financeiro Único - PSC -  / 20888 - JOSÉ ALEXANDRE DOS REIS - MG - Deputado Estadual;
+JORGE ANTONIO MINEIRA ME (VIGRAF IMPRESSOS EM GERAL);10.823.566/0001-77;29/07/2010;       Publicidade por materiais impressos;R$ 1.500,00;Cheque; -  -  / 20888 - JOSÉ ALEXANDRE DOS REIS - MG - Deputado Estadual;
+JULHO EDITORIAL LTDA;02.456.552/0001-34;19/08/2010;       Publicidade por jornais e revistas;R$ 400,00;Cheque; -  -  / 20888 - JOSÉ ALEXANDRE DOS REIS - MG - Deputado Estadual;
+;;24/08/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 20888 - JOSÉ ALEXANDRE DOS REIS - MG - Deputado Estadual;
+;;24/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 20888 - JOSÉ ALEXANDRE DOS REIS - MG - Deputado Estadual;

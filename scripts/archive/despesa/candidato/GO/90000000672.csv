@@ -1,4 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CLAUSIENE ELIAS DA SILVA;817.898.661-20;01/09/2010;28000741201;R$ 1.000,00;Estimado;ROGERIO APARECIDO LEANDRO;28500;Deputado Estadual;PRTB;GO;
-ELEICAO 2010 ROGERIO APARECIDO LEANDRO DEPUTADO ESTADUAL;469.675.751-04;26/10/2010;28000741203;R$ 500,00;Depósito em espécie;ROGERIO APARECIDO LEANDRO;28500;Deputado Estadual;PRTB;GO;
-VIVALDO  DONIZETE DA SILVA;359.540.781-49;21/10/2010;28000741202;R$ 200,00;Estimado;ROGERIO APARECIDO LEANDRO;28500;Deputado Estadual;PRTB;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO ASTRAL LTDA;09.163.191/0001-87;21/10/2010;       Combustíveis e lubrificantes;R$ 300,00;Cheque; -  -  / 28500 - ROGERIO APARECIDO LEANDRO - GO - Deputado Estadual;
+CLAUSIENE ELIAS DA SILVA;817.898.661-20;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 28500 - ROGERIO APARECIDO LEANDRO - GO - Deputado Estadual;
+PAULA E GODOY LTDA ME;03.207.822/0001-36;25/10/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 28500 - ROGERIO APARECIDO LEANDRO - GO - Deputado Estadual;
+VIVALDO  DONIZETE DA SILVA;359.540.781-49;21/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado; -  -  / 28500 - ROGERIO APARECIDO LEANDRO - GO - Deputado Estadual;

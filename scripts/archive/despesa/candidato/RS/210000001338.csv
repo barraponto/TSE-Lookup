@@ -1,2 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ERMOSILA FERREIRA;486.892.110-04;24/08/2010;43001829876;R$ 202,00;Depósito em espécie;ERMOSILA FERREIRA;43077;Deputado Estadual;PV;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+METALARTE - ARTHUR DA SILVA GRAVAÇÕES;06.007.569/0001-65;06/08/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 43077 - ERMOSILA FERREIRA - RS - Deputado Estadual;
+VANESSA SADER ARAUJO SILVEIRA;009.268.530-74;02/10/2010;       Alimentação;R$ 2,00;Cheque; -  -  / 43077 - ERMOSILA FERREIRA - RS - Deputado Estadual;

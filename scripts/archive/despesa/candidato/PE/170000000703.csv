@@ -1,3 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSE PAULO DANTAS DA SILVA;773.269.204-78;16/09/2010;43001842927;R$ 400,00;Depósito em espécie;JOSÉ PAULO DANTAS DA SILVA;4367;Deputado Federal;PV;PE;
-JOSE PAULO DANTAS DA SILVA;773.269.204-78;12/08/2010;43001842926;R$ 400,00;Depósito em espécie;JOSÉ PAULO DANTAS DA SILVA;4367;Deputado Federal;PV;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+COMERCIAL RADAM / ME;10.449.629/0001-77;31/08/2010;       Diversas a especificar;R$ 34,50;Transferência eletrônica; -  -  / 4367 - JOSÉ PAULO DANTAS DA SILVA - PE - Deputado Federal;
+POLIDESIGN;05.862.569/0001-80;29/09/2010;       Publicidade por placas, estandartes e faixas;R$ 35,00;Transferência eletrônica; -  -  / 4367 - JOSÉ PAULO DANTAS DA SILVA - PE - Deputado Federal;
+RECIFE IMPRESSÃO DIGITAL E SERVIÇOS LTDA;11.441.331/0001-83;30/08/2010;       Diversas a especificar;R$ 110,00;Transferência eletrônica; -  -  / 4367 - JOSÉ PAULO DANTAS DA SILVA - PE - Deputado Federal;
+RECIFE IMPRESSÃO DIGITAL E SERVIÇOS LTDA;11.441.331/0001-83;16/09/2010;       Publicidade por placas, estandartes e faixas;R$ 318,40;Transferência eletrônica; -  -  / 4367 - JOSÉ PAULO DANTAS DA SILVA - PE - Deputado Federal;
+RECIFE IMPRESSÃO DIGITAL E SERVIÇOS LTDA;11.441.331/0001-83;12/08/2010;       Diversas a especificar;R$ 193,60;Transferência eletrônica; -  -  / 4367 - JOSÉ PAULO DANTAS DA SILVA - PE - Deputado Federal;
+S.N. TECIDOS;11.193.793/0001-14;22/09/2010;       Publicidade por placas, estandartes e faixas;R$ 35,00;Transferência eletrônica; -  -  / 4367 - JOSÉ PAULO DANTAS DA SILVA - PE - Deputado Federal;
+UNIDA COMERCIAL LTDA;09.951.740/0001-88;17/09/2010;       Diversas a especificar;R$ 26,31;Transferência eletrônica; -  -  / 4367 - JOSÉ PAULO DANTAS DA SILVA - PE - Deputado Federal;
+UNIDA COMERCIAL LTDA;09.951.740/0001-88;22/09/2010;       Publicidade por placas, estandartes e faixas;R$ 17,97;Transferência eletrônica; -  -  / 4367 - JOSÉ PAULO DANTAS DA SILVA - PE - Deputado Federal;
+VILMA CARNEIRO CAVALCANTI;04.167.079/0001-09;18/08/2010;       Diversas a especificar;R$ 16,90;Transferência eletrônica; -  -  / 4367 - JOSÉ PAULO DANTAS DA SILVA - PE - Deputado Federal;

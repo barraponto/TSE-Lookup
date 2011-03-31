@@ -1,4 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.238/0001-32;03/10/2010;13000858404;R$ 15.492,35;Estimado;MARIA MADALENA PRYBICZ;13787;Deputado Estadual;PT;PR;
-MARIA MADALENA PRYBICZ;200.906.419-49;27/08/2010;13000858401;R$ 150,00;Depósito em espécie;MARIA MADALENA PRYBICZ;13787;Deputado Estadual;PT;PR;
-MARIA MADALENA PRYBICZ;200.906.419-49;26/07/2010;13000858402;R$ 100,00;Depósito em espécie;MARIA MADALENA PRYBICZ;13787;Deputado Estadual;PT;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.238/0001-32;03/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 15.492,35;Estimado;Comitê Financeiro Único - PDT -  / 13787 - MARIA MADALENA PRYBICZ - PR - Deputado Estadual;
+COPY CITY REPRODUÇÃO DE IMAGENS LTDA;84.852.102/0001-25;19/08/2010;       Publicidade por materiais impressos;R$ 55,00;Cheque; -  -  / 13787 - MARIA MADALENA PRYBICZ - PR - Deputado Estadual;
+GRÁFICA IGUAÇU;75.114.363/0001-57;27/08/2010;       Publicidade por materiais impressos;R$ 150,00;Cheque; -  -  / 13787 - MARIA MADALENA PRYBICZ - PR - Deputado Estadual;
+MAURICIO F. P. NASCIMENTO;006.338.229-65;03/10/2010;       Despesas com pessoal;R$ 94,68;Cheque; -  -  / 13787 - MARIA MADALENA PRYBICZ - PR - Deputado Estadual;

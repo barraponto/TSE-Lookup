@@ -1,3 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DELPHI EMPREENDIMENTOS LTDA;05.862.378/0001-18;30/08/2010;12001009411;R$ 50.000,00;Cheque;NESTOR DUARTE GUIMARAES NETO;400;1º Suplente Senador;PDT;BA;
-NESTOR DUARTE GUIMARAES NETO;110.289.805-82;20/09/2010;12001009412;R$ 70,00;Depósito em espécie;NESTOR DUARTE GUIMARAES NETO;400;1º Suplente Senador;PDT;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+400 - NESTOR DUARTE GUIMARAES NETO - 1º SUPLENTE SENADOR;12.171.258/0001-30;09/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 25.000,00;Cheque;400 - LIDICE DA MATA E SOUZA - PSB - BA - Senador / 400 - NESTOR DUARTE GUIMARAES NETO - BA - 1º Suplente Senador;
+400 - NESTOR DUARTE GUIMARAES NETO - 1º SUPLENTE SENADOR;12.171.258/0001-30;20/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 20.000,00;Cheque;12012 - JOSE MARCELO DO NASCIMENTO NILO - PDT - BA - Deputado Estadual / 400 - NESTOR DUARTE GUIMARAES NETO - BA - 1º Suplente Senador;
+400 - NESTOR DUARTE GUIMARAES NETO - 1º SUPLENTE SENADOR;12.171.258/0001-30;10/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 5.000,00;Cheque;13140 - MARCELINO  ANTONIO MARTINS GALO - PT - BA - Deputado Estadual / 400 - NESTOR DUARTE GUIMARAES NETO - BA - 1º Suplente Senador;
+;;14/09/2010;       Encargos financeiros e taxas bancárias;R$ 27,50;Débito em conta; -  -  / 400 - NESTOR DUARTE GUIMARAES NETO - BA - 1º Suplente Senador;
+;;22/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 400 - NESTOR DUARTE GUIMARAES NETO - BA - 1º Suplente Senador;
+;;01/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 400 - NESTOR DUARTE GUIMARAES NETO - BA - 1º Suplente Senador;
+;;15/09/2010;       Encargos financeiros e taxas bancárias;R$ 5,50;Débito em conta; -  -  / 400 - NESTOR DUARTE GUIMARAES NETO - BA - 1º Suplente Senador;

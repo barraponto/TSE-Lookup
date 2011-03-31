@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.221.840/0001-63;30/09/2010;13000668145;R$ 8.474,58;Estimado;FRANCISCO JOSÉ ARAUJO;1365;Deputado Federal;PT;MA;
-FRANCISCO JOSÉ ARAUJO;332.852.413-49;28/07/2010;13000668141;R$ 900,00;Transferência eletrônica;FRANCISCO JOSÉ ARAUJO;1365;Deputado Federal;PT;MA;
-FRANCISCO JOSÉ ARAUJO;332.852.413-49;30/07/2010;13000668142;R$ 1.200,00;Transferência eletrônica;FRANCISCO JOSÉ ARAUJO;1365;Deputado Federal;PT;MA;
-FRANCISCO JOSÉ ARAUJO;332.852.413-49;20/09/2010;13000668147;R$ 210,00;Depósito em espécie;FRANCISCO JOSÉ ARAUJO;1365;Deputado Federal;PT;MA;
-FRANCISCO JOSÉ ARAUJO;332.852.413-49;13/09/2010;13000668143;R$ 280,00;Depósito em espécie;FRANCISCO JOSÉ ARAUJO;1365;Deputado Federal;PT;MA;
-GILMAR A. SIGNORELI;195.595.691-04;31/08/2010;13000668144;R$ 600,00;Estimado;FRANCISCO JOSÉ ARAUJO;1365;Deputado Federal;PT;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CENTROGRAF SERVIÇOS E COM LTDA;04.151.872/0001-01;28/07/2010;       Publicidade por materiais impressos;R$ 2.070,00;Cheque; -  -  / 1365 - FRANCISCO JOSÉ ARAUJO - MA - Deputado Federal;
+Diretório Estadual/Distrital;12.221.840/0001-63;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 8.474,58;Estimado;Direção Estadual/Distrital - PT -  / 1365 - FRANCISCO JOSÉ ARAUJO - MA - Deputado Federal;
+EMPRESA PACOTILHA S.A;06.271.258/0001-09;23/09/2010;       Publicidade por jornais e revistas;R$ 120,00;Cheque; -  -  / 1365 - FRANCISCO JOSÉ ARAUJO - MA - Deputado Federal;
+GILMAR A. SIGNORELI;195.595.691-04;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado; -  -  / 1365 - FRANCISCO JOSÉ ARAUJO - MA - Deputado Federal;
+H. M. BOGEA & CIA LTDA;01.153.837/0001-33;23/09/2010;       Publicidade por jornais e revistas;R$ 100,00;Cheque; -  -  / 1365 - FRANCISCO JOSÉ ARAUJO - MA - Deputado Federal;
+UNIVERSO ONLINE S/A;01.109.184/0001-95;30/07/2010;       Criação e inclusão de páginas na internet;R$ 156,80;Cheque; -  -  / 1365 - FRANCISCO JOSÉ ARAUJO - MA - Deputado Federal;

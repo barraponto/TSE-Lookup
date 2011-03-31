@@ -1,6 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;21/08/2010;11000145401;R$ 3.150,00;Estimado;JOAO CANDIDO ALVES DE OLIVEIRA;11190;Deputado Estadual;PP;PR;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;17/09/2010;11000145402;R$ 2.500,00;Estimado;JOAO CANDIDO ALVES DE OLIVEIRA;11190;Deputado Estadual;PP;PR;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;24/08/2010;11000145404;R$ 1.680,00;Transferência eletrônica;JOAO CANDIDO ALVES DE OLIVEIRA;11190;Deputado Estadual;PP;PR;
-JOÃO CANDIDO ALVES DE OLIVEIRA;301.840.109-34;20/08/2010;11000145405;R$ 1.000,00;Depósito em espécie;JOAO CANDIDO ALVES DE OLIVEIRA;11190;Deputado Estadual;PP;PR;
-RICARDO JOSÉ MAGALHAES BARROS;12.190.665/0001-94;27/09/2010;11000145403;R$ 1.125,00;Estimado;JOAO CANDIDO ALVES DE OLIVEIRA;11190;Deputado Estadual;PP;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;17/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.500,00;Estimado;45 -  - PSDB -  - Governador / 11190 - JOAO CANDIDO ALVES DE OLIVEIRA - PR - Deputado Estadual;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;21/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.150,00;Estimado;45 -  - PSDB -  - Governador / 11190 - JOAO CANDIDO ALVES DE OLIVEIRA - PR - Deputado Estadual;
+K.O COMUNICAÇÃO LTDA;01.607.907/0001-86;27/09/2010;       Publicidade por materiais impressos;R$ 270,00;Transferência eletrônica; -  -  / 11190 - JOAO CANDIDO ALVES DE OLIVEIRA - PR - Deputado Estadual;
+K.O COMUNICAÇÃO LTDA;01.607.907/0001-86;27/09/2010;       Publicidade por placas, estandartes e faixas;R$ 510,00;Transferência eletrônica; -  -  / 11190 - JOAO CANDIDO ALVES DE OLIVEIRA - PR - Deputado Estadual;
+K.O COMUNICAÇÃO LTDA;01.607.907/0001-86;27/09/2010;       Produção de jingles, vinhetas e slogans;R$ 900,00;Transferência eletrônica; -  -  / 11190 - JOAO CANDIDO ALVES DE OLIVEIRA - PR - Deputado Estadual;
+LOIZETE DE OLIVEIRA VELLO;875.391.529-15;23/08/2010;       Despesas com pessoal;R$ 1.000,00;Transferência eletrônica; -  -  / 11190 - JOAO CANDIDO ALVES DE OLIVEIRA - PR - Deputado Estadual;
+RICARDO JOSÉ MAGALHAES BARROS;12.190.665/0001-94;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.125,00;Estimado;111 -  - PP -  - Senador / 11190 - JOAO CANDIDO ALVES DE OLIVEIRA - PR - Deputado Estadual;

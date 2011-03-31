@@ -1,5 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;03.604.170/0001-73;30/08/2010;65000175812;R$ 1.587,79;Estimado;EDNALDO PAIVA CAMPOS;65107;Deputado Distrital;PC do B;DF;
-JOSÉ MESSIAS DE SOUZA;12.171.862/0001-66;02/08/2010;65000175811;R$ 1.370,00;Cheque;EDNALDO PAIVA CAMPOS;65107;Deputado Distrital;PC do B;DF;
-JOSÉ MESSIAS DE SOUZA;12.171.862/0001-66;09/09/2010;65000175809;R$ 3.200,00;Cheque;EDNALDO PAIVA CAMPOS;65107;Deputado Distrital;PC do B;DF;
-JOSÉ MESSIAS DE SOUZA;12.171.862/0001-66;29/09/2010;65000175810;R$ 3.400,00;Cheque;EDNALDO PAIVA CAMPOS;65107;Deputado Distrital;PC do B;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ÃNGELA RUFINO DOS SANTOS LEITE;573.261.341-20;04/08/2010;       Despesas com pessoal;R$ 1.370,00;Cheque; -  -  / 65107 - EDNALDO PAIVA CAMPOS - DF - Deputado Distrital;
+DIGITAL VÍDEO - DIGITAL CINEMA VÍDEO PRODUÇÕES LTDA;03.737.259/0001-08;30/08/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 1.587,79;Não informado; -  -  / 65107 - EDNALDO PAIVA CAMPOS - DF - Deputado Distrital;
+Diretório Estadual/Distrital;03.604.170/0001-73;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.587,79;Estimado;Direção Estadual/Distrital - PC do B -  / 65107 - EDNALDO PAIVA CAMPOS - DF - Deputado Distrital;
+LUIZ CARLOS DIAS PORTO;372.793.271-68;15/10/2010;       Despesas com pessoal;R$ 1.700,00;Cheque; -  -  / 65107 - EDNALDO PAIVA CAMPOS - DF - Deputado Distrital;
+MÁRCIO FERREIRA ALVES;471.620.401-44;14/10/2010;       Despesas com pessoal;R$ 1.700,00;Cheque; -  -  / 65107 - EDNALDO PAIVA CAMPOS - DF - Deputado Distrital;
+MARIA ALDENI DA SILVA;274.445.078-21;13/09/2010;       Despesas com pessoal;R$ 3.200,00;Cheque; -  -  / 65107 - EDNALDO PAIVA CAMPOS - DF - Deputado Distrital;

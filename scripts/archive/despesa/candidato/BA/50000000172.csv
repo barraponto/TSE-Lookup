@@ -1,5 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MARIA DA SILVA COSTA;243.170.205-72;03/08/2010;43001856326;R$ 800,00;Transferência eletrônica;MARIA DA SILVA COSTA;43010;Deputado Estadual;PV;BA;
-MARIA DA SILVA COSTA;243.170.205-72;17/09/2010;43001856329;R$ 420,00;Transferência eletrônica;MARIA DA SILVA COSTA;43010;Deputado Estadual;PV;BA;
-MARIA DA SILVA COSTA;243.170.205-72;14/09/2010;43001856328;R$ 1.000,00;Transferência eletrônica;MARIA DA SILVA COSTA;43010;Deputado Estadual;PV;BA;
-MARIA DA SILVA COSTA;243.170.205-72;19/08/2010;43001856327;R$ 600,00;Transferência eletrônica;MARIA DA SILVA COSTA;43010;Deputado Estadual;PV;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+MULTIMIDIA INDUSTRIA COMERCIO E EDITORA LTDA;09.424.089/0001-98;19/08/2010;       Publicidade por materiais impressos;R$ 1.400,00;Cheque; -  -  / 43010 - MARIA DA SILVA COSTA - BA - Deputado Estadual;
+MULTIMIDIA INDUSTRIA COMERCIO E EDITORA LTDA;09.424.089/0001-98;19/09/2010;       Publicidade por materiais impressos;R$ 1.400,00;Cheque; -  -  / 43010 - MARIA DA SILVA COSTA - BA - Deputado Estadual;

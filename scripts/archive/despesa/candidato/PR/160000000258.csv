@@ -1,5 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS EDUARDO MATIOSKI;715.004.649-53;18/08/2010;43001765802;R$ 1.000,00;Depósito em espécie;DIVANZIR BATISTA;43099;Deputado Estadual;PV;PR;
-CLAIR DA FLORA MARTINS;12.172.378/0001-51;01/10/2010;43001765804;R$ 140,50;Estimado;DIVANZIR BATISTA;43099;Deputado Estadual;PV;PR;
-CLAIR DA FLORA MARTINS;12.172.378/0001-51;20/08/2010;43001765803;R$ 2.935,39;Estimado;DIVANZIR BATISTA;43099;Deputado Estadual;PV;PR;
-CLAIR DA FLORA MARTINS;12.172.378/0001-51;31/08/2010;43001765801;R$ 1.067,66;Estimado;DIVANZIR BATISTA;43099;Deputado Estadual;PV;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ABC & HZC COMBUSTÍVEIS E LUBRIFICANTES LTDA;08.710.260/0001-62;09/08/2010;       Combustíveis e lubrificantes;R$ 250,34;Cheque; -  -  / 43099 - DIVANZIR BATISTA - PR - Deputado Estadual;
+AUTO POSTO ERDANA LTDA;77.714.699/0001-86;02/10/2010;       Combustíveis e lubrificantes;R$ 510,32;Cheque; -  -  / 43099 - DIVANZIR BATISTA - PR - Deputado Estadual;
+CLAIR DA FLORA MARTINS;12.172.378/0001-51;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 140,50;Estimado;4399 -  - PV -  - Deputado Federal / 43099 - DIVANZIR BATISTA - PR - Deputado Estadual;
+CLAIR DA FLORA MARTINS;12.172.378/0001-51;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.935,39;Estimado;4399 -  - PV -  - Deputado Federal / 43099 - DIVANZIR BATISTA - PR - Deputado Estadual;
+CLAIR DA FLORA MARTINS;12.172.378/0001-51;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.067,66;Estimado;4399 -  - PV -  - Deputado Federal / 43099 - DIVANZIR BATISTA - PR - Deputado Estadual;
+SIMÃO TERNOSKI;039.828.599-30;26/09/2010;       Despesas com pessoal;R$ 239,34;Cheque; -  -  / 43099 - DIVANZIR BATISTA - PR - Deputado Estadual;

@@ -1,7 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;16/09/2010;12000063112;R$ 150,00;Estimado;FATIMA CRISTINA ALVES;1205;Deputado Federal;PDT;RJ;
-DANIEL ALVES VAL;106.532.407-32;01/10/2010;12000063114;R$ 400,00;Estimado;FATIMA CRISTINA ALVES;1205;Deputado Federal;PDT;RJ;
-ELAINE CONCEIÇÃO BEZERRA DA SILVA;100.628.257-20;01/10/2010;12000063113;R$ 400,00;Estimado;FATIMA CRISTINA ALVES;1205;Deputado Federal;PDT;RJ;
-JORGE SAYED PICCIANI;12.176.626/0001-32;16/09/2010;12000063111;R$ 17,00;Estimado;FATIMA CRISTINA ALVES;1205;Deputado Federal;PDT;RJ;
-JOSE CARLOS DA SILVA GOMES;464.203.717-91;01/10/2010;12000063116;R$ 400,00;Estimado;FATIMA CRISTINA ALVES;1205;Deputado Federal;PDT;RJ;
-THIAGO ALVES VAL;118.139.187-32;01/10/2010;12000063115;R$ 400,00;Estimado;FATIMA CRISTINA ALVES;1205;Deputado Federal;PDT;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;16/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 1205 - FATIMA CRISTINA ALVES - RJ - Deputado Federal;
+DANIEL ALVES VAL;106.532.407-32;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado; -  -  / 1205 - FATIMA CRISTINA ALVES - RJ - Deputado Federal;
+ELAINE CONCEIÇÃO BEZERRA DA SILVA;100.628.257-20;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado; -  -  / 1205 - FATIMA CRISTINA ALVES - RJ - Deputado Federal;
+GRAFICA MEC EDITORA LTDA;42.459.891/0001-99;15/09/2010;       Publicidade por materiais impressos;R$ 667,00;Cheque; -  -  / 1205 - FATIMA CRISTINA ALVES - RJ - Deputado Federal;
+JORGE SAYED PICCIANI;12.176.626/0001-32;16/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 1205 - FATIMA CRISTINA ALVES - RJ - Deputado Federal;
+JOSE CARLOS DA SILVA GOMES;464.203.717-91;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado; -  -  / 1205 - FATIMA CRISTINA ALVES - RJ - Deputado Federal;
+JULIO C RODRIGUES LETREIROS;05.385.581/0001-40;15/09/2010;       Publicidade por materiais impressos;R$ 62,00;Cheque; -  -  / 1205 - FATIMA CRISTINA ALVES - RJ - Deputado Federal;
+LOJAS AMERICANAS S/A;33.014.556/0070-18;01/10/2010;       Diversas a especificar;R$ 8,50;Transferência eletrônica; -  -  / 1205 - FATIMA CRISTINA ALVES - RJ - Deputado Federal;
+THIAGO ALVES VAL;118.139.187-32;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado; -  -  / 1205 - FATIMA CRISTINA ALVES - RJ - Deputado Federal;

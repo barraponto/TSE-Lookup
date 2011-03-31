@@ -1,4 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
-Comitê Financeiro Único;12.229.905/0001-17;01/10/2010;44000051653;R$ 20.000,00;Transferência eletrônica;Comitê Financeiro Único;PRP;PA;
-Comitê Financeiro Único;12.229.905/0001-17;28/09/2010;44000051652;R$ 10.000,00;Transferência eletrônica;Comitê Financeiro Único;PRP;PA;
-Comitê Financeiro Único;12.229.905/0001-17;17/09/2010;44000051651;R$ 10.000,00;Transferência eletrônica;Comitê Financeiro Único;PRP;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único - PRP;12.249.208/0001-28;01/10/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 14.000,00;Cheque;44444 - JORGE OTAVIO BAHIA DE REZENDE - PRP - PA - Deputado Estadual / Comitê Financeiro Único - PRP - PA;
+Comitê Financeiro Único - PRP;12.249.208/0001-28;01/10/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 400,00;Cheque;44444 - JORGE OTAVIO BAHIA DE REZENDE - PRP - PA - Deputado Estadual / Comitê Financeiro Único - PRP - PA;
+Comitê Financeiro Único - PRP;12.249.208/0001-28;01/10/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 5.000,00;Cheque;4444 - RAIMUNDO VALRI DE MORAIS - PRP - PA - Deputado Federal / Comitê Financeiro Único - PRP - PA;
+Comitê Financeiro Único - PRP;12.249.208/0001-28;01/10/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 1.000,00;Cheque;44567 - RAIMUNDO SOUSA DO VALE - PRP - PA - Deputado Estadual / Comitê Financeiro Único - PRP - PA;
+Comitê Financeiro Único - PRP;12.249.208/0001-28;01/10/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 2.000,00;Cheque;44190 - ALDERSON SANTOS DAS CHAGAS - PRP - PA - Deputado Estadual / Comitê Financeiro Único - PRP - PA;
+Comitê Financeiro Único - PRP;12.249.208/0001-28;20/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 6.000,00;Cheque;44444 - JORGE OTAVIO BAHIA DE REZENDE - PRP - PA - Deputado Estadual / Comitê Financeiro Único - PRP - PA;

@@ -1,3 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-VALDENILSON SEVERINO DA SILVA;877.192.824-34;26/08/2010;50000445412;R$ 200,00;Depósito em espécie;VALDENILSON SEVERINO DA SILVA;50010;Deputado Estadual;PSOL;RN;
-VALDENILSON SEVERINO DA SILVA;877.192.824-34;12/08/2010;50000445411;R$ 500,00;Depósito em espécie;VALDENILSON SEVERINO DA SILVA;50010;Deputado Estadual;PSOL;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EMANUEL AUGUSTO ALVES DA SILVA;03.208.480/0001-79;01/10/2010;       Publicidade por materiais impressos;R$ 61,80;Cheque; -  -  / 50010 - VALDENILSON SEVERINO DA SILVA - RN - Deputado Estadual;
+POLYLIVROS DISTRIBUIDORA LTDA;40.783.516/0003-36;25/08/2010;       Publicidade por materiais impressos;R$ 210,00;Cheque; -  -  / 50010 - VALDENILSON SEVERINO DA SILVA - RN - Deputado Estadual;
+50010 - VALDENILSON SEVERINO DA SILVA - DEPUTADO ESTADUAL;12.181.212/0001-00;23/08/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 200,00;Cheque;Comitê Financeiro Único - PSOL - RN / 50010 - VALDENILSON SEVERINO DA SILVA - RN - Deputado Estadual;
+50010 - VALDENILSON SEVERINO DA SILVA - DEPUTADO ESTADUAL;12.181.212/0001-00;17/08/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 200,00;Cheque;Comitê Financeiro Único - PSOL - RN / 50010 - VALDENILSON SEVERINO DA SILVA - RN - Deputado Estadual;
+;;30/08/2010;       Encargos financeiros e taxas bancárias;R$ 25,30;Débito em conta; -  -  / 50010 - VALDENILSON SEVERINO DA SILVA - RN - Deputado Estadual;
+;;01/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 50010 - VALDENILSON SEVERINO DA SILVA - RN - Deputado Estadual;

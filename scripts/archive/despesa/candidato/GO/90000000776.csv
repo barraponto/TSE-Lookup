@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JORGE DOS REIS PINHEIRO;12.178.516/0001-00;06/08/2010;10000053353;R$ 173,53;Estimado;JOSE NILTON FERREIRA DE SOUZA;10122;Deputado Estadual;PRB;GO;
-JOSE NILTON FERREIRA DE SOUZA;197.288.911-72;07/10/2010;10000053356;R$ 30,00;Depósito em espécie;JOSE NILTON FERREIRA DE SOUZA;10122;Deputado Estadual;PRB;GO;
-JOSE NILTON FERREIRA DE SOUZA;197.288.911-72;10/08/2010;10000053354;R$ 3.250,00;Estimado;JOSE NILTON FERREIRA DE SOUZA;10122;Deputado Estadual;PRB;GO;
-JOSE NILTON FERREIRA DE SOUZA;197.288.911-72;07/10/2010;10000053355;R$ 120,00;Depósito em espécie;JOSE NILTON FERREIRA DE SOUZA;10122;Deputado Estadual;PRB;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ESTÚDIO GRIFF MUSIC LTD;10.734.743/0001-49;03/08/2010;       Produção de jingles, vinhetas e slogans;R$ 100,00;Cheque; -  -  / 10122 - JOSE NILTON FERREIRA DE SOUZA - GO - Deputado Estadual;
+JORGE DOS REIS PINHEIRO;12.178.516/0001-00;06/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 173,53;Estimado;1010 -  - PRB -  - Deputado Federal / 10122 - JOSE NILTON FERREIRA DE SOUZA - GO - Deputado Estadual;
+JOSÉ ESPEDITO DIAS MENESES;509.397.341-68;03/08/2010;       Publicidade por materiais impressos;R$ 20,00;Cheque; -  -  / 10122 - JOSE NILTON FERREIRA DE SOUZA - GO - Deputado Estadual;
+JOSE NILTON FERREIRA DE SOUZA;197.288.911-72;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.250,00;Estimado; -  -  / 10122 - JOSE NILTON FERREIRA DE SOUZA - GO - Deputado Estadual;
+PAULO REGO NETO;039.939.812-00;03/08/2010;       Publicidade por materiais impressos;R$ 30,00;Cheque; -  -  / 10122 - JOSE NILTON FERREIRA DE SOUZA - GO - Deputado Estadual;

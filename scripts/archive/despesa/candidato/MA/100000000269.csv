@@ -1,2 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-WAGNER MENDES PESSOA;076.532.713-91;22/07/2010;70000166201;R$ 5.000,00;Depósito em espécie;VAGNER MENDES PESSOA;70222;Deputado Estadual;PT do B;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DINEPEL;02.446.164/0001-72;22/07/2010;       Despesas com transporte ou deslocamento;R$ 1.150,00;Cheque; -  -  / 70222 - VAGNER MENDES PESSOA - MA - Deputado Estadual;
+MAURO JOSE MACHADO REGO;494.273.503-34;20/09/2010;       Cessão ou Locação de Veículos;R$ 244,00;Cheque; -  -  / 70222 - VAGNER MENDES PESSOA - MA - Deputado Estadual;
+POSTO CHAPADINHA;04.845.035/0003-44;11/08/2010;       Combustíveis e lubrificantes;R$ 1.000,00;Cheque; -  -  / 70222 - VAGNER MENDES PESSOA - MA - Deputado Estadual;
+RR INFORMATICA;12.136.503/0001-78;02/08/2010;       Publicidade por materiais impressos;R$ 1.400,00;Cheque; -  -  / 70222 - VAGNER MENDES PESSOA - MA - Deputado Estadual;
+SOPEÇAS;07.251.824/0001-83;11/08/2010;       Despesas com transporte ou deslocamento;R$ 1.200,00;Cheque; -  -  / 70222 - VAGNER MENDES PESSOA - MA - Deputado Estadual;
+;;05/09/2010;       Encargos financeiros e taxas bancárias;R$ 6,00;Débito em conta; -  -  / 70222 - VAGNER MENDES PESSOA - MA - Deputado Estadual;

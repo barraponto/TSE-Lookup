@@ -1,3 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JM CAPITAL GRAFICA E FOTOLITO LTDA-ME;10.813.208/0001-83;12/08/2010;50000139142;R$ 350,00;Estimado;JOSE GILBERTO HARTMANN;5013;Deputado Federal;PSOL;DF;
-JOSE GILBERTO HARTMANN;233.512.419-68;27/07/2010;50000139141;R$ 900,00;Depósito em espécie;JOSE GILBERTO HARTMANN;5013;Deputado Federal;PSOL;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JAR JOUR VEICULOS E PETROLEO LTDA;00.108.670/0002-07;02/10/2010;       Combustíveis e lubrificantes;R$ 36,00;Cheque; -  -  / 5013 - JOSE GILBERTO HARTMANN - DF - Deputado Federal;
+JM CAPITAL GRAFICA E FOTOLITO LTDA-ME;10.813.208/0001-83;28/07/2010;       Publicidade por materiais impressos;R$ 850,00;Cheque; -  -  / 5013 - JOSE GILBERTO HARTMANN - DF - Deputado Federal;
+JM CAPITAL GRAFICA E FOTOLITO LTDA-ME;10.813.208/0001-83;12/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 350,00;Estimado; -  -  / 5013 - JOSE GILBERTO HARTMANN - DF - Deputado Federal;
+;;27/08/2010;       Encargos financeiros e taxas bancárias;R$ 14,00;Débito em conta; -  -  / 5013 - JOSE GILBERTO HARTMANN - DF - Deputado Federal;

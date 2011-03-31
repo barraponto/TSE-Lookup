@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MARYHANDERSON OVIL DA SILVA;786.550.727-53;27/09/2010;14000002054;R$ 0,01;Depósito em espécie;MARYHANDERSON OVIL DA SILVA;14600;Deputado Estadual;PTB;ES;
-RITA DE CASSSIA PASTA CAMATA;12.167.269/0001-46;23/09/2010;14000002053;R$ 10.000,00;Cheque;MARYHANDERSON OVIL DA SILVA;14600;Deputado Estadual;PTB;ES;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALDACELIA DA SILVA LIMA DE ASSIS;135.545.938-93;27/09/2010;       Diversas a especificar;R$ 4.000,00;Transferência eletrônica; -  -  / 14600 - MARYHANDERSON OVIL DA SILVA - ES - Deputado Estadual;
+GIOVANNA RAMOS DA SILVA;094.553.547-30;01/10/2010;       Diversas a especificar;R$ 5.986,51;Transferência eletrônica; -  -  / 14600 - MARYHANDERSON OVIL DA SILVA - ES - Deputado Estadual;
+;;27/09/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Débito em conta; -  -  / 14600 - MARYHANDERSON OVIL DA SILVA - ES - Deputado Estadual;

@@ -1,6 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Governador;12.190.887/0001-07;12/08/2010;36000072901;R$ 630,00;Estimado;GILHART JORGE SOUZA JOPPERT;36610;Deputado Estadual;PTC;PR;
-ELEIÇAO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;30/09/2010;36000072908;R$ 1.680,00;Transferência eletrônica;GILHART JORGE SOUZA JOPPERT;36610;Deputado Estadual;PTC;PR;
-ELEIÇAO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;23/09/2010;36000072902;R$ 500,00;Estimado;GILHART JORGE SOUZA JOPPERT;36610;Deputado Estadual;PTC;PR;
-ELEIÇAO 2010 GUSTAVI FREUD;12.179.221/0001-58;29/09/2010;36000072903;R$ 470,00;Estimado;GILHART JORGE SOUZA JOPPERT;36610;Deputado Estadual;PTC;PR;
-ELEIÇAO 2010 RUBENS BUENO;12.172.903/0001-39;15/09/2010;36000072909;R$ 73,50;Estimado;GILHART JORGE SOUZA JOPPERT;36610;Deputado Estadual;PTC;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Governador;12.190.887/0001-07;12/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 630,00;Estimado;Comitê Financeiro Distrital/Estadual para Governador - PSDC -  / 36610 - GILHART JORGE SOUZA JOPPERT - PR - Deputado Estadual;
+ELEIÇAO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;45 -  - PSDB -  - Governador / 36610 - GILHART JORGE SOUZA JOPPERT - PR - Deputado Estadual;
+ELEIÇAO 2010 GUSTAVI FREUD;12.179.221/0001-58;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 470,00;Estimado;456 -  - PSDB -  - Senador / 36610 - GILHART JORGE SOUZA JOPPERT - PR - Deputado Estadual;
+ELEIÇAO 2010 RUBENS BUENO;12.172.903/0001-39;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 73,50;Estimado;2300 -  - PPS -  - Deputado Federal / 36610 - GILHART JORGE SOUZA JOPPERT - PR - Deputado Estadual;
+POSTO ROTA 4 LTDA;06.868.196/0001-17;01/10/2010;       Combustíveis e lubrificantes;R$ 1.140,00;Cheque; -  -  / 36610 - GILHART JORGE SOUZA JOPPERT - PR - Deputado Estadual;
+RM.GRAFICA LTDA;11.418.164/0001-50;01/10/2010;       Publicidade por materiais impressos;R$ 540,00;Cheque; -  -  / 36610 - GILHART JORGE SOUZA JOPPERT - PR - Deputado Estadual;

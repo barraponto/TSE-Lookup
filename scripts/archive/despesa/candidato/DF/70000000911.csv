@@ -1,4 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ARTUR LUCIO DE ALMEIDA VASCONCELOS;168.419.564-00;27/08/2010;13000261424;R$ 1.000,00;Depósito em espécie;VICENTE LOURENCO DE OLIVEIRA;13585;Deputado Distrital;PT;DF;
-CARLOS JOSE DAS NEVES;870.768.297-20;27/08/2010;13000261425;R$ 1.000,00;Depósito em espécie;VICENTE LOURENCO DE OLIVEIRA;13585;Deputado Distrital;PT;DF;
-VICENTE LOURENÇO DE OLIVEIRA;108.995.886-20;06/08/2010;13000261426;R$ 2.000,00;Transferência eletrônica;VICENTE LOURENCO DE OLIVEIRA;13585;Deputado Distrital;PT;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ART COR COMUNICACAO VISUAL LTDA ME;12.245.355/0001-20;28/08/2010;       Publicidade por materiais impressos;R$ 371,00;Cheque; -  -  / 13585 - VICENTE LOURENCO DE OLIVEIRA - DF - Deputado Distrital;
+CARLOS AUTOGRAF EDITORA LTDA ME;08.936.584/0001-13;30/08/2010;       Publicidade por materiais impressos;R$ 3.080,00;Cheque; -  -  / 13585 - VICENTE LOURENCO DE OLIVEIRA - DF - Deputado Distrital;
+13585 - VICENTE LOURENÇO DE OLIVEIRA - DEPUTADO DISTRITAL;12.204.084/0001-64;17/11/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 521,00;Cheque;Direção Estadual/Distrital - PT - DF / 13585 - VICENTE LOURENCO DE OLIVEIRA - DF - Deputado Distrital;
+;;03/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,00;Débito em conta; -  -  / 13585 - VICENTE LOURENCO DE OLIVEIRA - DF - Deputado Distrital;
+;;09/08/2010;       Encargos financeiros e taxas bancárias;R$ 14,00;Débito em conta; -  -  / 13585 - VICENTE LOURENCO DE OLIVEIRA - DF - Deputado Distrital;
+;;12/11/2010;       Encargos financeiros e taxas bancárias;R$ 12,00;Débito em conta; -  -  / 13585 - VICENTE LOURENCO DE OLIVEIRA - DF - Deputado Distrital;

@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;24.489.114/0001-05;30/09/2010;45000432142;R$ 150,00;Estimado;EDIRCE DE OLIVEIRA SILVA;4521;Deputado Federal;PSDB;PB;
-Diretório Estadual/Distrital;24.489.114/0001-05;22/09/2010;45000432143;R$ 200,00;Estimado;EDIRCE DE OLIVEIRA SILVA;4521;Deputado Federal;PSDB;PB;
-Diretório Estadual/Distrital;24.489.114/0001-05;23/09/2010;45000432141;R$ 300,00;Estimado;EDIRCE DE OLIVEIRA SILVA;4521;Deputado Federal;PSDB;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;24.489.114/0001-05;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Direção Estadual/Distrital - PSDB -  / 4521 - EDIRCE DE OLIVEIRA SILVA - PB - Deputado Federal;
+Diretório Estadual/Distrital;24.489.114/0001-05;22/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;Direção Estadual/Distrital - PSDB -  / 4521 - EDIRCE DE OLIVEIRA SILVA - PB - Deputado Federal;
+Diretório Estadual/Distrital;24.489.114/0001-05;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Direção Estadual/Distrital - PSDB -  / 4521 - EDIRCE DE OLIVEIRA SILVA - PB - Deputado Federal;

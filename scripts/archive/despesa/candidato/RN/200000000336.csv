@@ -1,7 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.262.844/0001-90;29/09/2010;31000048264;R$ 1.500,00;Estimado;JEOACAZ GOMES MARQUES DA SILVEIRA;31321;Deputado Estadual;PHS;RN;
-Comitê Financeiro Único;12.200.151/0001-72;30/09/2010;31000048265;R$ 500,00;Estimado;JEOACAZ GOMES MARQUES DA SILVEIRA;31321;Deputado Estadual;PHS;RN;
-Comitê Financeiro Único;12.200.151/0001-72;01/10/2010;31000048266;R$ 100,00;Estimado;JEOACAZ GOMES MARQUES DA SILVEIRA;31321;Deputado Estadual;PHS;RN;
-JEOCAZ GOMES MARQUES DA SILVEIRA;813.695.494-15;26/08/2010;31000048262;R$ 360,00;Depósito em espécie;JEOACAZ GOMES MARQUES DA SILVEIRA;31321;Deputado Estadual;PHS;RN;
-JEOCAZ GOMES MARQUES DA SILVEIRA;813.695.494-15;30/08/2010;31000048263;R$ 1.000,00;Estimado;JEOACAZ GOMES MARQUES DA SILVEIRA;31321;Deputado Estadual;PHS;RN;
-MARIA CIDETE DANTAS FERNANDES;480.784.334-68;26/07/2010;31000048261;R$ 50,00;Estimado;JEOACAZ GOMES MARQUES DA SILVEIRA;31321;Deputado Estadual;PHS;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.151/0001-72;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado;Comitê Financeiro Único - PHS -  / 31321 - JEOACAZ GOMES MARQUES DA SILVEIRA - RN - Deputado Estadual;
+Comitê Financeiro Único;12.262.844/0001-90;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado;Comitê Financeiro Único - PSB -  / 31321 - JEOACAZ GOMES MARQUES DA SILVEIRA - RN - Deputado Estadual;
+Comitê Financeiro Único;12.200.151/0001-72;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;Comitê Financeiro Único - PHS -  / 31321 - JEOACAZ GOMES MARQUES DA SILVEIRA - RN - Deputado Estadual;
+FERNANDES E BEZERRA LTDA;12.742.102/0001-61;31/08/2010;       Publicidade por materiais impressos;R$ 265,80;Cheque; -  -  / 31321 - JEOACAZ GOMES MARQUES DA SILVEIRA - RN - Deputado Estadual;
+JEOCAZ GOMES MARQUES DA SILVEIRA;813.695.494-15;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 31321 - JEOACAZ GOMES MARQUES DA SILVEIRA - RN - Deputado Estadual;
+MARIA CIDETE DANTAS FERNANDES;480.784.334-68;26/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 50,00;Estimado; -  -  / 31321 - JEOACAZ GOMES MARQUES DA SILVEIRA - RN - Deputado Estadual;
+POSTO OLINDA LTDA;40.756.983/0001-05;02/09/2010;       Combustíveis e lubrificantes;R$ 80,00;Cheque; -  -  / 31321 - JEOACAZ GOMES MARQUES DA SILVEIRA - RN - Deputado Estadual;

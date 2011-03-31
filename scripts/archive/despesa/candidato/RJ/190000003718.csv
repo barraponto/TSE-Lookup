@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;11/08/2010;14000130201;R$ 150,00;Estimado;ANDRE LUIS TENORIO DO NASCIMENTO;14773;Deputado Estadual;PTB;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;24/09/2010;14000130203;R$ 150,00;Estimado;ANDRE LUIS TENORIO DO NASCIMENTO;14773;Deputado Estadual;PTB;RJ;
-JORGE SAYED PICCIANI;12.176.626/0001-32;24/08/2010;14000130202;R$ 17,00;Estimado;ANDRE LUIS TENORIO DO NASCIMENTO;14773;Deputado Estadual;PTB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;11/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 14773 - ANDRE LUIS TENORIO DO NASCIMENTO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 14773 - ANDRE LUIS TENORIO DO NASCIMENTO - RJ - Deputado Estadual;
+JORGE SAYED PICCIANI;12.176.626/0001-32;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 14773 - ANDRE LUIS TENORIO DO NASCIMENTO - RJ - Deputado Estadual;

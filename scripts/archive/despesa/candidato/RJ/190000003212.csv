@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.167/0001-85;10/09/2010;10000028303;R$ 230,00;Estimado;WASHINGTON LUIZ ALVES;1055;Deputado Federal;PRB;RJ;
-Comitê Financeiro Único;12.200.167/0001-85;10/08/2010;10000028301;R$ 4.980,00;Estimado;WASHINGTON LUIZ ALVES;1055;Deputado Federal;PRB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.167/0001-85;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.980,00;Estimado;Comitê Financeiro Único - PRB -  / 1055 - WASHINGTON LUIZ ALVES - RJ - Deputado Federal;
+Comitê Financeiro Único;12.200.167/0001-85;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 230,00;Estimado;Comitê Financeiro Único - PRB -  / 1055 - WASHINGTON LUIZ ALVES - RJ - Deputado Federal;

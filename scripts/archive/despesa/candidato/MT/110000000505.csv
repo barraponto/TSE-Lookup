@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-EMERSON BIRCK;779.947.011-91;31/10/2010;40002453201;R$ 300,00;Estimado;ROGÉRIO SILVA SANTOS;4012;Deputado Federal;PSB;MT;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EMERSON BIRCK;779.947.011-91;31/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 4012 - ROGÉRIO SILVA SANTOS - MT - Deputado Federal;

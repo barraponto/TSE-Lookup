@@ -1,5 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.205.267/0001-02;30/09/2010;22000015702;R$ 508,00;Estimado;VANDETH MENDES JUNIOR;22789;Deputado Estadual;PR;MG;
-Diretório Estadual/Distrital;12.205.267/0001-02;30/09/2010;22000015703;R$ 1.197,84;Estimado;VANDETH MENDES JUNIOR;22789;Deputado Estadual;PR;MG;
-VANDETH MENDES JUNIOR;673.616.846-53;22/07/2010;22000000001;R$ 1.000,00;Depósito em espécie;VANDETH MENDES JUNIOR;22789;Deputado Estadual;PR;MG;
-VANDETH MENDES JUNIOR;673.616.846-53;14/09/2010;22000000002;R$ 1.800,00;Depósito em espécie;VANDETH MENDES JUNIOR;22789;Deputado Estadual;PR;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.205.267/0001-02;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.197,84;Estimado;Direção Estadual/Distrital - PR -  / 22789 - VANDETH MENDES JUNIOR - MG - Deputado Estadual;
+Diretório Estadual/Distrital;12.205.267/0001-02;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 508,00;Estimado;Direção Estadual/Distrital - PR -  / 22789 - VANDETH MENDES JUNIOR - MG - Deputado Estadual;
+IMPRESHOP;09.157.519/0001-52;10/08/2010;       Publicidade por materiais impressos;R$ 240,00;Cheque; -  -  / 22789 - VANDETH MENDES JUNIOR - MG - Deputado Estadual;
+IMPRESHOP;09.157.519/0001-52;29/07/2010;       Publicidade por materiais impressos;R$ 195,00;Cheque; -  -  / 22789 - VANDETH MENDES JUNIOR - MG - Deputado Estadual;
+JOSÉ DE FATIMA MENDESA;810.664.816-87;26/07/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 22789 - VANDETH MENDES JUNIOR - MG - Deputado Estadual;
+LUCIANA ALMEIDA BARBOSA;06.189.529/0001-81;29/09/2010;       Publicidade por jornais e revistas;R$ 1.850,00;Cheque; -  -  / 22789 - VANDETH MENDES JUNIOR - MG - Deputado Estadual;
+;;26/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 22789 - VANDETH MENDES JUNIOR - MG - Deputado Estadual;

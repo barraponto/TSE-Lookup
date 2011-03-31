@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-NATALIA LITTIG;078.723.606-32;20/07/2010;65000102201;R$ 2.920,00;Estimado;NATALIA LITTIG;65002;Deputado Estadual;PC do B;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+NATALIA LITTIG;078.723.606-32;20/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.920,00;Estimado; -  -  / 65002 - NATALIA LITTIG - MG - Deputado Estadual;

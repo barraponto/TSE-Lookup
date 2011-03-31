@@ -1,7 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;23000062206;R$ 572,40;Estimado;EVANDRO DA SILVA ARAUJO;23620;Deputado Estadual;PPS;BA;
-EMÍLIO RAMOS DE ARAÚJO;035.792.555-68;05/08/2010;23000062203;R$ 3.000,00;Depósito em espécie;EVANDRO DA SILVA ARAUJO;23620;Deputado Estadual;PPS;BA;
-EMÍLIO RAMOS DE ARAÚJO;035.792.555-68;18/08/2010;23000062204;R$ 800,00;Depósito em espécie;EVANDRO DA SILVA ARAUJO;23620;Deputado Estadual;PPS;BA;
-EMÍLIO RAMOS DE ARAÚJO;035.792.555-68;27/08/2010;23000062205;R$ 1.500,00;Depósito em espécie;EVANDRO DA SILVA ARAUJO;23620;Deputado Estadual;PPS;BA;
-EVANDRO DA SILVA ARAÚJO;728.919.125-00;02/08/2010;23000062201;R$ 4.000,00;Estimado;EVANDRO DA SILVA ARAUJO;23620;Deputado Estadual;PPS;BA;
-EVANDRO DA SILVA ARAÚJO;728.919.125-00;22/09/2010;23000062207;R$ 314,00;Depósito em espécie;EVANDRO DA SILVA ARAUJO;23620;Deputado Estadual;PPS;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+A CATAVENTO CUMUNICAÇÃO VISUAL LTDA;05.923.766/0001-61;24/08/2010;       Publicidade por materiais impressos;R$ 1.460,00;Cheque; -  -  / 23620 - EVANDRO DA SILVA ARAUJO - BA - Deputado Estadual;
+A CATAVENTO CUMUNICAÇÃO VISUAL LTDA;05.923.766/0001-61;05/08/2010;       Publicidade por placas, estandartes e faixas;R$ 365,00;Cheque; -  -  / 23620 - EVANDRO DA SILVA ARAUJO - BA - Deputado Estadual;
+CARTOGRAF GRÁFICA E EDITORA LTDA;34.136.598/0001-62;30/08/2010;       Publicidade por materiais impressos;R$ 194,00;Cheque; -  -  / 23620 - EVANDRO DA SILVA ARAUJO - BA - Deputado Estadual;
+Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 572,40;Estimado;Comitê Financeiro Único - PMDB -  / 23620 - EVANDRO DA SILVA ARAUJO - BA - Deputado Estadual;
+ESCRITA COMÉRCIO E SERVIÇOS LTDA;16.306.870/0001-23;31/08/2010;       Publicidade por materiais impressos;R$ 120,00;Cheque; -  -  / 23620 - EVANDRO DA SILVA ARAUJO - BA - Deputado Estadual;
+EVANDRO DA SILVA ARAÚJO;728.919.125-00;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.000,00;Estimado; -  -  / 23620 - EVANDRO DA SILVA ARAUJO - BA - Deputado Estadual;
+METAL INFOR - BRÁZ JOÃO DA SILVA JÚNIOR - ME;08.152.201/0001-16;19/08/2010;       Publicidade por materiais impressos;R$ 900,00;Cheque; -  -  / 23620 - EVANDRO DA SILVA ARAUJO - BA - Deputado Estadual;
+METAL INFOR - BRÁZ JOÃO DA SILVA JÚNIOR - ME;08.152.201/0001-16;06/09/2010;       Publicidade por placas, estandartes e faixas;R$ 75,00;Cheque; -  -  / 23620 - EVANDRO DA SILVA ARAUJO - BA - Deputado Estadual;
+METAL INFOR - BRÁZ JOÃO DA SILVA JÚNIOR - ME;08.152.201/0001-16;19/08/2010;       Publicidade por materiais impressos;R$ 2.500,00;Cheque; -  -  / 23620 - EVANDRO DA SILVA ARAUJO - BA - Deputado Estadual;

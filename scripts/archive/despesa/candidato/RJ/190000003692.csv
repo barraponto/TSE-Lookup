@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.154.856/0001-09;18/08/2010;50000391701;R$ 125,43;Estimado;WILLIAM MENEZES DOS SANTOS;5002;Deputado Federal;PSOL;RJ;
-Comitê Financeiro Único;12.154.856/0001-09;29/09/2010;50000391702;R$ 62,50;Estimado;WILLIAM MENEZES DOS SANTOS;5002;Deputado Federal;PSOL;RJ;
-JORGE MILTON TEMER;12.168.390/0001-92;30/09/2010;50000391703;R$ 270,20;Estimado;WILLIAM MENEZES DOS SANTOS;5002;Deputado Federal;PSOL;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.154.856/0001-09;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 62,50;Estimado;Comitê Financeiro Único - PSOL -  / 5002 - WILLIAM MENEZES DOS SANTOS - RJ - Deputado Federal;
+Comitê Financeiro Único;12.154.856/0001-09;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 125,43;Estimado;Comitê Financeiro Único - PSOL -  / 5002 - WILLIAM MENEZES DOS SANTOS - RJ - Deputado Federal;
+JORGE MILTON TEMER;12.168.390/0001-92;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 270,20;Estimado;500 -  - PSOL -  - Senador / 5002 - WILLIAM MENEZES DOS SANTOS - RJ - Deputado Federal;

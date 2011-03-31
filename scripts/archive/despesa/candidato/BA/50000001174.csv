@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 JAQUES WAGNER GOVERNADOR;12.174.245/0001-14;15/09/2010;10000004549;R$ 1.200,00;Estimado;AGNALDO DIAS DA CONCEIÇÃO;10110;Deputado Estadual;PRB;BA;
-ELEIÇÃO 2010 JAQUES WAGNER GOVERNADOR;12.174.245/0001-14;15/09/2010;10000004552;R$ 550,00;Estimado;AGNALDO DIAS DA CONCEIÇÃO;10110;Deputado Estadual;PRB;BA;
-ELEIÇÃO 2010 JAQUES WAGNER GOVERNADOR;12.174.245/0001-14;15/09/2010;10000004551;R$ 875,00;Estimado;AGNALDO DIAS DA CONCEIÇÃO;10110;Deputado Estadual;PRB;BA;
-ELEIÇÃO 2010 JAQUES WAGNER GOVERNADOR;12.174.245/0001-14;15/09/2010;10000004550;R$ 875,00;Estimado;AGNALDO DIAS DA CONCEIÇÃO;10110;Deputado Estadual;PRB;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 JAQUES WAGNER GOVERNADOR;12.174.245/0001-14;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 875,00;Estimado;13 -  - PT -  - Governador / 10110 - AGNALDO DIAS DA CONCEIÇÃO - BA - Deputado Estadual;
+ELEIÇÃO 2010 JAQUES WAGNER GOVERNADOR;12.174.245/0001-14;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 550,00;Estimado;13 -  - PT -  - Governador / 10110 - AGNALDO DIAS DA CONCEIÇÃO - BA - Deputado Estadual;
+ELEIÇÃO 2010 JAQUES WAGNER GOVERNADOR;12.174.245/0001-14;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 875,00;Estimado;13 -  - PT -  - Governador / 10110 - AGNALDO DIAS DA CONCEIÇÃO - BA - Deputado Estadual;
+ELEIÇÃO 2010 JAQUES WAGNER GOVERNADOR;12.174.245/0001-14;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.200,00;Estimado;13 -  - PT -  - Governador / 10110 - AGNALDO DIAS DA CONCEIÇÃO - BA - Deputado Estadual;

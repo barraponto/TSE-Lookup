@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;21.531.363/0001-23;06/09/2010;14000090952;R$ 1.444,55;Estimado;MILTON DOS SANTOS NASCIMENTO;1455;Deputado Federal;PTB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;21.531.363/0001-23;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.444,55;Estimado;Direção Estadual/Distrital - PTB -  / 1455 - MILTON DOS SANTOS NASCIMENTO - MG - Deputado Federal;

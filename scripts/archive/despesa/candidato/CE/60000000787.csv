@@ -1,5 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Governador;12.181.912/0001-96;29/09/2010;36000078967;R$ 800,00;Estimado;EDISIO DA SILVA BELO;3612;Deputado Federal;PTC;CE;
-EDISIO DA SILVA BELO;050.850.448-19;06/09/2010;36000078966;R$ 1.000,00;Depósito em espécie;EDISIO DA SILVA BELO;3612;Deputado Federal;PTC;CE;
-EDITORA CELIGRAFICA FOTOLITO LTDA;07.646.938/0001-22;18/08/2010;36000078968;R$ 2.695,00;Estimado;EDISIO DA SILVA BELO;3612;Deputado Federal;PTC;CE;
-PAULO ROBERTO DA COSTA BEZERRA;443.595.603-97;30/09/2010;36000078969;R$ 100,00;Estimado;EDISIO DA SILVA BELO;3612;Deputado Federal;PTC;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO FABIO ROMAO BELO;020.687.433-29;13/09/2010;       Serviços prestados por terceiros;R$ 400,00;Cheque; -  -  / 3612 - EDISIO DA SILVA BELO - CE - Deputado Federal;
+ANTONIO FABIO ROMAO BELO;020.687.433-29;17/09/2010;       Serviços prestados por terceiros;R$ 400,00;Cheque; -  -  / 3612 - EDISIO DA SILVA BELO - CE - Deputado Federal;
+ANTONIO FABIO ROMAO BELO;020.687.433-29;24/09/2010;       Serviços prestados por terceiros;R$ 200,00;Cheque; -  -  / 3612 - EDISIO DA SILVA BELO - CE - Deputado Federal;
+Comitê Financeiro Estadual/Distrital para Governador;12.181.912/0001-96;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 800,00;Estimado;Comitê Financeiro Distrital/Estadual para Governador - PSB -  / 3612 - EDISIO DA SILVA BELO - CE - Deputado Federal;
+EDITORA CELIGRAFICA FOTOLITO LTDA;07.646.938/0001-22;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.695,00;Estimado; -  -  / 3612 - EDISIO DA SILVA BELO - CE - Deputado Federal;
+PAULO ROBERTO DA COSTA BEZERRA;443.595.603-97;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado; -  -  / 3612 - EDISIO DA SILVA BELO - CE - Deputado Federal;

@@ -1,9 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CAMILO OLIVEIRA DE SOUZA;154.326.612-68;02/09/2010;20000040306;R$ 450,00;Depósito em espécie;CAMILO OLIVEIRA DE SOUZA;2040;Deputado Federal;PSC;AP;
-CAMILO OLIVEIRA DE SOUZA;154.326.612-68;29/09/2010;20000040307;R$ 300,00;Depósito em espécie;CAMILO OLIVEIRA DE SOUZA;2040;Deputado Federal;PSC;AP;
-CAMILO OLIVEIRA DE SOUZA;154.326.612-68;02/09/2010;20000040309;R$ 3.500,00;Estimado;CAMILO OLIVEIRA DE SOUZA;2040;Deputado Federal;PSC;AP;
-Comitê Financeiro Único;12.256.171/0001-65;02/09/2010;20000040301;R$ 4.700,00;Estimado;CAMILO OLIVEIRA DE SOUZA;2040;Deputado Federal;PSC;AP;
-Comitê Financeiro Único;12.256.171/0001-65;02/09/2010;20000040302;R$ 300,00;Estimado;CAMILO OLIVEIRA DE SOUZA;2040;Deputado Federal;PSC;AP;
-Comitê Financeiro Único;12.205.285/0001-86;17/08/2010;20000040303;R$ 964,36;Estimado;CAMILO OLIVEIRA DE SOUZA;2040;Deputado Federal;PSC;AP;
-Comitê Financeiro Único;12.205.285/0001-86;21/09/2010;20000040305;R$ 420,00;Estimado;CAMILO OLIVEIRA DE SOUZA;2040;Deputado Federal;PSC;AP;
-Comitê Financeiro Único;12.205.285/0001-86;05/08/2010;20000040304;R$ 900,00;Estimado;CAMILO OLIVEIRA DE SOUZA;2040;Deputado Federal;PSC;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CAMILO OLIVEIRA DE SOUZA;154.326.612-68;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.500,00;Estimado; -  -  / 2040 - CAMILO OLIVEIRA DE SOUZA - AP - Deputado Federal;
+Comitê Financeiro Único;12.205.285/0001-86;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 964,36;Estimado;Comitê Financeiro Único - PMDB -  / 2040 - CAMILO OLIVEIRA DE SOUZA - AP - Deputado Federal;
+Comitê Financeiro Único;12.205.285/0001-86;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 420,00;Estimado;Comitê Financeiro Único - PMDB -  / 2040 - CAMILO OLIVEIRA DE SOUZA - AP - Deputado Federal;
+Comitê Financeiro Único;12.256.171/0001-65;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.700,00;Estimado;Comitê Financeiro Único - PSC -  / 2040 - CAMILO OLIVEIRA DE SOUZA - AP - Deputado Federal;
+Comitê Financeiro Único;12.256.171/0001-65;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PSC -  / 2040 - CAMILO OLIVEIRA DE SOUZA - AP - Deputado Federal;
+Comitê Financeiro Único;12.205.285/0001-86;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 900,00;Estimado;Comitê Financeiro Único - PMDB -  / 2040 - CAMILO OLIVEIRA DE SOUZA - AP - Deputado Federal;
+GRUPO NILTON JUNIOR LTDA;04.373.727/0001-75;29/09/2010;       Combustíveis e lubrificantes;R$ 300,00;Cheque; -  -  / 2040 - CAMILO OLIVEIRA DE SOUZA - AP - Deputado Federal;
+GRUPO NILTON JUNIOR LTDA;04.373.727/0001-75;03/09/2010;       Combustíveis e lubrificantes;R$ 450,00;Cheque; -  -  / 2040 - CAMILO OLIVEIRA DE SOUZA - AP - Deputado Federal;

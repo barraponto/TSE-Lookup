@@ -1,4 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.204.833/0001-53;09/08/2010;10000045543;R$ 500,00;Estimado;CÁTIA HACKBARTH;1033;Deputado Federal;PRB;MT;
-Comitê Financeiro Único;12.204.833/0001-53;09/08/2010;10000045542;R$ 2.380,00;Estimado;CÁTIA HACKBARTH;1033;Deputado Federal;PRB;MT;
-ROSALI GRUN JANTSCH;568.056.751-20;28/09/2010;10000045541;R$ 2.000,00;Transferência eletrônica;CÁTIA HACKBARTH;1033;Deputado Federal;PRB;MT;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.204.833/0001-53;09/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.380,00;Estimado;Comitê Financeiro Único - PRB -  / 1033 - CÁTIA HACKBARTH - MT - Deputado Federal;
+Comitê Financeiro Único;12.204.833/0001-53;09/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;Comitê Financeiro Único - PRB -  / 1033 - CÁTIA HACKBARTH - MT - Deputado Federal;
+CRISTIAN HEIN PRADO;733.890.131-72;15/09/2010;       Despesas com pessoal;R$ 400,00;Transferência eletrônica; -  -  / 1033 - CÁTIA HACKBARTH - MT - Deputado Federal;
+EDILENE ROCHA;594.967.891-53;15/09/2010;       Despesas com pessoal;R$ 400,00;Transferência eletrônica; -  -  / 1033 - CÁTIA HACKBARTH - MT - Deputado Federal;
+JEONICE ALVES DE CAMPOS;012.960.011-30;15/09/2010;       Despesas com pessoal;R$ 400,00;Transferência eletrônica; -  -  / 1033 - CÁTIA HACKBARTH - MT - Deputado Federal;
+MICHELI MATEUS DOS SANTOS;045.669.811-69;15/09/2010;       Despesas com pessoal;R$ 400,00;Transferência eletrônica; -  -  / 1033 - CÁTIA HACKBARTH - MT - Deputado Federal;
+ZILMA MARIA DE PINHO;002.023.611-52;15/09/2010;       Despesas com pessoal;R$ 400,00;Transferência eletrônica; -  -  / 1033 - CÁTIA HACKBARTH - MT - Deputado Federal;

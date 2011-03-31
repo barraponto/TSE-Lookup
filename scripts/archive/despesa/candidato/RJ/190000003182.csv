@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-BRUNO FERREIRA COUTO;052.126.737-47;20/07/2010;10000027881;R$ 1.620,00;Transferência eletrônica;MARCELO DO NASCIMENTO;1000;Deputado Federal;PRB;RJ;
-Comitê Financeiro Único;12.200.167/0001-85;31/08/2010;10000027884;R$ 2.490,00;Estimado;MARCELO DO NASCIMENTO;1000;Deputado Federal;PRB;RJ;
-Comitê Financeiro Único;12.200.167/0001-85;10/08/2010;10000027883;R$ 4.980,00;Estimado;MARCELO DO NASCIMENTO;1000;Deputado Federal;PRB;RJ;
-RIOINFOS REPRESENTAÇÃO, COMÉRCIO E SERVIÇOS LTDA;03.829.110/0001-59;29/07/2010;10000027882;R$ 1.500,00;Estimado;MARCELO DO NASCIMENTO;1000;Deputado Federal;PRB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.167/0001-85;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.980,00;Estimado;Comitê Financeiro Único - PRB -  / 1000 - MARCELO DO NASCIMENTO - RJ - Deputado Federal;
+Comitê Financeiro Único;12.200.167/0001-85;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.490,00;Estimado;Comitê Financeiro Único - PRB -  / 1000 - MARCELO DO NASCIMENTO - RJ - Deputado Federal;
+EDNA COSTA DO VAL  DA SILVA;604.572.607-34;20/07/2010;       Locação/cessão de bens imóveis;R$ 1.600,00;Cheque; -  -  / 1000 - MARCELO DO NASCIMENTO - RJ - Deputado Federal;
+RIOINFOS REPRESENTAÇÃO, COMÉRCIO E SERVIÇOS LTDA;03.829.110/0001-59;29/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado; -  -  / 1000 - MARCELO DO NASCIMENTO - RJ - Deputado Federal;

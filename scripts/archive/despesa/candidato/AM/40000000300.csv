@@ -1,2 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LUIZ MANOEL NAVARRO;12.167.598/0001-97;27/08/2010;21000014520;R$ 500,00;Cheque;MARIA SELMA DA SILVA;211;1º Suplente Senador;PCB;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+FIORENTINA ALEMÃ;05.518.915/0002-98;30/09/2010;       Alimentação;R$ 149,49;Cheque; -  -  / 211 - MARIA SELMA DA SILVA - AM - 1º Suplente Senador;
+R.P.V. DA AMAZONIA;05.437.959/0001-02;21/09/2010;       Materiais de expediente;R$ 57,50;Cheque; -  -  / 211 - MARIA SELMA DA SILVA - AM - 1º Suplente Senador;
+TRAIRI-COM DE DERIVADOS DE PETROLEO LTDA.;04.811.052/0001-07;02/10/2010;       Combustíveis e lubrificantes;R$ 93,05;Cheque; -  -  / 211 - MARIA SELMA DA SILVA - AM - 1º Suplente Senador;
+211 - MARIA SELMA DA SILVA - 1º SUPLENTE SENADOR;12.176.063/0001-82;18/10/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 199,96;Cheque;21 - LUIZ MANOEL NAVARRO - PCB - AM - Governador / 211 - MARIA SELMA DA SILVA - AM - 1º Suplente Senador;

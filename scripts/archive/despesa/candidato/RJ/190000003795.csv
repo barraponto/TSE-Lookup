@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;11/09/2010;27000025993;R$ 150,00;Estimado;MARCO ANTONIO DOS REIS LOUROZA;27055;Deputado Estadual;PSDC;RJ;
-FILIPE DE ALMEIDA PEREIRA;12.171.101/0001-04;30/09/2010;27000025994;R$ 2.200,00;Estimado;MARCO ANTONIO DOS REIS LOUROZA;27055;Deputado Estadual;PSDC;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;11/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 27055 - MARCO ANTONIO DOS REIS LOUROZA - RJ - Deputado Estadual;
+FILIPE DE ALMEIDA PEREIRA;12.171.101/0001-04;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.200,00;Estimado;2020 -  - PSC -  - Deputado Federal / 27055 - MARCO ANTONIO DOS REIS LOUROZA - RJ - Deputado Estadual;

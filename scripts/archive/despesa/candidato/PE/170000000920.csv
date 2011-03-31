@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANIBAL DE OLIVEIRA VALENÇA;12.175.169/0001-61;29/09/2010;21000012827;R$ 80,00;Estimado;DANUBIO JOSÉ ROCHA AGUIAR;211;Senador;PCB;PE;
-Comitê Financeiro Único;12.229.917/0001-41;03/09/2010;21000012822;R$ 1.000,00;Estimado;DANUBIO JOSÉ ROCHA AGUIAR;211;Senador;PCB;PE;
-Comitê Financeiro Único;12.229.917/0001-41;28/09/2010;21000012824;R$ 200,00;Transferência eletrônica;DANUBIO JOSÉ ROCHA AGUIAR;211;Senador;PCB;PE;
-Comitê Financeiro Único;12.229.917/0001-41;22/09/2010;21000012825;R$ 500,00;Estimado;DANUBIO JOSÉ ROCHA AGUIAR;211;Senador;PCB;PE;
-VANIA PADUSCA DE AGUIAR LIMA;070.086.602-78;02/09/2010;21000012821;R$ 250,00;Cheque;DANUBIO JOSÉ ROCHA AGUIAR;211;Senador;PCB;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANIBAL DE OLIVEIRA VALENÇA;12.175.169/0001-61;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 80,00;Estimado;21 -  - PCB -  - Vice-Governador / 211 - DANUBIO JOSÉ ROCHA AGUIAR - PE - Senador;
+Comitê Financeiro Único;12.229.917/0001-41;22/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;Comitê Financeiro Único - PCB -  / 211 - DANUBIO JOSÉ ROCHA AGUIAR - PE - Senador;
+Comitê Financeiro Único;12.229.917/0001-41;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;Comitê Financeiro Único - PCB -  / 211 - DANUBIO JOSÉ ROCHA AGUIAR - PE - Senador;
+REPROCENTER LTDA;35.464.817/0001-03;30/09/2010;       Publicidade por materiais impressos;R$ 350,00;Cheque; -  -  / 211 - DANUBIO JOSÉ ROCHA AGUIAR - PE - Senador;
+REPROCENTER LTDA;35.464.817/0001-03;29/10/2010;       Publicidade por materiais impressos;R$ 100,00;Cheque; -  -  / 211 - DANUBIO JOSÉ ROCHA AGUIAR - PE - Senador;

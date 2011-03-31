@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DANIEL S. TOURINHO;12.172.794/0001-50;06/08/2010;36000053152;R$ 339,00;Estimado;SANDERLAND DE MATTOS MEDEIROS;36663;Deputado Estadual;PTC;RJ;
-DANIEL S. TOURINHO;12.172.794/0001-50;14/09/2010;36000053155;R$ 2.800,00;Estimado;SANDERLAND DE MATTOS MEDEIROS;36663;Deputado Estadual;PTC;RJ;
-DANIEL S. TOURINHO;12.172.794/0001-50;22/08/2010;36000053153;R$ 700,00;Estimado;SANDERLAND DE MATTOS MEDEIROS;36663;Deputado Estadual;PTC;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DANIEL S. TOURINHO;12.172.794/0001-50;22/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 700,00;Estimado;3636 -  - PTC -  - Deputado Federal / 36663 - SANDERLAND DE MATTOS MEDEIROS - RJ - Deputado Estadual;
+DANIEL S. TOURINHO;12.172.794/0001-50;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.800,00;Estimado;3636 -  - PTC -  - Deputado Federal / 36663 - SANDERLAND DE MATTOS MEDEIROS - RJ - Deputado Estadual;
+DANIEL S. TOURINHO;12.172.794/0001-50;06/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 339,00;Estimado;3636 -  - PTC -  - Deputado Federal / 36663 - SANDERLAND DE MATTOS MEDEIROS - RJ - Deputado Estadual;

@@ -1,4 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSÉ FERNANDO APARECIDO DE OLIVEIRA;12.168.802/0001-94;31/08/2010;43001709502;R$ 480,00;Estimado;VICENTE DOS REIS MARINHO;4345;Deputado Federal;PV;MG;
-RONALDO VASCONCELLOS NOVAIS;12.170.805/0001-62;17/08/2010;43001709501;R$ 247,50;Estimado;VICENTE DOS REIS MARINHO;4345;Deputado Federal;PV;MG;
-RONALDO VASCONCELLOS NOVAIS;12.170.805/0001-62;21/09/2010;43001709503;R$ 1.000,00;Cheque;VICENTE DOS REIS MARINHO;4345;Deputado Federal;PV;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DEBORA DA SILVA NASCIMENTO;079.103.596-40;24/09/2010;       Despesas com pessoal;R$ 250,00;Cheque; -  -  / 4345 - VICENTE DOS REIS MARINHO - MG - Deputado Federal;
+DEBORA DA SILVA NASCIMENTO;079.103.596-40;24/09/2010;       Despesas com pessoal;R$ 200,00;Cheque; -  -  / 4345 - VICENTE DOS REIS MARINHO - MG - Deputado Federal;
+DEBORA DA SILVA NASCIMENTO;079.103.596-40;24/09/2010;       Despesas com pessoal;R$ 150,00;Cheque; -  -  / 4345 - VICENTE DOS REIS MARINHO - MG - Deputado Federal;
+JOSÉ FERNANDO APARECIDO DE OLIVEIRA;12.168.802/0001-94;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 480,00;Estimado;43 -  - PV -  - Governador / 4345 - VICENTE DOS REIS MARINHO - MG - Deputado Federal;
+RONALDO DOS REIS MARINHO;418.972.856-04;24/09/2010;       Despesas com pessoal;R$ 350,00;Cheque; -  -  / 4345 - VICENTE DOS REIS MARINHO - MG - Deputado Federal;
+RONALDO VASCONCELLOS NOVAIS;12.170.805/0001-62;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 247,50;Estimado;43222 -  - PV -  - Deputado Estadual / 4345 - VICENTE DOS REIS MARINHO - MG - Deputado Federal;

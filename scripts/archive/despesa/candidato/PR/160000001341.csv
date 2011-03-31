@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 CLAIR DA FLORA MARTINS;12.172.378/0001-51;01/10/2010;43001780203;R$ 1.067,66;Estimado;ASBRA MICHEL MATEUS IZAR;43143;Deputado Estadual;PV;PR;
-ELEIÇÃO 2010 CLAIR DA FLORA MARTINS;12.172.378/0001-51;01/10/2010;43001780202;R$ 240,00;Estimado;ASBRA MICHEL MATEUS IZAR;43143;Deputado Estadual;PV;PR;
-ELEICOES 2010 CLEUSA ROSANE RIBAS FERREIRA DEP FED;12.178.049/0001-18;17/08/2010;43001780201;R$ 335,00;Estimado;ASBRA MICHEL MATEUS IZAR;43143;Deputado Estadual;PV;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 CLAIR DA FLORA MARTINS;12.172.378/0001-51;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.067,66;Estimado;4399 -  - PV -  - Deputado Federal / 43143 - ASBRA MICHEL MATEUS IZAR - PR - Deputado Estadual;
+ELEIÇÃO 2010 CLAIR DA FLORA MARTINS;12.172.378/0001-51;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 240,00;Estimado;4399 -  - PV -  - Deputado Federal / 43143 - ASBRA MICHEL MATEUS IZAR - PR - Deputado Estadual;
+ELEICOES 2010 CLEUSA ROSANE RIBAS FERREIRA DEP FED;12.178.049/0001-18;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 335,00;Estimado;4343 -  - PV -  - Deputado Federal / 43143 - ASBRA MICHEL MATEUS IZAR - PR - Deputado Estadual;

@@ -1,6 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-EDIMILSON LUIZ SOARES TORRES;942.802.076-15;27/08/2010;19000023615;R$ 300,00;Estimado;WILLIAM MACHADO;19345;Deputado Estadual;PTN;MG;
-ISABELA MORAES CAMPOS;099.210.836-51;12/08/2010;19000023611;R$ 500,00;Cheque;WILLIAM MACHADO;19345;Deputado Estadual;PTN;MG;
-ISABELA MORAES CAMPOS;099.210.836-51;27/08/2010;19000023614;R$ 500,00;Cheque;WILLIAM MACHADO;19345;Deputado Estadual;PTN;MG;
-RAPHAEL CESAR SANTOS MACHADO;074.070.626-84;12/08/2010;19000023613;R$ 1.000,00;Estimado;WILLIAM MACHADO;19345;Deputado Estadual;PTN;MG;
-WILLIAM MACHADO;175.794.146-00;12/08/2010;19000023612;R$ 1.000,00;Estimado;WILLIAM MACHADO;19345;Deputado Estadual;PTN;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ECT EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS;34.028.316/7021-32;31/08/2010;       Despesas postais;R$ 74,70;Cheque; -  -  / 19345 - WILLIAM MACHADO - MG - Deputado Estadual;
+EDIMILSON LUIZ SOARES TORRES;942.802.076-15;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 19345 - WILLIAM MACHADO - MG - Deputado Estadual;
+EVEREST COMUNICAÇÃO VISUAL LTDA;05.895.835/0001-70;19/08/2010;       Publicidade por placas, estandartes e faixas;R$ 480,00;Cheque; -  -  / 19345 - WILLIAM MACHADO - MG - Deputado Estadual;
+GUI@ COMUNICAÇÃO VISUAL LTDA - ME;03.291.111/0001-92;26/08/2010;       Publicidade por placas, estandartes e faixas;R$ 250,00;Cheque; -  -  / 19345 - WILLIAM MACHADO - MG - Deputado Estadual;
+RAPHAEL CESAR SANTOS MACHADO;074.070.626-84;12/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 19345 - WILLIAM MACHADO - MG - Deputado Estadual;
+WILLIAM MACHADO;175.794.146-00;12/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 19345 - WILLIAM MACHADO - MG - Deputado Estadual;

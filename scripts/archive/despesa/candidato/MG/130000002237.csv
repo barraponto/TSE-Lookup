@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.372.871/0001-15;31/08/2010;12001639202;R$ 1.320,00;Estimado;JAIR DIAS CAMPOS;12600;Deputado Estadual;PDT;MG;
-Comitê Financeiro Único;12.372.871/0001-15;29/07/2010;12001639203;R$ 1.197,84;Estimado;JAIR DIAS CAMPOS;12600;Deputado Estadual;PDT;MG;
-Comitê Financeiro Único;12.154.851/0001-78;23/08/2010;12001639204;R$ 590,00;Estimado;JAIR DIAS CAMPOS;12600;Deputado Estadual;PDT;MG;
-JAIR DIAS CAMPOS;015.243.246-98;08/07/2010;12001639201;R$ 40,00;Depósito em espécie;JAIR DIAS CAMPOS;12600;Deputado Estadual;PDT;MG;
-JAIR DIAS CAMPOS;015.243.246-98;03/08/2010;12001639205;R$ 274,00;Depósito em espécie;JAIR DIAS CAMPOS;12600;Deputado Estadual;PDT;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.372.871/0001-15;29/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.197,84;Estimado;Comitê Financeiro Único - PDT -  / 12600 - JAIR DIAS CAMPOS - MG - Deputado Estadual;
+Comitê Financeiro Único;12.372.871/0001-15;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.320,00;Estimado;Comitê Financeiro Único - PDT -  / 12600 - JAIR DIAS CAMPOS - MG - Deputado Estadual;
+Comitê Financeiro Único;12.154.851/0001-78;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 590,00;Estimado;Comitê Financeiro Único - PT do B -  / 12600 - JAIR DIAS CAMPOS - MG - Deputado Estadual;
+GRÁFICA YOLANDA LTDA;10.753.320/0001-76;27/07/2010;       Publicidade por materiais impressos;R$ 274,00;Cheque; -  -  / 12600 - JAIR DIAS CAMPOS - MG - Deputado Estadual;
+;;03/08/2010;       Encargos financeiros e taxas bancárias;R$ 3,00;Débito em conta; -  -  / 12600 - JAIR DIAS CAMPOS - MG - Deputado Estadual;

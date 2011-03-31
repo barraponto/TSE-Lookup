@@ -1,2 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-RAPHAEL MOURA FRANCO;082.349.546-95;26/08/2010;36000013902;R$ 1.800,00;Depósito em espécie;RAPHAEL MOURA FRANCO;3650;Deputado Federal;PTC;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA E EDITORA ITAMARATI LTDA-ME;86.623.956/0001-65;02/09/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 3650 - RAPHAEL MOURA FRANCO - MG - Deputado Federal;
+GRAFICA E EDITORA ITAMARATI LTDA-ME;86.623.956/0001-65;31/08/2010;       Publicidade por materiais impressos;R$ 750,00;Cheque; -  -  / 3650 - RAPHAEL MOURA FRANCO - MG - Deputado Federal;
+HOSTNET/DIGIRATI INFORMATICA LTDA;05.506.560/0001-36;26/08/2010;       Criação e inclusão de páginas na internet;R$ 30,00;Transferência eletrônica; -  -  / 3650 - RAPHAEL MOURA FRANCO - MG - Deputado Federal;
+3650 - RAPHAEL MOURA FRANCO - DEPUTADO FEDERAL;12.170.540/0001-00;03/11/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 19,30;Cheque;Direção Estadual/Distrital - PTC - MG / 3650 - RAPHAEL MOURA FRANCO - MG - Deputado Federal;
+;;26/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 3650 - RAPHAEL MOURA FRANCO - MG - Deputado Federal;
+;;26/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 3650 - RAPHAEL MOURA FRANCO - MG - Deputado Federal;

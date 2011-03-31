@@ -1,2 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANA TEREZA PINTO;280.568.683-72;21/09/2010;11000097802;R$ 400,00;Depósito em espécie;ANA TEREZA PINTO;11913;Deputado Estadual;PP;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GEORGE HENRIQUE PINHEIRO SOUZA;013.708.973-24;01/10/2010;       Publicidade por materiais impressos;R$ 200,00;Transferência eletrônica; -  -  / 11913 - ANA TEREZA PINTO - MA - Deputado Estadual;
+JOSE AUGUSTO DA COSTA LEITE;686.504.778-87;01/10/2010;       Publicidade por materiais impressos;R$ 200,00;Transferência eletrônica; -  -  / 11913 - ANA TEREZA PINTO - MA - Deputado Estadual;

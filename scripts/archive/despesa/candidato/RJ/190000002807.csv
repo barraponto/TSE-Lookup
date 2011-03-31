@@ -1,7 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;28000182748;R$ 150,00;Estimado;EFIGÊNIO SOARES CARVALHO;28028;Deputado Estadual;PRTB;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;13/09/2010;28000182746;R$ 150,00;Estimado;EFIGÊNIO SOARES CARVALHO;28028;Deputado Estadual;PRTB;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;08/09/2010;28000182749;R$ 150,00;Estimado;EFIGÊNIO SOARES CARVALHO;28028;Deputado Estadual;PRTB;RJ;
-EFIGENIO SOARES CARVALHO DEPUTADO ESTADUAL;982.005.267-04;25/08/2010;28000182751;R$ 1.000,00;Depósito em espécie;EFIGÊNIO SOARES CARVALHO;28028;Deputado Estadual;PRTB;RJ;
-EFIGENIO SOARES CARVALHO DEPUTADO ESTADUAL;982.005.267-04;25/08/2010;28000182747;R$ 1.000,00;Depósito em espécie;EFIGÊNIO SOARES CARVALHO;28028;Deputado Estadual;PRTB;RJ;
-EFIGENIO SOARES CARVALHO DEPUTADO ESTADUAL;982.005.267-04;26/10/2010;28000182752;R$ 421,70;Depósito em espécie;EFIGÊNIO SOARES CARVALHO;28028;Deputado Estadual;PRTB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARTES GRAFICAS VIANNA ALVES LTDA;29.518.628/0001-65;16/08/2010;       Publicidade por materiais impressos;R$ 260,00;Cheque; -  -  / 28028 - EFIGÊNIO SOARES CARVALHO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 28028 - EFIGÊNIO SOARES CARVALHO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;13/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 28028 - EFIGÊNIO SOARES CARVALHO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;08/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 28028 - EFIGÊNIO SOARES CARVALHO - RJ - Deputado Estadual;
+EDITORA O DIA LTDA;33.216.797/0001-18;30/09/2010;       Publicidade por jornais e revistas;R$ 896,00;Cheque; -  -  / 28028 - EFIGÊNIO SOARES CARVALHO - RJ - Deputado Estadual;
+SIMONE FERREIRA FIDALGO;009.043.287-83;08/09/2010;       Locação/cessão de bens imóveis;R$ 500,00;Cheque; -  -  / 28028 - EFIGÊNIO SOARES CARVALHO - RJ - Deputado Estadual;
+5.2 DESIGN LTDA.;01.032.562/0001-80;25/08/2010;       Produção de jingles, vinhetas e slogans;R$ 765,00;Cheque; -  -  / 28028 - EFIGÊNIO SOARES CARVALHO - RJ - Deputado Estadual;
+;;30/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,70;Débito em conta; -  -  / 28028 - EFIGÊNIO SOARES CARVALHO - RJ - Deputado Estadual;

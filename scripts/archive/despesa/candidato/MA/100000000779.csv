@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.310/0001-21;02/09/2010;17000052302;R$ 641,00;Estimado;JOAO PINHEIRO COSTA FILHO;17300;Deputado Estadual;PSL;MA;
-Comitê Financeiro Único;12.205.310/0001-21;02/08/2010;17000052301;R$ 166,65;Estimado;JOAO PINHEIRO COSTA FILHO;17300;Deputado Estadual;PSL;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.310/0001-21;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 641,00;Estimado;Comitê Financeiro Único - PSL -  / 17300 - JOAO PINHEIRO COSTA FILHO - MA - Deputado Estadual;
+Comitê Financeiro Único;12.205.310/0001-21;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 166,65;Estimado;Comitê Financeiro Único - PSL -  / 17300 - JOAO PINHEIRO COSTA FILHO - MA - Deputado Estadual;

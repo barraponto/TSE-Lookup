@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 CLAIR DA FLORA MARTINS;12.172.378/0001-51;20/08/2010;43001772801;R$ 240,00;Estimado;MARIA INEZ GOMES;43147;Deputado Estadual;PV;PR;
-ELEIÇÃO 2010 CLAIR DA FLORA MARTINS;12.172.378/0001-51;20/08/2010;43001772802;R$ 240,00;Estimado;MARIA INEZ GOMES;43147;Deputado Estadual;PV;PR;
-MARIA INEZ GOMES;364.380.309-53;30/09/2010;43001772803;R$ 140,00;Depósito em espécie;MARIA INEZ GOMES;43147;Deputado Estadual;PV;PR;
-MARIA INEZ GOMES;364.380.309-53;13/10/2010;43001772804;R$ 14,50;Depósito em espécie;MARIA INEZ GOMES;43147;Deputado Estadual;PV;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 CLAIR DA FLORA MARTINS;12.172.378/0001-51;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 240,00;Estimado;4399 -  - PV -  - Deputado Federal / 43147 - MARIA INEZ GOMES - PR - Deputado Estadual;
+ELEIÇÃO 2010 CLAIR DA FLORA MARTINS;12.172.378/0001-51;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 240,00;Estimado;4399 -  - PV -  - Deputado Federal / 43147 - MARIA INEZ GOMES - PR - Deputado Estadual;
+RAFAEL  FERNANDO CESÁRIO;026.883.979-40;30/09/2010;       Publicidade por jornais e revistas;R$ 120,00;Transferência eletrônica; -  -  / 43147 - MARIA INEZ GOMES - PR - Deputado Estadual;
+;;04/10/2010;       Encargos financeiros e taxas bancárias;R$ 21,00;Débito em conta; -  -  / 43147 - MARIA INEZ GOMES - PR - Deputado Estadual;
+;;13/10/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Débito em conta; -  -  / 43147 - MARIA INEZ GOMES - PR - Deputado Estadual;

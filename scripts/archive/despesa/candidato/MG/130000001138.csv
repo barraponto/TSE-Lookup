@@ -1,4 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANA MACEDO DOS SANTOS;665.109.618-49;13/08/2010;36000000951;R$ 560,00;Depósito em espécie;ANA MACEDO DOS SANTOS;36135;Deputado Estadual;PTC;MG;
-ANA MACEDO DOS SANTOS;665.109.618-49;25/08/2010;36000000952;R$ 500,00;Depósito em espécie;ANA MACEDO DOS SANTOS;36135;Deputado Estadual;PTC;MG;
-Comitê Financeiro Único;12.154.851/0001-78;15/09/2010;36000000953;R$ 1.180,00;Estimado;ANA MACEDO DOS SANTOS;36135;Deputado Estadual;PTC;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.154.851/0001-78;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.180,00;Estimado;Comitê Financeiro Único - PT do B -  / 36135 - ANA MACEDO DOS SANTOS - MG - Deputado Estadual;
+NARCI PINTO DA ROCHA;250.724.206-04;01/09/2010;       Serviços prestados por terceiros;R$ 51,00;Cheque; -  -  / 36135 - ANA MACEDO DOS SANTOS - MG - Deputado Estadual;
+PAPELARIA AMAPEX LTDA-ME;03.908.465/0001-33;01/09/2010;       Publicidade por placas, estandartes e faixas;R$ 250,00;Cheque; -  -  / 36135 - ANA MACEDO DOS SANTOS - MG - Deputado Estadual;
+PAPELARIA AMAPEX LTDA-ME;03.908.465/0001-33;20/08/2010;       Publicidade por placas, estandartes e faixas;R$ 230,00;Cheque; -  -  / 36135 - ANA MACEDO DOS SANTOS - MG - Deputado Estadual;
+PAPELARIA AMAPEX LTDA-ME;03.908.465/0001-33;01/09/2010;       Publicidade por placas, estandartes e faixas;R$ 240,00;Cheque; -  -  / 36135 - ANA MACEDO DOS SANTOS - MG - Deputado Estadual;
+PAPELARIA AMAPEX LTDA-ME;03.908.465/0001-33;24/08/2010;       Publicidade por placas, estandartes e faixas;R$ 200,00;Cheque; -  -  / 36135 - ANA MACEDO DOS SANTOS - MG - Deputado Estadual;
+PAULO RODRIGUES DESIGNER;368.719.478-76;18/08/2010;       Publicidade por placas, estandartes e faixas;R$ 70,00;Cheque; -  -  / 36135 - ANA MACEDO DOS SANTOS - MG - Deputado Estadual;
+;;13/08/2010;       Encargos financeiros e taxas bancárias;R$ 19,00;Débito em conta; -  -  / 36135 - ANA MACEDO DOS SANTOS - MG - Deputado Estadual;

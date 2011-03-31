@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.154.851/0001-78;23/08/2010;70000189663;R$ 590,00;Estimado;ELIEZER BARBOSA SOARES;70080;Deputado Estadual;PT do B;MG;
-Diretório Estadual/Distrital;12.154.851/0001-78;02/09/2010;70000189665;R$ 180,00;Estimado;ELIEZER BARBOSA SOARES;70080;Deputado Estadual;PT do B;MG;
-Diretório Estadual/Distrital;12.154.851/0001-78;02/09/2010;70000189664;R$ 262,00;Estimado;ELIEZER BARBOSA SOARES;70080;Deputado Estadual;PT do B;MG;
-ELIEZER BARBOSA SOARES;832.506.547-87;20/08/2010;70000189662;R$ 400,00;Depósito em espécie;ELIEZER BARBOSA SOARES;70080;Deputado Estadual;PT do B;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARTE VISUAL LTDA;05.725.746/0001-86;20/08/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 70080 - ELIEZER BARBOSA SOARES - MG - Deputado Estadual;
+Diretório Estadual/Distrital;12.154.851/0001-78;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 262,00;Estimado;Direção Estadual/Distrital - PT do B -  / 70080 - ELIEZER BARBOSA SOARES - MG - Deputado Estadual;
+Diretório Estadual/Distrital;12.154.851/0001-78;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 180,00;Estimado;Direção Estadual/Distrital - PT do B -  / 70080 - ELIEZER BARBOSA SOARES - MG - Deputado Estadual;
+Diretório Estadual/Distrital;12.154.851/0001-78;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 590,00;Estimado;Direção Estadual/Distrital - PT do B -  / 70080 - ELIEZER BARBOSA SOARES - MG - Deputado Estadual;

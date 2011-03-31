@@ -1,5 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 CARLOS ALBERTO RICHA GOVERNADOR;12.190.887/0001-07;11/08/2010;40002063323;R$ 1.575,00;Estimado;MARCIO FERREIRA PEREIRA;4013;Deputado Federal;PSB;PR;
-ELEIÇÃO 2010 CARLOS ALBERTO RICHA GOVERNADOR;12.190.887/0001-07;18/09/2010;40002063324;R$ 1.250,00;Estimado;MARCIO FERREIRA PEREIRA;4013;Deputado Federal;PSB;PR;
-ELEIÇÃO 2010 CARLOS ALBERTO RICHA GOVERNADOR;12.190.887/0001-07;27/09/2010;40002063325;R$ 1.680,00;Depósito em espécie;MARCIO FERREIRA PEREIRA;4013;Deputado Federal;PSB;PR;
-ELEIÇÃO 2010 GUSTAVO BONATO FRUET SENADOR;12.179.221/0001-58;23/09/2010;40002063326;R$ 1.290,00;Estimado;MARCIO FERREIRA PEREIRA;4013;Deputado Federal;PSB;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 CARLOS ALBERTO RICHA GOVERNADOR;12.190.887/0001-07;18/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.250,00;Estimado;45 -  - PSDB -  - Governador / 4013 - MARCIO FERREIRA PEREIRA - PR - Deputado Federal;
+ELEIÇÃO 2010 CARLOS ALBERTO RICHA GOVERNADOR;12.190.887/0001-07;11/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.575,00;Estimado;45 -  - PSDB -  - Governador / 4013 - MARCIO FERREIRA PEREIRA - PR - Deputado Federal;
+ELEIÇÃO 2010 GUSTAVO BONATO FRUET SENADOR;12.179.221/0001-58;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.290,00;Estimado;456 -  - PSDB -  - Senador / 4013 - MARCIO FERREIRA PEREIRA - PR - Deputado Federal;
+JORGE TADEU SOARES DE LIMA;402.386.019-00;17/09/2010;       Publicidade por placas, estandartes e faixas;R$ 700,00;Não informado; -  -  / 4013 - MARCIO FERREIRA PEREIRA - PR - Deputado Federal;
+JORGE TADEU SOARES DE LIMA;402.386.019-00;25/09/2010;       Publicidade por placas, estandartes e faixas;R$ 600,00;Não informado; -  -  / 4013 - MARCIO FERREIRA PEREIRA - PR - Deputado Federal;
+MILANI RATUSZNEI E CIA LTDA;81.120.255/0001-90;21/09/2010;       Materiais de expediente;R$ 121,00;Não informado; -  -  / 4013 - MARCIO FERREIRA PEREIRA - PR - Deputado Federal;
+PAULO ORPHY DE OLIVEIRA JUNIOR;024.810.609-03;24/09/2010;       Serviços prestados por terceiros;R$ 220,50;Não informado; -  -  / 4013 - MARCIO FERREIRA PEREIRA - PR - Deputado Federal;
+SANTIN E PIOVEZAN LTDA.;09.093.841/0001-65;22/09/2010;       Alimentação;R$ 38,50;Não informado; -  -  / 4013 - MARCIO FERREIRA PEREIRA - PR - Deputado Federal;

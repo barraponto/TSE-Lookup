@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DANIEL SOARES DA SILVA;284.612.744-15;27/08/2010;15000176527;R$ 300,00;Estimado;DANIEL SOARES DA SILVA;15678;Deputado Estadual;PMDB;PE;
-DANIEL SOARES DA SILVA;284.612.744-15;27/08/2010;15000176526;R$ 200,00;Estimado;DANIEL SOARES DA SILVA;15678;Deputado Estadual;PMDB;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DANIEL SOARES DA SILVA;284.612.744-15;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado; -  -  / 15678 - DANIEL SOARES DA SILVA - PE - Deputado Estadual;
+DANIEL SOARES DA SILVA;284.612.744-15;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 15678 - DANIEL SOARES DA SILVA - PE - Deputado Estadual;

@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;65000144701;R$ 150,00;Estimado;GUILHERME FRANCO DE TOLEDO;65033;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;65000144702;R$ 150,00;Estimado;GUILHERME FRANCO DE TOLEDO;65033;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.191.555/0001-47;06/09/2010;65000144705;R$ 893,75;Estimado;GUILHERME FRANCO DE TOLEDO;65033;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.191.555/0001-47;01/09/2010;65000144706;R$ 1.365,65;Estimado;GUILHERME FRANCO DE TOLEDO;65033;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.191.555/0001-47;30/09/2010;65000144704;R$ 100,00;Estimado;GUILHERME FRANCO DE TOLEDO;65033;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;65000144703;R$ 300,00;Estimado;GUILHERME FRANCO DE TOLEDO;65033;Deputado Estadual;PC do B;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 65033 - GUILHERME FRANCO DE TOLEDO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 65033 - GUILHERME FRANCO DE TOLEDO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.191.555/0001-47;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 893,75;Estimado;Comitê Financeiro Único - PC do B -  / 65033 - GUILHERME FRANCO DE TOLEDO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.191.555/0001-47;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado;Comitê Financeiro Único - PC do B -  / 65033 - GUILHERME FRANCO DE TOLEDO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 65033 - GUILHERME FRANCO DE TOLEDO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.191.555/0001-47;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.365,65;Estimado;Comitê Financeiro Único - PC do B -  / 65033 - GUILHERME FRANCO DE TOLEDO - RJ - Deputado Estadual;

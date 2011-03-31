@@ -1,8 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.205.279/0001-29;23/09/2010;43001807635;R$ 1.071,42;Cheque;ADALTON MOREIRA DE OLIVEIRA;43013;Deputado Estadual;PV;AC;
-Comitê Financeiro Estadual/Distrital para Senador da República;12.147.828/0001-56;21/09/2010;43001807636;R$ 2.000,00;Cheque;ADALTON MOREIRA DE OLIVEIRA;43013;Deputado Estadual;PV;AC;
-Comitê Financeiro Único;12.205.279/0001-29;20/08/2010;43001807630;R$ 635,00;Cheque;ADALTON MOREIRA DE OLIVEIRA;43013;Deputado Estadual;PV;AC;
-Comitê Financeiro Único;12.205.279/0001-29;05/08/2010;43001807629;R$ 896,00;Estimado;ADALTON MOREIRA DE OLIVEIRA;43013;Deputado Estadual;PV;AC;
-Comitê Financeiro Único;12.205.279/0001-29;29/09/2010;43001807637;R$ 571,42;Cheque;ADALTON MOREIRA DE OLIVEIRA;43013;Deputado Estadual;PV;AC;
-Comitê Financeiro Único;12.205.279/0001-29;06/09/2010;43001807633;R$ 250,00;Cheque;ADALTON MOREIRA DE OLIVEIRA;43013;Deputado Estadual;PV;AC;
-TELMO RIBEIRO DE FIGUEIREDO;899.414.707-15;10/08/2010;43001807634;R$ 600,00;Transferência eletrônica;ADALTON MOREIRA DE OLIVEIRA;43013;Deputado Estadual;PV;AC;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.279/0001-29;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 896,00;Estimado;Comitê Financeiro Único - PV -  / 43013 - ADALTON MOREIRA DE OLIVEIRA - AC - Deputado Estadual;
+REGINA ROSA MACHADO;641.718.922-87;23/08/2010;       Publicidade por materiais impressos;R$ 635,00;Cheque; -  -  / 43013 - ADALTON MOREIRA DE OLIVEIRA - AC - Deputado Estadual;
+REGINA ROSA MACHADO;641.718.922-87;23/09/2010;       Cessão ou Locação de Veículos;R$ 3.071,42;Cheque; -  -  / 43013 - ADALTON MOREIRA DE OLIVEIRA - AC - Deputado Estadual;
+REGINA ROSA MACHADO;641.718.922-87;30/09/2010;       Locação/cessão de bens imóveis;R$ 571,42;Cheque; -  -  / 43013 - ADALTON MOREIRA DE OLIVEIRA - AC - Deputado Estadual;
+REGINA ROSA MACHADO;641.718.922-87;13/08/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 43013 - ADALTON MOREIRA DE OLIVEIRA - AC - Deputado Estadual;
+REGINA ROSA MACHADO;641.718.922-87;06/09/2010;       Produção de jingles, vinhetas e slogans;R$ 250,00;Cheque; -  -  / 43013 - ADALTON MOREIRA DE OLIVEIRA - AC - Deputado Estadual;

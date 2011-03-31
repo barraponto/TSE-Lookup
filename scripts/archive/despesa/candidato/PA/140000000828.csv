@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANA JULIA DE VASCONCELOS CAREPA;12.171.430/0001-55;29/09/2010;22000063906;R$ 1.750,00;Estimado;MARCIOLINO MONTEIRO DA ROSA;22110;Deputado Estadual;PR;PA;
-Comitê Financeiro Único;12.249.219/0001-08;25/08/2010;22000063901;R$ 480,00;Estimado;MARCIOLINO MONTEIRO DA ROSA;22110;Deputado Estadual;PR;PA;
-LUCIO DUTRA VALE;12.175.288/0001-14;01/10/2010;22000063904;R$ 120,00;Estimado;MARCIOLINO MONTEIRO DA ROSA;22110;Deputado Estadual;PR;PA;
-LUCIO DUTRA VALE;12.175.288/0001-14;25/08/2010;22000063902;R$ 480,00;Estimado;MARCIOLINO MONTEIRO DA ROSA;22110;Deputado Estadual;PR;PA;
-LUCIO DUTRA VALE;12.175.288/0001-14;01/10/2010;22000063903;R$ 120,00;Estimado;MARCIOLINO MONTEIRO DA ROSA;22110;Deputado Estadual;PR;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANA JULIA DE VASCONCELOS CAREPA;12.171.430/0001-55;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.750,00;Estimado;13 -  - PT -  - Governador / 22110 - MARCIOLINO MONTEIRO DA ROSA - PA - Deputado Estadual;
+Comitê Financeiro Único;12.249.219/0001-08;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 480,00;Estimado;Comitê Financeiro Único - PR -  / 22110 - MARCIOLINO MONTEIRO DA ROSA - PA - Deputado Estadual;
+LUCIO DUTRA VALE;12.175.288/0001-14;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 480,00;Estimado;2222 -  - PR -  - Deputado Federal / 22110 - MARCIOLINO MONTEIRO DA ROSA - PA - Deputado Estadual;
+LUCIO DUTRA VALE;12.175.288/0001-14;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 120,00;Estimado;2222 -  - PR -  - Deputado Federal / 22110 - MARCIOLINO MONTEIRO DA ROSA - PA - Deputado Estadual;
+LUCIO DUTRA VALE;12.175.288/0001-14;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 120,00;Estimado;2222 -  - PR -  - Deputado Federal / 22110 - MARCIOLINO MONTEIRO DA ROSA - PA - Deputado Estadual;

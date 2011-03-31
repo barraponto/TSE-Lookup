@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.229.930/0001-09;01/09/2010;43001902197;R$ 170,00;Estimado;ADIMILSON MENEZES PRAXEDES MATOS;43143;Deputado Estadual;PV;AM;
-Comitê Financeiro Único;12.200.172/0001-98;03/09/2010;43001902199;R$ 3.200,00;Estimado;ADIMILSON MENEZES PRAXEDES MATOS;43143;Deputado Estadual;PV;AM;
-Comitê Financeiro Único;12.229.930/0001-09;01/09/2010;43001902198;R$ 258,70;Estimado;ADIMILSON MENEZES PRAXEDES MATOS;43143;Deputado Estadual;PV;AM;
-ELIETE ARCELINO DE LIMA;403.661.382-00;01/09/2010;43001902196;R$ 510,00;Estimado;ADIMILSON MENEZES PRAXEDES MATOS;43143;Deputado Estadual;PV;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.229.930/0001-09;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 258,70;Estimado;Comitê Financeiro Único - PV -  / 43143 - ADIMILSON MENEZES PRAXEDES MATOS - AM - Deputado Estadual;
+Comitê Financeiro Único;12.229.930/0001-09;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 170,00;Estimado;Comitê Financeiro Único - PV -  / 43143 - ADIMILSON MENEZES PRAXEDES MATOS - AM - Deputado Estadual;
+Comitê Financeiro Único;12.200.172/0001-98;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.200,00;Estimado;Comitê Financeiro Único - PSDB -  / 43143 - ADIMILSON MENEZES PRAXEDES MATOS - AM - Deputado Estadual;
+ELIETE ARCELINO DE LIMA;403.661.382-00;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 510,00;Estimado; -  -  / 43143 - ADIMILSON MENEZES PRAXEDES MATOS - AM - Deputado Estadual;

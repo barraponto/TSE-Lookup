@@ -1,7 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;29/09/2010;65000146702;R$ 150,00;Estimado;LUCIANA CAMPOS DE OLIVEIRA;65220;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;29/09/2010;65000146704;R$ 300,00;Estimado;LUCIANA CAMPOS DE OLIVEIRA;65220;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.191.555/0001-47;29/09/2010;65000146705;R$ 100,00;Estimado;LUCIANA CAMPOS DE OLIVEIRA;65220;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;29/09/2010;65000146703;R$ 150,00;Estimado;LUCIANA CAMPOS DE OLIVEIRA;65220;Deputado Estadual;PC do B;RJ;
-LUCIANA CAMPOS DE OLIVEIRA;023.364.627-29;18/08/2010;65000146701;R$ 550,00;Depósito em espécie;LUCIANA CAMPOS DE OLIVEIRA;65220;Deputado Estadual;PC do B;RJ;
-MARCIO LUIZ BRAVO DE OLIVEIRA E SILVA;276.710.707-34;29/09/2010;65000146706;R$ 510,00;Estimado;LUCIANA CAMPOS DE OLIVEIRA;65220;Deputado Estadual;PC do B;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 65220 - LUCIANA CAMPOS DE OLIVEIRA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 65220 - LUCIANA CAMPOS DE OLIVEIRA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.191.555/0001-47;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado;Comitê Financeiro Único - PC do B -  / 65220 - LUCIANA CAMPOS DE OLIVEIRA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 65220 - LUCIANA CAMPOS DE OLIVEIRA - RJ - Deputado Estadual;
+GRAFICA NO PAPEL LTDA.;06.172.730/0001-56;18/08/2010;       Publicidade por materiais impressos;R$ 505,00;Cheque; -  -  / 65220 - LUCIANA CAMPOS DE OLIVEIRA - RJ - Deputado Estadual;
+MARCIO LUIZ BRAVO DE OLIVEIRA E SILVA;276.710.707-34;30/09/2010;       Materiais de expediente;R$ 45,00;Cheque; -  -  / 65220 - LUCIANA CAMPOS DE OLIVEIRA - RJ - Deputado Estadual;
+MARCIO LUIZ BRAVO DE OLIVEIRA E SILVA;276.710.707-34;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 510,00;Estimado; -  -  / 65220 - LUCIANA CAMPOS DE OLIVEIRA - RJ - Deputado Estadual;

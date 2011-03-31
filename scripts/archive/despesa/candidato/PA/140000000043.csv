@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANA JULIA DE VASCONCELOS CAREPA;12.171.430/0001-55;15/09/2010;43001886501;R$ 1.395,35;Estimado;PEDRO UBIRATAN OLIVEIRA SABAA SRUR;43300;Deputado Estadual;PV;PA;
-ANA JULIA DE VASCONCELOS CAREPA;12.171.430/0001-55;15/09/2010;43001886502;R$ 1.920,93;Estimado;PEDRO UBIRATAN OLIVEIRA SABAA SRUR;43300;Deputado Estadual;PV;PA;
-;;28/09/2010;;R$ 300,00;Não informado;PEDRO UBIRATAN OLIVEIRA SABAA SRUR;43300;Deputado Estadual;PV;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANA ELISA GUIMARÃES ALEIXO;483.297.462-91;29/09/2010;       Serviços prestados por terceiros;R$ 300,00;Não informado; -  -  / 43300 - PEDRO UBIRATAN OLIVEIRA SABAA SRUR - PA - Deputado Estadual;
+ANA JULIA DE VASCONCELOS CAREPA;12.171.430/0001-55;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.395,35;Estimado;13 -  - PT -  - Governador / 43300 - PEDRO UBIRATAN OLIVEIRA SABAA SRUR - PA - Deputado Estadual;
+ANA JULIA DE VASCONCELOS CAREPA;12.171.430/0001-55;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.920,93;Estimado;13 -  - PT -  - Governador / 43300 - PEDRO UBIRATAN OLIVEIRA SABAA SRUR - PA - Deputado Estadual;

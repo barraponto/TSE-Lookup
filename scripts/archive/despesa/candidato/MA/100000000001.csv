@@ -1,5 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.188/0001-93;13/08/2010;16000034501;R$ 2.000,00;Cheque;MARCOS ANTONIO SILVA DO NASCIMENTO;16;Governador;PSTU;MA;
-MARCOS ANTONIO SILVA DO NASCIMENTO;256.984.433-00;10/09/2010;16000034502;R$ 500,00;Depósito em espécie;MARCOS ANTONIO SILVA DO NASCIMENTO;16;Governador;PSTU;MA;
-MARCOS ANTONIO SILVA DO NASCIMENTO;256.984.433-00;01/08/2010;16000034504;R$ 500,00;Estimado;MARCOS ANTONIO SILVA DO NASCIMENTO;16;Governador;PSTU;MA;
-RAMON SILVA GOMES;175.319.693-00;10/09/2010;16000034503;R$ 1.000,00;Depósito em espécie;MARCOS ANTONIO SILVA DO NASCIMENTO;16;Governador;PSTU;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+IMPRESS GRAFICA E EDITORA;11.263.542/0001-73;13/09/2010;       Publicidade por materiais impressos;R$ 1.500,00;Cheque; -  -  / 16 - MARCOS ANTONIO SILVA DO NASCIMENTO - MA - Governador;
+MARCOS ANTONIO SILVA DO NASCIMENTO;256.984.433-00;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 16 - MARCOS ANTONIO SILVA DO NASCIMENTO - MA - Governador;
+ZEN PRODUÇÕES;01.932.384/0001-43;13/08/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 2.000,00;Cheque; -  -  / 16 - MARCOS ANTONIO SILVA DO NASCIMENTO - MA - Governador;

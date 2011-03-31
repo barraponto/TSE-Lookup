@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.555/0001-47;06/09/2010;65000151001;R$ 1.218,75;Estimado;VERA LUCIA CALAZANS LODI;65413;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.191.555/0001-47;01/09/2010;65000151002;R$ 1.862,25;Estimado;VERA LUCIA CALAZANS LODI;65413;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;65000151006;R$ 150,00;Estimado;VERA LUCIA CALAZANS LODI;65413;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;65000151004;R$ 300,00;Estimado;VERA LUCIA CALAZANS LODI;65413;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;65000151005;R$ 300,00;Estimado;VERA LUCIA CALAZANS LODI;65413;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.191.555/0001-47;30/09/2010;65000151003;R$ 200,00;Estimado;VERA LUCIA CALAZANS LODI;65413;Deputado Estadual;PC do B;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 65413 - VERA LUCIA CALAZANS LODI - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 65413 - VERA LUCIA CALAZANS LODI - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.191.555/0001-47;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;Comitê Financeiro Único - PMDB -  / 65413 - VERA LUCIA CALAZANS LODI - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.191.555/0001-47;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.218,75;Estimado;Comitê Financeiro Único - PC do B -  / 65413 - VERA LUCIA CALAZANS LODI - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.191.555/0001-47;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.862,25;Estimado;Comitê Financeiro Único - PMDB -  / 65413 - VERA LUCIA CALAZANS LODI - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 65413 - VERA LUCIA CALAZANS LODI - RJ - Deputado Estadual;

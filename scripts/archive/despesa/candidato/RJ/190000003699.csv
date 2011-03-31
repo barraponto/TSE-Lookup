@@ -1,4 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CLAUDIA CARDOSO F SILVA;029.860.537-69;31/08/2010;50000390235;R$ 2.400,00;Depósito em espécie;SILVIO BARBOSA DA SILVA;50122;Deputado Estadual;PSOL;RJ;
-CLAUDIA CARDOSO F SILVA;029.860.537-69;15/09/2010;50000390236;R$ 3.000,00;Depósito em espécie;SILVIO BARBOSA DA SILVA;50122;Deputado Estadual;PSOL;RJ;
-KADY KARLITTOS COMERCIO DE REFEICOES 2003 LTDA;05.770.437/0001-28;21/08/2010;50000390234;R$ 24.343,84;Cheque;SILVIO BARBOSA DA SILVA;50122;Deputado Estadual;PSOL;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANA CRISTINA P DE M MARQUES ME;05.488.827/0001-00;20/09/2010;       Despesas com transporte ou deslocamento;R$ 3.000,00;Cheque; -  -  / 50122 - SILVIO BARBOSA DA SILVA - RJ - Deputado Estadual;
+CARLOS ALBERTO GONCALVES DA SILVA;573.127.457-68;15/09/2010;       Publicidade por carros de som;R$ 1.000,00;Cheque; -  -  / 50122 - SILVIO BARBOSA DA SILVA - RJ - Deputado Estadual;
+CLAUDIA CARDOSO F SILVA;029.860.537-69;20/09/2010;       Despesas com pessoal;R$ 343,84;Não informado; -  -  / 50122 - SILVIO BARBOSA DA SILVA - RJ - Deputado Estadual;
+KADY KARLITTOS COMERCIO DE REFEICOES 2003 LTDA;05.770.437/0001-28;22/08/2010;       Diversas a especificar;R$ 22.000,00;Cheque; -  -  / 50122 - SILVIO BARBOSA DA SILVA - RJ - Deputado Estadual;
+KADY KARLITTOS COMERCIO DE REFEICOES 2003 LTDA;05.770.437/0001-28;15/09/2010;       Diversas a especificar;R$ 2.400,00;Cheque; -  -  / 50122 - SILVIO BARBOSA DA SILVA - RJ - Deputado Estadual;
+NEUZA PORTUGAL COUTO DA SILVA;795.503.047-87;15/09/2010;       Publicidade por carros de som;R$ 1.000,00;Cheque; -  -  / 50122 - SILVIO BARBOSA DA SILVA - RJ - Deputado Estadual;

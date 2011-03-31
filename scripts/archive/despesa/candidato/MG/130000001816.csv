@@ -1,6 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-GILBERTO SOARES RIBEIRO GARCIA;084.385.596-70;25/08/2010;50000233153;R$ 240,00;Depósito em espécie;WALDIR INACIO;50131;Deputado Estadual;PSOL;MG;
-MIRIAM REGINA SOARES;342.032.146-53;17/08/2010;50000233152;R$ 1.000,00;Depósito em espécie;WALDIR INACIO;50131;Deputado Estadual;PSOL;MG;
-MIRIAM REGINA SOARES;342.032.146-53;19/08/2010;50000233154;R$ 200,00;Estimado;WALDIR INACIO;50131;Deputado Estadual;PSOL;MG;
-ROSELI DA SILVA;071.210.426-73;29/09/2010;50000233155;R$ 120,00;Depósito em espécie;WALDIR INACIO;50131;Deputado Estadual;PSOL;MG;
-WALDIR INACIO;024.441.528-59;09/08/2010;50000233151;R$ 500,00;Depósito em espécie;WALDIR INACIO;50131;Deputado Estadual;PSOL;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GILBERTO SOARES RIBEIRO GARCIA;084.385.596-70;19/08/2010;       Cessão ou Locação de Veículos;R$ 100,00;Cheque; -  -  / 50131 - WALDIR INACIO - MG - Deputado Estadual;
+GRAFICA SULMINAS LTDA;64.419.328/0001-20;09/08/2010;       Publicidade por materiais impressos;R$ 395,00;Cheque; -  -  / 50131 - WALDIR INACIO - MG - Deputado Estadual;
+LUIZ CESAR FRISON VERONESI;01.757.199/0001-60;30/09/2010;       Publicidade por materiais impressos;R$ 125,00;Cheque; -  -  / 50131 - WALDIR INACIO - MG - Deputado Estadual;
+LUIZ CESAR FRISON VERONESI;01.757.199/0001-60;19/08/2010;       Publicidade por placas, estandartes e faixas;R$ 1.134,00;Cheque; -  -  / 50131 - WALDIR INACIO - MG - Deputado Estadual;
+MIRIAM REGINA SOARES;342.032.146-53;19/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado; -  -  / 50131 - WALDIR INACIO - MG - Deputado Estadual;
+M.P.GIL DIVULGASOM;11.326.254/0001-10;22/08/2010;       Publicidade por carros de som;R$ 100,00;Cheque; -  -  / 50131 - WALDIR INACIO - MG - Deputado Estadual;

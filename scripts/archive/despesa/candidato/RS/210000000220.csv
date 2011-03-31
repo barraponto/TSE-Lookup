@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-KATIA HENN;709.855.290-91;23/08/2010;40000920301;R$ 150,00;Depósito em espécie;EDITE RODRIGUES LISBOA;40234;Deputado Estadual;PSB;RS;
-RAQUEL FERNANDA RODRIGUES;736.955.050-87;01/09/2010;40000920302;R$ 200,00;Estimado;EDITE RODRIGUES LISBOA;40234;Deputado Estadual;PSB;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+IONICE CONCEIÇÃO ALVES;04.940.756/0001-71;23/08/2010;       Publicidade por placas, estandartes e faixas;R$ 139,00;Cheque; -  -  / 40234 - EDITE RODRIGUES LISBOA - RS - Deputado Estadual;
+RAQUEL FERNANDA RODRIGUES;736.955.050-87;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado; -  -  / 40234 - EDITE RODRIGUES LISBOA - RS - Deputado Estadual;
+VIKASA MATERIAIS DE CONSTRUÇÃO LTDA;87.980.322/0001-22;30/09/2010;       Materiais de expediente;R$ 11,00;Cheque; -  -  / 40234 - EDITE RODRIGUES LISBOA - RS - Deputado Estadual;

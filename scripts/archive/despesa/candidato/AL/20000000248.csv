@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 TEOTÔNIO BRANDÃO VILELA FILHO GOVERNADOR;12.170.978/0001-80;28/09/2010;23000039003;R$ 750,00;Estimado;EDINAURA MORAES DE LIMA WANDERLEY;23999;Deputado Estadual;PPS;AL;
-GEDSON BASÍLIO TAVARES;994.919.074-68;02/10/2010;23000039004;R$ 900,00;Estimado;EDINAURA MORAES DE LIMA WANDERLEY;23999;Deputado Estadual;PPS;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 TEOTÔNIO BRANDÃO VILELA FILHO GOVERNADOR;12.170.978/0001-80;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 750,00;Estimado;45 -  - PSDB -  - Governador / 23999 - EDINAURA MORAES DE LIMA WANDERLEY - AL - Deputado Estadual;
+GEDSON BASÍLIO TAVARES;994.919.074-68;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 900,00;Estimado; -  -  / 23999 - EDINAURA MORAES DE LIMA WANDERLEY - AL - Deputado Estadual;

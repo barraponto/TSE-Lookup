@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;11000004764;R$ 150,00;Estimado;ROSELI CORDEIRO FILARDO;1132;Deputado Federal;PP;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;24/07/2010;11000004761;R$ 150,00;Estimado;ROSELI CORDEIRO FILARDO;1132;Deputado Federal;PP;RJ;
-Comitê Financeiro Único;12.200.097/0001-65;02/10/2010;11000004766;R$ 11.666,00;Estimado;ROSELI CORDEIRO FILARDO;1132;Deputado Federal;PP;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;11000004763;R$ 600,00;Estimado;ROSELI CORDEIRO FILARDO;1132;Deputado Federal;PP;RJ;
-JORGE SAYED PICCIANI;12.176.626/0001-32;26/08/2010;11000004762;R$ 17,00;Estimado;ROSELI CORDEIRO FILARDO;1132;Deputado Federal;PP;RJ;
-SOLANGE MARIA TOMÉ DA SILVA;286.232.468-02;01/10/2010;11000004767;R$ 600,00;Estimado;ROSELI CORDEIRO FILARDO;1132;Deputado Federal;PP;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado;Comitê Financeiro Único - PMDB -  / 1132 - ROSELI CORDEIRO FILARDO - RJ - Deputado Federal;
+Comitê Financeiro Único;12.200.097/0001-65;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 11.666,00;Estimado;Comitê Financeiro Único - PP -  / 1132 - ROSELI CORDEIRO FILARDO - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 1132 - ROSELI CORDEIRO FILARDO - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;24/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 1132 - ROSELI CORDEIRO FILARDO - RJ - Deputado Federal;
+JORGE SAYED PICCIANI;12.176.626/0001-32;26/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 1132 - ROSELI CORDEIRO FILARDO - RJ - Deputado Federal;
+SOLANGE MARIA TOMÉ DA SILVA;286.232.468-02;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado; -  -  / 1132 - ROSELI CORDEIRO FILARDO - RJ - Deputado Federal;

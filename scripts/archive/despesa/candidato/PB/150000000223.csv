@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Nacional;29.549.433/0001-82;24/08/2010;33000106457;R$ 125,00;Estimado;GERSON FELICIANO DA SILVA;33789;Deputado Estadual;PMN;PB;
-Diretório Nacional;29.549.433/0001-82;24/08/2010;33000106458;R$ 37,50;Estimado;GERSON FELICIANO DA SILVA;33789;Deputado Estadual;PMN;PB;
-ELEIÇÃO 2010 MANOEL ALVES S. JUNIOR;12.190.627/0001-31;12/09/2010;33000106459;R$ 375,00;Estimado;GERSON FELICIANO DA SILVA;33789;Deputado Estadual;PMN;PB;
-ELEIÇÃO 2010 MANOEL ALVES S. JUNIOR;12.190.627/0001-31;17/09/2010;33000106460;R$ 202,50;Estimado;GERSON FELICIANO DA SILVA;33789;Deputado Estadual;PMN;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Nacional;29.549.433/0001-82;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 125,00;Estimado;Direção Nacional - PMN -  / 33789 - GERSON FELICIANO DA SILVA - PB - Deputado Estadual;
+Diretório Nacional;29.549.433/0001-82;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 37,50;Estimado;Direção Nacional - PMN -  / 33789 - GERSON FELICIANO DA SILVA - PB - Deputado Estadual;
+ELEIÇÃO 2010 MANOEL ALVES S. JUNIOR;12.190.627/0001-31;12/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 375,00;Estimado;1515 -  - PMDB -  - Deputado Federal / 33789 - GERSON FELICIANO DA SILVA - PB - Deputado Estadual;
+ELEIÇÃO 2010 MANOEL ALVES S. JUNIOR;12.190.627/0001-31;17/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 202,50;Estimado;1515 -  - PMDB -  - Deputado Federal / 33789 - GERSON FELICIANO DA SILVA - PB - Deputado Estadual;

@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;01.327.965/0001-56;10/08/2010;11000090323;R$ 302,60;Estimado;VANDERLEI RICARDO JANGROSSI;11444;Deputado Estadual;PP;MG;
-Diretório Estadual/Distrital;01.327.965/0001-56;26/08/2010;11000090325;R$ 2.040,76;Estimado;VANDERLEI RICARDO JANGROSSI;11444;Deputado Estadual;PP;MG;
-Diretório Estadual/Distrital;01.327.965/0001-56;10/08/2010;11000090324;R$ 193,80;Estimado;VANDERLEI RICARDO JANGROSSI;11444;Deputado Estadual;PP;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;01.327.965/0001-56;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 193,80;Estimado;Direção Estadual/Distrital - PP -  / 11444 - VANDERLEI RICARDO JANGROSSI - MG - Deputado Estadual;
+Diretório Estadual/Distrital;01.327.965/0001-56;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 302,60;Estimado;Direção Estadual/Distrital - PP -  / 11444 - VANDERLEI RICARDO JANGROSSI - MG - Deputado Estadual;
+Diretório Estadual/Distrital;01.327.965/0001-56;26/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.040,76;Estimado;Direção Estadual/Distrital - PP -  / 11444 - VANDERLEI RICARDO JANGROSSI - MG - Deputado Estadual;

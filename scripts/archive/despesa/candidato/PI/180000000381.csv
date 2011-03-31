@@ -1,7 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-INDÚSTRIA E COMÉRCIO XINGÚ MEE;23.516.701/0001-83;28/07/2010;50000369991;R$ 300,00;Depósito em espécie;WALTER LUSTOSA DE CARVALHO;5000;Deputado Federal;PSOL;PI;
-INDÚSTRIA E COMÉRCIO XINGÚ MEE;23.516.701/0001-83;22/08/2010;50000369993;R$ 250,00;Depósito em espécie;WALTER LUSTOSA DE CARVALHO;5000;Deputado Federal;PSOL;PI;
-INDÚSTRIA E COMÉRCIO XINGÚ MEE;23.516.701/0001-83;15/09/2010;50000369996;R$ 700,00;Depósito em espécie;WALTER LUSTOSA DE CARVALHO;5000;Deputado Federal;PSOL;PI;
-LUZIIANE MENDES LUSTOSA;306.798.773-04;13/08/2010;50000369992;R$ 650,00;Depósito em espécie;WALTER LUSTOSA DE CARVALHO;5000;Deputado Federal;PSOL;PI;
-LUZIIANE MENDES LUSTOSA;306.798.773-04;24/08/2010;50000369994;R$ 500,00;Depósito em espécie;WALTER LUSTOSA DE CARVALHO;5000;Deputado Federal;PSOL;PI;
-LUZIIANE MENDES LUSTOSA;306.798.773-04;02/09/2010;50000369995;R$ 300,00;Depósito em espécie;WALTER LUSTOSA DE CARVALHO;5000;Deputado Federal;PSOL;PI;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AVS DE BRITO MEE;06.118.639/0001-52;16/08/2010;       Publicidade por materiais impressos;R$ 638,00;Cheque; -  -  / 5000 - WALTER LUSTOSA DE CARVALHO - PI - Deputado Federal;
+CLEGINALDO COUTINHO SILVA;802.921.863-04;16/09/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 500,00;Cheque; -  -  / 5000 - WALTER LUSTOSA DE CARVALHO - PI - Deputado Federal;
+CLEGINALDO COUTINHO SILVA;802.921.863-04;01/09/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 500,00;Cheque; -  -  / 5000 - WALTER LUSTOSA DE CARVALHO - PI - Deputado Federal;
+CLEGINALDO COUTINHO SILVA;802.921.863-04;16/09/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 500,00;Cheque; -  -  / 5000 - WALTER LUSTOSA DE CARVALHO - PI - Deputado Federal;
+R SILVA SOUSA LTDA;86.913.951/0001-77;23/08/2010;       Publicidade por materiais impressos;R$ 250,00;Cheque; -  -  / 5000 - WALTER LUSTOSA DE CARVALHO - PI - Deputado Federal;
+RN DA ROCHA JÚNIOR INDÚSTRIA CONFECÇÃO;11.371.219/0001-13;02/08/2010;       Publicidade por materiais impressos;R$ 280,00;Cheque; -  -  / 5000 - WALTER LUSTOSA DE CARVALHO - PI - Deputado Federal;
+5000 - WALTER LUSTOSA DE CARVALHO - DEPUTADO FEDERAL;12.173.420/0001-59;22/10/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 32,00;Cheque;Direção Estadual/Distrital - PSOL - PI / 5000 - WALTER LUSTOSA DE CARVALHO - PI - Deputado Federal;

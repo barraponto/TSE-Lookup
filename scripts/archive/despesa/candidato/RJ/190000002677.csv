@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALEX GOMES CAMPOS CARVALHO;560.540.505-59;26/08/2010;15000028751;R$ 3.000,00;Transferência eletrônica;ALEX GOMES CAMPOS CARVALHO;15400;Deputado Estadual;PMDB;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;15000028752;R$ 150,00;Estimado;ALEX GOMES CAMPOS CARVALHO;15400;Deputado Estadual;PMDB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BAZAR E PAPELARIA NOVA GERAÇÃO LTDA.;08.537.657/0001-02;27/08/2010;       Publicidade por materiais impressos;R$ 2.500,00;Cheque; -  -  / 15400 - ALEX GOMES CAMPOS CARVALHO - RJ - Deputado Estadual;
+BAZAR E PAPELARIA NOVA GERAÇÃO LTDA.;08.537.657/0001-02;15/09/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 15400 - ALEX GOMES CAMPOS CARVALHO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 15400 - ALEX GOMES CAMPOS CARVALHO - RJ - Deputado Estadual;

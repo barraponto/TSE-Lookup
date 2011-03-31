@@ -1,3 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALFREDO PEREIRA DO NASCIMENTO;12.169.771/0001-96;09/09/2010;12001007171;R$ 4.000,00;Cheque;SERGIO CARLOS NASCIMENTO DE ANDRADE;12000;Deputado Estadual;PDT;AM;
-Comitê Financeiro Único;12.156.263/0001-73;21/07/2010;12001007172;R$ 250,00;Estimado;SERGIO CARLOS NASCIMENTO DE ANDRADE;12000;Deputado Estadual;PDT;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AMERICO E DO ROSARIO JUNIOR;02.878.153/0001-61;13/09/2010;       Publicidade por materiais impressos;R$ 50,00;Cheque; -  -  / 12000 - SERGIO CARLOS NASCIMENTO DE ANDRADE - AM - Deputado Estadual;
+AMERICO E DO ROSARIO JUNIOR;02.878.153/0001-61;13/09/2010;       Publicidade por materiais impressos;R$ 75,00;Cheque; -  -  / 12000 - SERGIO CARLOS NASCIMENTO DE ANDRADE - AM - Deputado Estadual;
+AMERICO E DO ROSARIO JUNIOR;02.878.153/0001-61;13/09/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 12000 - SERGIO CARLOS NASCIMENTO DE ANDRADE - AM - Deputado Estadual;
+CASSIUS CLAY GAMA DA MATTA;636.743.942-00;14/09/2010;       Cessão ou Locação de Veículos;R$ 500,00;Cheque; -  -  / 12000 - SERGIO CARLOS NASCIMENTO DE ANDRADE - AM - Deputado Estadual;
+CASSIUS CLAY GAMA DA MATTA;636.743.942-00;24/09/2010;       Cessão ou Locação de Veículos;R$ 70,00;Cheque; -  -  / 12000 - SERGIO CARLOS NASCIMENTO DE ANDRADE - AM - Deputado Estadual;
+CASSIUS CLAY GAMA DA MATTA;636.743.942-00;13/09/2010;       Cessão ou Locação de Veículos;R$ 500,00;Cheque; -  -  / 12000 - SERGIO CARLOS NASCIMENTO DE ANDRADE - AM - Deputado Estadual;
+Comitê Financeiro Único;12.156.263/0001-73;21/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;Comitê Financeiro Único - PDT -  / 12000 - SERGIO CARLOS NASCIMENTO DE ANDRADE - AM - Deputado Estadual;
+EDER JOSE SOUSA VIEIRA;647.973.922-15;21/09/2010;       Cessão ou Locação de Veículos;R$ 600,00;Cheque; -  -  / 12000 - SERGIO CARLOS NASCIMENTO DE ANDRADE - AM - Deputado Estadual;
+EDER JOSE SOUSA VIEIRA;647.973.922-15;10/09/2010;       Cessão ou Locação de Veículos;R$ 1.000,00;Cheque; -  -  / 12000 - SERGIO CARLOS NASCIMENTO DE ANDRADE - AM - Deputado Estadual;
+EDER JOSE SOUSA VIEIRA;647.973.922-15;10/09/2010;       Cessão ou Locação de Veículos;R$ 1.000,00;Cheque; -  -  / 12000 - SERGIO CARLOS NASCIMENTO DE ANDRADE - AM - Deputado Estadual;

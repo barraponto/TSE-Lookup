@@ -1,3 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CNCC ENGENHARIA S.A.;61.564.639/0001-94;19/08/2010;23000090201;R$ 10.000,00;Transferência eletrônica;ELTON LUIS GOUVEA BARBOSA;23333;Deputado Estadual;PPS;ES;
-LUIZ PAULO VELOZO LUCAS;12.179.441/0001-81;01/10/2010;23000090202;R$ 2.600,00;Estimado;ELTON LUIS GOUVEA BARBOSA;23333;Deputado Estadual;PPS;ES;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELTON LUIS GOUVÊA BARBOSA;889.115.197-15;13/09/2010;       Locação/cessão de bens imóveis;R$ 2.000,00;Cheque; -  -  / 23333 - ELTON LUIS GOUVEA BARBOSA - ES - Deputado Estadual;
+ELTON LUIS GOUVÊA BARBOSA;889.115.197-15;30/08/2010;       Locação/cessão de bens imóveis;R$ 5.000,00;Cheque; -  -  / 23333 - ELTON LUIS GOUVEA BARBOSA - ES - Deputado Estadual;
+ELTON LUIS GOUVÊA BARBOSA;889.115.197-15;28/09/2010;       Locação/cessão de bens imóveis;R$ 251,50;Cheque; -  -  / 23333 - ELTON LUIS GOUVEA BARBOSA - ES - Deputado Estadual;
+GRAFITUSA S.A.;05.461.408/0001-84;30/08/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 23333 - ELTON LUIS GOUVEA BARBOSA - ES - Deputado Estadual;
+IN MENTE IMPRESSÃO DIGITAL LTDA. ME;07.833.100/0001-48;30/08/2010;       Publicidade por placas, estandartes e faixas;R$ 1.748,50;Cheque; -  -  / 23333 - ELTON LUIS GOUVEA BARBOSA - ES - Deputado Estadual;
+LUIZ PAULO VELOZO LUCAS;12.179.441/0001-81;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.600,00;Estimado;45 -  - PSDB -  - Governador / 23333 - ELTON LUIS GOUVEA BARBOSA - ES - Deputado Estadual;

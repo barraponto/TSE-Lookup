@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.242/0001-09;23/08/2010;65000185124;R$ 120,00;Estimado;MAURO OLIVEIRA MOTA;65657;Deputado Estadual;PC do B;GO;
-ELEICAO 2010 FABIO TOKARSKI DEPUTADO FEDERAL;12.171.879/0001-13;30/07/2010;65000185122;R$ 345,00;Estimado;MAURO OLIVEIRA MOTA;65657;Deputado Estadual;PC do B;GO;
-ELEIÇÃO 2010 IRIS REZENDE MACHADO GOVERNADOR;12.167.313/0001-18;02/10/2010;65000185126;R$ 1.612,90;Estimado;MAURO OLIVEIRA MOTA;65657;Deputado Estadual;PC do B;GO;
-ELEICAO 2010 MAURO OLIVEIRA MOTA DEPUTADO ESTADUAL;232.661.121-72;28/09/2010;65000185125;R$ 410,00;Depósito em espécie;MAURO OLIVEIRA MOTA;65657;Deputado Estadual;PC do B;GO;
-RAIMUNDA DOS PRAZERES MOTA;467.449.241-68;13/08/2010;65000185123;R$ 800,00;Depósito em espécie;MAURO OLIVEIRA MOTA;65657;Deputado Estadual;PC do B;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.242/0001-09;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 120,00;Estimado;Comitê Financeiro Único - PC do B -  / 65657 - MAURO OLIVEIRA MOTA - GO - Deputado Estadual;
+ELEICAO 2010 FABIO TOKARSKI DEPUTADO FEDERAL;12.171.879/0001-13;30/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 345,00;Estimado;6565 -  - PC do B -  - Deputado Federal / 65657 - MAURO OLIVEIRA MOTA - GO - Deputado Estadual;
+ELEIÇÃO 2010 IRIS REZENDE MACHADO GOVERNADOR;12.167.313/0001-18;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.612,90;Estimado;15 -  - PMDB -  - Governador / 65657 - MAURO OLIVEIRA MOTA - GO - Deputado Estadual;
+PRO BANDEIRAS INDÚSTRIA COMÉRCIO CONFECÇÕES LTDA;11.595.441/0001-08;27/08/2010;       Publicidade por materiais impressos;R$ 710,00;Cheque; -  -  / 65657 - MAURO OLIVEIRA MOTA - GO - Deputado Estadual;
+PRO BANDEIRAS INDÚSTRIA COMÉRCIO CONFECÇÕES LTDA;11.595.441/0001-08;28/09/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 65657 - MAURO OLIVEIRA MOTA - GO - Deputado Estadual;

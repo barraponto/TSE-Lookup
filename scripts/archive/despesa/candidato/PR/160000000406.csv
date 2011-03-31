@@ -1,2 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.190.887/0001-07;28/09/2010;17000073066;R$ 1.680,00;Transferência eletrônica;JAIR DORCELINO CONCEIÇÃO;17223;Deputado Estadual;PSL;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALEX DOS SANTOS;174.109.608-17;30/09/2010;       Despesas com pessoal;R$ 880,00;Não informado; -  -  / 17223 - JAIR DORCELINO CONCEIÇÃO - PR - Deputado Estadual;
+VALDENILSON DO CARMO SILVA;023.674.039-37;30/09/2010;       Despesas com pessoal;R$ 800,00;Não informado; -  -  / 17223 - JAIR DORCELINO CONCEIÇÃO - PR - Deputado Estadual;

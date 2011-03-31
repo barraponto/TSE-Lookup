@@ -1,3 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEICAO 2010 WALDEMIR SOARES DA SILVA DEPUTADO FEDERAL;283.276.401-00;23/08/2010;17000038301;R$ 3.600,00;Depósito em espécie;WALDEMIR SOARES DA SILVA;1707;Deputado Federal;PSL;GO;
-JOSE NONATO DE SOUSA;010.260.408-84;06/09/2010;17000038302;R$ 750,00;Depósito em espécie;WALDEMIR SOARES DA SILVA;1707;Deputado Federal;PSL;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADVENTO IMPRESSÃO DIGITAL LTDA ME;04.934.284/0001-44;18/08/2010;       Publicidade por placas, estandartes e faixas;R$ 575,00;Cheque; -  -  / 1707 - WALDEMIR SOARES DA SILVA - GO - Deputado Federal;
+GRAFICA E EDITORA GRAFICA SETE LTDA;11.329.321/0001-50;14/09/2010;       Publicidade por materiais impressos;R$ 750,00;Cheque; -  -  / 1707 - WALDEMIR SOARES DA SILVA - GO - Deputado Federal;
+GRAFICA E EDITORA GRAFICA SETE LTDA;11.329.321/0001-50;23/08/2010;       Publicidade por materiais impressos;R$ 3.000,00;Cheque; -  -  / 1707 - WALDEMIR SOARES DA SILVA - GO - Deputado Federal;
+MARIUDA OLIVEIRA SIRIACO;05.731.329/0001-46;01/10/2010;       Materiais de expediente;R$ 25,00;Cheque; -  -  / 1707 - WALDEMIR SOARES DA SILVA - GO - Deputado Federal;

@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-SILVIO ROBERTO CALAÇO;314.798.554-72;20/09/2010;50000310162;R$ 510,00;Depósito em espécie;SILVIO ROBERTO CALAÇO;5005;Deputado Federal;PSOL;PB;
-SILVIO ROBERTO CALAÇO;314.798.554-72;10/08/2010;50000310161;R$ 100,00;Depósito em espécie;SILVIO ROBERTO CALAÇO;5005;Deputado Federal;PSOL;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA ATUAL LTDA;00.647.076/0001-03;10/08/2010;       Publicidade por materiais impressos;R$ 100,00;Cheque; -  -  / 5005 - SILVIO ROBERTO CALAÇO - PB - Deputado Federal;
+O SERTANEJO;640.459.604-06;29/10/2010;       Alimentação;R$ 10,00;Cheque; -  -  / 5005 - SILVIO ROBERTO CALAÇO - PB - Deputado Federal;
+PINDORAMA PRODUÇOES E REPRESENTAÇÕES;01.399.919/0001-62;29/10/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 500,00;Cheque; -  -  / 5005 - SILVIO ROBERTO CALAÇO - PB - Deputado Federal;

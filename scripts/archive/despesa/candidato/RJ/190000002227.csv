@@ -1,6 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANDRE LUIZ LAZARONI DE MORAES;12.203.812/0001-13;06/09/2010;70000152834;R$ 611,11;Estimado;HAROLDO CASER LOPES;7042;Deputado Federal;PT do B;RJ;
-ANDRE LUIZ LAZARONI DE MORAES;12.203.812/0001-13;06/09/2010;70000152832;R$ 1.022,72;Estimado;HAROLDO CASER LOPES;7042;Deputado Federal;PT do B;RJ;
-ANDRE LUIZ LAZARONI DE MORAES;12.203.812/0001-13;06/09/2010;70000152835;R$ 100,00;Estimado;HAROLDO CASER LOPES;7042;Deputado Federal;PT do B;RJ;
-ANDRE LUIZ LAZARONI DE MORAES;12.203.812/0001-13;06/09/2010;70000152833;R$ 161,11;Estimado;HAROLDO CASER LOPES;7042;Deputado Federal;PT do B;RJ;
-ANDRE LUIZ LAZARONI DE MORAIS;12.203.812/0001-13;04/09/2010;70000152831;R$ 4.500,00;Cheque;HAROLDO CASER LOPES;7042;Deputado Federal;PT do B;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANDRE LUIZ LAZARONI DE MORAES;12.203.812/0001-13;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 161,11;Estimado;15555 -  - PMDB -  - Deputado Estadual / 7042 - HAROLDO CASER LOPES - RJ - Deputado Federal;
+ANDRE LUIZ LAZARONI DE MORAES;12.203.812/0001-13;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 611,11;Estimado;15555 -  - PMDB -  - Deputado Estadual / 7042 - HAROLDO CASER LOPES - RJ - Deputado Federal;
+ANDRE LUIZ LAZARONI DE MORAES;12.203.812/0001-13;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado;15555 -  - PMDB -  - Deputado Estadual / 7042 - HAROLDO CASER LOPES - RJ - Deputado Federal;
+ANDRE LUIZ LAZARONI DE MORAES;12.203.812/0001-13;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.022,72;Estimado;15555 -  - PMDB -  - Deputado Estadual / 7042 - HAROLDO CASER LOPES - RJ - Deputado Federal;
+ANGELA MARIA AMARAL COELHO NETTO;883.858.767-15;15/08/2010;       Serviços prestados por terceiros;R$ 1.000,00;Não informado; -  -  / 7042 - HAROLDO CASER LOPES - RJ - Deputado Federal;
+CLAUDIA F. AMARAL COELHO NETO;801.884.607-30;15/08/2010;       Serviços prestados por terceiros;R$ 1.000,00;Não informado; -  -  / 7042 - HAROLDO CASER LOPES - RJ - Deputado Federal;
+DIR. REG DO PT DO B;04.196.980/0001-09;18/10/2010;       Diversas a especificar;R$ 10,00;Transferência eletrônica; -  -  / 7042 - HAROLDO CASER LOPES - RJ - Deputado Federal;
+ELIANE CASER LOPES A. CASTANHEIRA;528.826.597-68;15/08/2010;       Serviços prestados por terceiros;R$ 490,00;Cheque; -  -  / 7042 - HAROLDO CASER LOPES - RJ - Deputado Federal;
+JOAO LUIZ DA SILVA;939.466.787-34;15/08/2010;       Serviços prestados por terceiros;R$ 1.000,00;Não informado; -  -  / 7042 - HAROLDO CASER LOPES - RJ - Deputado Federal;
+JOSE CRISTOVAO A. CASTANHEIRA;466.336.697-04;15/08/2010;       Serviços prestados por terceiros;R$ 1.000,00;Não informado; -  -  / 7042 - HAROLDO CASER LOPES - RJ - Deputado Federal;

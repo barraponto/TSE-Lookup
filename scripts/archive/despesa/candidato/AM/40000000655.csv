@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;04.160.131/0001-97;30/09/2010;33000091543;R$ 200,00;Estimado;ADIRCER DOS SANTOS;33699;Deputado Estadual;PMN;AM;
-Diretório Estadual/Distrital;04.160.131/0001-97;24/09/2010;33000091541;R$ 363,00;Cheque;ADIRCER DOS SANTOS;33699;Deputado Estadual;PMN;AM;
-Diretório Estadual/Distrital;04.160.131/0001-97;13/08/2010;33000091542;R$ 300,00;Estimado;ADIRCER DOS SANTOS;33699;Deputado Estadual;PMN;AM;
-ELANE DOS SANTOS;633.135.962-15;02/10/2010;33000091546;R$ 1.020,00;Estimado;ADIRCER DOS SANTOS;33699;Deputado Estadual;PMN;AM;
-ELEM DAINE PORTELA FERREIRA;004.687.172-18;02/10/2010;33000091545;R$ 1.020,00;Estimado;ADIRCER DOS SANTOS;33699;Deputado Estadual;PMN;AM;
-FABIANO DOS SANTOS;660.772.142-72;02/10/2010;33000091544;R$ 1.020,00;Estimado;ADIRCER DOS SANTOS;33699;Deputado Estadual;PMN;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;04.160.131/0001-97;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;Direção Estadual/Distrital - PMDB -  / 33699 - ADIRCER DOS SANTOS - AM - Deputado Estadual;
+Diretório Estadual/Distrital;04.160.131/0001-97;13/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Direção Estadual/Distrital - PMDB -  / 33699 - ADIRCER DOS SANTOS - AM - Deputado Estadual;
+ELANE DOS SANTOS;633.135.962-15;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.020,00;Estimado; -  -  / 33699 - ADIRCER DOS SANTOS - AM - Deputado Estadual;
+ELEM DAINE PORTELA FERREIRA;004.687.172-18;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.020,00;Estimado; -  -  / 33699 - ADIRCER DOS SANTOS - AM - Deputado Estadual;
+FABIANO DOS SANTOS;660.772.142-72;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.020,00;Estimado; -  -  / 33699 - ADIRCER DOS SANTOS - AM - Deputado Estadual;
+GRAFISA - GRAFICA E EDITORAL;03.633.502/0001-48;25/08/2010;       Publicidade por materiais impressos;R$ 363,00;Cheque; -  -  / 33699 - ADIRCER DOS SANTOS - AM - Deputado Estadual;

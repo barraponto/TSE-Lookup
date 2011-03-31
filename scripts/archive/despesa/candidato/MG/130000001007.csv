@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DANIELA BERTULANE FRANCO;013.889.096-00;20/07/2010;23000140042;R$ 1.500,00;Estimado;MAURO JORGE DE PAULA BOMFIM;2315;Deputado Federal;PPS;MG;
-MAURO JORGE DE PAULA BOMFIM;418.548.026-15;20/07/2010;23000140043;R$ 2.000,00;Estimado;MAURO JORGE DE PAULA BOMFIM;2315;Deputado Federal;PPS;MG;
-MAURO JORGE DE PAULA BOMFIM;418.548.026-15;20/07/2010;23000140041;R$ 200,00;Cheque;MAURO JORGE DE PAULA BOMFIM;2315;Deputado Federal;PPS;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DANIELA BERTULANE FRANCO;013.889.096-00;20/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado; -  -  / 2315 - MAURO JORGE DE PAULA BOMFIM - MG - Deputado Federal;
+MARIO DA SILVA PINTO;352.202.446-04;20/07/2010;       Serviços prestados por terceiros;R$ 200,00;Cheque; -  -  / 2315 - MAURO JORGE DE PAULA BOMFIM - MG - Deputado Federal;
+MAURO JORGE DE PAULA BOMFIM;418.548.026-15;20/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado; -  -  / 2315 - MAURO JORGE DE PAULA BOMFIM - MG - Deputado Federal;

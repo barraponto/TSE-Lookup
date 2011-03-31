@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ROBERTO SILVEIRA CELITO;768.742.307-00;20/07/2010;20000676741;R$ 50,00;Estimado;ROBERTO SILVEIRA CELITO;20547;Deputado Estadual;PSC;RJ;
-ROBERTO SILVEIRA CELITO;768.742.307-00;12/08/2010;20000676743;R$ 50,00;Estimado;ROBERTO SILVEIRA CELITO;20547;Deputado Estadual;PSC;RJ;
-ROBERTO SILVEIRA CELITO;768.742.307-00;10/08/2010;20000676742;R$ 50,00;Estimado;ROBERTO SILVEIRA CELITO;20547;Deputado Estadual;PSC;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ROBERTO SILVEIRA CELITO;768.742.307-00;12/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 50,00;Estimado; -  -  / 20547 - ROBERTO SILVEIRA CELITO - RJ - Deputado Estadual;
+ROBERTO SILVEIRA CELITO;768.742.307-00;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 50,00;Estimado; -  -  / 20547 - ROBERTO SILVEIRA CELITO - RJ - Deputado Estadual;
+ROBERTO SILVEIRA CELITO;768.742.307-00;20/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 50,00;Estimado; -  -  / 20547 - ROBERTO SILVEIRA CELITO - RJ - Deputado Estadual;

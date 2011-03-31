@@ -1,3 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-AFONSO RUSSO;671.550.149-15;28/07/2010;31000024251;R$ 100,00;Depósito em espécie;AFONSO RUSSO;31222;Deputado Estadual;PHS;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;28/08/2010;31000024252;R$ 300,00;Estimado;AFONSO RUSSO;31222;Deputado Estadual;PHS;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;28/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 31222 - AFONSO RUSSO - RJ - Deputado Estadual;
+CRISTIANO EDUARDO MACEDO PADARIA MERCEARIA ME;10.590.517/0001-31;01/10/2010;       Alimentação;R$ 58,00;Cheque; -  -  / 31222 - AFONSO RUSSO - RJ - Deputado Estadual;
+;;02/09/2010;       Encargos financeiros e taxas bancárias;R$ 21,00;Débito em conta; -  -  / 31222 - AFONSO RUSSO - RJ - Deputado Estadual;
+;;04/10/2010;       Encargos financeiros e taxas bancárias;R$ 21,00;Débito em conta; -  -  / 31222 - AFONSO RUSSO - RJ - Deputado Estadual;

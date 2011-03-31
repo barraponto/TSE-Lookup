@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSE TARGINO MARANHÃO;12.189.345/0001-14;25/09/2010;10000014822;R$ 523,56;Estimado;ZIVANILDO SIQUEIRA DA SILVA;10000;Deputado Estadual;PRB;PB;
-JUTAY MENESES GOMES;12.190.841/0001-98;14/09/2010;10000014821;R$ 180,00;Estimado;ZIVANILDO SIQUEIRA DA SILVA;10000;Deputado Estadual;PRB;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JOSE TARGINO MARANHÃO;12.189.345/0001-14;25/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 523,56;Estimado;15 -  - PMDB -  - Governador / 10000 - ZIVANILDO SIQUEIRA DA SILVA - PB - Deputado Estadual;
+JUTAY MENESES GOMES;12.190.841/0001-98;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 180,00;Estimado;10123 -  - PRB -  - Deputado Estadual / 10000 - ZIVANILDO SIQUEIRA DA SILVA - PB - Deputado Estadual;

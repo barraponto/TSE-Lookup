@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;23000060502;R$ 833,45;Estimado;FRANCISCO MARTINS ALENCAR;2322;Deputado Federal;PPS;BA;
-FRANCISCO MARTINS ALENCAR;378.874.085-04;02/09/2010;23000060501;R$ 314,00;Depósito em espécie;FRANCISCO MARTINS ALENCAR;2322;Deputado Federal;PPS;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARTOGRAF GRÁFICA E EDITORA LTDA;34.136.598/0001-62;31/08/2010;       Publicidade por materiais impressos;R$ 194,00;Cheque; -  -  / 2322 - FRANCISCO MARTINS ALENCAR - BA - Deputado Federal;
+Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 833,45;Estimado;Comitê Financeiro Único - PMDB -  / 2322 - FRANCISCO MARTINS ALENCAR - BA - Deputado Federal;
+ESCRITA COMÉRCIO E SERVIÇOS LTDA;16.306.870/0001-23;31/08/2010;       Publicidade por materiais impressos;R$ 120,00;Cheque; -  -  / 2322 - FRANCISCO MARTINS ALENCAR - BA - Deputado Federal;

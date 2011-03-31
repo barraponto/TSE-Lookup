@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 JOSE TARGINO MARANHÃO;12.189.345/0001-14;03/10/2010;20000520303;R$ 523,56;Estimado;BRASIMAR HENRIQUE XAVIER;2033;Deputado Federal;PSC;PB;
-ELEIÇÃO 2010 JOSE TARGINO MARANHÃO;12.189.345/0001-14;01/09/2010;20000520302;R$ 300,00;Estimado;BRASIMAR HENRIQUE XAVIER;2033;Deputado Federal;PSC;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 JOSE TARGINO MARANHÃO;12.189.345/0001-14;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;15 -  - PMDB -  - Governador / 2033 - BRASIMAR HENRIQUE XAVIER - PB - Deputado Federal;
+ELEIÇÃO 2010 JOSE TARGINO MARANHÃO;12.189.345/0001-14;03/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 523,56;Estimado;15 -  - PMDB -  - Governador / 2033 - BRASIMAR HENRIQUE XAVIER - PB - Deputado Federal;

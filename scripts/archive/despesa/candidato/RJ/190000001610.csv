@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;31000026282;R$ 150,00;Estimado;MARCOS ANTONIO DE ARAUJO LIMA;31999;Deputado Estadual;PHS;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/08/2010;31000026279;R$ 150,00;Estimado;MARCOS ANTONIO DE ARAUJO LIMA;31999;Deputado Estadual;PHS;RJ;
-ILDER DO CARMO MENDES;000.943.087-30;23/08/2010;31000026280;R$ 450,00;Depósito em espécie;MARCOS ANTONIO DE ARAUJO LIMA;31999;Deputado Estadual;PHS;RJ;
-RODOLFO DA SILVA PINNA;807.389.747-49;10/09/2010;31000026281;R$ 700,00;Depósito em espécie;MARCOS ANTONIO DE ARAUJO LIMA;31999;Deputado Estadual;PHS;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 31999 - MARCOS ANTONIO DE ARAUJO LIMA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 31999 - MARCOS ANTONIO DE ARAUJO LIMA - RJ - Deputado Estadual;
+IMPRESSOS LTDA.;40.166.704/0001-53;26/08/2010;       Publicidade por materiais impressos;R$ 650,00;Cheque; -  -  / 31999 - MARCOS ANTONIO DE ARAUJO LIMA - RJ - Deputado Estadual;
+STUDIO GRAFICO GOOL DE PLACA LTDA.;04.267.598/0001-30;24/08/2010;       Publicidade por materiais impressos;R$ 450,00;Cheque; -  -  / 31999 - MARCOS ANTONIO DE ARAUJO LIMA - RJ - Deputado Estadual;

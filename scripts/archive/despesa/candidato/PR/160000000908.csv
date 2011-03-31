@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.235.315/0001-05;30/09/2010;28000769137;R$ 1.923,00;Estimado;MARCO ANTONIO HONORIO;28128;Deputado Estadual;PRTB;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.235.315/0001-05;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.923,00;Estimado;Direção Estadual/Distrital - PRTB -  / 28128 - MARCO ANTONIO HONORIO - PR - Deputado Estadual;

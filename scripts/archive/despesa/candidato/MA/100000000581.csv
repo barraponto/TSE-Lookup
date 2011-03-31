@@ -1,5 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.221.840/0001-63;30/09/2010;13000667786;R$ 3.389,04;Estimado;VALDINAR PEREIRA BARROS;13333;Deputado Estadual;PT;MA;
-VALDINAR PEREIRA BARROS;101.128.123-68;15/09/2010;13000667785;R$ 9.000,00;Estimado;VALDINAR PEREIRA BARROS;13333;Deputado Estadual;PT;MA;
-VALDINAR PEREIRA BARROS;101.128.123-68;14/09/2010;13000667783;R$ 9.000,00;Depósito em espécie;VALDINAR PEREIRA BARROS;13333;Deputado Estadual;PT;MA;
-VALDINAR PEREIRA BARROS;101.128.123-68;29/10/2010;13000667784;R$ 4.575,00;Transferência eletrônica;VALDINAR PEREIRA BARROS;13333;Deputado Estadual;PT;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.221.840/0001-63;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.389,04;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual - PT -  / 13333 - VALDINAR PEREIRA BARROS - MA - Deputado Estadual;
+ETICA SERVIÇOS EDITORIAIS LTDA;41.384.264/0001-73;14/09/2010;       Publicidade por materiais impressos;R$ 1.300,00;Cheque; -  -  / 13333 - VALDINAR PEREIRA BARROS - MA - Deputado Estadual;
+SILVA E TRAJANO LTDA. (GRÁFICA E EDITORA MARASUL);35.176.353/0001-21;08/09/2010;       Publicidade por materiais impressos;R$ 6.000,00;Cheque; -  -  / 13333 - VALDINAR PEREIRA BARROS - MA - Deputado Estadual;
+SILVA E TRAJANO LTDA. (GRÁFICA E EDITORA MARASUL);35.176.353/0001-21;28/09/2010;       Publicidade por materiais impressos;R$ 50,80;Cheque; -  -  / 13333 - VALDINAR PEREIRA BARROS - MA - Deputado Estadual;
+SILVA E TRAJANO LTDA. (GRÁFICA E EDITORA MARASUL);35.176.353/0001-21;28/09/2010;       Publicidade por materiais impressos;R$ 8.000,00;Cheque; -  -  / 13333 - VALDINAR PEREIRA BARROS - MA - Deputado Estadual;
+VALDINAR PEREIRA BARROS;101.128.123-68;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 9.000,00;Estimado; -  -  / 13333 - VALDINAR PEREIRA BARROS - MA - Deputado Estadual;
+;;13/09/2010;       Impostos, contribuições e taxas;R$ 0,35;Débito em conta; -  -  / 13333 - VALDINAR PEREIRA BARROS - MA - Deputado Estadual;

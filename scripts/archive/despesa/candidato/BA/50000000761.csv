@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;05.198.188/0001-48;31/07/2010;15000058151;R$ 192,00;Estimado;ERIVALDO XAVIER DOS SANTOS;1560;Deputado Federal;PMDB;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;05.198.188/0001-48;31/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 192,00;Estimado;Direção Estadual/Distrital - PMDB -  / 1560 - ERIVALDO XAVIER DOS SANTOS - BA - Deputado Federal;

@@ -1,4 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.171/0001-43;30/09/2010;13000872881;R$ 750,00;Estimado;JOÃO CUSTÓDIO FILHO;13002;Deputado Estadual;PT;RJ;
-Comitê Financeiro Único;12.200.171/0001-43;10/09/2010;13000872884;R$ 5.000,00;Cheque;JOÃO CUSTÓDIO FILHO;13002;Deputado Estadual;PT;RJ;
-HELENIR AFONSO CUSTÓDIO;042.031.397-40;01/09/2010;13000872801;R$ 3.000,00;Estimado;JOÃO CUSTÓDIO FILHO;13002;Deputado Estadual;PT;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONHY BOECHAT SANTANA SERV GRAFICOS LTDA. ME;10.488.318/0001-17;22/09/2010;       Publicidade por materiais impressos;R$ 800,00;Cheque; -  -  / 13002 - JOÃO CUSTÓDIO FILHO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.200.171/0001-43;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 750,00;Estimado;Comitê Financeiro Único - PT -  / 13002 - JOÃO CUSTÓDIO FILHO - RJ - Deputado Estadual;
+HELENIR AFONSO CUSTÓDIO;042.031.397-40;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.000,00;Estimado; -  -  / 13002 - JOÃO CUSTÓDIO FILHO - RJ - Deputado Estadual;
+ITA POSTO DE GASOLINA LTDA;29.795.721/0001-17;28/09/2010;       Combustíveis e lubrificantes;R$ 2.200,00;Cheque; -  -  / 13002 - JOÃO CUSTÓDIO FILHO - RJ - Deputado Estadual;
+ITA POSTO DE GASOLINA LTDA;29.795.721/0001-17;23/09/2010;       Combustíveis e lubrificantes;R$ 2.000,00;Cheque; -  -  / 13002 - JOÃO CUSTÓDIO FILHO - RJ - Deputado Estadual;

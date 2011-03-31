@@ -1,5 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 CLAIR DA FLORA MARTINS;12.172.378/0001-51;01/09/2010;43001767404;R$ 100,00;Depósito em espécie;FERNANDO PACHECO LIMA;43433;Deputado Estadual;PV;PR;
-ELEIÇÃO 2010 CLAIR DA FLORA MARTINS;12.172.378/0001-51;27/08/2010;43001767403;R$ 200,00;Depósito em espécie;FERNANDO PACHECO LIMA;43433;Deputado Estadual;PV;PR;
-ELEICOES 2010 CLAIR DE FLORA MARTINS DEP FEDERAL;12.172.378/0001-51;29/07/2010;43001767401;R$ 978,33;Estimado;FERNANDO PACHECO LIMA;43433;Deputado Estadual;PV;PR;
-ELEICOES 2010 CLEUSA ROSANE RIBAS FERREIRA DEP FED;12.178.049/0001-18;29/07/2010;43001767402;R$ 500,00;Estimado;FERNANDO PACHECO LIMA;43433;Deputado Estadual;PV;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO MODELO LTDA;04.692.210/0001-49;07/09/2010;       Combustíveis e lubrificantes;R$ 50,00;Transferência eletrônica; -  -  / 43433 - FERNANDO PACHECO LIMA - PR - Deputado Estadual;
+AUTO POSTO MODELO LTDA;04.692.210/0001-49;30/09/2010;       Combustíveis e lubrificantes;R$ 40,00;Transferência eletrônica; -  -  / 43433 - FERNANDO PACHECO LIMA - PR - Deputado Estadual;
+CONCESSIONÁRIA DE RODOVIAS INTEGRADAS S.A.;02.221.531/0005-63;07/09/2010;       Despesas com transporte ou deslocamento;R$ 11,20;Transferência eletrônica; -  -  / 43433 - FERNANDO PACHECO LIMA - PR - Deputado Estadual;
+DOALDO PADILHA;071.429.129-36;01/10/2010;       Despesas com pessoal;R$ 50,00;Transferência eletrônica; -  -  / 43433 - FERNANDO PACHECO LIMA - PR - Deputado Estadual;
+DOALDO PADILHA;071.429.129-36;30/09/2010;       Despesas com pessoal;R$ 50,00;Transferência eletrônica; -  -  / 43433 - FERNANDO PACHECO LIMA - PR - Deputado Estadual;
+ELEICOES 2010 CLAIR DE FLORA MARTINS DEP FEDERAL;12.172.378/0001-51;29/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 978,33;Estimado;4399 -  - PV -  - Deputado Federal / 43433 - FERNANDO PACHECO LIMA - PR - Deputado Estadual;
+ELEICOES 2010 CLEUSA ROSANE RIBAS FERREIRA DEP FED;12.178.049/0001-18;29/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;4343 -  - PV -  - Deputado Federal / 43433 - FERNANDO PACHECO LIMA - PR - Deputado Estadual;
+POSTO BALSA NOVA LTDA;75.080.432/0001-59;02/10/2010;       Combustíveis e lubrificantes;R$ 30,00;Transferência eletrônica; -  -  / 43433 - FERNANDO PACHECO LIMA - PR - Deputado Estadual;
+POSTO MINUANO CAMPO LARGO LTDA;04.961.640/0001-19;01/10/2010;       Combustíveis e lubrificantes;R$ 68,80;Transferência eletrônica; -  -  / 43433 - FERNANDO PACHECO LIMA - PR - Deputado Estadual;

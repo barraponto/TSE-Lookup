@@ -1,5 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LUIZ CESAR BENCK;306.117.339-00;23/07/2010;43001771001;R$ 200,00;Depósito em espécie;LUIZ CESAR BENCK;43223;Deputado Estadual;PV;PR;
-LUIZ CESAR BENCK;306.117.339-00;20/07/2010;43001771004;R$ 1.000,00;Estimado;LUIZ CESAR BENCK;43223;Deputado Estadual;PV;PR;
-LUIZ CESAR BENCK;306.117.339-00;16/09/2010;43001771002;R$ 800,00;Depósito em espécie;LUIZ CESAR BENCK;43223;Deputado Estadual;PV;PR;
-ORACILIA INGLEZ BENCK;820.270.489-87;27/10/2010;43001771003;R$ 1.400,00;Depósito em espécie;LUIZ CESAR BENCK;43223;Deputado Estadual;PV;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO CARMELITAS;05.924.489/0001-01;28/09/2010;       Combustíveis e lubrificantes;R$ 60,00;Cheque; -  -  / 43223 - LUIZ CESAR BENCK - PR - Deputado Estadual;
+AUTO POSTO CARMELITAS;05.924.489/0001-01;16/09/2010;       Combustíveis e lubrificantes;R$ 66,00;Cheque; -  -  / 43223 - LUIZ CESAR BENCK - PR - Deputado Estadual;
+AUTO POSTO CRISTO REI LTDA;80.245.988/0001-98;25/09/2010;       Combustíveis e lubrificantes;R$ 60,00;Cheque; -  -  / 43223 - LUIZ CESAR BENCK - PR - Deputado Estadual;
+AUTO POSTO SÃO PEDRO;78.343.365/0001-06;27/09/2010;       Combustíveis e lubrificantes;R$ 59,50;Cheque; -  -  / 43223 - LUIZ CESAR BENCK - PR - Deputado Estadual;
+FIEL GRAFICA LTDA;02.216.870/0001-28;29/10/2010;       Publicidade por materiais impressos;R$ 1.873,20;Cheque; -  -  / 43223 - LUIZ CESAR BENCK - PR - Deputado Estadual;
+G J MOREIRA & E J MOREIRA LTDA;07.025.401/0001-45;26/09/2010;       Combustíveis e lubrificantes;R$ 60,00;Cheque; -  -  / 43223 - LUIZ CESAR BENCK - PR - Deputado Estadual;
+IDEAL GUAPO LTDA;03.626.094/0006-01;29/09/2010;       Combustíveis e lubrificantes;R$ 55,50;Cheque; -  -  / 43223 - LUIZ CESAR BENCK - PR - Deputado Estadual;
+LUIZ CESAR BENCK;306.117.339-00;20/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 43223 - LUIZ CESAR BENCK - PR - Deputado Estadual;
+POSTO BR BRASIL;02.741.709/0001-73;21/09/2010;       Combustíveis e lubrificantes;R$ 58,00;Cheque; -  -  / 43223 - LUIZ CESAR BENCK - PR - Deputado Estadual;
+POSTO BR BRASIL;02.741.709/0001-73;23/09/2010;       Combustíveis e lubrificantes;R$ 50,00;Cheque; -  -  / 43223 - LUIZ CESAR BENCK - PR - Deputado Estadual;
+POSTO HARMONIA;84.933.878/0015-75;18/09/2010;       Combustíveis e lubrificantes;R$ 57,80;Cheque; -  -  / 43223 - LUIZ CESAR BENCK - PR - Deputado Estadual;

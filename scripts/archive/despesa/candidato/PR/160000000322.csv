@@ -1,4 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO CARLOS LIPINSKI;355.099.539-34;02/10/2010;23000180256;R$ 63,79;Transferência eletrônica;ANTONIO CARLOS LIPINSKI;23750;Deputado Estadual;PPS;PR;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;23/09/2010;23000180254;R$ 1.680,00;Transferência eletrônica;ANTONIO CARLOS LIPINSKI;23750;Deputado Estadual;PPS;PR;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;16/08/2010;23000180251;R$ 1.575,00;Estimado;ANTONIO CARLOS LIPINSKI;23750;Deputado Estadual;PPS;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;16/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.575,00;Estimado;45 -  - PSDB -  - Governador / 23750 - ANTONIO CARLOS LIPINSKI - PR - Deputado Estadual;
+CARMEN LUCIA RIBEIRO;167.789.449-00;30/09/2010;       Despesas com pessoal;R$ 425,00;Cheque; -  -  / 23750 - ANTONIO CARLOS LIPINSKI - PR - Deputado Estadual;
+CARMEN LUCIA RIBEIRO;167.789.449-00;02/10/2010;       Despesas com pessoal;R$ 50,00;Cheque; -  -  / 23750 - ANTONIO CARLOS LIPINSKI - PR - Deputado Estadual;
+CONTABILISTA PAPELARIA E INF. LTDA;77.765.840/0002-50;29/09/2010;       Materiais de expediente;R$ 210,00;Cheque; -  -  / 23750 - ANTONIO CARLOS LIPINSKI - PR - Deputado Estadual;
+KALUNGA COM. IND. GRAFICA LTDA;43.283.811/0050-38;28/09/2010;       Materiais de expediente;R$ 871,00;Cheque; -  -  / 23750 - ANTONIO CARLOS LIPINSKI - PR - Deputado Estadual;
+MPS - INSS-SRP;42.442.253/0014-18;02/10/2010;       Encargos sociais;R$ 147,73;Cheque; -  -  / 23750 - ANTONIO CARLOS LIPINSKI - PR - Deputado Estadual;

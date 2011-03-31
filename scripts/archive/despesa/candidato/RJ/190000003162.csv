@@ -1,5 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-BALTHAZAR DIAS SALGADO;046.036.137-68;13/08/2010;10000027582;R$ 3.621,00;Transferência eletrônica;BALTHAZAR DIAS SALGADO;1022;Deputado Federal;PRB;RJ;
-BALTHAZAR DIAS SALGADO;046.036.137-68;13/09/2010;10000027584;R$ 971,00;Transferência eletrônica;BALTHAZAR DIAS SALGADO;1022;Deputado Federal;PRB;RJ;
-Comitê Financeiro Único;12.200.167/0001-85;10/08/2010;10000027581;R$ 4.980,00;Estimado;BALTHAZAR DIAS SALGADO;1022;Deputado Federal;PRB;RJ;
-Comitê Financeiro Único;12.200.167/0001-85;13/09/2010;10000027583;R$ 300,00;Estimado;BALTHAZAR DIAS SALGADO;1022;Deputado Federal;PRB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.167/0001-85;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.980,00;Estimado;Comitê Financeiro Único - PRB -  / 1022 - BALTHAZAR DIAS SALGADO - RJ - Deputado Federal;
+Comitê Financeiro Único;12.200.167/0001-85;13/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PRB -  / 1022 - BALTHAZAR DIAS SALGADO - RJ - Deputado Federal;
+INFOGLOBO COMUNICAÇÃO E PARTICIPAÇÃO S/A;60.452.752/0001-15;13/09/2010;       Publicidade por jornais e revistas;R$ 525,00;Transferência eletrônica; -  -  / 1022 - BALTHAZAR DIAS SALGADO - RJ - Deputado Federal;
+INFOGLOBO COMUNICAÇÃO E PARTICIPAÇÃO S/A;60.452.752/0001-15;13/09/2010;       Publicidade por jornais e revistas;R$ 446,00;Transferência eletrônica; -  -  / 1022 - BALTHAZAR DIAS SALGADO - RJ - Deputado Federal;
+INFOGLOBO COMUNICAÇÃO E PARTICIPAÇÃO S/A;60.452.752/0001-15;17/08/2010;       Publicidade por jornais e revistas;R$ 3.150,00;Cheque; -  -  / 1022 - BALTHAZAR DIAS SALGADO - RJ - Deputado Federal;
+INFOGLOBO COMUNICAÇÃO E PARTICIPAÇÃO S/A;60.452.752/0001-15;17/08/2010;       Publicidade por jornais e revistas;R$ 446,00;Cheque; -  -  / 1022 - BALTHAZAR DIAS SALGADO - RJ - Deputado Federal;
+;;13/08/2010;       Encargos financeiros e taxas bancárias;R$ 3,00;Débito em conta; -  -  / 1022 - BALTHAZAR DIAS SALGADO - RJ - Deputado Federal;

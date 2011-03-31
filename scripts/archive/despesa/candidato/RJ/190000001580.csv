@@ -1,4 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;19190001207;R$ 150,00;Estimado;JAYME FELIX DE CAMPOS;19013;Deputado Estadual;PTN;RJ;
-JAYME FELIX DE CAMPO;105.120.207-87;27/07/2010;19190001205;R$ 3.000,00;Depósito em espécie;JAYME FELIX DE CAMPOS;19013;Deputado Estadual;PTN;RJ;
-JAYME FELIX DE CAMPO;105.120.207-87;23/09/2010;19190001201;R$ 100,00;Depósito em espécie;JAYME FELIX DE CAMPOS;19013;Deputado Estadual;PTN;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARIES ARTES GRAFICAS LTDA;04.151.002/0001-32;30/08/2010;       Publicidade por materiais impressos;R$ 440,00;Cheque; -  -  / 19013 - JAYME FELIX DE CAMPOS - RJ - Deputado Estadual;
+CARLOS ALDYR DOS SANTOS DO CARMO;935.851.607-00;04/10/2010;       Serviços prestados por terceiros;R$ 150,00;Cheque; -  -  / 19013 - JAYME FELIX DE CAMPOS - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 19013 - JAYME FELIX DE CAMPOS - RJ - Deputado Estadual;
+JEFERSON CASTRO NUNES DE ALMEIDA;013.009.607-52;10/09/2010;       Serviços prestados por terceiros;R$ 150,00;Cheque; -  -  / 19013 - JAYME FELIX DE CAMPOS - RJ - Deputado Estadual;
+ROSEMERE MARIA GUERRA;084.382.457-30;31/08/2010;       Serviços prestados por terceiros;R$ 500,00;Cheque; -  -  / 19013 - JAYME FELIX DE CAMPOS - RJ - Deputado Estadual;
+ROSEMERE MARIA GUERRA;084.382.457-30;04/08/2010;       Serviços prestados por terceiros;R$ 500,00;Cheque; -  -  / 19013 - JAYME FELIX DE CAMPOS - RJ - Deputado Estadual;
+THAISA DOS SANTOS DO CARMO;060.641.557-28;22/10/2010;       Serviços prestados por terceiros;R$ 260,00;Cheque; -  -  / 19013 - JAYME FELIX DE CAMPOS - RJ - Deputado Estadual;
+THAISA DOS SANTOS DO CARMO;060.641.557-28;29/10/2010;       Serviços prestados por terceiros;R$ 100,00;Cheque; -  -  / 19013 - JAYME FELIX DE CAMPOS - RJ - Deputado Estadual;
+VANIA MACHADO DA SILVA;013.678.457-77;04/08/2010;       Serviços prestados por terceiros;R$ 500,00;Cheque; -  -  / 19013 - JAYME FELIX DE CAMPOS - RJ - Deputado Estadual;
+VANIA MACHADO DA SILVA;013.678.457-77;31/08/2010;       Serviços prestados por terceiros;R$ 500,00;Cheque; -  -  / 19013 - JAYME FELIX DE CAMPOS - RJ - Deputado Estadual;

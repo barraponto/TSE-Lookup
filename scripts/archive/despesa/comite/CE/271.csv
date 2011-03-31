@@ -1,3 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
-ANTONIO REGINALDO COSTA MOREIRA;264.778.233-49;28/09/2010;33000086301;R$ 2.500,00;Depósito em espécie;Comitê Financeiro Único;PMN;CE;
-Diretório Nacional;29.549.433/0001-82;30/09/2010;33000086302;R$ 63.000,00;Estimado;Comitê Financeiro Único;PMN;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Nacional;29.549.433/0001-82;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 63.000,00;Estimado;Direção Nacional - PMN -  / Comitê Financeiro Único - PMN - CE;
+LOCADORA DE VEÍCULOS ATLÂNTICO LTDA;03.654.418/0001-00;01/10/2010;       Cessão ou Locação de Veículos;R$ 670,00;Cheque; -  -  / Comitê Financeiro Único - PMN - CE;
+MARCOGRAF GRÁFICA LTDA;02.963.095/0001-74;29/09/2010;       Publicidade por materiais impressos;R$ 686,00;Cheque; -  -  / Comitê Financeiro Único - PMN - CE;
+MARCOGRAF GRÁFICA LTDA;02.963.095/0001-74;29/09/2010;       Publicidade por materiais impressos;R$ 686,00;Cheque; -  -  / Comitê Financeiro Único - PMN - CE;

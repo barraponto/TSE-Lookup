@@ -1,8 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DANIEL BISPO ALVES;005.696.295-94;04/09/2010;43001855030;R$ 500,00;Estimado;ROANDRESON LIMA SANTANA;43500;Deputado Estadual;PV;BA;
-EDSON GONÇALVES DUARTE;12.176.254/0001-44;13/08/2010;43001855029;R$ 2.000,00;Cheque;ROANDRESON LIMA SANTANA;43500;Deputado Estadual;PV;BA;
-MARCIO LUIZ DAS NEVES DIAS;509.624.425-34;20/09/2010;43001855032;R$ 800,00;Depósito em espécie;ROANDRESON LIMA SANTANA;43500;Deputado Estadual;PV;BA;
-PRISCILA LIMA DA SILVA;792.276.355-72;29/07/2010;43001855027;R$ 600,00;Depósito em espécie;ROANDRESON LIMA SANTANA;43500;Deputado Estadual;PV;BA;
-ROANDRESON LIMA SANTANA;950.581.765-72;06/08/2010;43001855028;R$ 240,00;Depósito em espécie;ROANDRESON LIMA SANTANA;43500;Deputado Estadual;PV;BA;
-ROANDRESON LIMA SANTANA;950.581.765-72;06/09/2010;43001855031;R$ 510,00;Depósito em espécie;ROANDRESON LIMA SANTANA;43500;Deputado Estadual;PV;BA;
-ROANDRESON LIMA SANTANA;950.581.765-72;16/07/2010;43001855026;R$ 1.010,00;Depósito em espécie;ROANDRESON LIMA SANTANA;43500;Deputado Estadual;PV;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DANIEL BISPO ALVES;005.696.295-94;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 43500 - ROANDRESON LIMA SANTANA - BA - Deputado Estadual;
+MANOEL RODOLFO SILVA SANTOS ME;10.326.093/0001-00;16/07/2010;       Publicidade por materiais impressos;R$ 1.800,00;Cheque; -  -  / 43500 - ROANDRESON LIMA SANTANA - BA - Deputado Estadual;
+PAULO CESAR MENDES ESTRELA DA SILVA JUNIOR;839.858.675-34;17/08/2010;       Serviços prestados por terceiros;R$ 1.100,00;Cheque; -  -  / 43500 - ROANDRESON LIMA SANTANA - BA - Deputado Estadual;
+PLACASERV COMUNICAÇÃO VISUAL LTDA;04.475.870/0001-78;29/07/2010;       Publicidade por materiais impressos;R$ 100,00;Cheque; -  -  / 43500 - ROANDRESON LIMA SANTANA - BA - Deputado Estadual;
+PLACASERV COMUNICAÇÃO VISUAL LTDA;04.475.870/0001-78;05/08/2010;       Publicidade por materiais impressos;R$ 240,00;Cheque; -  -  / 43500 - ROANDRESON LIMA SANTANA - BA - Deputado Estadual;
+PLACASERV COMUNICAÇÃO VISUAL LTDA;04.475.870/0001-78;16/07/2010;       Publicidade por placas, estandartes e faixas;R$ 1.000,00;Cheque; -  -  / 43500 - ROANDRESON LIMA SANTANA - BA - Deputado Estadual;
+PLACASERV COMUNICAÇÃO VISUAL LTDA;04.475.870/0001-78;05/08/2010;       Publicidade por placas, estandartes e faixas;R$ 400,00;Cheque; -  -  / 43500 - ROANDRESON LIMA SANTANA - BA - Deputado Estadual;
+RAMON MARGIOLLI PEREIRA DA SILVA;011.997.205-00;06/09/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 510,00;Cheque; -  -  / 43500 - ROANDRESON LIMA SANTANA - BA - Deputado Estadual;

@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-BENONI ALMEIDA DE SOUZA;447.586.697-91;30/08/2010;22000169551;R$ 4.000,00;Depósito em espécie;BENONI ALMEIDA DE SOUZA;2215;Deputado Federal;PR;RJ;
-BENONI ALMEIDA DE SOUZA;447.586.697-91;31/08/2010;22000169552;R$ 2.000,00;Depósito em espécie;BENONI ALMEIDA DE SOUZA;2215;Deputado Federal;PR;RJ;
-Comitê Financeiro Único;12.217.557/0001-68;30/09/2010;22000169553;R$ 2.272,72;Estimado;BENONI ALMEIDA DE SOUZA;2215;Deputado Federal;PR;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.217.557/0001-68;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.272,72;Estimado;Comitê Financeiro Único - PR -  / 2215 - BENONI ALMEIDA DE SOUZA - RJ - Deputado Federal;
+SHAOVAN GRAFICA;28.040.277/0001-67;04/10/2010;       Publicidade por materiais impressos;R$ 90,00;Cheque; -  -  / 2215 - BENONI ALMEIDA DE SOUZA - RJ - Deputado Federal;
+SHAOVAN GRAFICA;28.040.277/0001-67;31/08/2010;       Publicidade por materiais impressos;R$ 5.910,00;Cheque; -  -  / 2215 - BENONI ALMEIDA DE SOUZA - RJ - Deputado Federal;

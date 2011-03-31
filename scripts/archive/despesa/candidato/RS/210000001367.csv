@@ -1,3 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANA MARIA VERLI DA SILVEIRA;303.080.200-06;20/08/2010;45000091402;R$ 100,00;Depósito em espécie;ANA MARIA VERLI DA SILVEIRA;4541;Deputado Federal;PSDB;RS;
-ANA MARIA VERLI DA SILVEIRA;303.080.200-06;12/07/2010;45000091401;R$ 300,00;Depósito em espécie;ANA MARIA VERLI DA SILVEIRA;4541;Deputado Federal;PSDB;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DAVID M BAINI;87.892.675/0001-70;31/07/2010;       Publicidade por jornais e revistas;R$ 55,00;Transferência eletrônica; -  -  / 4541 - ANA MARIA VERLI DA SILVEIRA - RS - Deputado Federal;
+MIGUEL EDUARDO DA SILVA;87.487.567/0001-12;31/07/2010;       Publicidade por materiais impressos;R$ 75,00;Transferência eletrônica; -  -  / 4541 - ANA MARIA VERLI DA SILVEIRA - RS - Deputado Federal;
+PRINCESA COMÉRCIO DE COMBUSTÍVEIS LTDA.;08.051.523/0001-79;20/08/2010;       Combustíveis e lubrificantes;R$ 100,00;Transferência eletrônica; -  -  / 4541 - ANA MARIA VERLI DA SILVEIRA - RS - Deputado Federal;
+PRINCESA COMÉRCIO DE COMBUSTÍVEIS LTDA.;08.051.523/0001-79;28/07/2010;       Combustíveis e lubrificantes;R$ 150,00;Transferência eletrônica; -  -  / 4541 - ANA MARIA VERLI DA SILVEIRA - RS - Deputado Federal;
+RESTAURANTE PRENDA MINHA LTDA;91.796.748/0001-06;26/07/2010;       Alimentação;R$ 10,00;Cheque; -  -  / 4541 - ANA MARIA VERLI DA SILVEIRA - RS - Deputado Federal;
+;;28/07/2010;       Encargos financeiros e taxas bancárias;R$ 3,00;Débito em conta; -  -  / 4541 - ANA MARIA VERLI DA SILVEIRA - RS - Deputado Federal;

@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JORGE PANZERA;12.204.180/0001-02;05/08/2010;65000231501;R$ 240,00;Estimado;ROBSON JORGE DOS SANTOS MARQUES;65500;Deputado Estadual;PC do B;PA;
-JORGE PANZERA;12.204.180/0001-02;14/09/2010;65000231502;R$ 30,00;Estimado;ROBSON JORGE DOS SANTOS MARQUES;65500;Deputado Estadual;PC do B;PA;
-JORGE PANZERA;12.204.180/0001-02;14/09/2010;65000231506;R$ 0,02;Estimado;ROBSON JORGE DOS SANTOS MARQUES;65500;Deputado Estadual;PC do B;PA;
-JORGE PANZERA;12.204.180/0001-02;28/09/2010;65000231505;R$ 50,00;Estimado;ROBSON JORGE DOS SANTOS MARQUES;65500;Deputado Estadual;PC do B;PA;
-JORGE PANZERA;12.204.180/0001-02;29/09/2010;65000231504;R$ 100,00;Estimado;ROBSON JORGE DOS SANTOS MARQUES;65500;Deputado Estadual;PC do B;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JORGE PANZERA;12.204.180/0001-02;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 30,00;Estimado;6565 -  - PC do B -  - Deputado Federal / 65500 - ROBSON JORGE DOS SANTOS MARQUES - PA - Deputado Estadual;
+JORGE PANZERA;12.204.180/0001-02;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 0,02;Estimado;6565 -  - PC do B -  - Deputado Federal / 65500 - ROBSON JORGE DOS SANTOS MARQUES - PA - Deputado Estadual;
+JORGE PANZERA;12.204.180/0001-02;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 50,00;Estimado;6565 -  - PC do B -  - Deputado Federal / 65500 - ROBSON JORGE DOS SANTOS MARQUES - PA - Deputado Estadual;
+JORGE PANZERA;12.204.180/0001-02;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 240,00;Estimado;6565 -  - PC do B -  - Deputado Federal / 65500 - ROBSON JORGE DOS SANTOS MARQUES - PA - Deputado Estadual;
+JORGE PANZERA;12.204.180/0001-02;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado;6565 -  - PC do B -  - Deputado Federal / 65500 - ROBSON JORGE DOS SANTOS MARQUES - PA - Deputado Estadual;

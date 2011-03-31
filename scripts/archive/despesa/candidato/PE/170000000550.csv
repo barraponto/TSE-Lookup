@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;05.055.973/0001-41;28/09/2010;36000064143;R$ 574,00;Estimado;GECILENE VALERIA DE LIMA FERNANDES;36166;Deputado Estadual;PTC;PE;
-Diretório Estadual/Distrital;05.055.973/0001-41;24/09/2010;36000064141;R$ 200,00;Estimado;GECILENE VALERIA DE LIMA FERNANDES;36166;Deputado Estadual;PTC;PE;
-JOSE ERIBERTO MEDEIROS DE OLIVEIRA;12.177.701/0001-80;25/08/2010;36000064142;R$ 80,00;Estimado;GECILENE VALERIA DE LIMA FERNANDES;36166;Deputado Estadual;PTC;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;05.055.973/0001-41;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 574,00;Estimado;Direção Estadual/Distrital - PTC -  / 36166 - GECILENE VALERIA DE LIMA FERNANDES - PE - Deputado Estadual;
+Diretório Estadual/Distrital;05.055.973/0001-41;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;Direção Estadual/Distrital - PTC -  / 36166 - GECILENE VALERIA DE LIMA FERNANDES - PE - Deputado Estadual;
+JOSE ERIBERTO MEDEIROS DE OLIVEIRA;12.177.701/0001-80;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 80,00;Estimado;36111 -  - PTC -  - Deputado Estadual / 36166 - GECILENE VALERIA DE LIMA FERNANDES - PE - Deputado Estadual;

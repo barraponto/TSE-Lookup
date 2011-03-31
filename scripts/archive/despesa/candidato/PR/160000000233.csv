@@ -1,6 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MARCELO DE SANT ANA PINTO;713.854.529-00;19/07/2010;43001761001;R$ 600,00;Transferência eletrônica;MARCELO DE SANT ANA PINTO;4323;Deputado Federal;PV;PR;
-MARCELO DE SANT ANA PINTO;713.854.529-00;02/08/2010;43001761002;R$ 702,00;Transferência eletrônica;MARCELO DE SANT ANA PINTO;4323;Deputado Federal;PV;PR;
-MARCELO DE SANT ANA PINTO;713.854.529-00;13/09/2010;43001761005;R$ 300,00;Transferência eletrônica;MARCELO DE SANT ANA PINTO;4323;Deputado Federal;PV;PR;
-MARCELO DE SANT ANA PINTO;713.854.529-00;26/08/2010;43001761004;R$ 35,00;Cheque;MARCELO DE SANT ANA PINTO;4323;Deputado Federal;PV;PR;
-MARCELO DE SANT ANA PINTO;713.854.529-00;25/08/2010;43001761003;R$ 30,00;Cheque;MARCELO DE SANT ANA PINTO;4323;Deputado Federal;PV;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUGUSTO HORN;042.666.129-07;04/08/2010;       Produção de jingles, vinhetas e slogans;R$ 650,00;Cheque; -  -  / 4323 - MARCELO DE SANT ANA PINTO - PR - Deputado Federal;
+EDITORA GRAFICA ORIONITA LTDA EPP;01.846.954/0001-82;13/09/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 4323 - MARCELO DE SANT ANA PINTO - PR - Deputado Federal;
+EDITORA GRAFICA ORIONITA LTDA EPP;01.846.954/0001-82;25/08/2010;       Publicidade por materiais impressos;R$ 35,00;Cheque; -  -  / 4323 - MARCELO DE SANT ANA PINTO - PR - Deputado Federal;
+EDITORA GRAFICA ORIONITA LTDA EPP;01.846.954/0001-82;26/08/2010;       Publicidade por materiais impressos;R$ 30,00;Cheque; -  -  / 4323 - MARCELO DE SANT ANA PINTO - PR - Deputado Federal;
+EDITORA GRAFICA ORIONITA LTDA EPP;01.846.954/0001-82;13/08/2010;       Publicidade por materiais impressos;R$ 52,00;Cheque; -  -  / 4323 - MARCELO DE SANT ANA PINTO - PR - Deputado Federal;
+EDITORA GRAFICA ORIONITA LTDA EPP;01.846.954/0001-82;21/07/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 4323 - MARCELO DE SANT ANA PINTO - PR - Deputado Federal;

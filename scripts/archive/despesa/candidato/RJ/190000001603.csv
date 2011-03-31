@@ -1,6 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.191.494/0001-18;30/09/2010;31000026243;R$ 250,00;Outros títulos de crédito;MARCELO MARQUES LOPES;31007;Deputado Estadual;PHS;RJ;
-EDISON DE FREITAS;792.348.107-59;04/08/2010;31000026241;R$ 1.000,00;Depósito em espécie;MARCELO MARQUES LOPES;31007;Deputado Estadual;PHS;RJ;
-LUIZ CARLOS RAMOS;12.176.885/0001-63;11/09/2010;31000026244;R$ 126,00;Estimado;MARCELO MARQUES LOPES;31007;Deputado Estadual;PHS;RJ;
-LUIZ CARLOS RAMOS;12.176.885/0001-63;19/09/2010;31000026245;R$ 150,00;Estimado;MARCELO MARQUES LOPES;31007;Deputado Estadual;PHS;RJ;
-LUIZ FERNANDES DA COSTA;429.516.077-68;21/09/2010;31000026242;R$ 150,00;Estimado;MARCELO MARQUES LOPES;31007;Deputado Estadual;PHS;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA GOMES LTDA;04.853.443/0001-86;06/08/2010;       Publicidade por materiais impressos;R$ 150,00;Cheque; -  -  / 31007 - MARCELO MARQUES LOPES - RJ - Deputado Estadual;
+KEP JAN TECNOLOGIA EM VIDEO LTDA.;01.504.665/0001-03;30/09/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 250,00;Não informado; -  -  / 31007 - MARCELO MARQUES LOPES - RJ - Deputado Estadual;
+LUIZ CARLOS RAMOS;12.176.885/0001-63;11/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 126,00;Estimado; -  -  / 31007 - MARCELO MARQUES LOPES - RJ - Deputado Estadual;
+LUIZ CARLOS RAMOS;12.176.885/0001-63;19/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado; -  -  / 31007 - MARCELO MARQUES LOPES - RJ - Deputado Estadual;
+LUIZ FERNANDES DA COSTA;429.516.077-68;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado; -  -  / 31007 - MARCELO MARQUES LOPES - RJ - Deputado Estadual;
+MARCELO SILVA BENEVIDES;025.513.517-31;20/08/2010;       Serviços prestados por terceiros;R$ 250,00;Cheque; -  -  / 31007 - MARCELO MARQUES LOPES - RJ - Deputado Estadual;
+MARCOS DA CRUZ;739.740.217-87;06/08/2010;       Publicidade por carros de som;R$ 600,00;Cheque; -  -  / 31007 - MARCELO MARQUES LOPES - RJ - Deputado Estadual;

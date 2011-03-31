@@ -1,6 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-GRAFLAYSER GRAFICA LTDA;42.012.856/0001-27;30/09/2010;45000054153;R$ 520,00;Estimado;ZENOBIO ALVES PEREIRA;45622;Deputado Estadual;PSDB;BA;
-ZENOBIO ALVES PEREIRA;128.367.885-34;17/08/2010;45000054152;R$ 300,00;Depósito em espécie;ZENOBIO ALVES PEREIRA;45622;Deputado Estadual;PSDB;BA;
-ZENOBIO ALVES PEREIRA;128.367.885-34;30/07/2010;45000054151;R$ 800,00;Depósito em espécie;ZENOBIO ALVES PEREIRA;45622;Deputado Estadual;PSDB;BA;
-;;27/10/2010;;R$ 4,01;Não informado;ZENOBIO ALVES PEREIRA;45622;Deputado Estadual;PSDB;BA;
-;;27/10/2010;;R$ 37,81;Não informado;ZENOBIO ALVES PEREIRA;45622;Deputado Estadual;PSDB;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFLAYSER GRAFICA LTDA;42.012.856/0001-27;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 520,00;Estimado; -  -  / 45622 - ZENOBIO ALVES PEREIRA - BA - Deputado Estadual;
+GRAFLAYSER GRAFICA LTDA;42.012.856/0001-27;18/08/2010;       Publicidade por materiais impressos;R$ 297,77;Cheque; -  -  / 45622 - ZENOBIO ALVES PEREIRA - BA - Deputado Estadual;
+GRAFLAYSER GRAFICA LTDA;42.012.856/0001-27;30/07/2010;       Publicidade por materiais impressos;R$ 800,00;Cheque; -  -  / 45622 - ZENOBIO ALVES PEREIRA - BA - Deputado Estadual;
+;;19/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 45622 - ZENOBIO ALVES PEREIRA - BA - Deputado Estadual;
+;;05/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,30;Débito em conta; -  -  / 45622 - ZENOBIO ALVES PEREIRA - BA - Deputado Estadual;
+;;03/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,14;Débito em conta; -  -  / 45622 - ZENOBIO ALVES PEREIRA - BA - Deputado Estadual;
+;;27/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 45622 - ZENOBIO ALVES PEREIRA - BA - Deputado Estadual;
+;;04/11/2010;       Encargos financeiros e taxas bancárias;R$ 0,26;Débito em conta; -  -  / 45622 - ZENOBIO ALVES PEREIRA - BA - Deputado Estadual;
+;;27/10/2010;       Encargos financeiros e taxas bancárias;R$ 33,80;Débito em conta; -  -  / 45622 - ZENOBIO ALVES PEREIRA - BA - Deputado Estadual;
+;;17/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 45622 - ZENOBIO ALVES PEREIRA - BA - Deputado Estadual;

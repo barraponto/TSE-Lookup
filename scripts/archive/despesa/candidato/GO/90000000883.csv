@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;33.642.422/0001-10;23/09/2010;45000105502;R$ 3.000,00;Cheque;ANTÔNIO PAES BAIÃO;45650;Deputado Estadual;PSDB;GO;
-VETER MARTINS;12.177.933/0001-38;01/09/2010;45000105501;R$ 700,00;Estimado;ANTÔNIO PAES BAIÃO;45650;Deputado Estadual;PSDB;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JMS COMERCIO DE AUTO PEÇAS E SERVIÇOS LTDA;08.809.740/0001-85;30/09/2010;       Despesas com transporte ou deslocamento;R$ 220,00;Não informado; -  -  / 45650 - ANTÔNIO PAES BAIÃO - GO - Deputado Estadual;
+POSTO BANDEIRANTES;05.658.776/0001-17;21/10/2010;       Combustíveis e lubrificantes;R$ 2.780,28;Não informado; -  -  / 45650 - ANTÔNIO PAES BAIÃO - GO - Deputado Estadual;
+VETER MARTINS;12.177.933/0001-38;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 700,00;Estimado;4550 -  - PSDB -  - Deputado Federal / 45650 - ANTÔNIO PAES BAIÃO - GO - Deputado Estadual;

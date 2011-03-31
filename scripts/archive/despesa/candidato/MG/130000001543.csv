@@ -1,6 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;21.531.363/0001-23;06/09/2010;14000089154;R$ 1.444,55;Estimado;SEBASTIÃO BATISTA DA SILVA;14234;Deputado Estadual;PTB;MG;
-Diretório Estadual/Distrital;21.531.363/0001-23;06/09/2010;14000089155;R$ 1.073,38;Estimado;SEBASTIÃO BATISTA DA SILVA;14234;Deputado Estadual;PTB;MG;
-FRANCISCO DIRCEU DA SILVA;246.749.666-04;23/08/2010;14000089153;R$ 1.000,00;Depósito em espécie;SEBASTIÃO BATISTA DA SILVA;14234;Deputado Estadual;PTB;MG;
-JOSÉ ORLANDO DIAS;399.569.626-00;21/08/2010;14000089152;R$ 250,00;Estimado;SEBASTIÃO BATISTA DA SILVA;14234;Deputado Estadual;PTB;MG;
-SEBASTIÃO BATISTA DA SILVA;359.409.566-53;23/07/2010;14000089151;R$ 2.000,00;Depósito em espécie;SEBASTIÃO BATISTA DA SILVA;14234;Deputado Estadual;PTB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADVOCACIA LUIZ GUSTAVO SCARPELLI;10.544.904/0001-31;25/08/2010;       Serviços prestados por terceiros;R$ 750,00;Cheque; -  -  / 14234 - SEBASTIÃO BATISTA DA SILVA - MG - Deputado Estadual;
+ADVOCACIA LUIZ GUSTAVO SCARPELLI;10.544.904/0001-31;28/07/2010;       Serviços prestados por terceiros;R$ 750,00;Transferência eletrônica; -  -  / 14234 - SEBASTIÃO BATISTA DA SILVA - MG - Deputado Estadual;
+Diretório Estadual/Distrital;21.531.363/0001-23;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.444,55;Estimado;Direção Estadual/Distrital - PTB -  / 14234 - SEBASTIÃO BATISTA DA SILVA - MG - Deputado Estadual;
+Diretório Estadual/Distrital;21.531.363/0001-23;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.073,38;Estimado;Direção Estadual/Distrital - PTB -  / 14234 - SEBASTIÃO BATISTA DA SILVA - MG - Deputado Estadual;
+G CORREA GRÁFICA LTDA;10.192.959/0001-20;29/07/2010;       Publicidade por materiais impressos;R$ 480,00;Cheque; -  -  / 14234 - SEBASTIÃO BATISTA DA SILVA - MG - Deputado Estadual;
+HAROLDO JOSÉ DE FARIA AZEVEDO;496.406.906-00;29/09/2010;       Serviços prestados por terceiros;R$ 340,00;Cheque; -  -  / 14234 - SEBASTIÃO BATISTA DA SILVA - MG - Deputado Estadual;
+HAROLDO JOSÉ DE FARIA AZEVEDO;496.406.906-00;08/09/2010;       Serviços prestados por terceiros;R$ 250,00;Cheque; -  -  / 14234 - SEBASTIÃO BATISTA DA SILVA - MG - Deputado Estadual;
+JOSÉ ORLANDO DIAS;399.569.626-00;21/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado; -  -  / 14234 - SEBASTIÃO BATISTA DA SILVA - MG - Deputado Estadual;
+MADEFORTE INDÚSTRIA E COMÉRCIO DE MÓVEIS LTDA;08.482.090/0001-06;12/08/2010;       Publicidade por placas, estandartes e faixas;R$ 64,00;Cheque; -  -  / 14234 - SEBASTIÃO BATISTA DA SILVA - MG - Deputado Estadual;
+MARIA INÊS COTA DA SILVA;785.273.096-53;29/09/2010;       Despesas com pessoal;R$ 360,00;Cheque; -  -  / 14234 - SEBASTIÃO BATISTA DA SILVA - MG - Deputado Estadual;
+;;28/07/2010;       Encargos financeiros e taxas bancárias;R$ 3,00;Débito em conta; -  -  / 14234 - SEBASTIÃO BATISTA DA SILVA - MG - Deputado Estadual;

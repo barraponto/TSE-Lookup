@@ -1,3 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSÉ MAURO NONATO;571.354.879-15;28/09/2010;50000389772;R$ 275,00;Depósito em espécie;JOSÉ MAURO NONATO;50000;Deputado Estadual;PSOL;PR;
-JOSÉ MAURO NONATO;571.354.879-15;13/08/2010;50000389771;R$ 640,00;Transferência eletrônica;JOSÉ MAURO NONATO;50000;Deputado Estadual;PSOL;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+APLIK COMUNICAÇÃO VISUAL LTDA;11.088.411/0001-05;13/08/2010;       Publicidade por placas, estandartes e faixas;R$ 300,00;Cheque; -  -  / 50000 - JOSÉ MAURO NONATO - PR - Deputado Estadual;
+AUTO POSTO PG-MENOS LTDA;03.151.844/0001-21;27/09/2010;       Combustíveis e lubrificantes;R$ 65,00;Cheque; -  -  / 50000 - JOSÉ MAURO NONATO - PR - Deputado Estadual;
+MARANATA COMERCIO DE MATERIAIS E EQUIPAMENTOS GRAFICOS LTDA;02.153.173/0001-75;18/08/2010;       Publicidade por placas, estandartes e faixas;R$ 340,00;Cheque; -  -  / 50000 - JOSÉ MAURO NONATO - PR - Deputado Estadual;
+TAJA GRAFICA E EDITORA LTDA;00.201.225/0001-06;27/09/2010;       Publicidade por materiais impressos;R$ 210,00;Cheque; -  -  / 50000 - JOSÉ MAURO NONATO - PR - Deputado Estadual;

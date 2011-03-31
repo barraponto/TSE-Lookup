@@ -1,5 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LEONARDO LEMOS BARROS QUINTAO;12.191.253/0001-79;01/10/2010;17000017902;R$ 412,50;Estimado;OSVALDO BARBOSA FILHO;17430;Deputado Estadual;PSL;MG;
-LUBIA TATIANA BARBOSA RIBEIRO;068.212.616-01;17/09/2010;17000017903;R$ 500,00;Depósito em espécie;OSVALDO BARBOSA FILHO;17430;Deputado Estadual;PSL;MG;
-LUBIA TATIANA BARBOSA RIBEIRO;068.212.616-01;05/10/2010;17000017904;R$ 280,00;Depósito em espécie;OSVALDO BARBOSA FILHO;17430;Deputado Estadual;PSL;MG;
-OSVALDO BARBOSA FILHO;269.093.166-49;03/09/2010;17000017905;R$ 400,00;Depósito em espécie;OSVALDO BARBOSA FILHO;17430;Deputado Estadual;PSL;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DIGIMAIS COMUNICAÇÃO VISUAL LTDA;08.836.612/0001-20;01/10/2010;       Publicidade por materiais impressos;R$ 265,48;Cheque; -  -  / 17430 - OSVALDO BARBOSA FILHO - MG - Deputado Estadual;
+DIGIMAIS COMUNICAÇÃO VISUAL LTDA;08.836.612/0001-20;03/09/2010;       Publicidade por materiais impressos;R$ 476,20;Cheque; -  -  / 17430 - OSVALDO BARBOSA FILHO - MG - Deputado Estadual;
+LEONARDO LEMOS BARROS QUINTAO;12.191.253/0001-79;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 412,50;Estimado;1500 -  - PMDB -  - Deputado Federal / 17430 - OSVALDO BARBOSA FILHO - MG - Deputado Estadual;
+ROZANA MARTINS DOS SANTOS;11.634.109/0001-05;06/09/2010;       Serviços prestados por terceiros;R$ 340,00;Cheque; -  -  / 17430 - OSVALDO BARBOSA FILHO - MG - Deputado Estadual;
+;;06/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 17430 - OSVALDO BARBOSA FILHO - MG - Deputado Estadual;
+;;06/10/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 17430 - OSVALDO BARBOSA FILHO - MG - Deputado Estadual;

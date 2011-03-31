@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.205.262/0001-71;18/09/2010;25000536152;R$ 345,00;Estimado;MARCONDES ALMEIDA DINIZ;25123;Deputado Estadual;DEM;CE;
-FORT GRÁFICA;07.955.842/0001-46;01/09/2010;25000536151;R$ 500,00;Estimado;MARCONDES ALMEIDA DINIZ;25123;Deputado Estadual;DEM;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.205.262/0001-71;18/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 345,00;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual - DEM -  / 25123 - MARCONDES ALMEIDA DINIZ - CE - Deputado Estadual;
+FORT GRÁFICA;07.955.842/0001-46;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 25123 - MARCONDES ALMEIDA DINIZ - CE - Deputado Estadual;

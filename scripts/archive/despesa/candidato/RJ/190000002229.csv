@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ISRAEL RIBEIRO DA SILVA;252.902.157-00;30/07/2010;70000152801;R$ 650,00;Estimado;ISRAEL RIBEIRO DA SILVA;7057;Deputado Federal;PT do B;RJ;
-ISRAEL RIBEIRO DA SILVA;252.902.157-00;26/08/2010;70000152802;R$ 1.335,00;Transferência eletrônica;ISRAEL RIBEIRO DA SILVA;7057;Deputado Federal;PT do B;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+A DIGITAL COMUNICAÇÃO VISUAL LT;08.867.504/0001-15;26/08/2010;       Publicidade por materiais impressos;R$ 1.335,00;Transferência eletrônica; -  -  / 7057 - ISRAEL RIBEIRO DA SILVA - RJ - Deputado Federal;
+A. MACHADO COMUNICAÇÃO VISUAL CVAM- PLACAS LTDA;02.252.442/0001-50;30/07/2010;       Publicidade por materiais impressos;R$ 650,00;Não informado; -  -  / 7057 - ISRAEL RIBEIRO DA SILVA - RJ - Deputado Federal;
+ISRAEL RIBEIRO DA SILVA;252.902.157-00;30/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 650,00;Estimado; -  -  / 7057 - ISRAEL RIBEIRO DA SILVA - RJ - Deputado Federal;

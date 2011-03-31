@@ -1,4 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CLAUDENICE BATISTA LOPES;633.955.922-00;05/09/2010;11000169503;R$ 1.500,00;Estimado;LEODATO DA CONCEICAO MARQUES;131;2º Suplente Senador;PP;PA;
-GERSON DOS SANTOS PERES;12.167.168/0001-75;10/09/2010;11000169501;R$ 5.000,00;Cheque;LEODATO DA CONCEICAO MARQUES;131;2º Suplente Senador;PP;PA;
-IRMÃOS OLIVI LTDA (POSTO VERDES MARES);34.617.050/0001-34;05/09/2010;11000169502;R$ 6.000,00;Estimado;LEODATO DA CONCEICAO MARQUES;131;2º Suplente Senador;PP;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CESSIMAR GOMES DE SOUZA;763.542.961-20;20/09/2010;       Cessão ou Locação de Veículos;R$ 1.500,00;Cheque; -  -  / 131 - LEODATO DA CONCEICAO MARQUES - PA - 2º Suplente Senador;
+CLAUDENICE BATISTA LOPES;633.955.922-00;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado; -  -  / 131 - LEODATO DA CONCEICAO MARQUES - PA - 2º Suplente Senador;
+IRMÃOS OLIVI LTDA (POSTO VERDES MARES);34.617.050/0001-34;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 6.000,00;Estimado; -  -  / 131 - LEODATO DA CONCEICAO MARQUES - PA - 2º Suplente Senador;
+ORNILDO SALES SOUZA;213.104.912-91;22/09/2010;       Serviços prestados por terceiros;R$ 690,00;Cheque; -  -  / 131 - LEODATO DA CONCEICAO MARQUES - PA - 2º Suplente Senador;
+VALDENIR DA SILVA CARVALHO;299.663.102-15;01/09/2010;       Cessão ou Locação de Veículos;R$ 2.500,00;Cheque; -  -  / 131 - LEODATO DA CONCEICAO MARQUES - PA - 2º Suplente Senador;
+WILSON ARAUJO BARROS JUNIOR;786.903.402-97;02/10/2010;       Serviços prestados por terceiros;R$ 310,00;Cheque; -  -  / 131 - LEODATO DA CONCEICAO MARQUES - PA - 2º Suplente Senador;

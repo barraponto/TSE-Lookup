@@ -1,2 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-SILVERIO ALBANO FERNANDES;263.574.612-53;10/08/2010;14000212151;R$ 10.000,00;Depósito em espécie;SILVÉRIO ALBANO FERNANDES;14230;Deputado Estadual;PTB;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADERVALDO DA SILVA BRITO;395.468.882-49;11/08/2010;       Serviços prestados por terceiros;R$ 1.000,00;Cheque; -  -  / 14230 - SILVÉRIO ALBANO FERNANDES - PA - Deputado Estadual;
+DEUSIMAR SILVA;031.851.412-53;11/08/2010;       Serviços prestados por terceiros;R$ 1.000,00;Cheque; -  -  / 14230 - SILVÉRIO ALBANO FERNANDES - PA - Deputado Estadual;
+MIGUEL ROBERVAL S. LOBATO;031.851.412-53;11/08/2010;       Publicidade por carros de som;R$ 5.000,00;Cheque; -  -  / 14230 - SILVÉRIO ALBANO FERNANDES - PA - Deputado Estadual;
+POSTO SERRA DOURADA  LTDA;07.868.912/0008-03;11/08/2010;       Combustíveis e lubrificantes;R$ 1.602,00;Cheque; -  -  / 14230 - SILVÉRIO ALBANO FERNANDES - PA - Deputado Estadual;
+V.J.SOARES SERVIÇOS GRAFICOS ME;09.139.431/0001-08;10/08/2010;       Publicidade por materiais impressos;R$ 1.300,00;Cheque; -  -  / 14230 - SILVÉRIO ALBANO FERNANDES - PA - Deputado Estadual;

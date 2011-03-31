@@ -1,4 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.471/0001-03;03/09/2010;14000009051;R$ 680,00;Estimado;LUCIANA FILISBINA VIEIRA;14555;Deputado Estadual;PTB;GO;
-Comitê Financeiro Único;12.191.471/0001-03;06/09/2010;14000009054;R$ 1.500,00;Cheque;LUCIANA FILISBINA VIEIRA;14555;Deputado Estadual;PTB;GO;
-Comitê Financeiro Único;12.191.471/0001-03;03/09/2010;14000009052;R$ 660,00;Estimado;LUCIANA FILISBINA VIEIRA;14555;Deputado Estadual;PTB;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.471/0001-03;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 680,00;Estimado;Comitê Financeiro Único - PTB -  / 14555 - LUCIANA FILISBINA VIEIRA - GO - Deputado Estadual;
+Comitê Financeiro Único;12.191.471/0001-03;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 660,00;Estimado;Comitê Financeiro Único - PTB -  / 14555 - LUCIANA FILISBINA VIEIRA - GO - Deputado Estadual;
+GLADESTONE VIEIRA NUNES;405.804.311-34;06/09/2010;       Despesas com pessoal;R$ 750,00;Não informado; -  -  / 14555 - LUCIANA FILISBINA VIEIRA - GO - Deputado Estadual;
+MARCIO DA SILVA LIMA;478.795.561-68;06/09/2010;       Despesas com pessoal;R$ 750,00;Não informado; -  -  / 14555 - LUCIANA FILISBINA VIEIRA - GO - Deputado Estadual;

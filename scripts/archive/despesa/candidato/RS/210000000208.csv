@@ -1,5 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 ADÃO REGINEI DOS SANTOS CAMARGO DEPUTADO ESTADUAL;966.734.270-00;30/07/2010;40001922051;R$ 450,00;Depósito em espécie;ADAO REGINEI DOS SANTOS CAMARGO;40555;Deputado Estadual;PSB;RS;
-ELEIÇÃO 2010 ADÃO REGINEI DOS SANTOS CAMARGO DEPUTADO ESTADUAL;966.734.270-00;05/10/2010;40001922054;R$ 208,75;Depósito em espécie;ADAO REGINEI DOS SANTOS CAMARGO;40555;Deputado Estadual;PSB;RS;
-ELEIÇÃO 2010 ADÃO REGINEI DOS SANTOS CAMARGO DEPUTADO ESTADUAL;966.734.270-00;30/08/2010;40001922053;R$ 5.000,00;Depósito em espécie;ADAO REGINEI DOS SANTOS CAMARGO;40555;Deputado Estadual;PSB;RS;
-EVA MATHIAS DA SILVA;615.365.470-34;01/08/2010;40001922052;R$ 2.500,00;Estimado;ADAO REGINEI DOS SANTOS CAMARGO;40555;Deputado Estadual;PSB;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANDRE NUNES DE CARVALHO;961.188.650-00;28/09/2010;       Produção de jingles, vinhetas e slogans;R$ 500,00;Cheque; -  -  / 40555 - ADAO REGINEI DOS SANTOS CAMARGO - RS - Deputado Estadual;
+AUTO POSTO TIO BIBA LTDA;07.356.684/0001-08;30/08/2010;       Combustíveis e lubrificantes;R$ 1.460,00;Cheque; -  -  / 40555 - ADAO REGINEI DOS SANTOS CAMARGO - RS - Deputado Estadual;
+BATTISTI & MARTINI LTDA;89.655.336/0001-04;04/10/2010;       Combustíveis e lubrificantes;R$ 278,75;Cheque; -  -  / 40555 - ADAO REGINEI DOS SANTOS CAMARGO - RS - Deputado Estadual;
+C. OGLIARI ELLWANGER;07.294.918/0001-30;22/09/2010;       Publicidade por jornais e revistas;R$ 340,00;Cheque; -  -  / 40555 - ADAO REGINEI DOS SANTOS CAMARGO - RS - Deputado Estadual;
+EMPRESA JORNALISTICA SERRANO LTDA;07.259.928/0001-34;30/09/2010;       Publicidade por jornais e revistas;R$ 500,00;Cheque; -  -  / 40555 - ADAO REGINEI DOS SANTOS CAMARGO - RS - Deputado Estadual;
+EVA MATHIAS DA SILVA;615.365.470-34;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.500,00;Estimado; -  -  / 40555 - ADAO REGINEI DOS SANTOS CAMARGO - RS - Deputado Estadual;
+LEANDRO OZELAME;770.853.610-34;05/10/2010;       Serviços prestados por terceiros;R$ 100,00;Cheque; -  -  / 40555 - ADAO REGINEI DOS SANTOS CAMARGO - RS - Deputado Estadual;
+RASQUINHA & CIA LTDA;03.611.873/0001-29;04/10/2010;       Publicidade por materiais impressos;R$ 480,00;Cheque; -  -  / 40555 - ADAO REGINEI DOS SANTOS CAMARGO - RS - Deputado Estadual;
+RASQUINHA & CIA LTDA;03.611.873/0001-29;30/08/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 40555 - ADAO REGINEI DOS SANTOS CAMARGO - RS - Deputado Estadual;
+RASQUINHA & CIA LTDA;03.611.873/0001-29;29/09/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 40555 - ADAO REGINEI DOS SANTOS CAMARGO - RS - Deputado Estadual;

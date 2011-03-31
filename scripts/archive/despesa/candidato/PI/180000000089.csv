@@ -1,9 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALISSON DE SOUSA ARAGÃO;011.109.413-58;18/09/2010;36000069852;R$ 240,00;Estimado;PAULO ROGERIO MONTEIRO CARCARÁ;36666;Deputado Estadual;PTC;PI;
-ALISSON DE SOUSA ARAGÃO;011.109.413-58;16/09/2010;36000069853;R$ 60,00;Estimado;PAULO ROGERIO MONTEIRO CARCARÁ;36666;Deputado Estadual;PTC;PI;
-Comitê Financeiro Único;12.206.659/0001-88;19/08/2010;36000069858;R$ 472,20;Estimado;PAULO ROGERIO MONTEIRO CARCARÁ;36666;Deputado Estadual;PTC;PI;
-Comitê Financeiro Único;12.206.659/0001-88;09/09/2010;36000069859;R$ 914,40;Estimado;PAULO ROGERIO MONTEIRO CARCARÁ;36666;Deputado Estadual;PTC;PI;
-Comitê Financeiro Único;12.206.659/0001-88;22/07/2010;36000069854;R$ 902,75;Estimado;PAULO ROGERIO MONTEIRO CARCARÁ;36666;Deputado Estadual;PTC;PI;
-Comitê Financeiro Único;12.206.659/0001-88;01/09/2010;36000069857;R$ 420,00;Estimado;PAULO ROGERIO MONTEIRO CARCARÁ;36666;Deputado Estadual;PTC;PI;
-JOSÉ DE DEUS CARCARA FILHO;242.502.522-72;01/09/2010;36000069856;R$ 300,00;Estimado;PAULO ROGERIO MONTEIRO CARCARÁ;36666;Deputado Estadual;PTC;PI;
-PAULO ROGERIO MONTEIRO CARCARA;201.130.483-00;01/09/2010;36000069855;R$ 3.500,00;Estimado;PAULO ROGERIO MONTEIRO CARCARÁ;36666;Deputado Estadual;PTC;PI;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALISSON DE SOUSA ARAGÃO;011.109.413-58;16/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 60,00;Estimado; -  -  / 36666 - PAULO ROGERIO MONTEIRO CARCARÁ - PI - Deputado Estadual;
+ALISSON DE SOUSA ARAGÃO;011.109.413-58;18/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 240,00;Estimado; -  -  / 36666 - PAULO ROGERIO MONTEIRO CARCARÁ - PI - Deputado Estadual;
+Comitê Financeiro Único;12.206.659/0001-88;19/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 472,20;Estimado;Comitê Financeiro Único - PTC -  / 36666 - PAULO ROGERIO MONTEIRO CARCARÁ - PI - Deputado Estadual;
+Comitê Financeiro Único;12.206.659/0001-88;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 420,00;Estimado;Comitê Financeiro Único - PTC -  / 36666 - PAULO ROGERIO MONTEIRO CARCARÁ - PI - Deputado Estadual;
+Comitê Financeiro Único;12.206.659/0001-88;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 914,40;Estimado;Comitê Financeiro Único - PTC -  / 36666 - PAULO ROGERIO MONTEIRO CARCARÁ - PI - Deputado Estadual;
+Comitê Financeiro Único;12.206.659/0001-88;22/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 902,75;Estimado;Comitê Financeiro Único - PTC -  / 36666 - PAULO ROGERIO MONTEIRO CARCARÁ - PI - Deputado Estadual;
+JOSÉ DE DEUS CARCARA FILHO;242.502.522-72;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 36666 - PAULO ROGERIO MONTEIRO CARCARÁ - PI - Deputado Estadual;
+PAULO ROGERIO MONTEIRO CARCARA;201.130.483-00;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.500,00;Estimado; -  -  / 36666 - PAULO ROGERIO MONTEIRO CARCARÁ - PI - Deputado Estadual;

@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.218/0001-61;19/07/2010;43001803877;R$ 10,00;Estimado;HUGO PRADO SOBRINHO;43678;Deputado Estadual;PV;PI;
-HUGO PRADO SOBRINHO;479.017.803-04;05/08/2010;43001803878;R$ 100,00;Depósito em espécie;HUGO PRADO SOBRINHO;43678;Deputado Estadual;PV;PI;
-TERESA DOS SANTOS  SAOUSA BRITTO;12.172.795/0001-02;21/09/2010;43001803881;R$ 200,00;Estimado;HUGO PRADO SOBRINHO;43678;Deputado Estadual;PV;PI;
-TERESA DOS SANTOS SOUSA BRITTO;12.172.795/0001-02;16/09/2010;43001803880;R$ 2.000,00;Estimado;HUGO PRADO SOBRINHO;43678;Deputado Estadual;PV;PI;
-TERESA DOS SANTOS SOUSA BRITTO;12.172.795/0001-02;22/09/2010;43001803882;R$ 500,00;Cheque;HUGO PRADO SOBRINHO;43678;Deputado Estadual;PV;PI;
-TERESA DOS SANTOS SOUSA BRITTO;12.172.795/0001-02;05/08/2010;43001803879;R$ 100,00;Estimado;HUGO PRADO SOBRINHO;43678;Deputado Estadual;PV;PI;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.218/0001-61;19/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 10,00;Estimado;Comitê Financeiro Único - PV -  / 43678 - HUGO PRADO SOBRINHO - PI - Deputado Estadual;
+FW COMERCIO E SERVICO DE INFORMATICA LTDA;11.496.669/0001-32;04/08/2010;       Publicidade por materiais impressos;R$ 70,00;Cheque; -  -  / 43678 - HUGO PRADO SOBRINHO - PI - Deputado Estadual;
+TERESA DOS SANTOS  SAOUSA BRITTO;12.172.795/0001-02;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;43 -  - PV -  - Governador / 43678 - HUGO PRADO SOBRINHO - PI - Deputado Estadual;
+TERESA DOS SANTOS SOUSA BRITTO;12.172.795/0001-02;16/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado;43 -  - PV -  - Governador / 43678 - HUGO PRADO SOBRINHO - PI - Deputado Estadual;
+TERESA DOS SANTOS SOUSA BRITTO;12.172.795/0001-02;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado;43 -  - PV -  - Governador / 43678 - HUGO PRADO SOBRINHO - PI - Deputado Estadual;
+VALDECY BATISTA DA COSTA;397.562.623-20;28/09/2010;       Despesas com pessoal;R$ 530,00;Cheque; -  -  / 43678 - HUGO PRADO SOBRINHO - PI - Deputado Estadual;

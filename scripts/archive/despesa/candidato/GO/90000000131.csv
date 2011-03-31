@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.242/0001-09;23/08/2010;65000185052;R$ 120,00;Estimado;GILMAR SAGGIORO;65125;Deputado Estadual;PC do B;GO;
-ELEICAO 2010 FABIO TOKARSKI DEPUTADO FEDERAL;12.171.879/0001-13;28/07/2010;65000185051;R$ 345,00;Estimado;GILMAR SAGGIORO;65125;Deputado Estadual;PC do B;GO;
-ELEIÇÃO 2010 IRIS REZENDE MACHADO GOVERNADOR;12.167.313/0001-18;02/10/2010;65000185054;R$ 1.612,90;Estimado;GILMAR SAGGIORO;65125;Deputado Estadual;PC do B;GO;
-GERALDO DORTA CABRAL;130.945.213-04;06/09/2010;65000185053;R$ 180,00;Estimado;GILMAR SAGGIORO;65125;Deputado Estadual;PC do B;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.242/0001-09;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 120,00;Estimado;Comitê Financeiro Único - PC do B -  / 65125 - GILMAR SAGGIORO - GO - Deputado Estadual;
+ELEICAO 2010 FABIO TOKARSKI DEPUTADO FEDERAL;12.171.879/0001-13;28/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 345,00;Estimado;6565 -  - PC do B -  - Deputado Federal / 65125 - GILMAR SAGGIORO - GO - Deputado Estadual;
+ELEIÇÃO 2010 IRIS REZENDE MACHADO GOVERNADOR;12.167.313/0001-18;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.612,90;Estimado;15 -  - PMDB -  - Governador / 65125 - GILMAR SAGGIORO - GO - Deputado Estadual;
+GERALDO DORTA CABRAL;130.945.213-04;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 180,00;Estimado; -  -  / 65125 - GILMAR SAGGIORO - GO - Deputado Estadual;

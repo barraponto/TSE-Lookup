@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;05.222.225/0001-06;02/10/2010;27000022253;R$ 132,46;Estimado;DERLI VALADARES DA ROCHA;2727;Deputado Federal;PSDC;MG;
-Diretório Estadual/Distrital;05.222.225/0001-06;02/10/2010;27000022252;R$ 1.197,84;Estimado;DERLI VALADARES DA ROCHA;2727;Deputado Federal;PSDC;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;05.222.225/0001-06;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 132,46;Estimado;Direção Estadual/Distrital - PSDC -  / 2727 - DERLI VALADARES DA ROCHA - MG - Deputado Federal;
+Diretório Estadual/Distrital;05.222.225/0001-06;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.197,84;Estimado;Direção Estadual/Distrital - PSDC -  / 2727 - DERLI VALADARES DA ROCHA - MG - Deputado Federal;

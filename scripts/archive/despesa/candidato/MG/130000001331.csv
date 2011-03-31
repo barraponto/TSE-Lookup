@@ -1,2 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-SERGIO AFONSO SIQUEIRA;747.832.628-53;27/10/2010;70000107052;R$ 400,00;Depósito em espécie;SERGIO AFONSO SIQUEIRA;70250;Deputado Estadual;PT do B;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARTE FINAL;11.236.995/0001-00;18/09/2010;       Diversas a especificar;R$ 60,00;Cheque; -  -  / 70250 - SERGIO AFONSO SIQUEIRA - MG - Deputado Estadual;
+AUTO POSTO SANTANA LTDA;18.658.732/0001-39;28/10/2010;       Combustíveis e lubrificantes;R$ 340,00;Cheque; -  -  / 70250 - SERGIO AFONSO SIQUEIRA - MG - Deputado Estadual;

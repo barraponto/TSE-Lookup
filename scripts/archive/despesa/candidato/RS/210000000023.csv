@@ -1,3 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FABIO ROBERTO MORAES LEMES;935.082.710-72;22/09/2010;50000477542;R$ 600,00;Cheque;FABIO ROBERTO MORAES LEMES;5003;Deputado Federal;PSOL;RS;
-FABIO ROBERTO MORAES LEMES;935.082.710-72;01/09/2010;50000477541;R$ 1.150,00;Cheque;FABIO ROBERTO MORAES LEMES;5003;Deputado Federal;PSOL;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ECT EMP.BRASEILEIRA DE CORREIOS E TELEGRAFOS;34.028.316/0938-70;22/09/2010;       Despesas postais;R$ 428,30;Cheque; -  -  / 5003 - FABIO ROBERTO MORAES LEMES - RS - Deputado Federal;
+ECT EMP.BRASEILEIRA DE CORREIOS E TELEGRAFOS;34.028.316/0938-70;21/09/2010;       Despesas postais;R$ 722,00;Cheque; -  -  / 5003 - FABIO ROBERTO MORAES LEMES - RS - Deputado Federal;
+GRAFICA E EDITORA SENTINELA LTDA;87.657.854/0001-23;01/09/2010;       Publicidade por jornais e revistas;R$ 325,00;Cheque; -  -  / 5003 - FABIO ROBERTO MORAES LEMES - RS - Deputado Federal;
+GRAFICA E EDITORA SENTINELA LTDA;87.657.854/0001-23;27/09/2010;       Publicidade por jornais e revistas;R$ 246,00;Cheque; -  -  / 5003 - FABIO ROBERTO MORAES LEMES - RS - Deputado Federal;
+;;03/09/2010;       Encargos financeiros e taxas bancárias;R$ 20,50;Débito em conta; -  -  / 5003 - FABIO ROBERTO MORAES LEMES - RS - Deputado Federal;

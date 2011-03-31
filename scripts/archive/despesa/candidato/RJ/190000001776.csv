@@ -1,4 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELIAS DOS SANTOS AZEVEDO JUNIOR;990.274.617-91;12/08/2010;17000067753;R$ 1.200,00;Cheque;ELIAS DOS SANTOS AZEVEDO JUNIOR;1776;Deputado Federal;PSL;RJ;
-JORGE SAYED PICCIANI;12.176.626/0001-32;01/10/2010;17000067752;R$ 17,00;Estimado;ELIAS DOS SANTOS AZEVEDO JUNIOR;1776;Deputado Federal;PSL;RJ;
-SERGIO CABRAL;04.218.430/0001-35;09/08/2010;17000067751;R$ 150,00;Estimado;ELIAS DOS SANTOS AZEVEDO JUNIOR;1776;Deputado Federal;PSL;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALINE ARTE PUBLICIDADE LTDA-ME;10.212.846/0001-49;24/09/2010;       Publicidade por materiais impressos;R$ 1.127,10;Cheque; -  -  / 1776 - ELIAS DOS SANTOS AZEVEDO JUNIOR - RJ - Deputado Federal;
+CROMATIVA GRAFICA E EDITORA LTDA;07.366.624/0001-76;20/08/2010;       Publicidade por materiais impressos;R$ 70,00;Cheque; -  -  / 1776 - ELIAS DOS SANTOS AZEVEDO JUNIOR - RJ - Deputado Federal;
+JORGE SAYED PICCIANI;12.176.626/0001-32;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 1776 - ELIAS DOS SANTOS AZEVEDO JUNIOR - RJ - Deputado Federal;
+SERGIO CABRAL;04.218.430/0001-35;09/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;15 -  - PMDB -  - Governador / 1776 - ELIAS DOS SANTOS AZEVEDO JUNIOR - RJ - Deputado Federal;
+;;16/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 1776 - ELIAS DOS SANTOS AZEVEDO JUNIOR - RJ - Deputado Federal;

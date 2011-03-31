@@ -1,4 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LUIS HENRIQUE DE MAGALHAES GABAN;928.073.215-34;31/08/2010;44000005382;R$ 4.500,00;Depósito em espécie;LUIS HENRIQUE DE MAGALHÃES GABAN;4433;Deputado Federal;PRP;BA;
-LUIS HENRIQUE DE MAGALHAES GABAN;928.073.215-34;22/07/2010;44000005383;R$ 10.000,00;Depósito em espécie;LUIS HENRIQUE DE MAGALHÃES GABAN;4433;Deputado Federal;PRP;BA;
-PAULA DA MOTA VIANNA;010.735.465-94;08/08/2010;44000005381;R$ 1.000,00;Estimado;LUIS HENRIQUE DE MAGALHÃES GABAN;4433;Deputado Federal;PRP;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BAUNCE CENTRAL DE AUDIO E SERVIÇOS LTDA;07.194.985/0001-82;28/07/2010;       Produção de jingles, vinhetas e slogans;R$ 2.000,00;Cheque; -  -  / 4433 - LUIS HENRIQUE DE MAGALHÃES GABAN - BA - Deputado Federal;
+GRASB GRAFICA SANTA BARBARA LTDA;15.719.743/0001-93;14/09/2010;       Publicidade por materiais impressos;R$ 3.400,00;Cheque; -  -  / 4433 - LUIS HENRIQUE DE MAGALHÃES GABAN - BA - Deputado Federal;
+PAULA DA MOTA VIANNA;010.735.465-94;08/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 4433 - LUIS HENRIQUE DE MAGALHÃES GABAN - BA - Deputado Federal;
+TRIUNIT COMUNICAÇÃO VISUAL LTDA-ME;10.798.768/0001-06;02/08/2010;       Criação e inclusão de páginas na internet;R$ 1.000,00;Cheque; -  -  / 4433 - LUIS HENRIQUE DE MAGALHÃES GABAN - BA - Deputado Federal;
+URANUS 2 COMUNICAÇÃO LTDA;00.188.004/0001-45;20/08/2010;       Publicidade por placas, estandartes e faixas;R$ 4.569,55;Cheque; -  -  / 4433 - LUIS HENRIQUE DE MAGALHÃES GABAN - BA - Deputado Federal;
+VENTURA & MORAES CONTADORES ASSOCIADOS;08.898.851/0001-05;30/08/2010;       Serviços prestados por terceiros;R$ 1.000,00;Cheque; -  -  / 4433 - LUIS HENRIQUE DE MAGALHÃES GABAN - BA - Deputado Federal;
+VENTURA & MORAES CONTADORES ASSOCIADOS;08.898.851/0001-05;29/09/2010;       Serviços prestados por terceiros;R$ 2.524,65;Cheque; -  -  / 4433 - LUIS HENRIQUE DE MAGALHÃES GABAN - BA - Deputado Federal;
+;;26/07/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 4433 - LUIS HENRIQUE DE MAGALHÃES GABAN - BA - Deputado Federal;
+;;02/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 4433 - LUIS HENRIQUE DE MAGALHÃES GABAN - BA - Deputado Federal;

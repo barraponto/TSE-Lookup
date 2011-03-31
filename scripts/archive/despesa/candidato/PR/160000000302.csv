@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 CLEUSA ROSANE RIBAS FERREIRA;12.178.049/0001-18;24/08/2010;43001774601;R$ 835,00;Estimado;PAULO HARRY HABITH;43770;Deputado Estadual;PV;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 CLEUSA ROSANE RIBAS FERREIRA;12.178.049/0001-18;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 835,00;Estimado;4343 -  - PV -  - Deputado Federal / 43770 - PAULO HARRY HABITH - PR - Deputado Estadual;

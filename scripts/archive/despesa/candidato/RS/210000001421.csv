@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-AFONSO SCHWENGBER;172.775.070-53;22/09/2010;16000030503;R$ 2.000,00;Depósito em espécie;SILVERIO JOSE STOLBEN;1617;Deputado Federal;PSTU;RS;
-AUREO LUIZ JAEGER;442.786.160-15;19/08/2010;16000030502;R$ 800,00;Depósito em espécie;SILVERIO JOSE STOLBEN;1617;Deputado Federal;PSTU;RS;
-CARLOS ALBERTO FREDRICH;465.714.500-20;22/09/2010;16000030505;R$ 1.000,00;Depósito em espécie;SILVERIO JOSE STOLBEN;1617;Deputado Federal;PSTU;RS;
-LUIZ FERNANDO KIST;465.684.330-04;30/09/2010;16000030506;R$ 484,86;Depósito em espécie;SILVERIO JOSE STOLBEN;1617;Deputado Federal;PSTU;RS;
-LUIZ FERNANDO KIST;465.684.330-04;02/08/2010;16000030501;R$ 700,00;Depósito em espécie;SILVERIO JOSE STOLBEN;1617;Deputado Federal;PSTU;RS;
-SILVERIO JOSE STOLBEN;489.516.680-53;22/09/2010;16000030504;R$ 1.000,00;Depósito em espécie;SILVERIO JOSE STOLBEN;1617;Deputado Federal;PSTU;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GAZETA DO SUL SA;95.424.834/0001-30;30/09/2010;       Publicidade por jornais e revistas;R$ 466,56;Cheque; -  -  / 1617 - SILVERIO JOSE STOLBEN - RS - Deputado Federal;
+GRAFICA COLIBRI LTDA;00.989.923/0001-18;23/09/2010;       Publicidade por materiais impressos;R$ 3.864,00;Cheque; -  -  / 1617 - SILVERIO JOSE STOLBEN - RS - Deputado Federal;
+L. P. LIMA & CIA LTDA;94.178.878/0001-65;03/08/2010;       Publicidade por materiais impressos;R$ 600,20;Cheque; -  -  / 1617 - SILVERIO JOSE STOLBEN - RS - Deputado Federal;
+L. P. LIMA & CIA LTDA;94.178.878/0001-65;23/09/2010;       Publicidade por materiais impressos;R$ 132,00;Cheque; -  -  / 1617 - SILVERIO JOSE STOLBEN - RS - Deputado Federal;
+L. P. LIMA & CIA LTDA;94.178.878/0001-65;20/08/2010;       Publicidade por materiais impressos;R$ 833,60;Cheque; -  -  / 1617 - SILVERIO JOSE STOLBEN - RS - Deputado Federal;
+L. P. LIMA & CIA LTDA;94.178.878/0001-65;01/10/2010;       Publicidade por materiais impressos;R$ 88,50;Cheque; -  -  / 1617 - SILVERIO JOSE STOLBEN - RS - Deputado Federal;

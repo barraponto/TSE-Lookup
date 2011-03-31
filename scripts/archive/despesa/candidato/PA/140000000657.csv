@@ -1,7 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSIMAR DE SOUZA LIRA;287.065.792-72;17/08/2010;13000771241;R$ 1.000,00;Depósito em espécie;JOSIMAR DE SOUZA LIRA;13011;Deputado Estadual;PT;PA;
-JOSIMAR DE SOUZA LIRA;287.065.792-72;17/08/2010;13000771242;R$ 1.000,00;Depósito em espécie;JOSIMAR DE SOUZA LIRA;13011;Deputado Estadual;PT;PA;
-JOSIMAR DE SOUZA LIRA;287.065.792-72;25/10/2010;13000771246;R$ 3.300,00;Depósito em espécie;JOSIMAR DE SOUZA LIRA;13011;Deputado Estadual;PT;PA;
-PAULO ROBERTO GALVÃO DA ROCHA;12.168.406/0001-67;26/08/2010;13000771243;R$ 3.150,00;Estimado;JOSIMAR DE SOUZA LIRA;13011;Deputado Estadual;PT;PA;
-PAULO ROBERTO GALVÃO DA ROCHA;12.168.406/0001-67;26/08/2010;13000771244;R$ 3.150,00;Estimado;JOSIMAR DE SOUZA LIRA;13011;Deputado Estadual;PT;PA;
-PAULO ROBERTO GALVÃO DA ROCHA;12.168.406/0001-67;26/08/2010;13000771245;R$ 3.000,00;Estimado;JOSIMAR DE SOUZA LIRA;13011;Deputado Estadual;PT;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BARCELOS & JACINTO LTDA - ME;10.681.239/0001-28;23/09/2010;       Publicidade por materiais impressos;R$ 700,00;Cheque; -  -  / 13011 - JOSIMAR DE SOUZA LIRA - PA - Deputado Estadual;
+BARCELOS & JACINTO LTDA - ME;10.681.239/0001-28;18/08/2010;       Publicidade por materiais impressos;R$ 700,00;Cheque; -  -  / 13011 - JOSIMAR DE SOUZA LIRA - PA - Deputado Estadual;
+L. DO A. SILVA - ME;08.361.279/0001-40;06/08/2010;       Publicidade por materiais impressos;R$ 1.203,00;Cheque; -  -  / 13011 - JOSIMAR DE SOUZA LIRA - PA - Deputado Estadual;
+L. DO A. SILVA - ME;08.361.279/0001-40;30/08/2010;       Publicidade por materiais impressos;R$ 2.687,00;Cheque; -  -  / 13011 - JOSIMAR DE SOUZA LIRA - PA - Deputado Estadual;
+PAULO ROBERTO GALVÃO DA ROCHA;12.168.406/0001-67;26/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.000,00;Estimado;131 -  - PT -  - Senador / 13011 - JOSIMAR DE SOUZA LIRA - PA - Deputado Estadual;
+PAULO ROBERTO GALVÃO DA ROCHA;12.168.406/0001-67;26/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.150,00;Estimado;131 -  - PT -  - Senador / 13011 - JOSIMAR DE SOUZA LIRA - PA - Deputado Estadual;
+PAULO ROBERTO GALVÃO DA ROCHA;12.168.406/0001-67;26/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.150,00;Estimado;131 -  - PT -  - Senador / 13011 - JOSIMAR DE SOUZA LIRA - PA - Deputado Estadual;
+;;24/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 13011 - JOSIMAR DE SOUZA LIRA - PA - Deputado Estadual;
+;;24/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 13011 - JOSIMAR DE SOUZA LIRA - PA - Deputado Estadual;
+;;14/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 13011 - JOSIMAR DE SOUZA LIRA - PA - Deputado Estadual;

@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.235.315/0001-05;02/10/2010;28000769130;R$ 1.923,23;Estimado;IVO NEI MIGDALSKI;28777;Deputado Estadual;PRTB;PR;
-EVA DA LUZ DE JESUS DE ANDRADE;916.650.009-53;02/10/2010;28000769182;R$ 150,00;Estimado;IVO NEI MIGDALSKI;28777;Deputado Estadual;PRTB;PR;
-RIVALDIR JANSEN;12.235.292/0001-20;02/10/2010;28000769181;R$ 360,00;Estimado;IVO NEI MIGDALSKI;28777;Deputado Estadual;PRTB;PR;
-ROMUALDO CAMARGO;435.545.719-20;01/10/2010;28000769129;R$ 25,00;Estimado;IVO NEI MIGDALSKI;28777;Deputado Estadual;PRTB;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.235.315/0001-05;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.923,23;Estimado;Comitê Financeiro Único - PRTB -  / 28777 - IVO NEI MIGDALSKI - PR - Deputado Estadual;
+EVA DA LUZ DE JESUS DE ANDRADE;916.650.009-53;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado; -  -  / 28777 - IVO NEI MIGDALSKI - PR - Deputado Estadual;
+RIVALDIR JANSEN;12.235.292/0001-20;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;287 -  - PRTB -  - Senador / 28777 - IVO NEI MIGDALSKI - PR - Deputado Estadual;
+ROMUALDO CAMARGO;435.545.719-20;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 25,00;Estimado; -  -  / 28777 - IVO NEI MIGDALSKI - PR - Deputado Estadual;

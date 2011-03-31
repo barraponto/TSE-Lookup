@@ -1,9 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.171/0001-43;30/09/2010;13000872502;R$ 760,00;Estimado;VICENTE ESTEVAM DA MATA;1363;Deputado Federal;PT;RJ;
-ELEIÇÃO 2010 MARIA INES PANDELO CERQUEIRA;12.199.484/0001-29;03/09/2010;13000872503;R$ 1.800,00;Estimado;VICENTE ESTEVAM DA MATA;1363;Deputado Federal;PT;RJ;
-ELEIÇÃO 2010 MARIA INES PANDELO CERQUEIRA;12.199.484/0001-29;13/09/2010;13000872504;R$ 1.800,00;Estimado;VICENTE ESTEVAM DA MATA;1363;Deputado Federal;PT;RJ;
-MARIA INES PANDELO CERQUEIRA;12.199.484/0001-29;26/08/2010;13000872508;R$ 2.300,00;Estimado;VICENTE ESTEVAM DA MATA;1363;Deputado Federal;PT;RJ;
-MARIA INES PANDELO CERQUEIRA;12.199.484/0001-29;19/08/2010;13000872506;R$ 320,00;Estimado;VICENTE ESTEVAM DA MATA;1363;Deputado Federal;PT;RJ;
-MARIA INES PANDELO CERQUEIRA;12.199.484/0001-29;13/08/2010;13000872505;R$ 320,00;Estimado;VICENTE ESTEVAM DA MATA;1363;Deputado Federal;PT;RJ;
-MARIA INES PANDELO CERQUEIRA;12.199.484/0001-29;27/07/2010;13000872501;R$ 1.836,00;Estimado;VICENTE ESTEVAM DA MATA;1363;Deputado Federal;PT;RJ;
-MARIA INES PANDELO CERQUEIRA;12.199.484/0001-29;19/08/2010;13000872507;R$ 2.300,00;Estimado;VICENTE ESTEVAM DA MATA;1363;Deputado Federal;PT;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.171/0001-43;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 760,00;Estimado;Comitê Financeiro Único - PT -  / 1363 - VICENTE ESTEVAM DA MATA - RJ - Deputado Federal;
+ELEIÇÃO 2010 MARIA INES PANDELO CERQUEIRA;12.199.484/0001-29;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.800,00;Estimado;13633 -  - PT -  - Deputado Estadual / 1363 - VICENTE ESTEVAM DA MATA - RJ - Deputado Federal;
+ELEIÇÃO 2010 MARIA INES PANDELO CERQUEIRA;12.199.484/0001-29;13/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.800,00;Estimado;13633 -  - PT -  - Deputado Estadual / 1363 - VICENTE ESTEVAM DA MATA - RJ - Deputado Federal;
+MARIA INES PANDELO CERQUEIRA;12.199.484/0001-29;19/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 320,00;Estimado;13633 -  - PT -  - Deputado Estadual / 1363 - VICENTE ESTEVAM DA MATA - RJ - Deputado Federal;
+MARIA INES PANDELO CERQUEIRA;12.199.484/0001-29;19/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.300,00;Estimado;13633 -  - PT -  - Deputado Estadual / 1363 - VICENTE ESTEVAM DA MATA - RJ - Deputado Federal;
+MARIA INES PANDELO CERQUEIRA;12.199.484/0001-29;27/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.836,00;Estimado;13633 -  - PT -  - Deputado Estadual / 1363 - VICENTE ESTEVAM DA MATA - RJ - Deputado Federal;
+MARIA INES PANDELO CERQUEIRA;12.199.484/0001-29;13/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 320,00;Estimado;13633 -  - PT -  - Deputado Estadual / 1363 - VICENTE ESTEVAM DA MATA - RJ - Deputado Federal;
+MARIA INES PANDELO CERQUEIRA;12.199.484/0001-29;26/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.300,00;Estimado;13633 -  - PT -  - Deputado Estadual / 1363 - VICENTE ESTEVAM DA MATA - RJ - Deputado Federal;

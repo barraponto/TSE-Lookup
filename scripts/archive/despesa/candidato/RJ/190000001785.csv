@@ -1,6 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ATOS CONSULTORIA E ASSESSORIA EM GESTÃO EMPRESARIAL;08.077.298/0001-40;01/10/2010;17000068005;R$ 800,00;Cheque;GESIEL DE OLIVEIRA LESSA;1709;Deputado Federal;PSL;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;27/09/2010;17000068001;R$ 150,00;Estimado;GESIEL DE OLIVEIRA LESSA;1709;Deputado Federal;PSL;RJ;
-GLEICE DE OLIVEIRA LESSA AMORIM;032.167.267-46;23/09/2010;17000068004;R$ 1.400,00;Depósito em espécie;GESIEL DE OLIVEIRA LESSA;1709;Deputado Federal;PSL;RJ;
-JORGE SAYED PICCIANI;12.176.626/0001-32;01/10/2010;17000068003;R$ 17,00;Estimado;GESIEL DE OLIVEIRA LESSA;1709;Deputado Federal;PSL;RJ;
-RAFAEL CARNEIRO MONTEIRO PICCIANI;12.171.202/0001-85;19/09/2010;17000068002;R$ 4.285,71;Estimado;GESIEL DE OLIVEIRA LESSA;1709;Deputado Federal;PSL;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 1709 - GESIEL DE OLIVEIRA LESSA - RJ - Deputado Federal;
+JORGE SAYED PICCIANI;12.176.626/0001-32;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 1709 - GESIEL DE OLIVEIRA LESSA - RJ - Deputado Federal;
+KNOSEL SIGN CONFECÇÃO DE ADESIVOS LTDA;06.227.873/0001-18;14/09/2010;       Publicidade por materiais impressos;R$ 1.502,00;Cheque; -  -  / 1709 - GESIEL DE OLIVEIRA LESSA - RJ - Deputado Federal;
+KNOSEL SIGN CONFECÇÃO DE ADESIVOS LTDA;06.227.873/0001-18;20/09/2010;       Publicidade por materiais impressos;R$ 598,00;Cheque; -  -  / 1709 - GESIEL DE OLIVEIRA LESSA - RJ - Deputado Federal;
+RAFAEL CARNEIRO MONTEIRO PICCIANI;12.171.202/0001-85;19/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.285,71;Estimado;15159 -  - PMDB -  - Deputado Estadual / 1709 - GESIEL DE OLIVEIRA LESSA - RJ - Deputado Federal;
+;;29/10/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Débito em conta; -  -  / 1709 - GESIEL DE OLIVEIRA LESSA - RJ - Deputado Federal;

@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.229.903/0001-28;29/09/2010;50000245905;R$ 300,00;Estimado;JOSE ARAUJO OLIVEIRA;50777;Deputado Estadual;PSOL;MS;
-Comitê Financeiro Único;12.229.903/0001-28;29/09/2010;50000245904;R$ 300,00;Estimado;JOSE ARAUJO OLIVEIRA;50777;Deputado Estadual;PSOL;MS;
-Comitê Financeiro Único;12.229.903/0001-28;29/09/2010;50000245906;R$ 1.000,00;Estimado;JOSE ARAUJO OLIVEIRA;50777;Deputado Estadual;PSOL;MS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.229.903/0001-28;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PSOL -  / 50777 - JOSE ARAUJO OLIVEIRA - MS - Deputado Estadual;
+Comitê Financeiro Único;12.229.903/0001-28;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;Comitê Financeiro Único - PSOL -  / 50777 - JOSE ARAUJO OLIVEIRA - MS - Deputado Estadual;
+Comitê Financeiro Único;12.229.903/0001-28;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PSOL -  / 50777 - JOSE ARAUJO OLIVEIRA - MS - Deputado Estadual;

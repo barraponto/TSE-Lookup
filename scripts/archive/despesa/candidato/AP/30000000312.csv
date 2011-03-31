@@ -1,9 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.285/0001-86;30/07/2010;15000208702;R$ 5.000,00;Cheque;NILTON LUIZ CABRAL TORK;1569;Deputado Federal;PMDB;AP;
-Comitê Financeiro Único;12.205.285/0001-86;05/08/2010;15000208707;R$ 900,00;Estimado;NILTON LUIZ CABRAL TORK;1569;Deputado Federal;PMDB;AP;
-Comitê Financeiro Único;12.205.285/0001-86;28/09/2010;15000208709;R$ 5.000,00;Cheque;NILTON LUIZ CABRAL TORK;1569;Deputado Federal;PMDB;AP;
-Comitê Financeiro Único;12.205.285/0001-86;21/09/2010;15000208708;R$ 420,00;Estimado;NILTON LUIZ CABRAL TORK;1569;Deputado Federal;PMDB;AP;
-Comitê Financeiro Único;12.205.285/0001-86;24/08/2010;15000208704;R$ 5.000,00;Cheque;NILTON LUIZ CABRAL TORK;1569;Deputado Federal;PMDB;AP;
-NILTON LUIZ CABRAL TORK;163.582.102-97;01/09/2010;15000208705;R$ 3.000,00;Estimado;NILTON LUIZ CABRAL TORK;1569;Deputado Federal;PMDB;AP;
-RODRIGO CASTRO TORK;947.698.182-20;01/09/2010;15000208706;R$ 2.000,00;Estimado;NILTON LUIZ CABRAL TORK;1569;Deputado Federal;PMDB;AP;
-TORK & SOUZA COMERCIO E REPRESENTAÇÃO LTDA;03.134.703/0001-09;30/07/2010;15000208701;R$ 6.000,00;Depósito em espécie;NILTON LUIZ CABRAL TORK;1569;Deputado Federal;PMDB;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+C.C. MOURÃO JUNIOR - ME;03.643.655/0001-76;30/07/2010;       Publicidade por materiais impressos;R$ 10.900,00;Cheque; -  -  / 1569 - NILTON LUIZ CABRAL TORK - AP - Deputado Federal;
+Comitê Financeiro Único;12.205.285/0001-86;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 900,00;Estimado;Comitê Financeiro Único - PMDB -  / 1569 - NILTON LUIZ CABRAL TORK - AP - Deputado Federal;
+Comitê Financeiro Único;12.205.285/0001-86;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 420,00;Estimado;Comitê Financeiro Único - PMDB -  / 1569 - NILTON LUIZ CABRAL TORK - AP - Deputado Federal;
+J.C.S. FARIAS -ME  (POSTO JULIO FARIAS);03.281.737/0002-07;02/10/2010;       Combustíveis e lubrificantes;R$ 5.100,00;Cheque; -  -  / 1569 - NILTON LUIZ CABRAL TORK - AP - Deputado Federal;
+J.C.S. FARIAS -ME  (POSTO JULIO FARIAS);03.281.737/0002-07;27/08/2010;       Combustíveis e lubrificantes;R$ 5.000,00;Cheque; -  -  / 1569 - NILTON LUIZ CABRAL TORK - AP - Deputado Federal;
+NILTON LUIZ CABRAL TORK;163.582.102-97;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.000,00;Estimado; -  -  / 1569 - NILTON LUIZ CABRAL TORK - AP - Deputado Federal;
+RODRIGO CASTRO TORK;947.698.182-20;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado; -  -  / 1569 - NILTON LUIZ CABRAL TORK - AP - Deputado Federal;

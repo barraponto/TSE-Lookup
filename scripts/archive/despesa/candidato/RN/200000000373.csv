@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 ROSALBA CIARLINI ROSADO GOVERNADOR;12.190.097/0001-21;24/09/2010;45000289803;R$ 10.000,00;Estimado;JOAO MARIA CASSEMIRO DA COSTA;4545;Deputado Federal;PSDB;RN;
-MARINALDO PEREIRA DA SILVA;156.474.044-72;20/07/2010;45000289801;R$ 850,00;Estimado;JOAO MARIA CASSEMIRO DA COSTA;4545;Deputado Federal;PSDB;RN;
-MARINALDO PEREIRA DA SILVA;156.474.044-72;08/09/2010;45000289802;R$ 450,00;Estimado;JOAO MARIA CASSEMIRO DA COSTA;4545;Deputado Federal;PSDB;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 ROSALBA CIARLINI ROSADO GOVERNADOR;12.190.097/0001-21;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 10.000,00;Estimado;25 -  - DEM -  - Governador / 4545 - JOAO MARIA CASSEMIRO DA COSTA - RN - Deputado Federal;
+MARINALDO PEREIRA DA SILVA;156.474.044-72;20/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 850,00;Estimado; -  -  / 4545 - JOAO MARIA CASSEMIRO DA COSTA - RN - Deputado Federal;
+MARINALDO PEREIRA DA SILVA;156.474.044-72;08/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 450,00;Estimado; -  -  / 4545 - JOAO MARIA CASSEMIRO DA COSTA - RN - Deputado Federal;

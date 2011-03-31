@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.200.171/0001-43;30/09/2010;13000879402;R$ 750,00;Estimado;MAURO FERNANDES DOS SANTOS;1366;Deputado Federal;PT;RJ;
-PAULO ROBERTO NOVAIS DE A.FILHO;110.240.727-54;30/09/2010;13000879409;R$ 250,00;Estimado;MAURO FERNANDES DOS SANTOS;1366;Deputado Federal;PT;RJ;
-SAMUEL DOS SANTOS CARVALHO;465.600.687-49;30/09/2010;13000879410;R$ 150,00;Estimado;MAURO FERNANDES DOS SANTOS;1366;Deputado Federal;PT;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.200.171/0001-43;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 750,00;Estimado;Direção Estadual/Distrital - PT -  / 1366 - MAURO FERNANDES DOS SANTOS - RJ - Deputado Federal;
+PAULO ROBERTO NOVAIS DE A.FILHO;110.240.727-54;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado; -  -  / 1366 - MAURO FERNANDES DOS SANTOS - RJ - Deputado Federal;
+SAMUEL DOS SANTOS CARVALHO;465.600.687-49;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado; -  -  / 1366 - MAURO FERNANDES DOS SANTOS - RJ - Deputado Federal;

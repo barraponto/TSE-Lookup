@@ -1,5 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.154.851/0001-78;04/08/2010;70000189386;R$ 590,00;Estimado;MARILIA SARAIVA PEREIRA;70888;Deputado Estadual;PT do B;MG;
-Diretório Estadual/Distrital;12.154.851/0001-78;30/09/2010;70000189390;R$ 300,00;Estimado;MARILIA SARAIVA PEREIRA;70888;Deputado Estadual;PT do B;MG;
-MARÍLIA SARAIVA PEREIRA;806.291.486-00;16/08/2010;70000189388;R$ 50,00;Depósito em espécie;MARILIA SARAIVA PEREIRA;70888;Deputado Estadual;PT do B;MG;
-SELMA VIEIRA SARAIVA DA SILVA;482.459.336-00;07/08/2010;70000189387;R$ 510,00;Estimado;MARILIA SARAIVA PEREIRA;70888;Deputado Estadual;PT do B;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.154.851/0001-78;04/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 590,00;Estimado;Direção Estadual/Distrital - PT do B -  / 70888 - MARILIA SARAIVA PEREIRA - MG - Deputado Estadual;
+Diretório Estadual/Distrital;12.154.851/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Direção Estadual/Distrital - PT do B -  / 70888 - MARILIA SARAIVA PEREIRA - MG - Deputado Estadual;
+ECT- EMP.BRAS.DE CORREIOS E TELÉGRAFOS;34.028.316/7606-80;16/08/2010;       Despesas postais;R$ 9,70;Cheque; -  -  / 70888 - MARILIA SARAIVA PEREIRA - MG - Deputado Estadual;
+ECT-EMP.BRAS.DE CORREIOS E TELEGRAFOS;21.789.243/0001-20;22/09/2010;       Despesas postais;R$ 9,60;Cheque; -  -  / 70888 - MARILIA SARAIVA PEREIRA - MG - Deputado Estadual;
+SELMA VIEIRA SARAIVA DA SILVA;482.459.336-00;07/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 510,00;Estimado; -  -  / 70888 - MARILIA SARAIVA PEREIRA - MG - Deputado Estadual;
+;;17/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,50;Cheque; -  -  / 70888 - MARILIA SARAIVA PEREIRA - MG - Deputado Estadual;
+;;24/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,50;Cheque; -  -  / 70888 - MARILIA SARAIVA PEREIRA - MG - Deputado Estadual;

@@ -1,3 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-SEBASTIÃO DE JESUS SOARES;054.376.607-15;01/09/2010;45000108882;R$ 1.000,00;Estimado;SEBASTIÃO DE JESUS SOARES;4521;Deputado Federal;PSDB;RJ;
-SEBASTIÃO DE JESUS SOARES;054.376.607-15;01/09/2010;45000108881;R$ 1.000,00;Cheque;SEBASTIÃO DE JESUS SOARES;4521;Deputado Federal;PSDB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARARUAMA GRÁFICA LTDA;29.099.793/0001-20;17/09/2010;       Publicidade por materiais impressos;R$ 60,00;Cheque; -  -  / 4521 - SEBASTIÃO DE JESUS SOARES - RJ - Deputado Federal;
+ARARUAMA GRÁFICA LTDA;29.099.793/0001-20;01/09/2010;       Publicidade por materiais impressos;R$ 150,00;Cheque; -  -  / 4521 - SEBASTIÃO DE JESUS SOARES - RJ - Deputado Federal;
+A.SILVEIRA LETREIROS E TOLDOS - ME;03.417.266/0001-22;13/09/2010;       Publicidade por materiais impressos;R$ 90,00;Cheque; -  -  / 4521 - SEBASTIÃO DE JESUS SOARES - RJ - Deputado Federal;
+A.SILVEIRA LETREIROS E TOLDOS - ME;03.417.266/0001-22;01/09/2010;       Publicidade por placas, estandartes e faixas;R$ 520,00;Cheque; -  -  / 4521 - SEBASTIÃO DE JESUS SOARES - RJ - Deputado Federal;
+A.SILVEIRA LETREIROS E TOLDOS - ME;03.417.266/0001-22;20/09/2010;       Publicidade por placas, estandartes e faixas;R$ 180,00;Cheque; -  -  / 4521 - SEBASTIÃO DE JESUS SOARES - RJ - Deputado Federal;
+SEBASTIÃO DE JESUS SOARES;054.376.607-15;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 4521 - SEBASTIÃO DE JESUS SOARES - RJ - Deputado Federal;

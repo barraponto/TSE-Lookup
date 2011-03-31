@@ -1,4 +1,14 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MARILENE DOS ANJOS SOMBRA ME;07.062.229/0001-08;19/08/2010;23000070177;R$ 900,00;Depósito em espécie;FRANCISCO JOSE ALVES;23130;Deputado Estadual;PPS;CE;
-MARILENE DOS ANJOS SOMBRA ME;07.062.229/0001-08;01/11/2010;23000070180;R$ 1.000,00;Depósito em espécie;FRANCISCO JOSE ALVES;23130;Deputado Estadual;PPS;CE;
-MARILENE DOS ANJOS SOMBRA ME;07.062.229/0001-08;26/08/2010;23000070178;R$ 1.000,00;Depósito em espécie;FRANCISCO JOSE ALVES;23130;Deputado Estadual;PPS;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EXPEDITA DE SOUZA BATISTA;409.938.333-49;31/08/2010;       Serviços prestados por terceiros;R$ 250,00;Cheque; -  -  / 23130 - FRANCISCO JOSE ALVES - CE - Deputado Estadual;
+JOSE ALOISIO PARENTE NETO;011.056.223-20;27/09/2010;       Publicidade por carros de som;R$ 1.429,65;Cheque; -  -  / 23130 - FRANCISCO JOSE ALVES - CE - Deputado Estadual;
+JOSE ALOISIO PARENTE NETO;011.056.223-20;27/08/2010;       Publicidade por carros de som;R$ 36,00;Cheque; -  -  / 23130 - FRANCISCO JOSE ALVES - CE - Deputado Estadual;
+JOSE ALOISIO PARENTE NETO;011.056.223-20;31/08/2010;       Publicidade por carros de som;R$ 38,00;Cheque; -  -  / 23130 - FRANCISCO JOSE ALVES - CE - Deputado Estadual;
+JOSE ALOISIO PARENTE NETO;011.056.223-20;22/09/2010;       Publicidade por carros de som;R$ 150,00;Cheque; -  -  / 23130 - FRANCISCO JOSE ALVES - CE - Deputado Estadual;
+JOSE ALOISIO PARENTE NETO;011.056.223-20;27/09/2010;       Publicidade por carros de som;R$ 150,00;Cheque; -  -  / 23130 - FRANCISCO JOSE ALVES - CE - Deputado Estadual;
+JOSE ALOISIO PARENTE NETO;011.056.223-20;24/08/2010;       Publicidade por carros de som;R$ 108,00;Cheque; -  -  / 23130 - FRANCISCO JOSE ALVES - CE - Deputado Estadual;
+JOSE ALOISIO PARENTE NETO;011.056.223-20;11/09/2010;       Publicidade por carros de som;R$ 38,00;Cheque; -  -  / 23130 - FRANCISCO JOSE ALVES - CE - Deputado Estadual;
+JOSE ALOISIO PARENTE NETO;011.056.223-20;23/08/2010;       Publicidade por carros de som;R$ 100,00;Cheque; -  -  / 23130 - FRANCISCO JOSE ALVES - CE - Deputado Estadual;
+JOSE ALOISIO PARENTE NETO;011.056.223-20;13/09/2010;       Publicidade por carros de som;R$ 100,00;Cheque; -  -  / 23130 - FRANCISCO JOSE ALVES - CE - Deputado Estadual;
+JOSE AROLDO SARAIVA BATISTA;371.888.793-20;05/09/2010;       Serviços prestados por terceiros;R$ 250,00;Cheque; -  -  / 23130 - FRANCISCO JOSE ALVES - CE - Deputado Estadual;
+MARIA ISABEL GOMES DE SOUZA;621.420.463-04;01/09/2010;       Serviços prestados por terceiros;R$ 250,00;Cheque; -  -  / 23130 - FRANCISCO JOSE ALVES - CE - Deputado Estadual;
+;;16/12/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 23130 - FRANCISCO JOSE ALVES - CE - Deputado Estadual;

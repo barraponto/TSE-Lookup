@@ -1,2 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
-FERTILIZANTES FOSFATADOS S/A. - FOSFERTIL;19.443.985/0001-58;13/09/2010;43001888301;R$ 150.000,00;Cheque;Comitê Financeiro Único;PV;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único - PV;12.221.824/0001-70;16/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 50.000,00;Cheque;43699 - ORLANDO REIS PANTOJA - PV - PA - Deputado Estadual / Comitê Financeiro Único - PV - PA;
+Comitê Financeiro Único - PV;12.221.824/0001-70;16/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 70.000,00;Cheque;43456 - MANOEL GABRIEL SIQUEIRA GUERREIRO - PV - PA - Deputado Estadual / Comitê Financeiro Único - PV - PA;
+Comitê Financeiro Único - PV;12.221.824/0001-70;16/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 30.000,00;Cheque;4343 - JOSE CARLOS LIMA DA COSTA - PV - PA - Deputado Federal / Comitê Financeiro Único - PV - PA;

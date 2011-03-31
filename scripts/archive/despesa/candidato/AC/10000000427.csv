@@ -1,8 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.221.841/0001-08;06/09/2010;23000029113;R$ 709,74;Estimado;JOSIMAR ARAUJO RODRIGUES;23789;Deputado Estadual;PPS;AC;
-Comitê Financeiro Único;12.221.841/0001-08;17/09/2010;23000029114;R$ 493,00;Estimado;JOSIMAR ARAUJO RODRIGUES;23789;Deputado Estadual;PPS;AC;
-JOSIMAR ARAUJO RODRIGUES;578.802.632-68;15/07/2010;23000029117;R$ 2.000,00;Estimado;JOSIMAR ARAUJO RODRIGUES;23789;Deputado Estadual;PPS;AC;
-JOSIMAR ARAUJO RODRIGUES;578.802.632-68;06/08/2010;23000029116;R$ 80,00;Depósito em espécie;JOSIMAR ARAUJO RODRIGUES;23789;Deputado Estadual;PPS;AC;
-JOSIMAR ARAUJO RODRIGUES;578.802.632-68;05/08/2010;23000029115;R$ 500,00;Depósito em espécie;JOSIMAR ARAUJO RODRIGUES;23789;Deputado Estadual;PPS;AC;
-MARCIO MIGUEL BITTAR;12.173.808/0001-50;13/08/2010;23000029112;R$ 750,00;Estimado;JOSIMAR ARAUJO RODRIGUES;23789;Deputado Estadual;PPS;AC;
-MARCIO MIGUEL BITTAR;12.173.808/0001-50;02/08/2010;23000029111;R$ 190,00;Estimado;JOSIMAR ARAUJO RODRIGUES;23789;Deputado Estadual;PPS;AC;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CAFÉ COM;08.227.743/0001-00;06/08/2010;       Publicidade por materiais impressos;R$ 580,00;Cheque; -  -  / 23789 - JOSIMAR ARAUJO RODRIGUES - AC - Deputado Estadual;
+Comitê Financeiro Único;12.221.841/0001-08;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 709,74;Estimado;Comitê Financeiro Único - PPS -  / 23789 - JOSIMAR ARAUJO RODRIGUES - AC - Deputado Estadual;
+Comitê Financeiro Único;12.221.841/0001-08;17/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 493,00;Estimado;Comitê Financeiro Único - PPS -  / 23789 - JOSIMAR ARAUJO RODRIGUES - AC - Deputado Estadual;
+JOSIMAR ARAUJO RODRIGUES;578.802.632-68;15/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado; -  -  / 23789 - JOSIMAR ARAUJO RODRIGUES - AC - Deputado Estadual;
+MARCIO MIGUEL BITTAR;12.173.808/0001-50;13/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 750,00;Estimado;4545 -  - PSDB -  - Deputado Federal / 23789 - JOSIMAR ARAUJO RODRIGUES - AC - Deputado Estadual;
+MARCIO MIGUEL BITTAR;12.173.808/0001-50;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 190,00;Estimado;4545 -  - PSDB -  - Deputado Federal / 23789 - JOSIMAR ARAUJO RODRIGUES - AC - Deputado Estadual;

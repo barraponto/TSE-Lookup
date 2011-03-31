@@ -1,3 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CENTRAL PREMOLDADOS LTDA;21.476.643/0001-86;28/07/2010;50000232701;R$ 15.000,00;Depósito em espécie;JORGE TARCISIO TORQUATO;5044;Deputado Federal;PSOL;MG;
-JORGE TARCISIO TORQUATO;278.907.166-72;15/10/2010;50000232702;R$ 2.455,35;Depósito em espécie;JORGE TARCISIO TORQUATO;5044;Deputado Federal;PSOL;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARTES FOTOGRAFICAS LTDA - ME;09.029.660/0001-70;29/07/2010;       Publicidade por placas, estandartes e faixas;R$ 2.500,00;Cheque; -  -  / 5044 - JORGE TARCISIO TORQUATO - MG - Deputado Federal;
+GRÁFICA SIDIL;17.483.587/0001-30;28/09/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 5044 - JORGE TARCISIO TORQUATO - MG - Deputado Federal;
+GRUPO GAZETA DO OESTE DE COMUNICAÇÃO LTDA - ME;07.361.469/0001-03;30/09/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 150,00;Cheque; -  -  / 5044 - JORGE TARCISIO TORQUATO - MG - Deputado Federal;
+MATIZ GRAFICA E EDITORA LTDA;64.476.872/0001-03;13/08/2010;       Publicidade por materiais impressos;R$ 9.467,00;Cheque; -  -  / 5044 - JORGE TARCISIO TORQUATO - MG - Deputado Federal;
+OSVALDO GONÇALVES DE CARVALHO;357.656.236-20;03/08/2010;       Publicidade por placas, estandartes e faixas;R$ 718,00;Cheque; -  -  / 5044 - JORGE TARCISIO TORQUATO - MG - Deputado Federal;
+PEMAFA GRÁFICA E EDITORA LTDA;86.666.674/0001-45;30/09/2010;       Publicidade por jornais e revistas;R$ 250,00;Cheque; -  -  / 5044 - JORGE TARCISIO TORQUATO - MG - Deputado Federal;
+VALAMIEL PRESTADORA DE SERVIÇOS LTDA;02.860.218/0001-41;28/09/2010;       Publicidade por materiais impressos;R$ 770,00;Cheque; -  -  / 5044 - JORGE TARCISIO TORQUATO - MG - Deputado Federal;
+VANTUIR ALVES DOS SANTOS;357.367.206-04;01/10/2010;       Publicidade por carros de som;R$ 1.100,00;Cheque; -  -  / 5044 - JORGE TARCISIO TORQUATO - MG - Deputado Federal;
+WILSON BATISTA DA COSTA;667.589.716-00;28/09/2010;       Publicidade por carros de som;R$ 2.000,00;Cheque; -  -  / 5044 - JORGE TARCISIO TORQUATO - MG - Deputado Federal;
+;;11/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 5044 - JORGE TARCISIO TORQUATO - MG - Deputado Federal;

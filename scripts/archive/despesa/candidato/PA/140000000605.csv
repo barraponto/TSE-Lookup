@@ -1,3 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ROBSON DIOY DIAS FURTADO;589.709.672-49;10/08/2010;70000177101;R$ 250,00;Estimado;SILVIO CLAUDINO MENDES DA SILVA;70789;Deputado Estadual;PT do B;PA;
-SILVIO CLAUDINO MENDES DA SILVA;014.045.487-00;31/08/2010;70000177105;R$ 3.330,00;Cheque;SILVIO CLAUDINO MENDES DA SILVA;70789;Deputado Estadual;PT do B;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JK SERVIÇOS DE COMUNICAÇÃO VISUAL LTDA;04.106.122/0001-18;06/09/2010;       Publicidade por materiais impressos;R$ 2.045,00;Cheque; -  -  / 70789 - SILVIO CLAUDINO MENDES DA SILVA - PA - Deputado Estadual;
+ROBSON DIOY DIAS FURTADO;589.709.672-49;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado; -  -  / 70789 - SILVIO CLAUDINO MENDES DA SILVA - PA - Deputado Estadual;
+SILVIO CLAUDINO MENDES DA SILVA;014.045.487-00;01/09/2010;       Cessão ou Locação de Veículos;R$ 805,00;Cheque; -  -  / 70789 - SILVIO CLAUDINO MENDES DA SILVA - PA - Deputado Estadual;
+WDMIL - INFORMÁTICA E CIA;643.966.812-91;03/09/2010;       Publicidade por materiais impressos;R$ 450,00;Cheque; -  -  / 70789 - SILVIO CLAUDINO MENDES DA SILVA - PA - Deputado Estadual;
+WELLISON CRAVO E SILVA;012.756.872-70;15/09/2010;       Despesas com pessoal;R$ 30,00;Cheque; -  -  / 70789 - SILVIO CLAUDINO MENDES DA SILVA - PA - Deputado Estadual;

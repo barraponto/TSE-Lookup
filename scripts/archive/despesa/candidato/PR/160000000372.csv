@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.190.887/0001-07;12/08/2010;23000183951;R$ 1.575,00;Estimado;PAULO CESAR TELUSKI;23380;Deputado Estadual;PPS;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.190.887/0001-07;12/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.575,00;Estimado;Direção Estadual/Distrital - PSDB -  / 23380 - PAULO CESAR TELUSKI - PR - Deputado Estadual;

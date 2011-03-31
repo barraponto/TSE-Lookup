@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;05.055.973/0001-41;28/09/2010;36000064243;R$ 574,00;Estimado;UBIRACI DA SILVA;36123;Deputado Estadual;PTC;PE;
-Diretório Estadual/Distrital;05.055.973/0001-41;24/09/2010;36000064242;R$ 200,00;Estimado;UBIRACI DA SILVA;36123;Deputado Estadual;PTC;PE;
-OLINDA GRAFICA E EDITORA LTDA;01.884.412/0001-02;01/10/2010;36000064244;R$ 7.540,00;Estimado;UBIRACI DA SILVA;36123;Deputado Estadual;PTC;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;05.055.973/0001-41;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 574,00;Estimado;Direção Estadual/Distrital - PTC -  / 36123 - UBIRACI DA SILVA - PE - Deputado Estadual;
+Diretório Estadual/Distrital;05.055.973/0001-41;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;Direção Estadual/Distrital - PTC -  / 36123 - UBIRACI DA SILVA - PE - Deputado Estadual;
+OLINDA GRAFICA E EDITORA LTDA;01.884.412/0001-02;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 7.540,00;Estimado; -  -  / 36123 - UBIRACI DA SILVA - PE - Deputado Estadual;

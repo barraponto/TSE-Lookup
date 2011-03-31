@@ -1,9 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTERO PAES DE BARROS NETO;12.189.840/0001-23;04/09/2010;14000156203;R$ 500,00;Estimado;JAIR DEL SANTO;14222;Deputado Estadual;PTB;MT;
-Comitê Financeiro Único;12.200.154/0001-06;10/09/2010;14000156202;R$ 1.000,00;Depósito em espécie;JAIR DEL SANTO;14222;Deputado Estadual;PTB;MT;
-Comitê Financeiro Único;12.182.454/0001-00;02/10/2010;14000156208;R$ 302,52;Estimado;JAIR DEL SANTO;14222;Deputado Estadual;PTB;MT;
-Comitê Financeiro Único;12.200.154/0001-06;25/08/2010;14000156205;R$ 200,00;Estimado;JAIR DEL SANTO;14222;Deputado Estadual;PTB;MT;
-Comitê Financeiro Único;12.200.154/0001-06;30/09/2010;14000156206;R$ 420,00;Estimado;JAIR DEL SANTO;14222;Deputado Estadual;PTB;MT;
-Comitê Financeiro Único;12.182.454/0001-00;01/10/2010;14000156207;R$ 201,68;Estimado;JAIR DEL SANTO;14222;Deputado Estadual;PTB;MT;
-Comitê Financeiro Único;12.200.154/0001-06;30/07/2010;14000156201;R$ 237,50;Estimado;JAIR DEL SANTO;14222;Deputado Estadual;PTB;MT;
-Comitê Financeiro Único;12.200.154/0001-06;16/09/2010;14000156204;R$ 1.000,00;Depósito em espécie;JAIR DEL SANTO;14222;Deputado Estadual;PTB;MT;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALINEDE JESUS RODRIGUES OLIVEIRA;841.599.011-15;17/09/2010;       Despesas com pessoal;R$ 1.000,00;Cheque; -  -  / 14222 - JAIR DEL SANTO - MT - Deputado Estadual;
+ALINEDE JESUS RODRIGUES OLIVEIRA;841.599.011-15;10/09/2010;       Despesas com pessoal;R$ 1.000,00;Cheque; -  -  / 14222 - JAIR DEL SANTO - MT - Deputado Estadual;
+ANTERO PAES DE BARROS NETO;12.189.840/0001-23;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;455 -  - PSDB -  - Senador / 14222 - JAIR DEL SANTO - MT - Deputado Estadual;
+Comitê Financeiro Único;12.200.154/0001-06;30/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 237,50;Estimado;Comitê Financeiro Único - PTB -  / 14222 - JAIR DEL SANTO - MT - Deputado Estadual;
+Comitê Financeiro Único;12.182.454/0001-00;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 201,68;Estimado;Comitê Financeiro Único - PSDB -  / 14222 - JAIR DEL SANTO - MT - Deputado Estadual;
+Comitê Financeiro Único;12.200.154/0001-06;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;Comitê Financeiro Único - PTB -  / 14222 - JAIR DEL SANTO - MT - Deputado Estadual;
+Comitê Financeiro Único;12.182.454/0001-00;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 302,52;Estimado;Comitê Financeiro Único - PSDB -  / 14222 - JAIR DEL SANTO - MT - Deputado Estadual;
+Comitê Financeiro Único;12.200.154/0001-06;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 420,00;Estimado;Comitê Financeiro Único - PTB -  / 14222 - JAIR DEL SANTO - MT - Deputado Estadual;

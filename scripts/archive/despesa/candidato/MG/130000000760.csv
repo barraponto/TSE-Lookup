@@ -1,2 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JACI TEODORO DE OLIVEIRA;191.218.736-15;28/09/2010;43001709151;R$ 500,00;Cheque;LUZIA REGINA DE OLIVEIRA DOMINGUES;4328;Deputado Federal;PV;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+APARECIDA DE FATIMA VILELA GUIMARAES;12.078.565/0001-70;05/10/2010;       Publicidade por placas, estandartes e faixas;R$ 50,00;Cheque; -  -  / 4328 - LUZIA REGINA DE OLIVEIRA DOMINGUES - MG - Deputado Federal;
+SERGIO GONÇALVES DE FREITAS - ME;20.729.232/0001-92;25/08/2010;       Publicidade por materiais impressos;R$ 450,00;Cheque; -  -  / 4328 - LUZIA REGINA DE OLIVEIRA DOMINGUES - MG - Deputado Federal;

@@ -1,8 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALCI PEREIRA GOULART;391.070.516-20;26/08/2010;14000083453;R$ 150,00;Estimado;MARINHO DOS SANTOS FIGUEIREDO;14102;Deputado Estadual;PTB;MG;
-Diretório Estadual/Distrital;21.531.363/0001-23;06/09/2010;14000083458;R$ 1.073,38;Estimado;MARINHO DOS SANTOS FIGUEIREDO;14102;Deputado Estadual;PTB;MG;
-Diretório Nacional;21.531.363/0001-23;06/09/2010;14000083455;R$ 1.444,55;Estimado;MARINHO DOS SANTOS FIGUEIREDO;14102;Deputado Estadual;PTB;MG;
-MARIA ALVES ANSELMO;253.085.996-53;15/08/2010;14000083454;R$ 100,00;Estimado;MARINHO DOS SANTOS FIGUEIREDO;14102;Deputado Estadual;PTB;MG;
-NILTON PEDRO DA CRUZ;251.361.946-34;18/08/2010;14000083452;R$ 150,00;Estimado;MARINHO DOS SANTOS FIGUEIREDO;14102;Deputado Estadual;PTB;MG;
-SEBASTINA PEREIRA;000.000.000-00;16/08/2010;14000083456;R$ 250,00;Estimado;MARINHO DOS SANTOS FIGUEIREDO;14102;Deputado Estadual;PTB;MG;
-;;06/09/2010;;R$ 200,00;Não informado;MARINHO DOS SANTOS FIGUEIREDO;14102;Deputado Estadual;PTB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALCI PEREIRA GOULART;391.070.516-20;26/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado; -  -  / 14102 - MARINHO DOS SANTOS FIGUEIREDO - MG - Deputado Estadual;
+ALCI PEREIRA GOULART;391.070.516-20;26/08/2010;       Cessão ou Locação de Veículos;R$ 150,00;Não informado; -  -  / 14102 - MARINHO DOS SANTOS FIGUEIREDO - MG - Deputado Estadual;
+Diretório Estadual/Distrital;21.531.363/0001-23;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.073,38;Estimado;Direção Estadual/Distrital - PTB -  / 14102 - MARINHO DOS SANTOS FIGUEIREDO - MG - Deputado Estadual;
+Diretório Nacional;21.531.363/0001-23;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.444,55;Estimado;Direção Nacional - PTB -  / 14102 - MARINHO DOS SANTOS FIGUEIREDO - MG - Deputado Estadual;
+MARIA ALVES ANSELMO;253.085.996-53;15/08/2010;       Cessão ou Locação de Veículos;R$ 100,00;Não informado; -  -  / 14102 - MARINHO DOS SANTOS FIGUEIREDO - MG - Deputado Estadual;
+MARIA ALVES ANSELMO;253.085.996-53;15/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado; -  -  / 14102 - MARINHO DOS SANTOS FIGUEIREDO - MG - Deputado Estadual;
+NILTON PEDRO DA CRUZ;251.361.946-34;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado; -  -  / 14102 - MARINHO DOS SANTOS FIGUEIREDO - MG - Deputado Estadual;
+NILTON PEDRO DA CRUZ;251.361.946-34;18/08/2010;       Cessão ou Locação de Veículos;R$ 150,00;Não informado; -  -  / 14102 - MARINHO DOS SANTOS FIGUEIREDO - MG - Deputado Estadual;
+SEBASTINA PEREIRA;000.000.000-00;16/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado; -  -  / 14102 - MARINHO DOS SANTOS FIGUEIREDO - MG - Deputado Estadual;

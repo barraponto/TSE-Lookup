@@ -1,6 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-VALDEMIRO LOPES MARINHO;155.828.335-87;22/07/2010;43001855176;R$ 1.500,00;Depósito em espécie;VALDEMIRO LOPES MARINHO;43120;Deputado Estadual;PV;BA;
-VALDEMIRO LOPES MARINHO;155.828.335-87;28/07/2010;43001855177;R$ 800,00;Depósito em espécie;VALDEMIRO LOPES MARINHO;43120;Deputado Estadual;PV;BA;
-VALDEMIRO LOPES MARINHO;155.828.335-87;08/09/2010;43001855180;R$ 1.200,00;Depósito em espécie;VALDEMIRO LOPES MARINHO;43120;Deputado Estadual;PV;BA;
-VALDEMIRO LOPES MARINHO;155.828.335-87;01/09/2010;43001855179;R$ 400,00;Depósito em espécie;VALDEMIRO LOPES MARINHO;43120;Deputado Estadual;PV;BA;
-VALDEMIRO LOPES MARINHO;155.828.335-87;09/08/2010;43001855178;R$ 500,00;Depósito em espécie;VALDEMIRO LOPES MARINHO;43120;Deputado Estadual;PV;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JC CAJUHY SERVIÇOS GRÁFICOS;09.034.167/0001-48;27/07/2010;       Publicidade por materiais impressos;R$ 1.500,00;Cheque; -  -  / 43120 - VALDEMIRO LOPES MARINHO - BA - Deputado Estadual;
+JC CAJUHY SERVIÇOS GRÁFICOS;09.034.167/0001-48;08/09/2010;       Publicidade por materiais impressos;R$ 800,00;Cheque; -  -  / 43120 - VALDEMIRO LOPES MARINHO - BA - Deputado Estadual;
+L DESIGN GRÁFICO LTDA;09.112.161/0001-41;09/08/2010;       Publicidade por materiais impressos;R$ 270,00;Cheque; -  -  / 43120 - VALDEMIRO LOPES MARINHO - BA - Deputado Estadual;
+L DESIGN GRÁFICO LTDA;09.112.161/0001-41;22/09/2010;       Publicidade por materiais impressos;R$ 175,00;Cheque; -  -  / 43120 - VALDEMIRO LOPES MARINHO - BA - Deputado Estadual;
+L DESIGN GRÁFICO LTDA;09.112.161/0001-41;01/09/2010;       Publicidade por materiais impressos;R$ 550,00;Cheque; -  -  / 43120 - VALDEMIRO LOPES MARINHO - BA - Deputado Estadual;
+L DESIGN GRÁFICO LTDA;09.112.161/0001-41;24/07/2010;       Publicidade por materiais impressos;R$ 800,00;Cheque; -  -  / 43120 - VALDEMIRO LOPES MARINHO - BA - Deputado Estadual;
+MAGALI MONTEIRO SANTIAGO;028.733.835-50;25/09/2010;       Serviços prestados por terceiros;R$ 200,00;Cheque; -  -  / 43120 - VALDEMIRO LOPES MARINHO - BA - Deputado Estadual;
+MOEMA OLIVEIRA DE SOUZA;013.105.565-80;29/09/2010;       Serviços prestados por terceiros;R$ 105,00;Cheque; -  -  / 43120 - VALDEMIRO LOPES MARINHO - BA - Deputado Estadual;

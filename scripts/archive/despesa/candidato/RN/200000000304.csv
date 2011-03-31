@@ -1,6 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-BARBARA DA ROCHA DE F. CHAGAS;085.110.794-08;05/10/2010;16000035654;R$ 800,00;Estimado;LUCIANA LIMA DA SILVA;16123;Deputado Estadual;PSTU;RN;
-Comitê Financeiro Único;12.235.322/0001-07;10/10/2010;16000035657;R$ 800,00;Estimado;LUCIANA LIMA DA SILVA;16123;Deputado Estadual;PSTU;RN;
-Comitê Financeiro Único;12.235.322/0001-07;22/10/2010;16000035656;R$ 300,00;Estimado;LUCIANA LIMA DA SILVA;16123;Deputado Estadual;PSTU;RN;
-Comitê Financeiro Único;12.235.322/0001-07;17/09/2010;16000035652;R$ 600,00;Depósito em espécie;LUCIANA LIMA DA SILVA;16123;Deputado Estadual;PSTU;RN;
-Comitê Financeiro Único;12.235.322/0001-07;28/09/2010;16000035653;R$ 130,00;Depósito em espécie;LUCIANA LIMA DA SILVA;16123;Deputado Estadual;PSTU;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BARBARA DA ROCHA DE F. CHAGAS;085.110.794-08;05/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 800,00;Estimado; -  -  / 16123 - LUCIANA LIMA DA SILVA - RN - Deputado Estadual;
+Comitê Financeiro Único;12.235.322/0001-07;22/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PSTU -  / 16123 - LUCIANA LIMA DA SILVA - RN - Deputado Estadual;
+Comitê Financeiro Único;12.235.322/0001-07;10/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 800,00;Estimado;Comitê Financeiro Único - PSTU -  / 16123 - LUCIANA LIMA DA SILVA - RN - Deputado Estadual;
+GRAFICA SUL & EDITORA LTDA;06.948.614/0001-86;18/10/2010;       Publicidade por materiais impressos;R$ 230,00;Cheque; -  -  / 16123 - LUCIANA LIMA DA SILVA - RN - Deputado Estadual;
+GRAFIPEL SERVIÇOS GRAFICOS E EPROGRAFICOS LTDA;03.239.088/0001-97;23/09/2010;       Publicidade por materiais impressos;R$ 150,00;Cheque; -  -  / 16123 - LUCIANA LIMA DA SILVA - RN - Deputado Estadual;
+KAMYLLE DANYELLE ALVES-ME;10.803.991/0001-02;22/09/2010;       Publicidade por materiais impressos;R$ 315,00;Cheque; -  -  / 16123 - LUCIANA LIMA DA SILVA - RN - Deputado Estadual;

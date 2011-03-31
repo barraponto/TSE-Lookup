@@ -1,5 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.154.851/0001-78;15/09/2010;36000011504;R$ 1.180,00;Estimado;JOÃO SILVA DE SOUZA PEREIRA;3667;Deputado Federal;PTC;MG;
-Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;36000011505;R$ 300,00;Estimado;JOÃO SILVA DE SOUZA PEREIRA;3667;Deputado Federal;PTC;MG;
-JOÃO SILVA DE SOUZA PEREIRA;643.419.176-68;30/07/2010;36000011501;R$ 105,00;Depósito em espécie;JOÃO SILVA DE SOUZA PEREIRA;3667;Deputado Federal;PTC;MG;
-JOÃO SILVA DE SOUZA PEREIRA;643.419.176-68;10/08/2010;36000011503;R$ 900,00;Depósito em espécie;JOÃO SILVA DE SOUZA PEREIRA;3667;Deputado Federal;PTC;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ASTER GRAF;03.284.796/0001-40;15/09/2010;       Publicidade por materiais impressos;R$ 49,50;Cheque; -  -  / 3667 - JOÃO SILVA DE SOUZA PEREIRA - MG - Deputado Federal;
+CANAL SERIGRAFIA LTDA;03.817.859/0001-86;12/08/2010;       Publicidade por materiais impressos;R$ 250,00;Cheque; -  -  / 3667 - JOÃO SILVA DE SOUZA PEREIRA - MG - Deputado Federal;
+CANAL SERIGRAFIA LTDA;03.817.859/0001-86;12/08/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 3667 - JOÃO SILVA DE SOUZA PEREIRA - MG - Deputado Federal;
+Comitê Financeiro Único;12.154.851/0001-78;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.180,00;Estimado;Comitê Financeiro Único - PT do B -  / 3667 - JOÃO SILVA DE SOUZA PEREIRA - MG - Deputado Federal;
+Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PT do B -  / 3667 - JOÃO SILVA DE SOUZA PEREIRA - MG - Deputado Federal;
+ROCHA ELOI OUTDOOR LTDA;05.848.996/0001-03;17/08/2010;       Publicidade por materiais impressos;R$ 240,00;Cheque; -  -  / 3667 - JOÃO SILVA DE SOUZA PEREIRA - MG - Deputado Federal;
+TOTEN EDITORA E GRÁFICA LTDA-ME;05.650.344/0001-60;03/08/2010;       Publicidade por materiais impressos;R$ 100,00;Cheque; -  -  / 3667 - JOÃO SILVA DE SOUZA PEREIRA - MG - Deputado Federal;
+;;27/08/2010;       Encargos financeiros e taxas bancárias;R$ 4,50;Débito em conta; -  -  / 3667 - JOÃO SILVA DE SOUZA PEREIRA - MG - Deputado Federal;

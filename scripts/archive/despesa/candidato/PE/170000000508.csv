@@ -1,5 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;05.055.973/0001-41;28/09/2010;36000064894;R$ 3.000,00;Cheque;JEOVA FERREIRA CAVALCANTI;3663;Deputado Federal;PTC;PE;
-Diretório Estadual/Distrital;05.055.973/0001-41;24/09/2010;36000064893;R$ 700,00;Estimado;JEOVA FERREIRA CAVALCANTI;3663;Deputado Federal;PTC;PE;
-Diretório Estadual/Distrital;05.055.973/0001-41;27/09/2010;36000064892;R$ 465,00;Estimado;JEOVA FERREIRA CAVALCANTI;3663;Deputado Federal;PTC;PE;
-Diretório Estadual/Distrital;05.055.973/0001-41;28/09/2010;36000064891;R$ 80,00;Estimado;JEOVA FERREIRA CAVALCANTI;3663;Deputado Federal;PTC;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIA DA SILVA;767.925.364-15;29/08/2010;       Despesas com transporte ou deslocamento;R$ 600,00;Cheque; -  -  / 3663 - JEOVA FERREIRA CAVALCANTI - PE - Deputado Federal;
+Diretório Estadual/Distrital;05.055.973/0001-41;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 700,00;Estimado;Direção Estadual/Distrital - PTC -  / 3663 - JEOVA FERREIRA CAVALCANTI - PE - Deputado Federal;
+Diretório Estadual/Distrital;05.055.973/0001-41;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 465,00;Estimado;Direção Estadual/Distrital - PTC -  / 3663 - JEOVA FERREIRA CAVALCANTI - PE - Deputado Federal;
+Diretório Estadual/Distrital;05.055.973/0001-41;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 80,00;Estimado;Direção Estadual/Distrital - PTC -  / 3663 - JEOVA FERREIRA CAVALCANTI - PE - Deputado Federal;
+LUIZ FERNANDES DA SILVA JUNIOR;083.293.256-60;29/09/2010;       Despesas com pessoal;R$ 600,00;Cheque; -  -  / 3663 - JEOVA FERREIRA CAVALCANTI - PE - Deputado Federal;
+LUIZA REGINA FERNANDES;043.813.144-41;29/09/2010;       Despesas com transporte ou deslocamento;R$ 600,00;Cheque; -  -  / 3663 - JEOVA FERREIRA CAVALCANTI - PE - Deputado Federal;
+MARIA LUCIA FERREIRA CAVALCANTI;613.061.694-53;29/09/2010;       Despesas com transporte ou deslocamento;R$ 600,00;Cheque; -  -  / 3663 - JEOVA FERREIRA CAVALCANTI - PE - Deputado Federal;
+RAIMUNDA MARIA DA SILVA;541.150.864-91;29/09/2010;       Despesas com transporte ou deslocamento;R$ 600,00;Cheque; -  -  / 3663 - JEOVA FERREIRA CAVALCANTI - PE - Deputado Federal;

@@ -1,4 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 JORGE SAYED PICCIANI SENADOR;12.176.626/0001-32;02/08/2010;12001261642;R$ 17,00;Estimado;VANIA DE SOUZA FARIA;12929;Deputado Estadual;PDT;RJ;
-MARIA HELENA CARVALHO FREITAS;013.258.027-60;27/08/2010;12001261641;R$ 300,00;Transferência eletrônica;VANIA DE SOUZA FARIA;12929;Deputado Estadual;PDT;RJ;
-SERGIO CABRAL;12.181.923/0001-76;30/09/2010;12001261643;R$ 150,00;Estimado;VANIA DE SOUZA FARIA;12929;Deputado Estadual;PDT;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 JORGE SAYED PICCIANI SENADOR;12.176.626/0001-32;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 12929 - VANIA DE SOUZA FARIA - RJ - Deputado Estadual;
+MARCUS VALERIO CARVALHO FREITAS;788.996.307-63;26/10/2010;       Despesas com pessoal;R$ 281,00;Cheque; -  -  / 12929 - VANIA DE SOUZA FARIA - RJ - Deputado Estadual;
+SERGIO CABRAL;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;15 -  - PMDB -  - Governador / 12929 - VANIA DE SOUZA FARIA - RJ - Deputado Estadual;
+;;26/10/2010;       Encargos financeiros e taxas bancárias;R$ 19,00;Débito em conta; -  -  / 12929 - VANIA DE SOUZA FARIA - RJ - Deputado Estadual;

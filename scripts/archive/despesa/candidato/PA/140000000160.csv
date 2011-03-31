@@ -1,2 +1,14 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALCIDES ALVES CARDOSO FILHO;145.326.542-20;02/09/2010;14000208901;R$ 5.000,00;Depósito em espécie;ALCIDES ALVES CARDOSO FILHO;14733;Deputado Estadual;PTB;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+IMAGEM COMUNICAÇÃO VISUAL LTDA - EPP;05.962.803/0001-40;01/10/2010;       Publicidade por materiais impressos;R$ 135,00;Cheque; -  -  / 14733 - ALCIDES ALVES CARDOSO FILHO - PA - Deputado Estadual;
+ISABEL PANTOJA DOS SANTOS;738.744.772-15;06/09/2010;       Serviços prestados por terceiros;R$ 160,00;Cheque; -  -  / 14733 - ALCIDES ALVES CARDOSO FILHO - PA - Deputado Estadual;
+JOÃO BARBOSA DOS SANTOS;011.009.202-34;07/09/2010;       Serviços prestados por terceiros;R$ 35,00;Cheque; -  -  / 14733 - ALCIDES ALVES CARDOSO FILHO - PA - Deputado Estadual;
+LEONORA DOS SANTOS PINHEIRO;931.555.652-68;02/09/2010;       Serviços prestados por terceiros;R$ 650,00;Cheque; -  -  / 14733 - ALCIDES ALVES CARDOSO FILHO - PA - Deputado Estadual;
+LEONORA DOS SANTOS PINHEIRO;931.555.652-68;01/10/2010;       Serviços prestados por terceiros;R$ 650,00;Cheque; -  -  / 14733 - ALCIDES ALVES CARDOSO FILHO - PA - Deputado Estadual;
+LILIAN PRESCILA CARDOSO CASTELO;570.554.912-15;26/09/2010;       Serviços prestados por terceiros;R$ 350,00;Cheque; -  -  / 14733 - ALCIDES ALVES CARDOSO FILHO - PA - Deputado Estadual;
+LILIAN PRESCILA CARDOSO CASTELO;570.554.912-15;10/09/2010;       Serviços prestados por terceiros;R$ 350,00;Cheque; -  -  / 14733 - ALCIDES ALVES CARDOSO FILHO - PA - Deputado Estadual;
+LUANA MONTEIRO;873.994.152-34;04/09/2010;       Serviços prestados por terceiros;R$ 70,00;Cheque; -  -  / 14733 - ALCIDES ALVES CARDOSO FILHO - PA - Deputado Estadual;
+LUCIVALDO LEMOS;092.476.532-15;04/09/2010;       Serviços prestados por terceiros;R$ 135,00;Cheque; -  -  / 14733 - ALCIDES ALVES CARDOSO FILHO - PA - Deputado Estadual;
+MARIA VALDENI DE ARAUJO FERNANDES;508.555.492-20;04/09/2010;       Serviços prestados por terceiros;R$ 35,00;Cheque; -  -  / 14733 - ALCIDES ALVES CARDOSO FILHO - PA - Deputado Estadual;
+MAXIMIANO MACIEL FERREIRA;294.228.092-15;04/09/2010;       Serviços prestados por terceiros;R$ 30,00;Cheque; -  -  / 14733 - ALCIDES ALVES CARDOSO FILHO - PA - Deputado Estadual;
+SEBASTIÃO LOBATO COSTA;798.017.652-91;15/09/2010;       Publicidade por carros de som;R$ 1.200,00;Cheque; -  -  / 14733 - ALCIDES ALVES CARDOSO FILHO - PA - Deputado Estadual;
+SEBASTIÃO LOBATO COSTA;798.017.652-91;15/09/2010;       Publicidade por carros de som;R$ 1.200,00;Cheque; -  -  / 14733 - ALCIDES ALVES CARDOSO FILHO - PA - Deputado Estadual;

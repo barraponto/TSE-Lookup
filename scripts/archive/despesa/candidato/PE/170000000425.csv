@@ -1,7 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-PAULO CAMELO DE HOLANDA CAVALCANTI;330.807.714-00;26/08/2010;50000334661;R$ 650,00;Transferência eletrônica;PAULO CAMELO DE HOLANDA CAVALCANTI;5055;Deputado Federal;PSOL;PE;
-PAULO CAMELO DE HOLANDA CAVALCANTI;330.807.714-00;02/09/2010;50000334662;R$ 130,00;Transferência eletrônica;PAULO CAMELO DE HOLANDA CAVALCANTI;5055;Deputado Federal;PSOL;PE;
-PAULO CAMELO DE HOLANDA CAVALCANTI;330.807.714-00;04/10/2010;50000334666;R$ 375,00;Transferência eletrônica;PAULO CAMELO DE HOLANDA CAVALCANTI;5055;Deputado Federal;PSOL;PE;
-PAULO CAMELO DE HOLANDA CAVALCANTI;330.807.714-00;17/09/2010;50000334664;R$ 60,00;Transferência eletrônica;PAULO CAMELO DE HOLANDA CAVALCANTI;5055;Deputado Federal;PSOL;PE;
-PAULO CAMELO DE HOLANDA CAVALCANTI;330.807.714-00;27/09/2010;50000334665;R$ 800,00;Transferência eletrônica;PAULO CAMELO DE HOLANDA CAVALCANTI;5055;Deputado Federal;PSOL;PE;
-PAULO CAMELO DE HOLANDA CAVALCANTI;330.807.714-00;14/09/2010;50000334663;R$ 7,70;Transferência eletrônica;PAULO CAMELO DE HOLANDA CAVALCANTI;5055;Deputado Federal;PSOL;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EDIÇÕES BAGAÇO LTDA;09.059.684/0001-71;24/09/2010;       Publicidade por materiais impressos;R$ 375,00;Cheque; -  -  / 5055 - PAULO CAMELO DE HOLANDA CAVALCANTI - PE - Deputado Federal;
+EDIÇÕES BAGAÇO LTDA;09.059.684/0001-71;17/08/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 5055 - PAULO CAMELO DE HOLANDA CAVALCANTI - PE - Deputado Federal;
+EDIÇÕES BAGAÇO LTDA;09.059.684/0001-71;13/09/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 5055 - PAULO CAMELO DE HOLANDA CAVALCANTI - PE - Deputado Federal;
+JAIRO MARIANO DA SILVA JUNIOR - ME;01.050.167/0001-20;20/09/2010;       Publicidade por materiais impressos;R$ 60,00;Cheque; -  -  / 5055 - PAULO CAMELO DE HOLANDA CAVALCANTI - PE - Deputado Federal;
+M V DE VASCONCELOS JUNIOR - ME;07.154.781/0001-18;01/09/2010;       Publicidade por materiais impressos;R$ 150,00;Cheque; -  -  / 5055 - PAULO CAMELO DE HOLANDA CAVALCANTI - PE - Deputado Federal;
+M V DE VASCONCELOS JUNIOR - ME;07.154.781/0001-18;28/09/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 5055 - PAULO CAMELO DE HOLANDA CAVALCANTI - PE - Deputado Federal;
+;;26/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 5055 - PAULO CAMELO DE HOLANDA CAVALCANTI - PE - Deputado Federal;
+;;26/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 5055 - PAULO CAMELO DE HOLANDA CAVALCANTI - PE - Deputado Federal;
+;;14/09/2010;       Encargos financeiros e taxas bancárias;R$ 37,00;Débito em conta; -  -  / 5055 - PAULO CAMELO DE HOLANDA CAVALCANTI - PE - Deputado Federal;

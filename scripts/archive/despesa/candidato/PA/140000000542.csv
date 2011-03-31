@@ -1,8 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-AUGUSTO CESAR BAHIA DA SILVA;395.297.202-97;14/07/2010;12001840311;R$ 30,00;Depósito em espécie;ODAIR SANTOS CORREA;1233;Deputado Federal;PDT;PA;
-ODAIR SANTOS CORREA;023.574.532-49;20/09/2010;12001840314;R$ 5.000,00;Transferência eletrônica;ODAIR SANTOS CORREA;1233;Deputado Federal;PDT;PA;
-ODAIR SANTOS CORREA;023.574.532-49;20/09/2010;12001840315;R$ 300,00;Depósito em espécie;ODAIR SANTOS CORREA;1233;Deputado Federal;PDT;PA;
-ODAIR SANTOS CORREA;023.574.532-49;17/09/2010;12001840313;R$ 5.000,00;Depósito em espécie;ODAIR SANTOS CORREA;1233;Deputado Federal;PDT;PA;
-ODAIR SANTOS CORREA;023.574.532-49;23/09/2010;12001840316;R$ 2.000,00;Depósito em espécie;ODAIR SANTOS CORREA;1233;Deputado Federal;PDT;PA;
-ODAIR SANTOS CORREA;023.574.532-49;24/09/2010;12001840318;R$ 3.000,00;Transferência eletrônica;ODAIR SANTOS CORREA;1233;Deputado Federal;PDT;PA;
-RODOVIARIO VILAÇA LTDA;34.638.098/0001-29;24/09/2010;12001840317;R$ 20.000,00;Transferência eletrônica;ODAIR SANTOS CORREA;1233;Deputado Federal;PDT;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CCJ SOUSA IND. E SERV. GRAFICOS LTDA;02.117.642/0001-09;13/10/2010;       Publicidade por materiais impressos;R$ 250,00;Cheque; -  -  / 1233 - ODAIR SANTOS CORREA - PA - Deputado Federal;
+CHERMONT RODRIGUES & CIA LTDA;04.870.663/0001-18;20/09/2010;       Combustíveis e lubrificantes;R$ 5.000,00;Cheque; -  -  / 1233 - ODAIR SANTOS CORREA - PA - Deputado Federal;
+E C T -CORREIOS;34.028.316/3340-79;22/09/2010;       Despesas postais;R$ 4.686,10;Cheque; -  -  / 1233 - ODAIR SANTOS CORREA - PA - Deputado Federal;
+EDILON FERREIRA BRITO;814.538.922-49;17/09/2010;       Despesas com pessoal;R$ 1.400,00;Cheque; -  -  / 1233 - ODAIR SANTOS CORREA - PA - Deputado Federal;
+GRAFICA SANTO ANTONIO;04.949.459/0001-97;24/09/2010;       Publicidade por materiais impressos;R$ 3.000,00;Cheque; -  -  / 1233 - ODAIR SANTOS CORREA - PA - Deputado Federal;
+MIRIAN DE OLIVEIRA AMORIM PIEDADE;581.744.352-04;17/09/2010;       Locação/cessão de bens imóveis;R$ 1.500,00;Cheque; -  -  / 1233 - ODAIR SANTOS CORREA - PA - Deputado Federal;
+RAIMUNDO ALBERTO R PIEDADE;148.766.122-34;24/09/2010;       Despesas com pessoal;R$ 17.000,00;Cheque; -  -  / 1233 - ODAIR SANTOS CORREA - PA - Deputado Federal;
+TEMISTOCLES DE ALMEIDA VASCONCELOS;105.071.832-15;17/09/2010;       Publicidade por carros de som;R$ 2.400,00;Cheque; -  -  / 1233 - ODAIR SANTOS CORREA - PA - Deputado Federal;
+;;01/10/2010;       Encargos financeiros e taxas bancárias;R$ 42,35;Débito em conta; -  -  / 1233 - ODAIR SANTOS CORREA - PA - Deputado Federal;

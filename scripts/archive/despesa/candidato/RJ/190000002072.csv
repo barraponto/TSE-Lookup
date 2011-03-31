@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-GRÁFICA  GOMES LTDA.;04.853.443/0001-86;31/08/2010;20000676721;R$ 410,00;Estimado;ROBERTO BARBOSA CASTRO;20433;Deputado Estadual;PSC;RJ;
-SERGIO CABRAL;12.181.923/0001-76;25/09/2010;20000676723;R$ 150,00;Estimado;ROBERTO BARBOSA CASTRO;20433;Deputado Estadual;PSC;RJ;
-SÉRGIO CABRAL;12.181.923/0001-76;25/09/2010;20000676722;R$ 150,00;Estimado;ROBERTO BARBOSA CASTRO;20433;Deputado Estadual;PSC;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRÁFICA  GOMES LTDA.;04.853.443/0001-86;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 410,00;Estimado; -  -  / 20433 - ROBERTO BARBOSA CASTRO - RJ - Deputado Estadual;
+SERGIO CABRAL;12.181.923/0001-76;25/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;15 -  - PMDB -  - Governador / 20433 - ROBERTO BARBOSA CASTRO - RJ - Deputado Estadual;
+SÉRGIO CABRAL;12.181.923/0001-76;25/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;15 -  - PMDB -  - Governador / 20433 - ROBERTO BARBOSA CASTRO - RJ - Deputado Estadual;

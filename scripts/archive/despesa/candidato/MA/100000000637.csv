@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-EDILSON FIGUEIREDO BARROS DE BRITO;413.049.423-68;19/08/2010;40000800822;R$ 10,00;Depósito em espécie;EDILSON FIGUEIREDO BARROS DE BRITO;40004;Deputado Estadual;PSB;MA;
-EDILSON FIGUEIREDO BARROS DE BRITO;413.049.423-68;13/09/2010;40000800824;R$ 1.600,00;Depósito em espécie;EDILSON FIGUEIREDO BARROS DE BRITO;40004;Deputado Estadual;PSB;MA;
-JEANE DIAS BARROS DE BRITO';740.998.253-53;13/09/2010;40000800823;R$ 1.800,00;Depósito em espécie;EDILSON FIGUEIREDO BARROS DE BRITO;40004;Deputado Estadual;PSB;MA;
-MARTA CANTUARIA PEREIRA;049.169.063-06;01/09/2010;40000800821;R$ 2.000,00;Estimado;EDILSON FIGUEIREDO BARROS DE BRITO;40004;Deputado Estadual;PSB;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ERNANDES PINHEIRO PIMENTEL;743.102.323-53;13/09/2010;       Despesas com pessoal;R$ 1.200,00;Cheque; -  -  / 40004 - EDILSON FIGUEIREDO BARROS DE BRITO - MA - Deputado Estadual;
+JOSE MACHADO NETO;282.419.403-00;13/09/2010;       Serviços prestados por terceiros;R$ 1.500,00;Cheque; -  -  / 40004 - EDILSON FIGUEIREDO BARROS DE BRITO - MA - Deputado Estadual;
+MARTA CANTUARIA PEREIRA;049.169.063-06;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado; -  -  / 40004 - EDILSON FIGUEIREDO BARROS DE BRITO - MA - Deputado Estadual;
+NILTON SERGIO GOMES PEREIRA;004.876.793-00;13/09/2010;       Serviços prestados por terceiros;R$ 700,00;Cheque; -  -  / 40004 - EDILSON FIGUEIREDO BARROS DE BRITO - MA - Deputado Estadual;

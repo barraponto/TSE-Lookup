@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;43001813137;R$ 1.304,00;Estimado;JOSELIO PEREIRA;43111;Deputado Estadual;PV;RN;
-Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;43001813136;R$ 2.500,00;Estimado;JOSELIO PEREIRA;43111;Deputado Estadual;PV;RN;
-Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;43001813140;R$ 4.999,75;Estimado;JOSELIO PEREIRA;43111;Deputado Estadual;PV;RN;
-Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;43001813138;R$ 4.761,00;Estimado;JOSELIO PEREIRA;43111;Deputado Estadual;PV;RN;
-Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;43001813139;R$ 714,00;Estimado;JOSELIO PEREIRA;43111;Deputado Estadual;PV;RN;
-MARCUS CESAR C DE MORAIS;05.239.156/0001-43;01/10/2010;43001813141;R$ 250,00;Estimado;JOSELIO PEREIRA;43111;Deputado Estadual;PV;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 714,00;Estimado;Comitê Financeiro Único - PV -  / 43111 - JOSELIO PEREIRA - RN - Deputado Estadual;
+Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.761,00;Estimado;Comitê Financeiro Único - PV -  / 43111 - JOSELIO PEREIRA - RN - Deputado Estadual;
+Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.500,00;Estimado;Comitê Financeiro Único - PV -  / 43111 - JOSELIO PEREIRA - RN - Deputado Estadual;
+Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.304,00;Estimado;Comitê Financeiro Único - PV -  / 43111 - JOSELIO PEREIRA - RN - Deputado Estadual;
+Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.999,75;Estimado;Comitê Financeiro Único - PV -  / 43111 - JOSELIO PEREIRA - RN - Deputado Estadual;
+MARCUS CESAR C DE MORAIS;05.239.156/0001-43;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado; -  -  / 43111 - JOSELIO PEREIRA - RN - Deputado Estadual;

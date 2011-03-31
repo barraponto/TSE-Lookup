@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CRISTIANO OHLWEILER FERREIRA;946.634.160-04;17/09/2010;50000479214;R$ 3.000,00;Cheque;JORGE RICARDO MOREIRA;5051;Deputado Federal;PSOL;RS;
-GLENIO LUIZ OHLWEILER FERREIRA;465.338.850-49;17/09/2010;50000479212;R$ 6.500,00;Cheque;JORGE RICARDO MOREIRA;5051;Deputado Federal;PSOL;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EMP BRAS CORRRIOS E TELEGRAFOS;94.312.634/0001-23;29/09/2010;       Diversas a especificar;R$ 2.621,85;Cheque; -  -  / 5051 - JORGE RICARDO MOREIRA - RS - Deputado Federal;
+GRAFICA POMTO BR;11.093.260/0001-65;28/08/2010;       Publicidade por materiais impressos;R$ 1.890,00;Cheque; -  -  / 5051 - JORGE RICARDO MOREIRA - RS - Deputado Federal;
+ZEBOROWISK FERNANDES;08.140.323/0001-92;02/09/2010;       Publicidade por materiais impressos;R$ 6.500,00;Cheque; -  -  / 5051 - JORGE RICARDO MOREIRA - RS - Deputado Federal;

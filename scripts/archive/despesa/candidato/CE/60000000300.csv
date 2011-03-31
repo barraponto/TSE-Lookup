@@ -1,3 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FRANCISCO EUGENIO BARBOSA FERREIRA;121.041.163-68;22/09/2010;27000033557;R$ 4.450,00;Depósito em espécie;FRANCISCO EUGENIO BARBOSA FERREIRA;27666;Deputado Estadual;PSDC;CE;
-FRANCISCO EUGENIO BARBOSA FERREIRA;121.041.163-68;05/08/2010;27000033558;R$ 5.000,00;Depósito em espécie;FRANCISCO EUGENIO BARBOSA FERREIRA;27666;Deputado Estadual;PSDC;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CENTRO DAS MIUDEZAS;04.799.747/0001-02;20/09/2010;       Materiais de expediente;R$ 512,00;Cheque; -  -  / 27666 - FRANCISCO EUGENIO BARBOSA FERREIRA - CE - Deputado Estadual;
+COMERCIO INDUSTRIA LTDA DEPOSITO ADRIANE;01.999.181/0001-74;13/09/2010;       Materiais de expediente;R$ 1.551,50;Cheque; -  -  / 27666 - FRANCISCO EUGENIO BARBOSA FERREIRA - CE - Deputado Estadual;
+JOSE CARLOS MOREIRA DE OLIVEIRA - ME;41.594.565/0001-21;17/08/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 2.600,00;Cheque; -  -  / 27666 - FRANCISCO EUGENIO BARBOSA FERREIRA - CE - Deputado Estadual;
+MARIA DO SOCORRO MAIA CRUZ;01.706.799/0001-07;22/09/2010;       Publicidade por materiais impressos;R$ 4.720,00;Cheque; -  -  / 27666 - FRANCISCO EUGENIO BARBOSA FERREIRA - CE - Deputado Estadual;
+27666 - FRANCISCO EUGENIO BARBOSA FERREIRA - DEPUTADO ESTADUAL;12.171.487/0001-54;21/10/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 66,50;Depósito em espécie;Comitê Financeiro Distrital/Estadual para Deputado Estadual - PSDC - CE / 27666 - FRANCISCO EUGENIO BARBOSA FERREIRA - CE - Deputado Estadual;

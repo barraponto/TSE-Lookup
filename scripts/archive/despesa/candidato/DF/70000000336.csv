@@ -1,5 +1,13 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-EDITORA GRAFICA CARTAO DE OURO LTDA;00.617.795/0001-81;30/08/2010;40002146605;R$ 375,00;Outros títulos de crédito;FRANCISCO SALES SANTANA;40556;Deputado Distrital;PSB;DF;
-ELEICAO 2010 ROBERTO POLICARPO FACUNDES;12.190.839/0001-19;30/09/2010;40002146604;R$ 5.235,06;Outros títulos de crédito;FRANCISCO SALES SANTANA;40556;Deputado Distrital;PSB;DF;
-RODRIGO ROLLEMBERG;12.173.922/0001-80;12/08/2010;40002146602;R$ 260,00;Outros títulos de crédito;FRANCISCO SALES SANTANA;40556;Deputado Distrital;PSB;DF;
-RODRIGO ROLLEMBERG;12.173.922/0001-80;21/09/2010;40002146601;R$ 1.000,00;Cheque;FRANCISCO SALES SANTANA;40556;Deputado Distrital;PSB;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALPHA GRAFICA E EDITORA LTDA ME;02.450.553/0001-71;12/08/2010;       Publicidade por materiais impressos;R$ 260,00;Não informado; -  -  / 40556 - FRANCISCO SALES SANTANA - DF - Deputado Distrital;
+CELSO DA SILVA PERERIA;832.322.571-00;30/09/2010;       Serviços prestados por terceiros;R$ 500,00;Cheque; -  -  / 40556 - FRANCISCO SALES SANTANA - DF - Deputado Distrital;
+DIMENSAO LETREIROS E PLACAS;38.068.847/0001-80;30/09/2010;       Publicidade por materiais impressos;R$ 5.235,06;Não informado; -  -  / 40556 - FRANCISCO SALES SANTANA - DF - Deputado Distrital;
+EDITORA GRAFICA CARTAO DE OURO LTDA;00.617.795/0001-81;30/08/2010;       Publicidade por materiais impressos;R$ 375,00;Não informado; -  -  / 40556 - FRANCISCO SALES SANTANA - DF - Deputado Distrital;
+ESTAÇÃO DE COMBUSTIVEIS OESTE;08.901.079/0001-33;31/07/2010;       Combustíveis e lubrificantes;R$ 50,00;Não informado; -  -  / 40556 - FRANCISCO SALES SANTANA - DF - Deputado Distrital;
+JRM COMERCIO DERIVADO DE PETROLEO LTDA;08.962.975/0002-93;14/07/2010;       Combustíveis e lubrificantes;R$ 46,00;Não informado; -  -  / 40556 - FRANCISCO SALES SANTANA - DF - Deputado Distrital;
+LOJA YARA;72.580.889/0001-34;16/07/2010;       Telefone;R$ 3,00;Não informado; -  -  / 40556 - FRANCISCO SALES SANTANA - DF - Deputado Distrital;
+LOJA YARA;72.580.889/0001-34;30/07/2010;       Telefone;R$ 12,00;Não informado; -  -  / 40556 - FRANCISCO SALES SANTANA - DF - Deputado Distrital;
+LOJA YARA;72.580.889/0001-34;31/07/2010;       Telefone;R$ 10,00;Não informado; -  -  / 40556 - FRANCISCO SALES SANTANA - DF - Deputado Distrital;
+NALIGIA SAMELA AUGUSTO DA SILVA;782.505.871-20;02/10/2010;       Serviços prestados por terceiros;R$ 279,00;Não informado; -  -  / 40556 - FRANCISCO SALES SANTANA - DF - Deputado Distrital;
+PARQUE ELDORADO DERIVADOS DE PETROLEO LTDA;04.154.208/0001-18;30/07/2010;       Combustíveis e lubrificantes;R$ 50,00;Não informado; -  -  / 40556 - FRANCISCO SALES SANTANA - DF - Deputado Distrital;
+POSTO PARWUE ELDORADO DERIV DE PETROLEO LTDA;04.154.053/0001-18;29/07/2010;       Combustíveis e lubrificantes;R$ 50,00;Não informado; -  -  / 40556 - FRANCISCO SALES SANTANA - DF - Deputado Distrital;

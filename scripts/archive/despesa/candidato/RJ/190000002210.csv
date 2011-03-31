@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS ALBERTO DA HORA;374.735.814-49;10/08/2010;70000150922;R$ 250,00;Depósito em espécie;CARLOS ALBERTO DA HORA;7077;Deputado Federal;PT do B;RJ;
-CARLOS ALBERTO DA HORA;374.735.814-49;02/08/2010;70000150921;R$ 500,00;Depósito em espécie;CARLOS ALBERTO DA HORA;7077;Deputado Federal;PT do B;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+MATTOS E MAIA INFORMATICA LTDA-ME;07.425.824/0001-52;01/08/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 7077 - CARLOS ALBERTO DA HORA - RJ - Deputado Federal;
+MATTOS E MIRANDA CONFECÇÃO DE PLACAS CARIMBOS E BANNERS LTDA ME;07.183.580/0001-49;11/08/2010;       Publicidade por materiais impressos;R$ 249,90;Cheque; -  -  / 7077 - CARLOS ALBERTO DA HORA - RJ - Deputado Federal;
+;;25/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,10;Débito em conta; -  -  / 7077 - CARLOS ALBERTO DA HORA - RJ - Deputado Federal;

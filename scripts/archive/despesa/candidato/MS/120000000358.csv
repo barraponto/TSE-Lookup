@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.578/0001-51;19/08/2010;43001890354;R$ 413,08;Estimado;AGNALDO FRANCISCO DA SILVA;43303;Deputado Estadual;PV;MS;
-Comitê Financeiro Único;12.191.578/0001-51;15/09/2010;43001890355;R$ 130,00;Estimado;AGNALDO FRANCISCO DA SILVA;43303;Deputado Estadual;PV;MS;
-Comitê Financeiro Único;12.191.578/0001-51;19/08/2010;43001890351;R$ 627,00;Estimado;AGNALDO FRANCISCO DA SILVA;43303;Deputado Estadual;PV;MS;
-DELCIDIO GOMES DO AMARAL;12.167.861/0001-48;10/09/2010;43001890352;R$ 160,00;Estimado;AGNALDO FRANCISCO DA SILVA;43303;Deputado Estadual;PV;MS;
-JOSÉ ORCIRIO MIRANDA DOS SANTOS;12.189.573/0001-94;17/09/2010;43001890353;R$ 4.000,00;Cheque;AGNALDO FRANCISCO DA SILVA;43303;Deputado Estadual;PV;MS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.578/0001-51;19/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 413,08;Estimado;Comitê Financeiro Único - PT -  / 43303 - AGNALDO FRANCISCO DA SILVA - MS - Deputado Estadual;
+Comitê Financeiro Único;12.191.578/0001-51;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 130,00;Estimado;Comitê Financeiro Único - PT -  / 43303 - AGNALDO FRANCISCO DA SILVA - MS - Deputado Estadual;
+Comitê Financeiro Único;12.191.578/0001-51;19/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 627,00;Estimado;Comitê Financeiro Único - PT -  / 43303 - AGNALDO FRANCISCO DA SILVA - MS - Deputado Estadual;
+DELCIDIO GOMES DO AMARAL;12.167.861/0001-48;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 160,00;Estimado;138 -  - PT -  - Senador / 43303 - AGNALDO FRANCISCO DA SILVA - MS - Deputado Estadual;
+JOSE RUBENS S. PEREIRA E OUTROS;347.353.644-04;30/09/2010;       Despesas com pessoal;R$ 4.000,00;Cheque; -  -  / 43303 - AGNALDO FRANCISCO DA SILVA - MS - Deputado Estadual;

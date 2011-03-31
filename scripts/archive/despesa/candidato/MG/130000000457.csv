@@ -1,7 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-INOVAR ASSESSORIA EXECUTIVA EMPRESARIAL LTDA;11.543.775/0001-20;02/09/2010;33000028601;R$ 3.000,00;Transferência eletrônica;JOSE ROQUE DA SILVA FILHO;3344;Deputado Federal;PMN;MG;
-JORGE LUIZ DA SILVA;579.259.846-00;01/10/2010;33000028605;R$ 1.000,00;Depósito em espécie;JOSE ROQUE DA SILVA FILHO;3344;Deputado Federal;PMN;MG;
-JOSE ROQUE DA SILVA FILHO;737.250.056-72;29/09/2010;33000028604;R$ 5.860,00;Depósito em espécie;JOSE ROQUE DA SILVA FILHO;3344;Deputado Federal;PMN;MG;
-RIBEIRO BAROSO;20.799.599/0001-82;20/09/2010;33000028602;R$ 1.000,00;Depósito em espécie;JOSE ROQUE DA SILVA FILHO;3344;Deputado Federal;PMN;MG;
-SILVIO CESAR VASCONCELOS BRIGIDO;455.057.993-53;29/09/2010;33000028603;R$ 2.000,00;Depósito em espécie;JOSE ROQUE DA SILVA FILHO;3344;Deputado Federal;PMN;MG;
-TIAGO DE OLIVEIRA BARBEDO CARVALHO;067.217.666-12;01/10/2010;33000028606;R$ 1.110,00;Depósito em espécie;JOSE ROQUE DA SILVA FILHO;3344;Deputado Federal;PMN;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ACF SERGIO PACHECO;42.919.340/0001-60;03/09/2010;       Despesas postais;R$ 1.760,67;Cheque; -  -  / 3344 - JOSE ROQUE DA SILVA FILHO - MG - Deputado Federal;
+ACF SERGIO PACHECO;42.919.340/0001-60;29/09/2010;       Despesas postais;R$ 5.190,91;Cheque; -  -  / 3344 - JOSE ROQUE DA SILVA FILHO - MG - Deputado Federal;
+ALGAR MIDIA;25.630.740/0001-32;01/10/2010;       Publicidade por jornais e revistas;R$ 360,00;Cheque; -  -  / 3344 - JOSE ROQUE DA SILVA FILHO - MG - Deputado Federal;
+CT DIGITAL BUREAL DE COMUNICACAO VISUAL LTDA;05.525.427/0001-27;29/09/2010;       Publicidade por placas, estandartes e faixas;R$ 1.200,00;Cheque; -  -  / 3344 - JOSE ROQUE DA SILVA FILHO - MG - Deputado Federal;
+GRAFICA 3PINTI LTDA;02.954.338/0001-08;08/09/2010;       Publicidade por materiais impressos;R$ 750,00;Cheque; -  -  / 3344 - JOSE ROQUE DA SILVA FILHO - MG - Deputado Federal;
+GRAFICA 3PINTI LTDA;02.954.338/0001-08;30/09/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 3344 - JOSE ROQUE DA SILVA FILHO - MG - Deputado Federal;
+LOTUS SERVICOS DE SOM LTDA;21.583.224/0001-43;30/09/2010;       Publicidade por carros de som;R$ 1.500,00;Cheque; -  -  / 3344 - JOSE ROQUE DA SILVA FILHO - MG - Deputado Federal;
+OSMAR APARECIDO MARQUES RODRIGUES;65.204.968/0001-85;03/09/2010;       Publicidade por materiais impressos;R$ 1.200,00;Cheque; -  -  / 3344 - JOSE ROQUE DA SILVA FILHO - MG - Deputado Federal;
+RIALL PAINEIS LTDA;01.072.369/0001-72;30/09/2010;       Publicidade por placas, estandartes e faixas;R$ 1.000,00;Cheque; -  -  / 3344 - JOSE ROQUE DA SILVA FILHO - MG - Deputado Federal;
+;;29/09/2010;       Encargos financeiros e taxas bancárias;R$ 5,71;Débito em conta; -  -  / 3344 - JOSE ROQUE DA SILVA FILHO - MG - Deputado Federal;

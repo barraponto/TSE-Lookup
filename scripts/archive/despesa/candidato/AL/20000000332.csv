@@ -1,2 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-PAULO FERNANDO DOS SANTOS;12.172.038/0001-20;28/09/2010;13000599122;R$ 5.000,00;Cheque;GERALDO AMORIM SILVA;13131;Deputado Estadual;PT;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JOÃO YGO DA COSTA ARAÚJO;047.053.304-80;03/08/2010;       Despesas com pessoal;R$ 2.000,00;Cheque; -  -  / 13131 - GERALDO AMORIM SILVA - AL - Deputado Estadual;
+PAULO ARAUJO DA SILVA;583.766.237-53;01/08/2010;       Despesas com pessoal;R$ 3.000,00;Cheque; -  -  / 13131 - GERALDO AMORIM SILVA - AL - Deputado Estadual;

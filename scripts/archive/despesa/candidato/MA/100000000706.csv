@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÕES 2010 FLAFIO DINO DE  CASTRO E  COSTA;12.176.183/0001-80;02/10/2010;23000119837;R$ 675,00;Estimado;BENEDITO DOS SANTOS;2312;Deputado Federal;PPS;MA;
-ELEIÇÕES 2010-FLÁVIO DINO DE CASTRO E COSTA;12.176.183/0001-80;30/08/2010;23000119836;R$ 980,00;Estimado;BENEDITO DOS SANTOS;2312;Deputado Federal;PPS;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÕES 2010 FLAFIO DINO DE  CASTRO E  COSTA;12.176.183/0001-80;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 675,00;Estimado;65 -  - PC do B -  - Governador / 2312 - BENEDITO DOS SANTOS - MA - Deputado Federal;
+ELEIÇÕES 2010-FLÁVIO DINO DE CASTRO E COSTA;12.176.183/0001-80;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 980,00;Estimado;65 -  - PC do B -  - Governador / 2312 - BENEDITO DOS SANTOS - MA - Deputado Federal;

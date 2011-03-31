@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.127.661/0001-61;10/09/2010;65000025006;R$ 131,00;Estimado;JOSE GARIBALDI BORIN COLVEIRO;6522;Deputado Federal;PC do B;RS;
-Diretório Estadual/Distrital;12.127.661/0001-61;20/08/2010;65000025003;R$ 856,67;Estimado;JOSE GARIBALDI BORIN COLVEIRO;6522;Deputado Federal;PC do B;RS;
-ELISABETH CARVALHO ZAVAGLIA SILVA;12.190.206/0001-00;14/09/2010;65000025004;R$ 147,50;Estimado;JOSE GARIBALDI BORIN COLVEIRO;6522;Deputado Federal;PC do B;RS;
-LUIS ADRIANO DIAS SALES;765.050.140-04;28/09/2010;65000025005;R$ 215,00;Estimado;JOSE GARIBALDI BORIN COLVEIRO;6522;Deputado Federal;PC do B;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.127.661/0001-61;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 131,00;Estimado;Comitê Financeiro Único - PC do B -  / 6522 - JOSE GARIBALDI BORIN COLVEIRO - RS - Deputado Federal;
+Diretório Estadual/Distrital;12.127.661/0001-61;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 856,67;Estimado;Direção Estadual/Distrital - PC do B -  / 6522 - JOSE GARIBALDI BORIN COLVEIRO - RS - Deputado Federal;
+ELISABETH CARVALHO ZAVAGLIA SILVA;12.190.206/0001-00;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 147,50;Estimado;65252 -  - PC do B -  - Deputado Estadual / 6522 - JOSE GARIBALDI BORIN COLVEIRO - RS - Deputado Federal;
+LUIS ADRIANO DIAS SALES;765.050.140-04;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 215,00;Estimado; -  -  / 6522 - JOSE GARIBALDI BORIN COLVEIRO - RS - Deputado Federal;

@@ -1,3 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Nacional;01.209.414/0001-98;30/07/2010;17000030701;R$ 5.000,00;Transferência eletrônica;RICARDO SALVINO DO NASCIMENTO;1777;Deputado Federal;PSL;PE;
-THAIS FERNANDA LUCAS DA SILVA;057.870.714-41;04/08/2010;17000030702;R$ 1.200,00;Estimado;RICARDO SALVINO DO NASCIMENTO;1777;Deputado Federal;PSL;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA GUERRA E FILHO LTDA;09.191.421/0001-11;17/08/2010;       Publicidade por materiais impressos;R$ 1.850,00;Cheque; -  -  / 1777 - RICARDO SALVINO DO NASCIMENTO - PE - Deputado Federal;
+POSTO SÃO LOURENÇO - MR PETROLÉO LTDA;04.938.834/0001-01;16/08/2010;       Combustíveis e lubrificantes;R$ 300,00;Cheque; -  -  / 1777 - RICARDO SALVINO DO NASCIMENTO - PE - Deputado Federal;
+POSTO SÃO LOURENÇO - MR PETROLÉO LTDA;04.938.834/0001-01;04/08/2010;       Combustíveis e lubrificantes;R$ 1.700,00;Cheque; -  -  / 1777 - RICARDO SALVINO DO NASCIMENTO - PE - Deputado Federal;
+POSTO SÃO LOURENÇO - MR PETROLÉO LTDA;04.938.834/0001-01;26/08/2010;       Combustíveis e lubrificantes;R$ 1.150,00;Cheque; -  -  / 1777 - RICARDO SALVINO DO NASCIMENTO - PE - Deputado Federal;
+THAIS FERNANDA LUCAS DA SILVA;057.870.714-41;04/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.200,00;Estimado; -  -  / 1777 - RICARDO SALVINO DO NASCIMENTO - PE - Deputado Federal;

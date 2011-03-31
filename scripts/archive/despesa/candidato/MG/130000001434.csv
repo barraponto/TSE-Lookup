@@ -1,2 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-;;30/08/2010;;R$ 3.800,00;Não informado;JOSE SILVESTRE DE AVELAR;4000;Deputado Federal;PSB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALTAMIRO MATOS NEIVA;051.948.126-71;17/09/2010;       Despesas com pessoal;R$ 1.000,00;Cheque; -  -  / 4000 - JOSE SILVESTRE DE AVELAR - MG - Deputado Federal;
+GRÁFICA TROPICAL LTDA;20.077.210/0001-95;10/09/2010;       Publicidade por materiais impressos;R$ 1.800,00;Cheque; -  -  / 4000 - JOSE SILVESTRE DE AVELAR - MG - Deputado Federal;
+MARIA RENI JESUS DE ANDRADE;034.532.406-42;17/09/2010;       Despesas com pessoal;R$ 1.000,00;Cheque; -  -  / 4000 - JOSE SILVESTRE DE AVELAR - MG - Deputado Federal;

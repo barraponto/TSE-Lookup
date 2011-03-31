@@ -1,6 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.221.845/0001-96;10/08/2010;45000419091;R$ 360,00;Estimado;MARIA DE LOURDES MOREIRA;45777;Deputado Distrital;PSDB;DF;
-Comitê Financeiro Único;12.221.845/0001-96;18/08/2010;45000419092;R$ 360,00;Estimado;MARIA DE LOURDES MOREIRA;45777;Deputado Distrital;PSDB;DF;
-JAIR ALEXANDRE DA SILVA;114.266.081-87;26/08/2010;45000419093;R$ 500,00;Estimado;MARIA DE LOURDES MOREIRA;45777;Deputado Distrital;PSDB;DF;
-LEDA TAMEGA RIBEIRO;059.765.961-34;16/09/2010;45000419096;R$ 500,00;Cheque;MARIA DE LOURDES MOREIRA;45777;Deputado Distrital;PSDB;DF;
-MARIA DE LOURDES ABADIA;12.167.909/0001-18;06/09/2010;45000419094;R$ 71,00;Estimado;MARIA DE LOURDES MOREIRA;45777;Deputado Distrital;PSDB;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.221.845/0001-96;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Único - PSDB -  / 45777 - MARIA DE LOURDES MOREIRA - DF - Deputado Distrital;
+Comitê Financeiro Único;12.221.845/0001-96;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Único - PSDB -  / 45777 - MARIA DE LOURDES MOREIRA - DF - Deputado Distrital;
+JAIR ALEXANDRE DA SILVA;114.266.081-87;26/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 45777 - MARIA DE LOURDES MOREIRA - DF - Deputado Distrital;
+LEONARDO HENRIQUE DE FREITAS SILVA;085.818.096-00;06/10/2010;       Publicidade por jornais e revistas;R$ 140,00;Não informado; -  -  / 45777 - MARIA DE LOURDES MOREIRA - DF - Deputado Distrital;
+MARIA DE LOURDES ABADIA;12.167.909/0001-18;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 71,00;Estimado;456 -  - PSDB -  - Senador / 45777 - MARIA DE LOURDES MOREIRA - DF - Deputado Distrital;
+MEDIA ONE COMUNICAÇÃO;04.676.116/0001-04;06/10/2010;       Publicidade por jornais e revistas;R$ 360,00;Não informado; -  -  / 45777 - MARIA DE LOURDES MOREIRA - DF - Deputado Distrital;

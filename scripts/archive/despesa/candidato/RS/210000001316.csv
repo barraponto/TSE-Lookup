@@ -1,2 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOÃO CAMARGO DO NASCIMENTO;397.075.120-91;14/09/2010;43001823226;R$ 1.000,00;Depósito em espécie;JOAO CAMARGO DO NASCIMENTO;4313;Deputado Federal;PV;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANDRÉ ALVES;651.321.900-06;15/09/2010;       Despesas com pessoal;R$ 415,00;Cheque; -  -  / 4313 - JOAO CAMARGO DO NASCIMENTO - RS - Deputado Federal;
+M.R. DA CUNHA & CIA LTDA;04.557.059/0001-36;15/09/2010;       Publicidade por materiais impressos;R$ 585,00;Cheque; -  -  / 4313 - JOAO CAMARGO DO NASCIMENTO - RS - Deputado Federal;

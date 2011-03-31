@@ -1,3 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Deputado Distrital;12.221.839/0001-39;28/09/2010;36000061562;R$ 2.500,00;Cheque;GERALDO MAGELLA DA SILVA PINTO;36789;Deputado Distrital;PTC;DF;
-RONALDO FONSECA DE SOUZA;12.170.374/0001-34;08/09/2010;36000061561;R$ 3.150,00;Cheque;GERALDO MAGELLA DA SILVA PINTO;36789;Deputado Distrital;PTC;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADRIANA VITÓRIA DA SILVA;457.884.991-00;16/09/2010;       Serviços prestados por terceiros;R$ 850,00;Transferência eletrônica; -  -  / 36789 - GERALDO MAGELLA DA SILVA PINTO - DF - Deputado Distrital;
+ADRIANA VITÓRIA DA SILVA;457.884.991-00;02/10/2010;       Serviços prestados por terceiros;R$ 500,00;Transferência eletrônica; -  -  / 36789 - GERALDO MAGELLA DA SILVA PINTO - DF - Deputado Distrital;
+ALISON SILVA PINTO;695.655.701-00;10/09/2010;       Serviços prestados por terceiros;R$ 575,00;Transferência eletrônica; -  -  / 36789 - GERALDO MAGELLA DA SILVA PINTO - DF - Deputado Distrital;
+ALISON SILVA PINTO;695.655.701-00;02/10/2010;       Serviços prestados por terceiros;R$ 500,00;Transferência eletrônica; -  -  / 36789 - GERALDO MAGELLA DA SILVA PINTO - DF - Deputado Distrital;
+JULIANA SOARES DE ANDRADE;700.126.791-00;02/10/2010;       Serviços prestados por terceiros;R$ 500,00;Transferência eletrônica; -  -  / 36789 - GERALDO MAGELLA DA SILVA PINTO - DF - Deputado Distrital;
+JULIANA SOARES DE ANDRADE;700.126.791-00;10/09/2010;       Serviços prestados por terceiros;R$ 575,00;Transferência eletrônica; -  -  / 36789 - GERALDO MAGELLA DA SILVA PINTO - DF - Deputado Distrital;
+MARCELLY VITÓRIA DA SILVA;036.648.761-21;02/10/2010;       Serviços prestados por terceiros;R$ 500,00;Transferência eletrônica; -  -  / 36789 - GERALDO MAGELLA DA SILVA PINTO - DF - Deputado Distrital;
+MARCELLY VITÓRIA DA SILVA;036.648.761-21;10/09/2010;       Serviços prestados por terceiros;R$ 575,00;Transferência eletrônica; -  -  / 36789 - GERALDO MAGELLA DA SILVA PINTO - DF - Deputado Distrital;
+WELLYNGTON CLEY DA SILVA PINTO;696.903.241-87;02/10/2010;       Serviços prestados por terceiros;R$ 500,00;Transferência eletrônica; -  -  / 36789 - GERALDO MAGELLA DA SILVA PINTO - DF - Deputado Distrital;
+WELLYNGTON CLEY DA SILVA PINTO;696.903.241-87;10/09/2010;       Serviços prestados por terceiros;R$ 575,00;Transferência eletrônica; -  -  / 36789 - GERALDO MAGELLA DA SILVA PINTO - DF - Deputado Distrital;

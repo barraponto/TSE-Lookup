@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS MAGNO BRANDÃO DE AZEVEDO;017.423.797-96;15/09/2010;25000165005;R$ 5.000,00;Depósito em espécie;MARCIO JOSE AZEREDO DA COSTA;2500;Deputado Federal;DEM;RJ;
-CESAR EPITACIO MAIA;12.176.116/0001-65;05/08/2010;25000165003;R$ 453,00;Estimado;MARCIO JOSE AZEREDO DA COSTA;2500;Deputado Federal;DEM;RJ;
-CESAR EPITACIO MAIA;12.176.116/0001-65;05/08/2010;25000165004;R$ 249,00;Estimado;MARCIO JOSE AZEREDO DA COSTA;2500;Deputado Federal;DEM;RJ;
-CESAR EPITACIO MAIA;12.176.116/0001-65;05/08/2010;25000165002;R$ 453,00;Estimado;MARCIO JOSE AZEREDO DA COSTA;2500;Deputado Federal;DEM;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CESAR EPITACIO MAIA;12.176.116/0001-65;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 249,00;Estimado;251 -  - DEM -  - Senador / 2500 - MARCIO JOSE AZEREDO DA COSTA - RJ - Deputado Federal;
+CESAR EPITACIO MAIA;12.176.116/0001-65;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 453,00;Estimado;251 -  - DEM -  - Senador / 2500 - MARCIO JOSE AZEREDO DA COSTA - RJ - Deputado Federal;
+CESAR EPITACIO MAIA;12.176.116/0001-65;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 453,00;Estimado;251 -  - DEM -  - Senador / 2500 - MARCIO JOSE AZEREDO DA COSTA - RJ - Deputado Federal;
+DEVANITO S. SANTOS PEÇAS E ACESSORIOS DE VEÍCULOS LTDA;09.663.534/0001-72;20/09/2010;       Publicidade por carros de som;R$ 4.979,00;Cheque; -  -  / 2500 - MARCIO JOSE AZEREDO DA COSTA - RJ - Deputado Federal;
+;;15/09/2010;       Encargos financeiros e taxas bancárias;R$ 21,00;Débito em conta; -  -  / 2500 - MARCIO JOSE AZEREDO DA COSTA - RJ - Deputado Federal;

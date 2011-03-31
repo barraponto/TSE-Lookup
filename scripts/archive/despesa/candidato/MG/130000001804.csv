@@ -1,3 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MARIA LUCIA SOARES DE FIGUEIREDO;677.492.166-34;05/08/2010;50000233701;R$ 800,00;Depósito em espécie;MOACIR SOARES DE FIGUEIREDO;50888;Deputado Estadual;PSOL;MG;
-MOACIR SOARES DE FIGUEIREDO;403.908.536-15;08/10/2010;50000233702;R$ 108,00;Depósito em espécie;MOACIR SOARES DE FIGUEIREDO;50888;Deputado Estadual;PSOL;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DN MOTOS MONTES CLAROS LTDA;07.061.806/0001-39;04/08/2010;       Combustíveis e lubrificantes;R$ 95,00;Cheque; -  -  / 50888 - MOACIR SOARES DE FIGUEIREDO - MG - Deputado Estadual;
+DN MOTOS MONTES CLAROS LTDA;07.061.806/0001-39;04/08/2010;       Serviços prestados por terceiros;R$ 20,00;Cheque; -  -  / 50888 - MOACIR SOARES DE FIGUEIREDO - MG - Deputado Estadual;
+GEANNE CALIARI BATISTA;07.940.163/0001-01;05/08/2010;       Materiais de expediente;R$ 15,00;Cheque; -  -  / 50888 - MOACIR SOARES DE FIGUEIREDO - MG - Deputado Estadual;
+MARCIA REGINA PEREIRA SOARES;05.525.271/0001-84;04/08/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 50888 - MOACIR SOARES DE FIGUEIREDO - MG - Deputado Estadual;
+MEKING OFF DIGITAL;11.898.470/0001-30;06/08/2010;       Publicidade por materiais impressos;R$ 178,00;Cheque; -  -  / 50888 - MOACIR SOARES DE FIGUEIREDO - MG - Deputado Estadual;
+OSMARINA DA COSTA SILVA;775.760.806-63;04/09/2010;       Serviços prestados por terceiros;R$ 40,00;Cheque; -  -  / 50888 - MOACIR SOARES DE FIGUEIREDO - MG - Deputado Estadual;
+OSMARINA DA COSTA SILVA;775.760.806-63;09/10/2010;       Serviços prestados por terceiros;R$ 118,10;Cheque; -  -  / 50888 - MOACIR SOARES DE FIGUEIREDO - MG - Deputado Estadual;
+;;09/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 50888 - MOACIR SOARES DE FIGUEIREDO - MG - Deputado Estadual;
+;;13/08/2010;       Encargos financeiros e taxas bancárias;R$ 19,50;Débito em conta; -  -  / 50888 - MOACIR SOARES DE FIGUEIREDO - MG - Deputado Estadual;
+;;15/09/2010;       Encargos financeiros e taxas bancárias;R$ 19,50;Débito em conta; -  -  / 50888 - MOACIR SOARES DE FIGUEIREDO - MG - Deputado Estadual;

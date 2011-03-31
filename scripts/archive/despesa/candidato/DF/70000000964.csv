@@ -1,5 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-BENEDITO AUGUSTO DOMINGOS;12.203.737/0001-90;09/08/2010;11000095561;R$ 360,00;Estimado;MARIA APARECIDA PEREIRA DE SOUZA;11012;Deputado Distrital;PP;DF;
-BENEDITO AUGUSTO DOMINGOS;12.203.737/0001-90;16/08/2010;11000095562;R$ 360,00;Estimado;MARIA APARECIDA PEREIRA DE SOUZA;11012;Deputado Distrital;PP;DF;
-Comitê Financeiro Único;12.205.256/0001-14;10/09/2010;11000095563;R$ 1.530,00;Transferência eletrônica;MARIA APARECIDA PEREIRA DE SOUZA;11012;Deputado Distrital;PP;DF;
-Comitê Financeiro Único;12.205.256/0001-14;05/10/2010;11000095564;R$ 1.530,00;Transferência eletrônica;MARIA APARECIDA PEREIRA DE SOUZA;11012;Deputado Distrital;PP;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BENEDITO AUGUSTO DOMINGOS;12.203.737/0001-90;16/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;11234 -  - PP -  - Deputado Distrital / 11012 - MARIA APARECIDA PEREIRA DE SOUZA - DF - Deputado Distrital;
+BENEDITO AUGUSTO DOMINGOS;12.203.737/0001-90;09/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;11234 -  - PP -  - Deputado Distrital / 11012 - MARIA APARECIDA PEREIRA DE SOUZA - DF - Deputado Distrital;
+JUAREZ COELHO REZENDE;121.363.521-72;30/08/2010;       Despesas com pessoal;R$ 510,00;Transferência eletrônica; -  -  / 11012 - MARIA APARECIDA PEREIRA DE SOUZA - DF - Deputado Distrital;
+JUAREZ COELHO REZENDE;121.363.521-72;30/09/2010;       Despesas com pessoal;R$ 510,00;Transferência eletrônica; -  -  / 11012 - MARIA APARECIDA PEREIRA DE SOUZA - DF - Deputado Distrital;
+LEANDRO KOITI ARAÚJO OKUMURA;009.191.261-03;30/09/2010;       Despesas com pessoal;R$ 510,00;Transferência eletrônica; -  -  / 11012 - MARIA APARECIDA PEREIRA DE SOUZA - DF - Deputado Distrital;
+LEANDRO KOITI ARAÚJO OKUMURA;009.191.261-03;30/08/2010;       Despesas com pessoal;R$ 510,00;Transferência eletrônica; -  -  / 11012 - MARIA APARECIDA PEREIRA DE SOUZA - DF - Deputado Distrital;
+MÁRCIO DA SILVA BRANCO;334.824.111-15;30/08/2010;       Despesas com pessoal;R$ 510,00;Transferência eletrônica; -  -  / 11012 - MARIA APARECIDA PEREIRA DE SOUZA - DF - Deputado Distrital;
+MÁRCIO DA SILVA BRANCO;334.824.111-15;30/09/2010;       Despesas com pessoal;R$ 510,00;Transferência eletrônica; -  -  / 11012 - MARIA APARECIDA PEREIRA DE SOUZA - DF - Deputado Distrital;

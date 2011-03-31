@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANA JÚLIA;12.171.430/0001-55;28/09/2010;13000766005;R$ 1.000,00;Estimado;MARCIO ANDRE BARROS MOREIRA;1314;Deputado Federal;PT;PA;
-ANA JÚLIA;12.171.430/0001-55;28/09/2010;13000766006;R$ 1.000,00;Estimado;MARCIO ANDRE BARROS MOREIRA;1314;Deputado Federal;PT;PA;
-MÁRCIO MOREIRA;459.773.302-78;15/09/2010;13000766002;R$ 25,00;Estimado;MARCIO ANDRE BARROS MOREIRA;1314;Deputado Federal;PT;PA;
-MÁRCIO MOREIRA;459.773.302-78;14/09/2010;13000766001;R$ 35,00;Estimado;MARCIO ANDRE BARROS MOREIRA;1314;Deputado Federal;PT;PA;
-PAULO ROCHA;12.168.406/0001-67;29/09/2010;13000766009;R$ 420,00;Estimado;MARCIO ANDRE BARROS MOREIRA;1314;Deputado Federal;PT;PA;
-PAULO ROCHA;12.168.406/0001-67;29/09/2010;13000766008;R$ 520,00;Estimado;MARCIO ANDRE BARROS MOREIRA;1314;Deputado Federal;PT;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANA JÚLIA;12.171.430/0001-55;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;13 -  - PT -  - Governador / 1314 - MARCIO ANDRE BARROS MOREIRA - PA - Deputado Federal;
+ANA JÚLIA;12.171.430/0001-55;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;13 -  - PT -  - Governador / 1314 - MARCIO ANDRE BARROS MOREIRA - PA - Deputado Federal;
+MÁRCIO MOREIRA;459.773.302-78;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 25,00;Estimado; -  -  / 1314 - MARCIO ANDRE BARROS MOREIRA - PA - Deputado Federal;
+MÁRCIO MOREIRA;459.773.302-78;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 35,00;Estimado; -  -  / 1314 - MARCIO ANDRE BARROS MOREIRA - PA - Deputado Federal;
+PAULO ROCHA;12.168.406/0001-67;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 420,00;Estimado;131 -  - PT -  - Senador / 1314 - MARCIO ANDRE BARROS MOREIRA - PA - Deputado Federal;
+PAULO ROCHA;12.168.406/0001-67;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 520,00;Estimado;131 -  - PT -  - Senador / 1314 - MARCIO ANDRE BARROS MOREIRA - PA - Deputado Federal;

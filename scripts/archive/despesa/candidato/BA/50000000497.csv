@@ -1,9 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.173.503/0001-48;30/08/2010;33000117702;R$ 204,00;Estimado;DOMINGOS BORGES PEREIRA;33354;Deputado Estadual;PMN;BA;
-Comitê Financeiro Único;12.191.496/0001-07;09/09/2010;33000117703;R$ 15,00;Estimado;DOMINGOS BORGES PEREIRA;33354;Deputado Estadual;PMN;BA;
-Comitê Financeiro Único;29.549.433/0001-82;09/09/2010;33000117704;R$ 250,00;Estimado;DOMINGOS BORGES PEREIRA;33354;Deputado Estadual;PMN;BA;
-Comitê Financeiro Único;12.191.570/0001-95;31/07/2010;33000117701;R$ 192,00;Estimado;DOMINGOS BORGES PEREIRA;33354;Deputado Estadual;PMN;BA;
-DOMINGOS BORGES PEREIRA;854.957.868-15;02/10/2010;33000117705;R$ 200,00;Estimado;DOMINGOS BORGES PEREIRA;33354;Deputado Estadual;PMN;BA;
-JOSE VANILDO BISPO DOS SANTOS;090.934.275-04;29/10/2010;33000117707;R$ 350,00;Depósito em espécie;DOMINGOS BORGES PEREIRA;33354;Deputado Estadual;PMN;BA;
-JOSE VANILDO BISPO DOS SANTOS;090.934.275-04;27/10/2010;33000117708;R$ 0,70;Depósito em espécie;DOMINGOS BORGES PEREIRA;33354;Deputado Estadual;PMN;BA;
-MELQUESEDEQUE LIMA DE JESUS;024.565.975-75;27/09/2010;33000117706;R$ 350,00;Depósito em espécie;DOMINGOS BORGES PEREIRA;33354;Deputado Estadual;PMN;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.570/0001-95;31/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 192,00;Estimado;Comitê Financeiro Único - PMDB -  / 33354 - DOMINGOS BORGES PEREIRA - BA - Deputado Estadual;
+Comitê Financeiro Único;29.549.433/0001-82;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;Comitê Financeiro Único - PMN -  / 33354 - DOMINGOS BORGES PEREIRA - BA - Deputado Estadual;
+Comitê Financeiro Único;12.173.503/0001-48;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 204,00;Estimado;Comitê Financeiro Único - PMDB -  / 33354 - DOMINGOS BORGES PEREIRA - BA - Deputado Estadual;
+Comitê Financeiro Único;12.191.496/0001-07;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 15,00;Estimado;Comitê Financeiro Único - PMN -  / 33354 - DOMINGOS BORGES PEREIRA - BA - Deputado Estadual;
+@CONOMIZE.COM COMUNICAÇÃO VISUAL LTDA ME;11.851.476/0001-52;27/10/2010;       Publicidade por placas, estandartes e faixas;R$ 700,00;Cheque; -  -  / 33354 - DOMINGOS BORGES PEREIRA - BA - Deputado Estadual;
+DOMINGOS BORGES PEREIRA;854.957.868-15;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado; -  -  / 33354 - DOMINGOS BORGES PEREIRA - BA - Deputado Estadual;
+;;29/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,70;Débito em conta; -  -  / 33354 - DOMINGOS BORGES PEREIRA - BA - Deputado Estadual;

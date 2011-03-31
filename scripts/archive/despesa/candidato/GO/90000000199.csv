@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 SUELIO DA SILVA ARAUJO DEPUTADO ESTADUAL;922.573.991-53;21/07/2010;17000036576;R$ 600,00;Depósito em espécie;SUÉLIO DA SILVA ARAUJO;17567;Deputado Estadual;PSL;GO;
-PAULO MARTINS DE SOUZA;306.620.011-68;27/09/2010;17000036578;R$ 480,00;Estimado;SUÉLIO DA SILVA ARAUJO;17567;Deputado Estadual;PSL;GO;
-PAULO MARTINS DE SOUZA;306.620.011-68;27/09/2010;17000036579;R$ 300,00;Estimado;SUÉLIO DA SILVA ARAUJO;17567;Deputado Estadual;PSL;GO;
-PAULO MARTINS DE SOUZA;306.620.011-68;02/10/2010;17000036577;R$ 150,00;Estimado;SUÉLIO DA SILVA ARAUJO;17567;Deputado Estadual;PSL;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA E EDITORA PODER LTDA;10.176.869/0001-45;21/07/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 17567 - SUÉLIO DA SILVA ARAUJO - GO - Deputado Estadual;
+PAULO MARTINS DE SOUZA;306.620.011-68;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado; -  -  / 17567 - SUÉLIO DA SILVA ARAUJO - GO - Deputado Estadual;
+PAULO MARTINS DE SOUZA;306.620.011-68;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 480,00;Estimado; -  -  / 17567 - SUÉLIO DA SILVA ARAUJO - GO - Deputado Estadual;
+PAULO MARTINS DE SOUZA;306.620.011-68;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 17567 - SUÉLIO DA SILVA ARAUJO - GO - Deputado Estadual;

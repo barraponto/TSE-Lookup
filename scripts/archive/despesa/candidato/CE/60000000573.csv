@@ -1,2 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-QUITERIA RISALVA ROSA VIEIRA;229.529.348-00;20/07/2010;14000217611;R$ 1.500,00;Depósito em espécie;QUITERIA RISALVA ROSA VIEIRA;14222;Deputado Estadual;PTB;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CENTRO DAS COPIAS E SERVIÇIS DE XEROX LTDA;63.356.836/0001-43;07/08/2010;       Materiais de expediente;R$ 60,00;Transferência eletrônica; -  -  / 14222 - QUITERIA RISALVA ROSA VIEIRA - CE - Deputado Estadual;
+CENTRO DAS COPIAS E SERVIÇIS DE XEROX LTDA;63.356.836/0001-43;09/09/2010;       Materiais de expediente;R$ 75,00;Transferência eletrônica; -  -  / 14222 - QUITERIA RISALVA ROSA VIEIRA - CE - Deputado Estadual;
+CENTRO DAS COPIAS E SERVIÇOS DE XEROX LTDA;63.356.836/0001-43;26/10/2010;       Materiais de expediente;R$ 191,00;Transferência eletrônica; -  -  / 14222 - QUITERIA RISALVA ROSA VIEIRA - CE - Deputado Estadual;
+CENTRO DAS COPIAS E SERVIÇOS DE XEROX LTDA;63.356.836/0001-43;26/10/2010;       Materiais de expediente;R$ 59,00;Transferência eletrônica; -  -  / 14222 - QUITERIA RISALVA ROSA VIEIRA - CE - Deputado Estadual;
+HBM SIGN HENRIQUE JORGE FERNANDES DE AGUIAR;05.270.436/0001-14;18/09/2010;       Materiais de expediente;R$ 145,00;Cheque; -  -  / 14222 - QUITERIA RISALVA ROSA VIEIRA - CE - Deputado Estadual;
+MARCIA PAULA DA SILVA;392.063.943-04;10/10/2010;       Despesas com pessoal;R$ 90,00;Transferência eletrônica; -  -  / 14222 - QUITERIA RISALVA ROSA VIEIRA - CE - Deputado Estadual;
+PN10 COM DE DER DE PETROLEO LTDA;04.307.362/0001-80;25/10/2010;       Combustíveis e lubrificantes;R$ 530,00;Transferência eletrônica; -  -  / 14222 - QUITERIA RISALVA ROSA VIEIRA - CE - Deputado Estadual;
+PN10 COM DE DER DE PETROLEO LTDA;04.307.362/0001-80;10/08/2010;       Combustíveis e lubrificantes;R$ 350,00;Transferência eletrônica; -  -  / 14222 - QUITERIA RISALVA ROSA VIEIRA - CE - Deputado Estadual;

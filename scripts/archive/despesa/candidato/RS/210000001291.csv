@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.144/0001-70;22/09/2010;10000078701;R$ 1.000,00;Cheque;VERLAU IBÁ FAGUNDES WERDUM;10010;Deputado Estadual;PRB;RS;
-WALDIR CANAL;12.168.841/0001-91;01/10/2010;10000078704;R$ 168,00;Estimado;VERLAU IBÁ FAGUNDES WERDUM;10010;Deputado Estadual;PRB;RS;
-YEDA RORATO CRUSIUS;12.172.247/0001-74;01/10/2010;10000078705;R$ 1.408,45;Estimado;VERLAU IBÁ FAGUNDES WERDUM;10010;Deputado Estadual;PRB;RS;
-YEDA RORATO CRUSIUS;12.172.247/0001-74;01/10/2010;10000078702;R$ 600,00;Estimado;VERLAU IBÁ FAGUNDES WERDUM;10010;Deputado Estadual;PRB;RS;
-YEDA RORATO CRUSIUS;12.172.247/0001-74;01/10/2010;10000078703;R$ 600,00;Estimado;VERLAU IBÁ FAGUNDES WERDUM;10010;Deputado Estadual;PRB;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+MANOEL LUIZ DASILVA;396.422.160-00;01/09/2010;       Locação/cessão de bens imóveis;R$ 1.000,00;Cheque; -  -  / 10010 - VERLAU IBÁ FAGUNDES WERDUM - RS - Deputado Estadual;
+WALDIR CANAL;12.168.841/0001-91;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 168,00;Estimado;1010 -  - PRB -  - Deputado Federal / 10010 - VERLAU IBÁ FAGUNDES WERDUM - RS - Deputado Estadual;
+YEDA RORATO CRUSIUS;12.172.247/0001-74;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.408,45;Estimado;45 -  - PSDB -  - Governador / 10010 - VERLAU IBÁ FAGUNDES WERDUM - RS - Deputado Estadual;
+YEDA RORATO CRUSIUS;12.172.247/0001-74;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado;45 -  - PSDB -  - Governador / 10010 - VERLAU IBÁ FAGUNDES WERDUM - RS - Deputado Estadual;
+YEDA RORATO CRUSIUS;12.172.247/0001-74;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado;45 -  - PSDB -  - Governador / 10010 - VERLAU IBÁ FAGUNDES WERDUM - RS - Deputado Estadual;

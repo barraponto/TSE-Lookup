@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Nacional;29.549.433/0001-82;30/09/2010;33000123300;R$ 55,00;Estimado;CELMAR LOPES;3377;Deputado Federal;PMN;RS;
-Diretório Nacional;29.549.433/0001-82;30/09/2010;33000123299;R$ 2.545,45;Estimado;CELMAR LOPES;3377;Deputado Federal;PMN;RS;
-Diretório Nacional;29.549.433/0001-82;30/09/2010;33000123298;R$ 433,50;Estimado;CELMAR LOPES;3377;Deputado Federal;PMN;RS;
-Diretório Nacional;29.549.433/0001-82;30/09/2010;33000123297;R$ 1.000,00;Estimado;CELMAR LOPES;3377;Deputado Federal;PMN;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Nacional;29.549.433/0001-82;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 55,00;Estimado;Direção Nacional - PMN -  / 3377 - CELMAR LOPES - RS - Deputado Federal;
+Diretório Nacional;29.549.433/0001-82;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;Direção Nacional - PMN -  / 3377 - CELMAR LOPES - RS - Deputado Federal;
+Diretório Nacional;29.549.433/0001-82;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 433,50;Estimado;Direção Nacional - PMN -  / 3377 - CELMAR LOPES - RS - Deputado Federal;
+Diretório Nacional;29.549.433/0001-82;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.545,45;Estimado;Direção Nacional - PMN -  / 3377 - CELMAR LOPES - RS - Deputado Federal;

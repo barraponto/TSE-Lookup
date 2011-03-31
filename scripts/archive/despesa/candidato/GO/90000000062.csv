@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS ALBERTO LEREIA DA SILVA;12.190.809/0001-02;30/09/2010;45000105052;R$ 500,00;Estimado;LÚCIO MAURO NUNES SALUM;45400;Deputado Estadual;PSDB;GO;
-Comitê Financeiro Único;12.191.504/0001-15;30/09/2010;45000105055;R$ 1.490,00;Estimado;LÚCIO MAURO NUNES SALUM;45400;Deputado Estadual;PSDB;GO;
-Comitê Financeiro Único;12.191.504/0001-15;30/09/2010;45000105056;R$ 1.200,00;Estimado;LÚCIO MAURO NUNES SALUM;45400;Deputado Estadual;PSDB;GO;
-Comitê Financeiro Único;12.191.504/0001-15;30/09/2010;45000105054;R$ 597,50;Estimado;LÚCIO MAURO NUNES SALUM;45400;Deputado Estadual;PSDB;GO;
-Comitê Financeiro Único;12.191.504/0001-15;30/09/2010;45000105051;R$ 100,00;Estimado;LÚCIO MAURO NUNES SALUM;45400;Deputado Estadual;PSDB;GO;
-Comitê Financeiro Único;12.191.504/0001-15;30/09/2010;45000105053;R$ 590,00;Estimado;LÚCIO MAURO NUNES SALUM;45400;Deputado Estadual;PSDB;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS ALBERTO LEREIA DA SILVA;12.190.809/0001-02;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;4544 -  - PSDB -  - Deputado Federal / 45400 - LÚCIO MAURO NUNES SALUM - GO - Deputado Estadual;
+Comitê Financeiro Único;12.191.504/0001-15;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.200,00;Estimado;Comitê Financeiro Único - PSDB -  / 45400 - LÚCIO MAURO NUNES SALUM - GO - Deputado Estadual;
+Comitê Financeiro Único;12.191.504/0001-15;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.490,00;Estimado;Comitê Financeiro Único - PSDB -  / 45400 - LÚCIO MAURO NUNES SALUM - GO - Deputado Estadual;
+Comitê Financeiro Único;12.191.504/0001-15;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 597,50;Estimado;Comitê Financeiro Único - PSDB -  / 45400 - LÚCIO MAURO NUNES SALUM - GO - Deputado Estadual;
+Comitê Financeiro Único;12.191.504/0001-15;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 590,00;Estimado;Comitê Financeiro Único - PSDB -  / 45400 - LÚCIO MAURO NUNES SALUM - GO - Deputado Estadual;
+Comitê Financeiro Único;12.191.504/0001-15;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado;Comitê Financeiro Único - PSDB -  / 45400 - LÚCIO MAURO NUNES SALUM - GO - Deputado Estadual;

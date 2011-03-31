@@ -1,6 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-C.F.FISIOLAGOS LTDA;32.534.661/0001-93;27/09/2010;43001505503;R$ 8.500,00;Depósito em espécie;JUAREZ RODRIGUES DA SILVA;43143;Deputado Estadual;PV;RJ;
-JUAREZ DA FISIOTERAPIA;119.945.331-53;20/09/2010;43001505502;R$ 250,00;Depósito em espécie;JUAREZ RODRIGUES DA SILVA;43143;Deputado Estadual;PV;RJ;
-JUAREZ DA FISIOTERAPIA;119.945.331-53;29/11/2010;43001505505;R$ 506,00;Depósito em espécie;JUAREZ RODRIGUES DA SILVA;43143;Deputado Estadual;PV;RJ;
-JUAREZ DA FISIOTERAPIA;119.945.331-53;01/11/2010;43001505504;R$ 1.148,51;Depósito em espécie;JUAREZ RODRIGUES DA SILVA;43143;Deputado Estadual;PV;RJ;
-JUAREZ DA FISIOTERAPIA;119.945.331-53;30/08/2010;43001505501;R$ 1.150,00;Depósito em espécie;JUAREZ RODRIGUES DA SILVA;43143;Deputado Estadual;PV;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CORREIO DA CIDADANIA;04.049.838/0001-20;01/09/2010;       Publicidade por materiais impressos;R$ 250,00;Cheque; -  -  / 43143 - JUAREZ RODRIGUES DA SILVA - RJ - Deputado Estadual;
+CORREIO DA CIDADANIA;04.049.838/0001-20;30/09/2010;       Publicidade por materiais impressos;R$ 250,00;Cheque; -  -  / 43143 - JUAREZ RODRIGUES DA SILVA - RJ - Deputado Estadual;
+EMP. BRAS. DE CORREIOS E TELEGRAFOS;34.028.316/3185-45;24/09/2010;       Despesas postais;R$ 7.783,16;Cheque; -  -  / 43143 - JUAREZ RODRIGUES DA SILVA - RJ - Deputado Estadual;
+J VASCONCELLOS EDITORA GRÁFICA LTDA;11.019.639/0001-35;28/09/2010;       Publicidade por materiais impressos;R$ 1.087,00;Cheque; -  -  / 43143 - JUAREZ RODRIGUES DA SILVA - RJ - Deputado Estadual;
+J VASCONCELLOS EDITORA GRÁFICA LTDA;11.019.639/0001-35;30/08/2010;       Publicidade por materiais impressos;R$ 1.072,00;Cheque; -  -  / 43143 - JUAREZ RODRIGUES DA SILVA - RJ - Deputado Estadual;
+PRISCILLA;105.220.287-05;30/09/2010;       Publicidade por materiais impressos;R$ 100,00;Cheque; -  -  / 43143 - JUAREZ RODRIGUES DA SILVA - RJ - Deputado Estadual;
+REY ARTES INDUSTRIA GRAFICA LTDA ME;11.231.454/0001-90;30/09/2010;       Publicidade por materiais impressos;R$ 1.012,00;Cheque; -  -  / 43143 - JUAREZ RODRIGUES DA SILVA - RJ - Deputado Estadual;
+;;28/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 43143 - JUAREZ RODRIGUES DA SILVA - RJ - Deputado Estadual;

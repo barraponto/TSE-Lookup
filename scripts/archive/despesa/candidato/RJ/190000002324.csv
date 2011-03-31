@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JORGE LUIZ MURTA DOS SANTOS;442.153.637-72;16/08/2010;70000153502;R$ 1.000,00;Depósito em espécie;MANOEL LUCIO ARAUJO;70031;Deputado Estadual;PT do B;RJ;
-JOSÉ FRANCISCO DE SANTANA;586.350.767-53;16/08/2010;70000153503;R$ 1.000,00;Depósito em espécie;MANOEL LUCIO ARAUJO;70031;Deputado Estadual;PT do B;RJ;
-MANOEL LÚCIO ARAÚJO;317.215.247-20;27/08/2010;70000153504;R$ 130,00;Depósito em espécie;MANOEL LUCIO ARAUJO;70031;Deputado Estadual;PT do B;RJ;
-WANDERLEY PAULA DE LIMA;610.544.707-82;05/08/2010;70000153501;R$ 1.500,00;Depósito em espécie;MANOEL LUCIO ARAUJO;70031;Deputado Estadual;PT do B;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BROTHER IN LAW REPRESENTAÇÕES E SERVIÇOS;03.709.574/0001-21;20/09/2010;       Serviços prestados por terceiros;R$ 200,00;Cheque; -  -  / 70031 - MANOEL LUCIO ARAUJO - RJ - Deputado Estadual;
+ETHI´S GRAPHIC GRÁFICA E EDITORA LTDA.;10.417.882/0001-49;13/08/2010;       Publicidade por materiais impressos;R$ 2.500,00;Cheque; -  -  / 70031 - MANOEL LUCIO ARAUJO - RJ - Deputado Estadual;
+PT DO B;04.196.980/0001-09;29/10/2010;       Diversas a especificar;R$ 10,00;Cheque; -  -  / 70031 - MANOEL LUCIO ARAUJO - RJ - Deputado Estadual;
+SERGIO LUIZ DE MEDEIROS;023.449.137-00;13/08/2010;       Publicidade por materiais impressos;R$ 920,00;Cheque; -  -  / 70031 - MANOEL LUCIO ARAUJO - RJ - Deputado Estadual;

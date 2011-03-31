@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 TEOTÔNIO BRANDÃO VILELA FILHO;12.170.978/0001-80;30/08/2010;45000179651;R$ 1.297,79;Estimado;PEDRO BARROS;45090;Deputado Estadual;PSDB;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 TEOTÔNIO BRANDÃO VILELA FILHO;12.170.978/0001-80;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.297,79;Estimado;45 -  - PSDB -  - Governador / 45090 - PEDRO BARROS - AL - Deputado Estadual;

@@ -1,2 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DIEGO DUTRA;114.110.147-58;10/08/2010;22000169701;R$ 3.000,00;Depósito em espécie;DIEGO DUTRA TEMOTEO;2279;Deputado Federal;PR;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO DE SERVIÇO E SHOPPING;36.538.973/0001-26;03/09/2010;       Combustíveis e lubrificantes;R$ 26,50;Não informado; -  -  / 2279 - DIEGO DUTRA TEMOTEO - RJ - Deputado Federal;
+COPACABANA COTTON CENTER LTDA;03.648.723/0001-90;02/09/2010;       Publicidade por materiais impressos;R$ 2.950,00;Não informado; -  -  / 2279 - DIEGO DUTRA TEMOTEO - RJ - Deputado Federal;
+;;03/09/2010;       Impostos, contribuições e taxas;R$ 23,50;Débito em conta; -  -  / 2279 - DIEGO DUTRA TEMOTEO - RJ - Deputado Federal;

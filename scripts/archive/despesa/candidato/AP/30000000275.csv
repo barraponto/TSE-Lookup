@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DIELY CORREA DA CRUZ;913.776.502-78;04/09/2010;15000208902;R$ 1.000,00;Estimado;FRAN SOARES NASCIMENTO JUNIOR;15123;Deputado Estadual;PMDB;AP;
-FRAN SOARES NASCIMENTO JUNIOR;107.454.082-49;02/09/2010;15000208901;R$ 5.000,00;Estimado;FRAN SOARES NASCIMENTO JUNIOR;15123;Deputado Estadual;PMDB;AP;
-FRAN SOARES NASCIMENTO NETO;772.925.452-20;10/09/2010;15000208903;R$ 1.500,00;Estimado;FRAN SOARES NASCIMENTO JUNIOR;15123;Deputado Estadual;PMDB;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DIELY CORREA DA CRUZ;913.776.502-78;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 15123 - FRAN SOARES NASCIMENTO JUNIOR - AP - Deputado Estadual;
+FRAN SOARES NASCIMENTO JUNIOR;107.454.082-49;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 5.000,00;Estimado; -  -  / 15123 - FRAN SOARES NASCIMENTO JUNIOR - AP - Deputado Estadual;
+FRAN SOARES NASCIMENTO NETO;772.925.452-20;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado; -  -  / 15123 - FRAN SOARES NASCIMENTO JUNIOR - AP - Deputado Estadual;

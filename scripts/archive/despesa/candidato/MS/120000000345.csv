@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DELCIDIO DO AMARAL GOMEZ;12.167.861/0001-48;21/09/2010;17000035761;R$ 160,00;Estimado;MARCO ANTONIO PALERMO ORTEGA;17345;Deputado Estadual;PSL;MS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DELCIDIO DO AMARAL GOMEZ;12.167.861/0001-48;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 160,00;Estimado;138 -  - PT -  - Senador / 17345 - MARCO ANTONIO PALERMO ORTEGA - MS - Deputado Estadual;

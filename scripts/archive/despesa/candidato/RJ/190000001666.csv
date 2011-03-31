@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;26/07/2010;11000003501;R$ 150,00;Estimado;ADILSON THEODORO SOARES;1190;Deputado Federal;PP;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;26/07/2010;11000003502;R$ 150,00;Estimado;ADILSON THEODORO SOARES;1190;Deputado Federal;PP;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;26/07/2010;11000003503;R$ 150,00;Estimado;ADILSON THEODORO SOARES;1190;Deputado Federal;PP;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;26/07/2010;11000003504;R$ 150,00;Estimado;ADILSON THEODORO SOARES;1190;Deputado Federal;PP;RJ;
-ELEIÇÃO JORGE SAYED PICCIANI;12.176.626/0001-32;02/08/2010;11000003505;R$ 17,10;Estimado;ADILSON THEODORO SOARES;1190;Deputado Federal;PP;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;26/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 1190 - ADILSON THEODORO SOARES - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;26/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 1190 - ADILSON THEODORO SOARES - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;26/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 1190 - ADILSON THEODORO SOARES - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;26/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 1190 - ADILSON THEODORO SOARES - RJ - Deputado Federal;
+ELEIÇÃO JORGE SAYED PICCIANI;12.176.626/0001-32;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,10;Estimado;151 -  - PMDB -  - Senador / 1190 - ADILSON THEODORO SOARES - RJ - Deputado Federal;

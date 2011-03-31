@@ -1,10 +1,6 @@
-Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
-Comitê Financeiro Único - DEM;12.200.117/0001-06;24/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 50.000,00;Cheque;20222 - JOSE VIANA POVOA CAMELO - PSC - TO - Deputado Estadual / Comitê Financeiro Único - DEM - TO;
-Comitê Financeiro Único - DEM;12.200.117/0001-06;24/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 50.000,00;Cheque;15333 - GERONIMO DOS SANTOS LOPES CARDOSO - PMDB - TO - Deputado Estadual / Comitê Financeiro Único - DEM - TO;
-Comitê Financeiro Único - DEM;12.200.117/0001-06;24/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 20.000,00;Cheque;25500 - VALQUIRIA MOREIRA REZENDE - DEM - TO - Deputado Estadual / Comitê Financeiro Único - DEM - TO;
-Comitê Financeiro Único - DEM;12.200.117/0001-06;22/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 60.000,00;Cheque;25400 - EUREDICE RODRIGUES ARAUJO - DEM - TO - Deputado Estadual / Comitê Financeiro Único - DEM - TO;
-Comitê Financeiro Único - DEM;12.200.117/0001-06;24/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 100.000,00;Cheque;22111 - JOSE BONIFACIO D. DE SOUSA - PR - TO - Deputado Estadual / Comitê Financeiro Único - DEM - TO;
-Comitê Financeiro Único - DEM;12.200.117/0001-06;24/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 150.000,00;Cheque;2580 - MARIA AUXILIADORA SEABRA REZENDE - DEM - TO - Deputado Federal / Comitê Financeiro Único - DEM - TO;
-Comitê Financeiro Único - DEM;12.200.117/0001-06;29/10/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 30.050,00;Cheque;Direção Estadual/Distrital - DEM - TO / Comitê Financeiro Único - DEM - TO;
-Comitê Financeiro Único - DEM;12.200.117/0001-06;22/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 25.000,00;Cheque;25500 - VALQUIRIA MOREIRA REZENDE - DEM - TO - Deputado Estadual / Comitê Financeiro Único - DEM - TO;
-Comitê Financeiro Único - DEM;12.200.117/0001-06;22/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 25.000,00;Cheque;22580 - WILMAR MARTINS LEITE JUNIOR - PR - TO - Deputado Estadual / Comitê Financeiro Único - DEM - TO;
+Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
+DANIEL KLUPPEL CARRARA;477.977.891-34;05/08/2010;25000426751;R$ 50,00;Depósito em espécie;Comitê Financeiro Único;DEM;TO;
+JUSTINO MORAIS IRMÃOS S/A;44.944.668/0001-62;24/09/2010;25000426755;R$ 30.000,00;Depósito em espécie;Comitê Financeiro Único;DEM;TO;
+LOPO GESTÃO DE BENS LTDA;04.772.478/0001-90;20/09/2010;25000426752;R$ 50.000,00;Transferência eletrônica;Comitê Financeiro Único;DEM;TO;
+SANT'ANA PARTICIPAÇÕES LTDA;57.012.916/0001-89;20/09/2010;25000426753;R$ 60.000,00;Transferência eletrônica;Comitê Financeiro Único;DEM;TO;
+TRENTO ALPHAVILLE DESENVOLVIEMENTOIMOBILIARIA LTDA;08.852.767/0001-50;21/09/2010;25000426754;R$ 370.000,00;Transferência eletrônica;Comitê Financeiro Único;DEM;TO;

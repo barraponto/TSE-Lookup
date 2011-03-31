@@ -1,4 +1,13 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ROGÉRIO LEANDRO DE JESUS SANTOS;973.590.175-72;31/08/2010;45000052401;R$ 1.270,00;Depósito em espécie;ROGERIO LEANDRO DE JESUS SANTOS;4513;Deputado Federal;PSDB;BA;
-ROGÉRIO LEANDRO DE JESUS SANTOS;973.590.175-72;23/09/2010;45000052403;R$ 900,00;Depósito em espécie;ROGERIO LEANDRO DE JESUS SANTOS;4513;Deputado Federal;PSDB;BA;
-ROGÉRIO LEANDRO DE JESUS SANTOS;973.590.175-72;13/08/2010;45000052402;R$ 355,00;Depósito em espécie;ROGERIO LEANDRO DE JESUS SANTOS;4513;Deputado Federal;PSDB;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CENTRAL DE CÓPIAS E IMPRESSOS LTDA;03.165.507/0001-93;01/10/2010;       Diversas a especificar;R$ 34,73;Transferência eletrônica; -  -  / 4513 - ROGERIO LEANDRO DE JESUS SANTOS - BA - Deputado Federal;
+CENTRAL DE CÓPIAS E IMPRESSOS LTDA;03.165.507/0001-93;08/09/2010;       Diversas a especificar;R$ 84,00;Transferência eletrônica; -  -  / 4513 - ROGERIO LEANDRO DE JESUS SANTOS - BA - Deputado Federal;
+CJC NETO COMERCIO E SERVIÇOS LTDA;10.157.918/0001-00;16/08/2010;       Publicidade por materiais impressos;R$ 54,00;Transferência eletrônica; -  -  / 4513 - ROGERIO LEANDRO DE JESUS SANTOS - BA - Deputado Federal;
+CJC NETO COMERCIO E SERVIÇOS LTDA;10.157.918/0001-00;14/09/2010;       Publicidade por materiais impressos;R$ 290,16;Transferência eletrônica; -  -  / 4513 - ROGERIO LEANDRO DE JESUS SANTOS - BA - Deputado Federal;
+CJC NETO COMERCIO E SERVIÇOS LTDA;10.157.918/0001-00;10/09/2010;       Publicidade por materiais impressos;R$ 300,00;Transferência eletrônica; -  -  / 4513 - ROGERIO LEANDRO DE JESUS SANTOS - BA - Deputado Federal;
+CJC NETO COMERCIO E SERVIÇOS LTDA;10.157.918/0001-00;04/09/2010;       Publicidade por materiais impressos;R$ 111,11;Transferência eletrônica; -  -  / 4513 - ROGERIO LEANDRO DE JESUS SANTOS - BA - Deputado Federal;
+FEIRA PAINEIS LTDA;02.603.445/0001-91;24/09/2010;       Publicidade por materiais impressos;R$ 850,00;Transferência eletrônica; -  -  / 4513 - ROGERIO LEANDRO DE JESUS SANTOS - BA - Deputado Federal;
+FEIRA PAINEIS LTDA;02.603.445/0001-91;31/08/2010;       Publicidade por materiais impressos;R$ 200,00;Transferência eletrônica; -  -  / 4513 - ROGERIO LEANDRO DE JESUS SANTOS - BA - Deputado Federal;
+MARIANO E ESQUIVEL LTDA;07.850.206/0001-50;16/08/2010;       Publicidade por materiais impressos;R$ 300,00;Transferência eletrônica; -  -  / 4513 - ROGERIO LEANDRO DE JESUS SANTOS - BA - Deputado Federal;
+MARIANO E ESQUIVEL LTDA;07.850.206/0001-50;31/08/2010;       Publicidade por materiais impressos;R$ 260,00;Transferência eletrônica; -  -  / 4513 - ROGERIO LEANDRO DE JESUS SANTOS - BA - Deputado Federal;
+;;11/10/2010;       Encargos financeiros e taxas bancárias;R$ 20,50;Débito em conta; -  -  / 4513 - ROGERIO LEANDRO DE JESUS SANTOS - BA - Deputado Federal;
+;;10/09/2010;       Encargos financeiros e taxas bancárias;R$ 20,50;Débito em conta; -  -  / 4513 - ROGERIO LEANDRO DE JESUS SANTOS - BA - Deputado Federal;

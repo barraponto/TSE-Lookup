@@ -1,7 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADEIZE DE OLIVEIRA BARROS;230.551.542-15;24/09/2010;14000153046;R$ 500,00;Depósito em espécie;MARIA SORAIA ELIAS PEREIRA;14444;Deputado Estadual;PTB;AM;
-ADEIZE DE OLIVEIRA BARROS;230.551.542-15;20/08/2010;14000153042;R$ 1.450,00;Depósito em espécie;MARIA SORAIA ELIAS PEREIRA;14444;Deputado Estadual;PTB;AM;
-ADEIZE DE OLIVEIRA BARROS;230.551.542-15;19/08/2010;14000153041;R$ 700,00;Depósito em espécie;MARIA SORAIA ELIAS PEREIRA;14444;Deputado Estadual;PTB;AM;
-Diretório Estadual/Distrital;04.160.131/0001-97;24/09/2010;14000153043;R$ 363,00;Cheque;MARIA SORAIA ELIAS PEREIRA;14444;Deputado Estadual;PTB;AM;
-Diretório Estadual/Distrital;04.160.131/0001-97;30/09/2010;14000153045;R$ 800,00;Estimado;MARIA SORAIA ELIAS PEREIRA;14444;Deputado Estadual;PTB;AM;
-Diretório Estadual/Distrital;04.160.131/0001-97;13/08/2010;14000153044;R$ 300,00;Estimado;MARIA SORAIA ELIAS PEREIRA;14444;Deputado Estadual;PTB;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+A L DE ALMEIDA;07.347.715/0001-64;26/08/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 14444 - MARIA SORAIA ELIAS PEREIRA - AM - Deputado Estadual;
+ANAPAULA SILVEIRA DUTRA BARROS;636.712.982-00;10/09/2010;       Despesas com pessoal;R$ 390,00;Cheque; -  -  / 14444 - MARIA SORAIA ELIAS PEREIRA - AM - Deputado Estadual;
+COMPANHIA DO VISUAL - SINALIZAÇÃO GRAFICA;02.878.153/0001-61;19/08/2010;       Publicidade por materiais impressos;R$ 1.425,00;Cheque; -  -  / 14444 - MARIA SORAIA ELIAS PEREIRA - AM - Deputado Estadual;
+Diretório Estadual/Distrital;04.160.131/0001-97;13/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Direção Estadual/Distrital - PMDB -  / 14444 - MARIA SORAIA ELIAS PEREIRA - AM - Deputado Estadual;
+Diretório Estadual/Distrital;04.160.131/0001-97;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 800,00;Estimado;Direção Estadual/Distrital - PMDB -  / 14444 - MARIA SORAIA ELIAS PEREIRA - AM - Deputado Estadual;
+FERNANDA VASCONCELOS DE CARVALHO;853.699.182-87;30/09/2010;       Despesas com pessoal;R$ 490,00;Cheque; -  -  / 14444 - MARIA SORAIA ELIAS PEREIRA - AM - Deputado Estadual;
+GRAFISA;03.633.502/0001-48;17/09/2010;       Publicidade por materiais impressos;R$ 363,00;Cheque; -  -  / 14444 - MARIA SORAIA ELIAS PEREIRA - AM - Deputado Estadual;
+;;23/08/2010;       Encargos financeiros e taxas bancárias;R$ 19,00;Débito em conta; -  -  / 14444 - MARIA SORAIA ELIAS PEREIRA - AM - Deputado Estadual;
+;;27/10/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Débito em conta; -  -  / 14444 - MARIA SORAIA ELIAS PEREIRA - AM - Deputado Estadual;

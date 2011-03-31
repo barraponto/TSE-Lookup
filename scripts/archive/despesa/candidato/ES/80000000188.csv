@@ -1,6 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CAMTER CONSTRUÇÕES E EMPREENDIMENTOS S.A.;05.500.018/0001-76;09/09/2010;12001017720;R$ 30.000,00;Transferência eletrônica;ENIVALDO EUZEBIO DOS ANJOS;222;2º Suplente Senador;PDT;ES;
-ENIVALDO EUZÉBIO DOS ANJOS;562.520.487-04;15/10/2010;12001017672;R$ 1.400,00;Depósito em espécie;ENIVALDO EUZEBIO DOS ANJOS;222;2º Suplente Senador;PDT;ES;
-ETHELCINDA SCHERRER DALLA BERNARDINA;653.267.927-53;01/09/2010;12001017671;R$ 1.000,00;Depósito em espécie;ENIVALDO EUZEBIO DOS ANJOS;222;2º Suplente Senador;PDT;ES;
-EXECUTA CONSULTORES & ASSOCIADOS LTDA;08.579.607/0001-80;01/10/2010;12001017719;R$ 5.000,00;Depósito em espécie;ENIVALDO EUZEBIO DOS ANJOS;222;2º Suplente Senador;PDT;ES;
-SEBASTIÃO DA CONCEIÇÃO BONIFACIO;305.492.216-20;13/08/2010;12001017723;R$ 1.000,00;Estimado;ENIVALDO EUZEBIO DOS ANJOS;222;2º Suplente Senador;PDT;ES;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CRIART INDÚSTRIA E COMÉRCIO LTDA - ME;04.139.667/0001-20;13/09/2010;       Publicidade por placas, estandartes e faixas;R$ 420,00;Cheque; -  -  / 222 - ENIVALDO EUZEBIO DOS ANJOS - ES - 2º Suplente Senador;
+CRIART INDÚSTRIA E COMÉRCIO LTDA - ME;04.139.667/0001-20;24/09/2010;       Publicidade por placas, estandartes e faixas;R$ 6.298,25;Cheque; -  -  / 222 - ENIVALDO EUZEBIO DOS ANJOS - ES - 2º Suplente Senador;
+EXECUTA CONSULTORES & ASSOCIADOS LTDA;08.579.607/0001-80;01/10/2010;       Diversas a especificar;R$ 22.500,00;Cheque; -  -  / 222 - ENIVALDO EUZEBIO DOS ANJOS - ES - 2º Suplente Senador;
+INGRAL INDÚSTRIA GRÁFICA LTDA ME;32.414.708/0001-85;28/09/2010;       Publicidade por materiais impressos;R$ 2.581,50;Cheque; -  -  / 222 - ENIVALDO EUZEBIO DOS ANJOS - ES - 2º Suplente Senador;
+INGRAL INDÚSTRIA GRÁFICA LTDA ME;32.414.708/0001-85;14/09/2010;       Publicidade por materiais impressos;R$ 3.080,00;Cheque; -  -  / 222 - ENIVALDO EUZEBIO DOS ANJOS - ES - 2º Suplente Senador;
+POSTO MILCAR LTDA;00.294.414/0001-70;01/10/2010;       Combustíveis e lubrificantes;R$ 2.500,00;Cheque; -  -  / 222 - ENIVALDO EUZEBIO DOS ANJOS - ES - 2º Suplente Senador;
+SEBASTIÃO DA CONCEIÇÃO BONIFACIO;305.492.216-20;13/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 222 - ENIVALDO EUZEBIO DOS ANJOS - ES - 2º Suplente Senador;

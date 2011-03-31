@@ -1,6 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;05.055.973/0001-41;28/09/2010;36000063984;R$ 574,00;Estimado;LINDEMBERG BATISTA DE OLIVEIRA;36110;Deputado Estadual;PTC;PE;
-Diretório Estadual/Distrital;05.055.973/0001-41;24/09/2010;36000063985;R$ 200,00;Estimado;LINDEMBERG BATISTA DE OLIVEIRA;36110;Deputado Estadual;PTC;PE;
-JOSE ERIBERTO MEDEIROS DE OLIVEIRA;12.177.701/0001-80;25/08/2010;36000063983;R$ 60,00;Estimado;LINDEMBERG BATISTA DE OLIVEIRA;36110;Deputado Estadual;PTC;PE;
-LINDEMBERG BATISTA DE OLIVEIRA;021.015.664-35;02/09/2010;36000063982;R$ 100,00;Depósito em espécie;LINDEMBERG BATISTA DE OLIVEIRA;36110;Deputado Estadual;PTC;PE;
-RODRIGO RAIMUNDO DE MATTOS MARQUES;042.891.654-60;12/08/2010;36000063981;R$ 1.000,00;Depósito em espécie;LINDEMBERG BATISTA DE OLIVEIRA;36110;Deputado Estadual;PTC;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANDRE DE LIMA E SILVA;089.174.144-51;01/10/2010;       Despesas com transporte ou deslocamento;R$ 11,00;Cheque; -  -  / 36110 - LINDEMBERG BATISTA DE OLIVEIRA - PE - Deputado Estadual;
+ANDRE DE LIMA E SILVA;089.174.144-51;29/08/2010;       Despesas com pessoal;R$ 301,00;Cheque; -  -  / 36110 - LINDEMBERG BATISTA DE OLIVEIRA - PE - Deputado Estadual;
+CAMPEL COMUNICAÇÃO & ARTE LTDA ME;10.484.983/0001-32;16/08/2010;       Publicidade por materiais impressos;R$ 438,00;Cheque; -  -  / 36110 - LINDEMBERG BATISTA DE OLIVEIRA - PE - Deputado Estadual;
+Diretório Estadual/Distrital;05.055.973/0001-41;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;Direção Estadual/Distrital - PTC -  / 36110 - LINDEMBERG BATISTA DE OLIVEIRA - PE - Deputado Estadual;
+Diretório Estadual/Distrital;05.055.973/0001-41;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 574,00;Estimado;Direção Estadual/Distrital - PTC -  / 36110 - LINDEMBERG BATISTA DE OLIVEIRA - PE - Deputado Estadual;
+JOSE ERIBERTO MEDEIROS DE OLIVEIRA;12.177.701/0001-80;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 60,00;Estimado;36111 -  - PTC -  - Deputado Estadual / 36110 - LINDEMBERG BATISTA DE OLIVEIRA - PE - Deputado Estadual;
+LANTON LABRÊ DE ALBUQUERQUE JUNIOR;006.382.678-03;17/08/2010;       Serviços prestados por terceiros;R$ 150,00;Cheque; -  -  / 36110 - LINDEMBERG BATISTA DE OLIVEIRA - PE - Deputado Estadual;
+MANOEL CARLOS DA SILVA FILHO;049.615.464-88;13/08/2010;       Serviços prestados por terceiros;R$ 150,00;Cheque; -  -  / 36110 - LINDEMBERG BATISTA DE OLIVEIRA - PE - Deputado Estadual;
+RIO DOCE COM E SERVIÇOS LTDA.;03.008.754/0001-86;29/08/2010;       Combustíveis e lubrificantes;R$ 50,00;Cheque; -  -  / 36110 - LINDEMBERG BATISTA DE OLIVEIRA - PE - Deputado Estadual;

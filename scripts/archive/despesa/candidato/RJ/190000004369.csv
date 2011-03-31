@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MARCOS ANTONIO MORAES GONÇALVES;011.490.927-00;06/08/2010;15000259551;R$ 1.280,00;Estimado;MARCOS ANTONIO MORAES GONÇALVES;15222;Deputado Estadual;PMDB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+MARCOS ANTONIO MORAES GONÇALVES;011.490.927-00;06/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.280,00;Estimado; -  -  / 15222 - MARCOS ANTONIO MORAES GONÇALVES - RJ - Deputado Estadual;

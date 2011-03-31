@@ -1,9 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;01.327.965/0001-56;26/08/2010;11000075007;R$ 2.040,76;Estimado;VENÍCIO ROCHA;1130;Deputado Federal;PP;MG;
-Diretório Estadual/Distrital;01.327.965/0001-56;29/07/2010;11000075006;R$ 605,20;Estimado;VENÍCIO ROCHA;1130;Deputado Federal;PP;MG;
-Diretório Estadual/Distrital;01.327.965/0001-56;29/07/2010;11000075005;R$ 193,80;Estimado;VENÍCIO ROCHA;1130;Deputado Federal;PP;MG;
-Diretório Estadual/Distrital;01.327.965/0001-56;30/09/2010;11000075008;R$ 27,86;Estimado;VENÍCIO ROCHA;1130;Deputado Federal;PP;MG;
-ELOISA HELENA PATTO ROCHA;525.841.516-34;30/09/2010;11000075004;R$ 1.500,00;Estimado;VENÍCIO ROCHA;1130;Deputado Federal;PP;MG;
-HENRIQUE TADEU PATTO ROCHA;724.661.546-68;30/09/2010;11000075002;R$ 800,00;Estimado;VENÍCIO ROCHA;1130;Deputado Federal;PP;MG;
-JAIME PATTO ROCHA;525.839.026-87;30/09/2010;11000075003;R$ 800,00;Estimado;VENÍCIO ROCHA;1130;Deputado Federal;PP;MG;
-VENÍCIO ROCHA;011.502.356-91;02/09/2010;11000075001;R$ 550,00;Depósito em espécie;VENÍCIO ROCHA;1130;Deputado Federal;PP;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;01.327.965/0001-56;29/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 605,20;Estimado;Direção Estadual/Distrital - PP -  / 1130 - VENÍCIO ROCHA - MG - Deputado Federal;
+Diretório Estadual/Distrital;01.327.965/0001-56;26/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.040,76;Estimado;Direção Estadual/Distrital - PP -  / 1130 - VENÍCIO ROCHA - MG - Deputado Federal;
+Diretório Estadual/Distrital;01.327.965/0001-56;29/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 193,80;Estimado;Direção Estadual/Distrital - PP -  / 1130 - VENÍCIO ROCHA - MG - Deputado Federal;
+Diretório Estadual/Distrital;01.327.965/0001-56;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 27,86;Estimado;Direção Estadual/Distrital - PP -  / 1130 - VENÍCIO ROCHA - MG - Deputado Federal;
+ELOISA HELENA PATTO ROCHA;525.841.516-34;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado; -  -  / 1130 - VENÍCIO ROCHA - MG - Deputado Federal;
+GRÁFICA NÁPOLES COMÉRCIO E INDÚSTRIA LTDA.;19.233.964/0001-08;02/09/2010;       Publicidade por materiais impressos;R$ 550,00;Cheque; -  -  / 1130 - VENÍCIO ROCHA - MG - Deputado Federal;
+HENRIQUE TADEU PATTO ROCHA;724.661.546-68;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 800,00;Estimado; -  -  / 1130 - VENÍCIO ROCHA - MG - Deputado Federal;
+JAIME PATTO ROCHA;525.839.026-87;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 800,00;Estimado; -  -  / 1130 - VENÍCIO ROCHA - MG - Deputado Federal;

@@ -1,3 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-VANDERLAN VIEIRA CARDOSO;12.198.568/0001-48;15/09/2010;40002466103;R$ 3.000,00;Cheque;JUAREZ VIEIRA DOS SANTOS;40555;Deputado Estadual;PSB;GO;
-VANDERLAN VIEIRA CARDOSO;12.198.568/0001-48;17/09/2010;40002466102;R$ 350,00;Estimado;JUAREZ VIEIRA DOS SANTOS;40555;Deputado Estadual;PSB;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DHIEGO JEFFREY RODRIGUES MONTEIRO;014.965.321-20;30/09/2010;       Serviços prestados por terceiros;R$ 1.500,00;Não informado; -  -  / 40555 - JUAREZ VIEIRA DOS SANTOS - GO - Deputado Estadual;
+ELENICE ALVES DE OLIVEIRA;769.574.111-68;30/09/2010;       Serviços prestados por terceiros;R$ 500,00;Não informado; -  -  / 40555 - JUAREZ VIEIRA DOS SANTOS - GO - Deputado Estadual;
+JULIANA KASSIA BATISTA DOS SANTOS;034.814.141-61;30/09/2010;       Serviços prestados por terceiros;R$ 500,00;Não informado; -  -  / 40555 - JUAREZ VIEIRA DOS SANTOS - GO - Deputado Estadual;
+MARLY BATISTA DOS SANTOS;774.848.861-49;30/09/2010;       Serviços prestados por terceiros;R$ 500,00;Não informado; -  -  / 40555 - JUAREZ VIEIRA DOS SANTOS - GO - Deputado Estadual;
+VANDERLAN VIEIRA CARDOSO;12.198.568/0001-48;17/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 350,00;Estimado;22 -  - PR -  - Governador / 40555 - JUAREZ VIEIRA DOS SANTOS - GO - Deputado Estadual;

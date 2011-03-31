@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;05.055.973/0001-41;25/08/2010;36000065111;R$ 90,00;Estimado;RUBENITO ALEXANDRE DA SILVA;3620;Deputado Federal;PTC;PE;
-Diretório Estadual/Distrital;05.055.973/0001-41;28/09/2010;36000065112;R$ 40,00;Estimado;RUBENITO ALEXANDRE DA SILVA;3620;Deputado Federal;PTC;PE;
-Diretório Estadual/Distrital;05.055.973/0001-41;24/09/2010;36000065115;R$ 700,00;Estimado;RUBENITO ALEXANDRE DA SILVA;3620;Deputado Federal;PTC;PE;
-Diretório Estadual/Distrital;05.055.973/0001-41;27/09/2010;36000065114;R$ 474,00;Estimado;RUBENITO ALEXANDRE DA SILVA;3620;Deputado Federal;PTC;PE;
-Diretório Estadual/Distrital;05.055.973/0001-41;28/09/2010;36000065113;R$ 105,00;Estimado;RUBENITO ALEXANDRE DA SILVA;3620;Deputado Federal;PTC;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;05.055.973/0001-41;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 40,00;Estimado;Direção Estadual/Distrital - PTC -  / 3620 - RUBENITO ALEXANDRE DA SILVA - PE - Deputado Federal;
+Diretório Estadual/Distrital;05.055.973/0001-41;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 474,00;Estimado;Direção Estadual/Distrital - PTC -  / 3620 - RUBENITO ALEXANDRE DA SILVA - PE - Deputado Federal;
+Diretório Estadual/Distrital;05.055.973/0001-41;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 105,00;Estimado;Direção Estadual/Distrital - PTC -  / 3620 - RUBENITO ALEXANDRE DA SILVA - PE - Deputado Federal;
+Diretório Estadual/Distrital;05.055.973/0001-41;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 700,00;Estimado;Direção Estadual/Distrital - PTC -  / 3620 - RUBENITO ALEXANDRE DA SILVA - PE - Deputado Federal;
+Diretório Estadual/Distrital;05.055.973/0001-41;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 90,00;Estimado;Direção Estadual/Distrital - PTC -  / 3620 - RUBENITO ALEXANDRE DA SILVA - PE - Deputado Federal;

@@ -1,6 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.213/0001-39;16/09/2010;40002205526;R$ 1.500,00;Cheque;ROMÃO ARAÚJO CARNEIRO;40956;Deputado Estadual;PSB;MG;
-Comitê Financeiro Único;12.205.213/0001-39;30/08/2010;40002205530;R$ 508,00;Estimado;ROMÃO ARAÚJO CARNEIRO;40956;Deputado Estadual;PSB;MG;
-Comitê Financeiro Único;12.205.213/0001-39;01/10/2010;40002205533;R$ 1.054,32;Estimado;ROMÃO ARAÚJO CARNEIRO;40956;Deputado Estadual;PSB;MG;
-Comitê Financeiro Único;12.205.213/0001-39;03/09/2010;40002205532;R$ 1.197,84;Estimado;ROMÃO ARAÚJO CARNEIRO;40956;Deputado Estadual;PSB;MG;
-Comitê Financeiro Único;12.205.213/0001-39;30/09/2010;40002205531;R$ 83,86;Estimado;ROMÃO ARAÚJO CARNEIRO;40956;Deputado Estadual;PSB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.213/0001-39;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 83,86;Estimado;Comitê Financeiro Único - PSB -  / 40956 - ROMÃO ARAÚJO CARNEIRO - MG - Deputado Estadual;
+Comitê Financeiro Único;12.205.213/0001-39;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.197,84;Estimado;Comitê Financeiro Único - PSB -  / 40956 - ROMÃO ARAÚJO CARNEIRO - MG - Deputado Estadual;
+Comitê Financeiro Único;12.205.213/0001-39;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 508,00;Estimado;Comitê Financeiro Único - PSB -  / 40956 - ROMÃO ARAÚJO CARNEIRO - MG - Deputado Estadual;
+Comitê Financeiro Único;12.205.213/0001-39;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.054,32;Estimado;Comitê Financeiro Único - PSB -  / 40956 - ROMÃO ARAÚJO CARNEIRO - MG - Deputado Estadual;
+EDILEUZA DE OLIVEIRA;088.632.386-00;20/09/2010;       Despesas com pessoal;R$ 970,00;Cheque; -  -  / 40956 - ROMÃO ARAÚJO CARNEIRO - MG - Deputado Estadual;
+PEDRO CARNEIRO;941.856.898-53;19/09/2010;       Despesas com pessoal;R$ 434,00;Cheque; -  -  / 40956 - ROMÃO ARAÚJO CARNEIRO - MG - Deputado Estadual;
+PLOTEX PLACAS;10.977.846/0001-30;18/09/2010;       Publicidade por materiais impressos;R$ 92,00;Cheque; -  -  / 40956 - ROMÃO ARAÚJO CARNEIRO - MG - Deputado Estadual;

@@ -1,7 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CESAR MAIA;12.176.116/0001-65;03/08/2010;25000166428;R$ 249,50;Outros títulos de crédito;JOSE FLAVIO RAMALHO ORTIGAO;2566;Deputado Federal;DEM;RJ;
-RODRIGO DANTAS;12.170.190/0001-74;29/09/2010;25000166441;R$ 262,50;Estimado;JOSE FLAVIO RAMALHO ORTIGAO;2566;Deputado Federal;DEM;RJ;
-RODRIGO DANTAS;12.170.190/0001-74;30/08/2010;25000166431;R$ 75,00;Estimado;JOSE FLAVIO RAMALHO ORTIGAO;2566;Deputado Federal;DEM;RJ;
-RODRIGO DANTAS;12.170.190/0001-74;29/09/2010;25000166440;R$ 325,00;Estimado;JOSE FLAVIO RAMALHO ORTIGAO;2566;Deputado Federal;DEM;RJ;
-RODRIGO DANTAS;12.170.190/0001-74;03/08/2010;25000166429;R$ 75,00;Outros títulos de crédito;JOSE FLAVIO RAMALHO ORTIGAO;2566;Deputado Federal;DEM;RJ;
-RODRIGO DANTAS;12.170.190/0001-74;30/08/2010;25000166430;R$ 75,00;Estimado;JOSE FLAVIO RAMALHO ORTIGAO;2566;Deputado Federal;DEM;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+RODRIGO DANTAS;12.170.190/0001-74;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 75,00;Estimado;25123 -  - DEM -  - Deputado Estadual / 2566 - JOSE FLAVIO RAMALHO ORTIGAO - RJ - Deputado Federal;
+RODRIGO DANTAS;12.170.190/0001-74;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 325,00;Estimado;25123 -  - DEM -  - Deputado Estadual / 2566 - JOSE FLAVIO RAMALHO ORTIGAO - RJ - Deputado Federal;
+RODRIGO DANTAS;12.170.190/0001-74;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 75,00;Estimado;25123 -  - DEM -  - Deputado Estadual / 2566 - JOSE FLAVIO RAMALHO ORTIGAO - RJ - Deputado Federal;
+RODRIGO DANTAS;12.170.190/0001-74;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 262,50;Estimado;25123 -  - DEM -  - Deputado Estadual / 2566 - JOSE FLAVIO RAMALHO ORTIGAO - RJ - Deputado Federal;

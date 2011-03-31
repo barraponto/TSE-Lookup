@@ -1,5 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANDRE PEIXOTO FIGUEIREDO LIMA;12.190.292/0001-51;16/08/2010;12001010472;R$ 2.000,00;Cheque;RAIMUNDO IVAN VASCONCELOS MOURA;12111;Deputado Estadual;PDT;CE;
-Comitê Financeiro Único;12.217.587/0001-74;13/09/2010;12001010475;R$ 1.780,00;Estimado;RAIMUNDO IVAN VASCONCELOS MOURA;12111;Deputado Estadual;PDT;CE;
-EDITORA CELIGRAFICA FOTOLITO LTDA;07.646.938/0001-22;08/09/2010;12001010476;R$ 1.285,00;Estimado;RAIMUNDO IVAN VASCONCELOS MOURA;12111;Deputado Estadual;PDT;CE;
-RAIMUNDO IVAN VASCONCELOS MOURA;098.318.433-04;13/09/2010;12001010474;R$ 500,00;Depósito em espécie;RAIMUNDO IVAN VASCONCELOS MOURA;12111;Deputado Estadual;PDT;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.217.587/0001-74;13/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.780,00;Estimado;Comitê Financeiro Único - PDT -  / 12111 - RAIMUNDO IVAN VASCONCELOS MOURA - CE - Deputado Estadual;
+EDITORA CELIGRAFICA FOTOLITO LTDA;07.646.938/0001-22;08/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.285,00;Estimado; -  -  / 12111 - RAIMUNDO IVAN VASCONCELOS MOURA - CE - Deputado Estadual;
+HB COMUNICACAO VISUAL;07.250.066/0001-89;11/09/2010;       Publicidade por materiais impressos;R$ 450,00;Cheque; -  -  / 12111 - RAIMUNDO IVAN VASCONCELOS MOURA - CE - Deputado Estadual;
+HB COMUNICACAO VISUAL;07.250.066/0001-89;24/08/2010;       Publicidade por materiais impressos;R$ 380,00;Cheque; -  -  / 12111 - RAIMUNDO IVAN VASCONCELOS MOURA - CE - Deputado Estadual;
+IMPRINT GRAFICA TAPIDA;06.936.034/0001-79;02/09/2010;       Publicidade por materiais impressos;R$ 950,00;Cheque; -  -  / 12111 - RAIMUNDO IVAN VASCONCELOS MOURA - CE - Deputado Estadual;
+JORNAL PARQUE ARAXA;161.963.093-15;25/08/2010;       Publicidade por jornais e revistas;R$ 80,00;Cheque; -  -  / 12111 - RAIMUNDO IVAN VASCONCELOS MOURA - CE - Deputado Estadual;
+LICIA MAXIMO DE OLIVEIRA;006.888.393-55;20/08/2010;       Despesas com pessoal;R$ 255,00;Cheque; -  -  / 12111 - RAIMUNDO IVAN VASCONCELOS MOURA - CE - Deputado Estadual;
+LICIA MAXIMO DE OLIVEIRA;006.888.393-55;27/08/2010;       Despesas com pessoal;R$ 100,00;Cheque; -  -  / 12111 - RAIMUNDO IVAN VASCONCELOS MOURA - CE - Deputado Estadual;
+LICIA MAXIMO DE OLIVEIRA;006.888.393-55;01/11/2010;       Despesas com pessoal;R$ 267,00;Cheque; -  -  / 12111 - RAIMUNDO IVAN VASCONCELOS MOURA - CE - Deputado Estadual;
+;;18/08/2010;       Encargos financeiros e taxas bancárias;R$ 18,00;Débito em conta; -  -  / 12111 - RAIMUNDO IVAN VASCONCELOS MOURA - CE - Deputado Estadual;

@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 ANTONIO FRANCISCO FELIX DE ANDRADE - DEP. ESTADUAL;12.176.453/0001-52;30/09/2010;23000371003;R$ 500,00;Estimado;JOSE ALBERTO LEMOS DUARTE;2300;Deputado Federal;PPS;PI;
-ELEIÇÃO 2010 SILVIO MENDES DE OLIVEIRA FILHO - GOVERNADOR;12.170.534/0001-45;30/09/2010;23000371002;R$ 5.489,36;Estimado;JOSE ALBERTO LEMOS DUARTE;2300;Deputado Federal;PPS;PI;
-JOSE ALBERTO LEMOS DUARTE;150.457.573-34;02/09/2010;23000371001;R$ 50,00;Depósito em espécie;JOSE ALBERTO LEMOS DUARTE;2300;Deputado Federal;PPS;PI;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 ANTONIO FRANCISCO FELIX DE ANDRADE - DEP. ESTADUAL;12.176.453/0001-52;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;23123 -  - PPS -  - Deputado Estadual / 2300 - JOSE ALBERTO LEMOS DUARTE - PI - Deputado Federal;
+ELEIÇÃO 2010 SILVIO MENDES DE OLIVEIRA FILHO - GOVERNADOR;12.170.534/0001-45;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 5.489,36;Estimado;45 -  - PSDB -  - Governador / 2300 - JOSE ALBERTO LEMOS DUARTE - PI - Deputado Federal;
+LUIZ ALBERTO DA ROCHA;130.645.333-04;01/10/2010;       Serviços prestados por terceiros;R$ 50,00;Cheque; -  -  / 2300 - JOSE ALBERTO LEMOS DUARTE - PI - Deputado Federal;

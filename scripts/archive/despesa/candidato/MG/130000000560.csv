@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.191.514/0001-50;05/09/2010;33000054725;R$ 27,96;Estimado;JOSE LUIZ DE ARAUJO MIRANDA;33540;Deputado Estadual;PMN;MG;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.191.514/0001-50;05/09/2010;33000054727;R$ 1.197,84;Estimado;JOSE LUIZ DE ARAUJO MIRANDA;33540;Deputado Estadual;PMN;MG;
-Diretório Nacional;12.191.496/0001-07;05/09/2010;33000054726;R$ 339,00;Estimado;JOSE LUIZ DE ARAUJO MIRANDA;33540;Deputado Estadual;PMN;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.191.514/0001-50;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 27,96;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual - PMN -  / 33540 - JOSE LUIZ DE ARAUJO MIRANDA - MG - Deputado Estadual;
+Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.191.514/0001-50;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.197,84;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual - PMN -  / 33540 - JOSE LUIZ DE ARAUJO MIRANDA - MG - Deputado Estadual;
+Diretório Nacional;12.191.496/0001-07;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 339,00;Estimado;Direção Nacional - PMN -  / 33540 - JOSE LUIZ DE ARAUJO MIRANDA - MG - Deputado Estadual;

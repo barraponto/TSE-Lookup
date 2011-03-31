@@ -1,4 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Senador da República;12.205.253/0001-80;06/09/2010;15000191852;R$ 25.000,00;Cheque;JOGELSON DOMARQUES PAES DE VERAS;15789;Deputado Estadual;PMDB;AL;
-Comitê Financeiro Estadual/Distrital para Senador da República;12.205.253/0001-80;02/08/2010;15000191851;R$ 25.000,00;Cheque;JOGELSON DOMARQUES PAES DE VERAS;15789;Deputado Estadual;PMDB;AL;
-EDLEUZA CANDIDO DOS SANTOS;163.633.884-49;28/09/2010;15000191853;R$ 900,00;Depósito em espécie;JOGELSON DOMARQUES PAES DE VERAS;15789;Deputado Estadual;PMDB;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALEXANDRE CANDIDO VALENÇA CESAR;001.050.814-77;22/09/2010;       Serviços prestados por terceiros;R$ 4.000,00;Cheque; -  -  / 15789 - JOGELSON DOMARQUES PAES DE VERAS - AL - Deputado Estadual;
+ARTECORES COMUNICAÇÃO VISUAL LTDA;02.796.182/0001-84;17/08/2010;       Publicidade por materiais impressos;R$ 270,00;Cheque; -  -  / 15789 - JOGELSON DOMARQUES PAES DE VERAS - AL - Deputado Estadual;
+EDNEIDE NASCIMENTO DOS SANTOS;958.252.404-97;28/09/2010;       Serviços prestados por terceiros;R$ 4.200,00;Cheque; -  -  / 15789 - JOGELSON DOMARQUES PAES DE VERAS - AL - Deputado Estadual;
+ILDEFONSO VALENÇA CESÁR;060.386.544-53;23/08/2010;       Cessão ou Locação de Veículos;R$ 3.510,00;Cheque; -  -  / 15789 - JOGELSON DOMARQUES PAES DE VERAS - AL - Deputado Estadual;
+JOSÉ JEFFERSON MARQUES DOS SANTOS - ME;06.274.810/0001-12;28/09/2010;       Publicidade por materiais impressos;R$ 3.220,00;Cheque; -  -  / 15789 - JOGELSON DOMARQUES PAES DE VERAS - AL - Deputado Estadual;
+JOSELSON DOMARQUES PAES DE VERAS JUNIOR;007.517.624-66;17/08/2010;       Cessão ou Locação de Veículos;R$ 4.000,00;Cheque; -  -  / 15789 - JOGELSON DOMARQUES PAES DE VERAS - AL - Deputado Estadual;
+JOYCE LIMA DE GÓES OLIVEIRA;046.052.824-67;05/09/2010;       Serviços prestados por terceiros;R$ 6.500,00;Cheque; -  -  / 15789 - JOGELSON DOMARQUES PAES DE VERAS - AL - Deputado Estadual;
+LAURINEIDE DE MÉLO;815.523.274-34;17/09/2010;       Serviços prestados por terceiros;R$ 4.000,00;Cheque; -  -  / 15789 - JOGELSON DOMARQUES PAES DE VERAS - AL - Deputado Estadual;
+MARIA APARECIDA ANGÉLO;252.171.138-12;28/09/2010;       Serviços prestados por terceiros;R$ 4.200,00;Cheque; -  -  / 15789 - JOGELSON DOMARQUES PAES DE VERAS - AL - Deputado Estadual;
+ORLANDO CEZAR DA ROCHA;939.161.084-68;31/08/2010;       Cessão ou Locação de Veículos;R$ 17.000,00;Cheque; -  -  / 15789 - JOGELSON DOMARQUES PAES DE VERAS - AL - Deputado Estadual;

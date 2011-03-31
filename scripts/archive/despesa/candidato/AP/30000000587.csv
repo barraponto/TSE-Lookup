@@ -1,6 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANDRE DOS SANTOS ABDON;316.019.282-20;03/08/2010;14000159101;R$ 1.000,00;Depósito em espécie;ANDRÉ DOS SANTOS ABDON;1477;Deputado Federal;PTB;AP;
-CELSO LIMA;766.946.408-97;25/08/2010;14000159105;R$ 2.000,00;Depósito em espécie;ANDRÉ DOS SANTOS ABDON;1477;Deputado Federal;PTB;AP;
-MR SAM;01.116.044/0001-44;23/08/2010;14000159102;R$ 1.000,00;Depósito em espécie;ANDRÉ DOS SANTOS ABDON;1477;Deputado Federal;PTB;AP;
-ROBERIO ABDON D'OLIVEIRA;267.143.452-91;25/08/2010;14000159104;R$ 1.000,00;Depósito em espécie;ANDRÉ DOS SANTOS ABDON;1477;Deputado Federal;PTB;AP;
-ULISSES CARVALHO D'OLIVEIRA;002.346.992-72;25/08/2010;14000159103;R$ 1.000,00;Depósito em espécie;ANDRÉ DOS SANTOS ABDON;1477;Deputado Federal;PTB;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GHAMMACHI & GHAMMACHI LTDA - EPP;01.147.901/0001-73;16/09/2010;       Publicidade por materiais impressos;R$ 2.270,00;Cheque; -  -  / 1477 - ANDRÉ DOS SANTOS ABDON - AP - Deputado Federal;
+GHAMMACHI & GHAMMACHI LTDA - EPP;01.147.901/0001-73;16/08/2010;       Publicidade por materiais impressos;R$ 462,00;Cheque; -  -  / 1477 - ANDRÉ DOS SANTOS ABDON - AP - Deputado Federal;
+GHAMMACHI & GHAMMACHI LTDA - EPP;01.147.901/0001-73;30/09/2010;       Publicidade por materiais impressos;R$ 1.050,00;Cheque; -  -  / 1477 - ANDRÉ DOS SANTOS ABDON - AP - Deputado Federal;
+R. C. VON SHARTEN - ME;07.093.512/0001-99;29/09/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 1477 - ANDRÉ DOS SANTOS ABDON - AP - Deputado Federal;
+R. C. VON SHARTEN - ME;07.093.512/0001-99;25/08/2010;       Publicidade por materiais impressos;R$ 1.100,00;Cheque; -  -  / 1477 - ANDRÉ DOS SANTOS ABDON - AP - Deputado Federal;
+1477 - ANDRE DOS SANTOS ABDON - DEPUTADO FEDERAL;12.175.166/0001-28;03/11/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 118,00;Cheque;Direção Estadual/Distrital - PTB - AP / 1477 - ANDRÉ DOS SANTOS ABDON - AP - Deputado Federal;

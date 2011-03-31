@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;04.160.131/0001-97;23/09/2010;15000179101;R$ 435,00;Cheque;ANTONIA ALMEIDA DE SOUZA;1511;Deputado Federal;PMDB;AM;
-Diretório Estadual/Distrital;04.160.131/0001-97;10/09/2010;15000179102;R$ 300,00;Estimado;ANTONIA ALMEIDA DE SOUZA;1511;Deputado Federal;PMDB;AM;
-ELEIÇÕES 2010 ANTONIA ALMEIDA DE SOUZA;135.476.902-34;20/10/2010;15000179103;R$ 2,95;Depósito em espécie;ANTONIA ALMEIDA DE SOUZA;1511;Deputado Federal;PMDB;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;04.160.131/0001-97;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Direção Estadual/Distrital - PMDB -  / 1511 - ANTONIA ALMEIDA DE SOUZA - AM - Deputado Federal;
+LUIZ CARLOS DE ALMEIDA GOES;03.079.926/0001-02;16/09/2010;       Publicidade por materiais impressos;R$ 435,00;Cheque; -  -  / 1511 - ANTONIA ALMEIDA DE SOUZA - AM - Deputado Federal;
+;;05/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,95;Débito em conta; -  -  / 1511 - ANTONIA ALMEIDA DE SOUZA - AM - Deputado Federal;

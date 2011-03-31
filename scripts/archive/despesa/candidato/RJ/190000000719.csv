@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.339.086/0001-60;29/09/2010;40001000102;R$ 392,15;Estimado;VALTAIR DOS SANTOS AMBROSIO;4003;Deputado Federal;PSB;RJ;
-DIVA LAUDELINO AMBROSIO;013.613.597-81;30/09/2010;40001000105;R$ 3.000,00;Depósito em espécie;VALTAIR DOS SANTOS AMBROSIO;4003;Deputado Federal;PSB;RJ;
-ROSANGELA DE OLIVEIRA ZEIDAN;12.181.410/0001-65;01/10/2010;40001000104;R$ 680,00;Estimado;VALTAIR DOS SANTOS AMBROSIO;4003;Deputado Federal;PSB;RJ;
-ROSANGELA DE OLIVEIRA ZEIDAN;12.181.410/0001-65;10/08/2010;40001000107;R$ 275,00;Estimado;VALTAIR DOS SANTOS AMBROSIO;4003;Deputado Federal;PSB;RJ;
-ROSANGELA DE OLIVEIRA ZEIDAN;12.181.410/0001-65;10/08/2010;40001000106;R$ 275,00;Estimado;VALTAIR DOS SANTOS AMBROSIO;4003;Deputado Federal;PSB;RJ;
-SERGIO CABRAL;12.181.923/0001-76;14/09/2010;40001000101;R$ 150,00;Estimado;VALTAIR DOS SANTOS AMBROSIO;4003;Deputado Federal;PSB;RJ;
-SERGIO CABRAL;12.181.923/0001-76;30/09/2010;40001000103;R$ 150,00;Estimado;VALTAIR DOS SANTOS AMBROSIO;4003;Deputado Federal;PSB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.339.086/0001-60;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 392,15;Estimado;Direção Estadual/Distrital - PSB -  / 4003 - VALTAIR DOS SANTOS AMBROSIO - RJ - Deputado Federal;
+JORGE LUIZ COSTA SILVA;892.050.657-49;01/10/2010;       Despesas com pessoal;R$ 3.000,00;Transferência eletrônica; -  -  / 4003 - VALTAIR DOS SANTOS AMBROSIO - RJ - Deputado Federal;
+ROSANGELA DE OLIVEIRA ZEIDAN;12.181.410/0001-65;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 275,00;Estimado;13103 -  - PT -  - Deputado Estadual / 4003 - VALTAIR DOS SANTOS AMBROSIO - RJ - Deputado Federal;
+ROSANGELA DE OLIVEIRA ZEIDAN;12.181.410/0001-65;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 275,00;Estimado;13103 -  - PT -  - Deputado Estadual / 4003 - VALTAIR DOS SANTOS AMBROSIO - RJ - Deputado Federal;
+ROSANGELA DE OLIVEIRA ZEIDAN;12.181.410/0001-65;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 680,00;Estimado;13103 -  - PT -  - Deputado Estadual / 4003 - VALTAIR DOS SANTOS AMBROSIO - RJ - Deputado Federal;
+SERGIO CABRAL;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;15 -  - PMDB -  - Governador / 4003 - VALTAIR DOS SANTOS AMBROSIO - RJ - Deputado Federal;
+SERGIO CABRAL;12.181.923/0001-76;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;15 -  - PMDB -  - Governador / 4003 - VALTAIR DOS SANTOS AMBROSIO - RJ - Deputado Federal;

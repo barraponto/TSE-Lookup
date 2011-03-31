@@ -1,5 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.217.601/0001-30;04/10/2010;44000060510;R$ 1.000,00;Cheque;EZEQUIEL DIAS CRUZ;44555;Deputado Distrital;PRP;DF;
-Comitê Financeiro Único;12.318.997/0001-01;07/10/2010;44000060507;R$ 2.900,00;Cheque;EZEQUIEL DIAS CRUZ;44555;Deputado Distrital;PRP;DF;
-JOSE MILSON DE FREITAS LIMA;334.077.541-91;01/08/2010;44000060501;R$ 1.580,00;Estimado;EZEQUIEL DIAS CRUZ;44555;Deputado Distrital;PRP;DF;
-QUALIGRAFF IMPRESSOS GRAFICOS E EDITORA LTDA ME;10.727.524/0001-32;27/08/2010;44000060505;R$ 3.000,00;Estimado;EZEQUIEL DIAS CRUZ;44555;Deputado Distrital;PRP;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARLISON DE LIMA LOPES;035.073.931-58;05/10/2010;       Despesas com pessoal;R$ 950,00;Cheque; -  -  / 44555 - EZEQUIEL DIAS CRUZ - DF - Deputado Distrital;
+IURI BEZERRA SOUZA;021.819.071-96;14/10/2010;       Despesas com pessoal;R$ 1.360,00;Cheque; -  -  / 44555 - EZEQUIEL DIAS CRUZ - DF - Deputado Distrital;
+JOSE MILSON DE FREITAS LIMA;334.077.541-91;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.580,00;Estimado; -  -  / 44555 - EZEQUIEL DIAS CRUZ - DF - Deputado Distrital;
+MARITANA MOREIRA BORGES;329.738.371-20;11/10/2010;       Despesas com pessoal;R$ 1.500,00;Cheque; -  -  / 44555 - EZEQUIEL DIAS CRUZ - DF - Deputado Distrital;
+POSTO CEILANDIA LTDA;00.342.436/0001-69;25/10/2010;       Combustíveis e lubrificantes;R$ 6,81;Transferência eletrônica; -  -  / 44555 - EZEQUIEL DIAS CRUZ - DF - Deputado Distrital;
+QUALIGRAFF IMPRESSOS GRAFICOS E EDITORA LTDA ME;10.727.524/0001-32;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.000,00;Estimado; -  -  / 44555 - EZEQUIEL DIAS CRUZ - DF - Deputado Distrital;
+;;04/10/2010;       Encargos financeiros e taxas bancárias;R$ 28,00;Débito em conta; -  -  / 44555 - EZEQUIEL DIAS CRUZ - DF - Deputado Distrital;
+;;06/10/2010;       Encargos financeiros e taxas bancárias;R$ 35,00;Débito em conta; -  -  / 44555 - EZEQUIEL DIAS CRUZ - DF - Deputado Distrital;
+;;06/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,19;Débito em conta; -  -  / 44555 - EZEQUIEL DIAS CRUZ - DF - Deputado Distrital;
+;;04/10/2010;       Encargos financeiros e taxas bancárias;R$ 20,00;Débito em conta; -  -  / 44555 - EZEQUIEL DIAS CRUZ - DF - Deputado Distrital;

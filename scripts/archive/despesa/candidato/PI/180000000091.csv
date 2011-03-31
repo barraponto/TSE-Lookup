@@ -1,7 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.206.659/0001-88;27/08/2010;36000067552;R$ 396,20;Estimado;PEDRO PAULO QUARESMA DE CARVALHO;36444;Deputado Estadual;PTC;PI;
-Comitê Financeiro Único;12.206.659/0001-88;22/07/2010;36000067551;R$ 396,20;Estimado;PEDRO PAULO QUARESMA DE CARVALHO;36444;Deputado Estadual;PTC;PI;
-Comitê Financeiro Único;12.206.659/0001-88;01/10/2010;36000067556;R$ 420,00;Estimado;PEDRO PAULO QUARESMA DE CARVALHO;36444;Deputado Estadual;PTC;PI;
-Comitê Financeiro Único;12.206.659/0001-88;08/09/2010;36000067553;R$ 1.038,60;Estimado;PEDRO PAULO QUARESMA DE CARVALHO;36444;Deputado Estadual;PTC;PI;
-Comitê Financeiro Único;12.206.659/0001-88;08/09/2010;36000067554;R$ 1.440,77;Estimado;PEDRO PAULO QUARESMA DE CARVALHO;36444;Deputado Estadual;PTC;PI;
-PEDRO PAULO QUARESMA DE CARVALHO;152.061.143-91;21/07/2010;36000067557;R$ 500,00;Depósito em espécie;PEDRO PAULO QUARESMA DE CARVALHO;36444;Deputado Estadual;PTC;PI;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.206.659/0001-88;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 420,00;Estimado;Comitê Financeiro Único - PTC -  / 36444 - PEDRO PAULO QUARESMA DE CARVALHO - PI - Deputado Estadual;
+Comitê Financeiro Único;12.206.659/0001-88;08/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.038,60;Estimado;Comitê Financeiro Único - PTC -  / 36444 - PEDRO PAULO QUARESMA DE CARVALHO - PI - Deputado Estadual;
+Comitê Financeiro Único;12.206.659/0001-88;22/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 396,20;Estimado;Comitê Financeiro Único - PTC -  / 36444 - PEDRO PAULO QUARESMA DE CARVALHO - PI - Deputado Estadual;
+Comitê Financeiro Único;12.206.659/0001-88;08/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.440,77;Estimado;Comitê Financeiro Único - PTC -  / 36444 - PEDRO PAULO QUARESMA DE CARVALHO - PI - Deputado Estadual;
+Comitê Financeiro Único;12.206.659/0001-88;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 396,20;Estimado;Comitê Financeiro Único - PTC -  / 36444 - PEDRO PAULO QUARESMA DE CARVALHO - PI - Deputado Estadual;
+ELIZIARIA LUZIA DE SOUSA MORAIS;10.217.049/0001-54;29/09/2010;       Publicidade por materiais impressos;R$ 450,00;Cheque; -  -  / 36444 - PEDRO PAULO QUARESMA DE CARVALHO - PI - Deputado Estadual;
+RAIMUNDO GOMES DOS SANTOS;520.340.203-59;01/10/2010;       Serviços prestados por terceiros;R$ 50,00;Cheque; -  -  / 36444 - PEDRO PAULO QUARESMA DE CARVALHO - PI - Deputado Estadual;

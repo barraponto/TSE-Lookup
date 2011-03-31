@@ -1,6 +1,6 @@
-Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
-Diretório Estadual/Distrital;02.560.819/0001-39;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.300,00;Estimado;Direção Estadual/Distrital - PHS -  / Comitê Financeiro Único - PHS - RN;
-Diretório Estadual/Distrital;02.560.819/0001-39;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 8.000,00;Estimado;Direção Estadual/Distrital - PHS -  / Comitê Financeiro Único - PHS - RN;
-FABIO BERCKMANS VERAS DANTAS;655.292.194-20;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / Comitê Financeiro Único - PHS - RN;
-RENATA COLOMBIERE MOSCA;897.839.214-87;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / Comitê Financeiro Único - PHS - RN;
-;;19/10/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Débito em conta; -  -  / Comitê Financeiro Único - PHS - RN;
+Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
+Diretório Estadual/Distrital;02.560.819/0001-39;30/09/2010;31000048534;R$ 8.000,00;Estimado;Comitê Financeiro Único;PHS;RN;
+Diretório Estadual/Distrital;02.560.819/0001-39;01/10/2010;31000048535;R$ 2.300,00;Estimado;Comitê Financeiro Único;PHS;RN;
+FABIO BERCKMANS VERAS DANTAS;655.292.194-20;03/09/2010;31000048532;R$ 1.000,00;Estimado;Comitê Financeiro Único;PHS;RN;
+MARCOS OTAVIANO JUNIOR;221.642.434-04;30/08/2010;31000048531;R$ 30,00;Depósito em espécie;Comitê Financeiro Único;PHS;RN;
+RENATA COLOMBIERE MOSCA;897.839.214-87;03/09/2010;31000048533;R$ 1.000,00;Estimado;Comitê Financeiro Único;PHS;RN;

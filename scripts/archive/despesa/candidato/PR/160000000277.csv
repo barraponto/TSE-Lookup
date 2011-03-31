@@ -1,5 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ARIZONE MENDES DE ARAUJO;12.167.531/0001-52;25/08/2010;43001769601;R$ 5.000,00;Cheque;KOSMOS PANAYOTIS NICOLAOU;43444;Deputado Estadual;PV;PR;
-KOSMOS PANAYOTIS NICOLAOU;183.136.630-49;15/10/2010;43001769605;R$ 1.830,00;Depósito em espécie;KOSMOS PANAYOTIS NICOLAOU;43444;Deputado Estadual;PV;PR;
-KOSMOS PANAYOTIS NICOLAOU;183.136.630-49;04/08/2010;43001769602;R$ 1.000,00;Depósito em espécie;KOSMOS PANAYOTIS NICOLAOU;43444;Deputado Estadual;PV;PR;
-KOSMOS PANAYOTIS NICOLAOU;183.136.630-49;01/10/2010;43001769630;R$ 1.000,00;Depósito em espécie;KOSMOS PANAYOTIS NICOLAOU;43444;Deputado Estadual;PV;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA CAPITAL LTDA;76.157.676/0001-55;29/10/2010;       Publicidade por materiais impressos;R$ 1.400,00;Cheque; -  -  / 43444 - KOSMOS PANAYOTIS NICOLAOU - PR - Deputado Estadual;
+GRAFICA CAPITAL LTDA;76.157.676/0001-55;13/08/2010;       Publicidade por materiais impressos;R$ 580,00;Cheque; -  -  / 43444 - KOSMOS PANAYOTIS NICOLAOU - PR - Deputado Estadual;
+GRAFICA CAPITAL LTDA;76.157.676/0001-55;18/10/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 43444 - KOSMOS PANAYOTIS NICOLAOU - PR - Deputado Estadual;
+GRAFICA E EDITORA KAYGANGUE LTDA;75.624.932/0001-04;04/08/2010;       Publicidade por materiais impressos;R$ 870,00;Cheque; -  -  / 43444 - KOSMOS PANAYOTIS NICOLAOU - PR - Deputado Estadual;
+JOAO DARCI WITEKI;689.956.449-15;29/10/2010;       Serviços prestados por terceiros;R$ 30,00;Cheque; -  -  / 43444 - KOSMOS PANAYOTIS NICOLAOU - PR - Deputado Estadual;
+NILO SEMLER & CIA LTDA;07.732.091/0001-07;26/08/2010;       Publicidade por materiais impressos;R$ 4.500,00;Cheque; -  -  / 43444 - KOSMOS PANAYOTIS NICOLAOU - PR - Deputado Estadual;
+STAHLSCHMIDT & DANGUI LTDA;03.233.824/0001-08;04/10/2010;       Materiais de expediente;R$ 1.050,00;Cheque; -  -  / 43444 - KOSMOS PANAYOTIS NICOLAOU - PR - Deputado Estadual;

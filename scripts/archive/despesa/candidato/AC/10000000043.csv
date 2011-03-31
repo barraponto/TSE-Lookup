@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Senador da República;12.147.828/0001-56;16/09/2010;40002310733;R$ 2.000,00;Depósito em espécie;LEVI MENEZES DE LIMA;40300;Deputado Estadual;PSB;AC;
-Comitê Financeiro Único;12.206.664/0001-90;29/09/2010;40002310736;R$ 560,00;Estimado;LEVI MENEZES DE LIMA;40300;Deputado Estadual;PSB;AC;
-Comitê Financeiro Único;12.206.664/0001-90;01/09/2010;40002310735;R$ 560,00;Estimado;LEVI MENEZES DE LIMA;40300;Deputado Estadual;PSB;AC;
-Comitê Financeiro Único;12.206.664/0001-90;26/08/2010;40002310732;R$ 1.000,00;Transferência eletrônica;LEVI MENEZES DE LIMA;40300;Deputado Estadual;PSB;AC;
-Comitê Financeiro Único;12.206.664/0001-90;23/09/2010;40002310734;R$ 657,72;Estimado;LEVI MENEZES DE LIMA;40300;Deputado Estadual;PSB;AC;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.206.664/0001-90;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 560,00;Estimado;Comitê Financeiro Único - PSB -  / 40300 - LEVI MENEZES DE LIMA - AC - Deputado Estadual;
+Comitê Financeiro Único;12.206.664/0001-90;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 560,00;Estimado;Comitê Financeiro Único - PSB -  / 40300 - LEVI MENEZES DE LIMA - AC - Deputado Estadual;
+Comitê Financeiro Único;12.206.664/0001-90;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 657,72;Estimado;Comitê Financeiro Único - PSB -  / 40300 - LEVI MENEZES DE LIMA - AC - Deputado Estadual;
+GRÁFICA E EDITORA BRITO;06.916.063/0001-79;24/09/2010;       Publicidade por materiais impressos;R$ 2.450,00;Cheque; -  -  / 40300 - LEVI MENEZES DE LIMA - AC - Deputado Estadual;
+GRÁFICA E EDITORA BRITO;06.916.063/0001-79;10/09/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 40300 - LEVI MENEZES DE LIMA - AC - Deputado Estadual;

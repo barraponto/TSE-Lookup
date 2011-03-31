@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-A. MARTINS PINHEIRO;04.081.465/0001-75;02/09/2010;12001024103;R$ 600,00;Estimado;MARCIA DE SOUZA RODRIGUES;12365;Deputado Estadual;PDT;MA;
-JACKSON KLEPER LAGO;12.167.170/0001-44;15/08/2010;12001024101;R$ 2.698,80;Estimado;MARCIA DE SOUZA RODRIGUES;12365;Deputado Estadual;PDT;MA;
-SANDRA MARIA DE MEDEIROS;391.297.303-25;20/09/2010;12001024104;R$ 350,00;Estimado;MARCIA DE SOUZA RODRIGUES;12365;Deputado Estadual;PDT;MA;
-SURAIA DE SOUZA RODRIGUES;128.620.452-68;27/08/2010;12001024102;R$ 300,00;Depósito em espécie;MARCIA DE SOUZA RODRIGUES;12365;Deputado Estadual;PDT;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+A. MARTINS PINHEIRO;04.081.465/0001-75;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado; -  -  / 12365 - MARCIA DE SOUZA RODRIGUES - MA - Deputado Estadual;
+GG INFORMATICA INPRESSAO DIGITAL LTDA;12.136.503/0001-78;31/08/2010;       Publicidade por materiais impressos;R$ 300,00;Não informado; -  -  / 12365 - MARCIA DE SOUZA RODRIGUES - MA - Deputado Estadual;
+JACKSON KLEPER LAGO;12.167.170/0001-44;15/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.698,80;Estimado;12 -  - PDT -  - Governador / 12365 - MARCIA DE SOUZA RODRIGUES - MA - Deputado Estadual;
+SANDRA MARIA DE MEDEIROS;391.297.303-25;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 350,00;Estimado; -  -  / 12365 - MARCIA DE SOUZA RODRIGUES - MA - Deputado Estadual;

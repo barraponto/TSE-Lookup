@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;09/08/2010;14000129581;R$ 150,00;Estimado;ANTONIO CASTANHEIRO DA PURIFICACAO;14412;Deputado Estadual;PTB;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;24/09/2010;14000129583;R$ 150,00;Estimado;ANTONIO CASTANHEIRO DA PURIFICACAO;14412;Deputado Estadual;PTB;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;29/09/2010;14000129584;R$ 300,00;Estimado;ANTONIO CASTANHEIRO DA PURIFICACAO;14412;Deputado Estadual;PTB;RJ;
-FERNANDO LEITE SIQUEIRA;12.170.357/0001-05;28/09/2010;14000129585;R$ 825,00;Estimado;ANTONIO CASTANHEIRO DA PURIFICACAO;14412;Deputado Estadual;PTB;RJ;
-FERNANDO LEITE SIQUEIRA;12.170.357/0001-05;28/09/2010;14000129586;R$ 825,00;Estimado;ANTONIO CASTANHEIRO DA PURIFICACAO;14412;Deputado Estadual;PTB;RJ;
-JORGE SAYED PICCIANI;12.176.626/0001-32;24/08/2010;14000129582;R$ 17,00;Estimado;ANTONIO CASTANHEIRO DA PURIFICACAO;14412;Deputado Estadual;PTB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 14412 - ANTONIO CASTANHEIRO DA PURIFICACAO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 14412 - ANTONIO CASTANHEIRO DA PURIFICACAO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;09/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 14412 - ANTONIO CASTANHEIRO DA PURIFICACAO - RJ - Deputado Estadual;
+FERNANDO LEITE SIQUEIRA;12.170.357/0001-05;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 825,00;Estimado;1221 -  - PDT -  - Deputado Federal / 14412 - ANTONIO CASTANHEIRO DA PURIFICACAO - RJ - Deputado Estadual;
+FERNANDO LEITE SIQUEIRA;12.170.357/0001-05;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 825,00;Estimado;1221 -  - PDT -  - Deputado Federal / 14412 - ANTONIO CASTANHEIRO DA PURIFICACAO - RJ - Deputado Estadual;
+JORGE SAYED PICCIANI;12.176.626/0001-32;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 14412 - ANTONIO CASTANHEIRO DA PURIFICACAO - RJ - Deputado Estadual;

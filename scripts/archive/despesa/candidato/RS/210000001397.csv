@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-YEDA RORATO CRUSIUS;12.172.247/0001-74;01/10/2010;45000098605;R$ 3.873,24;Estimado;MAURO DE SENA PEREIRA;4523;Deputado Federal;PSDB;RS;
-YEDA RORATO CRUSIUS;12.172.247/0001-74;30/08/2010;45000098606;R$ 963,50;Estimado;MAURO DE SENA PEREIRA;4523;Deputado Federal;PSDB;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+YEDA RORATO CRUSIUS;12.172.247/0001-74;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.873,24;Estimado;45 -  - PSDB -  - Governador / 4523 - MAURO DE SENA PEREIRA - RS - Deputado Federal;
+YEDA RORATO CRUSIUS;12.172.247/0001-74;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 963,50;Estimado;45 -  - PSDB -  - Governador / 4523 - MAURO DE SENA PEREIRA - RS - Deputado Federal;

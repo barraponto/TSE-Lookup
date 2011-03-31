@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;87.582.714/0001-33;14/07/2010;15000202281;R$ 180,74;Estimado;DAGMAR TERESINHA TODESCHINI;1507;Deputado Federal;PMDB;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;87.582.714/0001-33;14/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 180,74;Estimado;Direção Estadual/Distrital - PMDB -  / 1507 - DAGMAR TERESINHA TODESCHINI - RS - Deputado Federal;

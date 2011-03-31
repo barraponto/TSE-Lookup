@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 CESAR EPITACIO MAIA;12.176.116/0001-65;01/10/2010;25000169097;R$ 156,00;Estimado;IRMA ALVES LUIZ;25600;Deputado Estadual;DEM;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 CESAR EPITACIO MAIA;12.176.116/0001-65;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 156,00;Estimado;251 -  - DEM -  - Senador / 25600 - IRMA ALVES LUIZ - RJ - Deputado Estadual;

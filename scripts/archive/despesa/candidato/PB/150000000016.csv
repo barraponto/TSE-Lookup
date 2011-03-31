@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-GARNDEL MORAIS DE ANDRADE;007.716.184-09;09/08/2010;21000011373;R$ 152,00;Depósito em espécie;TARCIZIO MOREIRA;21456;Deputado Estadual;PCB;PB;
-JOSÉ FERNANDO COSTA CARVALHO;12.206.243/0001-60;19/08/2010;21000011375;R$ 433,80;Estimado;TARCIZIO MOREIRA;21456;Deputado Estadual;PCB;PB;
-VERÔNICA DIAS DE ARAÚJO;714.562.954-20;23/09/2010;21000011374;R$ 900,00;Depósito em espécie;TARCIZIO MOREIRA;21456;Deputado Estadual;PCB;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DIEGO COSTA SILVA (MULTIMÍDIA COM. VISUAL);09.368.621/0001-05;09/08/2010;       Publicidade por materiais impressos;R$ 150,00;Cheque; -  -  / 21456 - TARCIZIO MOREIRA - PB - Deputado Estadual;
+HELENA PEREIRA DE SOUSA;03.094.734/0001-75;24/09/2010;       Publicidade por materiais impressos;R$ 900,00;Cheque; -  -  / 21456 - TARCIZIO MOREIRA - PB - Deputado Estadual;
+JOSÉ FERNANDO COSTA CARVALHO;12.206.243/0001-60;19/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 433,80;Estimado;1551 -  - PMDB -  - Deputado Federal / 21456 - TARCIZIO MOREIRA - PB - Deputado Estadual;

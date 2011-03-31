@@ -1,3 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-TELMO SILVA MENDES;197.124.994-72;15/09/2010;43001843252;R$ 1.144,00;Depósito em espécie;TELMO SILVA MENDES;4300;Deputado Federal;PV;PE;
-TELMO SILVA MENDES;197.124.994-72;27/07/2010;43001843251;R$ 2.000,00;Transferência eletrônica;TELMO SILVA MENDES;4300;Deputado Federal;PV;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA PALMEIRAS LTDA - ME;01.222.778/0001-08;20/08/2010;       Publicidade por materiais impressos;R$ 360,00;Cheque; -  -  / 4300 - TELMO SILVA MENDES - PE - Deputado Federal;
+GRAFICA PALMEIRAS LTDA - ME;01.222.778/0001-08;04/08/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 4300 - TELMO SILVA MENDES - PE - Deputado Federal;
+GRAFICA PALMEIRAS LTDA - ME;01.222.778/0001-08;15/09/2010;       Publicidade por materiais impressos;R$ 750,00;Cheque; -  -  / 4300 - TELMO SILVA MENDES - PE - Deputado Federal;
+GRAFICA PALMEIRAS LTDA - ME;01.222.778/0001-08;27/07/2010;       Publicidade por materiais impressos;R$ 434,00;Cheque; -  -  / 4300 - TELMO SILVA MENDES - PE - Deputado Federal;
+GRAFICA PALMEIRAS LTDA - ME;01.222.778/0001-08;30/07/2010;       Publicidade por materiais impressos;R$ 750,00;Cheque; -  -  / 4300 - TELMO SILVA MENDES - PE - Deputado Federal;
+MULTGRAF COMERCIO E SERVIÇOS GRÁFICOS LTDA;07.282.190/0001-26;15/09/2010;       Publicidade por materiais impressos;R$ 450,00;Cheque; -  -  / 4300 - TELMO SILVA MENDES - PE - Deputado Federal;

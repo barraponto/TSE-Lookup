@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.570/0001-95;04/08/2010;20000073801;R$ 192,00;Estimado;REANO XAVIER SANTANA BOMFIM;20020;Deputado Estadual;PSC;BA;
-Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;20000073807;R$ 1.335,60;Estimado;REANO XAVIER SANTANA BOMFIM;20020;Deputado Estadual;PSC;BA;
-Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;20000073806;R$ 120,00;Estimado;REANO XAVIER SANTANA BOMFIM;20020;Deputado Estadual;PSC;BA;
-ERIVELTON LIMA SANTANA;12.173.661/0001-06;04/09/2010;20000073802;R$ 234,00;Estimado;REANO XAVIER SANTANA BOMFIM;20020;Deputado Estadual;PSC;BA;
-GEDDEL QUADROS VIEIRA LIMA;12.173.503/0001-48;30/09/2010;20000073803;R$ 204,00;Estimado;REANO XAVIER SANTANA BOMFIM;20020;Deputado Estadual;PSC;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.570/0001-95;04/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 192,00;Estimado;Comitê Financeiro Único - PMDB -  / 20020 - REANO XAVIER SANTANA BOMFIM - BA - Deputado Estadual;
+Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 120,00;Estimado;Comitê Financeiro Único - PMDB -  / 20020 - REANO XAVIER SANTANA BOMFIM - BA - Deputado Estadual;
+Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.335,60;Estimado;Comitê Financeiro Único - PMDB -  / 20020 - REANO XAVIER SANTANA BOMFIM - BA - Deputado Estadual;
+ERIVELTON LIMA SANTANA;12.173.661/0001-06;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 234,00;Estimado;2012 -  - PSC -  - Deputado Federal / 20020 - REANO XAVIER SANTANA BOMFIM - BA - Deputado Estadual;
+GEDDEL QUADROS VIEIRA LIMA;12.173.503/0001-48;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 204,00;Estimado;15 -  - PMDB -  - Governador / 20020 - REANO XAVIER SANTANA BOMFIM - BA - Deputado Estadual;

@@ -1,4 +1,13 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.529/0001-19;21/07/2010;22000032778;R$ 176,47;Estimado;MANOEL IVO SANTOS DE FIGUEIREDO;22567;Deputado Estadual;PR;AM;
-ELEIÇAO 2010 ALFREDO PEREIRA DO NASCIMENTO;12.169.771/0001-96;09/09/2010;22000032777;R$ 2.000,00;Cheque;MANOEL IVO SANTOS DE FIGUEIREDO;22567;Deputado Estadual;PR;AM;
-ELEIÇOES 2010 ALFREDO PEREIRA DO NASCIMENTO;12.169.771/0001-96;30/07/2010;22000032776;R$ 2.000,00;Cheque;MANOEL IVO SANTOS DE FIGUEIREDO;22567;Deputado Estadual;PR;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANA FRANCISCA APARICIO;444.221.482-49;04/08/2010;       Serviços prestados por terceiros;R$ 300,00;Cheque; -  -  / 22567 - MANOEL IVO SANTOS DE FIGUEIREDO - AM - Deputado Estadual;
+Comitê Financeiro Único;12.191.529/0001-19;21/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 176,47;Estimado;Comitê Financeiro Único - PR -  / 22567 - MANOEL IVO SANTOS DE FIGUEIREDO - AM - Deputado Estadual;
+DOUGLAS GOMES RIBEIRO;015.964.392-97;14/09/2010;       Serviços prestados por terceiros;R$ 250,00;Cheque; -  -  / 22567 - MANOEL IVO SANTOS DE FIGUEIREDO - AM - Deputado Estadual;
+EDVALDO DE CARVALHO A. RIBEIRO;569.505.352-87;04/08/2010;       Serviços prestados por terceiros;R$ 500,00;Cheque; -  -  / 22567 - MANOEL IVO SANTOS DE FIGUEIREDO - AM - Deputado Estadual;
+JOCILEIDE PACHECO DOS SANTOS;439.353.622-34;14/09/2010;       Serviços prestados por terceiros;R$ 500,00;Cheque; -  -  / 22567 - MANOEL IVO SANTOS DE FIGUEIREDO - AM - Deputado Estadual;
+LIRIAN PADRON MORAES;664.666.282-72;04/08/2010;       Serviços prestados por terceiros;R$ 300,00;Cheque; -  -  / 22567 - MANOEL IVO SANTOS DE FIGUEIREDO - AM - Deputado Estadual;
+MARIA AMELIA GOMES GRANADO;474.174.712-34;14/09/2010;       Serviços prestados por terceiros;R$ 250,00;Cheque; -  -  / 22567 - MANOEL IVO SANTOS DE FIGUEIREDO - AM - Deputado Estadual;
+MARIA NIZEANE DOS SANTOS;336.014.962-91;14/09/2010;       Serviços prestados por terceiros;R$ 500,00;Cheque; -  -  / 22567 - MANOEL IVO SANTOS DE FIGUEIREDO - AM - Deputado Estadual;
+NUBIA FERREIRA DIAS;813.788.582-04;14/09/2010;       Serviços prestados por terceiros;R$ 250,00;Cheque; -  -  / 22567 - MANOEL IVO SANTOS DE FIGUEIREDO - AM - Deputado Estadual;
+ORLANDO M. DA COSTA;638.983.652-04;04/08/2010;       Serviços prestados por terceiros;R$ 500,00;Cheque; -  -  / 22567 - MANOEL IVO SANTOS DE FIGUEIREDO - AM - Deputado Estadual;
+OSVANIO MERY TAVARES;482.343.542-72;04/08/2010;       Serviços prestados por terceiros;R$ 400,00;Cheque; -  -  / 22567 - MANOEL IVO SANTOS DE FIGUEIREDO - AM - Deputado Estadual;
+VANESSA BRILHANTE SILVA;006.732.162-33;14/09/2010;       Serviços prestados por terceiros;R$ 250,00;Cheque; -  -  / 22567 - MANOEL IVO SANTOS DE FIGUEIREDO - AM - Deputado Estadual;

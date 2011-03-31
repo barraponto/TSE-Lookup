@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADEMIR GALVÃO ANDRADE;12.189.621/0001-44;30/09/2010;40002343904;R$ 1.000,00;Estimado;MARIA DE FATIMA MARTINS SA;40555;Deputado Estadual;PSB;PA;
-ADEMIR GALVÃO ANDRADE;12.189.621/0001-44;05/09/2010;40002343901;R$ 395,00;Estimado;MARIA DE FATIMA MARTINS SA;40555;Deputado Estadual;PSB;PA;
-ADEMIR GALVÃO ANDRADE;12.189.621/0001-44;04/09/2010;40002343902;R$ 300,00;Estimado;MARIA DE FATIMA MARTINS SA;40555;Deputado Estadual;PSB;PA;
-ADEMIR GALVÃO ANDRADE;12.189.621/0001-44;04/09/2010;40002343903;R$ 425,00;Estimado;MARIA DE FATIMA MARTINS SA;40555;Deputado Estadual;PSB;PA;
-PAULO ROBERTO GALVÃO DA ROCHA;12.168.406/0001-67;23/09/2010;40002343906;R$ 260,00;Estimado;MARIA DE FATIMA MARTINS SA;40555;Deputado Estadual;PSB;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADEMIR GALVÃO ANDRADE;12.189.621/0001-44;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 395,00;Estimado;4040 -  - PSB -  - Deputado Federal / 40555 - MARIA DE FATIMA MARTINS SA - PA - Deputado Estadual;
+ADEMIR GALVÃO ANDRADE;12.189.621/0001-44;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;4040 -  - PSB -  - Deputado Federal / 40555 - MARIA DE FATIMA MARTINS SA - PA - Deputado Estadual;
+ADEMIR GALVÃO ANDRADE;12.189.621/0001-44;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;4040 -  - PSB -  - Deputado Federal / 40555 - MARIA DE FATIMA MARTINS SA - PA - Deputado Estadual;
+ADEMIR GALVÃO ANDRADE;12.189.621/0001-44;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 425,00;Estimado;4040 -  - PSB -  - Deputado Federal / 40555 - MARIA DE FATIMA MARTINS SA - PA - Deputado Estadual;
+PAULO ROBERTO GALVÃO DA ROCHA;12.168.406/0001-67;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 260,00;Estimado;131 -  - PT -  - Senador / 40555 - MARIA DE FATIMA MARTINS SA - PA - Deputado Estadual;

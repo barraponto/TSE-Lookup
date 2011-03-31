@@ -1,3 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-RAIMUNDO JOSÉ RODRIGUES SANTOS;014.119.342-53;30/09/2010;36000060852;R$ 130,00;Depósito em espécie;RAIMUNDO JOSÉ RODRIGUES SANTOS;36945;Deputado Estadual;PTC;MA;
-RAIMUNDO JOSÉ RODRIGUES SANTOS;014.119.342-53;04/08/2010;36000060851;R$ 5.000,00;Depósito em espécie;RAIMUNDO JOSÉ RODRIGUES SANTOS;36945;Deputado Estadual;PTC;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+H.M. BOGEA & CIA LTDA;01.153.837/0001-33;30/09/2010;       Publicidade por jornais e revistas;R$ 166,66;Cheque; -  -  / 36945 - RAIMUNDO JOSÉ RODRIGUES SANTOS - MA - Deputado Estadual;
+IZANILDA MENDES FRANÇA;922.992.533-00;13/09/2010;       Serviços prestados por terceiros;R$ 390,00;Cheque; -  -  / 36945 - RAIMUNDO JOSÉ RODRIGUES SANTOS - MA - Deputado Estadual;
+MARCELO ANTÔNIO REBELO JANSEN FERREIRA;736.849.103-68;03/09/2010;       Produção de jingles, vinhetas e slogans;R$ 800,00;Cheque; -  -  / 36945 - RAIMUNDO JOSÉ RODRIGUES SANTOS - MA - Deputado Estadual;
+PERFIL GRAF.;10.620.828/0001-04;10/08/2010;       Publicidade por materiais impressos;R$ 3.400,00;Cheque; -  -  / 36945 - RAIMUNDO JOSÉ RODRIGUES SANTOS - MA - Deputado Estadual;
+PORTFOLIO SERIGRAFIA LTDA;08.296.844/0001-33;06/08/2010;       Publicidade por materiais impressos;R$ 360,00;Cheque; -  -  / 36945 - RAIMUNDO JOSÉ RODRIGUES SANTOS - MA - Deputado Estadual;

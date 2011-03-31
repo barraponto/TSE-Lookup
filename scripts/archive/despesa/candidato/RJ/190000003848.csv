@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.154.856/0001-09;29/09/2010;50000391944;R$ 125,00;Estimado;RICARDO CESAR TEIXEIRA PESSANHA;50788;Deputado Estadual;PSOL;RJ;
-Comitê Financeiro Único;12.154.856/0001-09;18/08/2010;50000391943;R$ 125,43;Estimado;RICARDO CESAR TEIXEIRA PESSANHA;50788;Deputado Estadual;PSOL;RJ;
-MICHELLE TRINDADE DA SILVA;071.670.117-03;06/08/2010;50000391941;R$ 30,00;Estimado;RICARDO CESAR TEIXEIRA PESSANHA;50788;Deputado Estadual;PSOL;RJ;
-RICARDO CESAR TEIXEIRA PESSANHA;777.184.707-25;12/08/2010;50000391942;R$ 180,00;Depósito em espécie;RICARDO CESAR TEIXEIRA PESSANHA;50788;Deputado Estadual;PSOL;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANDERSON MAMEDE BRITO;051.837.527-70;10/08/2010;       Publicidade por materiais impressos;R$ 180,00;Cheque; -  -  / 50788 - RICARDO CESAR TEIXEIRA PESSANHA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.154.856/0001-09;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 125,43;Estimado;Comitê Financeiro Único - PSOL -  / 50788 - RICARDO CESAR TEIXEIRA PESSANHA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.154.856/0001-09;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 125,00;Estimado;Comitê Financeiro Único - PSOL -  / 50788 - RICARDO CESAR TEIXEIRA PESSANHA - RJ - Deputado Estadual;
+MICHELLE TRINDADE DA SILVA;071.670.117-03;06/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 30,00;Estimado; -  -  / 50788 - RICARDO CESAR TEIXEIRA PESSANHA - RJ - Deputado Estadual;

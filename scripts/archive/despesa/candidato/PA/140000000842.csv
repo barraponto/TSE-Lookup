@@ -1,2 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MARIA ROSA DOS SANTOS BORCEM;069.848.002-34;05/08/2010;14000211651;R$ 10.000,00;Depósito em espécie;MARIA ROSA DOS SANTOS BORCEM;14814;Deputado Estadual;PTB;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+É O BIXXO PRODUÇÕES E EVENTOS LIMITADA - MICROEMPRESA;05.120.702/0001-22;24/08/2010;       Publicidade por materiais impressos;R$ 1.014,00;Cheque; -  -  / 14814 - MARIA ROSA DOS SANTOS BORCEM - PA - Deputado Estadual;
+É O BIXXO PRODUÇÕES E EVENTOS LIMITADA - MICROEMPRESA;05.120.702/0001-22;16/08/2010;       Publicidade por materiais impressos;R$ 8.980,00;Cheque; -  -  / 14814 - MARIA ROSA DOS SANTOS BORCEM - PA - Deputado Estadual;
+;;17/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 14814 - MARIA ROSA DOS SANTOS BORCEM - PA - Deputado Estadual;
+;;09/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 14814 - MARIA ROSA DOS SANTOS BORCEM - PA - Deputado Estadual;

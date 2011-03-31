@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;32.080.483/0001-78;30/09/2010;45000439651;R$ 166,67;Estimado;MAURÍCIO DE MALDONADO WERNER FILHO;45145;Deputado Estadual;PSDB;RJ;
-Diretório Estadual/Distrital;32.080.483/0001-78;30/09/2010;45000439652;R$ 3.875,00;Estimado;MAURÍCIO DE MALDONADO WERNER FILHO;45145;Deputado Estadual;PSDB;RJ;
-MAURICIO DE  MALDONADO WERNER FILHO;037.652.217-83;22/10/2010;45000439653;R$ 19,50;Depósito em espécie;MAURÍCIO DE MALDONADO WERNER FILHO;45145;Deputado Estadual;PSDB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;32.080.483/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.875,00;Estimado;Direção Estadual/Distrital - PSDB -  / 45145 - MAURÍCIO DE MALDONADO WERNER FILHO - RJ - Deputado Estadual;
+Diretório Estadual/Distrital;32.080.483/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 166,67;Estimado;Direção Estadual/Distrital - PSDB -  / 45145 - MAURÍCIO DE MALDONADO WERNER FILHO - RJ - Deputado Estadual;
+;;22/10/2010;       Encargos financeiros e taxas bancárias;R$ 19,50;Débito em conta; -  -  / 45145 - MAURÍCIO DE MALDONADO WERNER FILHO - RJ - Deputado Estadual;

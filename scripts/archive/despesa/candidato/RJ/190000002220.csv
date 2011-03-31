@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CLAUDIO LUIZ F DA COSTA;013.307.617-23;09/09/2010;70000151151;R$ 420,00;Estimado;EVANILDO VALENTIM DOS SANTOS;7018;Deputado Federal;PT do B;RJ;
-CRISTINA SILVA BUENO;741.646.437-49;27/09/2010;70000151154;R$ 250,00;Estimado;EVANILDO VALENTIM DOS SANTOS;7018;Deputado Federal;PT do B;RJ;
-DIEGO RODRIGUES FERREIRA;091.962.387-55;09/09/2010;70000151152;R$ 530,00;Estimado;EVANILDO VALENTIM DOS SANTOS;7018;Deputado Federal;PT do B;RJ;
-ERIDELSON VALENTIM DOS SANTOS;080.701.587-35;10/09/2010;70000151153;R$ 220,00;Estimado;EVANILDO VALENTIM DOS SANTOS;7018;Deputado Federal;PT do B;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CLAUDIO LUIZ F DA COSTA;013.307.617-23;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 420,00;Estimado; -  -  / 7018 - EVANILDO VALENTIM DOS SANTOS - RJ - Deputado Federal;
+CRISTINA SILVA BUENO;741.646.437-49;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado; -  -  / 7018 - EVANILDO VALENTIM DOS SANTOS - RJ - Deputado Federal;
+DIEGO RODRIGUES FERREIRA;091.962.387-55;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 530,00;Estimado; -  -  / 7018 - EVANILDO VALENTIM DOS SANTOS - RJ - Deputado Federal;
+ERIDELSON VALENTIM DOS SANTOS;080.701.587-35;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 220,00;Estimado; -  -  / 7018 - EVANILDO VALENTIM DOS SANTOS - RJ - Deputado Federal;

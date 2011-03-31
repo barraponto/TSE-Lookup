@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.229.903/0001-28;29/09/2010;50000245603;R$ 300,00;Estimado;GEORGE MAIA MISTRAL;5007;Deputado Federal;PSOL;MS;
-Comitê Financeiro Único;12.229.903/0001-28;29/09/2010;50000245605;R$ 1.000,00;Estimado;GEORGE MAIA MISTRAL;5007;Deputado Federal;PSOL;MS;
-Comitê Financeiro Único;12.229.903/0001-28;29/09/2010;50000245604;R$ 300,00;Estimado;GEORGE MAIA MISTRAL;5007;Deputado Federal;PSOL;MS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.229.903/0001-28;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PSOL -  / 5007 - GEORGE MAIA MISTRAL - MS - Deputado Federal;
+Comitê Financeiro Único;12.229.903/0001-28;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;Comitê Financeiro Único - PSOL -  / 5007 - GEORGE MAIA MISTRAL - MS - Deputado Federal;
+Comitê Financeiro Único;12.229.903/0001-28;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PSOL -  / 5007 - GEORGE MAIA MISTRAL - MS - Deputado Federal;

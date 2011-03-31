@@ -1,2 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ONOFRE REIS SOARES;639.175.996-00;23/08/2010;36000012101;R$ 600,00;Transferência eletrônica;ONOFRE REIS SOARES;3619;Deputado Federal;PTC;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BOA ESPERANÇA PETROLEO LTDA;21.648.654/0001-04;27/08/2010;       Combustíveis e lubrificantes;R$ 110,99;Cheque; -  -  / 3619 - ONOFRE REIS SOARES - MG - Deputado Federal;
+BOA ESPERANÇA PETROLEO LTDA;21.648.654/0001-04;02/10/2010;       Combustíveis e lubrificantes;R$ 28,00;Cheque; -  -  / 3619 - ONOFRE REIS SOARES - MG - Deputado Federal;
+BOA ESPERANÇA PETROLEO LTDA;21.648.654/0001-04;25/09/2010;       Combustíveis e lubrificantes;R$ 92,70;Cheque; -  -  / 3619 - ONOFRE REIS SOARES - MG - Deputado Federal;
+BOA ESPERANÇA PETROLEO LTDA;21.648.654/0001-04;22/09/2010;       Combustíveis e lubrificantes;R$ 67,42;Cheque; -  -  / 3619 - ONOFRE REIS SOARES - MG - Deputado Federal;
+GRAFICA MINAS LTDA;05.486.624/0001-84;26/08/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 3619 - ONOFRE REIS SOARES - MG - Deputado Federal;

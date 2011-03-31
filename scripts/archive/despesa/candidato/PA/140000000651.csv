@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DELEGADO MORAES;057.726.052-91;01/09/2010;13000770442;R$ 1.500,00;Depósito em espécie;JOAO NAZARENO NASCIMENTO MORAES;13190;Deputado Estadual;PT;PA;
-DELEGADO MORAES;057.726.052-91;27/07/2010;13000770441;R$ 2.000,00;Depósito em espécie;JOAO NAZARENO NASCIMENTO MORAES;13190;Deputado Estadual;PT;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+MIDIADESIGN SERVIÇOS GRAFICOS LTDA ME;08.635.738/0001-37;03/09/2010;       Publicidade por materiais impressos;R$ 1.500,00;Cheque; -  -  / 13190 - JOAO NAZARENO NASCIMENTO MORAES - PA - Deputado Estadual;
+MIDIADESIGN SERVIÇOS GRAFICOS LTDA ME;08.635.738/0001-37;09/08/2010;       Diversas a especificar;R$ 1.250,00;Cheque; -  -  / 13190 - JOAO NAZARENO NASCIMENTO MORAES - PA - Deputado Estadual;
+WANDERLAN MANOEL DA SILVA SOUZA;159.131.202-72;12/08/2010;       Diversas a especificar;R$ 700,00;Cheque; -  -  / 13190 - JOAO NAZARENO NASCIMENTO MORAES - PA - Deputado Estadual;

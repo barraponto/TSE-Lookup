@@ -1,6 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-BENJAMIM SANTOS LORDELLO;083.745.975-34;23/08/2010;13000607703;R$ 2.500,00;Depósito em espécie;VERONICA MAUADIE DE ALMEIDA;1323;Deputado Federal;PT;BA;
-ELEICAO 2010 VERONICA MAUADIE DE ALMEIDA DEPUTADO FEDERAL;859.884.565-53;16/08/2010;13000607701;R$ 100,00;Depósito em espécie;VERONICA MAUADIE DE ALMEIDA;1323;Deputado Federal;PT;BA;
-LUIS CARLOS M. MOTA;396.574.775-49;23/08/2010;13000607704;R$ 2.500,00;Depósito em espécie;VERONICA MAUADIE DE ALMEIDA;1323;Deputado Federal;PT;BA;
-MARCELO RAIMUNDO ASSIS DE ALMEIDA;524.948.705-00;05/08/2010;13000607702;R$ 3.000,00;Depósito em espécie;VERONICA MAUADIE DE ALMEIDA;1323;Deputado Federal;PT;BA;
-MARCELO RAIMUNDO ASSIS DE ALMEIDA;524.948.705-00;14/09/2010;13000607705;R$ 300,00;Depósito em espécie;VERONICA MAUADIE DE ALMEIDA;1323;Deputado Federal;PT;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+G. S. ELETRONICA LTDA-ME;03.299.653/0001-01;04/08/2010;       Publicidade por carros de som;R$ 2.680,00;Cheque; -  -  / 1323 - VERONICA MAUADIE DE ALMEIDA - BA - Deputado Federal;
+PSIU SERVICOS IMPRESSOS LTDA ME;11.122.126/0001-55;11/09/2010;       Publicidade por materiais impressos;R$ 280,00;Cheque; -  -  / 1323 - VERONICA MAUADIE DE ALMEIDA - BA - Deputado Federal;
+PSIU SERVICOS IMPRESSOS LTDA ME;11.122.126/0001-55;22/09/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 1323 - VERONICA MAUADIE DE ALMEIDA - BA - Deputado Federal;
+PSIU SERVICOS IMPRESSOS LTDA ME;11.122.126/0001-55;08/09/2010;       Publicidade por materiais impressos;R$ 260,00;Cheque; -  -  / 1323 - VERONICA MAUADIE DE ALMEIDA - BA - Deputado Federal;
+PSIU SERVICOS IMPRESSOS LTDA ME;11.122.126/0001-55;23/08/2010;       Publicidade por materiais impressos;R$ 3.165,00;Cheque; -  -  / 1323 - VERONICA MAUADIE DE ALMEIDA - BA - Deputado Federal;
+STAMP NET COMERCIO E SERVICOS LTDA;07.390.845/0001-80;27/09/2010;       Publicidade por materiais impressos;R$ 1.815,00;Cheque; -  -  / 1323 - VERONICA MAUADIE DE ALMEIDA - BA - Deputado Federal;

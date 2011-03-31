@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-NEWTON DE MELO PEREIRA;516.621.751-91;03/09/2010;50000139631;R$ 400,00;Estimado;MARIA DO ROSÁRIO LOPES MELO;50012;Deputado Distrital;PSOL;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+NEWTON DE MELO PEREIRA;516.621.751-91;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado; -  -  / 50012 - MARIA DO ROSÁRIO LOPES MELO - DF - Deputado Distrital;

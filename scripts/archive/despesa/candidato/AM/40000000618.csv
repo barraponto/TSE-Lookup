@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;04.160.131/0001-97;10/09/2010;15000179181;R$ 300,00;Estimado;LILIANE NASCIMENTO COSTA;1588;Deputado Federal;PMDB;AM;
-Diretório Estadual/Distrital;04.160.131/0001-97;23/09/2010;15000179182;R$ 435,00;Cheque;LILIANE NASCIMENTO COSTA;1588;Deputado Federal;PMDB;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;04.160.131/0001-97;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Direção Estadual/Distrital - PMDB -  / 1588 - LILIANE NASCIMENTO COSTA - AM - Deputado Federal;
+LC COMERCIO E SERVIÇO;03.079.926/0001-02;16/09/2010;       Publicidade por materiais impressos;R$ 435,00;Cheque; -  -  / 1588 - LILIANE NASCIMENTO COSTA - AM - Deputado Federal;

@@ -1,9 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOÃO BATISTA DE JESUS;450.976.667-04;13/09/2010;45000296055;R$ 1.500,00;Depósito em espécie;JOAO BATISTA DE JESUS;45650;Deputado Estadual;PSDB;ES;
-JOÃO BATISTA DE JESUS;450.976.667-04;08/10/2010;45000296059;R$ 500,00;Depósito em espécie;JOAO BATISTA DE JESUS;45650;Deputado Estadual;PSDB;ES;
-JOÃO BATISTA DE JESUS;450.976.667-04;27/10/2010;45000296062;R$ 200,00;Depósito em espécie;JOAO BATISTA DE JESUS;45650;Deputado Estadual;PSDB;ES;
-LUIZ PAULO VELLOZO LUCAS;12.179.441/0001-81;01/10/2010;45000296057;R$ 2.600,00;Estimado;JOAO BATISTA DE JESUS;45650;Deputado Estadual;PSDB;ES;
-MAX FREITAS MAURO FILHO;12.191.457/0001-00;08/10/2010;45000296061;R$ 60,00;Estimado;JOAO BATISTA DE JESUS;45650;Deputado Estadual;PSDB;ES;
-MAX FREITAS MAURO FILHO;12.191.457/0001-00;08/10/2010;45000296060;R$ 225,00;Estimado;JOAO BATISTA DE JESUS;45650;Deputado Estadual;PSDB;ES;
-ORANI BARBOSA;031.034.317-83;02/10/2010;45000296056;R$ 1.040,00;Estimado;JOAO BATISTA DE JESUS;45650;Deputado Estadual;PSDB;ES;
-POSTO DE GASOLINA MAIS LTDA ME;03.795.295/0001-28;02/10/2010;45000296058;R$ 1.000,00;Estimado;JOAO BATISTA DE JESUS;45650;Deputado Estadual;PSDB;ES;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA VIGILANTE LTDA ME;06.075.472/0001-90;02/10/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 45650 - JOAO BATISTA DE JESUS - ES - Deputado Estadual;
+JOÃO BATISTA DA SILVA;017.349.377-77;15/09/2010;       Cessão ou Locação de Veículos;R$ 1.500,00;Cheque; -  -  / 45650 - JOAO BATISTA DE JESUS - ES - Deputado Estadual;
+LUIZ PAULO VELLOZO LUCAS;12.179.441/0001-81;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.600,00;Estimado;45 -  - PSDB -  - Governador / 45650 - JOAO BATISTA DE JESUS - ES - Deputado Estadual;
+MARCELO FONSECA DE SOUZA;075.832.627-04;02/10/2010;       Serviços prestados por terceiros;R$ 200,00;Cheque; -  -  / 45650 - JOAO BATISTA DE JESUS - ES - Deputado Estadual;
+MAX FREITAS MAURO FILHO;12.191.457/0001-00;08/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 60,00;Estimado;1400 -  - PTB -  - Deputado Federal / 45650 - JOAO BATISTA DE JESUS - ES - Deputado Estadual;
+MAX FREITAS MAURO FILHO;12.191.457/0001-00;08/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 225,00;Estimado;1400 -  - PTB -  - Deputado Federal / 45650 - JOAO BATISTA DE JESUS - ES - Deputado Estadual;
+ORANI BARBOSA;031.034.317-83;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.040,00;Estimado; -  -  / 45650 - JOAO BATISTA DE JESUS - ES - Deputado Estadual;
+POSTO DE GASOLINA MAIS LTDA ME;03.795.295/0001-28;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 45650 - JOAO BATISTA DE JESUS - ES - Deputado Estadual;

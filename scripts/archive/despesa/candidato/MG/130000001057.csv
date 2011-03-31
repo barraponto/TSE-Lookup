@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.154.851/0001-78;15/09/2010;28000602401;R$ 1.180,00;Estimado;GLAYSON MATIAS BARBOSA;2810;Deputado Federal;PRTB;MG;
-Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;28000602404;R$ 300,00;Estimado;GLAYSON MATIAS BARBOSA;2810;Deputado Federal;PRTB;MG;
-Comitê Financeiro Único;12.154.851/0001-78;20/09/2010;28000602403;R$ 177,00;Estimado;GLAYSON MATIAS BARBOSA;2810;Deputado Federal;PRTB;MG;
-Comitê Financeiro Único;12.154.851/0001-78;15/09/2010;28000602402;R$ 90,00;Estimado;GLAYSON MATIAS BARBOSA;2810;Deputado Federal;PRTB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.154.851/0001-78;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 177,00;Estimado;Comitê Financeiro Único - PT do B -  / 2810 - GLAYSON MATIAS BARBOSA - MG - Deputado Federal;
+Comitê Financeiro Único;12.154.851/0001-78;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 90,00;Estimado;Comitê Financeiro Único - PT do B -  / 2810 - GLAYSON MATIAS BARBOSA - MG - Deputado Federal;
+Comitê Financeiro Único;12.154.851/0001-78;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.180,00;Estimado;Comitê Financeiro Único - PT do B -  / 2810 - GLAYSON MATIAS BARBOSA - MG - Deputado Federal;
+Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PT do B -  / 2810 - GLAYSON MATIAS BARBOSA - MG - Deputado Federal;

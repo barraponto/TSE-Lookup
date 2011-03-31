@@ -1,2 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FLAVIO GUEDES DE MEDEIROS;336.723.937-20;17/08/2010;22000163901;R$ 7.000,00;Transferência eletrônica;FLAVIO GUEDES DE MEDEIROS;2217;Deputado Federal;PR;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELLE RODRIGUES COMERCIO E SERVICOS LTDA - ME;10.840.628/0001-59;06/09/2010;       Publicidade por materiais impressos;R$ 1.400,00;Cheque; -  -  / 2217 - FLAVIO GUEDES DE MEDEIROS - RJ - Deputado Federal;
+GILSON DE SOUZA E SILVA;037.919.187-37;28/08/2010;       Despesas com transporte ou deslocamento;R$ 220,00;Cheque; -  -  / 2217 - FLAVIO GUEDES DE MEDEIROS - RJ - Deputado Federal;
+RICARDO GARCEZ TEIXEIRA INFORMÁTICA;10.277.193/0001-86;30/09/2010;       Eventos de promoção da candidatura;R$ 1.380,00;Cheque; -  -  / 2217 - FLAVIO GUEDES DE MEDEIROS - RJ - Deputado Federal;
+STUDIO GRAFICO GOOL DE PLACA LTDA;04.267.598/0001-30;20/08/2010;       Publicidade por materiais impressos;R$ 4.000,00;Cheque; -  -  / 2217 - FLAVIO GUEDES DE MEDEIROS - RJ - Deputado Federal;

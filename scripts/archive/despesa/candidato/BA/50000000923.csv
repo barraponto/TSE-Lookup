@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALMIRO AURORA DA SILVA;004.524.947-45;17/08/2010;70000135001;R$ 5.000,00;Depósito em espécie;ALMIRO AURORA DA SILVA;7014;Deputado Federal;PT do B;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+VALMIR DE OLIVEIRA FERREIRA;691.999.574-34;10/08/2010;       Publicidade por carros de som;R$ 5.000,00;Cheque; -  -  / 7014 - ALMIRO AURORA DA SILVA - BA - Deputado Federal;

@@ -1,3 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;01.770.770/0001-86;01/10/2010;31000001902;R$ 3.000,00;Cheque;ARNALDO PAULINO DE MELO;31312;Deputado Distrital;PHS;DF;
-Diretório Estadual/Distrital;01.770.770/0001-86;28/09/2010;31000001901;R$ 3.200,00;Cheque;ARNALDO PAULINO DE MELO;31312;Deputado Distrital;PHS;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AGEU DA CRUZ SOUSA;798.881.191-68;01/10/2010;       Despesas com pessoal;R$ 1.000,00;Transferência eletrônica; -  -  / 31312 - ARNALDO PAULINO DE MELO - DF - Deputado Distrital;
+CILENE LOPES DE MOURA;700.541.261-34;20/10/2010;       Despesas com pessoal;R$ 1.500,00;Transferência eletrônica; -  -  / 31312 - ARNALDO PAULINO DE MELO - DF - Deputado Distrital;
+DALVA  MARIA COSTA BERNARDES;599.059.211-68;01/10/2010;       Despesas com pessoal;R$ 1.200,00;Transferência eletrônica; -  -  / 31312 - ARNALDO PAULINO DE MELO - DF - Deputado Distrital;
+ERINEUDA DE SOUSA PEREIRA;018.887.961-70;20/10/2010;       Despesas com pessoal;R$ 500,00;Transferência eletrônica; -  -  / 31312 - ARNALDO PAULINO DE MELO - DF - Deputado Distrital;
+JOANA PEREIRA DA SILVA;694.847.831-04;01/10/2010;       Despesas com pessoal;R$ 1.000,00;Transferência eletrônica; -  -  / 31312 - ARNALDO PAULINO DE MELO - DF - Deputado Distrital;
+NATANAEL OLIVEIRA SILVA;863.976.561-87;20/10/2010;       Despesas com pessoal;R$ 1.000,00;Transferência eletrônica; -  -  / 31312 - ARNALDO PAULINO DE MELO - DF - Deputado Distrital;

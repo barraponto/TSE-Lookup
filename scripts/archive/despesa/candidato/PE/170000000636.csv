@@ -1,4 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELINA LOPES CARNEIRO;12.206.514/0001-87;08/09/2010;28000816402;R$ 4.000,00;Cheque;SHIRLEY CARVALHAES DE CAMARGO;2877;Deputado Federal;PRTB;PE;
-ELINA LOPES CARNEIRO;12.206.514/0001-87;22/09/2010;28000816404;R$ 10.000,00;Cheque;SHIRLEY CARVALHAES DE CAMARGO;2877;Deputado Federal;PRTB;PE;
-SINEIDE PEREIRA DA COSTA;255.739.694-04;15/09/2010;28000816403;R$ 1.150,00;Depósito em espécie;SHIRLEY CARVALHAES DE CAMARGO;2877;Deputado Federal;PRTB;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BARTOLOMEU JERONIMO ALVES;090.221.634-15;24/09/2010;       Serviços prestados por terceiros;R$ 1.000,00;Cheque; -  -  / 2877 - SHIRLEY CARVALHAES DE CAMARGO - PE - Deputado Federal;
+EGIDIO AUGUSTO DA SILVA;400.692.224-87;23/09/2010;       Diversas a especificar;R$ 1.000,00;Cheque; -  -  / 2877 - SHIRLEY CARVALHAES DE CAMARGO - PE - Deputado Federal;
+GEORGE DE SOUZA ARAUJO JUNIOR;031.736.654-81;14/09/2010;       Diversas a especificar;R$ 1.150,00;Cheque; -  -  / 2877 - SHIRLEY CARVALHAES DE CAMARGO - PE - Deputado Federal;
+IVAN JOSÉ DO NASCIMENTO;463.747.364-00;24/09/2010;       Diversas a especificar;R$ 4.000,00;Cheque; -  -  / 2877 - SHIRLEY CARVALHAES DE CAMARGO - PE - Deputado Federal;
+KM LOCADORA E SEERVIÇOS AUTOMOTORES LTDA;09.096.693/0001-32;09/09/2010;       Cessão ou Locação de Veículos;R$ 1.450,00;Cheque; -  -  / 2877 - SHIRLEY CARVALHAES DE CAMARGO - PE - Deputado Federal;
+LERICLY FELIX DA SILVA;908.276.604-30;30/09/2010;       Serviços prestados por terceiros;R$ 1.000,00;Cheque; -  -  / 2877 - SHIRLEY CARVALHAES DE CAMARGO - PE - Deputado Federal;
+LUCAS RANGEL WANDERLEY XISTO;020.608.714-41;08/09/2010;       Publicidade por carros de som;R$ 2.500,00;Cheque; -  -  / 2877 - SHIRLEY CARVALHAES DE CAMARGO - PE - Deputado Federal;
+MARIO BRASILIANO DO NASCIMENTO;034.564.484-06;30/09/2010;       Serviços prestados por terceiros;R$ 2.000,00;Cheque; -  -  / 2877 - SHIRLEY CARVALHAES DE CAMARGO - PE - Deputado Federal;
+SEVERINO J.RODRIGUES JUNIOR;104.589.537-76;30/09/2010;       Serviços prestados por terceiros;R$ 1.000,00;Cheque; -  -  / 2877 - SHIRLEY CARVALHAES DE CAMARGO - PE - Deputado Federal;
+TACIANO AUGUSTO BRAYNER;039.077.724-23;01/11/2010;       Diversas a especificar;R$ 50,00;Cheque; -  -  / 2877 - SHIRLEY CARVALHAES DE CAMARGO - PE - Deputado Federal;

@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.205.318/0001-98;03/10/2010;13000686321;R$ 600,00;Estimado;SEBASTIÃO DE ASSIS AVELLAR PIERMATTEI;13023;Deputado Estadual;PT;MG;
-HELIO CALIXTO DA COSTA;12.189.609/0001-30;07/08/2010;13000686301;R$ 300,00;Estimado;SEBASTIÃO DE ASSIS AVELLAR PIERMATTEI;13023;Deputado Estadual;PT;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.205.318/0001-98;03/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual - PT -  / 13023 - SEBASTIÃO DE ASSIS AVELLAR PIERMATTEI - MG - Deputado Estadual;
+HELIO CALIXTO DA COSTA;12.189.609/0001-30;07/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;15 -  - PMDB -  - Governador / 13023 - SEBASTIÃO DE ASSIS AVELLAR PIERMATTEI - MG - Deputado Estadual;

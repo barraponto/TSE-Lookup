@@ -1,8 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO BATISTA FILHO;210.456.663-00;28/10/2010;27000033573;R$ 10.979,98;Depósito em espécie;EDUARDO FLORENTINO RIBEIRO;27345;Deputado Estadual;PSDC;CE;
-EDUARDO FLORENTINO RIBEIRO;054.414.983-15;08/09/2010;27000033571;R$ 6.000,00;Depósito em espécie;EDUARDO FLORENTINO RIBEIRO;27345;Deputado Estadual;PSDC;CE;
-EDUARDO FLORENTINO RIBEIRO;054.414.983-15;23/08/2010;27000033569;R$ 3.000,00;Depósito em espécie;EDUARDO FLORENTINO RIBEIRO;27345;Deputado Estadual;PSDC;CE;
-FRANCISCO AILTON S SOUSA;210.783.273-00;13/09/2010;27000033570;R$ 4.000,00;Depósito em espécie;EDUARDO FLORENTINO RIBEIRO;27345;Deputado Estadual;PSDC;CE;
-FRANCISCO SILVA DE FREITAS;381.362.873-68;19/08/2010;27000033568;R$ 2.000,00;Depósito em espécie;EDUARDO FLORENTINO RIBEIRO;27345;Deputado Estadual;PSDC;CE;
-MARILIA O. RIBEIRO AQUINO;958.258.353-34;28/09/2010;27000033572;R$ 2.000,00;Depósito em espécie;EDUARDO FLORENTINO RIBEIRO;27345;Deputado Estadual;PSDC;CE;
-PAULO CESAR MOREIRA FRANCO;321.456.913-91;17/08/2010;27000033567;R$ 2.000,00;Depósito em espécie;EDUARDO FLORENTINO RIBEIRO;27345;Deputado Estadual;PSDC;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+C M DE MELO SILVA - ME;04.228.179/0001-90;09/09/2010;       Eventos de promoção da candidatura;R$ 4.000,00;Cheque; -  -  / 27345 - EDUARDO FLORENTINO RIBEIRO - CE - Deputado Estadual;
+GRAFICA E EDITORA REGADAS LTDA;06.796.973/0001-65;28/09/2010;       Publicidade por materiais impressos;R$ 2.000,00;Cheque; -  -  / 27345 - EDUARDO FLORENTINO RIBEIRO - CE - Deputado Estadual;
+HOLANDA & HOLANDA LTDA SÃO LUIZ;06.881.767/0001-53;25/09/2010;       Despesas com transporte ou deslocamento;R$ 1.800,00;Cheque; -  -  / 27345 - EDUARDO FLORENTINO RIBEIRO - CE - Deputado Estadual;
+JOSE CARLOS MOREIRA DE OLIVEIRA - ME;41.594.565/0001-21;18/08/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 2.600,00;Cheque; -  -  / 27345 - EDUARDO FLORENTINO RIBEIRO - CE - Deputado Estadual;
+LINDEMBERG MOURA DE FREITAS - ME;00.114.281/0001-03;30/09/2010;       Publicidade por carros de som;R$ 9.500,00;Cheque; -  -  / 27345 - EDUARDO FLORENTINO RIBEIRO - CE - Deputado Estadual;
+LUCIDALVA FERREIRA DE SIUZA NASCIMENTO - EPP;03.746.181/0001-98;16/08/2010;       Materiais de expediente;R$ 1.080,00;Cheque; -  -  / 27345 - EDUARDO FLORENTINO RIBEIRO - CE - Deputado Estadual;
+MARIA OSIRENE DA SILVA  POSTO DO TREVO;06.921.577/0001-12;08/09/2010;       Combustíveis e lubrificantes;R$ 5.999,98;Cheque; -  -  / 27345 - EDUARDO FLORENTINO RIBEIRO - CE - Deputado Estadual;
+M3 ARTES & PRODUÇÕES LTDA;02.327.060/0001-49;23/08/2010;       Publicidade por materiais impressos;R$ 3.000,00;Cheque; -  -  / 27345 - EDUARDO FLORENTINO RIBEIRO - CE - Deputado Estadual;

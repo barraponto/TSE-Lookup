@@ -1,7 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-BLENIO PAULO DE AQUINO;750.550.584-04;04/08/2010;40001365005;R$ 1.020,00;Estimado;FABIANO NEIVA EULÁLIO;132;1º Suplente Senador;PSB;PI;
-EVILASIO DA LUZ MOURA;286.750.373-68;04/08/2010;40001365006;R$ 1.000,00;Estimado;FABIANO NEIVA EULÁLIO;132;1º Suplente Senador;PSB;PI;
-FABIANO NEIVA EULALIO;022.446.083-87;24/08/2010;40001365004;R$ 5.000,00;Transferência eletrônica;FABIANO NEIVA EULÁLIO;132;1º Suplente Senador;PSB;PI;
-FABIANO NEIVA EULALIO;022.446.083-87;04/08/2010;40001365002;R$ 6.000,00;Estimado;FABIANO NEIVA EULÁLIO;132;1º Suplente Senador;PSB;PI;
-FABIANO NEIVA EULALIO;022.446.083-87;04/08/2010;40001365001;R$ 4.500,00;Estimado;FABIANO NEIVA EULÁLIO;132;1º Suplente Senador;PSB;PI;
-FABIANO NEIVA EULALIO;022.446.083-87;04/08/2010;40001365003;R$ 1.000,00;Estimado;FABIANO NEIVA EULÁLIO;132;1º Suplente Senador;PSB;PI;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AMLEAC COMUNICACAO VISUAL - ME;10.499.732/0001-21;23/08/2010;       Diversas a especificar;R$ 2.025,00;Cheque; -  -  / 132 - FABIANO NEIVA EULÁLIO - PI - 1º Suplente Senador;
+BLENIO PAULO DE AQUINO;750.550.584-04;04/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.020,00;Estimado; -  -  / 132 - FABIANO NEIVA EULÁLIO - PI - 1º Suplente Senador;
+EVILASIO DA LUZ MOURA;286.750.373-68;04/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 132 - FABIANO NEIVA EULÁLIO - PI - 1º Suplente Senador;
+FABIANO NEIVA EULALIO;022.446.083-87;04/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.500,00;Estimado; -  -  / 132 - FABIANO NEIVA EULÁLIO - PI - 1º Suplente Senador;
+FABIANO NEIVA EULALIO;022.446.083-87;04/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 132 - FABIANO NEIVA EULÁLIO - PI - 1º Suplente Senador;
+FABIANO NEIVA EULALIO;022.446.083-87;04/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 6.000,00;Estimado; -  -  / 132 - FABIANO NEIVA EULÁLIO - PI - 1º Suplente Senador;
+IRMAOS RODRIGUES E SANTOS LTDA;04.085.470/0002-37;31/08/2010;       Combustíveis e lubrificantes;R$ 319,48;Cheque; -  -  / 132 - FABIANO NEIVA EULÁLIO - PI - 1º Suplente Senador;
+IRMAOS RODRIGUES E SANTOS LTDA;04.085.470/0002-37;02/10/2010;       Combustíveis e lubrificantes;R$ 1.455,52;Cheque; -  -  / 132 - FABIANO NEIVA EULÁLIO - PI - 1º Suplente Senador;
+LUSINEIDE DE SOUSA FERREIRA ME;09.533.476/0001-62;23/08/2010;       Publicidade por placas, estandartes e faixas;R$ 1.200,00;Cheque; -  -  / 132 - FABIANO NEIVA EULÁLIO - PI - 1º Suplente Senador;

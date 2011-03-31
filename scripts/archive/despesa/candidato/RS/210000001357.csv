@@ -1,2 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-RADAMES FABIANO BARBIZAM CARNIEL;947.791.980-20;04/08/2010;43001829476;R$ 1.500,00;Depósito em espécie;RADAMÉS FABIANO BARBIZAN CARNIEL;43400;Deputado Estadual;PV;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EDSON DE CASTRO LESSA;02.863.746/0001-54;10/08/2010;       Publicidade por materiais impressos;R$ 350,00;Cheque; -  -  / 43400 - RADAMÉS FABIANO BARBIZAN CARNIEL - RS - Deputado Estadual;
+EDUARDO GIURIOLO RECH;03.077.659/0001-34;11/08/2010;       Publicidade por materiais impressos;R$ 465,00;Cheque; -  -  / 43400 - RADAMÉS FABIANO BARBIZAN CARNIEL - RS - Deputado Estadual;
+ITAMAR GOMES GOBETTI;00.990.587/0001-23;13/08/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 43400 - RADAMÉS FABIANO BARBIZAN CARNIEL - RS - Deputado Estadual;
+JOSE TADEU VARELA BORGES;163.469.710-34;31/08/2010;       Serviços prestados por terceiros;R$ 185,00;Cheque; -  -  / 43400 - RADAMÉS FABIANO BARBIZAN CARNIEL - RS - Deputado Estadual;

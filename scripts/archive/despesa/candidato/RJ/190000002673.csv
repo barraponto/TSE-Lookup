@@ -1,2 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-NEY BOTAFOGO VARELLA JACOB;244.527.267-04;28/07/2010;70000153541;R$ 1.000,00;Transferência eletrônica;NEY BOTAFOGO VARELLA JACOB;700;1º Suplente Senador;PT do B;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+MATTOS E MAIA INFORMATICA LTDA ME;07.425.824/0001-52;04/08/2010;       Publicidade por materiais impressos;R$ 80,00;Cheque; -  -  / 700 - NEY BOTAFOGO VARELLA JACOB - RJ - 1º Suplente Senador;
+MATTOS E MAIA INFORMATICA LTDA ME;07.425.824/0001-52;29/07/2010;       Publicidade por materiais impressos;R$ 535,00;Cheque; -  -  / 700 - NEY BOTAFOGO VARELLA JACOB - RJ - 1º Suplente Senador;
+MEGAS PROPAGANDA;12.255.115/0001-06;30/07/2010;       Publicidade por placas, estandartes e faixas;R$ 310,00;Cheque; -  -  / 700 - NEY BOTAFOGO VARELLA JACOB - RJ - 1º Suplente Senador;
+MEGAS PROPAGANDA;12.255.115/0001-06;10/09/2010;       Publicidade por materiais impressos;R$ 75,00;Cheque; -  -  / 700 - NEY BOTAFOGO VARELLA JACOB - RJ - 1º Suplente Senador;

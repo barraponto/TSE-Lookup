@@ -1,3 +1,13 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.318.997/0001-01;30/09/2010;44000060251;R$ 2.900,00;Transferência eletrônica;ANTONIO EUSTAQUIO DA SILVA;44056;Deputado Distrital;PRP;DF;
-URBANO AGROINDUSTRIAL LTDA;84.432.111/0001-67;04/08/2010;44000060250;R$ 3.200,00;Transferência eletrônica;ANTONIO EUSTAQUIO DA SILVA;44056;Deputado Distrital;PRP;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO SAO MATEUS LTDA;07.870.568/0001-02;30/09/2010;       Combustíveis e lubrificantes;R$ 760,00;Não informado; -  -  / 44056 - ANTONIO EUSTAQUIO DA SILVA - DF - Deputado Distrital;
+AUTO POSTO SAO MATEUS LTDA;07.870.568/0001-02;16/08/2010;       Combustíveis e lubrificantes;R$ 115,00;Não informado; -  -  / 44056 - ANTONIO EUSTAQUIO DA SILVA - DF - Deputado Distrital;
+AUTO POSTO SAO MATEUS LTDA;07.870.568/0001-02;05/08/2010;       Combustíveis e lubrificantes;R$ 50,00;Não informado; -  -  / 44056 - ANTONIO EUSTAQUIO DA SILVA - DF - Deputado Distrital;
+AUTO SHOPPING DERIVADOS DE PETROLEO LTDA;37.063.328/0009-14;09/08/2010;       Combustíveis e lubrificantes;R$ 90,00;Não informado; -  -  / 44056 - ANTONIO EUSTAQUIO DA SILVA - DF - Deputado Distrital;
+ELZAFAN ROCHA DA SILVA;866.744.631-91;30/09/2010;       Despesas com pessoal;R$ 623,00;Não informado; -  -  / 44056 - ANTONIO EUSTAQUIO DA SILVA - DF - Deputado Distrital;
+GRAFICA E EDITORA ESPERANÇA LTDA-ME;02.054.018/0001-00;06/08/2010;       Publicidade por materiais impressos;R$ 2.000,00;Transferência eletrônica; -  -  / 44056 - ANTONIO EUSTAQUIO DA SILVA - DF - Deputado Distrital;
+GRAFICA E EDITORA ESPERANÇA LTDA-ME;02.054.018/0001-00;06/08/2010;       Publicidade por materiais impressos;R$ 1.000,00;Transferência eletrônica; -  -  / 44056 - ANTONIO EUSTAQUIO DA SILVA - DF - Deputado Distrital;
+GRAFICA E EDITORA ESPERANÇA LTDA-ME;02.054.018/0001-00;06/08/2010;       Publicidade por materiais impressos;R$ 200,00;Transferência eletrônica; -  -  / 44056 - ANTONIO EUSTAQUIO DA SILVA - DF - Deputado Distrital;
+SAMARA CYNTYA DA SILVA BATISTA;950.181.901-91;30/09/2010;       Despesas com pessoal;R$ 628,00;Não informado; -  -  / 44056 - ANTONIO EUSTAQUIO DA SILVA - DF - Deputado Distrital;
+SILMARA KELY DA SILVA BATISTA;692.893.281-34;30/09/2010;       Despesas com pessoal;R$ 628,00;Não informado; -  -  / 44056 - ANTONIO EUSTAQUIO DA SILVA - DF - Deputado Distrital;
+;217.807.656-49;06/09/2010;       Encargos financeiros e taxas bancárias;R$ 4,50;Débito em conta; -  -  / 44056 - ANTONIO EUSTAQUIO DA SILVA - DF - Deputado Distrital;
+;;04/10/2010;       Encargos financeiros e taxas bancárias;R$ 1,50;Débito em conta; -  -  / 44056 - ANTONIO EUSTAQUIO DA SILVA - DF - Deputado Distrital;

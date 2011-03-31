@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-WEDERSON OSMAR MOREIRA;12.179.939/0001-44;21/09/2010;43001704951;R$ 81,25;Estimado;NICELDA ELLER LODI;43723;Deputado Estadual;PV;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+WEDERSON OSMAR MOREIRA;12.179.939/0001-44;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 81,25;Estimado;4300 -  - PV -  - Deputado Federal / 43723 - NICELDA ELLER LODI - MG - Deputado Estadual;

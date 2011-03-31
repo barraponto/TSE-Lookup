@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.229.903/0001-28;29/09/2010;50000245301;R$ 1.000,00;Estimado;RUBENS GHINOSSI;50555;Deputado Estadual;PSOL;MS;
-Diretório Estadual/Distrital;12.229.903/0001-28;29/09/2010;50000245304;R$ 300,00;Estimado;RUBENS GHINOSSI;50555;Deputado Estadual;PSOL;MS;
-Diretório Estadual/Distrital;12.229.903/0001-28;29/09/2010;50000245303;R$ 300,00;Estimado;RUBENS GHINOSSI;50555;Deputado Estadual;PSOL;MS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.229.903/0001-28;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Direção Estadual/Distrital - PSOL -  / 50555 - RUBENS GHINOSSI - MS - Deputado Estadual;
+Diretório Estadual/Distrital;12.229.903/0001-28;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;Direção Estadual/Distrital - PSOL -  / 50555 - RUBENS GHINOSSI - MS - Deputado Estadual;
+Diretório Estadual/Distrital;12.229.903/0001-28;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Direção Estadual/Distrital - PSOL -  / 50555 - RUBENS GHINOSSI - MS - Deputado Estadual;

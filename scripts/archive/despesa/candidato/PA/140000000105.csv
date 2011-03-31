@@ -1,6 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CREUSA COSTA DE MOURA;005.334.702-18;20/08/2010;65000232301;R$ 4.000,00;Depósito em espécie;ZILMA DE SOUZA SILVA;65265;Deputado Estadual;PC do B;PA;
-GRAFICA E EDITORA DO NORTE LTDA;01.782.629/0001-01;03/09/2010;65000232306;R$ 1.800,00;Estimado;ZILMA DE SOUZA SILVA;65265;Deputado Estadual;PC do B;PA;
-JORGE PANZERA;12.204.180/0001-02;14/09/2010;65000232304;R$ 30,00;Estimado;ZILMA DE SOUZA SILVA;65265;Deputado Estadual;PC do B;PA;
-JORGE PANZERA;12.204.180/0001-02;14/09/2010;65000232305;R$ 161,00;Estimado;ZILMA DE SOUZA SILVA;65265;Deputado Estadual;PC do B;PA;
-JORGE PANZERA;12.204.180/0001-02;05/08/2010;65000232303;R$ 240,00;Estimado;ZILMA DE SOUZA SILVA;65265;Deputado Estadual;PC do B;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CAIAQUE;09.388.647/0001-07;27/09/2010;       Publicidade por materiais impressos;R$ 2.000,00;Cheque; -  -  / 65265 - ZILMA DE SOUZA SILVA - PA - Deputado Estadual;
+GRAFICA E EDITORA DO NORTE LTDA;01.782.629/0001-01;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.800,00;Estimado; -  -  / 65265 - ZILMA DE SOUZA SILVA - PA - Deputado Estadual;
+JORGE PANZERA;12.204.180/0001-02;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 161,00;Estimado;6565 -  - PC do B -  - Deputado Federal / 65265 - ZILMA DE SOUZA SILVA - PA - Deputado Estadual;
+JORGE PANZERA;12.204.180/0001-02;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 240,00;Estimado;6565 -  - PC do B -  - Deputado Federal / 65265 - ZILMA DE SOUZA SILVA - PA - Deputado Estadual;
+JORGE PANZERA;12.204.180/0001-02;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 30,00;Estimado;6565 -  - PC do B -  - Deputado Federal / 65265 - ZILMA DE SOUZA SILVA - PA - Deputado Estadual;
+MAURICIO RICARDO MEDEIROS OLIVEIRA;629.572.792-15;24/08/2010;       Publicidade por carros de som;R$ 1.000,00;Cheque; -  -  / 65265 - ZILMA DE SOUZA SILVA - PA - Deputado Estadual;
+MILLENIUM IMPRESSÃO DIGITAL;09.815.528/0001-93;15/09/2010;       Publicidade por carros de som;R$ 1.000,00;Cheque; -  -  / 65265 - ZILMA DE SOUZA SILVA - PA - Deputado Estadual;

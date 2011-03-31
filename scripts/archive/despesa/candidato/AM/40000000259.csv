@@ -1,5 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALFREDO PEREIRA DO NASCIMENTO;12.169.771/0001-96;09/09/2010;70000130177;R$ 2.000,00;Cheque;ANTONIO BISMAR DE LIMA CUNHA;7022;Deputado Federal;PT do B;AM;
-ALFREDO PREREIA DO NASCMENTO;12.169.771/0001-96;03/08/2010;70000130176;R$ 2.000,00;Cheque;ANTONIO BISMAR DE LIMA CUNHA;7022;Deputado Federal;PT do B;AM;
-ANTONIO BISMAR DE LIMA CUNHA;416.119.692-04;10/08/2010;70000130178;R$ 3,00;Depósito em espécie;ANTONIO BISMAR DE LIMA CUNHA;7022;Deputado Federal;PT do B;AM;
-ANTONIO BISMAR DE LIMA CUNHA;416.119.692-04;28/09/2010;70000130179;R$ 2.000,00;Estimado;ANTONIO BISMAR DE LIMA CUNHA;7022;Deputado Federal;PT do B;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO BISMAR DE LIMA CUNHA;416.119.692-04;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado; -  -  / 7022 - ANTONIO BISMAR DE LIMA CUNHA - AM - Deputado Federal;
+AUTO POSTO MODELO LTDA;04.025.102/0001-12;28/09/2010;       Combustíveis e lubrificantes;R$ 250,00;Cheque; -  -  / 7022 - ANTONIO BISMAR DE LIMA CUNHA - AM - Deputado Federal;
+JOSE JORGE SIMOES DE MELO;721.760.402-87;01/10/2010;       Produção de jingles, vinhetas e slogans;R$ 240,00;Cheque; -  -  / 7022 - ANTONIO BISMAR DE LIMA CUNHA - AM - Deputado Federal;
+MARIA DO SOCORRO GOMES MOREIRA;404.899.812-91;10/08/2010;       Despesas com pessoal;R$ 2.000,00;Cheque; -  -  / 7022 - ANTONIO BISMAR DE LIMA CUNHA - AM - Deputado Federal;
+MARIA DO SOCORRO GOMES MOREIRA;404.899.812-91;21/09/2010;       Despesas com pessoal;R$ 1.500,00;Cheque; -  -  / 7022 - ANTONIO BISMAR DE LIMA CUNHA - AM - Deputado Federal;
+;;16/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,80;Débito em conta; -  -  / 7022 - ANTONIO BISMAR DE LIMA CUNHA - AM - Deputado Federal;
+;;20/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 7022 - ANTONIO BISMAR DE LIMA CUNHA - AM - Deputado Federal;
+;;20/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 7022 - ANTONIO BISMAR DE LIMA CUNHA - AM - Deputado Federal;
+;;06/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 7022 - ANTONIO BISMAR DE LIMA CUNHA - AM - Deputado Federal;
+;;12/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,10;Débito em conta; -  -  / 7022 - ANTONIO BISMAR DE LIMA CUNHA - AM - Deputado Federal;

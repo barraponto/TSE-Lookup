@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ARTES GRAFICAS AURISTELA LTDA;00.133.980/0001-09;27/08/2010;22000160451;R$ 350,00;Estimado;LUIS ANTONIO PEREIRA DA SILVA;2284;Deputado Federal;PR;RJ;
-JAILSON LIMA DORMUNDO;547.430.107-30;30/09/2010;22000160453;R$ 750,00;Estimado;LUIS ANTONIO PEREIRA DA SILVA;2284;Deputado Federal;PR;RJ;
-JAILSON LIMA DORMUNDO;547.430.107-30;27/08/2010;22000160452;R$ 750,00;Estimado;LUIS ANTONIO PEREIRA DA SILVA;2284;Deputado Federal;PR;RJ;
-POSTO DE GASOLINA CAMARÁ;33.230.277/0001-60;30/09/2010;22000160454;R$ 779,09;Estimado;LUIS ANTONIO PEREIRA DA SILVA;2284;Deputado Federal;PR;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARTES GRAFICAS AURISTELA LTDA;00.133.980/0001-09;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 350,00;Estimado; -  -  / 2284 - LUIS ANTONIO PEREIRA DA SILVA - RJ - Deputado Federal;
+JAILSON LIMA DORMUNDO;547.430.107-30;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 750,00;Estimado; -  -  / 2284 - LUIS ANTONIO PEREIRA DA SILVA - RJ - Deputado Federal;
+JAILSON LIMA DORMUNDO;547.430.107-30;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 750,00;Estimado; -  -  / 2284 - LUIS ANTONIO PEREIRA DA SILVA - RJ - Deputado Federal;
+POSTO DE GASOLINA CAMARÁ;33.230.277/0001-60;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 779,09;Estimado; -  -  / 2284 - LUIS ANTONIO PEREIRA DA SILVA - RJ - Deputado Federal;

@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.154.856/0001-09;02/07/2010;50000391961;R$ 60,00;Estimado;ERONILDO MEZINI FERREIRA;5088;Deputado Federal;PSOL;RJ;
-Comitê Financeiro Único;12.154.856/0001-09;29/09/2010;50000391962;R$ 62,50;Estimado;ERONILDO MEZINI FERREIRA;5088;Deputado Federal;PSOL;RJ;
-ERONILDO MEZINI FERREIRA;025.983.227-89;10/09/2010;50000391963;R$ 540,00;Depósito em espécie;ERONILDO MEZINI FERREIRA;5088;Deputado Federal;PSOL;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.154.856/0001-09;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 62,50;Estimado;Comitê Financeiro Único - PSOL -  / 5088 - ERONILDO MEZINI FERREIRA - RJ - Deputado Federal;
+Comitê Financeiro Único;12.154.856/0001-09;02/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 60,00;Estimado;Comitê Financeiro Único - PSOL -  / 5088 - ERONILDO MEZINI FERREIRA - RJ - Deputado Federal;
+R'BROS VISUAL MIDIA LTDA.-ME;10.644.869/0001-22;08/09/2010;       Publicidade por materiais impressos;R$ 540,00;Cheque; -  -  / 5088 - ERONILDO MEZINI FERREIRA - RJ - Deputado Federal;

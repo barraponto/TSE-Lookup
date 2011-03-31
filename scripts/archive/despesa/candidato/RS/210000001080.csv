@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS ALBERTO GONÇALVES FELBERMAYER M.E;01.386.902/0001-70;13/08/2010;14000125506;R$ 150,00;Estimado;ANA ALICE FELBERMAYER CASTELLAN;1402;Deputado Federal;PTB;RS;
-Comitê Financeiro Único;12.200.159/0001-39;23/08/2010;14000125502;R$ 292,95;Estimado;ANA ALICE FELBERMAYER CASTELLAN;1402;Deputado Federal;PTB;RS;
-Comitê Financeiro Único;12.200.159/0001-39;30/09/2010;14000125508;R$ 63,00;Estimado;ANA ALICE FELBERMAYER CASTELLAN;1402;Deputado Federal;PTB;RS;
-Comitê Financeiro Único;12.200.159/0001-39;02/08/2010;14000125505;R$ 250,00;Estimado;ANA ALICE FELBERMAYER CASTELLAN;1402;Deputado Federal;PTB;RS;
-Comitê Financeiro Único;12.200.159/0001-39;16/09/2010;14000125507;R$ 36,25;Estimado;ANA ALICE FELBERMAYER CASTELLAN;1402;Deputado Federal;PTB;RS;
-Comitê Financeiro Único;12.200.159/0001-39;18/08/2010;14000125501;R$ 761,54;Estimado;ANA ALICE FELBERMAYER CASTELLAN;1402;Deputado Federal;PTB;RS;
-Comitê Financeiro Único;12.200.159/0001-39;23/08/2010;14000125504;R$ 144,00;Estimado;ANA ALICE FELBERMAYER CASTELLAN;1402;Deputado Federal;PTB;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS ALBERTO GONÇALVES FELBERMAYER M.E;01.386.902/0001-70;13/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado; -  -  / 1402 - ANA ALICE FELBERMAYER CASTELLAN - RS - Deputado Federal;
+Comitê Financeiro Único;12.200.159/0001-39;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;Comitê Financeiro Único - PTB -  / 1402 - ANA ALICE FELBERMAYER CASTELLAN - RS - Deputado Federal;
+Comitê Financeiro Único;12.200.159/0001-39;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 144,00;Estimado;Comitê Financeiro Único - PTB -  / 1402 - ANA ALICE FELBERMAYER CASTELLAN - RS - Deputado Federal;
+Comitê Financeiro Único;12.200.159/0001-39;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 63,00;Estimado;Comitê Financeiro Único - PTB -  / 1402 - ANA ALICE FELBERMAYER CASTELLAN - RS - Deputado Federal;
+Comitê Financeiro Único;12.200.159/0001-39;16/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 36,25;Estimado;Comitê Financeiro Único - PTB -  / 1402 - ANA ALICE FELBERMAYER CASTELLAN - RS - Deputado Federal;
+Comitê Financeiro Único;12.200.159/0001-39;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 761,54;Estimado;Comitê Financeiro Único - PTB -  / 1402 - ANA ALICE FELBERMAYER CASTELLAN - RS - Deputado Federal;
+Comitê Financeiro Único;12.200.159/0001-39;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 292,95;Estimado;Comitê Financeiro Único - PTB -  / 1402 - ANA ALICE FELBERMAYER CASTELLAN - RS - Deputado Federal;

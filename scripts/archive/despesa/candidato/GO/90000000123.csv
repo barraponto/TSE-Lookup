@@ -1,6 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.242/0001-09;23/08/2010;65000185173;R$ 120,00;Estimado;ALBERTO ASSUNÇÃO DOS SANTOS;65490;Deputado Estadual;PC do B;GO;
-ELEICAO 2010 ALBERTO ASUNCAO DOS SANTOS DEPUTADO ESTADUAL;195.103.651-49;02/08/2010;65000185172;R$ 500,00;Depósito em espécie;ALBERTO ASSUNÇÃO DOS SANTOS;65490;Deputado Estadual;PC do B;GO;
-ELEICAO 2010 ALBERTO ASUNCAO DOS SANTOS DEPUTADO ESTADUAL;195.103.651-49;23/08/2010;65000185174;R$ 500,00;Estimado;ALBERTO ASSUNÇÃO DOS SANTOS;65490;Deputado Estadual;PC do B;GO;
-ELEICAO 2010 FABIO TOKARSKI DEPUTADO FEDERAL;12.171.879/0001-13;28/07/2010;65000185171;R$ 345,00;Estimado;ALBERTO ASSUNÇÃO DOS SANTOS;65490;Deputado Estadual;PC do B;GO;
-ELEIÇÃO 2010 IRIS REZENDE MACHADO GOVERNADOR;12.167.313/0001-18;02/10/2010;65000186751;R$ 1.612,90;Estimado;ALBERTO ASSUNÇÃO DOS SANTOS;65490;Deputado Estadual;PC do B;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.242/0001-09;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 120,00;Estimado;Comitê Financeiro Único - PC do B -  / 65490 - ALBERTO ASSUNÇÃO DOS SANTOS - GO - Deputado Estadual;
+ELEICAO 2010 ALBERTO ASUNCAO DOS SANTOS DEPUTADO ESTADUAL;195.103.651-49;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 65490 - ALBERTO ASSUNÇÃO DOS SANTOS - GO - Deputado Estadual;
+ELEICAO 2010 FABIO TOKARSKI DEPUTADO FEDERAL;12.171.879/0001-13;28/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 345,00;Estimado;6565 -  - PC do B -  - Deputado Federal / 65490 - ALBERTO ASSUNÇÃO DOS SANTOS - GO - Deputado Estadual;
+ELEIÇÃO 2010 IRIS REZENDE MACHADO GOVERNADOR;12.167.313/0001-18;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.612,90;Estimado;15 -  - PMDB -  - Governador / 65490 - ALBERTO ASSUNÇÃO DOS SANTOS - GO - Deputado Estadual;
+POSTO INTERLAGOS ALVES E ROCHA LTDA;01.663.145/0001-35;01/10/2010;       Combustíveis e lubrificantes;R$ 238,00;Cheque; -  -  / 65490 - ALBERTO ASSUNÇÃO DOS SANTOS - GO - Deputado Estadual;
+S&T AUTO POSTO LTDA;09.056.611/0001-26;04/08/2010;       Combustíveis e lubrificantes;R$ 224,00;Cheque; -  -  / 65490 - ALBERTO ASSUNÇÃO DOS SANTOS - GO - Deputado Estadual;

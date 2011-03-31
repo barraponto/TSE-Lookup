@@ -1,4 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELÂNIA FERREIRA SILVA PAIXÃO;026.124.794-81;05/09/2010;43001840928;R$ 1.500,00;Estimado;GERALDO FERREIRA DE LUCENA;43210;Deputado Estadual;PV;PE;
-GERALDO FERREIRA DE LUCENA;485.415.084-04;24/08/2010;43001840926;R$ 5.000,00;Depósito em espécie;GERALDO FERREIRA DE LUCENA;43210;Deputado Estadual;PV;PE;
-MARIA GORETHE ALVES LUCENA;719.490.384-91;24/08/2010;43001840927;R$ 5.000,00;Depósito em espécie;GERALDO FERREIRA DE LUCENA;43210;Deputado Estadual;PV;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO J.B. - ME;07.964.989/0001-00;30/09/2010;       Combustíveis e lubrificantes;R$ 1.170,00;Cheque; -  -  / 43210 - GERALDO FERREIRA DE LUCENA - PE - Deputado Estadual;
+ELÂNIA FERREIRA SILVA PAIXÃO;026.124.794-81;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado; -  -  / 43210 - GERALDO FERREIRA DE LUCENA - PE - Deputado Estadual;
+EVANDRO RIBEIRO GALINDO;24.563.231/0001-71;28/09/2010;       Diversas a especificar;R$ 230,00;Cheque; -  -  / 43210 - GERALDO FERREIRA DE LUCENA - PE - Deputado Estadual;
+MARCOS CESAR LINS - ME;10.581.297/0001-80;28/09/2010;       Diversas a especificar;R$ 600,00;Cheque; -  -  / 43210 - GERALDO FERREIRA DE LUCENA - PE - Deputado Estadual;
+THEREZA MARIA BRANCO MONTEIRO;821.354.364-53;15/07/2010;       Locação/cessão de bens imóveis;R$ 3.000,00;Cheque; -  -  / 43210 - GERALDO FERREIRA DE LUCENA - PE - Deputado Estadual;
+UTILGRÁFICA E EDITORA LTDA.;70.220.413/0001-67;16/09/2010;       Publicidade por materiais impressos;R$ 5.000,00;Cheque; -  -  / 43210 - GERALDO FERREIRA DE LUCENA - PE - Deputado Estadual;

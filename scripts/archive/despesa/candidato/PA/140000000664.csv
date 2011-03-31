@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSE GERALDO TORRES DA SILVA;12.172.608/0001-82;30/09/2010;13000771742;R$ 1.027,00;Estimado;MARCIO IVAN LOPES PONTE DE SOUZA;13555;Deputado Estadual;PT;PA;
-JOSE GERALDO TORRES DA SILVA;12.172.608/0001-82;30/09/2010;13000771741;R$ 225,00;Estimado;MARCIO IVAN LOPES PONTE DE SOUZA;13555;Deputado Estadual;PT;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JOSE GERALDO TORRES DA SILVA;12.172.608/0001-82;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.027,00;Estimado;1321 -  - PT -  - Deputado Federal / 13555 - MARCIO IVAN LOPES PONTE DE SOUZA - PA - Deputado Estadual;
+JOSE GERALDO TORRES DA SILVA;12.172.608/0001-82;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 225,00;Estimado;1321 -  - PT -  - Deputado Federal / 13555 - MARCIO IVAN LOPES PONTE DE SOUZA - PA - Deputado Estadual;

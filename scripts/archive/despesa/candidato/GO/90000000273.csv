@@ -1,4 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MURIEL FERREIRA DA SILVA;993.030.351-00;01/11/2010;20000241353;R$ 1,35;Depósito em espécie;MURIEL FERREIRA DA SILVA;20002;Deputado Estadual;PSC;GO;
-VANDERLAN VIEIRA CADOSO;12.198.568/0001-48;30/09/2010;20000241352;R$ 6.000,00;Transferência eletrônica;MURIEL FERREIRA DA SILVA;20002;Deputado Estadual;PSC;GO;
-VANDERLAN VIEIRA CARDOSO;12.198.568/0001-48;10/09/2010;20000241351;R$ 700,00;Estimado;MURIEL FERREIRA DA SILVA;20002;Deputado Estadual;PSC;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+HELIO FEREIRA DOS SANTOS;688.461.181-20;01/08/2010;       Despesas com pessoal;R$ 3.000,00;Cheque; -  -  / 20002 - MURIEL FERREIRA DA SILVA - GO - Deputado Estadual;
+LEONARDO RIBEIRO ALVES;005.563.141-07;01/08/2010;       Despesas com pessoal;R$ 1.340,00;Cheque; -  -  / 20002 - MURIEL FERREIRA DA SILVA - GO - Deputado Estadual;
+PAULO CESAR EVANGELISTA DE PAULA;478.423.001-78;01/08/2010;       Despesas com pessoal;R$ 1.530,00;Cheque; -  -  / 20002 - MURIEL FERREIRA DA SILVA - GO - Deputado Estadual;
+SHIRLE GARCIA TOSTA;170.465.211-15;01/09/2010;       Despesas com pessoal;R$ 127,00;Cheque; -  -  / 20002 - MURIEL FERREIRA DA SILVA - GO - Deputado Estadual;
+VANDERLAN VIEIRA CARDOSO;12.198.568/0001-48;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 700,00;Estimado;22 -  - PR -  - Governador / 20002 - MURIEL FERREIRA DA SILVA - GO - Deputado Estadual;
+;;01/09/2010;       Encargos financeiros e taxas bancárias;R$ 4,35;Débito em conta; -  -  / 20002 - MURIEL FERREIRA DA SILVA - GO - Deputado Estadual;

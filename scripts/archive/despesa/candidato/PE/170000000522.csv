@@ -1,5 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;05.055.973/0001-41;29/09/2010;36000063905;R$ 2.000,00;Cheque;WALDECK SANDRO BATISTA DE OLIVEIRA;3636;Deputado Federal;PTC;PE;
-Diretório Estadual/Distrital;05.055.973/0001-41;28/09/2010;36000063907;R$ 40,00;Estimado;WALDECK SANDRO BATISTA DE OLIVEIRA;3636;Deputado Federal;PTC;PE;
-Diretório Estadual/Distrital;05.055.973/0001-41;27/09/2010;36000063904;R$ 540,00;Estimado;WALDECK SANDRO BATISTA DE OLIVEIRA;3636;Deputado Federal;PTC;PE;
-JOSE ERIBERTO MEDEIROS DE OLIVEIRA;12.177.701/0001-80;25/08/2010;36000063906;R$ 110,00;Estimado;WALDECK SANDRO BATISTA DE OLIVEIRA;3636;Deputado Federal;PTC;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;05.055.973/0001-41;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 540,00;Estimado;Direção Estadual/Distrital - PTC -  / 3636 - WALDECK SANDRO BATISTA DE OLIVEIRA - PE - Deputado Federal;
+Diretório Estadual/Distrital;05.055.973/0001-41;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 40,00;Estimado;Direção Estadual/Distrital - PTC -  / 3636 - WALDECK SANDRO BATISTA DE OLIVEIRA - PE - Deputado Federal;
+EDMILSON GOMES DE SOUZA;215.034.274-04;01/10/2010;       Despesas com pessoal;R$ 950,00;Cheque; -  -  / 3636 - WALDECK SANDRO BATISTA DE OLIVEIRA - PE - Deputado Federal;
+JONAS JOSE DA SILVA;097.107.034-20;01/10/2010;       Despesas com pessoal;R$ 580,00;Cheque; -  -  / 3636 - WALDECK SANDRO BATISTA DE OLIVEIRA - PE - Deputado Federal;
+JOSE ERIBERTO MEDEIROS DE OLIVEIRA;12.177.701/0001-80;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 110,00;Estimado;36111 -  - PTC -  - Deputado Estadual / 3636 - WALDECK SANDRO BATISTA DE OLIVEIRA - PE - Deputado Federal;
+SANDRA QUIRINO DA SILVA;658.971.024-49;01/10/2010;       Despesas com pessoal;R$ 465,00;Cheque; -  -  / 3636 - WALDECK SANDRO BATISTA DE OLIVEIRA - PE - Deputado Federal;

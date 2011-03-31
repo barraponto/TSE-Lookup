@@ -1,6 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-EDVALDO JOSÉ CAIÇARA;380.503.904-20;22/07/2010;31000039101;R$ 2.047,50;Cheque;EDVALDO JOSE CAIÇARA;3131;Deputado Federal;PHS;PB;
-EDVALDO JOSÉ CAIÇARA;380.503.904-20;09/09/2010;31000039103;R$ 850,72;Depósito em espécie;EDVALDO JOSE CAIÇARA;3131;Deputado Federal;PHS;PB;
-JOSÉ TARGINO MARANHÃO;12.189.345/0001-14;25/09/2010;31000039105;R$ 523,56;Estimado;EDVALDO JOSE CAIÇARA;3131;Deputado Federal;PHS;PB;
-JOSÉ TARGINO MARANHÃO;12.189.345/0001-14;22/09/2010;31000039104;R$ 300,00;Estimado;EDVALDO JOSE CAIÇARA;3131;Deputado Federal;PHS;PB;
-VALMIR BARBOSA SANTOS;892.941.654-34;22/07/2010;31000039102;R$ 5.400,00;Estimado;EDVALDO JOSE CAIÇARA;3131;Deputado Federal;PHS;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRÁFICA E EDITORA AGENDA LTDA;00.676.136/0001-16;26/07/2010;       Publicidade por materiais impressos;R$ 2.047,50;Cheque; -  -  / 3131 - EDVALDO JOSE CAIÇARA - PB - Deputado Federal;
+JOSÉ TARGINO MARANHÃO;12.189.345/0001-14;25/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 523,56;Estimado;15 -  - PMDB -  - Governador / 3131 - EDVALDO JOSE CAIÇARA - PB - Deputado Federal;
+JOSÉ TARGINO MARANHÃO;12.189.345/0001-14;22/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;15 -  - PMDB -  - Governador / 3131 - EDVALDO JOSE CAIÇARA - PB - Deputado Federal;
+JWC COMÉRCIO DE COMBUSTIVEL LTDA;02.889.070/0001-78;20/09/2010;       Combustíveis e lubrificantes;R$ 814,72;Cheque; -  -  / 3131 - EDVALDO JOSE CAIÇARA - PB - Deputado Federal;
+VALMIR BARBOSA SANTOS;892.941.654-34;22/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 5.400,00;Estimado; -  -  / 3131 - EDVALDO JOSE CAIÇARA - PB - Deputado Federal;
+YURI VINICIUS SILVA OLIVEIRA DOS SANTOS;074.407.544-09;20/09/2010;       Despesas com transporte ou deslocamento;R$ 36,00;Cheque; -  -  / 3131 - EDVALDO JOSE CAIÇARA - PB - Deputado Federal;

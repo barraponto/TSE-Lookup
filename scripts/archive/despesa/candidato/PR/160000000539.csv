@@ -1,4 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;23/09/2010;11000148321;R$ 1.250,00;Estimado;PRISCILA SANTOS;11008;Deputado Estadual;PP;PR;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;28/09/2010;11000148322;R$ 1.680,00;Transferência eletrônica;PRISCILA SANTOS;11008;Deputado Estadual;PP;PR;
-RICARDO JOSÉ MAGALHÃES BARROS;12.190.665/0001-94;27/09/2010;11000148323;R$ 562,50;Estimado;PRISCILA SANTOS;11008;Deputado Estadual;PP;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.250,00;Estimado;45 -  - PSDB -  - Governador / 11008 - PRISCILA SANTOS - PR - Deputado Estadual;
+FABIANE SAORES DASILVA;025.500.049-90;01/10/2010;       Alimentação;R$ 1.296,00;Cheque; -  -  / 11008 - PRISCILA SANTOS - PR - Deputado Estadual;
+NOVA CHURRASCARIA ESTRELA;04.647.226/0001-30;29/09/2010;       Alimentação;R$ 84,00;Cheque; -  -  / 11008 - PRISCILA SANTOS - PR - Deputado Estadual;
+RESTAURANTE MIKADO LTDA;82.328.022/0001-40;30/09/2010;       Alimentação;R$ 300,00;Cheque; -  -  / 11008 - PRISCILA SANTOS - PR - Deputado Estadual;
+RICARDO JOSÉ MAGALHÃES BARROS;12.190.665/0001-94;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 562,50;Estimado;111 -  - PP -  - Senador / 11008 - PRISCILA SANTOS - PR - Deputado Estadual;

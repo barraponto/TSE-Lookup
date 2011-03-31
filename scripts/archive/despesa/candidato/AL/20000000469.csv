@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Governador;12.191.521/0001-52;01/10/2010;22000030043;R$ 1.413,29;Estimado;JOÃO BATISTA GOMES DE SOUZA;22004;Deputado Estadual;PR;AL;
-JOÃO BATISTA GOMES DE SOUZA;383.040.404-25;19/07/2010;22000030041;R$ 1,00;Depósito em espécie;JOÃO BATISTA GOMES DE SOUZA;22004;Deputado Estadual;PR;AL;
-MAURICIO QUINTELLA LESSA;12.180.644/0001-98;20/08/2010;22000030042;R$ 185,00;Estimado;JOÃO BATISTA GOMES DE SOUZA;22004;Deputado Estadual;PR;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Governador;12.191.521/0001-52;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.413,29;Estimado;Comitê Financeiro Distrital/Estadual para Governador - PDT -  / 22004 - JOÃO BATISTA GOMES DE SOUZA - AL - Deputado Estadual;
+MAURICIO QUINTELLA LESSA;12.180.644/0001-98;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 185,00;Estimado;2266 -  - PR -  - Deputado Federal / 22004 - JOÃO BATISTA GOMES DE SOUZA - AL - Deputado Estadual;
+;;01/10/2010;       Encargos financeiros e taxas bancárias;R$ 1,00;Transferência eletrônica; -  -  / 22004 - JOÃO BATISTA GOMES DE SOUZA - AL - Deputado Estadual;

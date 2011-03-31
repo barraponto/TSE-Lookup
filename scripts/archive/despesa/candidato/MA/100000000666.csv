@@ -1,6 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;71.585.376/0001-53;09/09/2010;65000207910;R$ 750,00;Estimado;LUIS JORGE LOBÃO BORGES;65678;Deputado Estadual;PC do B;MA;
-FLAVIO DINO DE CASTRO E COSTA;12.176.183/0001-80;23/09/2010;65000207855;R$ 870,00;Estimado;LUIS JORGE LOBÃO BORGES;65678;Deputado Estadual;PC do B;MA;
-FLÁVIO DINO DE CASTRO E COSTA;12.176.183/0001-80;06/09/2010;65000207856;R$ 860,74;Estimado;LUIS JORGE LOBÃO BORGES;65678;Deputado Estadual;PC do B;MA;
-LUIS JORGE LOBÃO BORGES;176.317.503-00;27/07/2010;65000207851;R$ 2.000,00;Depósito em espécie;LUIS JORGE LOBÃO BORGES;65678;Deputado Estadual;PC do B;MA;
-LUIS JORGE LOBÃO BORGES;176.317.503-00;06/09/2010;65000207852;R$ 600,00;Depósito em espécie;LUIS JORGE LOBÃO BORGES;65678;Deputado Estadual;PC do B;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CELIO MARTINS BORGES;067.270.693-87;29/07/2010;       Locação/cessão de bens imóveis;R$ 500,00;Cheque; -  -  / 65678 - LUIS JORGE LOBÃO BORGES - MA - Deputado Estadual;
+Diretório Estadual/Distrital;71.585.376/0001-53;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 750,00;Estimado;Direção Estadual/Distrital - PC do B -  / 65678 - LUIS JORGE LOBÃO BORGES - MA - Deputado Estadual;
+FLAVIO DINO DE CASTRO E COSTA;12.176.183/0001-80;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 870,00;Estimado;65 -  - PC do B -  - Governador / 65678 - LUIS JORGE LOBÃO BORGES - MA - Deputado Estadual;
+FLÁVIO DINO DE CASTRO E COSTA;12.176.183/0001-80;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 860,74;Estimado;65 -  - PC do B -  - Governador / 65678 - LUIS JORGE LOBÃO BORGES - MA - Deputado Estadual;
+GRAFICA SANTA CLARA LTDA;11.783.446/0001-56;29/07/2010;       Publicidade por materiais impressos;R$ 534,00;Cheque; -  -  / 65678 - LUIS JORGE LOBÃO BORGES - MA - Deputado Estadual;
+M.A.S. DE OLIVEIRA;07.245.831/0001-72;03/09/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 65678 - LUIS JORGE LOBÃO BORGES - MA - Deputado Estadual;
+REGINALDOSANTOS DA SILVA;209.486.623-87;08/08/2010;       Locação/cessão de bens imóveis;R$ 300,00;Cheque; -  -  / 65678 - LUIS JORGE LOBÃO BORGES - MA - Deputado Estadual;
+UPGRADE SERVIÇOS;63.576.961/0001-69;24/08/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 65678 - LUIS JORGE LOBÃO BORGES - MA - Deputado Estadual;
+UPGRADE SERVIÇOS;63.576.961/0001-69;27/07/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 65678 - LUIS JORGE LOBÃO BORGES - MA - Deputado Estadual;

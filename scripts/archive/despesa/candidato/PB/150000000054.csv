@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSE RODRIGUES FILHO;12.169.120/0001-04;05/08/2010;50000310031;R$ 465,00;Estimado;ROLDÃO VIEIRA DANTAS;50123;Deputado Estadual;PSOL;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JOSE RODRIGUES FILHO;12.169.120/0001-04;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 465,00;Estimado;5020 -  - PSOL -  - Deputado Federal / 50123 - ROLDÃO VIEIRA DANTAS - PB - Deputado Estadual;

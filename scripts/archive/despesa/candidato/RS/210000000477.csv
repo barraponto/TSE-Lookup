@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELOEDE MARIA CONZATTI;556.935.399-20;22/09/2010;13000956001;R$ 1.170,00;Depósito em espécie;ELOEDE MARIA CONZATTI;651;2º Suplente Senador;PT;RS;
-ELOEDE MARIA CONZATTI;556.935.399-20;04/09/2010;13000956003;R$ 1,00;Estimado;ELOEDE MARIA CONZATTI;651;2º Suplente Senador;PT;RS;
-ELOEDE MARIA CONZATTI;556.935.399-20;02/10/2010;13000956002;R$ 290,50;Depósito em espécie;ELOEDE MARIA CONZATTI;651;2º Suplente Senador;PT;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+COM COMB FLORESTAL LTDA;02.558.109/0001-74;05/10/2010;       Combustíveis e lubrificantes;R$ 290,50;Cheque; -  -  / 651 - ELOEDE MARIA CONZATTI - RS - 2º Suplente Senador;
+ELOEDE MARIA CONZATTI;556.935.399-20;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1,00;Estimado; -  -  / 651 - ELOEDE MARIA CONZATTI - RS - 2º Suplente Senador;
+GRAFICA TIMBRE LTDA;90.574.542/0001-60;27/09/2010;       Materiais de expediente;R$ 1.170,00;Cheque; -  -  / 651 - ELOEDE MARIA CONZATTI - RS - 2º Suplente Senador;

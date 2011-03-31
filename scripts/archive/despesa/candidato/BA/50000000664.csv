@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANDRE COSTA PATRICIO;026.109.855-17;10/09/2010;50000085001;R$ 100,00;Estimado;ROBERTO CARVALHO DOS SANTOS;50333;Deputado Estadual;PSOL;BA;
-ELIS CRISTIANE CARVALHO DOS SANTOS;862.175.505-04;15/09/2010;50000085002;R$ 230,00;Estimado;ROBERTO CARVALHO DOS SANTOS;50333;Deputado Estadual;PSOL;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANDRE COSTA PATRICIO;026.109.855-17;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado; -  -  / 50333 - ROBERTO CARVALHO DOS SANTOS - BA - Deputado Estadual;
+ELIS CRISTIANE CARVALHO DOS SANTOS;862.175.505-04;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 230,00;Estimado; -  -  / 50333 - ROBERTO CARVALHO DOS SANTOS - BA - Deputado Estadual;

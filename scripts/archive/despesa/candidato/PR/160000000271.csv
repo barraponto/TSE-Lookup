@@ -1,2 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSE CARLOS MULLER;357.280.439-68;14/10/2010;43001768601;R$ 1.000,00;Depósito em espécie;JOSE CARLOS MULLER;43127;Deputado Estadual;PV;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CORREIA CAMPOS & CIA LTDA;81.132.581/0001-17;02/10/2010;       Publicidade por materiais impressos;R$ 760,00;Cheque; -  -  / 43127 - JOSE CARLOS MULLER - PR - Deputado Estadual;
+JOSE CARLOS MULLER;055.169.589-70;02/10/2010;       Despesas com pessoal;R$ 240,00;Cheque; -  -  / 43127 - JOSE CARLOS MULLER - PR - Deputado Estadual;

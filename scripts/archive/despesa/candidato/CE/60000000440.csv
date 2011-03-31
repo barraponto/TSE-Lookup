@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.217.554/0001-24;03/09/2010;13000623142;R$ 2.000,00;Estimado;FERNANDO OLIVEIRA SAMPAIO;13250;Deputado Estadual;PT;CE;
-Comitê Financeiro Único;12.217.554/0001-24;27/08/2010;13000623144;R$ 264,70;Estimado;FERNANDO OLIVEIRA SAMPAIO;13250;Deputado Estadual;PT;CE;
-FERNANDO OLIVEIRA SAMPAIO;356.604.493-87;22/09/2010;13000623145;R$ 400,00;Depósito em espécie;FERNANDO OLIVEIRA SAMPAIO;13250;Deputado Estadual;PT;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.217.554/0001-24;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 264,70;Estimado;Comitê Financeiro Único - PT -  / 13250 - FERNANDO OLIVEIRA SAMPAIO - CE - Deputado Estadual;
+Comitê Financeiro Único;12.217.554/0001-24;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado;Comitê Financeiro Único - PT -  / 13250 - FERNANDO OLIVEIRA SAMPAIO - CE - Deputado Estadual;
+GRAPHITI GRAFICA E EDITORA LTDA -ME;11.297.313/0001-70;22/09/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 13250 - FERNANDO OLIVEIRA SAMPAIO - CE - Deputado Estadual;

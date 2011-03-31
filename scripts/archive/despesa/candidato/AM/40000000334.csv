@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;04.160.131/0001-97;30/09/2010;36000086644;R$ 1.000,00;Estimado;EDILSON BARROSO DA COSTA;36036;Deputado Estadual;PTC;AM;
-Diretório Estadual/Distrital;04.160.131/0001-97;14/10/2010;36000086642;R$ 1.665,00;Cheque;EDILSON BARROSO DA COSTA;36036;Deputado Estadual;PTC;AM;
-Diretório Estadual/Distrital;04.160.131/0001-97;13/08/2010;36000086643;R$ 300,00;Estimado;EDILSON BARROSO DA COSTA;36036;Deputado Estadual;PTC;AM;
-GRAFICA SANTOS LTDA;34.532.960/0001-14;03/09/2010;36000086645;R$ 7.750,00;Estimado;EDILSON BARROSO DA COSTA;36036;Deputado Estadual;PTC;AM;
-MISS. EDILSON HAYLANDER;603.731.052-15;31/08/2010;36000086648;R$ 1.700,00;Depósito em espécie;EDILSON BARROSO DA COSTA;36036;Deputado Estadual;PTC;AM;
-VANESSA GRAZZIOTIN;12.172.394/0001-44;02/10/2010;36000086647;R$ 600,00;Estimado;EDILSON BARROSO DA COSTA;36036;Deputado Estadual;PTC;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;04.160.131/0001-97;13/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Direção Estadual/Distrital - PMDB -  / 36036 - EDILSON BARROSO DA COSTA - AM - Deputado Estadual;
+Diretório Estadual/Distrital;04.160.131/0001-97;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;Direção Estadual/Distrital - PMDB -  / 36036 - EDILSON BARROSO DA COSTA - AM - Deputado Estadual;
+GRAFICA SANTOS LTDA;34.532.960/0001-14;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 7.750,00;Estimado; -  -  / 36036 - EDILSON BARROSO DA COSTA - AM - Deputado Estadual;
+GRAFISA GRAFICA E DITORA LTDA;03.633.502/0001-48;14/10/2010;       Publicidade por materiais impressos;R$ 1.665,00;Cheque; -  -  / 36036 - EDILSON BARROSO DA COSTA - AM - Deputado Estadual;
+SIDENY FREITAS DOS SANTOS;417.377.502-44;01/09/2010;       Diversas a especificar;R$ 1.700,00;Cheque; -  -  / 36036 - EDILSON BARROSO DA COSTA - AM - Deputado Estadual;
+VANESSA GRAZZIOTIN;12.172.394/0001-44;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado;656 -  - PC do B -  - Senador / 36036 - EDILSON BARROSO DA COSTA - AM - Deputado Estadual;

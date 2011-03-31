@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.217.556/0001-13;16/08/2010;70000132503;R$ 360,00;Estimado;ELIEL DE SOUSA MENDES;70321;Deputado Distrital;PT do B;DF;
-Comitê Financeiro Único;12.217.556/0001-13;23/08/2010;70000132504;R$ 360,00;Estimado;ELIEL DE SOUSA MENDES;70321;Deputado Distrital;PT do B;DF;
-Comitê Financeiro Único;12.217.556/0001-13;09/08/2010;70000132501;R$ 360,00;Estimado;ELIEL DE SOUSA MENDES;70321;Deputado Distrital;PT do B;DF;
-ELIEL DE SOUSA MENDES;181.418.543-72;09/08/2010;70000132505;R$ 1.500,00;Estimado;ELIEL DE SOUSA MENDES;70321;Deputado Distrital;PT do B;DF;
-RONALDO FONSECA DE SOUZA;12.170.374/0001-34;28/09/2010;70000132506;R$ 700,00;Cheque;ELIEL DE SOUSA MENDES;70321;Deputado Distrital;PT do B;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANDRE ARAUJO NETO;183.181.931-72;09/08/2010;       Despesas com pessoal;R$ 700,00;Cheque; -  -  / 70321 - ELIEL DE SOUSA MENDES - DF - Deputado Distrital;
+Comitê Financeiro Único;12.217.556/0001-13;16/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Único - PT do B -  / 70321 - ELIEL DE SOUSA MENDES - DF - Deputado Distrital;
+Comitê Financeiro Único;12.217.556/0001-13;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Único - PT do B -  / 70321 - ELIEL DE SOUSA MENDES - DF - Deputado Distrital;
+Comitê Financeiro Único;12.217.556/0001-13;09/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Único - PT do B -  / 70321 - ELIEL DE SOUSA MENDES - DF - Deputado Distrital;
+ELIEL DE SOUSA MENDES;181.418.543-72;09/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado; -  -  / 70321 - ELIEL DE SOUSA MENDES - DF - Deputado Distrital;

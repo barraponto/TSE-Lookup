@@ -1,4 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADOLFO LOPES JAMEL EDIN;004.885.691-68;18/08/2010;25000054801;R$ 4.000,00;Depósito em espécie;ADOLFO LOPES JAMEL EDIN;2588;Deputado Federal;DEM;GO;
-ADOLFO LOPES JAMEL EDIN;004.885.691-68;29/10/2010;25000054802;R$ 17,50;Depósito em espécie;ADOLFO LOPES JAMEL EDIN;2588;Deputado Federal;DEM;GO;
-ADOLFO LOPES JAMEL EDIN;004.885.691-68;29/10/2010;25000054803;R$ 18,20;Depósito em espécie;ADOLFO LOPES JAMEL EDIN;2588;Deputado Federal;DEM;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO T 10;02.031.890/0001-24;20/09/2010;       Diversas a especificar;R$ 2.130,00;Transferência eletrônica; -  -  / 2588 - ADOLFO LOPES JAMEL EDIN - GO - Deputado Federal;
+GRAFICA E PAPELARIA DIAS LTDA ME;11.987.128/0001-07;10/09/2010;       Publicidade por materiais impressos;R$ 890,00;Cheque; -  -  / 2588 - ADOLFO LOPES JAMEL EDIN - GO - Deputado Federal;
+GRAFICA E PAPELARIA DIAS LTDA ME;11.987.128/0001-07;14/09/2010;       Publicidade por materiais impressos;R$ 980,00;Cheque; -  -  / 2588 - ADOLFO LOPES JAMEL EDIN - GO - Deputado Federal;
+;;29/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 2588 - ADOLFO LOPES JAMEL EDIN - GO - Deputado Federal;
+;;29/10/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 2588 - ADOLFO LOPES JAMEL EDIN - GO - Deputado Federal;
+;;29/10/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 2588 - ADOLFO LOPES JAMEL EDIN - GO - Deputado Federal;
+;;29/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 2588 - ADOLFO LOPES JAMEL EDIN - GO - Deputado Federal;

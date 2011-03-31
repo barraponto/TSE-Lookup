@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.147.818/0001-10;01/10/2010;43001506351;R$ 583,75;Estimado;ANTONIO CARLOS VOLOTAO FERREIRA;4351;Deputado Federal;PV;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.147.818/0001-10;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 583,75;Estimado;Comitê Financeiro Único - PV -  / 4351 - ANTONIO CARLOS VOLOTAO FERREIRA - RJ - Deputado Federal;

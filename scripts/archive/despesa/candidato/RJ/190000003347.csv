@@ -1,6 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANDRE ESTEVES;831.038.057-72;02/09/2010;43001506505;R$ 3.000,00;Cheque;ANDRE LUIZ ESTEVES;43043;Deputado Estadual;PV;RJ;
-ANDRE ESTEVES;831.038.057-72;12/08/2010;43001506502;R$ 5.500,00;Cheque;ANDRE LUIZ ESTEVES;43043;Deputado Estadual;PV;RJ;
-Diretório Estadual/Distrital;12.147.818/0001-10;01/10/2010;43001506507;R$ 5.770,55;Estimado;ANDRE LUIZ ESTEVES;43043;Deputado Estadual;PV;RJ;
-JOSE MATIAS DA COSTA;032.357.187-53;09/08/2010;43001506501;R$ 5.000,00;Transferência eletrônica;ANDRE LUIZ ESTEVES;43043;Deputado Estadual;PV;RJ;
-RONALDO SA CARVALHO;549.925.327-72;16/09/2010;43001506506;R$ 3.000,00;Cheque;ANDRE LUIZ ESTEVES;43043;Deputado Estadual;PV;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.147.818/0001-10;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 5.770,55;Estimado;Direção Estadual/Distrital - PV -  / 43043 - ANDRE LUIZ ESTEVES - RJ - Deputado Estadual;
+ESDEVA INDUSTRIA GRAFICA S.A;17.153.081/0001-62;05/08/2010;       Publicidade por materiais impressos;R$ 10.050,00;Cheque; -  -  / 43043 - ANDRE LUIZ ESTEVES - RJ - Deputado Estadual;
+MARCO GRILLO TRINDADE;124.570.297-16;01/10/2010;       Serviços prestados por terceiros;R$ 1.600,00;Cheque; -  -  / 43043 - ANDRE LUIZ ESTEVES - RJ - Deputado Estadual;
+RBM COMERCIO DE COPIASE IMPRESSÃO GRAFICA LTDA ME;11.121.252/0001-95;02/09/2010;       Publicidade por placas, estandartes e faixas;R$ 540,00;Cheque; -  -  / 43043 - ANDRE LUIZ ESTEVES - RJ - Deputado Estadual;
+RBM COMERCIO DE COPIASE IMPRESSÃO GRAFICA LTDA ME;11.121.252/0001-95;16/08/2010;       Publicidade por placas, estandartes e faixas;R$ 900,00;Cheque; -  -  / 43043 - ANDRE LUIZ ESTEVES - RJ - Deputado Estadual;
+STUDIO GRAFICO GOOL DE PLACA LTDA;04.267.598/0001-30;11/08/2010;       Publicidade por materiais impressos;R$ 135,00;Cheque; -  -  / 43043 - ANDRE LUIZ ESTEVES - RJ - Deputado Estadual;
+VINILART1547  ADESIVOS ESPECIAIS LTDA;05.959.864/0001-59;10/09/2010;       Publicidade por placas, estandartes e faixas;R$ 700,00;Cheque; -  -  / 43043 - ANDRE LUIZ ESTEVES - RJ - Deputado Estadual;
+VINILART1547  ADESIVOS ESPECIAIS LTDA;05.959.864/0001-59;20/09/2010;       Publicidade por materiais impressos;R$ 700,00;Cheque; -  -  / 43043 - ANDRE LUIZ ESTEVES - RJ - Deputado Estadual;
+VISUANA GRAFICA E EDITORA LTDA;04.561.145/0001-12;23/09/2010;       Publicidade por materiais impressos;R$ 1.760,00;Cheque; -  -  / 43043 - ANDRE LUIZ ESTEVES - RJ - Deputado Estadual;

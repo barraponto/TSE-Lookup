@@ -1,8 +1,2 @@
-Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
-EDITORA E GRAFICA ATALAIA LTDA;00.337.535/0001-52;01/10/2010;       Publicidade por materiais impressos;R$ 5.399,91;Cheque; -  -  / Comitê Financeiro Único - PSC - MT;
-EDITORA E GRAFICA ATALAIA LTDA;00.337.535/0001-52;01/10/2010;       Publicidade por materiais impressos;R$ 2.693,27;Cheque; -  -  / Comitê Financeiro Único - PSC - MT;
-EDITORA E GRAFICA ATALAIA LTDA;00.337.535/0001-52;01/10/2010;       Publicidade por materiais impressos;R$ 732,11;Cheque; -  -  / Comitê Financeiro Único - PSC - MT;
-EDITORA E GRAFICA ATALAIA LTDA;00.337.535/0001-52;01/10/2010;       Publicidade por materiais impressos;R$ 2.124,50;Cheque; -  -  / Comitê Financeiro Único - PSC - MT;
-EDITORA E GRAFICA ATALAIA LTDA;00.337.535/0001-52;01/10/2010;       Publicidade por materiais impressos;R$ 5.785,51;Cheque; -  -  / Comitê Financeiro Único - PSC - MT;
-EDITORA E GRAFICA ATALAIA LTDA;00.337.535/0001-52;01/10/2010;       Publicidade por materiais impressos;R$ 2.502,23;Cheque; -  -  / Comitê Financeiro Único - PSC - MT;
-;;06/10/2010;       Encargos financeiros e taxas bancárias;R$ 21,16;Débito em conta; -  -  / Comitê Financeiro Único - PSC - MT;
+Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
+SILVAL CUNHA BARBOSA;12.199.108/0001-34;21/09/2010;20000470000;R$ 19.500,00;Cheque;Comitê Financeiro Único;PSC;MT;

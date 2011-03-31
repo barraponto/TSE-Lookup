@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.270.066/0001-80;01/09/2010;21000013251;R$ 200,00;Estimado;FRANCISCO ROBERTO DOS SANTOS;2121;Deputado Federal;PCB;CE;
-Comitê Financeiro Único;12.270.066/0001-80;27/09/2010;21000013253;R$ 787,50;Estimado;FRANCISCO ROBERTO DOS SANTOS;2121;Deputado Federal;PCB;CE;
-Comitê Financeiro Único;12.270.066/0001-80;31/08/2010;21000013252;R$ 150,00;Estimado;FRANCISCO ROBERTO DOS SANTOS;2121;Deputado Federal;PCB;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.270.066/0001-80;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 787,50;Estimado;Comitê Financeiro Único - PCB -  / 2121 - FRANCISCO ROBERTO DOS SANTOS - CE - Deputado Federal;
+Comitê Financeiro Único;12.270.066/0001-80;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;Comitê Financeiro Único - PCB -  / 2121 - FRANCISCO ROBERTO DOS SANTOS - CE - Deputado Federal;
+Comitê Financeiro Único;12.270.066/0001-80;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PCB -  / 2121 - FRANCISCO ROBERTO DOS SANTOS - CE - Deputado Federal;

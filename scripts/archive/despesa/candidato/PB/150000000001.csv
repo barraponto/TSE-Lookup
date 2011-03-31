@@ -1,3 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FRANCISCO DE ASSIS OLIVEIRA DA SILVA;251.038.734-00;13/08/2010;21000011201;R$ 3.500,00;Depósito em espécie;FRANCISCO DE ASSIS OLIVEIRA DA SILVA;21;Governador;PCB;PB;
-SAID ABEL DA SILVA;179.288.003-06;03/10/2010;21000011203;R$ 1.500,00;Estimado;FRANCISCO DE ASSIS OLIVEIRA DA SILVA;21;Governador;PCB;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AGOSTINHO LOPES FILHO;380.240.394-00;01/10/2010;       Serviços prestados por terceiros;R$ 221,00;Cheque; -  -  / 21 - FRANCISCO DE ASSIS OLIVEIRA DA SILVA - PB - Governador;
+F&A GRAFICA E EDITORA LTDA;03.705.891/0001-70;17/09/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 21 - FRANCISCO DE ASSIS OLIVEIRA DA SILVA - PB - Governador;
+MARTINS OLIVEIRA RESTAURANTE LTDA;24.491.912/0001-71;17/08/2010;       Alimentação;R$ 160,00;Cheque; -  -  / 21 - FRANCISCO DE ASSIS OLIVEIRA DA SILVA - PB - Governador;
+ORLANDO VIDEO PRODUÇÕES LTDA;08.314.388/0001-07;16/08/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 2.000,00;Cheque; -  -  / 21 - FRANCISCO DE ASSIS OLIVEIRA DA SILVA - PB - Governador;
+REGINALDO SOARES COUTINHO;324.588.274-20;27/08/2010;       Publicidade por materiais impressos;R$ 100,00;Cheque; -  -  / 21 - FRANCISCO DE ASSIS OLIVEIRA DA SILVA - PB - Governador;
+SAID ABEL DA SILVA;179.288.003-06;03/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado; -  -  / 21 - FRANCISCO DE ASSIS OLIVEIRA DA SILVA - PB - Governador;
+;;13/08/2010;       Encargos financeiros e taxas bancárias;R$ 19,00;Débito em conta; -  -  / 21 - FRANCISCO DE ASSIS OLIVEIRA DA SILVA - PB - Governador;

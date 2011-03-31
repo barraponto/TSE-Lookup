@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.221.869/0001-45;17/08/2010;70000181502;R$ 2.547,86;Estimado;LEONARDO DE CARVALHO ARAUJO;70258;Deputado Estadual;PT do B;PI;
-Comitê Financeiro Único;12.221.869/0001-45;01/10/2010;70000181503;R$ 420,00;Estimado;LEONARDO DE CARVALHO ARAUJO;70258;Deputado Estadual;PT do B;PI;
-ELEIÇÃO 2010 ELIAS XIMENES DO PRADO DEPUTADO ESTADUAL;12.168.018/0001-86;23/07/2010;70000181501;R$ 180,00;Estimado;LEONARDO DE CARVALHO ARAUJO;70258;Deputado Estadual;PT do B;PI;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.221.869/0001-45;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 420,00;Estimado;Comitê Financeiro Único - PT do B -  / 70258 - LEONARDO DE CARVALHO ARAUJO - PI - Deputado Estadual;
+Comitê Financeiro Único;12.221.869/0001-45;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.547,86;Estimado;Comitê Financeiro Único - PT do B -  / 70258 - LEONARDO DE CARVALHO ARAUJO - PI - Deputado Estadual;
+ELEIÇÃO 2010 ELIAS XIMENES DO PRADO DEPUTADO ESTADUAL;12.168.018/0001-86;23/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 180,00;Estimado;70123 -  - PT do B -  - Deputado Estadual / 70258 - LEONARDO DE CARVALHO ARAUJO - PI - Deputado Estadual;

@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.167/0001-85;06/09/2010;10000027601;R$ 4.980,00;Estimado;CLEBER LUIZ DO REGO;1066;Deputado Federal;PRB;RJ;
-Comitê Financeiro Único;12.200.167/0001-85;30/09/2010;10000027603;R$ 500,00;Estimado;CLEBER LUIZ DO REGO;1066;Deputado Federal;PRB;RJ;
-Comitê Financeiro Único;12.200.167/0001-85;15/09/2010;10000027602;R$ 230,00;Estimado;CLEBER LUIZ DO REGO;1066;Deputado Federal;PRB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.167/0001-85;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;Comitê Financeiro Único - PRB -  / 1066 - CLEBER LUIZ DO REGO - RJ - Deputado Federal;
+Comitê Financeiro Único;12.200.167/0001-85;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.980,00;Estimado;Comitê Financeiro Único - PRB -  / 1066 - CLEBER LUIZ DO REGO - RJ - Deputado Federal;
+Comitê Financeiro Único;12.200.167/0001-85;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 230,00;Estimado;Comitê Financeiro Único - PRB -  / 1066 - CLEBER LUIZ DO REGO - RJ - Deputado Federal;

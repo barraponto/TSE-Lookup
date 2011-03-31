@@ -1,5 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANDRÉ PUCCINELLI;12.167.550/0001-89;28/07/2010;25000633801;R$ 5.000,00;Cheque;SERGIO NOGUEIRA;2533;Deputado Federal;DEM;MS;
-ANDRÉ PUCCINELLI;12.167.550/0001-89;28/07/2010;25000633802;R$ 5.000,00;Cheque;SERGIO NOGUEIRA;2533;Deputado Federal;DEM;MS;
-ELEIÇAO 2010 ANDRÉ PUCCINELLI;12.167.550/0001-89;02/09/2010;25000633803;R$ 10.000,00;Cheque;SERGIO NOGUEIRA;2533;Deputado Federal;DEM;MS;
-ELEIÇOES 2010 ANDRE PUCCINELLI;12.167.550/0001-89;02/09/2010;25000633804;R$ 10.000,00;Cheque;SERGIO NOGUEIRA;2533;Deputado Federal;DEM;MS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO RAFAELA LTDA;01.243.177/0001-81;02/08/2010;       Combustíveis e lubrificantes;R$ 10.000,00;Cheque; -  -  / 2533 - SERGIO NOGUEIRA - MS - Deputado Federal;
+AUTO POSTO VARGAS;02.130.956/0001-33;15/09/2010;       Combustíveis e lubrificantes;R$ 10.000,00;Cheque; -  -  / 2533 - SERGIO NOGUEIRA - MS - Deputado Federal;
+LUPA COMUNICAÇÃO LTDA;10.925.508/0001-54;06/09/2010;       Produção de jingles, vinhetas e slogans;R$ 10.000,00;Cheque; -  -  / 2533 - SERGIO NOGUEIRA - MS - Deputado Federal;

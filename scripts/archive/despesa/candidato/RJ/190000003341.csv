@@ -1,4 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ILHA NOTÍCIAS EDITORA JORNALÍSTICA LTDA.;28.702.165/0001-24;01/10/2010;43001505904;R$ 560,00;Estimado;RAIMUNDO NONATO DE SOUSA BERNARDO;4357;Deputado Federal;PV;RJ;
-RAIMUNDO NONATO DE SOUSA BERNARDO;431.778.247-20;02/09/2010;43001505903;R$ 100,00;Cheque;RAIMUNDO NONATO DE SOUSA BERNARDO;4357;Deputado Federal;PV;RJ;
-ROBERTO CARNEIRO DOS SANTOS FILHO;083.368.767-07;26/07/2010;43001505902;R$ 1.000,00;Transferência eletrônica;RAIMUNDO NONATO DE SOUSA BERNARDO;4357;Deputado Federal;PV;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ILHA NOTÍCIAS EDITORA JORNALÍSTICA LTDA.;28.702.165/0001-24;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 560,00;Estimado; -  -  / 4357 - RAIMUNDO NONATO DE SOUSA BERNARDO - RJ - Deputado Federal;
+JOSÉ ACÁCIO;676.586.444-04;04/08/2010;       Despesas com transporte ou deslocamento;R$ 42,80;Cheque; -  -  / 4357 - RAIMUNDO NONATO DE SOUSA BERNARDO - RJ - Deputado Federal;
+MYTRA GRAFICA E EDITORA LTDA;28.916.104/0001-60;27/08/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 4357 - RAIMUNDO NONATO DE SOUSA BERNARDO - RJ - Deputado Federal;
+MYTRA GRAFICA E EDITORA LTDA;28.916.104/0001-60;02/09/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 4357 - RAIMUNDO NONATO DE SOUSA BERNARDO - RJ - Deputado Federal;
+NILO PEÇANHA TÁXI;04.568.902/0001-80;26/08/2010;       Despesas com transporte ou deslocamento;R$ 31,80;Cheque; -  -  / 4357 - RAIMUNDO NONATO DE SOUSA BERNARDO - RJ - Deputado Federal;

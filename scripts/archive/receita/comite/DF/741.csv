@@ -1,3 +1,3 @@
-Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
-JOAQUIM DOMINGOS RORIZ;12.167.447/0001-39;06/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 19.080,00;Estimado;20 -  - PSC -  - Governador / Comitê Financeiro Único - PSC - DF;
-JOAQUIM DOMINGOS RORIZ;12.167.447/0001-39;16/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 19.080,00;Estimado;20 -  - PSC -  - Governador / Comitê Financeiro Único - PSC - DF;
+Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
+JOAQUIM DOMINGOS RORIZ;12.167.447/0001-39;16/08/2010;20000141182;R$ 19.080,00;Estimado;Comitê Financeiro Único;PSC;DF;
+JOAQUIM DOMINGOS RORIZ;12.167.447/0001-39;06/08/2010;20000141181;R$ 19.080,00;Estimado;Comitê Financeiro Único;PSC;DF;

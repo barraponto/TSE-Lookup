@@ -1,5 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FABIANA CAMPOS SILVA;618.049.752-49;05/09/2010;44000026824;R$ 1.500,00;Estimado;ROQUE LANE WILKENS MARINHO;44010;Deputado Estadual;PRP;AM;
-ROQUE LANE WILKENS MARINHO;161.062.532-34;01/09/2010;44000026823;R$ 1.200,00;Depósito em espécie;ROQUE LANE WILKENS MARINHO;44010;Deputado Estadual;PRP;AM;
-ROQUE LANE WILKENS MARINHO;161.062.532-34;19/08/2010;44000026821;R$ 1.000,00;Depósito em espécie;ROQUE LANE WILKENS MARINHO;44010;Deputado Estadual;PRP;AM;
-ROQUE LANE WILKENS MARINHO;161.062.532-34;19/08/2010;44000026822;R$ 400,00;Depósito em espécie;ROQUE LANE WILKENS MARINHO;44010;Deputado Estadual;PRP;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTÔNIO CARLOS FERREIRA LEÃO;160.077.352-49;30/08/2010;       Diversas a especificar;R$ 500,00;Cheque; -  -  / 44010 - ROQUE LANE WILKENS MARINHO - AM - Deputado Estadual;
+FABIANA CAMPOS SILVA;618.049.752-49;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado; -  -  / 44010 - ROQUE LANE WILKENS MARINHO - AM - Deputado Estadual;
+ILMAR MENEZES PIMENTEL;512.694.902-06;26/10/2010;       Diversas a especificar;R$ 421,40;Cheque; -  -  / 44010 - ROQUE LANE WILKENS MARINHO - AM - Deputado Estadual;
+NOVA COMERCIAL LTDA;04.967.100/0001-42;23/08/2010;       Diversas a especificar;R$ 217,00;Cheque; -  -  / 44010 - ROQUE LANE WILKENS MARINHO - AM - Deputado Estadual;
+REDINEY SANTOS DA ROCHA;291.620.252-87;02/09/2010;       Diversas a especificar;R$ 1.200,00;Cheque; -  -  / 44010 - ROQUE LANE WILKENS MARINHO - AM - Deputado Estadual;
+SILVIO PEREIRA DA SILVA;534.409.942-87;23/08/2010;       Diversas a especificar;R$ 250,00;Cheque; -  -  / 44010 - ROQUE LANE WILKENS MARINHO - AM - Deputado Estadual;
+;;23/08/2010;       Encargos financeiros e taxas bancárias;R$ 5,80;Débito em conta; -  -  / 44010 - ROQUE LANE WILKENS MARINHO - AM - Deputado Estadual;
+;;20/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 44010 - ROQUE LANE WILKENS MARINHO - AM - Deputado Estadual;
+;;03/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 44010 - ROQUE LANE WILKENS MARINHO - AM - Deputado Estadual;

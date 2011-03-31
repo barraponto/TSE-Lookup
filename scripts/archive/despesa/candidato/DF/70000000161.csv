@@ -1,5 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-AILTON AGUIAR BARBOSA;630.990.713-15;30/07/2010;17000027701;R$ 1.500,00;Depósito em espécie;AILTON AGUIAR BARBOSA;17123;Deputado Distrital;PSL;DF;
-AILTON AGUIAR BARBOSA;630.990.713-15;01/10/2010;17000027704;R$ 5.000,00;Depósito em espécie;AILTON AGUIAR BARBOSA;17123;Deputado Distrital;PSL;DF;
-AILTON AGUIAR BARBOSA;630.990.713-15;01/10/2010;17000027703;R$ 5.150,00;Depósito em espécie;AILTON AGUIAR BARBOSA;17123;Deputado Distrital;PSL;DF;
-AILTON AGUIAR BARBOSA;630.990.713-15;03/08/2010;17000027702;R$ 50,00;Depósito em espécie;AILTON AGUIAR BARBOSA;17123;Deputado Distrital;PSL;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ENOQUE ARTES LTDA;01.671.656/0001-07;03/08/2010;       Publicidade por materiais impressos;R$ 900,00;Transferência eletrônica; -  -  / 17123 - AILTON AGUIAR BARBOSA - DF - Deputado Distrital;
+ENOQUE ARTES LTDA;01.671.656/0001-07;01/10/2010;       Publicidade por placas, estandartes e faixas;R$ 3.000,00;Transferência eletrônica; -  -  / 17123 - AILTON AGUIAR BARBOSA - DF - Deputado Distrital;
+LM DE BARROS GRAFICA ME;05.864.801/0001-19;01/10/2010;       Publicidade por materiais impressos;R$ 2.500,00;Transferência eletrônica; -  -  / 17123 - AILTON AGUIAR BARBOSA - DF - Deputado Distrital;
+LM DE BARROS GRAFICA ME;05.864.801/0001-19;03/08/2010;       Publicidade por materiais impressos;R$ 600,00;Transferência eletrônica; -  -  / 17123 - AILTON AGUIAR BARBOSA - DF - Deputado Distrital;
+PRINTMAX COMERCIO E SERVIÇOS E CONF ET LTDA;02.299.603/0001-61;01/10/2010;       Publicidade por materiais impressos;R$ 4.500,00;Transferência eletrônica; -  -  / 17123 - AILTON AGUIAR BARBOSA - DF - Deputado Distrital;
+;;01/10/2010;       Encargos financeiros e taxas bancárias;R$ 15,00;Débito em conta; -  -  / 17123 - AILTON AGUIAR BARBOSA - DF - Deputado Distrital;
+;;01/10/2010;       Encargos financeiros e taxas bancárias;R$ 15,00;Débito em conta; -  -  / 17123 - AILTON AGUIAR BARBOSA - DF - Deputado Distrital;
+;;03/08/2010;       Encargos financeiros e taxas bancárias;R$ 15,00;Débito em conta; -  -  / 17123 - AILTON AGUIAR BARBOSA - DF - Deputado Distrital;
+;;03/08/2010;       Encargos financeiros e taxas bancárias;R$ 15,00;Débito em conta; -  -  / 17123 - AILTON AGUIAR BARBOSA - DF - Deputado Distrital;
+;;01/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,95;Débito em conta; -  -  / 17123 - AILTON AGUIAR BARBOSA - DF - Deputado Distrital;

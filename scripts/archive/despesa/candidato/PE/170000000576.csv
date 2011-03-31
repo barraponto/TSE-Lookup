@@ -1,6 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 JOSÉ SEVERIANO CHAVES DEP;12.168.187/0001-16;26/09/2010;36000064403;R$ 811,50;Estimado;LUCIANO OLIVEIRA DE ANDRADE;36100;Deputado Estadual;PTC;PE;
-JOSÉ SEVERIANO CHAVES;12.168.187/0001-16;27/09/2010;36000064404;R$ 30.000,00;Transferência eletrônica;LUCIANO OLIVEIRA DE ANDRADE;36100;Deputado Estadual;PTC;PE;
-LUCIANO OLIVEIRA DE ANDRADE;283.104.704-87;26/10/2010;36000064405;R$ 21,94;Depósito em espécie;LUCIANO OLIVEIRA DE ANDRADE;36100;Deputado Estadual;PTC;PE;
-MARCELA NEVES DE ANDRADE;666.688.754-91;26/08/2010;36000064401;R$ 3.000,00;Depósito em espécie;LUCIANO OLIVEIRA DE ANDRADE;36100;Deputado Estadual;PTC;PE;
-MARTA LIMA COMUNICAÇÃO;70.085.014/0001-30;26/08/2010;36000064402;R$ 1.960,00;Cheque;LUCIANO OLIVEIRA DE ANDRADE;36100;Deputado Estadual;PTC;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CCS GRAFICA E EDITORA COM E REP LTDA;35.603.307/0001-61;29/09/2010;       Publicidade por materiais impressos;R$ 7.950,00;Cheque; -  -  / 36100 - LUCIANO OLIVEIRA DE ANDRADE - PE - Deputado Estadual;
+DINAMICA DISTRIBUIÇÃO E COM DE MATERIAL DE EXPEDIENTE;07.880.119/0001-45;29/09/2010;       Materiais de expediente;R$ 4.000,00;Cheque; -  -  / 36100 - LUCIANO OLIVEIRA DE ANDRADE - PE - Deputado Estadual;
+ELEIÇÃO 2010 JOSÉ SEVERIANO CHAVES DEP;12.168.187/0001-16;26/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 811,50;Estimado;1444 -  - PTB -  - Deputado Federal / 36100 - LUCIANO OLIVEIRA DE ANDRADE - PE - Deputado Estadual;
+ETIQUETAS DO BRASIL IND GRAFICAS LTDA;01.515.239/0001-67;19/08/2010;       Publicidade por placas, estandartes e faixas;R$ 1.960,00;Transferência eletrônica; -  -  / 36100 - LUCIANO OLIVEIRA DE ANDRADE - PE - Deputado Estadual;
+GMV COMBUSTIVEIS LTDA;04.527.919/0001-99;30/09/2010;       Combustíveis e lubrificantes;R$ 146,00;Cheque; -  -  / 36100 - LUCIANO OLIVEIRA DE ANDRADE - PE - Deputado Estadual;
+P F DO REGO FILHO PUBLICIDADE LTDA;09.113.936/0001-01;29/09/2010;       Publicidade por carros de som;R$ 14.500,00;Cheque; -  -  / 36100 - LUCIANO OLIVEIRA DE ANDRADE - PE - Deputado Estadual;
+SINALIZE SERVIÇOS E SUPRIMENTOS;01.677.486/0001-60;29/09/2010;       Publicidade por materiais impressos;R$ 6.350,00;Cheque; -  -  / 36100 - LUCIANO OLIVEIRA DE ANDRADE - PE - Deputado Estadual;
+;;20/10/2010;       Encargos financeiros e taxas bancárias;R$ 75,94;Débito em conta; -  -  / 36100 - LUCIANO OLIVEIRA DE ANDRADE - PE - Deputado Estadual;

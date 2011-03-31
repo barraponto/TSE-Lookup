@@ -1,6 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADRIANO RORATO;032.910.769-07;29/09/2010;19000040904;R$ 692,00;Depósito em espécie;ANDRE RORATO;19021;Deputado Estadual;PTN;PR;
-ALBINO RORATO;703.120.609-04;25/07/2010;19000040901;R$ 1.500,00;Depósito em espécie;ANDRE RORATO;19021;Deputado Estadual;PTN;PR;
-ANDRE RORATO;033.258.279-50;17/09/2010;19000040903;R$ 1.000,00;Depósito em espécie;ANDRE RORATO;19021;Deputado Estadual;PTN;PR;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;14/09/2010;19000040905;R$ 500,00;Estimado;ANDRE RORATO;19021;Deputado Estadual;PTN;PR;
-PLACIDO RORATO;060.003.049-00;25/07/2010;19000040902;R$ 2.000,00;Depósito em espécie;ANDRE RORATO;19021;Deputado Estadual;PTN;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BALBINOT & BALBINOT LTDA;02.479.138/0001-40;09/08/2010;       Publicidade por placas, estandartes e faixas;R$ 350,00;Cheque; -  -  / 19021 - ANDRE RORATO - PR - Deputado Estadual;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;45 -  - PSDB -  - Governador / 19021 - ANDRE RORATO - PR - Deputado Estadual;
+CONGRAFI ARTES GRÁFICAS LTDA;02.617.798/0001-40;30/08/2010;       Publicidade por materiais impressos;R$ 530,00;Cheque; -  -  / 19021 - ANDRE RORATO - PR - Deputado Estadual;
+EDITORA GAZETA DO IGUAÇU LTDA;81.062.317/0001-54;29/09/2010;       Publicidade por materiais impressos;R$ 1.200,00;Cheque; -  -  / 19021 - ANDRE RORATO - PR - Deputado Estadual;
+EDITORA PRIMEIRA LINHA LTDA;81.185.530/0001-53;22/09/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 19021 - ANDRE RORATO - PR - Deputado Estadual;
+JOSÉ OLIVEIRA ANTUNES;08.742.572/0001-58;12/08/2010;       Publicidade por jornais e revistas;R$ 400,00;Cheque; -  -  / 19021 - ANDRE RORATO - PR - Deputado Estadual;
+MAT. P/ COMUNICAÇÃO VISUAL E SERIGRAFIA SIKFOZ COMUNICAÇÃO LTDA;03.939.689/0001-02;28/07/2010;       Publicidade por materiais impressos;R$ 1.430,00;Cheque; -  -  / 19021 - ANDRE RORATO - PR - Deputado Estadual;
+MAT. P/ COMUNICAÇÃO VISUAL E SERIGRAFIA SIKFOZ COMUNICAÇÃO LTDA;03.939.689/0001-02;16/08/2010;       Publicidade por placas, estandartes e faixas;R$ 682,00;Cheque; -  -  / 19021 - ANDRE RORATO - PR - Deputado Estadual;

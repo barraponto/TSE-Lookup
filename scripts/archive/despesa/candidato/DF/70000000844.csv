@@ -1,3 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JULIO PINHEIRO CARDIA;727.513.711-91;09/08/2010;43001791732;R$ 900,00;Depósito em espécie;JULIO PINHEIRO CARDIA;43024;Deputado Distrital;PV;DF;
-JULIO PINHEIRO CARDIA;727.513.711-91;04/08/2010;43001791731;R$ 1.510,00;Depósito em espécie;JULIO PINHEIRO CARDIA;43024;Deputado Distrital;PV;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CANAA COMBUSTIVEIS PARA VEICULOS LTDA;00.661.132/0002-45;22/07/2010;       Despesas com transporte ou deslocamento;R$ 50,00;Não informado; -  -  / 43024 - JULIO PINHEIRO CARDIA - DF - Deputado Distrital;
+CCI COMERCIO E REPRESENTACOES LTDA;00.218.213/0001-94;16/07/2010;       Publicidade por materiais impressos;R$ 105,00;Não informado; -  -  / 43024 - JULIO PINHEIRO CARDIA - DF - Deputado Distrital;
+KACO EDITORAÇÃO ELETRÔNICA LTDA;72.599.921/0001-23;04/08/2010;       Publicidade por materiais impressos;R$ 1.500,00;Não informado; -  -  / 43024 - JULIO PINHEIRO CARDIA - DF - Deputado Distrital;
+KACO EDITORAÇÃO ELETRÔNICA LTDA;72.599.921/0001-23;12/08/2010;       Publicidade por materiais impressos;R$ 600,00;Não informado; -  -  / 43024 - JULIO PINHEIRO CARDIA - DF - Deputado Distrital;
+QUALITY ART DESIGN;04.917.240/0001-06;12/08/2010;       Publicidade por materiais impressos;R$ 54,00;Não informado; -  -  / 43024 - JULIO PINHEIRO CARDIA - DF - Deputado Distrital;
+QUALITY ART DESIGN;04.917.240/0001-06;21/07/2010;       Publicidade por materiais impressos;R$ 66,50;Não informado; -  -  / 43024 - JULIO PINHEIRO CARDIA - DF - Deputado Distrital;

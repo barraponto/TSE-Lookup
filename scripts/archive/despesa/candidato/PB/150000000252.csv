@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS BEZERRA CAVALCANTI;003.884.754-04;14/09/2010;13000778486;R$ 250,00;Cheque;ANTONIO SANTANA DE OLIVEIRA;13111;Deputado Estadual;PT;PB;
-CARLOS BEZERRA CAVALCANTI;003.884.754-04;16/08/2010;13000778481;R$ 1.500,00;Estimado;ANTONIO SANTANA DE OLIVEIRA;13111;Deputado Estadual;PT;PB;
-ELEIÇÃO 2010 LUIZ A COUTO;12.189.459/0001-64;23/08/2010;13000778483;R$ 930,00;Estimado;ANTONIO SANTANA DE OLIVEIRA;13111;Deputado Estadual;PT;PB;
-JOSE TARGINO MARANHÃO;12.189.345/0001-14;31/08/2010;13000778485;R$ 523,56;Estimado;ANTONIO SANTANA DE OLIVEIRA;13111;Deputado Estadual;PT;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARMAZEM LORENA;05.675.468/0001-08;21/09/2010;       Diversas a especificar;R$ 125,50;Cheque; -  -  / 13111 - ANTONIO SANTANA DE OLIVEIRA - PB - Deputado Estadual;
+CARLOS BEZERRA CAVALCANTI;003.884.754-04;16/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado; -  -  / 13111 - ANTONIO SANTANA DE OLIVEIRA - PB - Deputado Estadual;
+ELEIÇÃO 2010 LUIZ A COUTO;12.189.459/0001-64;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 930,00;Estimado;1345 -  - PT -  - Deputado Federal / 13111 - ANTONIO SANTANA DE OLIVEIRA - PB - Deputado Estadual;
+JOSE TARGINO MARANHÃO;12.189.345/0001-14;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 523,56;Estimado;15 -  - PMDB -  - Governador / 13111 - ANTONIO SANTANA DE OLIVEIRA - PB - Deputado Estadual;
+MARIA DA GUIA DOS SANTOS;003.884.754-04;30/09/2010;       Locação/cessão de bens imóveis;R$ 110,00;Cheque; -  -  / 13111 - ANTONIO SANTANA DE OLIVEIRA - PB - Deputado Estadual;

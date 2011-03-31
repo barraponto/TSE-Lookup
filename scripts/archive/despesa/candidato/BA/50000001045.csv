@@ -1,6 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.940/0001-03;08/09/2010;65000047703;R$ 1.000,00;Cheque;VALTER MOACIR REIS DOS SANTOS;65600;Deputado Estadual;PC do B;BA;
-Diretório Estadual/Distrital;13.758.016/0001-00;24/09/2010;65000047705;R$ 1.000,00;Cheque;VALTER MOACIR REIS DOS SANTOS;65600;Deputado Estadual;PC do B;BA;
-PAULO FELIPE MATOS DE SOUZA;387.741.277-72;09/08/2010;65000047701;R$ 2.000,00;Depósito em espécie;VALTER MOACIR REIS DOS SANTOS;65600;Deputado Estadual;PC do B;BA;
-VALTER MOACIR REIS DOS SANTOS;238.244.765-68;25/08/2010;65000047702;R$ 3.000,00;Depósito em espécie;VALTER MOACIR REIS DOS SANTOS;65600;Deputado Estadual;PC do B;BA;
-VALTER MOACIR REIS DOS SANTOS;238.244.765-68;17/09/2010;65000047704;R$ 500,00;Depósito em espécie;VALTER MOACIR REIS DOS SANTOS;65600;Deputado Estadual;PC do B;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRASB GRAFICA SANTA BARBARA LTDA;15.719.743/0001-93;30/08/2010;       Publicidade por materiais impressos;R$ 1.820,00;Não informado; -  -  / 65600 - VALTER MOACIR REIS DOS SANTOS - BA - Deputado Estadual;
+MENDES FILME COMERCIO E SERVIÇOS LTDA;05.736.010/0001-03;16/08/2010;       Publicidade por materiais impressos;R$ 50,00;Não informado; -  -  / 65600 - VALTER MOACIR REIS DOS SANTOS - BA - Deputado Estadual;
+VISION GRAF;03.336.621/0001-39;15/09/2010;       Publicidade por materiais impressos;R$ 5.000,00;Cheque; -  -  / 65600 - VALTER MOACIR REIS DOS SANTOS - BA - Deputado Estadual;
+VISION GRAF;03.336.621/0001-39;26/08/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 65600 - VALTER MOACIR REIS DOS SANTOS - BA - Deputado Estadual;
+VISION GRAF;03.336.621/0001-39;18/10/2010;       Publicidade por materiais impressos;R$ 996,00;Cheque; -  -  / 65600 - VALTER MOACIR REIS DOS SANTOS - BA - Deputado Estadual;
+VISION GRAF;03.336.621/0001-39;16/08/2010;       Publicidade por materiais impressos;R$ 950,00;Cheque; -  -  / 65600 - VALTER MOACIR REIS DOS SANTOS - BA - Deputado Estadual;
+;;30/09/2010;       Encargos financeiros e taxas bancárias;R$ 1,83;Débito em conta; -  -  / 65600 - VALTER MOACIR REIS DOS SANTOS - BA - Deputado Estadual;
+;;30/09/2010;       Encargos financeiros e taxas bancárias;R$ 1,92;Débito em conta; -  -  / 65600 - VALTER MOACIR REIS DOS SANTOS - BA - Deputado Estadual;

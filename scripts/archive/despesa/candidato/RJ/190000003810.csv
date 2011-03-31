@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;05/08/2010;14000129991;R$ 150,00;Estimado;NILSON CARMO DE ALMEIDA;14117;Deputado Estadual;PTB;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;27/09/2010;14000129993;R$ 150,00;Estimado;NILSON CARMO DE ALMEIDA;14117;Deputado Estadual;PTB;RJ;
-JORGE SAYED PICCIANI;12.176.626/0001-32;24/08/2010;14000129992;R$ 17,00;Estimado;NILSON CARMO DE ALMEIDA;14117;Deputado Estadual;PTB;RJ;
-MARCELO Z. NOGUEIRA ITAGIBA;12.204.972/0001-87;30/09/2010;14000129996;R$ 1.100,00;Estimado;NILSON CARMO DE ALMEIDA;14117;Deputado Estadual;PTB;RJ;
-ROGÉRIO PORTELLA PAIM;12.181.317/0001-50;30/09/2010;14000129994;R$ 325,00;Estimado;NILSON CARMO DE ALMEIDA;14117;Deputado Estadual;PTB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 14117 - NILSON CARMO DE ALMEIDA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 14117 - NILSON CARMO DE ALMEIDA - RJ - Deputado Estadual;
+JORGE SAYED PICCIANI;12.176.626/0001-32;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 14117 - NILSON CARMO DE ALMEIDA - RJ - Deputado Estadual;
+MARCELO Z. NOGUEIRA ITAGIBA;12.204.972/0001-87;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.100,00;Estimado;4518 -  - PSDB -  - Deputado Federal / 14117 - NILSON CARMO DE ALMEIDA - RJ - Deputado Estadual;
+ROGÉRIO PORTELLA PAIM;12.181.317/0001-50;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 325,00;Estimado;1410 -  - PTB -  - Deputado Federal / 14117 - NILSON CARMO DE ALMEIDA - RJ - Deputado Estadual;

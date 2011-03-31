@@ -1,3 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-BETÂNIA LOPES BALLADARES;004.187.150-25;21/09/2010;50000477572;R$ 300,00;Depósito em espécie;MARIO AUGUSTO CORREIA SAN SEGUNDO;5002;Deputado Federal;PSOL;RS;
-CLAUDIA BEATRIZ NETO CORREIA;448.807.150-34;03/08/2010;50000477571;R$ 1.200,00;Estimado;MARIO AUGUSTO CORREIA SAN SEGUNDO;5002;Deputado Federal;PSOL;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CLAUDIA BEATRIZ NETO CORREIA;448.807.150-34;03/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.200,00;Estimado; -  -  / 5002 - MARIO AUGUSTO CORREIA SAN SEGUNDO - RS - Deputado Federal;
+ETERPEL;89.606.933/0001-30;29/09/2010;       Despesas com transporte ou deslocamento;R$ 38,00;Transferência eletrônica; -  -  / 5002 - MARIO AUGUSTO CORREIA SAN SEGUNDO - RS - Deputado Federal;
+POSTO CIDADÃO CAPAZ;07.732.693/0001-56;30/09/2010;       Combustíveis e lubrificantes;R$ 40,00;Transferência eletrônica; -  -  / 5002 - MARIO AUGUSTO CORREIA SAN SEGUNDO - RS - Deputado Federal;
+POSTO MODELO;05.338.893/0004-46;03/10/2010;       Combustíveis e lubrificantes;R$ 104,51;Transferência eletrônica; -  -  / 5002 - MARIO AUGUSTO CORREIA SAN SEGUNDO - RS - Deputado Federal;
+POSTO MODELO;05.338.893/0004-46;27/09/2010;       Combustíveis e lubrificantes;R$ 113,02;Transferência eletrônica; -  -  / 5002 - MARIO AUGUSTO CORREIA SAN SEGUNDO - RS - Deputado Federal;

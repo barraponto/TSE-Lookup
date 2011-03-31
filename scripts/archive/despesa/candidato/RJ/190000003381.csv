@@ -1,5 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CELIO GOMES DA SILVA;396.581.477-04;30/08/2010;43000504901;R$ 50,00;Depósito em espécie;VALDOMIRO FRANCISCO DE ALMEIDA;43051;Deputado Estadual;PV;RJ;
-Diretório Estadual/Distrital;12.147.818/0001-10;25/09/2010;43000504903;R$ 1.101,02;Estimado;VALDOMIRO FRANCISCO DE ALMEIDA;43051;Deputado Estadual;PV;RJ;
-VALDOMIRO FRANCISCO DE ALMEIDA;208.432.328-20;29/10/2010;43000504904;R$ 112,00;Estimado;VALDOMIRO FRANCISCO DE ALMEIDA;43051;Deputado Estadual;PV;RJ;
-ZILMA DERRI DEALMEIDA;557.172.177-49;30/08/2010;43000504902;R$ 350,00;Depósito em espécie;VALDOMIRO FRANCISCO DE ALMEIDA;43051;Deputado Estadual;PV;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.147.818/0001-10;25/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.101,02;Estimado;Direção Estadual/Distrital - PV -  / 43051 - VALDOMIRO FRANCISCO DE ALMEIDA - RJ - Deputado Estadual;
+GRUPO VERDE MANIA;36.552.834/0001-57;29/10/2010;       Serviços prestados por terceiros;R$ 28,48;Cheque; -  -  / 43051 - VALDOMIRO FRANCISCO DE ALMEIDA - RJ - Deputado Estadual;
+STUDIO GRÁFICO GOOL DE PLACA LTDA.;04.267.598/0001-30;30/08/2010;       Publicidade por materiais impressos;R$ 280,00;Cheque; -  -  / 43051 - VALDOMIRO FRANCISCO DE ALMEIDA - RJ - Deputado Estadual;
+STUDIO GRÁFICO GOOL DE PLACA LTDA.;04.267.598/0001-30;30/08/2010;       Publicidade por materiais impressos;R$ 112,00;Cheque; -  -  / 43051 - VALDOMIRO FRANCISCO DE ALMEIDA - RJ - Deputado Estadual;
+VALDOMIRO FRANCISCO DE ALMEIDA;208.432.328-20;29/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 112,00;Estimado; -  -  / 43051 - VALDOMIRO FRANCISCO DE ALMEIDA - RJ - Deputado Estadual;
+;;29/10/2010;       Encargos financeiros e taxas bancárias;R$ 91,52;Débito em conta; -  -  / 43051 - VALDOMIRO FRANCISCO DE ALMEIDA - RJ - Deputado Estadual;

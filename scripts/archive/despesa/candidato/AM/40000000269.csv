@@ -1,5 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALFREDO PEREIRA DO NASCIMENTO;12.169.771/0001-96;11/08/2010;12001006581;R$ 3.000,00;Cheque;NOEMIA FERNANDES LEITE;1213;Deputado Federal;PDT;AM;
-ALFREDO PEREIRA DO NASCIMENTO;12.169.771/0001-96;09/09/2010;12001006583;R$ 3.000,00;Cheque;NOEMIA FERNANDES LEITE;1213;Deputado Federal;PDT;AM;
-Comitê Financeiro Único;12.156.263/0001-73;21/07/2010;12001006585;R$ 2.500,00;Estimado;NOEMIA FERNANDES LEITE;1213;Deputado Federal;PDT;AM;
-JEFFERSON PRAIA BEZERRA;12.171.818/0001-56;23/08/2010;12001006582;R$ 291,20;Estimado;NOEMIA FERNANDES LEITE;1213;Deputado Federal;PDT;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.156.263/0001-73;21/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.500,00;Estimado;Comitê Financeiro Único - PDT -  / 1213 - NOEMIA FERNANDES LEITE - AM - Deputado Federal;
+JEFFERSON PRAIA BEZERRA;12.171.818/0001-56;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 291,20;Estimado;123 -  - PDT -  - Senador / 1213 - NOEMIA FERNANDES LEITE - AM - Deputado Federal;
+JOAO LUIZ PINA ESTEVES;259.441.505-72;11/08/2010;       Serviços prestados por terceiros;R$ 1.000,00;Cheque; -  -  / 1213 - NOEMIA FERNANDES LEITE - AM - Deputado Federal;
+LUIZ OLAVO AUZIER DA SILVA;242.966.782-72;13/08/2010;       Serviços prestados por terceiros;R$ 1.000,00;Cheque; -  -  / 1213 - NOEMIA FERNANDES LEITE - AM - Deputado Federal;
+ROJANE COELHO DA COSTA;405.980.632-34;17/09/2010;       Produção de jingles, vinhetas e slogans;R$ 2.000,00;Cheque; -  -  / 1213 - NOEMIA FERNANDES LEITE - AM - Deputado Federal;
+ROJANE COELHO DA COSTA;405.980.632-34;19/08/2010;       Publicidade por carros de som;R$ 250,00;Cheque; -  -  / 1213 - NOEMIA FERNANDES LEITE - AM - Deputado Federal;
+ROSANA COELHO DA COSTA;877.377.282-87;27/09/2010;       Eventos de promoção da candidatura;R$ 1.000,00;Cheque; -  -  / 1213 - NOEMIA FERNANDES LEITE - AM - Deputado Federal;
+SONIA MARCILENE FREITAS DE MELO;309.675.202-82;23/08/2010;       Publicidade por carros de som;R$ 750,00;Cheque; -  -  / 1213 - NOEMIA FERNANDES LEITE - AM - Deputado Federal;

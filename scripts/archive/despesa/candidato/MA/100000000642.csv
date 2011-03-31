@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.226/0001-08;09/09/2010;40000800788;R$ 750,00;Estimado;MARIA DA GRAÇA PEREIRA MARQUES;40028;Deputado Estadual;PSB;MA;
-FLÁVIO DINO;12.176.183/0001-80;23/09/2010;40000800787;R$ 870,00;Estimado;MARIA DA GRAÇA PEREIRA MARQUES;40028;Deputado Estadual;PSB;MA;
-FLÁVIO DINO;12.176.183/0001-80;30/09/2010;40000800786;R$ 860,74;Estimado;MARIA DA GRAÇA PEREIRA MARQUES;40028;Deputado Estadual;PSB;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.226/0001-08;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 750,00;Estimado;Comitê Financeiro Único - PSB -  / 40028 - MARIA DA GRAÇA PEREIRA MARQUES - MA - Deputado Estadual;
+FLÁVIO DINO;12.176.183/0001-80;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 860,74;Estimado;65 -  - PC do B -  - Governador / 40028 - MARIA DA GRAÇA PEREIRA MARQUES - MA - Deputado Estadual;
+FLÁVIO DINO;12.176.183/0001-80;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 870,00;Estimado;65 -  - PC do B -  - Governador / 40028 - MARIA DA GRAÇA PEREIRA MARQUES - MA - Deputado Estadual;

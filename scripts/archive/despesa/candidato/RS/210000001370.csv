@@ -1,4 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LOCAL LOCADORA DE ONIBUS CANOAS LTDA;92.080.019/0001-03;06/10/2010;45000091603;R$ 6.000,00;Cheque;CARLOS ERI LIMA;4522;Deputado Federal;PSDB;RS;
-MATERIAIS DE CONSTRUÇÃO FACHI LTDA;03.627.964/0001-52;08/09/2010;45000091601;R$ 5.000,00;Cheque;CARLOS ERI LIMA;4522;Deputado Federal;PSDB;RS;
-YEDA RORATO CRUSIUS;12.172.247/0001-74;29/09/2010;45000091602;R$ 963,50;Estimado;CARLOS ERI LIMA;4522;Deputado Federal;PSDB;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CASSIA INDUSTRIA DE EMBALAGENS LTDA;88.340.534/0001-08;30/09/2010;       Publicidade por materiais impressos;R$ 1.740,00;Cheque; -  -  / 4522 - CARLOS ERI LIMA - RS - Deputado Federal;
+FREE SERIGRAFIA - GILSON RODRIGUES SERIGRAFIA;07.150.376/0001-21;20/09/2010;       Publicidade por placas, estandartes e faixas;R$ 1.930,00;Cheque; -  -  / 4522 - CARLOS ERI LIMA - RS - Deputado Federal;
+IMPRESUL SERVIÇO GRAFICO E EDITORA LTDA;92.869.650/0001-96;18/08/2010;       Publicidade por placas, estandartes e faixas;R$ 2.650,00;Cheque; -  -  / 4522 - CARLOS ERI LIMA - RS - Deputado Federal;
+IMPRESUL SERVIÇO GRAFICO E EDITORA LTDA;92.869.650/0001-96;21/09/2010;       Publicidade por placas, estandartes e faixas;R$ 1.650,00;Cheque; -  -  / 4522 - CARLOS ERI LIMA - RS - Deputado Federal;
+PONTO DESIGN - ALICE T. PORTO;09.474.900/0001-45;18/08/2010;       Publicidade por placas, estandartes e faixas;R$ 2.800,00;Cheque; -  -  / 4522 - CARLOS ERI LIMA - RS - Deputado Federal;
+UNIVERSAL CA PUBLICIDADE - CARLOS ALBERTO GONÇALVES FELBERMAYER;01.386.902/0001-70;01/09/2010;       Publicidade por jornais e revistas;R$ 150,00;Cheque; -  -  / 4522 - CARLOS ERI LIMA - RS - Deputado Federal;
+YEDA RORATO CRUSIUS;12.172.247/0001-74;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 963,50;Estimado;45 -  - PSDB -  - Governador / 4522 - CARLOS ERI LIMA - RS - Deputado Federal;
+;;28/10/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Transferência eletrônica; -  -  / 4522 - CARLOS ERI LIMA - RS - Deputado Federal;
+;;28/10/2010;       Impostos, contribuições e taxas;R$ 66,50;Transferência eletrônica; -  -  / 4522 - CARLOS ERI LIMA - RS - Deputado Federal;

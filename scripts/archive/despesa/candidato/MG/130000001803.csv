@@ -1,4 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-GRAZIELLA RUGGIO STARLING;044.400.426-27;09/08/2010;50000234301;R$ 450,00;Depósito em espécie;MARIA JOSE RUGGIO STARLING;50000;Deputado Estadual;PSOL;MG;
-MARIA JOSE RUGGIO STARLING;690.435.316-34;24/08/2010;50000234303;R$ 52,00;Depósito em espécie;MARIA JOSE RUGGIO STARLING;50000;Deputado Estadual;PSOL;MG;
-MARIA JOSE RUGGIO STARLING;690.435.316-34;11/08/2010;50000234302;R$ 150,00;Depósito em espécie;MARIA JOSE RUGGIO STARLING;50000;Deputado Estadual;PSOL;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ACF CAMPOS SALES LTDA;68.505.171/0001-06;10/09/2010;       Despesas postais;R$ 16,30;Cheque; -  -  / 50000 - MARIA JOSE RUGGIO STARLING - MG - Deputado Estadual;
+DANIELA RUGGIO STARLING;030.910.326-63;30/09/2010;       Despesas com pessoal;R$ 4,70;Cheque; -  -  / 50000 - MARIA JOSE RUGGIO STARLING - MG - Deputado Estadual;
+ELMAR GRAFICA E EDITIRA LTDA;00.584.040/0001-28;25/08/2010;       Publicidade por materiais impressos;R$ 160,00;Cheque; -  -  / 50000 - MARIA JOSE RUGGIO STARLING - MG - Deputado Estadual;
+PAPELFORM LTDA;05.539.072/0001-25;23/08/2010;       Publicidade por materiais impressos;R$ 450,00;Cheque; -  -  / 50000 - MARIA JOSE RUGGIO STARLING - MG - Deputado Estadual;

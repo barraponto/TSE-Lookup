@@ -1,2 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSE CARLOS TEIXEIRA DE LIMA;271.039.868-00;18/08/2010;43001843001;R$ 400,00;Depósito em espécie;JOSE CARLOS TEIXEIRA DE LIMA;4343;Deputado Federal;PV;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GENU INFORMATICA COMERCIO LTDA;00.435.706/0001-86;19/08/2010;       Publicidade por materiais impressos;R$ 125,00;Cheque; -  -  / 4343 - JOSE CARLOS TEIXEIRA DE LIMA - PE - Deputado Federal;
+GERALDO ROBERTO CHALEGRE DE FREITAS;653.284.264-87;30/09/2010;       Produção de jingles, vinhetas e slogans;R$ 40,00;Cheque; -  -  / 4343 - JOSE CARLOS TEIXEIRA DE LIMA - PE - Deputado Federal;
+JOAO EVANGELISTA DA SILVA;936.530.004-59;31/08/2010;       Produção de jingles, vinhetas e slogans;R$ 350,00;Cheque; -  -  / 4343 - JOSE CARLOS TEIXEIRA DE LIMA - PE - Deputado Federal;
+;;02/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Transferência eletrônica; -  -  / 4343 - JOSE CARLOS TEIXEIRA DE LIMA - PE - Deputado Federal;
+;;20/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Transferência eletrônica; -  -  / 4343 - JOSE CARLOS TEIXEIRA DE LIMA - PE - Deputado Federal;

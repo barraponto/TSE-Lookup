@@ -1,5 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DANIEL LUIZ DA SILVA;428.538.264-49;13/09/2010;45000053403;R$ 3.000,00;Transferência eletrônica;DANIEL LUIZ DA SILVA;45123;Deputado Estadual;PSDB;BA;
-DANIEL LUIZ DA SILVA;428.538.264-49;20/09/2010;45000053404;R$ 2.540,00;Depósito em espécie;DANIEL LUIZ DA SILVA;45123;Deputado Estadual;PSDB;BA;
-LUZIA DANTAS DE OLIVEIRA;426.393.605-15;03/09/2010;45000053402;R$ 5.000,00;Estimado;DANIEL LUIZ DA SILVA;45123;Deputado Estadual;PSDB;BA;
-ROBERTO RIBEIRO DA CRUZ;386.277.445-72;17/08/2010;45000053401;R$ 2.520,00;Transferência eletrônica;DANIEL LUIZ DA SILVA;45123;Deputado Estadual;PSDB;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+LUZIA DANTAS DE OLIVEIRA;426.393.605-15;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 5.000,00;Estimado; -  -  / 45123 - DANIEL LUIZ DA SILVA - BA - Deputado Estadual;
+MARIA SILVANE DE SOUZA SIQUEIRA & FILHOS LTDA;08.042.230/0001-25;17/09/2010;       Publicidade por materiais impressos;R$ 2.500,00;Cheque; -  -  / 45123 - DANIEL LUIZ DA SILVA - BA - Deputado Estadual;
+MARIA SILVANE DE SOUZA SIQUEIRA & FILHOS LTDA;08.042.230/0001-25;17/08/2010;       Publicidade por materiais impressos;R$ 2.500,00;Cheque; -  -  / 45123 - DANIEL LUIZ DA SILVA - BA - Deputado Estadual;
+PSIU SERV. IMPRESSOS LTDA;11.122.126/0001-55;13/09/2010;       Publicidade por materiais impressos;R$ 2.940,00;Cheque; -  -  / 45123 - DANIEL LUIZ DA SILVA - BA - Deputado Estadual;
+;;16/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 45123 - DANIEL LUIZ DA SILVA - BA - Deputado Estadual;
+;;20/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 45123 - DANIEL LUIZ DA SILVA - BA - Deputado Estadual;
+;;09/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 45123 - DANIEL LUIZ DA SILVA - BA - Deputado Estadual;
+;;13/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 45123 - DANIEL LUIZ DA SILVA - BA - Deputado Estadual;
+;;03/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 45123 - DANIEL LUIZ DA SILVA - BA - Deputado Estadual;
+;;01/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 45123 - DANIEL LUIZ DA SILVA - BA - Deputado Estadual;
+;;22/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 45123 - DANIEL LUIZ DA SILVA - BA - Deputado Estadual;

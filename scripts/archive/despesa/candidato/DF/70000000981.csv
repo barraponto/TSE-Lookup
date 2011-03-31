@@ -1,6 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-BENEDITO AUGUSTO DOMINGOS;12.203.737/0001-90;17/08/2010;11000095523;R$ 360,00;Estimado;SOLANGE SANDRA DE OLIVEIRA;11114;Deputado Distrital;PP;DF;
-BENEDITO AUGUSTO DOMINGOS;12.203.737/0001-90;09/08/2010;11000095521;R$ 360,00;Estimado;SOLANGE SANDRA DE OLIVEIRA;11114;Deputado Distrital;PP;DF;
-Comitê Financeiro Único;12.205.256/0001-14;05/10/2010;11000095525;R$ 1.530,00;Cheque;SOLANGE SANDRA DE OLIVEIRA;11114;Deputado Distrital;PP;DF;
-Comitê Financeiro Único;12.205.256/0001-14;10/09/2010;11000095524;R$ 1.530,00;Transferência eletrônica;SOLANGE SANDRA DE OLIVEIRA;11114;Deputado Distrital;PP;DF;
-SOLANGE SANDRA DE OLIVEIRA SANTOS;214.991.601-00;05/11/2010;11000095526;R$ 0,13;Depósito em espécie;SOLANGE SANDRA DE OLIVEIRA;11114;Deputado Distrital;PP;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BENEDITO AUGUSTO DOMINGOS;12.203.737/0001-90;09/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;11234 -  - PP -  - Deputado Distrital / 11114 - SOLANGE SANDRA DE OLIVEIRA - DF - Deputado Distrital;
+BENEDITO AUGUSTO DOMINGOS;12.203.737/0001-90;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;11234 -  - PP -  - Deputado Distrital / 11114 - SOLANGE SANDRA DE OLIVEIRA - DF - Deputado Distrital;
+DEBORA SILVA SANTANA DE SOUZA;992.576.451-34;10/09/2010;       Despesas com pessoal;R$ 510,00;Cheque; -  -  / 11114 - SOLANGE SANDRA DE OLIVEIRA - DF - Deputado Distrital;
+IZAILDE DA SILVA SANTOS;039.373.311-40;30/09/2010;       Despesas com pessoal;R$ 1.512,00;Cheque; -  -  / 11114 - SOLANGE SANDRA DE OLIVEIRA - DF - Deputado Distrital;
+WELINTON BENEDITO DE OLIVEIRA;802.098.311-20;10/09/2010;       Despesas com pessoal;R$ 510,00;Cheque; -  -  / 11114 - SOLANGE SANDRA DE OLIVEIRA - DF - Deputado Distrital;
+WELINTON BENEDITO DE OLIVEIRA;802.098.311-20;10/09/2010;       Despesas com pessoal;R$ 510,00;Cheque; -  -  / 11114 - SOLANGE SANDRA DE OLIVEIRA - DF - Deputado Distrital;
+;;01/11/2010;       Encargos financeiros e taxas bancárias;R$ 0,06;Débito em conta; -  -  / 11114 - SOLANGE SANDRA DE OLIVEIRA - DF - Deputado Distrital;
+;;05/10/2010;       Encargos financeiros e taxas bancárias;R$ 4,00;Débito em conta; -  -  / 11114 - SOLANGE SANDRA DE OLIVEIRA - DF - Deputado Distrital;
+;;05/10/2010;       Encargos financeiros e taxas bancárias;R$ 14,00;Débito em conta; -  -  / 11114 - SOLANGE SANDRA DE OLIVEIRA - DF - Deputado Distrital;
+;;29/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,07;Débito em conta; -  -  / 11114 - SOLANGE SANDRA DE OLIVEIRA - DF - Deputado Distrital;

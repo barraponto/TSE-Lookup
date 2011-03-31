@@ -1,7 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALCIMARY AMARAL;724.187.619-91;13/09/2010;43001762804;R$ 350,00;Depósito em espécie;ALCIMARY AMARAL;43460;Deputado Estadual;PV;PR;
-ALCIMARY AMARAL;724.187.619-91;27/09/2010;43001762805;R$ 130,00;Depósito em espécie;ALCIMARY AMARAL;43460;Deputado Estadual;PV;PR;
-ALCIMARY AMARAL;724.187.619-91;30/09/2010;43001762806;R$ 70,00;Depósito em espécie;ALCIMARY AMARAL;43460;Deputado Estadual;PV;PR;
-CLEUSA ROSANE RIBAS FERREIRA;12.178.049/0001-18;17/08/2010;43001762801;R$ 335,00;Estimado;ALCIMARY AMARAL;43460;Deputado Estadual;PV;PR;
-ELEICOES 2010 CLAIR DE FLORA MARTINS DEP FEDERAL;12.172.378/0001-51;29/07/2010;43001762803;R$ 978,33;Estimado;ALCIMARY AMARAL;43460;Deputado Estadual;PV;PR;
-KARAM ARAUJO CIA LTDA;77.801.868/0001-15;23/08/2010;43001762802;R$ 1.500,00;Depósito em espécie;ALCIMARY AMARAL;43460;Deputado Estadual;PV;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALTERNATIVA;10.915.993/0001-85;03/10/2010;       Publicidade por materiais impressos;R$ 733,30;Transferência eletrônica; -  -  / 43460 - ALCIMARY AMARAL - PR - Deputado Estadual;
+AUTO POSTO STOP;09.160.226/0008-09;17/09/2010;       Combustíveis e lubrificantes;R$ 60,00;Transferência eletrônica; -  -  / 43460 - ALCIMARY AMARAL - PR - Deputado Estadual;
+CLEUSA ROSANE RIBAS FERREIRA;12.178.049/0001-18;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 335,00;Estimado;4343 -  - PV -  - Deputado Federal / 43460 - ALCIMARY AMARAL - PR - Deputado Estadual;
+ELEICOES 2010 CLAIR DE FLORA MARTINS DEP FEDERAL;12.172.378/0001-51;29/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 978,33;Estimado;4399 -  - PV -  - Deputado Federal / 43460 - ALCIMARY AMARAL - PR - Deputado Estadual;
+POSTO AVENIDA;79.717.716/0001-64;12/09/2010;       Combustíveis e lubrificantes;R$ 60,00;Cheque; -  -  / 43460 - ALCIMARY AMARAL - PR - Deputado Estadual;
+POSTO AVENIDA;79.717.716/0001-64;26/08/2010;       Combustíveis e lubrificantes;R$ 500,00;Cheque; -  -  / 43460 - ALCIMARY AMARAL - PR - Deputado Estadual;
+POSTO AVENIDA;02.665.580/0001-61;03/09/2010;       Combustíveis e lubrificantes;R$ 340,00;Cheque; -  -  / 43460 - ALCIMARY AMARAL - PR - Deputado Estadual;
+POSTO SECCO;05.511.929/0001-07;26/08/2010;       Combustíveis e lubrificantes;R$ 280,00;Cheque; -  -  / 43460 - ALCIMARY AMARAL - PR - Deputado Estadual;
+POSTO SPREA;75.988.246/0001-12;27/08/2010;       Combustíveis e lubrificantes;R$ 76,00;Cheque; -  -  / 43460 - ALCIMARY AMARAL - PR - Deputado Estadual;
+;;23/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,70;Débito em conta; -  -  / 43460 - ALCIMARY AMARAL - PR - Deputado Estadual;

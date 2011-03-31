@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ART WORK SERVIÇOS GRÁFICOS LTDA ME;01.616.246/0001-55;02/08/2010;20000676143;R$ 100,00;Estimado;MARLON VIVAS CABRAL;20123;Deputado Estadual;PSC;RJ;
-FLAVIO CADENA DIAS;845.421.447-04;14/07/2010;20000676141;R$ 1.000,00;Estimado;MARLON VIVAS CABRAL;20123;Deputado Estadual;PSC;RJ;
-FLAVIO CADENA DIAS;845.421.447-04;01/08/2010;20000676142;R$ 1.000,00;Estimado;MARLON VIVAS CABRAL;20123;Deputado Estadual;PSC;RJ;
-LEONARDO ROCHA SILVA;073.010.687-00;05/08/2010;20000676147;R$ 2.000,00;Estimado;MARLON VIVAS CABRAL;20123;Deputado Estadual;PSC;RJ;
-PAULO ROBERTO LUGÃO DA SILVA;054.010.007-23;03/08/2010;20000676144;R$ 1.200,00;Estimado;MARLON VIVAS CABRAL;20123;Deputado Estadual;PSC;RJ;
-SEBASTIÃO COSTA ABREU;839.709.167-04;03/08/2010;20000676145;R$ 800,00;Estimado;MARLON VIVAS CABRAL;20123;Deputado Estadual;PSC;RJ;
-STATUS RIO AUTO SERVIÇOS LTDA;30.882.039/0001-40;04/08/2010;20000676146;R$ 1.000,00;Estimado;MARLON VIVAS CABRAL;20123;Deputado Estadual;PSC;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ART WORK SERVIÇOS GRÁFICOS LTDA ME;01.616.246/0001-55;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado; -  -  / 20123 - MARLON VIVAS CABRAL - RJ - Deputado Estadual;
+FLAVIO CADENA DIAS;845.421.447-04;14/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 20123 - MARLON VIVAS CABRAL - RJ - Deputado Estadual;
+FLAVIO CADENA DIAS;845.421.447-04;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 20123 - MARLON VIVAS CABRAL - RJ - Deputado Estadual;
+LEONARDO ROCHA SILVA;073.010.687-00;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado; -  -  / 20123 - MARLON VIVAS CABRAL - RJ - Deputado Estadual;
+PAULO ROBERTO LUGÃO DA SILVA;054.010.007-23;03/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.200,00;Estimado; -  -  / 20123 - MARLON VIVAS CABRAL - RJ - Deputado Estadual;
+SEBASTIÃO COSTA ABREU;839.709.167-04;03/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 800,00;Estimado; -  -  / 20123 - MARLON VIVAS CABRAL - RJ - Deputado Estadual;
+STATUS RIO AUTO SERVIÇOS LTDA;30.882.039/0001-40;04/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 20123 - MARLON VIVAS CABRAL - RJ - Deputado Estadual;

@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;02/09/2010;12000063252;R$ 150,00;Estimado;NILSON FELIX DE OLIVEIRA;12850;Deputado Estadual;PDT;RJ;
-ELEIÇÃO 2010 JORGE SAYED PICCIANI SENADOR;12.176.626/0001-32;02/09/2010;12000063251;R$ 17,00;Estimado;NILSON FELIX DE OLIVEIRA;12850;Deputado Estadual;PDT;RJ;
-FOLENA ARTES GRÁFICA GUARATIBA LTDA;09.432.129/0001-43;02/09/2010;12000063253;R$ 900,00;Estimado;NILSON FELIX DE OLIVEIRA;12850;Deputado Estadual;PDT;RJ;
-JOELSON DA COSTA RODRIGUES;027.383.057-09;01/10/2010;12000063255;R$ 400,00;Estimado;NILSON FELIX DE OLIVEIRA;12850;Deputado Estadual;PDT;RJ;
-LUCIANA DA SILVA CABRAL;036.228.447-44;01/10/2010;12000063254;R$ 400,00;Estimado;NILSON FELIX DE OLIVEIRA;12850;Deputado Estadual;PDT;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 12850 - NILSON FELIX DE OLIVEIRA - RJ - Deputado Estadual;
+ELEIÇÃO 2010 JORGE SAYED PICCIANI SENADOR;12.176.626/0001-32;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 12850 - NILSON FELIX DE OLIVEIRA - RJ - Deputado Estadual;
+FOLENA ARTES GRÁFICA GUARATIBA LTDA;09.432.129/0001-43;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 900,00;Estimado; -  -  / 12850 - NILSON FELIX DE OLIVEIRA - RJ - Deputado Estadual;
+JOELSON DA COSTA RODRIGUES;027.383.057-09;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado; -  -  / 12850 - NILSON FELIX DE OLIVEIRA - RJ - Deputado Estadual;
+LUCIANA DA SILVA CABRAL;036.228.447-44;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado; -  -  / 12850 - NILSON FELIX DE OLIVEIRA - RJ - Deputado Estadual;

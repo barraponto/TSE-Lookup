@@ -1,4 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CELSO REHBEIN;172.735.870-87;23/08/2010;23000241151;R$ 2.000,00;Depósito em espécie;CELSO REHBEIN;2323;Deputado Federal;PPS;RS;
-CELSO REHBEIN;172.735.870-87;01/10/2010;23000241153;R$ 1.134,46;Depósito em espécie;CELSO REHBEIN;2323;Deputado Federal;PPS;RS;
-CELSO REHBEIN;172.735.870-87;21/09/2010;23000241152;R$ 1.000,00;Depósito em espécie;CELSO REHBEIN;2323;Deputado Federal;PPS;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CLICHERIA SANTA CRUZ LTDA;04.871.439/0001-40;04/08/2010;       Publicidade por materiais impressos;R$ 570,00;Cheque; -  -  / 2323 - CELSO REHBEIN - RS - Deputado Federal;
+EMPR JORNALISTICA VERA CRUZ LTDA;91.222.851/0001-34;01/10/2010;       Publicidade por jornais e revistas;R$ 83,30;Cheque; -  -  / 2323 - CELSO REHBEIN - RS - Deputado Federal;
+GASTAO SCHWENGBER & CIA. LTDA.;91.186.445/0001-63;18/08/2010;       Publicidade por placas, estandartes e faixas;R$ 550,00;Cheque; -  -  / 2323 - CELSO REHBEIN - RS - Deputado Federal;
+GAZETA DO SUL S/A;95.424.834/0001-30;30/09/2010;       Publicidade por jornais e revistas;R$ 233,28;Cheque; -  -  / 2323 - CELSO REHBEIN - RS - Deputado Federal;
+GRAFICA E SERIGRAFIA SANTO INACIO LTDA;05.608.587/0001-30;30/09/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 2323 - CELSO REHBEIN - RS - Deputado Federal;
+GRAFICA E SERIGRAFIA SANTO INACIO LTDA;05.608.587/0001-30;11/08/2010;       Publicidade por materiais impressos;R$ 770,00;Cheque; -  -  / 2323 - CELSO REHBEIN - RS - Deputado Federal;
+GRAFICA E SERIGRAFIA SANTO INACIO LTDA;05.608.587/0001-30;03/09/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 2323 - CELSO REHBEIN - RS - Deputado Federal;
+JAQUELINE A DE OLIVEIRA NETTO;03.817.693/0001-06;01/10/2010;       Publicidade por jornais e revistas;R$ 100,00;Cheque; -  -  / 2323 - CELSO REHBEIN - RS - Deputado Federal;
+SPENGLER S/A;95.425.542/0004-65;01/10/2010;       Combustíveis e lubrificantes;R$ 217,88;Cheque; -  -  / 2323 - CELSO REHBEIN - RS - Deputado Federal;
+TOPSIGN ADESIVOS ELETRONICOS LTDA;03.730.938/0001-55;10/09/2010;       Publicidade por placas, estandartes e faixas;R$ 610,00;Cheque; -  -  / 2323 - CELSO REHBEIN - RS - Deputado Federal;

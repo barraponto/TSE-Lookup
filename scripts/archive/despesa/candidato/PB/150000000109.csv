@@ -1,7 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSEMY DA COSTA DA SILVA;468.479.874-72;29/07/2010;36000087591;R$ 600,00;Depósito em espécie;JOSEMY DA COSTA DA SILVA;36111;Deputado Estadual;PTC;PB;
-RICARDO VIEIRA COUTINHO;12.173.462/0001-90;30/09/2010;36000087594;R$ 139,00;Estimado;JOSEMY DA COSTA DA SILVA;36111;Deputado Estadual;PTC;PB;
-RICARDO VIEIRA COUTINHO;12.173.462/0001-90;02/10/2010;36000087597;R$ 1.192,50;Estimado;JOSEMY DA COSTA DA SILVA;36111;Deputado Estadual;PTC;PB;
-RICARDO VIEIRA COUTINHO;12.173.462/0001-90;24/09/2010;36000087593;R$ 48,00;Estimado;JOSEMY DA COSTA DA SILVA;36111;Deputado Estadual;PTC;PB;
-RICARDO VIEIRA COUTINHO;12.173.462/0001-90;30/09/2010;36000087596;R$ 50,00;Estimado;JOSEMY DA COSTA DA SILVA;36111;Deputado Estadual;PTC;PB;
-TM CONSTRUTORA E SERVIÇO LTDA;08.048.288/0001-86;13/08/2010;36000087592;R$ 500,00;Cheque;JOSEMY DA COSTA DA SILVA;36111;Deputado Estadual;PTC;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JOAO MARCULINO LOURENÇO DOS SANTOS;02.698.802/0001-42;29/07/2010;       Publicidade por materiais impressos;R$ 450,00;Cheque; -  -  / 36111 - JOSEMY DA COSTA DA SILVA - PB - Deputado Estadual;
+POTIGUARA AUDIO STUDIO;022.661.924-93;23/09/2010;       Diversas a especificar;R$ 400,00;Cheque; -  -  / 36111 - JOSEMY DA COSTA DA SILVA - PB - Deputado Estadual;
+RATTO POTIGUARA AUDIO STUDIO;022.661.924-93;16/08/2010;       Produção de jingles, vinhetas e slogans;R$ 250,00;Cheque; -  -  / 36111 - JOSEMY DA COSTA DA SILVA - PB - Deputado Estadual;
+RICARDO VIEIRA COUTINHO;12.173.462/0001-90;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.192,50;Estimado;40 -  - PSB -  - Governador / 36111 - JOSEMY DA COSTA DA SILVA - PB - Deputado Estadual;
+RICARDO VIEIRA COUTINHO;12.173.462/0001-90;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 50,00;Estimado;40 -  - PSB -  - Governador / 36111 - JOSEMY DA COSTA DA SILVA - PB - Deputado Estadual;
+RICARDO VIEIRA COUTINHO;12.173.462/0001-90;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 48,00;Estimado;40 -  - PSB -  - Governador / 36111 - JOSEMY DA COSTA DA SILVA - PB - Deputado Estadual;
+RICARDO VIEIRA COUTINHO;12.173.462/0001-90;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 139,00;Estimado;40 -  - PSB -  - Governador / 36111 - JOSEMY DA COSTA DA SILVA - PB - Deputado Estadual;

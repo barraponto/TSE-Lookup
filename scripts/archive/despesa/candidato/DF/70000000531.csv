@@ -1,4 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Nacional;12.205.228/0001-05;20/08/2010;15000257401;R$ 3.400,00;Cheque;MAURO CÉSAR BATISTA DA SILVA;15415;Deputado Distrital;PMDB;DF;
-Diretório Nacional;12.205.228/0001-05;30/09/2010;15000257403;R$ 1.518,32;Outros títulos de crédito;MAURO CÉSAR BATISTA DA SILVA;15415;Deputado Distrital;PMDB;DF;
-Diretório Nacional;12.205.228/0001-05;10/09/2010;15000257402;R$ 3.400,00;Cheque;MAURO CÉSAR BATISTA DA SILVA;15415;Deputado Distrital;PMDB;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CELSO AMORIN EDITORA GRAFICA LTDA ME;38.014.643/0001-67;23/09/2010;       Publicidade por materiais impressos;R$ 3.180,00;Cheque; -  -  / 15415 - MAURO CÉSAR BATISTA DA SILVA - DF - Deputado Distrital;
+DIGITAL CINEMA VIDEO PRODUÇÕES LTDA;03.737.259/0001-08;30/09/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 1.518,32;Não informado; -  -  / 15415 - MAURO CÉSAR BATISTA DA SILVA - DF - Deputado Distrital;
+DIVINA CELIA DO. GONTIJO ME;05.590.624/0001-20;25/08/2010;       Publicidade por materiais impressos;R$ 3.000,00;Cheque; -  -  / 15415 - MAURO CÉSAR BATISTA DA SILVA - DF - Deputado Distrital;
+LIDER SERVIÇOS DE COPIADORA LTDA ME;07.303.429/0001-05;10/09/2010;       Publicidade por materiais impressos;R$ 382,00;Cheque; -  -  / 15415 - MAURO CÉSAR BATISTA DA SILVA - DF - Deputado Distrital;
+LIDER SERVIÇOS DE COPIADORA LTDA ME;07.303.429/0001-05;28/08/2010;       Publicidade por materiais impressos;R$ 230,00;Cheque; -  -  / 15415 - MAURO CÉSAR BATISTA DA SILVA - DF - Deputado Distrital;
+PMDB DIRETORIO REGIONAL DO DF;12.198.789/0001-16;29/10/2010;       Diversas a especificar;R$ 7,30;Cheque; -  -  / 15415 - MAURO CÉSAR BATISTA DA SILVA - DF - Deputado Distrital;

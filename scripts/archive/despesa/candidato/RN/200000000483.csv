@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.151/0001-72;01/10/2010;31000048371;R$ 100,00;Estimado;ADRIANA DOS SANTOS BEZERRA;3140;Deputado Federal;PHS;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.151/0001-72;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado;Comitê Financeiro Único - PHS -  / 3140 - ADRIANA DOS SANTOS BEZERRA - RN - Deputado Federal;

@@ -1,6 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-BENEDITO AUGUSTO DOMINGOS;12.203.737/0001-90;16/08/2010;11000094963;R$ 360,00;Estimado;EDSON DORIVAL RUFINO;11007;Deputado Distrital;PP;DF;
-BENEDITO AUGUSTO DOMINGOS;12.203.737/0001-90;09/08/2010;11000094962;R$ 360,00;Estimado;EDSON DORIVAL RUFINO;11007;Deputado Distrital;PP;DF;
-Comitê Financeiro Único;12.205.256/0001-14;05/10/2010;11000094965;R$ 1.530,00;Transferência eletrônica;EDSON DORIVAL RUFINO;11007;Deputado Distrital;PP;DF;
-Comitê Financeiro Único;12.205.256/0001-14;10/09/2010;11000094964;R$ 1.530,00;Transferência eletrônica;EDSON DORIVAL RUFINO;11007;Deputado Distrital;PP;DF;
-MARCIO DA SILVA BRANCO;334.824.111-15;27/07/2010;11000094961;R$ 50,00;Estimado;EDSON DORIVAL RUFINO;11007;Deputado Distrital;PP;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BENEDITO AUGUSTO DOMINGOS;12.203.737/0001-90;16/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;11234 -  - PP -  - Deputado Distrital / 11007 - EDSON DORIVAL RUFINO - DF - Deputado Distrital;
+BENEDITO AUGUSTO DOMINGOS;12.203.737/0001-90;09/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;11234 -  - PP -  - Deputado Distrital / 11007 - EDSON DORIVAL RUFINO - DF - Deputado Distrital;
+FERNANDA NASCIMENTO SILVA;075.590.606-33;30/09/2010;       Despesas com pessoal;R$ 510,00;Transferência eletrônica; -  -  / 11007 - EDSON DORIVAL RUFINO - DF - Deputado Distrital;
+FERNANDA NASCIMENTO SILVA;075.590.606-33;30/08/2010;       Despesas com pessoal;R$ 510,00;Transferência eletrônica; -  -  / 11007 - EDSON DORIVAL RUFINO - DF - Deputado Distrital;
+HELCIO PEREIRA LINS;769.938.331-15;30/09/2010;       Despesas com pessoal;R$ 510,00;Transferência eletrônica; -  -  / 11007 - EDSON DORIVAL RUFINO - DF - Deputado Distrital;
+HELCIO PEREIRA LINS;769.938.331-15;30/08/2010;       Despesas com pessoal;R$ 510,00;Transferência eletrônica; -  -  / 11007 - EDSON DORIVAL RUFINO - DF - Deputado Distrital;
+MARCIO DA SILVA BRANCO;334.824.111-15;30/09/2010;       Despesas com pessoal;R$ 510,00;Transferência eletrônica; -  -  / 11007 - EDSON DORIVAL RUFINO - DF - Deputado Distrital;
+MARCIO DA SILVA BRANCO;334.824.111-15;27/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 50,00;Estimado; -  -  / 11007 - EDSON DORIVAL RUFINO - DF - Deputado Distrital;
+MARCIO DA SILVA BRANCO;334.824.111-15;30/08/2010;       Despesas com pessoal;R$ 510,00;Transferência eletrônica; -  -  / 11007 - EDSON DORIVAL RUFINO - DF - Deputado Distrital;

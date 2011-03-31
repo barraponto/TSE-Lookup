@@ -1,6 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JORGE DOS REIS PINHEIRO;12.178.516/0001-00;10/08/2010;10000054101;R$ 173,53;Estimado;WILTON DE ALMEIDA BRANCO;10250;Deputado Estadual;PRB;GO;
-WILTON DE ALMEIDA BRANCO;234.704.291-20;01/09/2010;10000054103;R$ 100,00;Depósito em espécie;WILTON DE ALMEIDA BRANCO;10250;Deputado Estadual;PRB;GO;
-WILTON DE ALMEIDA BRANCO;234.704.291-20;30/09/2010;10000054105;R$ 420,00;Depósito em espécie;WILTON DE ALMEIDA BRANCO;10250;Deputado Estadual;PRB;GO;
-WILTON DE ALMEIDA BRANCO;234.704.291-20;18/08/2010;10000054102;R$ 780,00;Depósito em espécie;WILTON DE ALMEIDA BRANCO;10250;Deputado Estadual;PRB;GO;
-WILTON DE ALMEIDA BRANCO;234.704.291-20;06/09/2010;10000054104;R$ 210,00;Depósito em espécie;WILTON DE ALMEIDA BRANCO;10250;Deputado Estadual;PRB;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+COMUICAÇÃO & MARKETING LTDA;09.535.908/0001-74;30/08/2010;       Publicidade por jornais e revistas;R$ 200,00;Cheque; -  -  / 10250 - WILTON DE ALMEIDA BRANCO - GO - Deputado Estadual;
+EDNAMAR BORGES DE JESUS - REVISTA MAIS ATITUDE;10.880.899/0001-38;20/08/2010;       Publicidade por jornais e revistas;R$ 450,00;Cheque; -  -  / 10250 - WILTON DE ALMEIDA BRANCO - GO - Deputado Estadual;
+FORMATO ARTES & PAINEIS LTDA;02.477.681/0001-09;13/08/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 10250 - WILTON DE ALMEIDA BRANCO - GO - Deputado Estadual;
+FREE COMUNICACAO VISUAL LTDA;10.324.972/0001-95;14/09/2010;       Publicidade por materiais impressos;R$ 140,00;Cheque; -  -  / 10250 - WILTON DE ALMEIDA BRANCO - GO - Deputado Estadual;
+JORGE DOS REIS PINHEIRO;12.178.516/0001-00;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 173,53;Estimado;1010 -  - PRB -  - Deputado Federal / 10250 - WILTON DE ALMEIDA BRANCO - GO - Deputado Estadual;
+POSTO ELITE LTDA;11.143.929/0001-96;19/08/2010;       Combustíveis e lubrificantes;R$ 110,00;Cheque; -  -  / 10250 - WILTON DE ALMEIDA BRANCO - GO - Deputado Estadual;
+V.V. DA SILVA E CIA. LTDA;10.584.914/0001-09;21/08/2010;       Combustíveis e lubrificantes;R$ 300,00;Cheque; -  -  / 10250 - WILTON DE ALMEIDA BRANCO - GO - Deputado Estadual;
+;;26/10/2010;       Encargos financeiros e taxas bancárias;R$ 10,00;Débito em conta; -  -  / 10250 - WILTON DE ALMEIDA BRANCO - GO - Deputado Estadual;

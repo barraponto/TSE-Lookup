@@ -1,3 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-EDUARDO DE OLIVEIRA DIAS;025.601.347-05;30/09/2010;70000150775;R$ 1.816,00;Depósito em espécie;MANOEL COSMO CAMPOS BASTOS;70666;Deputado Estadual;PT do B;RJ;
-PAULO CEZAR CLAUDINO LINDOTE SANTANA;361.085.457-04;30/07/2010;70000150774;R$ 1.000,00;Cheque;MANOEL COSMO CAMPOS BASTOS;70666;Deputado Estadual;PT do B;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ART MANANCIAL COMERCIO E SERVIÇO LTDA;10.859.757/0001-99;16/08/2010;       Publicidade por carros de som;R$ 470,00;Cheque; -  -  / 70666 - MANOEL COSMO CAMPOS BASTOS - RJ - Deputado Estadual;
+DESAFIO 1236 DISTR. DA VILA DE PEÇAS E ACESS.PARA VEICULOS LTDA;10.193.346/0001-07;11/08/2010;       Diversas a especificar;R$ 654,00;Cheque; -  -  / 70666 - MANOEL COSMO CAMPOS BASTOS - RJ - Deputado Estadual;
+EDITORA O DIA S/A;33.216.797/0001-18;30/09/2010;       Publicidade por jornais e revistas;R$ 1.816,00;Cheque; -  -  / 70666 - MANOEL COSMO CAMPOS BASTOS - RJ - Deputado Estadual;
+GEANNE KATIA DE SOUZA MOURA;014.084.857-61;09/08/2010;       Criação e inclusão de páginas na internet;R$ 40,00;Cheque; -  -  / 70666 - MANOEL COSMO CAMPOS BASTOS - RJ - Deputado Estadual;

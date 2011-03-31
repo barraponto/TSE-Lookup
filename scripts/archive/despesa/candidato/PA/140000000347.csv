@@ -1,6 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-INACIO MAROJA BRITO DE ALBUQUERQUE;010.818.532-04;13/09/2010;33000124834;R$ 1.000,00;Depósito em espécie;INACIO MAROJA BRITO DE ALBUQUERQUE;3334;Deputado Federal;PMN;PA;
-INACIO MAROJA BRITO DE ALBUQUERQUE;010.818.532-04;16/09/2010;33000124835;R$ 100,00;Depósito em espécie;INACIO MAROJA BRITO DE ALBUQUERQUE;3334;Deputado Federal;PMN;PA;
-INACIO MAROJA BRITO DE ALBUQUERQUE;010.818.532-04;17/08/2010;33000124833;R$ 1.000,00;Depósito em espécie;INACIO MAROJA BRITO DE ALBUQUERQUE;3334;Deputado Federal;PMN;PA;
-INACIO MAROJA BRITO DE ALBUQUERQUE;010.818.532-04;06/08/2010;33000124832;R$ 600,00;Depósito em espécie;INACIO MAROJA BRITO DE ALBUQUERQUE;3334;Deputado Federal;PMN;PA;
-INACIO MAROJA BRITO DE ALBUQUERQUE;010.818.532-04;02/08/2010;33000124831;R$ 50,00;Depósito em espécie;INACIO MAROJA BRITO DE ALBUQUERQUE;3334;Deputado Federal;PMN;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+E M M PARANHOS SERVICOS ME;08.814.416/0001-55;16/09/2010;       Publicidade por materiais impressos;R$ 350,00;Cheque; -  -  / 3334 - INACIO MAROJA BRITO DE ALBUQUERQUE - PA - Deputado Federal;
+E M M PARANHOS SERVICOS ME;08.814.416/0001-55;14/09/2010;       Publicidade por materiais impressos;R$ 350,00;Cheque; -  -  / 3334 - INACIO MAROJA BRITO DE ALBUQUERQUE - PA - Deputado Federal;
+F VALMI DE ARAUJO;23.480.320/0001-91;06/08/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 3334 - INACIO MAROJA BRITO DE ALBUQUERQUE - PA - Deputado Federal;
+J B DE S FERNANDES PROPAGANDAS ME;04.113.493/0001-27;13/09/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 3334 - INACIO MAROJA BRITO DE ALBUQUERQUE - PA - Deputado Federal;
+J B DE S FERNANDES PROPAGANDAS ME;04.113.493/0001-27;17/08/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 3334 - INACIO MAROJA BRITO DE ALBUQUERQUE - PA - Deputado Federal;
+MARCIA HELAINE MUSSI ALBUQUERQUE;399.165.532-20;29/10/2010;       Serviços prestados por terceiros;R$ 50,00;Cheque; -  -  / 3334 - INACIO MAROJA BRITO DE ALBUQUERQUE - PA - Deputado Federal;

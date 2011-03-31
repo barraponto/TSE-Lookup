@@ -1,4 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-EDITORA E GRÁFICA FRANSBRUNO LTDA;09.401.651/0001-68;01/10/2010;50000233251;R$ 400,00;Estimado;THIAGO APARECIDO SOARES;50500;Deputado Estadual;PSOL;MG;
-MARCOS VALÉRIO FERREIRA DE SOUZA;758.233.816-20;01/10/2010;50000233252;R$ 300,00;Estimado;THIAGO APARECIDO SOARES;50500;Deputado Estadual;PSOL;MG;
-THIAGO APARECIDO SOARES;073.653.636-14;18/10/2010;50000233253;R$ 350,00;Depósito em espécie;THIAGO APARECIDO SOARES;50500;Deputado Estadual;PSOL;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EDITORA E GRÁFICA FRANSBRUNO LTDA;09.401.651/0001-68;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado; -  -  / 50500 - THIAGO APARECIDO SOARES - MG - Deputado Estadual;
+JP GRAFICA E EDITORA LTDA;11.422.179/0001-91;21/08/2010;       Publicidade por materiais impressos;R$ 250,00;Cheque; -  -  / 50500 - THIAGO APARECIDO SOARES - MG - Deputado Estadual;
+MARCOS VALÉRIO FERREIRA DE SOUZA;758.233.816-20;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 50500 - THIAGO APARECIDO SOARES - MG - Deputado Estadual;
+PIXEL DIGITAL;03.372.788/0001-55;30/09/2010;       Publicidade por materiais impressos;R$ 100,00;Cheque; -  -  / 50500 - THIAGO APARECIDO SOARES - MG - Deputado Estadual;

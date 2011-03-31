@@ -1,2 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇAO 2010 LUCIANA GENRO;12.154.809/0001-57;24/09/2010;50000480081;R$ 388,12;Transferência eletrônica;JAQUELINE MARTINS BENITES;50180;Deputado Estadual;PSOL;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JK EMPRESA JORNALISTICA;04.842.757/0001-83;28/09/2010;       Publicidade por jornais e revistas;R$ 174,72;Cheque; -  -  / 50180 - JAQUELINE MARTINS BENITES - RS - Deputado Estadual;
+JORNAL CORREIO DO PAMPA;07.775.969/0001-83;28/09/2010;       Publicidade por jornais e revistas;R$ 213,40;Cheque; -  -  / 50180 - JAQUELINE MARTINS BENITES - RS - Deputado Estadual;

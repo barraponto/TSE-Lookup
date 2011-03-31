@@ -1,5 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO PEREIRA COSTA;763.006.682-15;06/08/2010;17000025951;R$ 250,00;Estimado;ROBERTO CARLOS RIBEIRO PEREIRA;1743;Deputado Federal;PSL;AM;
-ELEIÇAO 2010 ALFREDO PEREIRA DO NASCIMENTO;12.169.771/0001-96;09/09/2010;17000025953;R$ 2.000,00;Cheque;ROBERTO CARLOS RIBEIRO PEREIRA;1743;Deputado Federal;PSL;AM;
-ELEIÇAO 2010 ALFREDO PEREIRA DO NASCIMENTO;12.169.771/0001-96;10/08/2010;17000025952;R$ 2.000,00;Cheque;ROBERTO CARLOS RIBEIRO PEREIRA;1743;Deputado Federal;PSL;AM;
-ROBERTO CARLOS RIBEIRO PEREIRA;200.034.552-20;20/09/2010;17000025955;R$ 83,00;Depósito em espécie;ROBERTO CARLOS RIBEIRO PEREIRA;1743;Deputado Federal;PSL;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO PEREIRA COSTA;763.006.682-15;06/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado; -  -  / 1743 - ROBERTO CARLOS RIBEIRO PEREIRA - AM - Deputado Federal;
+CARTORIO DE REGISTRO DE TITULO - RTD;04.536.546/0001-12;20/09/2010;       Diversas a especificar;R$ 70,00;Cheque; -  -  / 1743 - ROBERTO CARLOS RIBEIRO PEREIRA - AM - Deputado Federal;
+GRAFISA GRAFICA E EDITORA LTDA;03.633.502/0001-48;13/08/2010;       Publicidade por materiais impressos;R$ 1.993,50;Não informado; -  -  / 1743 - ROBERTO CARLOS RIBEIRO PEREIRA - AM - Deputado Federal;
+RIO NEGRO TUR;09.036.749/0001-63;01/09/2010;       Cessão ou Locação de Veículos;R$ 2.000,00;Não informado; -  -  / 1743 - ROBERTO CARLOS RIBEIRO PEREIRA - AM - Deputado Federal;
+;;14/09/2010;       Encargos financeiros e taxas bancárias;R$ 3,00;Débito em conta; -  -  / 1743 - ROBERTO CARLOS RIBEIRO PEREIRA - AM - Deputado Federal;
+;;13/08/2010;       Encargos financeiros e taxas bancárias;R$ 3,00;Débito em conta; -  -  / 1743 - ROBERTO CARLOS RIBEIRO PEREIRA - AM - Deputado Federal;

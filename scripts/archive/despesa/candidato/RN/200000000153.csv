@@ -1,6 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Deputado Federal;12.170.044/0001-49;29/09/2010;22000055204;R$ 454,54;Estimado;WASHINGTON LUIZ LUCAS;22113;Deputado Estadual;PR;RN;
-Comitê Financeiro Estadual/Distrital para Deputado Federal;12.170.044/0001-49;29/09/2010;22000055205;R$ 454,54;Estimado;WASHINGTON LUIZ LUCAS;22113;Deputado Estadual;PR;RN;
-Comitê Financeiro Estadual/Distrital para Deputado Federal;12.205.275/0001-40;24/09/2010;22000055203;R$ 5.150,00;Estimado;WASHINGTON LUIZ LUCAS;22113;Deputado Estadual;PR;RN;
-Diretório Estadual/Distrital;12.205.275/0001-40;24/09/2010;22000055202;R$ 2.500,00;Cheque;WASHINGTON LUIZ LUCAS;22113;Deputado Estadual;PR;RN;
-Diretório Estadual/Distrital;12.205.275/0001-40;29/07/2010;22000055201;R$ 2.478,00;Estimado;WASHINGTON LUIZ LUCAS;22113;Deputado Estadual;PR;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Deputado Federal;12.205.275/0001-40;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 5.150,00;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Federal - PR -  / 22113 - WASHINGTON LUIZ LUCAS - RN - Deputado Estadual;
+Comitê Financeiro Estadual/Distrital para Deputado Federal;12.170.044/0001-49;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 454,54;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Federal - PR -  / 22113 - WASHINGTON LUIZ LUCAS - RN - Deputado Estadual;
+Comitê Financeiro Estadual/Distrital para Deputado Federal;12.170.044/0001-49;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 454,54;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Federal - PR -  / 22113 - WASHINGTON LUIZ LUCAS - RN - Deputado Estadual;
+Diretório Estadual/Distrital;12.205.275/0001-40;29/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.478,00;Estimado;Direção Estadual/Distrital - PR -  / 22113 - WASHINGTON LUIZ LUCAS - RN - Deputado Estadual;
+JOSE GILBERTO DE SOUZA;200.597.794-20;27/09/2010;       Serviços prestados por terceiros;R$ 370,00;Cheque; -  -  / 22113 - WASHINGTON LUIZ LUCAS - RN - Deputado Estadual;
+JOSE WILSON FERREIRA DE OLIVEIRA;429.321.224-87;27/09/2010;       Serviços prestados por terceiros;R$ 510,00;Cheque; -  -  / 22113 - WASHINGTON LUIZ LUCAS - RN - Deputado Estadual;
+MARIA DO CEU DA SILVA;221.540.434-53;29/07/2010;       Serviços prestados por terceiros;R$ 600,00;Cheque; -  -  / 22113 - WASHINGTON LUIZ LUCAS - RN - Deputado Estadual;
+RONALDO BEZERRA DE FRANÇA;813.589.974-20;27/09/2010;       Serviços prestados por terceiros;R$ 510,00;Cheque; -  -  / 22113 - WASHINGTON LUIZ LUCAS - RN - Deputado Estadual;
+ROSILENE MARIA ALVES BERNARDINO;019.305.274-11;27/09/2010;       Serviços prestados por terceiros;R$ 510,00;Cheque; -  -  / 22113 - WASHINGTON LUIZ LUCAS - RN - Deputado Estadual;

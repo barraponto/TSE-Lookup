@@ -1,4 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.285/0001-86;05/08/2010;45000338342;R$ 150,00;Estimado;ERIETE MIRA BRITO;45456;Deputado Estadual;PSDB;AP;
-Comitê Financeiro Único;12.205.285/0001-86;17/08/2010;45000338341;R$ 1.764,64;Estimado;ERIETE MIRA BRITO;45456;Deputado Estadual;PSDB;AP;
-ERIETE MIRA BRITO;072.921.632-20;27/08/2010;45000338343;R$ 230,00;Depósito em espécie;ERIETE MIRA BRITO;45456;Deputado Estadual;PSDB;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADRIANA RAMOS FERREIRA;690.447.752-00;27/08/2010;       Serviços prestados por terceiros;R$ 50,00;Cheque; -  -  / 45456 - ERIETE MIRA BRITO - AP - Deputado Estadual;
+ADRIANA RAMOS FERREIRA;690.447.752-00;27/08/2010;       Serviços prestados por terceiros;R$ 50,00;Cheque; -  -  / 45456 - ERIETE MIRA BRITO - AP - Deputado Estadual;
+AMAURI DA CUNHA CARDOZO;716.009.652-53;27/08/2010;       Serviços prestados por terceiros;R$ 120,00;Cheque; -  -  / 45456 - ERIETE MIRA BRITO - AP - Deputado Estadual;
+Comitê Financeiro Único;12.205.285/0001-86;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 45456 - ERIETE MIRA BRITO - AP - Deputado Estadual;
+Comitê Financeiro Único;12.205.285/0001-86;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.764,64;Estimado;Comitê Financeiro Único - PMDB -  / 45456 - ERIETE MIRA BRITO - AP - Deputado Estadual;

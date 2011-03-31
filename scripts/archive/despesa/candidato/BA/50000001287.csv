@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONOELITON GARCIA DOS SANTOS;685.367.205-49;23/09/2010;36000081075;R$ 900,00;Estimado;NOELIA GARCIA DOS SANTOS;36600;Deputado Estadual;PTC;BA;
-Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;36000081073;R$ 381,60;Estimado;NOELIA GARCIA DOS SANTOS;36600;Deputado Estadual;PTC;BA;
-Comitê Financeiro Único;12.191.570/0001-95;01/08/2010;36000081071;R$ 192,00;Estimado;NOELIA GARCIA DOS SANTOS;36600;Deputado Estadual;PTC;BA;
-GEDDEL QUADROS VIEIRA LIMA;12.173.503/0001-48;30/08/2010;36000081072;R$ 204,00;Estimado;NOELIA GARCIA DOS SANTOS;36600;Deputado Estadual;PTC;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONOELITON GARCIA DOS SANTOS;685.367.205-49;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 900,00;Estimado; -  -  / 36600 - NOELIA GARCIA DOS SANTOS - BA - Deputado Estadual;
+Comitê Financeiro Único;12.191.570/0001-95;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 192,00;Estimado;Comitê Financeiro Único - PMDB -  / 36600 - NOELIA GARCIA DOS SANTOS - BA - Deputado Estadual;
+Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 381,60;Estimado;Comitê Financeiro Único - PMDB -  / 36600 - NOELIA GARCIA DOS SANTOS - BA - Deputado Estadual;
+GEDDEL QUADROS VIEIRA LIMA;12.173.503/0001-48;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 204,00;Estimado;15 -  - PMDB -  - Governador / 36600 - NOELIA GARCIA DOS SANTOS - BA - Deputado Estadual;

@@ -1,4 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-EVERALDO FIGUEREDO NOBRE;373.464.584-00;27/09/2010;19000011751;R$ 200,00;Depósito em espécie;EVERALDO FIGUEREDO NOBRE;19000;Deputado Estadual;PTN;AL;
-EVERALDO FIGUEREDO NOBRE;373.464.584-00;02/10/2010;19000011753;R$ 3.000,00;Estimado;EVERALDO FIGUEREDO NOBRE;19000;Deputado Estadual;PTN;AL;
-INC COMUNICAÇÃOINTEGRADAE VIDEO LTDA;06.536.950/0001-11;01/10/2010;19000011752;R$ 800,00;Estimado;EVERALDO FIGUEREDO NOBRE;19000;Deputado Estadual;PTN;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO ALFA LDA;11.498.042/0001-10;05/10/2010;       Combustíveis e lubrificantes;R$ 49,27;Não informado; -  -  / 19000 - EVERALDO FIGUEREDO NOBRE - AL - Deputado Estadual;
+AUTO POSTO SEREIA LTDA;03.855.924/0001-68;29/09/2010;       Combustíveis e lubrificantes;R$ 57,00;Não informado; -  -  / 19000 - EVERALDO FIGUEREDO NOBRE - AL - Deputado Estadual;
+AUTO POSTO SEREIA LTDA;03.855.924/0001-68;29/09/2010;       Combustíveis e lubrificantes;R$ 57,00;Não informado; -  -  / 19000 - EVERALDO FIGUEREDO NOBRE - AL - Deputado Estadual;
+EVERALDO FIGUEREDO NOBRE;373.464.584-00;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.000,00;Estimado; -  -  / 19000 - EVERALDO FIGUEREDO NOBRE - AL - Deputado Estadual;
+INC COMUNICAÇÃOINTEGRADAE VIDEO LTDA;06.536.950/0001-11;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 800,00;Estimado; -  -  / 19000 - EVERALDO FIGUEREDO NOBRE - AL - Deputado Estadual;
+MARCELO ANTONIO FERREIRA ME;41.166.588/0001-35;29/09/2010;       Alimentação;R$ 36,73;Não informado; -  -  / 19000 - EVERALDO FIGUEREDO NOBRE - AL - Deputado Estadual;

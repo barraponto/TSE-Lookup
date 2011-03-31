@@ -1,6 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-VIVIANE FERREIRA DOS SANTOS;926.862.736-15;09/09/2010;43001709401;R$ 865,00;Depósito em espécie;VIVIANE FERREIRA DOS SANTOS;4308;Deputado Federal;PV;MG;
-VIVIANE FERREIRA DOS SANTOS;926.862.736-15;23/09/2010;43001709402;R$ 250,00;Depósito em espécie;VIVIANE FERREIRA DOS SANTOS;4308;Deputado Federal;PV;MG;
-VIVIANE FERREIRA DOS SANTOS;926.862.736-15;18/10/2010;43001709405;R$ 52,00;Depósito em espécie;VIVIANE FERREIRA DOS SANTOS;4308;Deputado Federal;PV;MG;
-VIVIANE FERREIRA DOS SANTOS;926.862.736-15;01/10/2010;43001709404;R$ 24,50;Depósito em espécie;VIVIANE FERREIRA DOS SANTOS;4308;Deputado Federal;PV;MG;
-VIVIANE FERREIRA DOS SANTOS;926.862.736-15;29/09/2010;43001709403;R$ 1.384,19;Depósito em espécie;VIVIANE FERREIRA DOS SANTOS;4308;Deputado Federal;PV;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+APOIO DESENHOS LTDA;09.102.205/0001-52;08/09/2010;       Publicidade por materiais impressos;R$ 416,00;Cheque; -  -  / 4308 - VIVIANE FERREIRA DOS SANTOS - MG - Deputado Federal;
+EMP. BRAS. DE CORREIOS E TELEGRAFOS;34.028.316/5531-10;27/09/2010;       Despesas postais;R$ 636,91;Cheque; -  -  / 4308 - VIVIANE FERREIRA DOS SANTOS - MG - Deputado Federal;
+EMP. BRAS. DE CORREIOS E TELEGRAFOS;34.028.316/5531-10;24/09/2010;       Despesas postais;R$ 447,28;Cheque; -  -  / 4308 - VIVIANE FERREIRA DOS SANTOS - MG - Deputado Federal;
+EMP. BRAS. DE CORREIOS E TELEGRAFOS;34.028.316/5531-10;29/09/2010;       Despesas postais;R$ 24,50;Cheque; -  -  / 4308 - VIVIANE FERREIRA DOS SANTOS - MG - Deputado Federal;
+IMPACTO LETREIROS E COMUNICAÇÃO VISUAL LTDA;04.005.050/0001-12;23/09/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 4308 - VIVIANE FERREIRA DOS SANTOS - MG - Deputado Federal;
+WCOLLOR EDITORA GRAFICA LTDA;05.033.125/0001-31;08/09/2010;       Publicidade por materiais impressos;R$ 447,00;Cheque; -  -  / 4308 - VIVIANE FERREIRA DOS SANTOS - MG - Deputado Federal;
+WCOLLOR EDITORA GRAFICA LTDA;05.033.125/0001-31;15/09/2010;       Publicidade por materiais impressos;R$ 250,00;Cheque; -  -  / 4308 - VIVIANE FERREIRA DOS SANTOS - MG - Deputado Federal;
+;;01/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,70;Débito em conta; -  -  / 4308 - VIVIANE FERREIRA DOS SANTOS - MG - Deputado Federal;
+;;29/09/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 4308 - VIVIANE FERREIRA DOS SANTOS - MG - Deputado Federal;
+;;29/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 4308 - VIVIANE FERREIRA DOS SANTOS - MG - Deputado Federal;
+;;01/10/2010;       Encargos financeiros e taxas bancárias;R$ 35,00;Débito em conta; -  -  / 4308 - VIVIANE FERREIRA DOS SANTOS - MG - Deputado Federal;

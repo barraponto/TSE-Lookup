@@ -1,5 +1,13 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;09.057.316/0001-94;17/08/2010;44000050261;R$ 5.000,00;Transferência eletrônica;MARCOS ANDRÉ DOS SANTOS;44810;Deputado Estadual;PRP;PE;
-JOSE MENDONÇA BEZERRA FILHO;12.176.573/0001-50;27/09/2010;44000050264;R$ 6.000,00;Transferência eletrônica;MARCOS ANDRÉ DOS SANTOS;44810;Deputado Estadual;PRP;PE;
-JOSE MENDONÇA BEZERRA FILHO;12.176.573/0001-50;05/08/2010;44000050262;R$ 3.000,00;Transferência eletrônica;MARCOS ANDRÉ DOS SANTOS;44810;Deputado Estadual;PRP;PE;
-JOSE MENDONÇA BEZERRA FILHO;12.176.573/0001-50;03/09/2010;44000050263;R$ 5.000,00;Transferência eletrônica;MARCOS ANDRÉ DOS SANTOS;44810;Deputado Estadual;PRP;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CUPULA COMUNICAÇÃO VISUAL LTDA;07.710.948/0001-80;18/08/2010;       Publicidade por materiais impressos;R$ 1.035,00;Transferência eletrônica; -  -  / 44810 - MARCOS ANDRÉ DOS SANTOS - PE - Deputado Estadual;
+EDNILSON NEVES DE BARROS;763.600.914-53;19/08/2010;       Despesas com pessoal;R$ 600,00;Cheque; -  -  / 44810 - MARCOS ANDRÉ DOS SANTOS - PE - Deputado Estadual;
+LUIZ FERNANDO RODRIGUES FONSECA;032.102.254-86;30/08/2010;       Produção de jingles, vinhetas e slogans;R$ 2.100,00;Cheque; -  -  / 44810 - MARCOS ANDRÉ DOS SANTOS - PE - Deputado Estadual;
+LUIZ FERNANDO RODRIGUES FONSECA;032.102.254-86;14/08/2010;       Locação/cessão de bens imóveis;R$ 80,00;Cheque; -  -  / 44810 - MARCOS ANDRÉ DOS SANTOS - PE - Deputado Estadual;
+MARCOS ANDRE DOS SANTOS;578.930.714-00;28/09/2010;       Despesas com pessoal;R$ 6.009,00;Cheque; -  -  / 44810 - MARCOS ANDRÉ DOS SANTOS - PE - Deputado Estadual;
+MARCOS ANDRE DOS SANTOS;578.930.714-00;19/08/2010;       Despesas com pessoal;R$ 1.500,00;Cheque; -  -  / 44810 - MARCOS ANDRÉ DOS SANTOS - PE - Deputado Estadual;
+MARCOS ANDRE DOS SANTOS;578.930.714-00;15/09/2010;       Despesas com pessoal;R$ 1.000,00;Cheque; -  -  / 44810 - MARCOS ANDRÉ DOS SANTOS - PE - Deputado Estadual;
+MARCOS ANDRE DOS SANTOS;578.930.714-00;03/09/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / 44810 - MARCOS ANDRÉ DOS SANTOS - PE - Deputado Estadual;
+MARCOS ANDRÉ DOS SANTOS;578.930.714-00;06/09/2010;       Despesas com pessoal;R$ 4.000,00;Cheque; -  -  / 44810 - MARCOS ANDRÉ DOS SANTOS - PE - Deputado Estadual;
+RIVALDO SEVERINO DA SILVA;497.185.334-00;19/08/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / 44810 - MARCOS ANDRÉ DOS SANTOS - PE - Deputado Estadual;
+VANESSA BORGES DE MOURA;071.043.474-02;30/08/2010;       Produção de jingles, vinhetas e slogans;R$ 950,00;Cheque; -  -  / 44810 - MARCOS ANDRÉ DOS SANTOS - PE - Deputado Estadual;
+W E ARTES COMUNICAÇÃO VISUAL;09.369.056/0001-92;07/08/2010;       Publicidade por placas, estandartes e faixas;R$ 726,00;Cheque; -  -  / 44810 - MARCOS ANDRÉ DOS SANTOS - PE - Deputado Estadual;

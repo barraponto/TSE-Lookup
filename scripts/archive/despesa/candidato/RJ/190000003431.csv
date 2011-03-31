@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JAIR NOGUEIRA FILHO;12.199.611/0001-90;22/09/2010;43001511253;R$ 2.000,00;Cheque;ARILDO MENDES DE OLIVEIRA;43643;Deputado Estadual;PV;RJ;
-JAIR NOGUEIRA FILHO;12.199.611/0001-90;03/09/2010;43001511252;R$ 2.000,00;Cheque;ARILDO MENDES DE OLIVEIRA;43643;Deputado Estadual;PV;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARO SOLLYMAR PUBLICIDADES E PRODUÇÕES LTDA;05.658.936/0001-28;01/10/2010;       Publicidade por materiais impressos;R$ 550,00;Cheque; -  -  / 43643 - ARILDO MENDES DE OLIVEIRA - RJ - Deputado Estadual;
+ARO SOLLYMAR PUBLICIDADES E PRODUÇÕES LTDA;05.658.936/0001-28;16/09/2010;       Produção de jingles, vinhetas e slogans;R$ 1.900,00;Cheque; -  -  / 43643 - ARILDO MENDES DE OLIVEIRA - RJ - Deputado Estadual;
+M2 COMUNICAÇÃO VISUAL LTDA -ME;09.569.777/0001-46;27/09/2010;       Publicidade por placas, estandartes e faixas;R$ 1.500,00;Cheque; -  -  / 43643 - ARILDO MENDES DE OLIVEIRA - RJ - Deputado Estadual;

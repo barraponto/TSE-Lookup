@@ -1,5 +1,13 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Governador;12.191.521/0001-52;01/10/2010;12001005530;R$ 19,72;Estimado;GERVANIO SILVA DE ARAUJO;12123;Deputado Estadual;PDT;AL;
-ELEIÇÃO 2010 GERVANIO SILVA DE ARAUJO DEPUTADO ESTADUAL;027.420.374-03;20/07/2010;12001005528;R$ 100,00;Depósito em espécie;GERVANIO SILVA DE ARAUJO;12123;Deputado Estadual;PDT;AL;
-ELEIÇÃO 2010 RONALDO AUGUSTO LESSA SANTOS GOVERNADOR;12.168.518/0001-18;20/08/2010;12001005529;R$ 5.000,00;Cheque;GERVANIO SILVA DE ARAUJO;12123;Deputado Estadual;PDT;AL;
-TIAGO SANTOS DA SILVA;086.731.774-48;12/08/2010;12001005531;R$ 100,00;Depósito em espécie;GERVANIO SILVA DE ARAUJO;12123;Deputado Estadual;PDT;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Governador;12.191.521/0001-52;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 19,72;Estimado;Comitê Financeiro Distrital/Estadual para Governador - PDT -  / 12123 - GERVANIO SILVA DE ARAUJO - AL - Deputado Estadual;
+DEVID ART;029.635.734-05;12/08/2010;       Combustíveis e lubrificantes;R$ 160,00;Cheque; -  -  / 12123 - GERVANIO SILVA DE ARAUJO - AL - Deputado Estadual;
+EDVANIA DANTADS BARROS;070.751.764-80;24/08/2010;       Produção de jingles, vinhetas e slogans;R$ 1.000,00;Cheque; -  -  / 12123 - GERVANIO SILVA DE ARAUJO - AL - Deputado Estadual;
+EDVANIA DANTADS BARROS;070.751.764-80;03/09/2010;       Produção de jingles, vinhetas e slogans;R$ 1.000,00;Cheque; -  -  / 12123 - GERVANIO SILVA DE ARAUJO - AL - Deputado Estadual;
+GRAFICA LIDDER;00.421.807/0001-06;29/09/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 12123 - GERVANIO SILVA DE ARAUJO - AL - Deputado Estadual;
+GRAFICA LIDDER;00.421.807/0001-06;22/09/2010;       Publicidade por materiais impressos;R$ 430,00;Cheque; -  -  / 12123 - GERVANIO SILVA DE ARAUJO - AL - Deputado Estadual;
+JACARE MIL LETRAS;939.197.704-25;27/08/2010;       Publicidade por placas, estandartes e faixas;R$ 110,00;Cheque; -  -  / 12123 - GERVANIO SILVA DE ARAUJO - AL - Deputado Estadual;
+JOSE  TAVARES E CIA LTDA;12.018.131/0001-85;23/09/2010;       Combustíveis e lubrificantes;R$ 102,00;Cheque; -  -  / 12123 - GERVANIO SILVA DE ARAUJO - AL - Deputado Estadual;
+JOSE  TAVARES E CIA LTDA;12.018.131/0001-85;20/09/2010;       Combustíveis e lubrificantes;R$ 150,00;Cheque; -  -  / 12123 - GERVANIO SILVA DE ARAUJO - AL - Deputado Estadual;
+JOSE  TAVARES E CIA LTDA;12.018.131/0001-85;30/08/2010;       Combustíveis e lubrificantes;R$ 500,00;Cheque; -  -  / 12123 - GERVANIO SILVA DE ARAUJO - AL - Deputado Estadual;
+JOSE JUNIOR DOS SANTOS HOLANDA COSTA;087.613.954-39;30/08/2010;       Publicidade por placas, estandartes e faixas;R$ 300,00;Cheque; -  -  / 12123 - GERVANIO SILVA DE ARAUJO - AL - Deputado Estadual;
+JOSE TAVARES E CIA LTDA;12.018.131/0001-85;10/09/2010;       Combustíveis e lubrificantes;R$ 600,00;Cheque; -  -  / 12123 - GERVANIO SILVA DE ARAUJO - AL - Deputado Estadual;

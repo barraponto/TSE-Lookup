@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;04.160.131/0001-97;30/09/2010;19000008104;R$ 200,00;Estimado;PAULO ROBERTO DIAS DOS SANTOS;19012;Deputado Estadual;PTN;AM;
-Diretório Estadual/Distrital;04.160.131/0001-97;10/09/2010;19000008087;R$ 300,00;Estimado;PAULO ROBERTO DIAS DOS SANTOS;19012;Deputado Estadual;PTN;AM;
-Diretório Estadual/Distrital;04.160.131/0001-97;23/09/2010;19000008086;R$ 945,00;Cheque;PAULO ROBERTO DIAS DOS SANTOS;19012;Deputado Estadual;PTN;AM;
-MARCO ANTONIO DOS SANTOS GOMES;413.739.602-72;01/10/2010;19000008105;R$ 2.000,00;Depósito em espécie;PAULO ROBERTO DIAS DOS SANTOS;19012;Deputado Estadual;PTN;AM;
-RAIMUNDA CACILDA DIAS DOS SANTOS;205.153.832-87;28/09/2010;19000008103;R$ 3.000,00;Depósito em espécie;PAULO ROBERTO DIAS DOS SANTOS;19012;Deputado Estadual;PTN;AM;
-VANESSA GRAZZIOTIN;12.172.394/0001-44;02/10/2010;19000008088;R$ 360,00;Estimado;PAULO ROBERTO DIAS DOS SANTOS;19012;Deputado Estadual;PTN;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;04.160.131/0001-97;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Direção Estadual/Distrital - PMDB -  / 19012 - PAULO ROBERTO DIAS DOS SANTOS - AM - Deputado Estadual;
+Diretório Estadual/Distrital;04.160.131/0001-97;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;Direção Estadual/Distrital - PMDB -  / 19012 - PAULO ROBERTO DIAS DOS SANTOS - AM - Deputado Estadual;
+DRA DERIVADO DE PETROLEO LTDA;10.773.536/0001-01;30/09/2010;       Combustíveis e lubrificantes;R$ 325,00;Cheque; -  -  / 19012 - PAULO ROBERTO DIAS DOS SANTOS - AM - Deputado Estadual;
+ELIZOMAR FARIAS DA SILVA;567.779.902-59;30/09/2010;       Cessão ou Locação de Veículos;R$ 3.000,00;Cheque; -  -  / 19012 - PAULO ROBERTO DIAS DOS SANTOS - AM - Deputado Estadual;
+FRANCISCO LAONE DIAS TRAVASSOS;709.031.152-04;01/10/2010;       Cessão ou Locação de Veículos;R$ 1.675,00;Cheque; -  -  / 19012 - PAULO ROBERTO DIAS DOS SANTOS - AM - Deputado Estadual;
+VANESSA GRAZZIOTIN;12.172.394/0001-44;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;656 -  - PC do B -  - Senador / 19012 - PAULO ROBERTO DIAS DOS SANTOS - AM - Deputado Estadual;

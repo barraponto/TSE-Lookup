@@ -1,3 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;91.698.118/0001-90;28/09/2010;40000921902;R$ 400,00;Transferência eletrônica;KAMILA FALEIRO DE MELLO BENTO;40777;Deputado Estadual;PSB;RS;
-Diretório Estadual/Distrital;91.698.118/0001-90;24/08/2010;40000921901;R$ 400,00;Transferência eletrônica;KAMILA FALEIRO DE MELLO BENTO;40777;Deputado Estadual;PSB;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALTEMIR OLIVEIRA DA ROSA;704.096.920-34;02/10/2010;       Despesas com pessoal;R$ 150,00;Cheque; -  -  / 40777 - KAMILA FALEIRO DE MELLO BENTO - RS - Deputado Estadual;
+BANG IMPRESSÃO E PROGRAMAÇÃO VISUAL LTDA;05.454.055/0001-95;02/09/2010;       Materiais de expediente;R$ 120,00;Cheque; -  -  / 40777 - KAMILA FALEIRO DE MELLO BENTO - RS - Deputado Estadual;
+CARLOS AUGUSTO GONÇALVES LEITE;416.916.600-00;02/10/2010;       Despesas com pessoal;R$ 165,90;Cheque; -  -  / 40777 - KAMILA FALEIRO DE MELLO BENTO - RS - Deputado Estadual;
+ECT - EMP. BRAS. CORREIOS E TELEGRAFOS;94.859.147/0001-85;28/09/2010;       Materiais de expediente;R$ 44,10;Cheque; -  -  / 40777 - KAMILA FALEIRO DE MELLO BENTO - RS - Deputado Estadual;
+EVA CECILIA SANTOS DA COSTA;479.449.600-10;02/10/2010;       Despesas com pessoal;R$ 150,00;Cheque; -  -  / 40777 - KAMILA FALEIRO DE MELLO BENTO - RS - Deputado Estadual;
+EVA CECILIA SANTOS DA COSTA;479.449.600-10;28/09/2010;       Despesas com pessoal;R$ 100,00;Cheque; -  -  / 40777 - KAMILA FALEIRO DE MELLO BENTO - RS - Deputado Estadual;
+LIZANDRA FELIPIAKI;002.543.000-90;01/10/2010;       Despesas com pessoal;R$ 70,00;Cheque; -  -  / 40777 - KAMILA FALEIRO DE MELLO BENTO - RS - Deputado Estadual;

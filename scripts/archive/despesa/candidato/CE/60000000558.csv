@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSE FERREIRA;738.315.573-49;15/09/2010;31000035601;R$ 2.000,00;Cheque;JOSE FERREIRA;31567;Deputado Estadual;PHS;CE;
-JOSE FERREIRA;738.315.573-49;01/09/2010;31000035603;R$ 500,00;Depósito em espécie;JOSE FERREIRA;31567;Deputado Estadual;PHS;CE;
-JOSE FERREIRA;738.315.573-49;30/09/2010;31000035602;R$ 910,71;Outros títulos de crédito;JOSE FERREIRA;31567;Deputado Estadual;PHS;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+COMITE FINANCEIRO CE UNIAO PHS;12.205.230/0001-76;30/09/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 910,71;Não informado; -  -  / 31567 - JOSE FERREIRA - CE - Deputado Estadual;
+COMITE FINANCEIRO DE UNIÃO PHS;455.053.573-34;30/09/2010;       Despesas com pessoal;R$ 1.300,00;Não informado; -  -  / 31567 - JOSE FERREIRA - CE - Deputado Estadual;
+MANOEL ELDO DE SOUSA;757.777.703-04;15/09/2010;       Bens permanentes;R$ 1.200,00;Não informado; -  -  / 31567 - JOSE FERREIRA - CE - Deputado Estadual;

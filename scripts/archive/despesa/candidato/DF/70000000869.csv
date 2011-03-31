@@ -1,3 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.197/0001-84;17/09/2010;43001784501;R$ 5.000,00;Cheque;LUIZ CARLOS DE ALBURQUERQUE MARANHÃO;43;Vice-Governador;PV;DF;
-LUIZ CARLOS ALBURQUERQUE MARANHÃO;059.839.081-20;25/10/2010;43001784502;R$ 2,94;Depósito em espécie;LUIZ CARLOS DE ALBURQUERQUE MARANHÃO;43;Vice-Governador;PV;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CORONÁRIO EDITORA GRÁFICA LTDA;00.119.123/0001-46;22/09/2010;       Publicidade por materiais impressos;R$ 2.500,00;Cheque; -  -  / 43 - LUIZ CARLOS DE ALBURQUERQUE MARANHÃO - DF - Vice-Governador;
+CORONÁRIO EDITORA GRÁFICA LTDA;00.119.123/0001-46;27/09/2010;       Publicidade por materiais impressos;R$ 2.500,00;Cheque; -  -  / 43 - LUIZ CARLOS DE ALBURQUERQUE MARANHÃO - DF - Vice-Governador;
+;;05/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,04;Débito em conta; -  -  / 43 - LUIZ CARLOS DE ALBURQUERQUE MARANHÃO - DF - Vice-Governador;
+;;22/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 43 - LUIZ CARLOS DE ALBURQUERQUE MARANHÃO - DF - Vice-Governador;

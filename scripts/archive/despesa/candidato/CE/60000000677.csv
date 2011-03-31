@@ -1,3 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.230/0001-76;09/09/2010;31000035103;R$ 910,71;Estimado;ODAILSON DE OLIVEIRA RODRIGUES;31555;Deputado Estadual;PHS;CE;
-Comitê Financeiro Único;12.205.230/0001-76;16/09/2010;31000035102;R$ 2.000,00;Cheque;ODAILSON DE OLIVEIRA RODRIGUES;31555;Deputado Estadual;PHS;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.230/0001-76;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 910,71;Estimado;Comitê Financeiro Único - PHS -  / 31555 - ODAILSON DE OLIVEIRA RODRIGUES - CE - Deputado Estadual;
+FRANCISCO ALEXSANDRE DE S. RIBEIRO;006.666.793-39;16/09/2010;       Despesas com pessoal;R$ 400,00;Cheque; -  -  / 31555 - ODAILSON DE OLIVEIRA RODRIGUES - CE - Deputado Estadual;
+FRANCISCO GEVILSON DOS SANTOS;022.985.083-99;16/09/2010;       Despesas com pessoal;R$ 400,00;Cheque; -  -  / 31555 - ODAILSON DE OLIVEIRA RODRIGUES - CE - Deputado Estadual;
+JARDELINA MARIA DA CONCEIÇÃO DOS SANTOS SILVA;424.209.383-72;16/09/2010;       Despesas com pessoal;R$ 400,00;Cheque; -  -  / 31555 - ODAILSON DE OLIVEIRA RODRIGUES - CE - Deputado Estadual;
+MARIA DE FATIMA DE OLIVEIRA RODRIGUES;885.516.957-20;16/09/2010;       Despesas com pessoal;R$ 400,00;Cheque; -  -  / 31555 - ODAILSON DE OLIVEIRA RODRIGUES - CE - Deputado Estadual;
+VANUSA GOMES DA SILVA;902.871.693-91;16/09/2010;       Despesas com pessoal;R$ 400,00;Cheque; -  -  / 31555 - ODAILSON DE OLIVEIRA RODRIGUES - CE - Deputado Estadual;

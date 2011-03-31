@@ -1,6 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.171/0001-43;30/09/2010;13000879361;R$ 750,00;Estimado;LUIS CLAUDIO DE OLIVEIRA MAIA;1357;Deputado Federal;PT;RJ;
-Comitê Financeiro Único;12.200.171/0001-43;09/09/2010;13000879365;R$ 5.000,00;Cheque;LUIS CLAUDIO DE OLIVEIRA MAIA;1357;Deputado Federal;PT;RJ;
-LUIS LINDBERG FARIAS FILHO;12.179.678/0001-62;10/09/2010;13000879366;R$ 21,00;Estimado;LUIS CLAUDIO DE OLIVEIRA MAIA;1357;Deputado Federal;PT;RJ;
-MARIA APARECIDA DIOGO BRAGA;12.178.912/0001-37;01/10/2010;13000879367;R$ 890,00;Estimado;LUIS CLAUDIO DE OLIVEIRA MAIA;1357;Deputado Federal;PT;RJ;
-MARIA APARECIDA DIOGO BRAGA;12.178.912/0001-37;10/08/2010;13000879364;R$ 417,00;Estimado;LUIS CLAUDIO DE OLIVEIRA MAIA;1357;Deputado Federal;PT;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALEXANDRE GUIMARAES MACIEL;098.660.387-26;20/09/2010;       Despesas com pessoal;R$ 3.800,00;Cheque; -  -  / 1357 - LUIS CLAUDIO DE OLIVEIRA MAIA - RJ - Deputado Federal;
+Comitê Financeiro Único;12.200.171/0001-43;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 750,00;Estimado;Comitê Financeiro Único - PT -  / 1357 - LUIS CLAUDIO DE OLIVEIRA MAIA - RJ - Deputado Federal;
+EDUARDO CARDOSO BITTENCOURT;137.333.327-84;01/10/2010;       Despesas com pessoal;R$ 1.200,00;Cheque; -  -  / 1357 - LUIS CLAUDIO DE OLIVEIRA MAIA - RJ - Deputado Federal;
+LUIS LINDBERG FARIAS FILHO;12.179.678/0001-62;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 21,00;Estimado;131 -  - PT -  - Senador / 1357 - LUIS CLAUDIO DE OLIVEIRA MAIA - RJ - Deputado Federal;
+MARIA APARECIDA DIOGO BRAGA;12.178.912/0001-37;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 890,00;Estimado;13313 -  - PT -  - Deputado Estadual / 1357 - LUIS CLAUDIO DE OLIVEIRA MAIA - RJ - Deputado Federal;
+MARIA APARECIDA DIOGO BRAGA;12.178.912/0001-37;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 417,00;Estimado;13313 -  - PT -  - Deputado Estadual / 1357 - LUIS CLAUDIO DE OLIVEIRA MAIA - RJ - Deputado Federal;

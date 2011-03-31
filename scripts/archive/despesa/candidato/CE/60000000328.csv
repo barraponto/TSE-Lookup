@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSÉ DOMINGUES ALVES GUIMARÃES;317.877.623-00;28/10/2010;43001892847;R$ 0,70;Depósito em espécie;JOSE DOMINGUES ALVES GUIMARAES;4343;Deputado Federal;PV;CE;
-JOSÉ DOMINGUES ALVES GUIMARÃES;317.877.623-00;20/10/2010;43001892846;R$ 340,00;Depósito em espécie;JOSE DOMINGUES ALVES GUIMARAES;4343;Deputado Federal;PV;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+MB5 CÓPIAS E IMPRESSÕES LTDA. - ME;08.145.556/0001-88;24/09/2010;       Publicidade por materiais impressos;R$ 340,00;Cheque; -  -  / 4343 - JOSE DOMINGUES ALVES GUIMARAES - CE - Deputado Federal;
+;;20/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 4343 - JOSE DOMINGUES ALVES GUIMARAES - CE - Deputado Federal;
+;;26/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 4343 - JOSE DOMINGUES ALVES GUIMARAES - CE - Deputado Federal;

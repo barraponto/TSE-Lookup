@@ -1,4 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.205.213/0001-39;28/09/2010;40002206351;R$ 1.900,00;Transferência eletrônica;MARCIO BAHIA DUTRA;4010;Deputado Federal;PSB;MG;
-Diretório Estadual/Distrital;12.205.213/0001-39;28/09/2010;40002206353;R$ 152,00;Estimado;MARCIO BAHIA DUTRA;4010;Deputado Federal;PSB;MG;
-Diretório Estadual/Distrital;12.205.213/0001-39;28/09/2010;40002206352;R$ 356,00;Estimado;MARCIO BAHIA DUTRA;4010;Deputado Federal;PSB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.205.213/0001-39;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 152,00;Estimado;Direção Estadual/Distrital - PSB -  / 4010 - MARCIO BAHIA DUTRA - MG - Deputado Federal;
+Diretório Estadual/Distrital;12.205.213/0001-39;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 356,00;Estimado;Direção Estadual/Distrital - PSB -  / 4010 - MARCIO BAHIA DUTRA - MG - Deputado Federal;
+FERNANDES SOURA E FERREIRA LTDA;03.865.742/0001-78;30/09/2010;       Combustíveis e lubrificantes;R$ 600,00;Cheque; -  -  / 4010 - MARCIO BAHIA DUTRA - MG - Deputado Federal;
+JOÃO BATISTA TEIXEIRA;012.935.926-25;02/10/2010;       Despesas com pessoal;R$ 400,00;Cheque; -  -  / 4010 - MARCIO BAHIA DUTRA - MG - Deputado Federal;
+MARCO ANTONIO DE OLIVEIRA ANDRADE;04.832.717/0001-50;30/09/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 4010 - MARCIO BAHIA DUTRA - MG - Deputado Federal;
+POSTO DISA LTDA;05.525.971/0001-79;01/10/2010;       Combustíveis e lubrificantes;R$ 300,00;Cheque; -  -  / 4010 - MARCIO BAHIA DUTRA - MG - Deputado Federal;

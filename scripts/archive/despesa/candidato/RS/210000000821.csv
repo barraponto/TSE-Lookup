@@ -1,3 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Deputado Federal;12.205.178/0001-58;31/08/2010;12001075017;R$ 1.000,00;Transferência eletrônica;KATIA GRAZIELA AJALA DA ROSA;1269;Deputado Federal;PDT;RS;
-Comitê Financeiro Estadual/Distrital para Deputado Federal;12.205.178/0001-58;10/08/2010;12001075016;R$ 1.000,00;Transferência eletrônica;KATIA GRAZIELA AJALA DA ROSA;1269;Deputado Federal;PDT;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA EDITORA GAZUCHA LTDA;90.964.057/0001-01;03/09/2010;       Publicidade por materiais impressos;R$ 418,00;Cheque; -  -  / 1269 - KATIA GRAZIELA AJALA DA ROSA - RS - Deputado Federal;
+GRAFICA EDITORA GAZUCHA LTDA;90.964.057/0001-01;03/09/2010;       Publicidade por materiais impressos;R$ 514,00;Cheque; -  -  / 1269 - KATIA GRAZIELA AJALA DA ROSA - RS - Deputado Federal;
+REINALDO FERNANDES DA CONCEIÇÃO JUNIOR;295.687.490-04;25/08/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / 1269 - KATIA GRAZIELA AJALA DA ROSA - RS - Deputado Federal;
+SIMONE POÇAS PINHEIRO;467.685.050-68;27/08/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / 1269 - KATIA GRAZIELA AJALA DA ROSA - RS - Deputado Federal;
+WE COM. DE ALIMENTOS LTDA;05.915.081/0001-73;28/09/2010;       Alimentação;R$ 64,00;Cheque; -  -  / 1269 - KATIA GRAZIELA AJALA DA ROSA - RS - Deputado Federal;

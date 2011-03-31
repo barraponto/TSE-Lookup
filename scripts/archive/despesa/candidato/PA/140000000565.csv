@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANA JULIA DE VASCONSELOS CAREPA;12.171.430/0001-55;23/09/2010;20000470896;R$ 500,00;Estimado;ERIVAL ALVES DE SOUSA;20300;Deputado Estadual;PSC;PA;
-ANA JULIA DE VASCONSELOS CAREPA;12.171.430/0001-55;16/09/2010;20000470894;R$ 480,00;Estimado;ERIVAL ALVES DE SOUSA;20300;Deputado Estadual;PSC;PA;
-ANA JULIA DE VASCONSELOS CAREPA;12.171.430/0001-55;23/09/2010;20000470897;R$ 2.000,00;Estimado;ERIVAL ALVES DE SOUSA;20300;Deputado Estadual;PSC;PA;
-PAULO ROBERTO GALVAO DA ROCHA;12.168.406/0001-67;25/09/2010;20000470801;R$ 260,00;Estimado;ERIVAL ALVES DE SOUSA;20300;Deputado Estadual;PSC;PA;
-00000085;12.171.430/0001-55;21/09/2010;20000470895;R$ 1.000,00;Estimado;ERIVAL ALVES DE SOUSA;20300;Deputado Estadual;PSC;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANA JULIA DE VASCONSELOS CAREPA;12.171.430/0001-55;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;13 -  - PT -  - Governador / 20300 - ERIVAL ALVES DE SOUSA - PA - Deputado Estadual;
+ANA JULIA DE VASCONSELOS CAREPA;12.171.430/0001-55;16/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 480,00;Estimado;13 -  - PT -  - Governador / 20300 - ERIVAL ALVES DE SOUSA - PA - Deputado Estadual;
+ANA JULIA DE VASCONSELOS CAREPA;12.171.430/0001-55;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado;13 -  - PT -  - Governador / 20300 - ERIVAL ALVES DE SOUSA - PA - Deputado Estadual;
+PAULO ROBERTO GALVAO DA ROCHA;12.168.406/0001-67;25/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 260,00;Estimado;131 -  - PT -  - Senador / 20300 - ERIVAL ALVES DE SOUSA - PA - Deputado Estadual;
+00000085;12.171.430/0001-55;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;13 -  - PT -  - Governador / 20300 - ERIVAL ALVES DE SOUSA - PA - Deputado Estadual;

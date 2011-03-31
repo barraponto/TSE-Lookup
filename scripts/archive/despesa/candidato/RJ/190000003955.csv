@@ -1,8 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALBERTO MEDEIROS SOUZA;731.044.007-25;20/09/2010;22000164457;R$ 610,00;Depósito em espécie;ALBERTO MEDEIROS SOUZA;22800;Deputado Estadual;PR;RJ;
-ALBERTO MEDEIROS SOUZA;731.044.007-25;19/08/2010;22000164451;R$ 310,00;Depósito em espécie;ALBERTO MEDEIROS SOUZA;22800;Deputado Estadual;PR;RJ;
-ALBERTO MEDEIROS SOUZA;731.044.007-25;23/08/2010;22000164452;R$ 1.400,00;Depósito em espécie;ALBERTO MEDEIROS SOUZA;22800;Deputado Estadual;PR;RJ;
-ALBERTO MEDEIROS SOUZA;731.044.007-25;24/08/2010;22000164453;R$ 218,00;Depósito em espécie;ALBERTO MEDEIROS SOUZA;22800;Deputado Estadual;PR;RJ;
-ALBERTO MEDEIROS SOUZA;731.044.007-25;01/09/2010;22000164456;R$ 20,00;Depósito em espécie;ALBERTO MEDEIROS SOUZA;22800;Deputado Estadual;PR;RJ;
-ANTHONY W. GAROTINHO M. DE OLIVEIRA DEP FEDERAL;12.199.794/0001-43;10/09/2010;22000164454;R$ 70,00;Estimado;ALBERTO MEDEIROS SOUZA;22800;Deputado Estadual;PR;RJ;
-Comitê Financeiro Único;12.217.557/0001-68;30/09/2010;22000164455;R$ 2.272,72;Estimado;ALBERTO MEDEIROS SOUZA;22800;Deputado Estadual;PR;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTHONY W. GAROTINHO M. DE OLIVEIRA DEP FEDERAL;12.199.794/0001-43;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 70,00;Estimado;2258 -  - PR -  - Deputado Federal / 22800 - ALBERTO MEDEIROS SOUZA - RJ - Deputado Estadual;
+BELINK SOLUÇÕES GRÁFICAS;07.593.124/0001-77;20/09/2010;       Publicidade por materiais impressos;R$ 610,00;Cheque; -  -  / 22800 - ALBERTO MEDEIROS SOUZA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.217.557/0001-68;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.272,72;Estimado;Comitê Financeiro Único - PR -  / 22800 - ALBERTO MEDEIROS SOUZA - RJ - Deputado Estadual;
+DESIGN RIO EDITORA E COMUNICAÇÃO LTDA;07.314.023/0001-10;18/08/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 22800 - ALBERTO MEDEIROS SOUZA - RJ - Deputado Estadual;
+MV PUBLICIDADE LTDA;04.323.165/0001-55;25/08/2010;       Publicidade por materiais impressos;R$ 1.400,00;Cheque; -  -  / 22800 - ALBERTO MEDEIROS SOUZA - RJ - Deputado Estadual;
+VIAPRIMOS SOLUÇÕES GRÁFICAS LTDA-ME;10.330.845/0001-07;25/08/2010;       Publicidade por materiais impressos;R$ 218,00;Cheque; -  -  / 22800 - ALBERTO MEDEIROS SOUZA - RJ - Deputado Estadual;
+;;01/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,02;Débito em conta; -  -  / 22800 - ALBERTO MEDEIROS SOUZA - RJ - Deputado Estadual;
+;;20/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 22800 - ALBERTO MEDEIROS SOUZA - RJ - Deputado Estadual;
+;;20/08/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 22800 - ALBERTO MEDEIROS SOUZA - RJ - Deputado Estadual;

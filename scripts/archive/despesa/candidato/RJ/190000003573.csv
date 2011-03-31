@@ -1,2 +1,13 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ROBERTO ALVES DE LIMA;637.025.337-53;29/07/2010;44000028661;R$ 5.000,00;Cheque;ROBERTO ALVES DE LIMA;44161;Deputado Estadual;PRP;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DIGITAL SIGN PRODUCOES GRÁFICAS LTDA - ME;10.629.486/0001-85;05/08/2010;       Publicidade por materiais impressos;R$ 810,00;Cheque; -  -  / 44161 - ROBERTO ALVES DE LIMA - RJ - Deputado Estadual;
+GRÁFICA CAROEM LTDA;03.721.219/0001-78;13/09/2010;       Publicidade por materiais impressos;R$ 42,50;Cheque; -  -  / 44161 - ROBERTO ALVES DE LIMA - RJ - Deputado Estadual;
+GRAFICA E EDITORA TVJ LTDA;01.178.977/0001-66;30/07/2010;       Publicidade por materiais impressos;R$ 96,50;Cheque; -  -  / 44161 - ROBERTO ALVES DE LIMA - RJ - Deputado Estadual;
+GRAFICA E EDITORA TVJ LTDA;01.178.977/0001-66;30/08/2010;       Publicidade por materiais impressos;R$ 425,00;Cheque; -  -  / 44161 - ROBERTO ALVES DE LIMA - RJ - Deputado Estadual;
+GRAFICA E EDITORA TVJ LTDA;01.178.977/0001-66;17/08/2010;       Publicidade por materiais impressos;R$ 42,50;Cheque; -  -  / 44161 - ROBERTO ALVES DE LIMA - RJ - Deputado Estadual;
+GRAFICA E EDITORA TVJ LTDA;01.178.977/0001-66;12/08/2010;       Publicidade por materiais impressos;R$ 425,00;Cheque; -  -  / 44161 - ROBERTO ALVES DE LIMA - RJ - Deputado Estadual;
+J.CAMPOS SOBRAL BAR;32.062.390/0001-10;12/08/2010;       Alimentação;R$ 262,02;Cheque; -  -  / 44161 - ROBERTO ALVES DE LIMA - RJ - Deputado Estadual;
+LUIS CARLOS DOS SANTOS RABELLO;768.187.307-44;09/09/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / 44161 - ROBERTO ALVES DE LIMA - RJ - Deputado Estadual;
+MARIA AUXILIADORA GONÇALO DA SILVA;882.180.237-04;08/09/2010;       Despesas com pessoal;R$ 1.000,00;Cheque; -  -  / 44161 - ROBERTO ALVES DE LIMA - RJ - Deputado Estadual;
+THEREZA MARIA DA SILVA SANTOS;059.689.097-49;08/09/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / 44161 - ROBERTO ALVES DE LIMA - RJ - Deputado Estadual;
+THEREZA MARIA DA SILVA SANTOS;059.689.097-49;04/08/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / 44161 - ROBERTO ALVES DE LIMA - RJ - Deputado Estadual;
+VIRGÍNIA DE FÁTIMA SILVA CRESPO;545.269.817-53;01/10/2010;       Despesas com pessoal;R$ 396,48;Cheque; -  -  / 44161 - ROBERTO ALVES DE LIMA - RJ - Deputado Estadual;

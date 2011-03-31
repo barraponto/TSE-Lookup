@@ -1,6 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-BENEDITO LINS DE SOUZA;445.397.384-53;27/07/2010;50000010351;R$ 1.000,00;Depósito em espécie;BENEDITO LINS DE SOUZA;50255;Deputado Estadual;PSOL;AL;
-BENEDITO LINS DE SOUZA;445.397.384-53;09/08/2010;50000010352;R$ 400,00;Depósito em espécie;BENEDITO LINS DE SOUZA;50255;Deputado Estadual;PSOL;AL;
-BENEDITO LINS DE SOUZA;445.397.384-53;23/09/2010;50000010356;R$ 65,00;Depósito em espécie;BENEDITO LINS DE SOUZA;50255;Deputado Estadual;PSOL;AL;
-BENEDITO LINS DE SOUZA;445.397.384-53;31/08/2010;50000010354;R$ 170,00;Depósito em espécie;BENEDITO LINS DE SOUZA;50255;Deputado Estadual;PSOL;AL;
-BENEDITO LINS DE SOUZA;445.397.384-53;19/08/2010;50000010353;R$ 700,00;Depósito em espécie;BENEDITO LINS DE SOUZA;50255;Deputado Estadual;PSOL;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+IDEIA EDITORA GRÁFICA E EMBALAGENS LTDA;00.631.480/0001-99;09/08/2010;       Publicidade por materiais impressos;R$ 1.250,00;Cheque; -  -  / 50255 - BENEDITO LINS DE SOUZA - AL - Deputado Estadual;
+L JARDIM CIA LTDA;12.270.435/0007-20;12/08/2010;       Diversas a especificar;R$ 12,00;Cheque; -  -  / 50255 - BENEDITO LINS DE SOUZA - AL - Deputado Estadual;
+L JARDIM CIA LTDA;12.270.435/0007-20;12/08/2010;       Publicidade por materiais impressos;R$ 150,00;Cheque; -  -  / 50255 - BENEDITO LINS DE SOUZA - AL - Deputado Estadual;
+MERCADINHO DOS TECIDOS;12.270.492/0001-14;31/07/2010;       Publicidade por materiais impressos;R$ 26,95;Cheque; -  -  / 50255 - BENEDITO LINS DE SOUZA - AL - Deputado Estadual;
+NAYARA CARLA FERNANDES FALCÃO-ME;08.341.813/0001-57;31/07/2010;       Publicidade por materiais impressos;R$ 208,00;Cheque; -  -  / 50255 - BENEDITO LINS DE SOUZA - AL - Deputado Estadual;
+NAYARA CARLA FERNANDES FALCÃO-ME;08.341.813/0001-57;23/09/2010;       Publicidade por placas, estandartes e faixas;R$ 70,00;Cheque; -  -  / 50255 - BENEDITO LINS DE SOUZA - AL - Deputado Estadual;
+NIGLEIDE DE SOUZA PEREIRA OLIVEIRA;10.198.671/0001-62;20/08/2010;       Publicidade por materiais impressos;R$ 70,00;Cheque; -  -  / 50255 - BENEDITO LINS DE SOUZA - AL - Deputado Estadual;
+SIRLEIDE RODRIGUES DOS SANTOS - ME;05.155.928/0001-69;30/08/2010;       Publicidade por materiais impressos;R$ 525,00;Cheque; -  -  / 50255 - BENEDITO LINS DE SOUZA - AL - Deputado Estadual;

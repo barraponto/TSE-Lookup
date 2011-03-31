@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANA JULIA DE VASCONCELOS CAREPA;12.171.430/0001-55;01/10/2010;13000770605;R$ 2.200,00;Estimado;JOCLAU BARRA LIMA;13789;Deputado Estadual;PT;PA;
-EDILZET DA SILVA DE MORAES;508.684.202-63;15/09/2010;13000770604;R$ 40,00;Estimado;JOCLAU BARRA LIMA;13789;Deputado Estadual;PT;PA;
-ERINETE DA SILVA DE MORAES;732.031.732-04;15/09/2010;13000770603;R$ 40,00;Estimado;JOCLAU BARRA LIMA;13789;Deputado Estadual;PT;PA;
-GLEIDSON AMOEDO DA SILVA;424.642.502-87;25/09/2010;13000770606;R$ 160,00;Estimado;JOCLAU BARRA LIMA;13789;Deputado Estadual;PT;PA;
-GLEIDSON AMOEDO DA SILVA;424.642.502-87;27/09/2010;13000770607;R$ 3.000,00;Depósito em espécie;JOCLAU BARRA LIMA;13789;Deputado Estadual;PT;PA;
-PAULO ROBERTO GALVAO DA ROCHA;12.168.406/0001-67;25/09/2010;13000770608;R$ 420,00;Estimado;JOCLAU BARRA LIMA;13789;Deputado Estadual;PT;PA;
-SELMIRA MARIA BARRA DOS REIS;488.485.062-91;15/09/2010;13000770602;R$ 120,00;Estimado;JOCLAU BARRA LIMA;13789;Deputado Estadual;PT;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANA JULIA DE VASCONCELOS CAREPA;12.171.430/0001-55;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.200,00;Estimado;13 -  - PT -  - Governador / 13789 - JOCLAU BARRA LIMA - PA - Deputado Estadual;
+EDILZET DA SILVA DE MORAES;508.684.202-63;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 40,00;Estimado; -  -  / 13789 - JOCLAU BARRA LIMA - PA - Deputado Estadual;
+ERINETE DA SILVA DE MORAES;732.031.732-04;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 40,00;Estimado; -  -  / 13789 - JOCLAU BARRA LIMA - PA - Deputado Estadual;
+GLEIDSON AMOEDO DA SILVA;424.642.502-87;25/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 160,00;Estimado; -  -  / 13789 - JOCLAU BARRA LIMA - PA - Deputado Estadual;
+JORGE DO SOCORRO SARAIVA;380.880.532-34;20/09/2010;       Serviços prestados por terceiros;R$ 3.000,00;Cheque; -  -  / 13789 - JOCLAU BARRA LIMA - PA - Deputado Estadual;
+PAULO ROBERTO GALVAO DA ROCHA;12.168.406/0001-67;25/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 420,00;Estimado;131 -  - PT -  - Senador / 13789 - JOCLAU BARRA LIMA - PA - Deputado Estadual;
+SELMIRA MARIA BARRA DOS REIS;488.485.062-91;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 120,00;Estimado; -  -  / 13789 - JOCLAU BARRA LIMA - PA - Deputado Estadual;

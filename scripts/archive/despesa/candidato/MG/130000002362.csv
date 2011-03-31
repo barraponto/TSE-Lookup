@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.191.514/0001-50;02/09/2010;33000068036;R$ 508,00;Estimado;RILMA BARBOSA SILVA;33343;Deputado Estadual;PMN;MG;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.191.514/0001-50;02/09/2010;33000068037;R$ 27,96;Estimado;RILMA BARBOSA SILVA;33343;Deputado Estadual;PMN;MG;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.191.514/0001-50;05/09/2010;33000068038;R$ 1.197,84;Estimado;RILMA BARBOSA SILVA;33343;Deputado Estadual;PMN;MG;
-Diretório Nacional;29.549.433/0001-82;05/09/2010;33000068039;R$ 250,00;Estimado;RILMA BARBOSA SILVA;33343;Deputado Estadual;PMN;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.191.514/0001-50;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.197,84;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual - PMN -  / 33343 - RILMA BARBOSA SILVA - MG - Deputado Estadual;
+Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.191.514/0001-50;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 508,00;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual - PMN -  / 33343 - RILMA BARBOSA SILVA - MG - Deputado Estadual;
+Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.191.514/0001-50;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 27,96;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual - PMN -  / 33343 - RILMA BARBOSA SILVA - MG - Deputado Estadual;
+Diretório Nacional;29.549.433/0001-82;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;Direção Nacional - PMN -  / 33343 - RILMA BARBOSA SILVA - MG - Deputado Estadual;

@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSE TARGINO MARANHÃO;12.189.345/0001-14;23/09/2010;65000236305;R$ 523,56;Estimado;ERIVAM PEREIRA DA SILVA;6521;Deputado Federal;PC do B;PB;
-JOSE TARGINO MARANHÃO;12.189.345/0001-14;08/09/2010;65000236303;R$ 150,00;Estimado;ERIVAM PEREIRA DA SILVA;6521;Deputado Federal;PC do B;PB;
-LUIZ CARLOS LACERDA VIRGOLINO;02.988.494/0001-90;26/07/2010;65000236301;R$ 242,00;Estimado;ERIVAM PEREIRA DA SILVA;6521;Deputado Federal;PC do B;PB;
-RANIERE LIMA RODRIGUES;035.764.724-60;03/09/2010;65000236302;R$ 875,00;Estimado;ERIVAM PEREIRA DA SILVA;6521;Deputado Federal;PC do B;PB;
-RANIERE LIMA RODRIGUES;035.764.724-60;08/09/2010;65000236304;R$ 320,00;Estimado;ERIVAM PEREIRA DA SILVA;6521;Deputado Federal;PC do B;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JOSE TARGINO MARANHÃO;12.189.345/0001-14;08/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;15 -  - PMDB -  - Governador / 6521 - ERIVAM PEREIRA DA SILVA - PB - Deputado Federal;
+JOSE TARGINO MARANHÃO;12.189.345/0001-14;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 523,56;Estimado;15 -  - PMDB -  - Governador / 6521 - ERIVAM PEREIRA DA SILVA - PB - Deputado Federal;
+LUIZ CARLOS LACERDA VIRGOLINO;02.988.494/0001-90;26/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 242,00;Estimado; -  -  / 6521 - ERIVAM PEREIRA DA SILVA - PB - Deputado Federal;
+RANIERE LIMA RODRIGUES;035.764.724-60;08/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 320,00;Estimado; -  -  / 6521 - ERIVAM PEREIRA DA SILVA - PB - Deputado Federal;
+RANIERE LIMA RODRIGUES;035.764.724-60;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 875,00;Estimado; -  -  / 6521 - ERIVAM PEREIRA DA SILVA - PB - Deputado Federal;

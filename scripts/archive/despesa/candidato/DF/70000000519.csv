@@ -1,4 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.205.228/0001-05;10/09/2010;15000256803;R$ 3.400,00;Cheque;INÁCIA MARIA DE LIMA;15033;Deputado Distrital;PMDB;DF;
-Diretório Estadual/Distrital;12.205.228/0001-05;23/09/2010;15000256805;R$ 3.400,00;Cheque;INÁCIA MARIA DE LIMA;15033;Deputado Distrital;PMDB;DF;
-Diretório Estadual/Distrital;12.205.228/0001-05;14/09/2010;15000256804;R$ 1.000,00;Cheque;INÁCIA MARIA DE LIMA;15033;Deputado Distrital;PMDB;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANDRÉ LUIZ DE LIMA SIMÕES;692.538.971-04;14/09/2010;       Diversas a especificar;R$ 2.000,00;Cheque; -  -  / 15033 - INÁCIA MARIA DE LIMA - DF - Deputado Distrital;
+ANDRÉ LUIZ DE LIMA SIMÕES;692.538.971-04;22/09/2010;       Diversas a especificar;R$ 1.900,00;Cheque; -  -  / 15033 - INÁCIA MARIA DE LIMA - DF - Deputado Distrital;
+AUTO PLUS COMÉRCIO E SERVIÇOS LTDA-ME;03.481.796/0001-30;17/09/2010;       Publicidade por materiais impressos;R$ 240,00;Cheque; -  -  / 15033 - INÁCIA MARIA DE LIMA - DF - Deputado Distrital;
+GRAFICA E EDITORA ZUZA LTDA-ME;04.807.365/0001-83;06/09/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 15033 - INÁCIA MARIA DE LIMA - DF - Deputado Distrital;
+GRAFICA E EDITORA ZUZA LTDA-ME;04.807.365/0001-83;24/09/2010;       Publicidade por materiais impressos;R$ 220,00;Cheque; -  -  / 15033 - INÁCIA MARIA DE LIMA - DF - Deputado Distrital;
+MARCO RENATO DE CARVALHO;507.186.571-87;10/09/2010;       Diversas a especificar;R$ 1.500,00;Cheque; -  -  / 15033 - INÁCIA MARIA DE LIMA - DF - Deputado Distrital;
+MARCO RENATO DE CARVALHO;507.186.571-87;24/09/2010;       Diversas a especificar;R$ 1.400,00;Cheque; -  -  / 15033 - INÁCIA MARIA DE LIMA - DF - Deputado Distrital;

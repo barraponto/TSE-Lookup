@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;84.638.196/0001-34;20/09/2010;65000280062;R$ 275,00;Estimado;BRAZ PARENTE BARBOSA;65110;Deputado Estadual;PC do B;RO;
-Diretório Estadual/Distrital;84.638.196/0001-34;20/09/2010;65000280061;R$ 247,50;Estimado;BRAZ PARENTE BARBOSA;65110;Deputado Estadual;PC do B;RO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;84.638.196/0001-34;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 275,00;Estimado;Direção Estadual/Distrital - PMDB -  / 65110 - BRAZ PARENTE BARBOSA - RO - Deputado Estadual;
+Diretório Estadual/Distrital;84.638.196/0001-34;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 247,50;Estimado;Direção Estadual/Distrital - PMDB -  / 65110 - BRAZ PARENTE BARBOSA - RO - Deputado Estadual;

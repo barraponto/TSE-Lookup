@@ -1,3 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-GESSE COSTA SANTOS;710.746.357-87;10/08/2010;17000068652;R$ 5,00;Depósito em espécie;GESSE COSTA SANTOS;17777;Deputado Estadual;PSL;RJ;
-WALNEY DA ROCHA CARVALHO;12.178.580/0001-90;30/08/2010;17000068651;R$ 250,00;Estimado;GESSE COSTA SANTOS;17777;Deputado Estadual;PSL;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+WALNEY DA ROCHA CARVALHO;12.178.580/0001-90;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;1400 -  - PTB -  - Deputado Federal / 17777 - GESSE COSTA SANTOS - RJ - Deputado Estadual;

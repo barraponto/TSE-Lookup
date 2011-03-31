@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO AGNALDO BEZERRA DA SILVA;285.629.254-20;10/08/2010;25000154201;R$ 200,00;Depósito em espécie;ANTONIO AGNALDO BEZERRA DA SILVA;25444;Deputado Estadual;DEM;PB;
-EFRAIM DE ARAUJO MORAIS FILHO;12.167.635/0001-67;31/08/2010;25000154202;R$ 295,00;Estimado;ANTONIO AGNALDO BEZERRA DA SILVA;25444;Deputado Estadual;DEM;PB;
-RICARDO VIEIRA COUTINHO;12.173.462/0001-90;30/09/2010;25000154203;R$ 48,00;Estimado;ANTONIO AGNALDO BEZERRA DA SILVA;25444;Deputado Estadual;DEM;PB;
-RICARDO VIEIRA COUTINHO;12.173.462/0001-90;01/10/2010;25000154204;R$ 1.192,50;Estimado;ANTONIO AGNALDO BEZERRA DA SILVA;25444;Deputado Estadual;DEM;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EFRAIM DE ARAUJO MORAIS FILHO;12.167.635/0001-67;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 295,00;Estimado;2511 -  - DEM -  - Deputado Federal / 25444 - ANTONIO AGNALDO BEZERRA DA SILVA - PB - Deputado Estadual;
+NEON LINE PLACAS LUMINOSAS LTDA;02.083.778/0001-37;11/08/2010;       Publicidade por materiais impressos;R$ 170,00;Cheque; -  -  / 25444 - ANTONIO AGNALDO BEZERRA DA SILVA - PB - Deputado Estadual;
+RICARDO VIEIRA COUTINHO;12.173.462/0001-90;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.192,50;Estimado;40 -  - PSB -  - Governador / 25444 - ANTONIO AGNALDO BEZERRA DA SILVA - PB - Deputado Estadual;
+RICARDO VIEIRA COUTINHO;12.173.462/0001-90;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 48,00;Estimado;40 -  - PSB -  - Governador / 25444 - ANTONIO AGNALDO BEZERRA DA SILVA - PB - Deputado Estadual;

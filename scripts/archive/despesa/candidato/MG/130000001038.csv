@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.154.851/0001-78;10/08/2010;70000107291;R$ 590,00;Estimado;CESAR LOURENCO DIAS DE CASTRO;7019;Deputado Federal;PT do B;MG;
-Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;70000107293;R$ 300,00;Estimado;CESAR LOURENCO DIAS DE CASTRO;7019;Deputado Federal;PT do B;MG;
-Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;70000107292;R$ 1.180,00;Estimado;CESAR LOURENCO DIAS DE CASTRO;7019;Deputado Federal;PT do B;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PT do B -  / 7019 - CESAR LOURENCO DIAS DE CASTRO - MG - Deputado Federal;
+Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.180,00;Estimado;Comitê Financeiro Único - PT do B -  / 7019 - CESAR LOURENCO DIAS DE CASTRO - MG - Deputado Federal;
+Comitê Financeiro Único;12.154.851/0001-78;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 590,00;Estimado;Comitê Financeiro Único - PT do B -  / 7019 - CESAR LOURENCO DIAS DE CASTRO - MG - Deputado Federal;

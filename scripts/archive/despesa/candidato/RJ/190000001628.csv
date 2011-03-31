@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Governador;12.181.923/0001-76;10/09/2010;31000025190;R$ 300,00;Estimado;PAULO ROBERTO BARBOSA CORREA;31300;Deputado Estadual;PHS;RJ;
-SUPERGRAF STUDIO GRAFICO LTDA;27.852.698/0001-20;01/10/2010;31000025191;R$ 6.058,99;Estimado;PAULO ROBERTO BARBOSA CORREA;31300;Deputado Estadual;PHS;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Governador;12.181.923/0001-76;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Distrital/Estadual para Governador - PMDB -  / 31300 - PAULO ROBERTO BARBOSA CORREA - RJ - Deputado Estadual;
+SUPERGRAF STUDIO GRAFICO LTDA;27.852.698/0001-20;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 6.058,99;Estimado; -  -  / 31300 - PAULO ROBERTO BARBOSA CORREA - RJ - Deputado Estadual;

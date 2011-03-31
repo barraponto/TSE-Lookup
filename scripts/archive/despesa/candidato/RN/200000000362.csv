@@ -1,5 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FRANCISCA NEIDE MEDEIROS COSTA SANTOS;938.307.184-20;19/07/2010;65000246401;R$ 270,00;Depósito em espécie;FRANCISCA NEIDE MEDEIROS COSTA SANTOS;65111;Deputado Estadual;PC do B;RN;
-FRANCISCO CHAGAS DOS SANTOS;221.294.304-06;21/09/2010;65000246403;R$ 690,00;Depósito em espécie;FRANCISCA NEIDE MEDEIROS COSTA SANTOS;65111;Deputado Estadual;PC do B;RN;
-FRANCISCO CHAGAS DOS SANTOS;221.294.304-06;30/09/2010;65000246404;R$ 1.050,00;Depósito em espécie;FRANCISCA NEIDE MEDEIROS COSTA SANTOS;65111;Deputado Estadual;PC do B;RN;
-FRANCISCO CHAGAS DOS SANTOS;221.294.304-06;29/07/2010;65000246402;R$ 350,00;Depósito em espécie;FRANCISCA NEIDE MEDEIROS COSTA SANTOS;65111;Deputado Estadual;PC do B;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALDAIR JOSÉ DE ALMEIDA;913.976.184-34;30/07/2010;       Produção de jingles, vinhetas e slogans;R$ 280,00;Cheque; -  -  / 65111 - FRANCISCA NEIDE MEDEIROS COSTA SANTOS - RN - Deputado Estadual;
+ALIGRAF SOUZA & FREITAS LTDA.;10.892.469/0001-36;20/07/2010;       Publicidade por materiais impressos;R$ 220,00;Cheque; -  -  / 65111 - FRANCISCA NEIDE MEDEIROS COSTA SANTOS - RN - Deputado Estadual;
+J & R GRÁFICA;08.959.246/0001-05;23/07/2010;       Publicidade por materiais impressos;R$ 50,00;Cheque; -  -  / 65111 - FRANCISCA NEIDE MEDEIROS COSTA SANTOS - RN - Deputado Estadual;
+MANUEL ERIVAL BARRETO DA COSTA JÚNIOR;051.876.354-41;01/10/2010;       Publicidade por carros de som;R$ 1.050,00;Cheque; -  -  / 65111 - FRANCISCA NEIDE MEDEIROS COSTA SANTOS - RN - Deputado Estadual;
+POSTO FREI DAMIÃO;08.547.432/0001-29;04/08/2010;       Combustíveis e lubrificantes;R$ 70,00;Cheque; -  -  / 65111 - FRANCISCA NEIDE MEDEIROS COSTA SANTOS - RN - Deputado Estadual;
+UNIGRÁFICA - GRÁFICA E EDITORA LTDA.;02.749.278/0001-91;28/09/2010;       Publicidade por materiais impressos;R$ 690,00;Cheque; -  -  / 65111 - FRANCISCA NEIDE MEDEIROS COSTA SANTOS - RN - Deputado Estadual;

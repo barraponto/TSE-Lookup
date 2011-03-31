@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO FRANCISCO BALDOINO;298.099.833-87;30/09/2010;44000046883;R$ 300,00;Estimado;BARTOLOMEU DE MORAIS SOUSA;44555;Deputado Estadual;PRP;PI;
-ELEIÇÕES 2010 WILSON NUNES MARTINS GOVERNADOR;12.169.977/0001-16;23/08/2010;44000046881;R$ 862,07;Estimado;BARTOLOMEU DE MORAIS SOUSA;44555;Deputado Estadual;PRP;PI;
-GEO GRAFICA LTDA;10.623.375/0001-61;08/09/2010;44000046882;R$ 1.700,00;Estimado;BARTOLOMEU DE MORAIS SOUSA;44555;Deputado Estadual;PRP;PI;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO FRANCISCO BALDOINO;298.099.833-87;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 44555 - BARTOLOMEU DE MORAIS SOUSA - PI - Deputado Estadual;
+ELEIÇÕES 2010 WILSON NUNES MARTINS GOVERNADOR;12.169.977/0001-16;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 862,07;Estimado;40 -  - PSB -  - Governador / 44555 - BARTOLOMEU DE MORAIS SOUSA - PI - Deputado Estadual;
+GEO GRAFICA LTDA;10.623.375/0001-61;08/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.700,00;Estimado; -  -  / 44555 - BARTOLOMEU DE MORAIS SOUSA - PI - Deputado Estadual;

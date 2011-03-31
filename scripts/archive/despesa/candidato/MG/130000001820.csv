@@ -1,8 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-BRAZ PAULO DE OLIVEIRA JUNIOR;008.625.396-41;04/08/2010;31000011963;R$ 200,00;Depósito em espécie;BRAZ PAULO DE OLIVEIRA JUNIOR;31000;Deputado Estadual;PHS;MG;
-BRAZ PAULO DE OLIVEIRA JUNIOR;008.625.396-41;02/09/2010;31000011962;R$ 10,00;Depósito em espécie;BRAZ PAULO DE OLIVEIRA JUNIOR;31000;Deputado Estadual;PHS;MG;
-BRAZ PAULO DE OLIVEIRA JUNIOR;008.625.396-41;14/09/2010;31000011961;R$ 50,00;Depósito em espécie;BRAZ PAULO DE OLIVEIRA JUNIOR;31000;Deputado Estadual;PHS;MG;
-Comitê Financeiro Único;12.154.851/0001-78;01/09/2010;31000011957;R$ 590,00;Estimado;BRAZ PAULO DE OLIVEIRA JUNIOR;31000;Deputado Estadual;PHS;MG;
-GASPAR RODRIGUES DA SILVA;138.893.896-00;13/10/2010;31000011955;R$ 2.060,00;Depósito em espécie;BRAZ PAULO DE OLIVEIRA JUNIOR;31000;Deputado Estadual;PHS;MG;
-GASPAR RODRIGUES DA SILVA;138.893.896-00;02/09/2010;31000011954;R$ 1.000,00;Depósito em espécie;BRAZ PAULO DE OLIVEIRA JUNIOR;31000;Deputado Estadual;PHS;MG;
-JOÃO CARLOS COELHO DE OLIVEIRA;090.005.779-34;03/09/2010;31000011959;R$ 400,00;Transferência eletrônica;BRAZ PAULO DE OLIVEIRA JUNIOR;31000;Deputado Estadual;PHS;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.154.851/0001-78;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 590,00;Estimado;Comitê Financeiro Único - PT do B -  / 31000 - BRAZ PAULO DE OLIVEIRA JUNIOR - MG - Deputado Estadual;
+ENCARDENADORA EDITORA VISÃO LTDA;02.018.031/0001-03;16/07/2010;       Publicidade por materiais impressos;R$ 440,00;Cheque; -  -  / 31000 - BRAZ PAULO DE OLIVEIRA JUNIOR - MG - Deputado Estadual;
+GELZA MARIA ALVES BRAGA;08.197.454/0001-06;16/08/2010;       Publicidade por placas, estandartes e faixas;R$ 1.200,00;Cheque; -  -  / 31000 - BRAZ PAULO DE OLIVEIRA JUNIOR - MG - Deputado Estadual;
+GELZA MARIA ALVES BRAGA;08.197.454/0001-06;03/09/2010;       Publicidade por materiais impressos;R$ 150,00;Cheque; -  -  / 31000 - BRAZ PAULO DE OLIVEIRA JUNIOR - MG - Deputado Estadual;
+GRAFICA FLAUSIO LTDA;71.063.705/0001-04;22/09/2010;       Publicidade por materiais impressos;R$ 700,00;Cheque; -  -  / 31000 - BRAZ PAULO DE OLIVEIRA JUNIOR - MG - Deputado Estadual;
+PAULO ROBERTO MOTA;560.727.086-68;02/09/2010;       Serviços prestados por terceiros;R$ 12,50;Cheque; -  -  / 31000 - BRAZ PAULO DE OLIVEIRA JUNIOR - MG - Deputado Estadual;
+TUPIGRAF EDITORA GRÁFICA LTDA - ME;04.137.166/0001-05;01/09/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 31000 - BRAZ PAULO DE OLIVEIRA JUNIOR - MG - Deputado Estadual;
+TUPIGRAF EDITORA GRÁFICA LTDA - ME;04.137.166/0001-05;20/09/2010;       Publicidade por materiais impressos;R$ 900,00;Cheque; -  -  / 31000 - BRAZ PAULO DE OLIVEIRA JUNIOR - MG - Deputado Estadual;
+;;18/10/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 31000 - BRAZ PAULO DE OLIVEIRA JUNIOR - MG - Deputado Estadual;

@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;36000008501;R$ 300,00;Estimado;WANTUIR ANTONIO ELOI;36565;Deputado Estadual;PTC;MG;
-Comitê Financeiro Único;12.154.851/0001-78;15/09/2010;36000008502;R$ 1.180,00;Estimado;WANTUIR ANTONIO ELOI;36565;Deputado Estadual;PTC;MG;
-WANTUIR ANTONIO ELOI;551.502.416-87;14/09/2010;36000008503;R$ 350,00;Depósito em espécie;WANTUIR ANTONIO ELOI;36565;Deputado Estadual;PTC;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BH COMUNICAÇÃO VISUAL LTDA;12.032.632/0001-16;02/09/2010;       Publicidade por placas, estandartes e faixas;R$ 350,00;Cheque; -  -  / 36565 - WANTUIR ANTONIO ELOI - MG - Deputado Estadual;
+Comitê Financeiro Único;12.154.851/0001-78;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.180,00;Estimado;Comitê Financeiro Único - PT do B -  / 36565 - WANTUIR ANTONIO ELOI - MG - Deputado Estadual;
+Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PT do B -  / 36565 - WANTUIR ANTONIO ELOI - MG - Deputado Estadual;

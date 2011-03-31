@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-A GRAFICA E COMUNICAÇÃO LTDA;11.305.064/0001-17;15/10/2010;28000472333;R$ 140,00;Estimado;JOÃO BATISTA LUNA DE OLIVEIRA;28500;Deputado Estadual;PRTB;MA;
-Comitê Financeiro Único;12.262.851/0001-91;10/10/2010;28000472331;R$ 641,00;Estimado;JOÃO BATISTA LUNA DE OLIVEIRA;28500;Deputado Estadual;PRTB;MA;
-JOAO BATISTA LUNA DE OLIVEIRA;238.998.753-20;22/09/2010;28000472334;R$ 250,00;Depósito em espécie;JOÃO BATISTA LUNA DE OLIVEIRA;28500;Deputado Estadual;PRTB;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+A GRAFICA E COMUNICAÇÃO LTDA;11.305.064/0001-17;15/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 140,00;Estimado; -  -  / 28500 - JOÃO BATISTA LUNA DE OLIVEIRA - MA - Deputado Estadual;
+A J  MARTINS PINHEIRO - MA;69.376.812/0001-32;18/09/2010;       Publicidade por materiais impressos;R$ 250,00;Cheque; -  -  / 28500 - JOÃO BATISTA LUNA DE OLIVEIRA - MA - Deputado Estadual;
+Comitê Financeiro Único;12.262.851/0001-91;10/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 641,00;Estimado;Comitê Financeiro Único - PRTB -  / 28500 - JOÃO BATISTA LUNA DE OLIVEIRA - MA - Deputado Estadual;

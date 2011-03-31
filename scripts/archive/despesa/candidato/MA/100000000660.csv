@@ -1,4 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FLAVIO DINO GOVERNADOR;12.176.183/0001-80;06/09/2010;65000207631;R$ 860,14;Estimado;JOSÉ MARIA MORAES RODRIGUES;65800;Deputado Estadual;PC do B;MA;
-FLAVIO DINO GOVERNADOR;12.176.183/0001-80;03/09/2010;65000207632;R$ 870,00;Estimado;JOSÉ MARIA MORAES RODRIGUES;65800;Deputado Estadual;PC do B;MA;
-JOSÉ MARIA MORAES RODRIGUES;269.491.483-72;12/08/2010;65000207633;R$ 2.000,00;Depósito em espécie;JOSÉ MARIA MORAES RODRIGUES;65800;Deputado Estadual;PC do B;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ESTAÇÃO GRAFICA LTDA.;69.419.877/0001-18;26/08/2010;       Publicidade por materiais impressos;R$ 318,00;Cheque; -  -  / 65800 - JOSÉ MARIA MORAES RODRIGUES - MA - Deputado Estadual;
+ESTAÇÃO GRAFICA LTDA.;69.419.877/0001-18;26/08/2010;       Publicidade por materiais impressos;R$ 884,00;Cheque; -  -  / 65800 - JOSÉ MARIA MORAES RODRIGUES - MA - Deputado Estadual;
+FLAVIO DINO GOVERNADOR;12.176.183/0001-80;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 860,14;Estimado;65 -  - PC do B -  - Governador / 65800 - JOSÉ MARIA MORAES RODRIGUES - MA - Deputado Estadual;
+FLAVIO DINO GOVERNADOR;12.176.183/0001-80;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 870,00;Estimado;65 -  - PC do B -  - Governador / 65800 - JOSÉ MARIA MORAES RODRIGUES - MA - Deputado Estadual;
+H M BOGEA E CIA LTDA(JORNAL PEQUENO);01.153.837/0001-33;01/09/2010;       Publicidade por jornais e revistas;R$ 416,65;Cheque; -  -  / 65800 - JOSÉ MARIA MORAES RODRIGUES - MA - Deputado Estadual;
+IOLANDA MARIA CORREA;268.913.953-72;19/10/2010;       Serviços prestados por terceiros;R$ 200,00;Cheque; -  -  / 65800 - JOSÉ MARIA MORAES RODRIGUES - MA - Deputado Estadual;
+MARCILENE RODRIGUES DE SOUSA;035.136.093-02;18/10/2010;       Serviços prestados por terceiros;R$ 181,35;Cheque; -  -  / 65800 - JOSÉ MARIA MORAES RODRIGUES - MA - Deputado Estadual;

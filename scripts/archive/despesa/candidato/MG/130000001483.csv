@@ -1,5 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.213/0001-39;26/08/2010;40002206526;R$ 1.500,00;Cheque;FELIPE FERNANDO DA COSTA;40888;Deputado Estadual;PSB;MG;
-Comitê Financeiro Único;12.205.213/0001-39;30/09/2010;40002206529;R$ 27,95;Estimado;FELIPE FERNANDO DA COSTA;40888;Deputado Estadual;PSB;MG;
-Comitê Financeiro Único;12.205.213/0001-39;03/09/2010;40002206528;R$ 1.197,84;Estimado;FELIPE FERNANDO DA COSTA;40888;Deputado Estadual;PSB;MG;
-Comitê Financeiro Único;12.205.213/0001-39;30/08/2010;40002206527;R$ 508,00;Estimado;FELIPE FERNANDO DA COSTA;40888;Deputado Estadual;PSB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.213/0001-39;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.197,84;Estimado;Comitê Financeiro Único - PSB -  / 40888 - FELIPE FERNANDO DA COSTA - MG - Deputado Estadual;
+Comitê Financeiro Único;12.205.213/0001-39;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 27,95;Estimado;Comitê Financeiro Único - PSB -  / 40888 - FELIPE FERNANDO DA COSTA - MG - Deputado Estadual;
+Comitê Financeiro Único;12.205.213/0001-39;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 508,00;Estimado;Comitê Financeiro Único - PSB -  / 40888 - FELIPE FERNANDO DA COSTA - MG - Deputado Estadual;
+CREUSA MARIA PEREIRA DOS SANTOS;940.485.506-59;02/10/2010;       Despesas com pessoal;R$ 80,00;Cheque; -  -  / 40888 - FELIPE FERNANDO DA COSTA - MG - Deputado Estadual;
+CREUSA MARIA PEREIRA DOS SANTOS;940.485.506-59;23/09/2010;       Despesas com pessoal;R$ 100,00;Cheque; -  -  / 40888 - FELIPE FERNANDO DA COSTA - MG - Deputado Estadual;
+CREUSA MARIA PEREIRA DOS SANTOS;940.485.506-59;28/09/2010;       Despesas com pessoal;R$ 420,00;Cheque; -  -  / 40888 - FELIPE FERNANDO DA COSTA - MG - Deputado Estadual;
+DANIEL SILVA DOS SANTOS;065.574.356-12;23/09/2010;       Despesas com pessoal;R$ 100,00;Cheque; -  -  / 40888 - FELIPE FERNANDO DA COSTA - MG - Deputado Estadual;
+RODRIGO RYANN RUAS;713.844.131-20;02/09/2010;       Despesas com pessoal;R$ 100,00;Cheque; -  -  / 40888 - FELIPE FERNANDO DA COSTA - MG - Deputado Estadual;
+TRINDADE GRÁFICA EDITORA E PAPELARIA TRINDADE LTDA;07.780.689/0001-63;13/09/2010;       Publicidade por materiais impressos;R$ 700,00;Cheque; -  -  / 40888 - FELIPE FERNANDO DA COSTA - MG - Deputado Estadual;

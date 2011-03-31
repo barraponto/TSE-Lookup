@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.229.922/0001-54;07/08/2010;20000141006;R$ 360,00;Estimado;LUCIA LUCI BARROS OTTONI DA SILVA;20333;Deputado Distrital;PSC;DF;
-Comitê Financeiro Único;12.229.922/0001-54;16/08/2010;20000141005;R$ 360,00;Estimado;LUCIA LUCI BARROS OTTONI DA SILVA;20333;Deputado Distrital;PSC;DF;
-GEORGE AUGUSTO BROCHIERI;863.721.901-25;12/08/2010;20000141009;R$ 250,00;Estimado;LUCIA LUCI BARROS OTTONI DA SILVA;20333;Deputado Distrital;PSC;DF;
-LUCIA LUCI BARROS OTTONI DA SILVA;770.007.901-30;12/08/2010;20000141010;R$ 590,00;Depósito em espécie;LUCIA LUCI BARROS OTTONI DA SILVA;20333;Deputado Distrital;PSC;DF;
-OSWALDO MENEGUIM;020.196.398-15;20/08/2010;20000141007;R$ 200,00;Depósito em espécie;LUCIA LUCI BARROS OTTONI DA SILVA;20333;Deputado Distrital;PSC;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.229.922/0001-54;16/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Único - PSC -  / 20333 - LUCIA LUCI BARROS OTTONI DA SILVA - DF - Deputado Distrital;
+Comitê Financeiro Único;12.229.922/0001-54;07/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Único - PSC -  / 20333 - LUCIA LUCI BARROS OTTONI DA SILVA - DF - Deputado Distrital;
+GEORGE AUGUSTO BROCHIERI;863.721.901-25;12/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado; -  -  / 20333 - LUCIA LUCI BARROS OTTONI DA SILVA - DF - Deputado Distrital;
+GRAFICA E EDITORA VICENTINA LTDA;08.589.067/0001-15;14/09/2010;       Publicidade por materiais impressos;R$ 640,00;Cheque; -  -  / 20333 - LUCIA LUCI BARROS OTTONI DA SILVA - DF - Deputado Distrital;
+RNA STUTAPE SERVIÇOS DE REPROGRAFIA E CONGENERES LTDA;00.412.130/0001-31;23/08/2010;       Publicidade por materiais impressos;R$ 150,00;Cheque; -  -  / 20333 - LUCIA LUCI BARROS OTTONI DA SILVA - DF - Deputado Distrital;

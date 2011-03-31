@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JACKSON LAGO;12.167.170/0001-44;15/08/2010;12001023001;R$ 2.698,80;Estimado;JOSÉ EMILIO NOGUEIRA FIQUENE;12010;Deputado Estadual;PDT;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JACKSON LAGO;12.167.170/0001-44;15/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.698,80;Estimado;12 -  - PDT -  - Governador / 12010 - JOSÉ EMILIO NOGUEIRA FIQUENE - MA - Deputado Estadual;

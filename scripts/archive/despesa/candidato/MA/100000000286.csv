@@ -1,9 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANGELITA BARROSO MEDEIROS;328.902.303-68;19/08/2010;50000210473;R$ 300,00;Depósito em espécie;JOSEMAR LOPES DE SOUSA;5012;Deputado Federal;PSOL;MA;
-ANTONIO SOUZA BORGES;155.899.272-34;26/08/2010;50000210475;R$ 50,00;Depósito em espécie;JOSEMAR LOPES DE SOUSA;5012;Deputado Federal;PSOL;MA;
-Comitê Financeiro Único;12.221.879/0001-80;17/08/2010;50000210474;R$ 500,00;Estimado;JOSEMAR LOPES DE SOUSA;5012;Deputado Federal;PSOL;MA;
-FRANCISCO WILSON LEITE DA SILVA;626.166.683-00;01/08/2010;50000210478;R$ 100,00;Estimado;JOSEMAR LOPES DE SOUSA;5012;Deputado Federal;PSOL;MA;
-JOSEMAR LOPES DE SOUSA;346.196.663-00;27/09/2010;50000210477;R$ 165,00;Depósito em espécie;JOSEMAR LOPES DE SOUSA;5012;Deputado Federal;PSOL;MA;
-JOSEMAR LOPES DE SOUSA;346.196.663-00;05/07/2010;50000210471;R$ 3.000,00;Estimado;JOSEMAR LOPES DE SOUSA;5012;Deputado Federal;PSOL;MA;
-JOSEMAR LOPES DE SOUSA;346.196.663-00;18/08/2010;50000210472;R$ 450,00;Depósito em espécie;JOSEMAR LOPES DE SOUSA;5012;Deputado Federal;PSOL;MA;
-SILVAN LOPES PRODUÇÕES SHOWS E EVENTOS;11.705.491/0001-92;26/08/2010;50000210476;R$ 500,00;Estimado;JOSEMAR LOPES DE SOUSA;5012;Deputado Federal;PSOL;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO GONZAGAO LTDA;05.052.987/0001-01;28/08/2010;       Combustíveis e lubrificantes;R$ 50,00;Cheque; -  -  / 5012 - JOSEMAR LOPES DE SOUSA - MA - Deputado Federal;
+BRASIL EDITORA E COMUNICAÇÃO VISUAL LTDA;11.008.407/0001-81;19/08/2010;       Publicidade por materiais impressos;R$ 450,00;Cheque; -  -  / 5012 - JOSEMAR LOPES DE SOUSA - MA - Deputado Federal;
+BRASIL EDITORA E COMUNICAÇÃO VISUAL LTDA;11.008.407/0001-81;27/09/2010;       Publicidade por materiais impressos;R$ 165,00;Cheque; -  -  / 5012 - JOSEMAR LOPES DE SOUSA - MA - Deputado Federal;
+Comitê Financeiro Único;12.221.879/0001-80;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;Comitê Financeiro Único - PSOL -  / 5012 - JOSEMAR LOPES DE SOUSA - MA - Deputado Federal;
+FRANCISCO WILSON LEITE DA SILVA;626.166.683-00;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado; -  -  / 5012 - JOSEMAR LOPES DE SOUSA - MA - Deputado Federal;
+GRAFICA E EDITORA LIDER LTDA;05.301.585/0001-01;19/08/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 5012 - JOSEMAR LOPES DE SOUSA - MA - Deputado Federal;
+JOSEMAR LOPES DE SOUSA;346.196.663-00;05/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.000,00;Estimado; -  -  / 5012 - JOSEMAR LOPES DE SOUSA - MA - Deputado Federal;
+SILVAN LOPES PRODUÇÕES SHOWS E EVENTOS;11.705.491/0001-92;26/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 5012 - JOSEMAR LOPES DE SOUSA - MA - Deputado Federal;

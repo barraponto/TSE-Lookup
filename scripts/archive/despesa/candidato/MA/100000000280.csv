@@ -1,7 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS SATURNINO MOREIRA NETO;660.652.913-15;24/08/2010;50000210024;R$ 50,00;Depósito em espécie;RAIMUNDO SILVA;50200;Deputado Estadual;PSOL;MA;
-CARLOS SATURNINO MOREIRA NETO;660.652.913-15;03/09/2010;50000210025;R$ 250,00;Depósito em espécie;RAIMUNDO SILVA;50200;Deputado Estadual;PSOL;MA;
-Comitê Financeiro Único;12.221.879/0001-80;17/08/2010;50000210028;R$ 500,00;Estimado;RAIMUNDO SILVA;50200;Deputado Estadual;PSOL;MA;
-RAIMUNDO SILVA;098.626.413-04;03/08/2010;50000210022;R$ 250,00;Depósito em espécie;RAIMUNDO SILVA;50200;Deputado Estadual;PSOL;MA;
-RAIMUNDO SILVA;098.626.413-04;16/07/2010;50000210021;R$ 70,00;Depósito em espécie;RAIMUNDO SILVA;50200;Deputado Estadual;PSOL;MA;
-RAIMUNDO SILVA;098.626.413-04;17/08/2010;50000210023;R$ 200,00;Depósito em espécie;RAIMUNDO SILVA;50200;Deputado Estadual;PSOL;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.221.879/0001-80;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;Comitê Financeiro Único - PSOL -  / 50200 - RAIMUNDO SILVA - MA - Deputado Estadual;
+P. P. S. ROCHA - ME;07.531.389/0001-40;12/08/2010;       Publicidade por materiais impressos;R$ 250,00;Cheque; -  -  / 50200 - RAIMUNDO SILVA - MA - Deputado Estadual;
+SERV SOM SERVIÇOS DE PROPAGANDA LTDA A.D.L. REIS;04.034.584/0001-77;30/09/2010;       Publicidade por carros de som;R$ 65,00;Cheque; -  -  / 50200 - RAIMUNDO SILVA - MA - Deputado Estadual;
+50200 - RAIMUNDO SILVA - DEPUTADO ESTADUAL;12.170.982/0001-49;12/08/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 250,00;Cheque;Comitê Financeiro Único - PSOL - MA / 50200 - RAIMUNDO SILVA - MA - Deputado Estadual;
+50200 - RAIMUNDO SILVA - DEPUTADO ESTADUAL;12.170.982/0001-49;01/10/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 250,00;Cheque;Comitê Financeiro Único - PSOL - MA / 50200 - RAIMUNDO SILVA - MA - Deputado Estadual;

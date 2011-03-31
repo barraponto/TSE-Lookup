@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Governador;12.190.887/0001-07;12/08/2010;33000000537;R$ 630,00;Estimado;SILMERI LUGARINI;3388;Deputado Federal;PMN;PR;
-Comitê Financeiro Único;12.134.176/0001-15;25/09/2010;33000000539;R$ 565,00;Estimado;SILMERI LUGARINI;3388;Deputado Federal;PMN;PR;
-ELEIÇÃO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;27/09/2010;33000000538;R$ 1.680,00;Transferência eletrônica;SILMERI LUGARINI;3388;Deputado Federal;PMN;PR;
-ELEIÇÃO 2010 RICARDO JOSE MAGALHÃES BARROS;12.190.665/0001-94;26/09/2010;33000000540;R$ 450,00;Estimado;SILMERI LUGARINI;3388;Deputado Federal;PMN;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Governador;12.190.887/0001-07;12/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 630,00;Estimado;Comitê Financeiro Distrital/Estadual para Governador - PSDB -  / 3388 - SILMERI LUGARINI - PR - Deputado Federal;
+Comitê Financeiro Único;12.134.176/0001-15;25/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 565,00;Estimado;Comitê Financeiro Único - PMN -  / 3388 - SILMERI LUGARINI - PR - Deputado Federal;
+ELEIÇÃO 2010 RICARDO JOSE MAGALHÃES BARROS;12.190.665/0001-94;26/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 450,00;Estimado;111 -  - PP -  - Senador / 3388 - SILMERI LUGARINI - PR - Deputado Federal;
+SILMERI LUGARINI;537.223.709-06;01/10/2010;       Despesas com pessoal;R$ 1.680,00;Transferência eletrônica; -  -  / 3388 - SILMERI LUGARINI - PR - Deputado Federal;

@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO DE LUCENA MAIA;768.080.094-49;08/09/2010;20000520401;R$ 350,00;Estimado;FRANCISCO DE LUCENA MAIA;20555;Deputado Estadual;PSC;PB;
-JOSE ADERALDO DE ARAUJO;132.339.044-87;01/10/2010;20000520402;R$ 150,00;Estimado;FRANCISCO DE LUCENA MAIA;20555;Deputado Estadual;PSC;PB;
-JOSE TARGINO MARAHÃO;12.189.345/0001-14;23/10/2010;20000520403;R$ 523,56;Estimado;FRANCISCO DE LUCENA MAIA;20555;Deputado Estadual;PSC;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO DE LUCENA MAIA;768.080.094-49;08/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 350,00;Estimado; -  -  / 20555 - FRANCISCO DE LUCENA MAIA - PB - Deputado Estadual;
+JOSE ADERALDO DE ARAUJO;132.339.044-87;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado; -  -  / 20555 - FRANCISCO DE LUCENA MAIA - PB - Deputado Estadual;
+JOSE TARGINO MARAHÃO;12.189.345/0001-14;23/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 523,56;Estimado;15 -  - PMDB -  - Governador / 20555 - FRANCISCO DE LUCENA MAIA - PB - Deputado Estadual;

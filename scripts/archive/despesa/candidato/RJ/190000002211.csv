@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-INACIO BRAZAO;12.199.922/0001-59;01/10/2010;70000150222;R$ 312,50;Estimado;CARLOS VICENTE NEVES DA SILVA;7099;Deputado Federal;PT do B;RJ;
-INACIO BRAZAO;12.199.922/0001-59;01/10/2010;70000150224;R$ 420,00;Estimado;CARLOS VICENTE NEVES DA SILVA;7099;Deputado Federal;PT do B;RJ;
-INACIO BRAZAO;12.199.922/0001-59;01/10/2010;70000150223;R$ 375,00;Estimado;CARLOS VICENTE NEVES DA SILVA;7099;Deputado Federal;PT do B;RJ;
-VILMA DE OLIVEIRA DA SILVA;974.049.507-91;15/08/2010;70000150221;R$ 600,00;Estimado;CARLOS VICENTE NEVES DA SILVA;7099;Deputado Federal;PT do B;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+INACIO BRAZAO;12.199.922/0001-59;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 375,00;Estimado;15101 -  - PMDB -  - Deputado Estadual / 7099 - CARLOS VICENTE NEVES DA SILVA - RJ - Deputado Federal;
+INACIO BRAZAO;12.199.922/0001-59;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 420,00;Estimado;15101 -  - PMDB -  - Deputado Estadual / 7099 - CARLOS VICENTE NEVES DA SILVA - RJ - Deputado Federal;
+INACIO BRAZAO;12.199.922/0001-59;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 312,50;Estimado;15101 -  - PMDB -  - Deputado Estadual / 7099 - CARLOS VICENTE NEVES DA SILVA - RJ - Deputado Federal;
+VILMA DE OLIVEIRA DA SILVA;974.049.507-91;15/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado; -  -  / 7099 - CARLOS VICENTE NEVES DA SILVA - RJ - Deputado Federal;

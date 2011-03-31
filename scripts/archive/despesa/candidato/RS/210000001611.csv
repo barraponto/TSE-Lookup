@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-SERGIO LUIS STASINSKI;12.176.966/0001-63;30/08/2010;13000968001;R$ 140,00;Estimado;LAURO POGOZELSKI;1390;Deputado Federal;PT;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+SERGIO LUIS STASINSKI;12.176.966/0001-63;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 140,00;Estimado;13900 -  - PT -  - Deputado Estadual / 1390 - LAURO POGOZELSKI - RS - Deputado Federal;

@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.181.923/0001-76;14/08/2010;28000183349;R$ 300,00;Estimado;JULIO CÉSAR SANTANA DOS SANTOS;28193;Deputado Estadual;PRTB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.181.923/0001-76;14/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Direção Estadual/Distrital - PMDB -  / 28193 - JULIO CÉSAR SANTANA DOS SANTOS - RJ - Deputado Estadual;

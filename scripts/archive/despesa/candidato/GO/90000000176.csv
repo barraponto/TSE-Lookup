@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CÉSAR DE ALCANTARA FERNANDES CARVALHO;09.136.895/0001-60;11/08/2010;17000036751;R$ 90,00;Estimado;JOAO BOSCO LUZ KALIL;17666;Deputado Estadual;PSL;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CÉSAR DE ALCANTARA FERNANDES CARVALHO;09.136.895/0001-60;11/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 90,00;Estimado; -  -  / 17666 - JOAO BOSCO LUZ KALIL - GO - Deputado Estadual;

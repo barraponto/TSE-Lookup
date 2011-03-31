@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JORGE SAYED PICCIANI;12.176.626/0001-32;01/10/2010;36000055702;R$ 47,18;Estimado;WASHINGTON CARDOSO NETO;36442;Deputado Estadual;PTC;RJ;
-WALNEY DA ROCHA CARVALHO;12.178.580/0001-90;30/08/2010;36000055701;R$ 250,00;Estimado;WASHINGTON CARDOSO NETO;36442;Deputado Estadual;PTC;RJ;
-WASHINGTON CARDOSO NETO;073.537.357-40;27/07/2010;36000055703;R$ 400,00;Estimado;WASHINGTON CARDOSO NETO;36442;Deputado Estadual;PTC;RJ;
-WASHINGTON CARDOSO NETO;073.537.357-40;30/09/2010;36000055704;R$ 140,00;Estimado;WASHINGTON CARDOSO NETO;36442;Deputado Estadual;PTC;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JORGE SAYED PICCIANI;12.176.626/0001-32;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 47,18;Estimado;151 -  - PMDB -  - Senador / 36442 - WASHINGTON CARDOSO NETO - RJ - Deputado Estadual;
+WALNEY DA ROCHA CARVALHO;12.178.580/0001-90;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;1400 -  - PTB -  - Deputado Federal / 36442 - WASHINGTON CARDOSO NETO - RJ - Deputado Estadual;
+WASHINGTON CARDOSO NETO;073.537.357-40;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 140,00;Estimado; -  -  / 36442 - WASHINGTON CARDOSO NETO - RJ - Deputado Estadual;
+WASHINGTON CARDOSO NETO;073.537.357-40;27/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado; -  -  / 36442 - WASHINGTON CARDOSO NETO - RJ - Deputado Estadual;

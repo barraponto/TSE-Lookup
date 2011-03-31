@@ -1,5 +1,13 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ABMAEL BARBOSA PEREIRA;693.098.091-91;26/10/2010;20000440002;R$ 530,00;Depósito em espécie;ABMAEL BARBOSA PEREIRA;20222;Deputado Estadual;PSC;MS;
-DELCÍDIO DO AMARAL GOMES;12.167.861/0001-48;17/08/2010;20000440001;R$ 160,00;Estimado;ABMAEL BARBOSA PEREIRA;20222;Deputado Estadual;PSC;MS;
-JULIANA ZORZO SILVA;12.311.714/0001-08;16/08/2010;20000440011;R$ 10.000,00;Cheque;ABMAEL BARBOSA PEREIRA;20222;Deputado Estadual;PSC;MS;
-PEDRO CHAVES DOS SANTOS FILHO;100.908.787-87;17/09/2010;20000440012;R$ 5.000,00;Cheque;ABMAEL BARBOSA PEREIRA;20222;Deputado Estadual;PSC;MS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AIRTON PEREIRA;102.685.701-59;22/09/2010;       Despesas com pessoal;R$ 3.000,00;Cheque; -  -  / 20222 - ABMAEL BARBOSA PEREIRA - MS - Deputado Estadual;
+AIRTON PEREIRA;102.685.701-59;17/08/2010;       Despesas com pessoal;R$ 3.000,00;Cheque; -  -  / 20222 - ABMAEL BARBOSA PEREIRA - MS - Deputado Estadual;
+ALEX BARBOSA PEREIRA;971.368.161-49;22/09/2010;       Despesas com pessoal;R$ 2.000,00;Cheque; -  -  / 20222 - ABMAEL BARBOSA PEREIRA - MS - Deputado Estadual;
+ALEX BARBOSA PEREIRA;971.368.161-49;17/08/2010;       Despesas com pessoal;R$ 2.000,00;Cheque; -  -  / 20222 - ABMAEL BARBOSA PEREIRA - MS - Deputado Estadual;
+DÁLIA MARIA DE SOUZA BREGA;703.196.421-00;17/08/2010;       Despesas com pessoal;R$ 1.000,00;Cheque; -  -  / 20222 - ABMAEL BARBOSA PEREIRA - MS - Deputado Estadual;
+DELCÍDIO DO AMARAL GOMES;12.167.861/0001-48;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 160,00;Estimado;138 -  - PT -  - Senador / 20222 - ABMAEL BARBOSA PEREIRA - MS - Deputado Estadual;
+DERMEVAL BREGA;403.478.008-82;17/08/2010;       Despesas com pessoal;R$ 1.000,00;Cheque; -  -  / 20222 - ABMAEL BARBOSA PEREIRA - MS - Deputado Estadual;
+JR DE FARIA & CIA LTDA - EPP.;02.201.759/0001-68;27/09/2010;       Publicidade por materiais impressos;R$ 580,00;Cheque; -  -  / 20222 - ABMAEL BARBOSA PEREIRA - MS - Deputado Estadual;
+JR DE FARIA & CIA LTDA - EPP.;02.201.759/0001-68;17/08/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 20222 - ABMAEL BARBOSA PEREIRA - MS - Deputado Estadual;
+RICARDO ALEXANDRE DE SOUZA BREGA;840.768.601-87;17/08/2010;       Despesas com pessoal;R$ 1.000,00;Cheque; -  -  / 20222 - ABMAEL BARBOSA PEREIRA - MS - Deputado Estadual;
+RINALDO SOUZA E SILVA;343.621.851-00;17/08/2010;       Despesas com pessoal;R$ 750,00;Cheque; -  -  / 20222 - ABMAEL BARBOSA PEREIRA - MS - Deputado Estadual;
+ROSE MEIRE DE SOUZA BREGA;141.246.881-72;17/08/2010;       Despesas com pessoal;R$ 1.000,00;Cheque; -  -  / 20222 - ABMAEL BARBOSA PEREIRA - MS - Deputado Estadual;

@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-NELIO RODRIGUES;311.459.227-91;11/08/2010;70000151121;R$ 50,00;Depósito em espécie;NELIO RODRIGUES;7066;Deputado Federal;PT do B;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+LIVRARIA E PAPELARIA PRAÇA SECA LTDA;33.058.397/0001-21;11/08/2010;       Materiais de expediente;R$ 30,00;Cheque; -  -  / 7066 - NELIO RODRIGUES - RJ - Deputado Federal;

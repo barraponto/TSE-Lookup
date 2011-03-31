@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;29/09/2010;11000006540;R$ 150,00;Estimado;ANDREA CARVALHO DE OLIVEIRA;11247;Deputado Estadual;PP;RJ;
-LUIZ MENEZES MADEIRA;069.434.377-39;30/09/2010;11000007076;R$ 300,00;Estimado;ANDREA CARVALHO DE OLIVEIRA;11247;Deputado Estadual;PP;RJ;
-NIT HOST SERVIÇOS DE INTERNET E COMUNIC. LTDA ME;08.579.382/0001-61;30/09/2010;11000006539;R$ 40,00;Estimado;ANDREA CARVALHO DE OLIVEIRA;11247;Deputado Estadual;PP;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 11247 - ANDREA CARVALHO DE OLIVEIRA - RJ - Deputado Estadual;
+LUIZ MENEZES MADEIRA;069.434.377-39;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 11247 - ANDREA CARVALHO DE OLIVEIRA - RJ - Deputado Estadual;
+NIT HOST SERVIÇOS DE INTERNET E COMUNIC. LTDA ME;08.579.382/0001-61;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 40,00;Estimado; -  -  / 11247 - ANDREA CARVALHO DE OLIVEIRA - RJ - Deputado Estadual;

@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.570/0001-95;01/08/2010;19000006422;R$ 192,00;Estimado;MANOEL GREGORIO FERREIRA DE JESUS;19600;Deputado Estadual;PTN;BA;
-Comitê Financeiro Único;12.191.570/0001-95;03/10/2010;19000006423;R$ 763,20;Estimado;MANOEL GREGORIO FERREIRA DE JESUS;19600;Deputado Estadual;PTN;BA;
-MANOEL GREGORIO FERREIRA DE JESUS;096.410.505-59;23/07/2010;19000006421;R$ 600,00;Depósito em espécie;MANOEL GREGORIO FERREIRA DE JESUS;19600;Deputado Estadual;PTN;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.570/0001-95;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 192,00;Estimado;Comitê Financeiro Único - PMDB -  / 19600 - MANOEL GREGORIO FERREIRA DE JESUS - BA - Deputado Estadual;
+Comitê Financeiro Único;12.191.570/0001-95;03/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 763,20;Estimado;Comitê Financeiro Único - PMDB -  / 19600 - MANOEL GREGORIO FERREIRA DE JESUS - BA - Deputado Estadual;
+EMGRAF - EMPRESARIAL GRAFICA FEIRENSE LTDA;14.752.810/0001-09;23/07/2010;       Diversas a especificar;R$ 600,00;Cheque; -  -  / 19600 - MANOEL GREGORIO FERREIRA DE JESUS - BA - Deputado Estadual;

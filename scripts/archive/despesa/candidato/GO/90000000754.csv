@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 VANDERLAN VIEIRA CARDOSO GOVERNADOR;12.198.568/0001-48;28/09/2010;12001021037;R$ 700,00;Estimado;MORACI DE SOUZA LEMES;12347;Deputado Estadual;PDT;GO;
-ELEIÇÃO 2010 VANDERLAN VIEIRA CARDOSO GOVERNADOR;12.198.568/0001-48;28/09/2010;12001021006;R$ 350,00;Estimado;MORACI DE SOUZA LEMES;12347;Deputado Estadual;PDT;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 VANDERLAN VIEIRA CARDOSO GOVERNADOR;12.198.568/0001-48;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 350,00;Estimado;22 -  - PR -  - Governador / 12347 - MORACI DE SOUZA LEMES - GO - Deputado Estadual;
+ELEIÇÃO 2010 VANDERLAN VIEIRA CARDOSO GOVERNADOR;12.198.568/0001-48;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 700,00;Estimado;22 -  - PR -  - Governador / 12347 - MORACI DE SOUZA LEMES - GO - Deputado Estadual;

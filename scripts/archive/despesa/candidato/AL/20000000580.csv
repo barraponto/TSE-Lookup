@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.475/0001-91;30/09/2010;14000066102;R$ 300,00;Estimado;JOSÉ EVARISTO DE SOUZA;14003;Deputado Estadual;PTB;AL;
-ELEIÇÃO 2010 FERNANDO AFFONSO COLLOR DE MELLO;12.168.659/0001-30;29/09/2010;14000066101;R$ 3.906,25;Estimado;JOSÉ EVARISTO DE SOUZA;14003;Deputado Estadual;PTB;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.475/0001-91;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PTB -  / 14003 - JOSÉ EVARISTO DE SOUZA - AL - Deputado Estadual;
+ELEIÇÃO 2010 FERNANDO AFFONSO COLLOR DE MELLO;12.168.659/0001-30;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.906,25;Estimado;14 -  - PTB -  - Governador / 14003 - JOSÉ EVARISTO DE SOUZA - AL - Deputado Estadual;

@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.206.663/0001-46;17/09/2010;14000185505;R$ 486,00;Estimado;RAIMUNDO ILDEFONSO DE ALMEIDA;14333;Deputado Estadual;PTB;AC;
-Comitê Financeiro Único;12.206.663/0001-46;14/09/2010;14000185506;R$ 196,00;Estimado;RAIMUNDO ILDEFONSO DE ALMEIDA;14333;Deputado Estadual;PTB;AC;
-Comitê Financeiro Único;12.206.663/0001-46;08/09/2010;14000185504;R$ 2.812,50;Estimado;RAIMUNDO ILDEFONSO DE ALMEIDA;14333;Deputado Estadual;PTB;AC;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.206.663/0001-46;08/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.812,50;Estimado;Comitê Financeiro Único - PTB -  / 14333 - RAIMUNDO ILDEFONSO DE ALMEIDA - AC - Deputado Estadual;
+Comitê Financeiro Único;12.206.663/0001-46;17/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 486,00;Estimado;Comitê Financeiro Único - PTB -  / 14333 - RAIMUNDO ILDEFONSO DE ALMEIDA - AC - Deputado Estadual;
+Comitê Financeiro Único;12.206.663/0001-46;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 196,00;Estimado;Comitê Financeiro Único - PTB -  / 14333 - RAIMUNDO ILDEFONSO DE ALMEIDA - AC - Deputado Estadual;

@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.297/0001-00;28/07/2010;16000030852;R$ 2.625,00;Estimado;JULIO CEZAR LEIRIAS FLORES;16;Governador;PSTU;RS;
-REGIS BATISTA ETHUR;541.823.280-00;30/09/2010;16000030851;R$ 506,00;Cheque;JULIO CEZAR LEIRIAS FLORES;16;Governador;PSTU;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.297/0001-00;28/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.625,00;Estimado;Comitê Financeiro Único - PSTU -  / 16 - JULIO CEZAR LEIRIAS FLORES - RS - Governador;
+DKS 2000 EM CENA PRODUÇÕES EM VÍDEO LTDA - ME;02.061.157/0001-52;30/09/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 506,00;Cheque; -  -  / 16 - JULIO CEZAR LEIRIAS FLORES - RS - Governador;

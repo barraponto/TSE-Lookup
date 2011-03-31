@@ -1,5 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-SILVIO ERNESTO VERAS FROTA;203.456.663-72;26/08/2010;28000492363;R$ 3.000,00;Depósito em espécie;SILVIO ERNESTO VERAS FROTA;28800;Deputado Estadual;PRTB;CE;
-SILVIO ERNESTO VERAS FROTA;203.456.663-72;17/09/2010;28000492374;R$ 5.000,00;Depósito em espécie;SILVIO ERNESTO VERAS FROTA;28800;Deputado Estadual;PRTB;CE;
-SILVIO ERNESTO VERAS FROTA;203.456.663-72;17/09/2010;28000492375;R$ 5.000,00;Depósito em espécie;SILVIO ERNESTO VERAS FROTA;28800;Deputado Estadual;PRTB;CE;
-SILVIO ERNESTO VERAS FROTA;203.456.663-72;02/09/2010;28000492367;R$ 2.000,00;Depósito em espécie;SILVIO ERNESTO VERAS FROTA;28800;Deputado Estadual;PRTB;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+COMPANHIA DE COMUNICAÇAO E INFORMAÇAO;06.913.315/0001-06;17/09/2010;       Diversas a especificar;R$ 2.592,00;Cheque; -  -  / 28800 - SILVIO ERNESTO VERAS FROTA - CE - Deputado Estadual;
+EDITORA VERDES MARES LTDA;07.209.299/0001-38;17/09/2010;       Diversas a especificar;R$ 2.664,00;Cheque; -  -  / 28800 - SILVIO ERNESTO VERAS FROTA - CE - Deputado Estadual;
+ESTRUTURAL COMERCIO E SERVIÇOS LTDA;02.546.583/0002-67;14/09/2010;       Diversas a especificar;R$ 4.050,00;Cheque; -  -  / 28800 - SILVIO ERNESTO VERAS FROTA - CE - Deputado Estadual;
+EXPRESSAO GRAFICA E EDITORA LTDA;23.715.659/0001-20;29/09/2010;       Diversas a especificar;R$ 1.800,00;Cheque; -  -  / 28800 - SILVIO ERNESTO VERAS FROTA - CE - Deputado Estadual;
+F RODRIGUES DA SILVA GRAFICA;04.490.628/0001-73;01/09/2010;       Diversas a especificar;R$ 1.000,00;Cheque; -  -  / 28800 - SILVIO ERNESTO VERAS FROTA - CE - Deputado Estadual;
+F RODRIGUES DA SILVA GRAFICA;04.490.628/0001-73;01/09/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 28800 - SILVIO ERNESTO VERAS FROTA - CE - Deputado Estadual;
+LUCIANA FERREIRA DA SILVA;001.712.593-60;29/09/2010;       Diversas a especificar;R$ 2.192,28;Cheque; -  -  / 28800 - SILVIO ERNESTO VERAS FROTA - CE - Deputado Estadual;
+MASTER PRINT IMPRESSAO DIGITAL LTDA;07.870.218/0001-46;21/09/2010;       Diversas a especificar;R$ 3.840,00;Cheque; -  -  / 28800 - SILVIO ERNESTO VERAS FROTA - CE - Deputado Estadual;
+MBSET INDUSTRIAL LTDA;02.034.206/0001-68;02/09/2010;       Diversas a especificar;R$ 1.100,00;Cheque; -  -  / 28800 - SILVIO ERNESTO VERAS FROTA - CE - Deputado Estadual;
+ROSELIA PONCIANO DA SILVA;07.450.862/0001-65;27/08/2010;       Publicidade por materiais impressos;R$ 1.800,00;Cheque; -  -  / 28800 - SILVIO ERNESTO VERAS FROTA - CE - Deputado Estadual;
+ROSELIA PONCIANO DA SILVA;07.450.862/0001-65;27/08/2010;       Diversas a especificar;R$ 1.800,00;Cheque; -  -  / 28800 - SILVIO ERNESTO VERAS FROTA - CE - Deputado Estadual;

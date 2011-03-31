@@ -1,2 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-WEVERTON ROCHA MARQUES DE SOUSA;12.179.060/0001-00;22/07/2010;45000425131;R$ 7.000,00;Cheque;ERICO FABIANO DINIZ DE CARVALHO;45111;Deputado Estadual;PSDB;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ÉRICO FABIANO DINIZ DE CARVALHO;662.532.333-00;20/07/2010;       Despesas com pessoal;R$ 3.000,00;Cheque; -  -  / 45111 - ERICO FABIANO DINIZ DE CARVALHO - MA - Deputado Estadual;
+MARCIO ANTONIO RABELO FONSECA;688.039.073-00;20/07/2010;       Produção de jingles, vinhetas e slogans;R$ 1.000,00;Cheque; -  -  / 45111 - ERICO FABIANO DINIZ DE CARVALHO - MA - Deputado Estadual;
+MARIA DA CONCEIÇÃO SILVA;765.783.303-30;20/07/2010;       Publicidade por placas, estandartes e faixas;R$ 2.000,00;Cheque; -  -  / 45111 - ERICO FABIANO DINIZ DE CARVALHO - MA - Deputado Estadual;

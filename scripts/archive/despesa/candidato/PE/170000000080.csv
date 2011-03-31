@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Nacional;29.549.433/0001-82;18/08/2010;33000113551;R$ 250,00;Estimado;FERNANDO DOS SANTOS;33583;Deputado Estadual;PMN;PE;
-Diretório Nacional;29.549.433/0001-82;30/09/2010;33000113553;R$ 4.035,71;Estimado;FERNANDO DOS SANTOS;33583;Deputado Estadual;PMN;PE;
-Diretório Nacional;29.549.433/0001-82;20/08/2010;33000113552;R$ 37,50;Estimado;FERNANDO DOS SANTOS;33583;Deputado Estadual;PMN;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Nacional;29.549.433/0001-82;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.035,71;Estimado;Direção Nacional - PMN -  / 33583 - FERNANDO DOS SANTOS - PE - Deputado Estadual;
+Diretório Nacional;29.549.433/0001-82;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;Direção Nacional - PMN -  / 33583 - FERNANDO DOS SANTOS - PE - Deputado Estadual;
+Diretório Nacional;29.549.433/0001-82;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 37,50;Estimado;Direção Nacional - PMN -  / 33583 - FERNANDO DOS SANTOS - PE - Deputado Estadual;

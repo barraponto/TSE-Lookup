@@ -1,4 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;14000130282;R$ 150,00;Estimado;JOAO BOSCO DE AZEVEDO;14569;Deputado Estadual;PTB;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;14000130283;R$ 150,00;Estimado;JOAO BOSCO DE AZEVEDO;14569;Deputado Estadual;PTB;RJ;
-JOAO BOSCO DE AZEVEDO;081.585.417-04;24/08/2010;14000130281;R$ 10.000,00;Cheque;JOAO BOSCO DE AZEVEDO;14569;Deputado Estadual;PTB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS JOSÉ QUINTINO;854.297.167-15;02/10/2010;       Publicidade por materiais impressos;R$ 700,00;Cheque; -  -  / 14569 - JOAO BOSCO DE AZEVEDO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 14569 - JOAO BOSCO DE AZEVEDO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 14569 - JOAO BOSCO DE AZEVEDO - RJ - Deputado Estadual;
+GENILDO TEIXEIRA DE MELLO;191.343.476-15;02/10/2010;       Publicidade por materiais impressos;R$ 750,00;Cheque; -  -  / 14569 - JOAO BOSCO DE AZEVEDO - RJ - Deputado Estadual;
+MARCO ANTONIO BATISTA;734.412.367-34;02/10/2010;       Publicidade por materiais impressos;R$ 750,00;Cheque; -  -  / 14569 - JOAO BOSCO DE AZEVEDO - RJ - Deputado Estadual;
+MARINATTO S SERVIÇOS GRÁFICOS LTDA;00.580.220/0001-31;24/08/2010;       Publicidade por materiais impressos;R$ 3.000,00;Cheque; -  -  / 14569 - JOAO BOSCO DE AZEVEDO - RJ - Deputado Estadual;
+MOBI PLAY PRODUÇÕES E SERVIÇOS LTDA ME;04.604.073/0001-43;06/09/2010;       Publicidade por placas, estandartes e faixas;R$ 1.270,00;Cheque; -  -  / 14569 - JOAO BOSCO DE AZEVEDO - RJ - Deputado Estadual;
+RENATO CARVALHO DE CAMARGO;919.420.047-53;02/10/2010;       Publicidade por materiais impressos;R$ 750,00;Cheque; -  -  / 14569 - JOAO BOSCO DE AZEVEDO - RJ - Deputado Estadual;
+STUDIO COMUNICAÇÃO VISUAL SC LTDA. ME.;08.694.969/0001-11;25/08/2010;       Publicidade por placas, estandartes e faixas;R$ 1.050,00;Cheque; -  -  / 14569 - JOAO BOSCO DE AZEVEDO - RJ - Deputado Estadual;
+STUDIO COMUNICAÇÃO VISUAL SC LTDA. ME.;08.694.969/0001-11;25/08/2010;       Publicidade por placas, estandartes e faixas;R$ 1.050,00;Cheque; -  -  / 14569 - JOAO BOSCO DE AZEVEDO - RJ - Deputado Estadual;
+STUDIO COMUNICAÇÃO VISUAL SC LTDA. ME.;08.694.969/0001-11;08/09/2010;       Publicidade por placas, estandartes e faixas;R$ 670,00;Cheque; -  -  / 14569 - JOAO BOSCO DE AZEVEDO - RJ - Deputado Estadual;

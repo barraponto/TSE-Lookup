@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS HENRIQUE PEREIRA MARTINS;012.897.197-56;25/08/2010;40001000652;R$ 485,00;Depósito em espécie;CARLOS HENRIQUE PEREIRA MARTINS;4005;Deputado Federal;PSB;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;14/09/2010;40001000653;R$ 150,00;Estimado;CARLOS HENRIQUE PEREIRA MARTINS;4005;Deputado Federal;PSB;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;40001000656;R$ 150,00;Estimado;CARLOS HENRIQUE PEREIRA MARTINS;4005;Deputado Federal;PSB;RJ;
-Comitê Financeiro Único;12.339.086/0001-60;29/09/2010;40001000655;R$ 392,15;Estimado;CARLOS HENRIQUE PEREIRA MARTINS;4005;Deputado Federal;PSB;RJ;
-JOSE CARLOS FREITAS LESSA;912.607.527-04;17/08/2010;40001000651;R$ 300,00;Depósito em espécie;CARLOS HENRIQUE PEREIRA MARTINS;4005;Deputado Federal;PSB;RJ;
-LUIZ HENRIQUE XAVIER DE MENDONÇA;794.748.707-30;20/09/2010;40001000654;R$ 300,00;Transferência eletrônica;CARLOS HENRIQUE PEREIRA MARTINS;4005;Deputado Federal;PSB;RJ;
-LUIZ LINDBERG FARIAS FILHO;12.179.678/0001-62;29/09/2010;40001000658;R$ 330,00;Estimado;CARLOS HENRIQUE PEREIRA MARTINS;4005;Deputado Federal;PSB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANDRE DA SILVA BATISTA;053.900.257-76;22/09/2010;       Serviços prestados por terceiros;R$ 215,00;Cheque; -  -  / 4005 - CARLOS HENRIQUE PEREIRA MARTINS - RJ - Deputado Federal;
+C FIORI SISTEMAS GRAFICOS ME;06.172.874/0001-02;25/08/2010;       Publicidade por materiais impressos;R$ 780,00;Cheque; -  -  / 4005 - CARLOS HENRIQUE PEREIRA MARTINS - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 4005 - CARLOS HENRIQUE PEREIRA MARTINS - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 4005 - CARLOS HENRIQUE PEREIRA MARTINS - RJ - Deputado Federal;
+Comitê Financeiro Único;12.339.086/0001-60;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 392,15;Estimado;Comitê Financeiro Único - PSB -  / 4005 - CARLOS HENRIQUE PEREIRA MARTINS - RJ - Deputado Federal;
+FAIR TIME COMERCIO DE INFORMATICA ME;09.133.230/0001-01;22/09/2010;       Diversas a especificar;R$ 90,00;Cheque; -  -  / 4005 - CARLOS HENRIQUE PEREIRA MARTINS - RJ - Deputado Federal;
+LUIZ LINDBERG FARIAS FILHO;12.179.678/0001-62;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 330,00;Estimado;131 -  - PT -  - Senador / 4005 - CARLOS HENRIQUE PEREIRA MARTINS - RJ - Deputado Federal;

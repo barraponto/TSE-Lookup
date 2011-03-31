@@ -1,5 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MARIA EVA ALVES BRAGA;408.461.805-53;25/08/2010;12001008951;R$ 2.000,00;Depósito em espécie;JORGE CARLOS DA MOTA;12130;Deputado Estadual;PDT;BA;
-MARIA EVA ALVES BRAGA;408.461.805-53;06/09/2010;12001008954;R$ 1.000,00;Depósito em espécie;JORGE CARLOS DA MOTA;12130;Deputado Estadual;PDT;BA;
-MARIA EVA ALVES BRAGA;408.461.805-53;31/08/2010;12001008953;R$ 1.300,00;Depósito em espécie;JORGE CARLOS DA MOTA;12130;Deputado Estadual;PDT;BA;
-MARIA EVA ALVES BRAGA;408.461.805-53;26/08/2010;12001008952;R$ 1.500,00;Depósito em espécie;JORGE CARLOS DA MOTA;12130;Deputado Estadual;PDT;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+IPANEMA GRAFICA E EDITORA LTDA;08.053.262/0001-26;10/09/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 12130 - JORGE CARLOS DA MOTA - BA - Deputado Estadual;
+IPANEMA GRAFICA E EDITORA LTDA;08.053.262/0001-26;03/09/2010;       Cessão ou Locação de Veículos;R$ 500,00;Cheque; -  -  / 12130 - JORGE CARLOS DA MOTA - BA - Deputado Estadual;
+IPANEMA GRAFICA E EDITORA LTDA;08.053.262/0001-26;03/08/2010;       Publicidade por materiais impressos;R$ 1.500,00;Cheque; -  -  / 12130 - JORGE CARLOS DA MOTA - BA - Deputado Estadual;
+LOCFACIL LOCADORA DE VEICULOS LTDA;09.633.114/0001-43;26/08/2010;       Cessão ou Locação de Veículos;R$ 1.500,00;Cheque; -  -  / 12130 - JORGE CARLOS DA MOTA - BA - Deputado Estadual;
+POSTO JJ GARCIA LTDA;11.423.288/0001-23;06/09/2010;       Combustíveis e lubrificantes;R$ 105,00;Cheque; -  -  / 12130 - JORGE CARLOS DA MOTA - BA - Deputado Estadual;
+VINIL LINE COMUNICAÇÃO VISUAL LTDA;09.504.642/0001-00;03/09/2010;       Publicidade por materiais impressos;R$ 97,20;Cheque; -  -  / 12130 - JORGE CARLOS DA MOTA - BA - Deputado Estadual;
+VINIL LINE COMUNICAÇÃO VISUAL LTDA;09.504.642/0001-00;25/08/2010;       Publicidade por materiais impressos;R$ 472,50;Cheque; -  -  / 12130 - JORGE CARLOS DA MOTA - BA - Deputado Estadual;
+VINIL LINE COMUNICAÇÃO VISUAL LTDA;09.504.642/0001-00;11/09/2010;       Publicidade por materiais impressos;R$ 604,68;Cheque; -  -  / 12130 - JORGE CARLOS DA MOTA - BA - Deputado Estadual;
+;;03/11/2010;       Encargos financeiros e taxas bancárias;R$ 8,67;Débito em conta; -  -  / 12130 - JORGE CARLOS DA MOTA - BA - Deputado Estadual;
+;;30/09/2010;       Encargos financeiros e taxas bancárias;R$ 11,95;Débito em conta; -  -  / 12130 - JORGE CARLOS DA MOTA - BA - Deputado Estadual;

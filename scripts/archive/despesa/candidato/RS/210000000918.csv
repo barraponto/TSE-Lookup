@@ -1,4 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CLAUDIO NODERLEI GUTERRES OLIVEIRA;149.720.690-15;04/10/2010;36000095351;R$ 1.000,00;Cheque;VALDIR MENDES FERREIRA;36888;Deputado Estadual;PTC;RS;
-VALDIR MENDES FERREIRA;238.063.890-04;04/10/2010;36000095353;R$ 700,00;Depósito em espécie;VALDIR MENDES FERREIRA;36888;Deputado Estadual;PTC;RS;
-VALDIR MENDES FERREIRA;238.063.890-04;23/09/2010;36000095352;R$ 550,00;Depósito em espécie;VALDIR MENDES FERREIRA;36888;Deputado Estadual;PTC;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JESUS NILO PACHECO PRATES;87.603.239/0001-34;23/09/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 36888 - VALDIR MENDES FERREIRA - RS - Deputado Estadual;
+LE MANS;04.357.437/0001-38;11/10/2010;       Combustíveis e lubrificantes;R$ 41,00;Cheque; -  -  / 36888 - VALDIR MENDES FERREIRA - RS - Deputado Estadual;
+RAFAEL MOURÃO LEITE;681.184.490-68;23/09/2010;       Serviços prestados por terceiros;R$ 1.250,00;Cheque; -  -  / 36888 - VALDIR MENDES FERREIRA - RS - Deputado Estadual;
+RAFAEL MOURÃO LEITE;681.184.490-68;23/09/2010;       Serviços prestados por terceiros;R$ 417,00;Cheque; -  -  / 36888 - VALDIR MENDES FERREIRA - RS - Deputado Estadual;
+;;30/09/2010;       Impostos, contribuições e taxas;R$ 0,35;Débito em conta; -  -  / 36888 - VALDIR MENDES FERREIRA - RS - Deputado Estadual;
+;;20/10/2010;       Impostos, contribuições e taxas;R$ 0,30;Débito em conta; -  -  / 36888 - VALDIR MENDES FERREIRA - RS - Deputado Estadual;
+;;30/09/2010;       Impostos, contribuições e taxas;R$ 0,35;Débito em conta; -  -  / 36888 - VALDIR MENDES FERREIRA - RS - Deputado Estadual;
+;;01/10/2010;       Impostos, contribuições e taxas;R$ 20,50;Débito em conta; -  -  / 36888 - VALDIR MENDES FERREIRA - RS - Deputado Estadual;
+;;04/10/2010;       Impostos, contribuições e taxas;R$ 20,50;Débito em conta; -  -  / 36888 - VALDIR MENDES FERREIRA - RS - Deputado Estadual;

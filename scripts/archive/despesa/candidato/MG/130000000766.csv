@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSE FERNANDO;12.168.802/0001-94;20/08/2010;43001706101;R$ 440,00;Estimado;RANDOLFO JOSÉ BARBOSA;4322;Deputado Federal;PV;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JOSE FERNANDO;12.168.802/0001-94;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 440,00;Estimado;43 -  - PV -  - Governador / 4322 - RANDOLFO JOSÉ BARBOSA - MG - Deputado Federal;

@@ -1,2 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-PEDRO ROCHA PANIAGUA;228.899.141-00;26/07/2010;50000139421;R$ 2.000,00;Depósito em espécie;PEDRO ROCHA PANIAGUA;50333;Deputado Distrital;PSOL;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CÉLIO NUNES DE OLIVEIRA;765.482.601-04;17/09/2010;       Despesas com pessoal;R$ 100,00;Cheque; -  -  / 50333 - PEDRO ROCHA PANIAGUA - DF - Deputado Distrital;
+CÉLIO NUNES DE OLIVEIRA;765.482.601-04;11/09/2010;       Despesas com pessoal;R$ 100,00;Cheque; -  -  / 50333 - PEDRO ROCHA PANIAGUA - DF - Deputado Distrital;
+JMCAPITAL GRAFICA;10.813.208/0001-83;05/08/2010;       Publicidade por materiais impressos;R$ 450,00;Cheque; -  -  / 50333 - PEDRO ROCHA PANIAGUA - DF - Deputado Distrital;

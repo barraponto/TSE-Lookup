@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTERO PAES DE BARROS NETO;12.189.840/0001-23;04/09/2010;27000046032;R$ 500,00;Estimado;SILVINO DA COSTA MONTEIRO;27123;Deputado Estadual;PSDC;MT;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTERO PAES DE BARROS NETO;12.189.840/0001-23;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;455 -  - PSDB -  - Senador / 27123 - SILVINO DA COSTA MONTEIRO - MT - Deputado Estadual;

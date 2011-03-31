@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DANIEL SAMPAIO TOURINHO;12.172.794/0001-50;18/08/2010;36000050501;R$ 700,00;Estimado;ANDRE NICOLAU MENTZ;36448;Deputado Estadual;PTC;RJ;
-DANIEL SAMPAIO TOURINHO;12.172.794/0001-50;27/09/2010;36000050503;R$ 2.000,00;Estimado;ANDRE NICOLAU MENTZ;36448;Deputado Estadual;PTC;RJ;
-JORGE PICCIANI;12.176.626/0001-32;17/09/2010;36000050502;R$ 47,18;Estimado;ANDRE NICOLAU MENTZ;36448;Deputado Estadual;PTC;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DANIEL SAMPAIO TOURINHO;12.172.794/0001-50;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 700,00;Estimado;3636 -  - PTC -  - Deputado Federal / 36448 - ANDRE NICOLAU MENTZ - RJ - Deputado Estadual;
+DANIEL SAMPAIO TOURINHO;12.172.794/0001-50;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado;3636 -  - PTC -  - Deputado Federal / 36448 - ANDRE NICOLAU MENTZ - RJ - Deputado Estadual;
+JORGE PICCIANI;12.176.626/0001-32;17/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 47,18;Estimado;155 -  - PMDB -  - Senador / 36448 - ANDRE NICOLAU MENTZ - RJ - Deputado Estadual;

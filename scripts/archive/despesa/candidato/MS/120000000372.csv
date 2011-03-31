@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.578/0001-51;01/10/2010;43001890655;R$ 2.000,00;Cheque;ERNESTO ARRIGO;43567;Deputado Estadual;PV;MS;
-DELCIDIO DO AMARAL GOMES;12.167.861/0001-48;02/09/2010;43001890651;R$ 160,00;Estimado;ERNESTO ARRIGO;43567;Deputado Estadual;PV;MS;
-JOSE ORCIRIO MIRANDA DOS SANTOS;12.189.573/0001-94;20/09/2010;43001890652;R$ 4.000,00;Cheque;ERNESTO ARRIGO;43567;Deputado Estadual;PV;MS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DELCIDIO DO AMARAL GOMES;12.167.861/0001-48;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 160,00;Estimado;138 -  - PT -  - Senador / 43567 - ERNESTO ARRIGO - MS - Deputado Estadual;
+SILVIO SIMPRICIO NASCIMENTO E OUTROS;338.562.901-25;30/09/2010;       Despesas com pessoal;R$ 2.000,00;Cheque; -  -  / 43567 - ERNESTO ARRIGO - MS - Deputado Estadual;
+SILVIO SIMPRICIO NASCIMENTO E OUTROS;338.562.901-25;05/09/2010;       Despesas com pessoal;R$ 4.000,00;Cheque; -  -  / 43567 - ERNESTO ARRIGO - MS - Deputado Estadual;

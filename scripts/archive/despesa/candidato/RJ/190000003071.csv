@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JORGE SAYED PICCIANI;12.176.626/0001-32;21/07/2010;65000147352;R$ 100,00;Estimado;MARCOS ANTONIO RODRIGUES DA CUNHA CURY;65464;Deputado Estadual;PC do B;RJ;
-JORGE SAYED PICCIANI;12.176.626/0001-32;02/08/2010;65000147353;R$ 17,00;Estimado;MARCOS ANTONIO RODRIGUES DA CUNHA CURY;65464;Deputado Estadual;PC do B;RJ;
-MARCOS ANTONIO RODRIGUES DA CUNHA CURY;051.705.147-86;27/08/2010;65000147351;R$ 100,00;Depósito em espécie;MARCOS ANTONIO RODRIGUES DA CUNHA CURY;65464;Deputado Estadual;PC do B;RJ;
-MARCOS ANTONIO RODRIGUES DA CUNHA CURY;051.705.147-86;13/09/2010;65000147354;R$ 3.000,00;Depósito em espécie;MARCOS ANTONIO RODRIGUES DA CUNHA CURY;65464;Deputado Estadual;PC do B;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+IRAN DA SILVA SENNA=MICRO EMPREENDEDOR;11.644.345/0001-02;10/09/2010;       Publicidade por placas, estandartes e faixas;R$ 100,00;Cheque; -  -  / 65464 - MARCOS ANTONIO RODRIGUES DA CUNHA CURY - RJ - Deputado Estadual;
+JORGE SAYED PICCIANI;12.176.626/0001-32;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 65464 - MARCOS ANTONIO RODRIGUES DA CUNHA CURY - RJ - Deputado Estadual;
+JORGE SAYED PICCIANI;12.176.626/0001-32;21/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado;155 -  - PMDB -  - Senador / 65464 - MARCOS ANTONIO RODRIGUES DA CUNHA CURY - RJ - Deputado Estadual;
+REGINA MARIA DE ARAUJO DIAS;549.911.107-34;14/09/2010;       Serviços prestados por terceiros;R$ 2.000,00;Cheque; -  -  / 65464 - MARCOS ANTONIO RODRIGUES DA CUNHA CURY - RJ - Deputado Estadual;
+REGINA MARIA DE ARAUJO DIAS;549.911.107-34;23/09/2010;       Serviços prestados por terceiros;R$ 1.000,00;Cheque; -  -  / 65464 - MARCOS ANTONIO RODRIGUES DA CUNHA CURY - RJ - Deputado Estadual;

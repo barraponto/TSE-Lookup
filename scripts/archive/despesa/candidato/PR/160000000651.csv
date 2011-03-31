@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;21/09/2010;31000052032;R$ 500,00;Estimado;ANILTON DIONIZIO LIMA;3120;Deputado Federal;PHS;PR;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;11/08/2010;31000052010;R$ 630,00;Estimado;ANILTON DIONIZIO LIMA;3120;Deputado Federal;PHS;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;45 -  - PSDB -  - Governador / 3120 - ANILTON DIONIZIO LIMA - PR - Deputado Federal;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;11/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 630,00;Estimado;45 -  - PSDB -  - Governador / 3120 - ANILTON DIONIZIO LIMA - PR - Deputado Federal;

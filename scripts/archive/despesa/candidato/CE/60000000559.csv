@@ -1,6 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANA REGIA DESIDERIO MACAMBIRA;012.913.427-96;17/09/2010;31000035504;R$ 500,00;Estimado;JOSE GILSON MACAMBIRA FILHO;31000;Deputado Estadual;PHS;CE;
-Comitê Financeiro Único;12.205.230/0001-76;15/09/2010;31000035501;R$ 2.000,00;Cheque;JOSE GILSON MACAMBIRA FILHO;31000;Deputado Estadual;PHS;CE;
-Comitê Financeiro Único;12.205.230/0001-76;15/09/2010;31000035502;R$ 910,71;Estimado;JOSE GILSON MACAMBIRA FILHO;31000;Deputado Estadual;PHS;CE;
-FELISMINA CAMPELO MACAMBIRA;045.469.463-68;17/09/2010;31000035505;R$ 600,00;Estimado;JOSE GILSON MACAMBIRA FILHO;31000;Deputado Estadual;PHS;CE;
-MARCOGRAF GRAFICA LTDA;02.963.095/0001-74;15/09/2010;31000035503;R$ 172,00;Estimado;JOSE GILSON MACAMBIRA FILHO;31000;Deputado Estadual;PHS;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANA REGIA DESIDERIO MACAMBIRA;012.913.427-96;17/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 31000 - JOSE GILSON MACAMBIRA FILHO - CE - Deputado Estadual;
+CAMPELO ACUSTIC SOM LTDA;00.994.883/0001-00;21/09/2010;       Combustíveis e lubrificantes;R$ 1.550,00;Cheque; -  -  / 31000 - JOSE GILSON MACAMBIRA FILHO - CE - Deputado Estadual;
+CARLOS ANDRE TAVORA SANTIAGO;005.400.043-24;29/09/2010;       Despesas com pessoal;R$ 169,00;Cheque; -  -  / 31000 - JOSE GILSON MACAMBIRA FILHO - CE - Deputado Estadual;
+Comitê Financeiro Único;12.205.230/0001-76;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 910,71;Estimado;Comitê Financeiro Único - PHS -  / 31000 - JOSE GILSON MACAMBIRA FILHO - CE - Deputado Estadual;
+FELISMINA CAMPELO MACAMBIRA;045.469.463-68;17/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado; -  -  / 31000 - JOSE GILSON MACAMBIRA FILHO - CE - Deputado Estadual;
+GETULIO JOSE FREIRE FILHO;761.221.663-91;23/09/2010;       Despesas com pessoal;R$ 280,00;Cheque; -  -  / 31000 - JOSE GILSON MACAMBIRA FILHO - CE - Deputado Estadual;
+MARCOGRAF GRAFICA LTDA;02.963.095/0001-74;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 172,00;Estimado; -  -  / 31000 - JOSE GILSON MACAMBIRA FILHO - CE - Deputado Estadual;

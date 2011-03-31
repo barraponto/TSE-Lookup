@@ -1,8 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADENILSON DE ANDRADE;959.740.242-49;24/08/2010;65000185364;R$ 50,00;Depósito em espécie;FRANCINALDO DA SILVA NASCIMENTO;65112;Deputado Estadual;PC do B;GO;
-Comitê Financeiro Único;12.205.242/0001-09;23/08/2010;65000185368;R$ 360,00;Estimado;FRANCINALDO DA SILVA NASCIMENTO;65112;Deputado Estadual;PC do B;GO;
-EDMAR PEREIRA MACIEL;708.502.751-72;07/08/2010;65000185367;R$ 350,00;Depósito em espécie;FRANCINALDO DA SILVA NASCIMENTO;65112;Deputado Estadual;PC do B;GO;
-ELEICAO 2010 FABIO TOKARSKI DEPUTADO FEDERAL;12.171.879/0001-13;26/07/2010;65000185361;R$ 345,00;Estimado;FRANCINALDO DA SILVA NASCIMENTO;65112;Deputado Estadual;PC do B;GO;
-ELEICAO 2010 FRANCINALDO DA SILVA NASCIMENTO DEPUTADO ESTADUAL;825.387.781-15;02/09/2010;65000185369;R$ 5,00;Depósito em espécie;FRANCINALDO DA SILVA NASCIMENTO;65112;Deputado Estadual;PC do B;GO;
-ELEIÇÃO 2010 IRIS REZENDE MACHADO GOVERNADOR;12.167.313/0001-18;02/10/2010;65000185370;R$ 1.612,90;Estimado;FRANCINALDO DA SILVA NASCIMENTO;65112;Deputado Estadual;PC do B;GO;
-MARIA IRISLEIDE OLIVEIRA NASCIMENTO;881.595.313-20;02/08/2010;65000185362;R$ 300,00;Depósito em espécie;FRANCINALDO DA SILVA NASCIMENTO;65112;Deputado Estadual;PC do B;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.242/0001-09;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Único - PC do B -  / 65112 - FRANCINALDO DA SILVA NASCIMENTO - GO - Deputado Estadual;
+CONEXÃO DIGITAL - CONFECÇÕES ADESIVOS & BRINDES LTDA;09.002.074/0001-31;05/08/2010;       Publicidade por materiais impressos;R$ 350,00;Cheque; -  -  / 65112 - FRANCINALDO DA SILVA NASCIMENTO - GO - Deputado Estadual;
+ELEICAO 2010 FABIO TOKARSKI DEPUTADO FEDERAL;12.171.879/0001-13;26/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 345,00;Estimado;6565 -  - PC do B -  - Deputado Federal / 65112 - FRANCINALDO DA SILVA NASCIMENTO - GO - Deputado Estadual;
+ELEIÇÃO 2010 IRIS REZENDE MACHADO GOVERNADOR;12.167.313/0001-18;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.612,90;Estimado;15 -  - PMDB -  - Governador / 65112 - FRANCINALDO DA SILVA NASCIMENTO - GO - Deputado Estadual;
+MAQPEL IND COM DE ETIQUETAS E EMBALAGENS LTDA;37.038.403/0001-30;31/07/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 65112 - FRANCINALDO DA SILVA NASCIMENTO - GO - Deputado Estadual;
+SACRAMENTO COMBUSTÍVEIS E LUBRIFICANTES LTDA;11.620.489/0001-10;21/08/2010;       Combustíveis e lubrificantes;R$ 50,00;Cheque; -  -  / 65112 - FRANCINALDO DA SILVA NASCIMENTO - GO - Deputado Estadual;
+;;24/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 65112 - FRANCINALDO DA SILVA NASCIMENTO - GO - Deputado Estadual;
+;;13/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 65112 - FRANCINALDO DA SILVA NASCIMENTO - GO - Deputado Estadual;

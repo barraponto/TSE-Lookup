@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 JOSÉ DE OLIVEIRA COSTA SENADOR;002.946.324-68;09/09/2010;23000030062;R$ 22,80;Depósito em espécie;JOSE OLIVEIRA COSTA;234;Senador;PPS;AL;
-ELEIÇÃO 2010 TEOTÔNIO BRANDÃO VILELA FILHO GOVERNADOR;12.170.978/0001-80;21/09/2010;23000030063;R$ 4.850,00;Estimado;JOSE OLIVEIRA COSTA;234;Senador;PPS;AL;
-ELEIÇÃO2010 TEOTÔNIO BRANDÃO VILELA FILHO GOVERNADOR;12.170.978/0001-80;01/09/2010;23000030061;R$ 50.000,00;Estimado;JOSE OLIVEIRA COSTA;234;Senador;PPS;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 TEOTÔNIO BRANDÃO VILELA FILHO GOVERNADOR;12.170.978/0001-80;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.850,00;Estimado;45 -  - PSDB -  - Governador / 234 - JOSE OLIVEIRA COSTA - AL - Senador;
+ELEIÇÃO2010 TEOTÔNIO BRANDÃO VILELA FILHO GOVERNADOR;12.170.978/0001-80;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 50.000,00;Estimado;45 -  - PSDB -  - Governador / 234 - JOSE OLIVEIRA COSTA - AL - Senador;
+;;29/10/2010;       Impostos, contribuições e taxas;R$ 22,80;Débito em conta; -  -  / 234 - JOSE OLIVEIRA COSTA - AL - Senador;

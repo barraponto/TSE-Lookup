@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CLAUDIO ANTONIO OKULSKI MARIANO;761.641.798-15;02/10/2010;28000769124;R$ 300,00;Estimado;ERIVAN PASSOS DA SILVA;28333;Deputado Estadual;PRTB;PR;
-Diretório Estadual/Distrital;12.235.315/0001-05;27/09/2010;28000769123;R$ 1.923,23;Estimado;ERIVAN PASSOS DA SILVA;28333;Deputado Estadual;PRTB;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CLAUDIO ANTONIO OKULSKI MARIANO;761.641.798-15;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 28333 - ERIVAN PASSOS DA SILVA - PR - Deputado Estadual;
+Diretório Estadual/Distrital;12.235.315/0001-05;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.923,23;Estimado;Direção Estadual/Distrital - PRTB -  / 28333 - ERIVAN PASSOS DA SILVA - PR - Deputado Estadual;

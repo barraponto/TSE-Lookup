@@ -1,4 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FELIPE DOS SANTOS PEIXOTO;12.167.944/0001-37;28/09/2010;12000062333;R$ 2.000,00;Cheque;URBANO DO VALE COELHO;1233;Deputado Federal;PDT;RJ;
-URBANO DO VALE COELHO;458.469.877-53;21/09/2010;12000062331;R$ 500,00;Transferência eletrônica;URBANO DO VALE COELHO;1233;Deputado Federal;PDT;RJ;
-URBANO DO VALE COELHO;458.469.877-53;21/09/2010;12000062332;R$ 1.000,00;Transferência eletrônica;URBANO DO VALE COELHO;1233;Deputado Federal;PDT;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EDITORA O DIA S/A;33.216.797/0001-18;30/09/2010;       Publicidade por jornais e revistas;R$ 1.816,00;Cheque; -  -  / 1233 - URBANO DO VALE COELHO - RJ - Deputado Federal;
+LAPA SERIGRAFIA E ARTES GRÁFICAS LTDA.;12.202.837/0001-00;10/09/2010;       Publicidade por placas, estandartes e faixas;R$ 1.350,00;Cheque; -  -  / 1233 - URBANO DO VALE COELHO - RJ - Deputado Federal;
+;;18/10/2010;       Encargos financeiros e taxas bancárias;R$ 31,32;Débito em conta; -  -  / 1233 - URBANO DO VALE COELHO - RJ - Deputado Federal;
+;;21/09/2010;       Encargos financeiros e taxas bancárias;R$ 42,85;Débito em conta; -  -  / 1233 - URBANO DO VALE COELHO - RJ - Deputado Federal;

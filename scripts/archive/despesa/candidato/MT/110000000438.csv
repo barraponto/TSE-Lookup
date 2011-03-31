@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.141/0001-37;30/07/2010;17000072101;R$ 237,50;Estimado;CLARICE FRANCISCA DA SILVA;17123;Deputado Estadual;PSL;MT;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.141/0001-37;30/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 237,50;Estimado;Comitê Financeiro Único - PSL -  / 17123 - CLARICE FRANCISCA DA SILVA - MT - Deputado Estadual;

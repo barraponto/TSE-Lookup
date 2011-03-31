@@ -1,3 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-VITAL FARIAS;373.863.107-06;06/10/2010;21000011240;R$ 175,44;Depósito em espécie;VITAL FARIAS;211;Senador;PCB;PB;
-VITAL FARIAS;373.863.107-06;08/09/2010;21000011239;R$ 5.000,00;Transferência eletrônica;VITAL FARIAS;211;Senador;PCB;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALBERTO MAGNO & CIA LTDA;10.946.416/0001-50;28/09/2010;       Materiais de expediente;R$ 29,00;Cheque; -  -  / 211 - VITAL FARIAS - PB - Senador;
+COMERCIAL DE COMBUSTIVEIS BRITO LTDA;07.741.016/0001-02;02/10/2010;       Materiais de expediente;R$ 70,00;Cheque; -  -  / 211 - VITAL FARIAS - PB - Senador;
+FEITOSA COMERCIO DE COMBUSTIVEIS E REPRESENTAÇÕES LTDA;08.299.372/0001-72;28/09/2010;       Materiais de expediente;R$ 44,72;Cheque; -  -  / 211 - VITAL FARIAS - PB - Senador;
+FEITOSA COMERCIO DE COMBUSTIVEIS E REPRESENTAÇÕES LTDA;08.299.372/0001-72;21/09/2010;       Combustíveis e lubrificantes;R$ 97,17;Cheque; -  -  / 211 - VITAL FARIAS - PB - Senador;
+FEITOSA COMERCIO DE COMBUSTIVEIS E REPRESENTAÇÕES LTDA;08.299.372/0001-72;26/09/2010;       Combustíveis e lubrificantes;R$ 107,37;Cheque; -  -  / 211 - VITAL FARIAS - PB - Senador;
+FEITOSA COMERCIO DE COMBUSTIVEIS E REPRESENTAÇÕES LTDA;08.299.372/0001-72;18/09/2010;       Combustíveis e lubrificantes;R$ 90,18;Cheque; -  -  / 211 - VITAL FARIAS - PB - Senador;
+FRANCISCO DE ASSIS GARCIA DE NASCIMENTO;09.351.925/0001-51;03/10/2010;       Combustíveis e lubrificantes;R$ 95,00;Cheque; -  -  / 211 - VITAL FARIAS - PB - Senador;
+GUSTAVO BRITO FERNANDES PAINEIS ME;07.848.597/0001-78;08/09/2010;       Materiais de expediente;R$ 4.142,00;Transferência eletrônica; -  -  / 211 - VITAL FARIAS - PB - Senador;
+ORLANDO FERNANDES PEREIRA;08.314.388/0001-07;08/09/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 500,00;Cheque; -  -  / 211 - VITAL FARIAS - PB - Senador;

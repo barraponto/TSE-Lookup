@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO CARLOS REIS DE CARVALHO;103.766.826-04;02/09/2010;43001707952;R$ 1.800,00;Estimado;MARLENE ROSA DE CARVALHO;43450;Deputado Estadual;PV;MG;
-ANTONIO CARLOS REIS DE CARVALHO;103.766.826-04;02/09/2010;43001707953;R$ 1.800,00;Estimado;MARLENE ROSA DE CARVALHO;43450;Deputado Estadual;PV;MG;
-ANTONIO CARLOS REIS DE CARVALHO;103.766.826-04;02/09/2010;43001707954;R$ 1.800,00;Estimado;MARLENE ROSA DE CARVALHO;43450;Deputado Estadual;PV;MG;
-ELEIÇÃO 2010 JOSE FERNANDO APARECIDO DE OLIVEIRA;12.168.802/0001-94;25/08/2010;43001707951;R$ 640,00;Estimado;MARLENE ROSA DE CARVALHO;43450;Deputado Estadual;PV;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO CARLOS REIS DE CARVALHO;103.766.826-04;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.800,00;Estimado; -  -  / 43450 - MARLENE ROSA DE CARVALHO - MG - Deputado Estadual;
+ANTONIO CARLOS REIS DE CARVALHO;103.766.826-04;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.800,00;Estimado; -  -  / 43450 - MARLENE ROSA DE CARVALHO - MG - Deputado Estadual;
+ANTONIO CARLOS REIS DE CARVALHO;103.766.826-04;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.800,00;Estimado; -  -  / 43450 - MARLENE ROSA DE CARVALHO - MG - Deputado Estadual;
+ELEIÇÃO 2010 JOSE FERNANDO APARECIDO DE OLIVEIRA;12.168.802/0001-94;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 640,00;Estimado;43 -  - PV -  - Governador / 43450 - MARLENE ROSA DE CARVALHO - MG - Deputado Estadual;

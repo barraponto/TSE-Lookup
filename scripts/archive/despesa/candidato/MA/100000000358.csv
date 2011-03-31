@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.164/0001-41;01/08/2010;43001794901;R$ 641,00;Estimado;LINDALVA SEREJO CARDOSO;43789;Deputado Estadual;PV;MA;
-LINDALVA SEREJO CARDOSO;282.005.353-04;01/08/2010;43001794902;R$ 2.400,00;Estimado;LINDALVA SEREJO CARDOSO;43789;Deputado Estadual;PV;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.164/0001-41;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 641,00;Estimado;Comitê Financeiro Único - PV -  / 43789 - LINDALVA SEREJO CARDOSO - MA - Deputado Estadual;
+LINDALVA SEREJO CARDOSO;282.005.353-04;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.400,00;Estimado; -  -  / 43789 - LINDALVA SEREJO CARDOSO - MA - Deputado Estadual;

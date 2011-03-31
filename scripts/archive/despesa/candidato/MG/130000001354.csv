@@ -1,6 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;01.327.965/0001-56;11/08/2010;11000075844;R$ 2.040,76;Estimado;EDUARDO CORREA VIANA;11121;Deputado Estadual;PP;MG;
-Diretório Estadual/Distrital;01.327.965/0001-56;29/07/2010;11000075843;R$ 193,80;Estimado;EDUARDO CORREA VIANA;11121;Deputado Estadual;PP;MG;
-Diretório Estadual/Distrital;01.327.965/0001-56;29/07/2010;11000075842;R$ 302,60;Estimado;EDUARDO CORREA VIANA;11121;Deputado Estadual;PP;MG;
-Diretório Estadual/Distrital;01.327.965/0001-56;30/09/2010;11000075845;R$ 27,80;Estimado;EDUARDO CORREA VIANA;11121;Deputado Estadual;PP;MG;
-HERGER CORREA VIANA;373.453.036-91;27/09/2010;11000075841;R$ 3.100,00;Transferência eletrônica;EDUARDO CORREA VIANA;11121;Deputado Estadual;PP;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AVELAR & ABREU LTDA;07.366.342/0001-79;28/09/2010;       Publicidade por materiais impressos;R$ 99,65;Cheque; -  -  / 11121 - EDUARDO CORREA VIANA - MG - Deputado Estadual;
+CLAUDIO ANTÔNIO DOS SANTOS;612.346.726-34;01/09/2010;       Despesas com pessoal;R$ 3.000,00;Cheque; -  -  / 11121 - EDUARDO CORREA VIANA - MG - Deputado Estadual;
+Diretório Estadual/Distrital;01.327.965/0001-56;29/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 302,60;Estimado;Direção Estadual/Distrital - PP -  / 11121 - EDUARDO CORREA VIANA - MG - Deputado Estadual;
+Diretório Estadual/Distrital;01.327.965/0001-56;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 27,80;Estimado;Direção Estadual/Distrital - PP -  / 11121 - EDUARDO CORREA VIANA - MG - Deputado Estadual;
+Diretório Estadual/Distrital;01.327.965/0001-56;11/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.040,76;Estimado;Direção Estadual/Distrital - PP -  / 11121 - EDUARDO CORREA VIANA - MG - Deputado Estadual;
+Diretório Estadual/Distrital;01.327.965/0001-56;29/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 193,80;Estimado;Direção Estadual/Distrital - PP -  / 11121 - EDUARDO CORREA VIANA - MG - Deputado Estadual;
+;;27/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 11121 - EDUARDO CORREA VIANA - MG - Deputado Estadual;

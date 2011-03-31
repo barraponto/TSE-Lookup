@@ -1,4 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO MARCOS DE OLIVEIRA SEPULVEDA;005.866.457-21;10/08/2010;70000151246;R$ 70,00;Estimado;GILBERTO DE OLIVEIRA SEPULVEDA;7093;Deputado Federal;PT do B;RJ;
-ANTONIO MARCOS DE OLIVEIRA SEPULVEDA;005.866.457-21;15/09/2010;70000151247;R$ 60,00;Estimado;GILBERTO DE OLIVEIRA SEPULVEDA;7093;Deputado Federal;PT do B;RJ;
-GILBERTO DE OLIVEIRA SEPULVEDA;005.846.317-82;06/08/2010;70000151245;R$ 100,00;Depósito em espécie;GILBERTO DE OLIVEIRA SEPULVEDA;7093;Deputado Federal;PT do B;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO MARCOS DE OLIVEIRA SEPULVEDA;005.866.457-21;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 70,00;Estimado; -  -  / 7093 - GILBERTO DE OLIVEIRA SEPULVEDA - RJ - Deputado Federal;
+ANTONIO MARCOS DE OLIVEIRA SEPULVEDA;005.866.457-21;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 60,00;Estimado; -  -  / 7093 - GILBERTO DE OLIVEIRA SEPULVEDA - RJ - Deputado Federal;
+DOGITAL BROTHERS EMPREENDIMENTOS EM INFORMATICA LTDA;09.055.010/0001-07;06/08/2010;       Publicidade por materiais impressos;R$ 50,00;Cheque; -  -  / 7093 - GILBERTO DE OLIVEIRA SEPULVEDA - RJ - Deputado Federal;
+;;28/10/2010;       Encargos financeiros e taxas bancárias;R$ 36,50;Transferência eletrônica; -  -  / 7093 - GILBERTO DE OLIVEIRA SEPULVEDA - RJ - Deputado Federal;
+;;28/10/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Débito em conta; -  -  / 7093 - GILBERTO DE OLIVEIRA SEPULVEDA - RJ - Deputado Federal;

@@ -1,3 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MOAB CÉSAR CARVALHO COSTA;267.546.222-53;02/08/2010;20000291301;R$ 15.000,00;Depósito em espécie;MOAB CESAR CARVALHO COSTA;20103;Deputado Estadual;PSC;MA;
-MOSAR CARVALHO COSTA;257.356.403-72;02/08/2010;20000291302;R$ 8.000,00;Depósito em espécie;MOAB CESAR CARVALHO COSTA;20103;Deputado Estadual;PSC;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BRISA BRINDES LTDA;00.461.166/0001-05;02/08/2010;       Publicidade por materiais impressos;R$ 1.525,00;Cheque; -  -  / 20103 - MOAB CESAR CARVALHO COSTA - MA - Deputado Estadual;
+GRAFICA E EDITORA NORDESTE LTDA;69.554.137/0001-94;27/09/2010;       Publicidade por materiais impressos;R$ 553,87;Cheque; -  -  / 20103 - MOAB CESAR CARVALHO COSTA - MA - Deputado Estadual;
+GRAFICA E EDITORA STILYS LTDA;10.361.178/0001-11;23/08/2010;       Publicidade por materiais impressos;R$ 8.600,00;Cheque; -  -  / 20103 - MOAB CESAR CARVALHO COSTA - MA - Deputado Estadual;
+GRAFICA E EDITORA STILYS LTDA;10.361.178/0001-11;10/08/2010;       Publicidade por materiais impressos;R$ 10.600,00;Cheque; -  -  / 20103 - MOAB CESAR CARVALHO COSTA - MA - Deputado Estadual;
+POSTO PERNAMBUCANO LTDA;10.298.651/0002-44;29/09/2010;       Combustíveis e lubrificantes;R$ 1.700,01;Cheque; -  -  / 20103 - MOAB CESAR CARVALHO COSTA - MA - Deputado Estadual;
+;;23/08/2010;       Encargos financeiros e taxas bancárias;R$ 9,46;Débito em conta; -  -  / 20103 - MOAB CESAR CARVALHO COSTA - MA - Deputado Estadual;
+;;10/08/2010;       Encargos financeiros e taxas bancárias;R$ 11,66;Débito em conta; -  -  / 20103 - MOAB CESAR CARVALHO COSTA - MA - Deputado Estadual;

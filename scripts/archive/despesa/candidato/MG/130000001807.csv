@@ -1,3 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-OSVALDO AMARAL FILHO;362.759.487-87;18/08/2010;50000232481;R$ 245,00;Depósito em espécie;OSVANIL DO NASCIMENTO;50567;Deputado Estadual;PSOL;MG;
-OSVANIL DO NASCIMENTO;904.549.876-68;18/08/2010;50000232482;R$ 245,00;Depósito em espécie;OSVANIL DO NASCIMENTO;50567;Deputado Estadual;PSOL;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+PRODATA EDITORA GRAFICA LTDA;12.175.969/0001-82;19/08/2010;       Publicidade por materiais impressos;R$ 490,00;Cheque; -  -  / 50567 - OSVANIL DO NASCIMENTO - MG - Deputado Estadual;

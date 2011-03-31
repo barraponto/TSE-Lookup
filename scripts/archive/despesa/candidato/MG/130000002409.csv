@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Deputado Federal;12.191.514/0001-50;05/09/2010;33000029112;R$ 1.197,84;Estimado;JARI TRINDADE MENDONÇA;3315;Deputado Federal;PMN;MG;
-Comitê Financeiro Único;12.191.496/0001-07;05/09/2010;33000029111;R$ 678,00;Estimado;JARI TRINDADE MENDONÇA;3315;Deputado Federal;PMN;MG;
-JARI TRINDADE MENDONÇA;629.699.606-30;22/09/2010;33000029116;R$ 500,00;Estimado;JARI TRINDADE MENDONÇA;3315;Deputado Federal;PMN;MG;
-JARI TRINDADE MENDONÇA;629.699.606-30;02/09/2010;33000029114;R$ 960,00;Estimado;JARI TRINDADE MENDONÇA;3315;Deputado Federal;PMN;MG;
-JARI TRINDADE MENDONÇA;629.699.606-30;16/09/2010;33000029113;R$ 530,00;Estimado;JARI TRINDADE MENDONÇA;3315;Deputado Federal;PMN;MG;
-JARI TRINDADE MENDONÇA;629.699.606-30;02/09/2010;33000029115;R$ 300,00;Estimado;JARI TRINDADE MENDONÇA;3315;Deputado Federal;PMN;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Deputado Federal;12.191.514/0001-50;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.197,84;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Federal - PMN -  / 3315 - JARI TRINDADE MENDONÇA - MG - Deputado Federal;
+Comitê Financeiro Único;12.191.496/0001-07;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 678,00;Estimado;Comitê Financeiro Único - PMN -  / 3315 - JARI TRINDADE MENDONÇA - MG - Deputado Federal;
+JARI TRINDADE MENDONÇA;629.699.606-30;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 960,00;Estimado; -  -  / 3315 - JARI TRINDADE MENDONÇA - MG - Deputado Federal;
+JARI TRINDADE MENDONÇA;629.699.606-30;16/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 530,00;Estimado; -  -  / 3315 - JARI TRINDADE MENDONÇA - MG - Deputado Federal;
+JARI TRINDADE MENDONÇA;629.699.606-30;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 3315 - JARI TRINDADE MENDONÇA - MG - Deputado Federal;
+JARI TRINDADE MENDONÇA;629.699.606-30;22/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 3315 - JARI TRINDADE MENDONÇA - MG - Deputado Federal;

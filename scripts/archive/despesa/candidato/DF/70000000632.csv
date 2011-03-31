@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ARTHUR CARDOSO;983.300.391-53;23/07/2010;31000005951;R$ 2.900,00;Depósito em espécie;ARTHUR KLEBER CARDOSO;3123;Deputado Federal;PHS;DF;
-Diretório Estadual/Distrital;01.770.770/0001-86;21/09/2010;31000005952;R$ 3.200,00;Cheque;ARTHUR KLEBER CARDOSO;3123;Deputado Federal;PHS;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARTHUR KLEBER CARDOSO;983.300.391-53;23/07/2010;       Locação/cessão de bens imóveis;R$ 2.900,00;Não informado; -  -  / 3123 - ARTHUR KLEBER CARDOSO - DF - Deputado Federal;
+FAGUNDES SNOOKER BAR / CARLA PEREIRA DA SILVA-ME;08.236.345/0001-50;24/09/2010;       Água;R$ 3.186,50;Transferência eletrônica; -  -  / 3123 - ARTHUR KLEBER CARDOSO - DF - Deputado Federal;
+;;24/09/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Débito em conta; -  -  / 3123 - ARTHUR KLEBER CARDOSO - DF - Deputado Federal;

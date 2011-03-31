@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALBERTO JORGE DUARTE;377.738.447-04;20/09/2010;28000183501;R$ 69,00;Estimado;PATRICIA HELENA DA SILVA RODRIGUES;28800;Deputado Estadual;PRTB;RJ;
-ANDERSO9N DANTAS DUARTE;079.196.457-43;23/09/2010;28000183502;R$ 1.000,00;Estimado;PATRICIA HELENA DA SILVA RODRIGUES;28800;Deputado Estadual;PRTB;RJ;
-CARLOS HENRIQUE ABAAD DOS PASSOS;003.102.257-01;20/09/2010;28000183500;R$ 169,00;Estimado;PATRICIA HELENA DA SILVA RODRIGUES;28800;Deputado Estadual;PRTB;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;28000183503;R$ 150,00;Estimado;PATRICIA HELENA DA SILVA RODRIGUES;28800;Deputado Estadual;PRTB;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;26/08/2010;28000183499;R$ 150,00;Estimado;PATRICIA HELENA DA SILVA RODRIGUES;28800;Deputado Estadual;PRTB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALBERTO JORGE DUARTE;377.738.447-04;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 69,00;Estimado; -  -  / 28800 - PATRICIA HELENA DA SILVA RODRIGUES - RJ - Deputado Estadual;
+ANDERSO9N DANTAS DUARTE;079.196.457-43;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 28800 - PATRICIA HELENA DA SILVA RODRIGUES - RJ - Deputado Estadual;
+CARLOS HENRIQUE ABAAD DOS PASSOS;003.102.257-01;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 169,00;Estimado; -  -  / 28800 - PATRICIA HELENA DA SILVA RODRIGUES - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;26/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 28800 - PATRICIA HELENA DA SILVA RODRIGUES - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 28800 - PATRICIA HELENA DA SILVA RODRIGUES - RJ - Deputado Estadual;

@@ -1,4 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CESAR LIMA DO NASCIMENTO;346.253.721-00;06/08/2010;40002453551;R$ 3.000,00;Depósito em espécie;CESAR LIMA DO NASCIMENTO;40004;Deputado Estadual;PSB;MT;
-CESAR LIMA DO NASCIMENTO;346.253.721-00;22/09/2010;40002453555;R$ 14.996,00;Depósito em espécie;CESAR LIMA DO NASCIMENTO;40004;Deputado Estadual;PSB;MT;
-CESAR LIMA DO NASCIMENTO;346.253.721-00;17/09/2010;40002453554;R$ 1.500,00;Depósito em espécie;CESAR LIMA DO NASCIMENTO;40004;Deputado Estadual;PSB;MT;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CESAR LIMA DO NASCIMENTO;346.253.721-00;22/09/2010;       Despesas com pessoal;R$ 14.996,00;Transferência eletrônica; -  -  / 40004 - CESAR LIMA DO NASCIMENTO - MT - Deputado Estadual;
+CESAR LIMA DO NASCIMENTO;346.253.721-00;24/09/2010;       Despesas com pessoal;R$ 1.000,00;Transferência eletrônica; -  -  / 40004 - CESAR LIMA DO NASCIMENTO - MT - Deputado Estadual;
+CESAR LIMA DO NASCIMENTO;346.253.721-00;27/09/2010;       Despesas com pessoal;R$ 430,00;Transferência eletrônica; -  -  / 40004 - CESAR LIMA DO NASCIMENTO - MT - Deputado Estadual;
+CONCORDE COMERCIO DE PETROLEO LTDA;00.781.066/0002-47;25/09/2010;       Combustíveis e lubrificantes;R$ 20,00;Transferência eletrônica; -  -  / 40004 - CESAR LIMA DO NASCIMENTO - MT - Deputado Estadual;
+CONCORDE COMERCIO DE PETROLEO LTDA;00.781.066/0001-66;26/09/2010;       Combustíveis e lubrificantes;R$ 44,00;Transferência eletrônica; -  -  / 40004 - CESAR LIMA DO NASCIMENTO - MT - Deputado Estadual;
+GRAFICA PRINT INDUSTRIA E EDITORA LTDA;73.783.649/0001-08;23/08/2010;       Publicidade por materiais impressos;R$ 1.280,00;Transferência eletrônica; -  -  / 40004 - CESAR LIMA DO NASCIMENTO - MT - Deputado Estadual;
+GRAFICA PRINT INDUSTRIA E EDITORA LTDA;73.783.649/0001-08;23/07/2010;       Publicidade por materiais impressos;R$ 800,00;Transferência eletrônica; -  -  / 40004 - CESAR LIMA DO NASCIMENTO - MT - Deputado Estadual;
+ROSINEIDE LARA DE ALMEIDA;918.989.001-91;09/08/2010;       Serviços prestados por terceiros;R$ 920,00;Transferência eletrônica; -  -  / 40004 - CESAR LIMA DO NASCIMENTO - MT - Deputado Estadual;

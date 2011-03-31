@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;03.534.059/0001-58;26/07/2010;14000159554;R$ 1.200,00;Estimado;NELIO PEREIRA MARINHO;1444;Deputado Federal;PTB;AP;
-NELIO PEREIRA MARINHO;959.555.007-82;06/08/2010;14000159555;R$ 450,00;Transferência eletrônica;NELIO PEREIRA MARINHO;1444;Deputado Federal;PTB;AP;
-NELIO PEREIRA MARINHO;959.555.007-82;27/09/2010;14000159558;R$ 40,00;Transferência eletrônica;NELIO PEREIRA MARINHO;1444;Deputado Federal;PTB;AP;
-NELIO PEREIRA MARINHO;959.555.007-82;20/09/2010;14000159557;R$ 80,00;Transferência eletrônica;NELIO PEREIRA MARINHO;1444;Deputado Federal;PTB;AP;
-NELIO PEREIRA MARINHO;959.555.007-82;17/08/2010;14000159556;R$ 70,00;Transferência eletrônica;NELIO PEREIRA MARINHO;1444;Deputado Federal;PTB;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;03.534.059/0001-58;26/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.200,00;Estimado;Direção Estadual/Distrital - PTB -  / 1444 - NELIO PEREIRA MARINHO - AP - Deputado Federal;
+J. C. S. FARIAS - ME;03.281.737/0002-07;11/08/2010;       Combustíveis e lubrificantes;R$ 450,00;Cheque; -  -  / 1444 - NELIO PEREIRA MARINHO - AP - Deputado Federal;
+J. C. S. FARIAS - ME;03.281.737/0002-07;20/09/2010;       Combustíveis e lubrificantes;R$ 100,00;Cheque; -  -  / 1444 - NELIO PEREIRA MARINHO - AP - Deputado Federal;
+J. C. S. FARIAS - ME;03.281.737/0002-07;02/10/2010;       Combustíveis e lubrificantes;R$ 41,00;Cheque; -  -  / 1444 - NELIO PEREIRA MARINHO - AP - Deputado Federal;
+M. P. DE CARVALHO - ME;10.383.451/0001-09;18/08/2010;       Publicidade por materiais impressos;R$ 49,00;Cheque; -  -  / 1444 - NELIO PEREIRA MARINHO - AP - Deputado Federal;

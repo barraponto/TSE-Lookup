@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.217.614/0001-09;06/09/2010;19000002082;R$ 80,65;Estimado;JOSILDO ALVES DA SILVA;19007;Deputado Estadual;PTN;CE;
-Comitê Financeiro Único;12.217.614/0001-09;06/09/2010;19000002083;R$ 292,96;Estimado;JOSILDO ALVES DA SILVA;19007;Deputado Estadual;PTN;CE;
-MARCOGRAF GRAFICA LTDA;02.963.095/0001-74;20/08/2010;19000002081;R$ 172,00;Estimado;JOSILDO ALVES DA SILVA;19007;Deputado Estadual;PTN;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.217.614/0001-09;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 80,65;Estimado;Comitê Financeiro Único - PTN -  / 19007 - JOSILDO ALVES DA SILVA - CE - Deputado Estadual;
+Comitê Financeiro Único;12.217.614/0001-09;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 292,96;Estimado;Comitê Financeiro Único - PTN -  / 19007 - JOSILDO ALVES DA SILVA - CE - Deputado Estadual;
+MARCOGRAF GRAFICA LTDA;02.963.095/0001-74;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 172,00;Estimado; -  -  / 19007 - JOSILDO ALVES DA SILVA - CE - Deputado Estadual;

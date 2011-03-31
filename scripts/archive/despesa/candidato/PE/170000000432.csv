@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DAVID ROGGE COELHO DOS REIS;197.471.794-15;24/09/2010;50000334722;R$ 45,60;Depósito em espécie;DAVID ROGGE COELHO DOS REIS;50222;Deputado Estadual;PSOL;PE;
-DAVID ROGGE COELHO DOS REIS;197.471.794-15;17/09/2010;50000334721;R$ 820,00;Depósito em espécie;DAVID ROGGE COELHO DOS REIS;50222;Deputado Estadual;PSOL;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JANAINA JOSEFA INACIO;055.134.354-03;30/09/2010;       Despesas com pessoal;R$ 45,60;Cheque; -  -  / 50222 - DAVID ROGGE COELHO DOS REIS - PE - Deputado Estadual;
+J.L. DE SANTANA ME;11.066.802/0001-10;22/09/2010;       Publicidade por materiais impressos;R$ 510,00;Cheque; -  -  / 50222 - DAVID ROGGE COELHO DOS REIS - PE - Deputado Estadual;
+J.L. DE SANTANA ME;11.066.802/0001-10;22/09/2010;       Publicidade por materiais impressos;R$ 310,00;Cheque; -  -  / 50222 - DAVID ROGGE COELHO DOS REIS - PE - Deputado Estadual;

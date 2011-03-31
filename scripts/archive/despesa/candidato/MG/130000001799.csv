@@ -1,5 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-GRÁFICA E EDITORA FOCUS LTDA ME;07.384.616/0001-52;20/09/2010;50000233852;R$ 500,00;Estimado;JOSE JARBAS PIMENTA;50999;Deputado Estadual;PSOL;MG;
-JOSÉ JARBAS PIMENTA;165.152.186-72;28/10/2010;50000233854;R$ 1.904,10;Depósito em espécie;JOSE JARBAS PIMENTA;50999;Deputado Estadual;PSOL;MG;
-JOSÉ JARBAS PIMENTA;165.152.186-72;26/08/2010;50000233851;R$ 100,00;Depósito em espécie;JOSE JARBAS PIMENTA;50999;Deputado Estadual;PSOL;MG;
-JOSÉ JARBAS PIMENTA;165.152.186-72;06/10/2010;50000233853;R$ 1.750,00;Depósito em espécie;JOSE JARBAS PIMENTA;50999;Deputado Estadual;PSOL;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRÁFICA E EDITORA FOCUS LTDA ME;07.384.616/0001-52;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 50999 - JOSE JARBAS PIMENTA - MG - Deputado Estadual;
+MARCOS ALVES DE SOUZA;003.254.636-03;30/09/2010;       Serviços prestados por terceiros;R$ 1.600,00;Cheque; -  -  / 50999 - JOSE JARBAS PIMENTA - MG - Deputado Estadual;
+PASSALACQUA E CIA LTDA;55.973.366/0008-05;27/07/2010;       Materiais de expediente;R$ 2.154,10;Cheque; -  -  / 50999 - JOSE JARBAS PIMENTA - MG - Deputado Estadual;

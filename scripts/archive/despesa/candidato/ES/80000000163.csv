@@ -1,4 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.922/0001-21;24/09/2010;28000392103;R$ 1.400,00;Estimado;RENAN GUIMARÃES ESCOPELI GOMES;2817;Deputado Federal;PRTB;ES;
-RENAN GUIMARÃES ESCOPELI GOMES;099.349.997-06;15/09/2010;28000392101;R$ 50,00;Depósito em espécie;RENAN GUIMARÃES ESCOPELI GOMES;2817;Deputado Federal;PRTB;ES;
-RENAN GUIMARÃES ESCOPELI GOMES;099.349.997-06;20/09/2010;28000392102;R$ 700,00;Depósito em espécie;RENAN GUIMARÃES ESCOPELI GOMES;2817;Deputado Federal;PRTB;ES;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.922/0001-21;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.400,00;Estimado;Comitê Financeiro Único - PSL -  / 2817 - RENAN GUIMARÃES ESCOPELI GOMES - ES - Deputado Federal;
+SUFIATI PETRI E FERREIRA LTDA;06.235.101/0001-28;14/09/2010;       Publicidade por materiais impressos;R$ 735,00;Cheque; -  -  / 2817 - RENAN GUIMARÃES ESCOPELI GOMES - ES - Deputado Federal;

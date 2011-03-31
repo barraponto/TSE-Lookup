@@ -1,5 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-EMIDÍDIO SANTOS QUARESMA;098.168.872-15;31/08/2010;50000291001;R$ 280,00;Depósito em espécie;EMÍDIO SANTOS QUARESMA;50333;Deputado Estadual;PSOL;PA;
-EMIDÍDIO SANTOS QUARESMA;098.168.872-15;24/09/2010;50000291002;R$ 100,00;Depósito em espécie;EMÍDIO SANTOS QUARESMA;50333;Deputado Estadual;PSOL;PA;
-FERNANDO ANTONIO MARTINS CARNEIRO;12.198.699/0001-25;28/09/2010;50000291003;R$ 100,00;Estimado;EMÍDIO SANTOS QUARESMA;50333;Deputado Estadual;PSOL;PA;
-FERNANDO ANTONIO MARTINS CARNEIRO;12.198.699/0001-25;28/09/2010;50000291004;R$ 200,00;Estimado;EMÍDIO SANTOS QUARESMA;50333;Deputado Estadual;PSOL;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANDERSON ROBERTO BARROS DE SOUZA;615.266.902-25;15/09/2010;       Publicidade por placas, estandartes e faixas;R$ 40,00;Cheque; -  -  / 50333 - EMÍDIO SANTOS QUARESMA - PA - Deputado Estadual;
+FERNANDO ANTONIO MARTINS CARNEIRO;12.198.699/0001-25;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado;50 -  - PSOL -  - Governador / 50333 - EMÍDIO SANTOS QUARESMA - PA - Deputado Estadual;
+FERNANDO ANTONIO MARTINS CARNEIRO;12.198.699/0001-25;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;50 -  - PSOL -  - Governador / 50333 - EMÍDIO SANTOS QUARESMA - PA - Deputado Estadual;
+JUSCELINO DE SOUZA RAMOS;067.458.142-34;05/09/2010;       Produção de jingles, vinhetas e slogans;R$ 150,00;Cheque; -  -  / 50333 - EMÍDIO SANTOS QUARESMA - PA - Deputado Estadual;
+WILLIAM WANDERLEI PEREIRA DA CONCEIÇÃO;028.878.942-34;14/09/2010;       Serviços prestados por terceiros;R$ 90,00;Cheque; -  -  / 50333 - EMÍDIO SANTOS QUARESMA - PA - Deputado Estadual;
+WLADINEY PANTOJA BECKMAN;396.759.042-91;24/09/2010;       Publicidade por placas, estandartes e faixas;R$ 100,00;Cheque; -  -  / 50333 - EMÍDIO SANTOS QUARESMA - PA - Deputado Estadual;

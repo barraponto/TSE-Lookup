@@ -1,4 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSÉ LUÍS JL SANTOS;044.378.533-34;15/07/2010;22000046601;R$ 5.000,00;Depósito em espécie;JOSÉ LUÍS J L SANTOS;22500;Deputado Estadual;PR;MA;
-JOSÉ LUÍS JL SANTOS;044.378.533-34;15/09/2010;22000046603;R$ 4.000,00;Transferência eletrônica;JOSÉ LUÍS J L SANTOS;22500;Deputado Estadual;PR;MA;
-JOSÉ LUÍS JL SANTOS;044.378.533-34;25/08/2010;22000046602;R$ 2.000,00;Transferência eletrônica;JOSÉ LUÍS J L SANTOS;22500;Deputado Estadual;PR;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ERALDO CARLOS NOGUEIRA;417.965.273-00;27/07/2010;       Locação/cessão de bens imóveis;R$ 1.400,00;Cheque; -  -  / 22500 - JOSÉ LUÍS J L SANTOS - MA - Deputado Estadual;
+JOAQUIM GOMES SEABRA;064.769.293-72;24/09/2010;       Serviços prestados por terceiros;R$ 2.000,00;Cheque; -  -  / 22500 - JOSÉ LUÍS J L SANTOS - MA - Deputado Estadual;
+JOAQUIM GOMES SEABRA;064.769.293-72;26/08/2010;       Publicidade por materiais impressos;R$ 2.000,00;Cheque; -  -  / 22500 - JOSÉ LUÍS J L SANTOS - MA - Deputado Estadual;
+M.APARECIDA S. DA SILVA-ME;01.547.544/0001-30;15/09/2010;       Serviços prestados por terceiros;R$ 1.500,00;Cheque; -  -  / 22500 - JOSÉ LUÍS J L SANTOS - MA - Deputado Estadual;
+M.APARECIDA S. DA SILVA-ME;01.547.544/0001-30;19/07/2010;       Publicidade por materiais impressos;R$ 3.600,00;Cheque; -  -  / 22500 - JOSÉ LUÍS J L SANTOS - MA - Deputado Estadual;
+PAULO TADEU MENDES SILVA;022.196.333-22;15/09/2010;       Serviços prestados por terceiros;R$ 500,00;Cheque; -  -  / 22500 - JOSÉ LUÍS J L SANTOS - MA - Deputado Estadual;

@@ -1,2 +1,14 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.178/0001-58;11/08/2010;12001073821;R$ 2.000,00;Transferência eletrônica;SILVIA DANIELA PINTO MACEDO;1265;Deputado Federal;PDT;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BAR E REST CAMPONES;90.417.718/0001-70;19/08/2010;       Alimentação;R$ 33,35;Cheque; -  -  / 1265 - SILVIA DANIELA PINTO MACEDO - RS - Deputado Federal;
+ELEONORA PATZLAFF HORNKE;09.166.640/0001-40;23/08/2010;       Alimentação;R$ 24,26;Cheque; -  -  / 1265 - SILVIA DANIELA PINTO MACEDO - RS - Deputado Federal;
+HOTEL TIARAJU;01.612.405/0001-43;19/08/2010;       Diversas a especificar;R$ 48,00;Cheque; -  -  / 1265 - SILVIA DANIELA PINTO MACEDO - RS - Deputado Federal;
+ISAACK DOS SANTOS AGUIAR;008.823.760-55;20/08/2010;       Despesas com pessoal;R$ 300,00;Cheque; -  -  / 1265 - SILVIA DANIELA PINTO MACEDO - RS - Deputado Federal;
+ISAACK DOS SANTOS AGUIAR;008.823.760-55;12/08/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / 1265 - SILVIA DANIELA PINTO MACEDO - RS - Deputado Federal;
+KUNK E BENTO LTDA;03.965.031/0001-75;23/08/2010;       Alimentação;R$ 45,40;Cheque; -  -  / 1265 - SILVIA DANIELA PINTO MACEDO - RS - Deputado Federal;
+LYDIO FERNANDEZ DE LIMA & FILHOS LTDA;95.592.077/0001-04;27/08/2010;       Despesas com transporte ou deslocamento;R$ 172,40;Cheque; -  -  / 1265 - SILVIA DANIELA PINTO MACEDO - RS - Deputado Federal;
+MARCELO G RODRIGUES;001.155.050-32;20/09/2010;       Despesas com pessoal;R$ 100,00;Transferência eletrônica; -  -  / 1265 - SILVIA DANIELA PINTO MACEDO - RS - Deputado Federal;
+NATIA CHAGAS OLIZ;529.254.800-63;12/08/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / 1265 - SILVIA DANIELA PINTO MACEDO - RS - Deputado Federal;
+NATIA CHAGAS OLIZ;529.254.800-63;24/08/2010;       Despesas com pessoal;R$ 200,00;Cheque; -  -  / 1265 - SILVIA DANIELA PINTO MACEDO - RS - Deputado Federal;
+PIZZARIA DON VITOR;11.632.877/0001-11;18/08/2010;       Alimentação;R$ 41,80;Cheque; -  -  / 1265 - SILVIA DANIELA PINTO MACEDO - RS - Deputado Federal;
+;;05/10/2010;       Encargos financeiros e taxas bancárias;R$ 4,50;Débito em conta; -  -  / 1265 - SILVIA DANIELA PINTO MACEDO - RS - Deputado Federal;
+;;26/10/2010;       Encargos financeiros e taxas bancárias;R$ 4,50;Débito em conta; -  -  / 1265 - SILVIA DANIELA PINTO MACEDO - RS - Deputado Federal;

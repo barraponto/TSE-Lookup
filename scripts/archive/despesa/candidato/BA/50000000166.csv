@@ -1,5 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LUIZ CARVALHO;148.840.035-00;16/07/2010;43001854536;R$ 500,00;Depósito em espécie;LUIZ PINHEIRO CARVALHO FILHO;43555;Deputado Estadual;PV;BA;
-LUIZ CARVALHO;148.840.035-00;06/09/2010;43001854539;R$ 150,00;Depósito em espécie;LUIZ PINHEIRO CARVALHO FILHO;43555;Deputado Estadual;PV;BA;
-LUIZ CARVALHO;148.840.035-00;09/08/2010;43001854538;R$ 30,00;Depósito em espécie;LUIZ PINHEIRO CARVALHO FILHO;43555;Deputado Estadual;PV;BA;
-LUIZ CARVALHO;148.840.035-00;22/07/2010;43001854537;R$ 120,00;Depósito em espécie;LUIZ PINHEIRO CARVALHO FILHO;43555;Deputado Estadual;PV;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+IMAGEM EQUIPAMENTO PARA ESCRITORIO LTDA;10.389.877/0001-70;10/08/2010;       Publicidade por materiais impressos;R$ 230,00;Cheque; -  -  / 43555 - LUIZ PINHEIRO CARVALHO FILHO - BA - Deputado Estadual;
+IMAGEM EQUIPAMENTO PARA ESCRITORIO LTDA;10.389.877/0001-70;23/07/2010;       Publicidade por materiais impressos;R$ 412,00;Cheque; -  -  / 43555 - LUIZ PINHEIRO CARVALHO FILHO - BA - Deputado Estadual;
+VERISSIMO GOUVEA DE VASCONCELOS;922.044.735-53;10/09/2010;       Serviços prestados por terceiros;R$ 150,00;Cheque; -  -  / 43555 - LUIZ PINHEIRO CARVALHO FILHO - BA - Deputado Estadual;

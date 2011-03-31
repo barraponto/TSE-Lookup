@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DENIS RAFAEL RATHMANN;184.889.510-00;02/09/2010;43001828427;R$ 500,00;Cheque;DENIS RAFAEL RATHMANN;43015;Deputado Estadual;PV;RS;
-DENIS RAFAEL RATHMANN;184.889.510-00;21/09/2010;43001828428;R$ 420,00;Cheque;DENIS RAFAEL RATHMANN;43015;Deputado Estadual;PV;RS;
-JORGE ALBERTO EISENHUT;133.676.840-15;06/08/2010;43001828426;R$ 450,00;Depósito em espécie;DENIS RAFAEL RATHMANN;43015;Deputado Estadual;PV;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CAMALEÃO ASSESSORIA GRÁFICA ME;94.074.929/0001-09;10/09/2010;       Publicidade por materiais impressos;R$ 490,00;Cheque; -  -  / 43015 - DENIS RAFAEL RATHMANN - RS - Deputado Estadual;
+CAMALEÃO ASSESSORIA GRÁFICA ME;94.074.929/0001-09;07/08/2010;       Publicidade por materiais impressos;R$ 450,00;Cheque; -  -  / 43015 - DENIS RAFAEL RATHMANN - RS - Deputado Estadual;
+T P DE SOUZA & CIA LTDA;07.728.518/0001-95;23/09/2010;       Publicidade por materiais impressos;R$ 410,00;Cheque; -  -  / 43015 - DENIS RAFAEL RATHMANN - RS - Deputado Estadual;

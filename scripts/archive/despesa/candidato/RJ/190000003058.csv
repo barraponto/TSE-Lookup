@@ -1,6 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;28/09/2010;65000142703;R$ 300,00;Estimado;CARLOS ALBERTO CASTRO;65649;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;28/09/2010;65000142701;R$ 150,00;Estimado;CARLOS ALBERTO CASTRO;65649;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.191.555/0001-47;30/09/2010;65000142705;R$ 100,00;Estimado;CARLOS ALBERTO CASTRO;65649;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.191.555/0001-47;06/09/2010;65000142704;R$ 406,26;Estimado;CARLOS ALBERTO CASTRO;65649;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;28/09/2010;65000142702;R$ 150,00;Estimado;CARLOS ALBERTO CASTRO;65649;Deputado Estadual;PC do B;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALEXPELAES SERVIÇOS GARFICOS LTDA;06.036.887/0001-54;03/09/2010;       Publicidade por materiais impressos;R$ 150,00;Cheque; -  -  / 65649 - CARLOS ALBERTO CASTRO - RJ - Deputado Estadual;
+ALEXPELAES SERVIÇOS GARFICOS LTDA;06.036.887/0001-54;30/09/2010;       Publicidade por materiais impressos;R$ 150,00;Cheque; -  -  / 65649 - CARLOS ALBERTO CASTRO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 65649 - CARLOS ALBERTO CASTRO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.191.555/0001-47;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 406,26;Estimado;Comitê Financeiro Único - PC do B -  / 65649 - CARLOS ALBERTO CASTRO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 65649 - CARLOS ALBERTO CASTRO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 65649 - CARLOS ALBERTO CASTRO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.191.555/0001-47;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado;Comitê Financeiro Único - PC do B -  / 65649 - CARLOS ALBERTO CASTRO - RJ - Deputado Estadual;
+TEXTMASRTER SINALIZADO E ARTES GRAFICAS LTDA;72.343.395/0001-36;25/08/2010;       Publicidade por materiais impressos;R$ 45,00;Cheque; -  -  / 65649 - CARLOS ALBERTO CASTRO - RJ - Deputado Estadual;

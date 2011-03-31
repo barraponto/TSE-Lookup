@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Deputado Federal;12.200.080/0001-08;25/08/2010;45000196951;R$ 880,00;Estimado;VIVIANE FORTES DE CERQUEIRA;4567;Deputado Federal;PSDB;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Deputado Federal;12.200.080/0001-08;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 880,00;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Federal - PSDB -  / 4567 - VIVIANE FORTES DE CERQUEIRA - CE - Deputado Federal;

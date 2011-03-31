@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ROMMEL CARDOZO;822.505.707-44;28/07/2010;;R$ 1.000,00;Depósito em espécie;ROMMEL CARDOZO;7001;Deputado Federal;PT do B;RJ;
-ROMMEL CARDOZO;822.505.707-44;01/09/2010;;R$ 5.000,00;Cheque;ROMMEL CARDOZO;7001;Deputado Federal;PT do B;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO SÃO JORGE DA BR 040 LTDA.;09.529.277/0001-80;24/08/2010;       Combustíveis e lubrificantes;R$ 1.199,40;Cheque; -  -  / 7001 - ROMMEL CARDOZO - RJ - Deputado Federal;
+LKL ARTES GRÁFICAS LTDA.;04.557.743/0001-18;27/08/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 7001 - ROMMEL CARDOZO - RJ - Deputado Federal;
+SINNAL VISUAL RIO COMUNICACOES E PRODUCOES LTDA;05.397.976/0001-63;31/08/2010;       Publicidade por placas, estandartes e faixas;R$ 4.385,96;Cheque; -  -  / 7001 - ROMMEL CARDOZO - RJ - Deputado Federal;

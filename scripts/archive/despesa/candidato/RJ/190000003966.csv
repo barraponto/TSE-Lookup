@@ -1,5 +1,13 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALCIONE MARIA A. REZENDE;867.136.477-15;01/09/2010;22000164706;R$ 1.500,00;Estimado;CELSO DE REZENDE TEIXEIRA;22922;Deputado Estadual;PR;RJ;
-ALCIONE MARIA A. REZENDE;867.136.477-15;24/09/2010;22000164704;R$ 1.800,00;Depósito em espécie;CELSO DE REZENDE TEIXEIRA;22922;Deputado Estadual;PR;RJ;
-MAURO REZENDE TEIXEIRA;758.813.147-00;13/08/2010;22000164701;R$ 1.000,00;Depósito em espécie;CELSO DE REZENDE TEIXEIRA;22922;Deputado Estadual;PR;RJ;
-RACKEL CARVALHO TEIXEIRA;025.111.907-61;30/08/2010;22000164702;R$ 1.000,00;Depósito em espécie;CELSO DE REZENDE TEIXEIRA;22922;Deputado Estadual;PR;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADRIANA OLIVEIRA DOS SANTOS FERREIRA;043.440.327-05;24/09/2010;       Despesas com pessoal;R$ 400,00;Cheque; -  -  / 22922 - CELSO DE REZENDE TEIXEIRA - RJ - Deputado Estadual;
+ALCIONE MARIA A. REZENDE;867.136.477-15;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado; -  -  / 22922 - CELSO DE REZENDE TEIXEIRA - RJ - Deputado Estadual;
+ECS EDITORA JORNALISTICA LTDA ME;07.624.676/0001-03;08/09/2010;       Publicidade por jornais e revistas;R$ 300,00;Cheque; -  -  / 22922 - CELSO DE REZENDE TEIXEIRA - RJ - Deputado Estadual;
+ECS EDITORA JORNALISTICA LTDA ME;07.624.676/0001-03;19/08/2010;       Publicidade por jornais e revistas;R$ 300,00;Cheque; -  -  / 22922 - CELSO DE REZENDE TEIXEIRA - RJ - Deputado Estadual;
+F. F.  ALMEIDA CARVALHO SINAIS COMUNICAÇÕES;10.808.856/0001-41;21/09/2010;       Publicidade por carros de som;R$ 400,00;Cheque; -  -  / 22922 - CELSO DE REZENDE TEIXEIRA - RJ - Deputado Estadual;
+F. F.  ALMEIDA CARVALHO SINAIS COMUNICAÇÕES;10.808.856/0001-41;13/08/2010;       Publicidade por placas, estandartes e faixas;R$ 200,00;Cheque; -  -  / 22922 - CELSO DE REZENDE TEIXEIRA - RJ - Deputado Estadual;
+FATIMA DUTRA PICONE;077.637.207-60;24/09/2010;       Despesas com pessoal;R$ 400,00;Cheque; -  -  / 22922 - CELSO DE REZENDE TEIXEIRA - RJ - Deputado Estadual;
+LEILA RODRIGUES DA SILVA;020.989.287-00;24/09/2010;       Despesas com pessoal;R$ 400,00;Cheque; -  -  / 22922 - CELSO DE REZENDE TEIXEIRA - RJ - Deputado Estadual;
+NENCY JACOMINI PAINS;106.936.267-04;24/09/2010;       Despesas com pessoal;R$ 400,00;Cheque; -  -  / 22922 - CELSO DE REZENDE TEIXEIRA - RJ - Deputado Estadual;
+POSTO RESENDE DE BOM JESUS LTDA;03.328.149/0001-92;28/09/2010;       Combustíveis e lubrificantes;R$ 575,00;Cheque; -  -  / 22922 - CELSO DE REZENDE TEIXEIRA - RJ - Deputado Estadual;
+SÃO JOSE GRAFICAS DE ITAPERUNA LTDA ME;10.334.575/0001-02;27/08/2010;       Publicidade por materiais impressos;R$ 260,00;Cheque; -  -  / 22922 - CELSO DE REZENDE TEIXEIRA - RJ - Deputado Estadual;
+VICECONTE & TARDIN LTDA EPP;02.928.435/0001-26;13/08/2010;       Publicidade por placas, estandartes e faixas;R$ 165,00;Cheque; -  -  / 22922 - CELSO DE REZENDE TEIXEIRA - RJ - Deputado Estadual;

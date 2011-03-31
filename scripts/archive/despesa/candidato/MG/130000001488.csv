@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;21.531.363/0001-23;05/10/2010;14000091453;R$ 1.444,45;Estimado;GENESES GONÇALVES;14800;Deputado Estadual;PTB;MG;
-Comitê Financeiro Único;21.531.363/0001-23;05/10/2010;14000091455;R$ 1.073,38;Estimado;GENESES GONÇALVES;14800;Deputado Estadual;PTB;MG;
-GENESES GONÇALVES;708.285.986-49;15/10/2010;14000091457;R$ 200,00;Depósito em espécie;GENESES GONÇALVES;14800;Deputado Estadual;PTB;MG;
-JACKELINE TEIXEIRA CORREIA;039.230.346-95;05/09/2010;14000091451;R$ 3.000,00;Estimado;GENESES GONÇALVES;14800;Deputado Estadual;PTB;MG;
-JOAQUIM LISTER GONÇALVES;280.351.432-04;10/10/2010;14000091456;R$ 500,00;Estimado;GENESES GONÇALVES;14800;Deputado Estadual;PTB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;21.531.363/0001-23;05/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.444,45;Estimado;Comitê Financeiro Único - PTB -  / 14800 - GENESES GONÇALVES - MG - Deputado Estadual;
+Comitê Financeiro Único;21.531.363/0001-23;05/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.073,38;Estimado;Comitê Financeiro Único - PTB -  / 14800 - GENESES GONÇALVES - MG - Deputado Estadual;
+GRÁFICA E EDITORA UNIDOS LTDA;00.817.191/0001-89;09/08/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 14800 - GENESES GONÇALVES - MG - Deputado Estadual;
+JACKELINE TEIXEIRA CORREIA;039.230.346-95;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.000,00;Estimado; -  -  / 14800 - GENESES GONÇALVES - MG - Deputado Estadual;
+JOAQUIM LISTER GONÇALVES;280.351.432-04;10/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 14800 - GENESES GONÇALVES - MG - Deputado Estadual;

@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADEMILTO SILVA DE SOUZA;890.294.707-63;05/08/2010;19190000151;R$ 450,00;Depósito em espécie;ALEXANDRO MARCAL GOMES;19233;Deputado Estadual;PTN;RJ;
-ALEX DA SILVA SARAICA;028.316.897-83;02/08/2010;19190000156;R$ 500,00;Estimado;ALEXANDRO MARCAL GOMES;19233;Deputado Estadual;PTN;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;19190000155;R$ 150,00;Estimado;ALEXANDRO MARCAL GOMES;19233;Deputado Estadual;PTN;RJ;
-DANIELE BESSIM MONSORES GOMES;051.985.217-60;02/08/2010;19190000161;R$ 1.020,00;Estimado;ALEXANDRO MARCAL GOMES;19233;Deputado Estadual;PTN;RJ;
-FRANCISCO RAPOSO CORREIA;348.709.707-91;02/08/2010;19190000157;R$ 2.500,00;Estimado;ALEXANDRO MARCAL GOMES;19233;Deputado Estadual;PTN;RJ;
-GEORGETE BESSIM;892.657.937-91;02/08/2010;19190000162;R$ 1.020,00;Estimado;ALEXANDRO MARCAL GOMES;19233;Deputado Estadual;PTN;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALEX DA SILVA SARAICA;028.316.897-83;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 19233 - ALEXANDRO MARCAL GOMES - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 19233 - ALEXANDRO MARCAL GOMES - RJ - Deputado Estadual;
+DANIELE BESSIM MONSORES GOMES;051.985.217-60;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.020,00;Estimado; -  -  / 19233 - ALEXANDRO MARCAL GOMES - RJ - Deputado Estadual;
+FRANCISCO RAPOSO CORREIA;348.709.707-91;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.500,00;Estimado; -  -  / 19233 - ALEXANDRO MARCAL GOMES - RJ - Deputado Estadual;
+GEORGETE BESSIM;892.657.937-91;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.020,00;Estimado; -  -  / 19233 - ALEXANDRO MARCAL GOMES - RJ - Deputado Estadual;
+SUPRICOLOR SILK E SIGN LTDA.;04.858.857/0001-06;09/08/2010;       Publicidade por placas, estandartes e faixas;R$ 295,00;Cheque; -  -  / 19233 - ALEXANDRO MARCAL GOMES - RJ - Deputado Estadual;

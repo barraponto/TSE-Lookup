@@ -1,5 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO AMERICO PAIVA DA SILVA MARTINS;356.320.036-04;08/10/2010;43001713002;R$ 225,00;Depósito em espécie;ANTÔNIO AMÉRICO PAIVA DA SILVA MARTINS;4364;Deputado Federal;PV;MG;
-ANTONIO AMERICO PAIVA DA SILVA MARTINS;356.320.036-04;02/11/2010;43001713004;R$ 163,20;Depósito em espécie;ANTÔNIO AMÉRICO PAIVA DA SILVA MARTINS;4364;Deputado Federal;PV;MG;
-ANTONIO CARLOS PINHEIRO DA SILVA MARTINS;010.796.626-34;27/08/2010;43001713001;R$ 500,00;Depósito em espécie;ANTÔNIO AMÉRICO PAIVA DA SILVA MARTINS;4364;Deputado Federal;PV;MG;
-JOSE FERNANDO APARECIDO DE OLIVEIRA;12.168.802/0001-94;13/09/2010;43001713003;R$ 350,00;Estimado;ANTÔNIO AMÉRICO PAIVA DA SILVA MARTINS;4364;Deputado Federal;PV;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS;05.879.208/0001-46;27/09/2010;       Despesas postais;R$ 25,00;Cheque; -  -  / 4364 - ANTÔNIO AMÉRICO PAIVA DA SILVA MARTINS - MG - Deputado Federal;
+ESPAÇO DVD VIDEO E PAPELARIA LTDA - ME;06.184.298/0001-13;03/09/2010;       Materiais de expediente;R$ 20,00;Cheque; -  -  / 4364 - ANTÔNIO AMÉRICO PAIVA DA SILVA MARTINS - MG - Deputado Federal;
+GRUPO H & P INFO SHOPPING LTDA;71.112.601/0002-15;22/10/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 4364 - ANTÔNIO AMÉRICO PAIVA DA SILVA MARTINS - MG - Deputado Federal;
+JORNAL REGIONAL CONTAGEM LTDA;04.917.575/0001-24;01/09/2010;       Publicidade por jornais e revistas;R$ 200,00;Cheque; -  -  / 4364 - ANTÔNIO AMÉRICO PAIVA DA SILVA MARTINS - MG - Deputado Federal;
+JOSE FERNANDO APARECIDO DE OLIVEIRA;12.168.802/0001-94;13/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 350,00;Estimado;43 -  - PV -  - Governador / 4364 - ANTÔNIO AMÉRICO PAIVA DA SILVA MARTINS - MG - Deputado Federal;
+;;14/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 4364 - ANTÔNIO AMÉRICO PAIVA DA SILVA MARTINS - MG - Deputado Federal;
+;;27/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 4364 - ANTÔNIO AMÉRICO PAIVA DA SILVA MARTINS - MG - Deputado Federal;
+;;14/10/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 4364 - ANTÔNIO AMÉRICO PAIVA DA SILVA MARTINS - MG - Deputado Federal;
+;;27/10/2010;       Encargos financeiros e taxas bancárias;R$ 25,00;Débito em conta; -  -  / 4364 - ANTÔNIO AMÉRICO PAIVA DA SILVA MARTINS - MG - Deputado Federal;

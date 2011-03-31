@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-PAULO JORGE BATISTA PINTO;288.625.387-15;30/09/2010;14000129971;R$ 3.190,00;Estimado;PEDRO ERNESTO DO AMARAL GUATEMOZIM PINTO;14321;Deputado Estadual;PTB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+PAULO JORGE BATISTA PINTO;288.625.387-15;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.190,00;Estimado; -  -  / 14321 - PEDRO ERNESTO DO AMARAL GUATEMOZIM PINTO - RJ - Deputado Estadual;

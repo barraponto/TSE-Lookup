@@ -1,6 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALFREDO PEREIRA DO NASCIMENTO;12.169.771/0001-96;02/08/2010;13000599601;R$ 3.000,00;Cheque;CHARLEY PIMENTEL;13698;Deputado Estadual;PT;AM;
-ALFREDO PEREIRA DO NASCIMENTO;12.169.771/0001-96;09/09/2010;13000599602;R$ 3.000,00;Cheque;CHARLEY PIMENTEL;13698;Deputado Estadual;PT;AM;
-Comitê Financeiro Único;12.191.488/0001-60;21/07/2010;13000599605;R$ 375,00;Estimado;CHARLEY PIMENTEL;13698;Deputado Estadual;PT;AM;
-ELEIÇÃO 2010 CHARLEY PIMENTEL DEPUTADO ESTADUAL;298.007.063-72;09/08/2010;13000599603;R$ 1.500,00;Estimado;CHARLEY PIMENTEL;13698;Deputado Estadual;PT;AM;
-ROSA CHIRLEY PIMENTEL;392.238.093-04;03/10/2010;13000599604;R$ 850,00;Estimado;CHARLEY PIMENTEL;13698;Deputado Estadual;PT;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+A.C DE SOUSA LUBRIFICANTES;00.992.097/0001-66;12/08/2010;       Combustíveis e lubrificantes;R$ 200,00;Cheque; -  -  / 13698 - CHARLEY PIMENTEL - AM - Deputado Estadual;
+B. F. AVELINO-ME;34.566.786/0001-20;11/08/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 13698 - CHARLEY PIMENTEL - AM - Deputado Estadual;
+B. F. AVELINO-ME;34.566.786/0001-20;12/08/2010;       Publicidade por materiais impressos;R$ 1.050,00;Cheque; -  -  / 13698 - CHARLEY PIMENTEL - AM - Deputado Estadual;
+Comitê Financeiro Único;12.191.488/0001-60;21/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 375,00;Estimado;Comitê Financeiro Único - PT -  / 13698 - CHARLEY PIMENTEL - AM - Deputado Estadual;
+ELCINEI PEREIRA LADISLAU;07.083.187/0001-83;17/09/2010;       Publicidade por materiais impressos;R$ 1.400,00;Cheque; -  -  / 13698 - CHARLEY PIMENTEL - AM - Deputado Estadual;
+ELCINEI PEREIRA LADISLAU;07.083.187/0001-83;28/09/2010;       Publicidade por materiais impressos;R$ 650,00;Cheque; -  -  / 13698 - CHARLEY PIMENTEL - AM - Deputado Estadual;
+ELCINEI PEREIRA LADISLAU;07.083.187/0001-83;02/09/2010;       Publicidade por materiais impressos;R$ 1.400,00;Cheque; -  -  / 13698 - CHARLEY PIMENTEL - AM - Deputado Estadual;
+ELEIÇÃO 2010 CHARLEY PIMENTEL DEPUTADO ESTADUAL;298.007.063-72;09/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado; -  -  / 13698 - CHARLEY PIMENTEL - AM - Deputado Estadual;
+F. G. DE Q. PIERRE SOBRINHO-ME;02.704.845/0001-93;20/08/2010;       Publicidade por placas, estandartes e faixas;R$ 250,00;Cheque; -  -  / 13698 - CHARLEY PIMENTEL - AM - Deputado Estadual;
+NEW DESIGN GRÁFICA LTDA;10.583.217/0001-25;19/08/2010;       Publicidade por materiais impressos;R$ 550,00;Cheque; -  -  / 13698 - CHARLEY PIMENTEL - AM - Deputado Estadual;
+ROSA CHIRLEY PIMENTEL;392.238.093-04;03/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 850,00;Estimado; -  -  / 13698 - CHARLEY PIMENTEL - AM - Deputado Estadual;

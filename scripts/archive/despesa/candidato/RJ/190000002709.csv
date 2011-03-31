@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JEFFERSON DOS SANTOS SILVA;087.015.767-12;01/09/2010;15000261201;R$ 1.735,00;Transferência eletrônica;JEANE MARIA DOS SANTOS SILVA;15049;Deputado Estadual;PMDB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+PET COPIADORA LTDA;00.603.178/0001-27;03/09/2010;       Publicidade por materiais impressos;R$ 1.735,00;Cheque; -  -  / 15049 - JEANE MARIA DOS SANTOS SILVA - RJ - Deputado Estadual;

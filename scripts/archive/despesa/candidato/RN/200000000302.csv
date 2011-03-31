@@ -1,8 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANA  SANTANA DOS SANTOS PEREIRA;060.678.434-98;08/10/2010;16000035509;R$ 200,00;Estimado;JUARY LUIS CHAGAS;1616;Deputado Federal;PSTU;RN;
-Comitê Financeiro Único;12.235.322/0001-07;10/10/2010;16000035510;R$ 1.000,00;Estimado;JUARY LUIS CHAGAS;1616;Deputado Federal;PSTU;RN;
-Comitê Financeiro Único;12.235.322/0001-07;28/09/2010;16000035508;R$ 400,00;Depósito em espécie;JUARY LUIS CHAGAS;1616;Deputado Federal;PSTU;RN;
-Comitê Financeiro Único;12.235.322/0001-07;22/10/2010;16000035511;R$ 300,00;Estimado;JUARY LUIS CHAGAS;1616;Deputado Federal;PSTU;RN;
-Comitê Financeiro Único;12.235.322/0001-07;30/09/2010;16000035507;R$ 150,00;Estimado;JUARY LUIS CHAGAS;1616;Deputado Federal;PSTU;RN;
-LUCIANA LIMA DA SILVA;12.199.743/0001-11;24/09/2010;16000035501;R$ 45,00;Estimado;JUARY LUIS CHAGAS;1616;Deputado Federal;PSTU;RN;
-WILSON DA SILVA BARBOSA;061.549.894-90;10/10/2010;16000035505;R$ 400,00;Estimado;JUARY LUIS CHAGAS;1616;Deputado Federal;PSTU;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANA  SANTANA DOS SANTOS PEREIRA;060.678.434-98;08/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado; -  -  / 1616 - JUARY LUIS CHAGAS - RN - Deputado Federal;
+Comitê Financeiro Único;12.235.322/0001-07;10/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;Comitê Financeiro Único - PSTU -  / 1616 - JUARY LUIS CHAGAS - RN - Deputado Federal;
+Comitê Financeiro Único;12.235.322/0001-07;22/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PSTU -  / 1616 - JUARY LUIS CHAGAS - RN - Deputado Federal;
+Comitê Financeiro Único;12.235.322/0001-07;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PSTU -  / 1616 - JUARY LUIS CHAGAS - RN - Deputado Federal;
+GRAFICA SUL & EDITORA;06.948.614/0001-86;18/10/2010;       Publicidade por materiais impressos;R$ 142,00;Cheque; -  -  / 1616 - JUARY LUIS CHAGAS - RN - Deputado Federal;
+LUCIANA LIMA DA SILVA;12.199.743/0001-11;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 45,00;Estimado;16123 -  - PSTU -  - Deputado Estadual / 1616 - JUARY LUIS CHAGAS - RN - Deputado Federal;
+MARIA DO CEU DA CUNHA -ME;10.648.218/0001-00;29/10/2010;       Publicidade por carros de som;R$ 250,00;Cheque; -  -  / 1616 - JUARY LUIS CHAGAS - RN - Deputado Federal;
+WILSON DA SILVA BARBOSA;061.549.894-90;10/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado; -  -  / 1616 - JUARY LUIS CHAGAS - RN - Deputado Federal;

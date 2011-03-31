@@ -1,4 +1,14 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSE ROBERTO PAZZI;093.103.476-00;26/08/2010;25000121802;R$ 12.000,00;Estimado;NELSON ROBERTO DE OLIVEIRA SILVA;25140;Deputado Estadual;DEM;BA;
-NELSON ROBERTO DE OLIVEIRA SILVA;181.635.135-00;06/08/2010;25000121800;R$ 3.000,00;Depósito em espécie;NELSON ROBERTO DE OLIVEIRA SILVA;25140;Deputado Estadual;DEM;BA;
-NELSON ROBERTO DE OLIVEIRA SILVA;181.635.135-00;17/09/2010;25000121801;R$ 10.000,00;Depósito em espécie;NELSON ROBERTO DE OLIVEIRA SILVA;25140;Deputado Estadual;DEM;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARVALHO COMERCIO DE COMBUSTIVEIS LTDA;07.783.964/0001-00;02/09/2010;       Combustíveis e lubrificantes;R$ 1.010,00;Cheque; -  -  / 25140 - NELSON ROBERTO DE OLIVEIRA SILVA - BA - Deputado Estadual;
+E A DA SILVA OLIVEIRA;03.070.294/0001-16;23/09/2010;       Publicidade por placas, estandartes e faixas;R$ 5.000,00;Cheque; -  -  / 25140 - NELSON ROBERTO DE OLIVEIRA SILVA - BA - Deputado Estadual;
+E A DA SILVA OLIVEIRA;03.070.294/0001-16;04/09/2010;       Publicidade por placas, estandartes e faixas;R$ 1.500,00;Transferência eletrônica; -  -  / 25140 - NELSON ROBERTO DE OLIVEIRA SILVA - BA - Deputado Estadual;
+GRAFICA DA FEIRA LTDA;14.418.917/0001-15;24/09/2010;       Publicidade por materiais impressos;R$ 3.800,00;Cheque; -  -  / 25140 - NELSON ROBERTO DE OLIVEIRA SILVA - BA - Deputado Estadual;
+GRAFICA DA FEIRA LTDA;14.418.917/0001-15;24/09/2010;       Publicidade por materiais impressos;R$ 650,00;Cheque; -  -  / 25140 - NELSON ROBERTO DE OLIVEIRA SILVA - BA - Deputado Estadual;
+JOSE ROBERTO PAZZI;093.103.476-00;26/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 12.000,00;Estimado; -  -  / 25140 - NELSON ROBERTO DE OLIVEIRA SILVA - BA - Deputado Estadual;
+M F COMUNICAÇÕES E IMPRESSÃO LTDA;04.766.784/0001-14;21/09/2010;       Publicidade por jornais e revistas;R$ 1.000,00;Cheque; -  -  / 25140 - NELSON ROBERTO DE OLIVEIRA SILVA - BA - Deputado Estadual;
+;;29/09/2010;       Encargos financeiros e taxas bancárias;R$ 5,50;Débito em conta; -  -  / 25140 - NELSON ROBERTO DE OLIVEIRA SILVA - BA - Deputado Estadual;
+;;10/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 25140 - NELSON ROBERTO DE OLIVEIRA SILVA - BA - Deputado Estadual;
+;;06/09/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Débito em conta; -  -  / 25140 - NELSON ROBERTO DE OLIVEIRA SILVA - BA - Deputado Estadual;
+;;13/09/2010;       Encargos financeiros e taxas bancárias;R$ 6,00;Débito em conta; -  -  / 25140 - NELSON ROBERTO DE OLIVEIRA SILVA - BA - Deputado Estadual;
+;;21/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 25140 - NELSON ROBERTO DE OLIVEIRA SILVA - BA - Deputado Estadual;
+;;20/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 25140 - NELSON ROBERTO DE OLIVEIRA SILVA - BA - Deputado Estadual;

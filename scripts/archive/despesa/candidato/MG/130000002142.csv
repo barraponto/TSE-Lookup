@@ -1,6 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.560/0001-50;21/09/2010;65000091506;R$ 67,90;Estimado;EDIDACIO MEDEIROS DE MARTINS;65070;Deputado Estadual;PC do B;MG;
-MARIA DO SOCORRO JO MORAIS;12.199.511/0001-63;20/08/2010;65000091501;R$ 3.000,00;Cheque;EDIDACIO MEDEIROS DE MARTINS;65070;Deputado Estadual;PC do B;MG;
-MARIA DO SOCORRO JO MORAIS;12.199.511/0001-63;29/07/2010;65000091508;R$ 114,29;Estimado;EDIDACIO MEDEIROS DE MARTINS;65070;Deputado Estadual;PC do B;MG;
-MARIA DO SOCORRO JO MORAIS;12.199.511/0001-63;29/09/2010;;R$ 3.000,00;Cheque;EDIDACIO MEDEIROS DE MARTINS;65070;Deputado Estadual;PC do B;MG;
-MARIA DO SOCORRO JO MORAIS;12.199.511/0001-63;29/07/2010;65000091507;R$ 236,25;Estimado;EDIDACIO MEDEIROS DE MARTINS;65070;Deputado Estadual;PC do B;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CICERO ROBERTO DE BRTIO FILHO CRCMG 71.831;227.664.566-00;28/09/2010;       Serviços prestados por terceiros;R$ 300,00;Cheque; -  -  / 65070 - EDIDACIO MEDEIROS DE MARTINS - MG - Deputado Estadual;
+Comitê Financeiro Único;12.191.560/0001-50;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 67,90;Estimado;Comitê Financeiro Único - PC do B -  / 65070 - EDIDACIO MEDEIROS DE MARTINS - MG - Deputado Estadual;
+ELMARI MEDEIROS MARTINS;311.105.256-72;06/09/2010;       Serviços prestados por terceiros;R$ 1.000,00;Cheque; -  -  / 65070 - EDIDACIO MEDEIROS DE MARTINS - MG - Deputado Estadual;
+GUILHERME A C MARTINS;056.168.186-40;10/09/2010;       Serviços prestados por terceiros;R$ 300,00;Cheque; -  -  / 65070 - EDIDACIO MEDEIROS DE MARTINS - MG - Deputado Estadual;
+JANE MARIZE CASTRO;049.847.456-90;30/09/2010;       Serviços prestados por terceiros;R$ 650,00;Cheque; -  -  / 65070 - EDIDACIO MEDEIROS DE MARTINS - MG - Deputado Estadual;
+LUCAS SIMPLICIO DE SOUZA MARTINS;090.329.976-37;17/09/2010;       Serviços prestados por terceiros;R$ 250,00;Cheque; -  -  / 65070 - EDIDACIO MEDEIROS DE MARTINS - MG - Deputado Estadual;
+MARIA DAS GRAÇAS MEDEIROS;054.668.733-49;15/09/2010;       Serviços prestados por terceiros;R$ 250,00;Cheque; -  -  / 65070 - EDIDACIO MEDEIROS DE MARTINS - MG - Deputado Estadual;
+MARIA DO SOCORRO JO MORAIS;12.199.511/0001-63;29/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 114,29;Estimado;6565 -  - PC do B -  - Deputado Federal / 65070 - EDIDACIO MEDEIROS DE MARTINS - MG - Deputado Estadual;
+MARIA DO SOCORRO JO MORAIS;12.199.511/0001-63;29/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 236,25;Estimado;6565 -  - PC do B -  - Deputado Federal / 65070 - EDIDACIO MEDEIROS DE MARTINS - MG - Deputado Estadual;
+ROBSON MARTINS RIBEIRO;014.929.106-00;01/10/2010;       Serviços prestados por terceiros;R$ 3.000,00;Transferência eletrônica; -  -  / 65070 - EDIDACIO MEDEIROS DE MARTINS - MG - Deputado Estadual;
+TANIA FEREIRA;489.520.366-20;22/09/2010;       Serviços prestados por terceiros;R$ 200,00;Cheque; -  -  / 65070 - EDIDACIO MEDEIROS DE MARTINS - MG - Deputado Estadual;

@@ -1,4 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.154.856/0001-09;18/08/2010;50000391801;R$ 125,43;Estimado;EROTILDES DE ARAUJO MACHADO;50011;Deputado Estadual;PSOL;RJ;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.154.856/0001-09;29/09/2010;50000391803;R$ 62,50;Estimado;EROTILDES DE ARAUJO MACHADO;50011;Deputado Estadual;PSOL;RJ;
-EROTILDES DE ARAUJO MACHADO;532.265.427-53;01/09/2010;50000391802;R$ 1.300,00;Depósito em espécie;EROTILDES DE ARAUJO MACHADO;50011;Deputado Estadual;PSOL;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADRIANA DOS SANTOS MODESTO;074.101.327-44;26/09/2010;       Serviços prestados por terceiros;R$ 100,00;Cheque; -  -  / 50011 - EROTILDES DE ARAUJO MACHADO - RJ - Deputado Estadual;
+Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.154.856/0001-09;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 62,50;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual - PSOL -  / 50011 - EROTILDES DE ARAUJO MACHADO - RJ - Deputado Estadual;
+Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.154.856/0001-09;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 125,43;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual - PSOL -  / 50011 - EROTILDES DE ARAUJO MACHADO - RJ - Deputado Estadual;
+JOSÉ BELO DA SILVA;819.270.707-59;28/09/2010;       Serviços prestados por terceiros;R$ 300,00;Cheque; -  -  / 50011 - EROTILDES DE ARAUJO MACHADO - RJ - Deputado Estadual;
+JOSÉ BELO DA SILVA;819.270.707-59;23/09/2010;       Serviços prestados por terceiros;R$ 175,00;Cheque; -  -  / 50011 - EROTILDES DE ARAUJO MACHADO - RJ - Deputado Estadual;
+JOSÉ BELO DA SILVA;819.270.707-59;14/09/2010;       Serviços prestados por terceiros;R$ 210,00;Cheque; -  -  / 50011 - EROTILDES DE ARAUJO MACHADO - RJ - Deputado Estadual;
+SEMPRE PRONTO SERVIÇOS GRÁFICOS LTDA;03.478.993/0001-08;26/09/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 50011 - EROTILDES DE ARAUJO MACHADO - RJ - Deputado Estadual;

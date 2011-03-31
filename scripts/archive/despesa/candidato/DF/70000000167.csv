@@ -1,3 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CICERO NAZARENO DE LUCENA;310.093.441-53;25/08/2010;17000027902;R$ 4.650,00;Depósito em espécie;CICERO NAZARENO DE LUCENA;17100;Deputado Distrital;PSL;DF;
-CICERO NAZARENO DE LUCENA;310.093.441-53;12/08/2010;17000027901;R$ 200,00;Depósito em espécie;CICERO NAZARENO DE LUCENA;17100;Deputado Distrital;PSL;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANGELO ADU RABELO;648.032.791-87;20/08/2010;       Despesas com pessoal;R$ 200,00;Cheque; -  -  / 17100 - CICERO NAZARENO DE LUCENA - DF - Deputado Distrital;
+BC NUNES ME;06.207.248/0001-04;12/08/2010;       Alimentação;R$ 408,57;Cheque; -  -  / 17100 - CICERO NAZARENO DE LUCENA - DF - Deputado Distrital;
+BC NUNES ME;06.207.248/0001-04;13/08/2010;       Alimentação;R$ 300,00;Cheque; -  -  / 17100 - CICERO NAZARENO DE LUCENA - DF - Deputado Distrital;
+LUZAS COMBUSTIVEIS JJS COM DE COMBUST LTDA;03.469.182/0001-32;26/08/2010;       Combustíveis e lubrificantes;R$ 3.000,00;Cheque; -  -  / 17100 - CICERO NAZARENO DE LUCENA - DF - Deputado Distrital;
+SOLANGE OLINDA DOS SANTOS;771.035.561-72;31/08/2010;       Despesas com pessoal;R$ 200,00;Cheque; -  -  / 17100 - CICERO NAZARENO DE LUCENA - DF - Deputado Distrital;
+SUEDILON SOARES DE PAIVA;018.826.297-01;10/09/2010;       Produção de jingles, vinhetas e slogans;R$ 250,00;Cheque; -  -  / 17100 - CICERO NAZARENO DE LUCENA - DF - Deputado Distrital;
+SUPERMERCADO OPCAO;06.023.883/0001-31;25/08/2010;       Alimentação;R$ 445,86;Cheque; -  -  / 17100 - CICERO NAZARENO DE LUCENA - DF - Deputado Distrital;
+;;10/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 17100 - CICERO NAZARENO DE LUCENA - DF - Deputado Distrital;
+;;08/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 17100 - CICERO NAZARENO DE LUCENA - DF - Deputado Distrital;
+;;08/09/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 17100 - CICERO NAZARENO DE LUCENA - DF - Deputado Distrital;
+;;01/09/2010;       Encargos financeiros e taxas bancárias;R$ 11,00;Débito em conta; -  -  / 17100 - CICERO NAZARENO DE LUCENA - DF - Deputado Distrital;

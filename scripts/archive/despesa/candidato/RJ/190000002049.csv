@@ -1,7 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DENISE COELHO QUARESMA;020.666.787-67;12/08/2010;20000675683;R$ 80,00;Depósito em espécie;MARCO AURELIO RODRIGUES CARVALHO QUARESMA;20555;Deputado Estadual;PSC;RJ;
-Diretório Estadual/Distrital;12.181.923/0001-76;11/09/2010;20000675685;R$ 150,00;Estimado;MARCO AURELIO RODRIGUES CARVALHO QUARESMA;20555;Deputado Estadual;PSC;RJ;
-Diretório Estadual/Distrital;12.181.923/0001-76;20/08/2010;20000675681;R$ 150,00;Estimado;MARCO AURELIO RODRIGUES CARVALHO QUARESMA;20555;Deputado Estadual;PSC;RJ;
-JESIA GOMES FERREIRA;060.877.527-49;12/08/2010;20000675682;R$ 100,00;Depósito em espécie;MARCO AURELIO RODRIGUES CARVALHO QUARESMA;20555;Deputado Estadual;PSC;RJ;
-LUIZ LINDBERG FARIAS FILHO;12.179.678/0001-62;29/09/2010;20000675686;R$ 21,00;Estimado;MARCO AURELIO RODRIGUES CARVALHO QUARESMA;20555;Deputado Estadual;PSC;RJ;
-MARCO AURELIORODRIGUES CARVALHO QUARESMA;907.206.107-10;12/08/2010;20000675684;R$ 300,00;Depósito em espécie;MARCO AURELIO RODRIGUES CARVALHO QUARESMA;20555;Deputado Estadual;PSC;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CRIAR CAMISETAS SIGNS GRÁFICA E BRINDES LTDA.;11.297.969/0001-92;18/08/2010;       Publicidade por materiais impressos;R$ 480,00;Cheque; -  -  / 20555 - MARCO AURELIO RODRIGUES CARVALHO QUARESMA - RJ - Deputado Estadual;
+Diretório Estadual/Distrital;12.181.923/0001-76;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Direção Estadual/Distrital - PMDB -  / 20555 - MARCO AURELIO RODRIGUES CARVALHO QUARESMA - RJ - Deputado Estadual;
+Diretório Estadual/Distrital;12.181.923/0001-76;11/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Direção Estadual/Distrital - PMDB -  / 20555 - MARCO AURELIO RODRIGUES CARVALHO QUARESMA - RJ - Deputado Estadual;
+LUIZ LINDBERG FARIAS FILHO;12.179.678/0001-62;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 21,00;Estimado;131 -  - PT -  - Senador / 20555 - MARCO AURELIO RODRIGUES CARVALHO QUARESMA - RJ - Deputado Estadual;

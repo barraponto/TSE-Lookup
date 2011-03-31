@@ -1,2 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSE MESSIAS DE SOUZA;12.171.862/0001-66;29/09/2010;65000176771;R$ 3.400,00;Cheque;JOSE ALBERTO DOS SANTOS;65111;Deputado Distrital;PC do B;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+MARIA DE LOURDES COSTA DE MOURA;826.062.697-72;03/10/2010;       Despesas com pessoal;R$ 732,00;Cheque; -  -  / 65111 - JOSE ALBERTO DOS SANTOS - DF - Deputado Distrital;
+MARIA LUCIA DE SOUZA MPOURA;826.533.481-87;03/10/2010;       Despesas com pessoal;R$ 731,99;Cheque; -  -  / 65111 - JOSE ALBERTO DOS SANTOS - DF - Deputado Distrital;
+MARITANA MOREIRA BORGES;329.738.371-20;03/10/2010;       Despesas com pessoal;R$ 1.200,00;Cheque; -  -  / 65111 - JOSE ALBERTO DOS SANTOS - DF - Deputado Distrital;
+VILMA DE SOUSA MOURA;717.527.221-91;03/10/2010;       Despesas com pessoal;R$ 732,00;Cheque; -  -  / 65111 - JOSE ALBERTO DOS SANTOS - DF - Deputado Distrital;
+;;30/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,00;Débito em conta; -  -  / 65111 - JOSE ALBERTO DOS SANTOS - DF - Deputado Distrital;
+;;30/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,00;Débito em conta; -  -  / 65111 - JOSE ALBERTO DOS SANTOS - DF - Deputado Distrital;
+;;01/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,01;Débito em conta; -  -  / 65111 - JOSE ALBERTO DOS SANTOS - DF - Deputado Distrital;

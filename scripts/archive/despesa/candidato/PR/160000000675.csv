@@ -1,6 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Nacional;29.549.433/0001-82;20/09/2010;33000000210;R$ 250,00;Estimado;LEONE SEBASTIAO PASIN;3355;Deputado Federal;PMN;PR;
-ELEIÇAO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;19/10/2010;33000000211;R$ 1.680,00;Transferência eletrônica;LEONE SEBASTIAO PASIN;3355;Deputado Federal;PMN;PR;
-ELEIÇÕES 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;27/09/2010;33000000207;R$ 630,00;Estimado;LEONE SEBASTIAO PASIN;3355;Deputado Federal;PMN;PR;
-ELEIÇÕES 2010 RICARDO JOSÉ M. BARROS;12.190.665/0001-94;23/09/2010;33000000209;R$ 450,00;Estimado;LEONE SEBASTIAO PASIN;3355;Deputado Federal;PMN;PR;
-LEONE SEBATIÃO PASIM;253.608.419-15;13/09/2010;33000000208;R$ 70,00;Depósito em espécie;LEONE SEBASTIAO PASIN;3355;Deputado Federal;PMN;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Nacional;29.549.433/0001-82;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;Direção Nacional - PMN -  / 3355 - LEONE SEBASTIAO PASIN - PR - Deputado Federal;
+ELEIÇÕES 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 630,00;Estimado;45 -  - PSDB -  - Governador / 3355 - LEONE SEBASTIAO PASIN - PR - Deputado Federal;
+ELEIÇÕES 2010 RICARDO JOSÉ M. BARROS;12.190.665/0001-94;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 450,00;Estimado;111 -  - PP -  - Senador / 3355 - LEONE SEBASTIAO PASIN - PR - Deputado Federal;
+GRAFICA DOS PANFLETOS LTDA;07.833.949/0001-11;15/09/2010;       Publicidade por jornais e revistas;R$ 250,00;Cheque; -  -  / 3355 - LEONE SEBASTIAO PASIN - PR - Deputado Federal;
+VIVIANA APARECIDO DE FREITAS;009.338.539-04;24/09/2010;       Cessão ou Locação de Veículos;R$ 1.200,00;Cheque; -  -  / 3355 - LEONE SEBASTIAO PASIN - PR - Deputado Federal;
+;;27/09/2010;       Impostos, contribuições e taxas;R$ 250,00;Cheque; -  -  / 3355 - LEONE SEBASTIAO PASIN - PR - Deputado Federal;
+;;15/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 3355 - LEONE SEBASTIAO PASIN - PR - Deputado Federal;
+;;20/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 3355 - LEONE SEBASTIAO PASIN - PR - Deputado Federal;

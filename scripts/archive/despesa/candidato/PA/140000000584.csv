@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-S. L. SANTOS;04.390.121/0001-48;25/08/2010;36000089191;R$ 700,00;Estimado;JOÃO FRANCISCO GARCIA REIS;36911;Deputado Estadual;PTC;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+S. L. SANTOS;04.390.121/0001-48;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 700,00;Estimado; -  -  / 36911 - JOÃO FRANCISCO GARCIA REIS - PA - Deputado Estadual;

@@ -1,6 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;16/09/2010;33000020233;R$ 150,00;Estimado;JORDENI RODRIGUES CHAVES;33555;Deputado Estadual;PMN;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;16/09/2010;33000020234;R$ 150,00;Estimado;JORDENI RODRIGUES CHAVES;33555;Deputado Estadual;PMN;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;16/09/2010;33000020235;R$ 300,00;Estimado;JORDENI RODRIGUES CHAVES;33555;Deputado Estadual;PMN;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;25/09/2010;33000020236;R$ 300,00;Estimado;JORDENI RODRIGUES CHAVES;33555;Deputado Estadual;PMN;RJ;
-JORDENI RODRIGUES CHAVES;242.313.717-68;02/08/2010;33000020231;R$ 200,00;Depósito em espécie;JORDENI RODRIGUES CHAVES;33555;Deputado Estadual;PMN;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BRILHART UNIDADE DO SILK LTDA-N.F1731;02.313.248/0001-38;02/08/2010;       Publicidade por materiais impressos;R$ 150,00;Cheque; -  -  / 33555 - JORDENI RODRIGUES CHAVES - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;16/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 33555 - JORDENI RODRIGUES CHAVES - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;16/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 33555 - JORDENI RODRIGUES CHAVES - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;16/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 33555 - JORDENI RODRIGUES CHAVES - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;25/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 33555 - JORDENI RODRIGUES CHAVES - RJ - Deputado Estadual;
+EDSON RODRIGUES DO CARMO;716.608.367-00;02/10/2010;       Despesas com pessoal;R$ 50,00;Cheque; -  -  / 33555 - JORDENI RODRIGUES CHAVES - RJ - Deputado Estadual;

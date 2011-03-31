@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.159/0001-39;23/08/2010;14000123326;R$ 292,95;Estimado;ANTÔNIO CARLOS ROSS DE ABREU;14914;Deputado Estadual;PTB;RS;
-Comitê Financeiro Único;12.200.159/0001-39;18/08/2010;14000123327;R$ 761,54;Estimado;ANTÔNIO CARLOS ROSS DE ABREU;14914;Deputado Estadual;PTB;RS;
-Comitê Financeiro Único;12.200.159/0001-39;30/09/2010;14000123331;R$ 126,00;Estimado;ANTÔNIO CARLOS ROSS DE ABREU;14914;Deputado Estadual;PTB;RS;
-Comitê Financeiro Único;12.200.159/0001-39;18/09/2010;14000123329;R$ 180,00;Estimado;ANTÔNIO CARLOS ROSS DE ABREU;14914;Deputado Estadual;PTB;RS;
-Comitê Financeiro Único;12.200.159/0001-39;16/09/2010;14000123330;R$ 108,75;Estimado;ANTÔNIO CARLOS ROSS DE ABREU;14914;Deputado Estadual;PTB;RS;
-Comitê Financeiro Único;12.200.159/0001-39;02/08/2010;14000123328;R$ 562,50;Estimado;ANTÔNIO CARLOS ROSS DE ABREU;14914;Deputado Estadual;PTB;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.159/0001-39;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 761,54;Estimado;Comitê Financeiro Único - PTB -  / 14914 - ANTÔNIO CARLOS ROSS DE ABREU - RS - Deputado Estadual;
+Comitê Financeiro Único;12.200.159/0001-39;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 126,00;Estimado;Comitê Financeiro Único - PTB -  / 14914 - ANTÔNIO CARLOS ROSS DE ABREU - RS - Deputado Estadual;
+Comitê Financeiro Único;12.200.159/0001-39;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 562,50;Estimado;Comitê Financeiro Único - PTB -  / 14914 - ANTÔNIO CARLOS ROSS DE ABREU - RS - Deputado Estadual;
+Comitê Financeiro Único;12.200.159/0001-39;18/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 180,00;Estimado;Comitê Financeiro Único - PTB -  / 14914 - ANTÔNIO CARLOS ROSS DE ABREU - RS - Deputado Estadual;
+Comitê Financeiro Único;12.200.159/0001-39;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 292,95;Estimado;Comitê Financeiro Único - PTB -  / 14914 - ANTÔNIO CARLOS ROSS DE ABREU - RS - Deputado Estadual;
+Comitê Financeiro Único;12.200.159/0001-39;16/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 108,75;Estimado;Comitê Financeiro Único - PTB -  / 14914 - ANTÔNIO CARLOS ROSS DE ABREU - RS - Deputado Estadual;

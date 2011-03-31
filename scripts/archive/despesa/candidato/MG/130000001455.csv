@@ -1,6 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.213/0001-39;26/08/2010;40000207801;R$ 3.800,00;Cheque;WAGNER DE CASTRO;4065;Deputado Federal;PSB;MG;
-Comitê Financeiro Único;12.205.213/0001-39;30/08/2010;40000207803;R$ 508,00;Estimado;WAGNER DE CASTRO;4065;Deputado Federal;PSB;MG;
-Comitê Financeiro Único;12.205.213/0001-39;30/09/2010;40000207805;R$ 45,00;Estimado;WAGNER DE CASTRO;4065;Deputado Federal;PSB;MG;
-Comitê Financeiro Único;12.205.213/0001-39;03/09/2010;40000207804;R$ 1.197,84;Estimado;WAGNER DE CASTRO;4065;Deputado Federal;PSB;MG;
-WANDER JOSÉ GODDARD BORGES;12.174.507/0001-40;25/09/2010;40000207802;R$ 240,00;Estimado;WAGNER DE CASTRO;4065;Deputado Federal;PSB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLA DA CONCEIÇÃO OLIVEIRA;032.536.086-38;01/10/2010;       Serviços prestados por terceiros;R$ 3.180,00;Cheque; -  -  / 4065 - WAGNER DE CASTRO - MG - Deputado Federal;
+Comitê Financeiro Único;12.205.213/0001-39;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.197,84;Estimado;Comitê Financeiro Único - PSB -  / 4065 - WAGNER DE CASTRO - MG - Deputado Federal;
+Comitê Financeiro Único;12.205.213/0001-39;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 508,00;Estimado;Comitê Financeiro Único - PSB -  / 4065 - WAGNER DE CASTRO - MG - Deputado Federal;
+Comitê Financeiro Único;12.205.213/0001-39;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 45,00;Estimado;Comitê Financeiro Único - PSB -  / 4065 - WAGNER DE CASTRO - MG - Deputado Federal;
+ECT - EMPRESA BRASILEIRA DE CORREIOS E TELEGRÁFOS;34.028.316/3532-94;24/09/2010;       Despesas postais;R$ 594,00;Cheque; -  -  / 4065 - WAGNER DE CASTRO - MG - Deputado Federal;
+JANICE ALVES DA SILVA;026.547.226-19;24/09/2010;       Serviços prestados por terceiros;R$ 23,00;Cheque; -  -  / 4065 - WAGNER DE CASTRO - MG - Deputado Federal;
+WANDER JOSÉ GODDARD BORGES;12.174.507/0001-40;25/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 240,00;Estimado;40640 -  - PSB -  - Deputado Estadual / 4065 - WAGNER DE CASTRO - MG - Deputado Federal;
+;;24/09/2010;       Encargos financeiros e taxas bancárias;R$ 3,00;Débito em conta; -  -  / 4065 - WAGNER DE CASTRO - MG - Deputado Federal;

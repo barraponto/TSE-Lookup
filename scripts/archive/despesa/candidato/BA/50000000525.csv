@@ -1,5 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOB MEDRADO BRASILEIRO;059.875.045-20;13/07/2010;23000062501;R$ 3.050,00;Depósito em espécie;JOB MEDRADO BRASILEIRO;23333;Deputado Estadual;PPS;BA;
-JOB MEDRADO BRASILEIRO;059.875.045-20;01/11/2010;23000062504;R$ 750,00;Depósito em espécie;JOB MEDRADO BRASILEIRO;23333;Deputado Estadual;PPS;BA;
-JOB MEDRADO BRASILEIRO;059.875.045-20;17/08/2010;23000062503;R$ 920,00;Depósito em espécie;JOB MEDRADO BRASILEIRO;23333;Deputado Estadual;PPS;BA;
-JOB MEDRADO BRASILEIRO;059.875.045-20;20/07/2010;23000062502;R$ 2.000,00;Depósito em espécie;JOB MEDRADO BRASILEIRO;23333;Deputado Estadual;PPS;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BV 10 GRÁFICA LTDA;04.849.331/0001-51;13/07/2010;       Publicidade por materiais impressos;R$ 2.000,00;Cheque; -  -  / 23333 - JOB MEDRADO BRASILEIRO - BA - Deputado Estadual;
+BV 10 GRÁFICA LTDA;04.849.331/0001-51;22/07/2010;       Publicidade por materiais impressos;R$ 150,00;Cheque; -  -  / 23333 - JOB MEDRADO BRASILEIRO - BA - Deputado Estadual;
+BV 10 GRÁFICA LTDA;04.849.331/0001-51;23/07/2010;       Publicidade por materiais impressos;R$ 1.500,00;Cheque; -  -  / 23333 - JOB MEDRADO BRASILEIRO - BA - Deputado Estadual;
+PSIU SERVIÇOS IMPRESSOS LTDA - ME;11.122.126/0001-55;16/09/2010;       Publicidade por materiais impressos;R$ 800,00;Cheque; -  -  / 23333 - JOB MEDRADO BRASILEIRO - BA - Deputado Estadual;
+SUPPLY 7 COMUNICAÇÃO VISUAL LTDA - ME;34.077.495/0001-79;21/07/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 23333 - JOB MEDRADO BRASILEIRO - BA - Deputado Estadual;
+SUPPLY 7 COMUNICAÇÃO VISUAL LTDA - ME;34.077.495/0001-79;23/07/2010;       Publicidade por materiais impressos;R$ 960,00;Cheque; -  -  / 23333 - JOB MEDRADO BRASILEIRO - BA - Deputado Estadual;
+SUPPLY 7 COMUNICAÇÃO VISUAL LTDA - ME;34.077.495/0001-79;13/07/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 23333 - JOB MEDRADO BRASILEIRO - BA - Deputado Estadual;
+;;11/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 23333 - JOB MEDRADO BRASILEIRO - BA - Deputado Estadual;
+;;17/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 23333 - JOB MEDRADO BRASILEIRO - BA - Deputado Estadual;

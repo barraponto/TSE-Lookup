@@ -1,4 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO OLIVEIRA DOS SANTOS;292.019.695-20;23/07/2010;20000070701;R$ 2.400,00;Transferência eletrônica;ANTONIO OLIVEIRA DOS SANTOS;20155;Deputado Estadual;PSC;BA;
-Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;20000070704;R$ 763,20;Estimado;ANTONIO OLIVEIRA DOS SANTOS;20155;Deputado Estadual;PSC;BA;
-GEDEL QUADROS VIEIRA LIMA;12.173.503/0001-48;31/08/2010;20000070703;R$ 204,00;Estimado;ANTONIO OLIVEIRA DOS SANTOS;20155;Deputado Estadual;PSC;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 763,20;Estimado;Comitê Financeiro Único - PMDB -  / 20155 - ANTONIO OLIVEIRA DOS SANTOS - BA - Deputado Estadual;
+GEDEL QUADROS VIEIRA LIMA;12.173.503/0001-48;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 204,00;Estimado;15 -  - PMDB -  - Governador / 20155 - ANTONIO OLIVEIRA DOS SANTOS - BA - Deputado Estadual;
+GÓES E SILVA LTDA;04.252.903/0001-10;25/07/2010;       Publicidade por materiais impressos;R$ 2.390,00;Cheque; -  -  / 20155 - ANTONIO OLIVEIRA DOS SANTOS - BA - Deputado Estadual;
+RAIMUNDA CRISOSTOMO DA SILVA;11.457.380/0001-04;03/10/2010;       Água;R$ 10,00;Cheque; -  -  / 20155 - ANTONIO OLIVEIRA DOS SANTOS - BA - Deputado Estadual;

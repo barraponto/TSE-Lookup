@@ -1,7 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.217.614/0001-09;06/09/2010;19000002416;R$ 292,96;Estimado;MARCOS VENICIOS ALVES LANDIM;19333;Deputado Estadual;PTN;CE;
-JOSE LEITE LANDIM;005.064.863-20;30/08/2010;19000002412;R$ 3.000,00;Depósito em espécie;MARCOS VENICIOS ALVES LANDIM;19333;Deputado Estadual;PTN;CE;
-JOSE LEITE LANDIM;005.064.863-20;30/08/2010;19000002413;R$ 200,00;Depósito em espécie;MARCOS VENICIOS ALVES LANDIM;19333;Deputado Estadual;PTN;CE;
-MARCOS VENICIUS ALVES LANDIM FILHO;960.638.583-34;06/09/2010;19000002414;R$ 1.300,00;Depósito em espécie;MARCOS VENICIOS ALVES LANDIM;19333;Deputado Estadual;PTN;CE;
-MARCOS VENICIUS ALVES LANDIM FILHO;960.638.583-34;09/09/2010;19000002415;R$ 1.100,00;Depósito em espécie;MARCOS VENICIOS ALVES LANDIM;19333;Deputado Estadual;PTN;CE;
-PATRICIA LEITE PEREIRA LANDIM;113.131.294-53;13/08/2010;19000002411;R$ 2.300,00;Depósito em espécie;MARCOS VENICIOS ALVES LANDIM;19333;Deputado Estadual;PTN;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.217.614/0001-09;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 292,96;Estimado;Comitê Financeiro Único - PTN -  / 19333 - MARCOS VENICIOS ALVES LANDIM - CE - Deputado Estadual;
+FRANCISCO DAS CHAGAS GONCALVES;191.764.224-53;30/08/2010;       Cessão ou Locação de Veículos;R$ 1.070,00;Cheque; -  -  / 19333 - MARCOS VENICIOS ALVES LANDIM - CE - Deputado Estadual;
+FRANCISCO DAS CHAGAS GONCALVES;191.764.224-53;16/09/2010;       Cessão ou Locação de Veículos;R$ 250,00;Cheque; -  -  / 19333 - MARCOS VENICIOS ALVES LANDIM - CE - Deputado Estadual;
+FRANCISCO DAS CHAGAS GONCALVES;191.764.224-53;06/09/2010;       Cessão ou Locação de Veículos;R$ 900,00;Cheque; -  -  / 19333 - MARCOS VENICIOS ALVES LANDIM - CE - Deputado Estadual;
+GILBERTO LINARD ROCHA;169.209.881-00;16/08/2010;       Produção de jingles, vinhetas e slogans;R$ 1.480,00;Cheque; -  -  / 19333 - MARCOS VENICIOS ALVES LANDIM - CE - Deputado Estadual;
+JEFERSON MACEDO DE SA;044.048.403-27;31/08/2010;       Serviços prestados por terceiros;R$ 2.100,00;Cheque; -  -  / 19333 - MARCOS VENICIOS ALVES LANDIM - CE - Deputado Estadual;
+JOAO PAULO DA SILVA MOREIRA;990.026.473-87;06/09/2010;       Cessão ou Locação de Veículos;R$ 400,00;Cheque; -  -  / 19333 - MARCOS VENICIOS ALVES LANDIM - CE - Deputado Estadual;
+JOAO PAULO DA SILVA MOREIRA;990.026.473-87;18/08/2010;       Cessão ou Locação de Veículos;R$ 738,00;Cheque; -  -  / 19333 - MARCOS VENICIOS ALVES LANDIM - CE - Deputado Estadual;
+LUIZ CARLOS MOREIRA;399.416.048-04;10/09/2010;       Serviços prestados por terceiros;R$ 800,00;Cheque; -  -  / 19333 - MARCOS VENICIOS ALVES LANDIM - CE - Deputado Estadual;
+19333 - MARCOS VENICIUS ALVES LANDIM - DEPUTADO ESTADUAL;12.171.634/0001-96;10/11/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 162,00;Depósito em espécie;Direção Nacional - PTN - BR / 19333 - MARCOS VENICIOS ALVES LANDIM - CE - Deputado Estadual;

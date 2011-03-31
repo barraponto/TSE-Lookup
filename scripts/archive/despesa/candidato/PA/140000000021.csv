@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSÉ ANTONIO CARDOSO DE SOUZA JUNIOR;300.956.112-15;10/09/2010;43001884852;R$ 320,00;Cheque;JOSE ANTONIO CARDOSO DE SOUZA JUNIOR;43888;Deputado Estadual;PV;PA;
-JOSÉ ANTONIO CARDOSO DE SOUZA JUNIOR;300.956.112-15;09/08/2010;43001884851;R$ 500,00;Cheque;JOSE ANTONIO CARDOSO DE SOUZA JUNIOR;43888;Deputado Estadual;PV;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+A B C ARAGÃO.;03.807.850/0001-94;17/09/2010;       Publicidade por materiais impressos;R$ 320,00;Cheque; -  -  / 43888 - JOSE ANTONIO CARDOSO DE SOUZA JUNIOR - PA - Deputado Estadual;
+A F RAMOS E CIA LTDA.;34.819.680/0001-91;30/07/2010;       Publicidade por materiais impressos;R$ 380,00;Cheque; -  -  / 43888 - JOSE ANTONIO CARDOSO DE SOUZA JUNIOR - PA - Deputado Estadual;
+DIGITAL PRINT;83.347.518/0001-23;09/10/2010;       Publicidade por materiais impressos;R$ 120,00;Cheque; -  -  / 43888 - JOSE ANTONIO CARDOSO DE SOUZA JUNIOR - PA - Deputado Estadual;

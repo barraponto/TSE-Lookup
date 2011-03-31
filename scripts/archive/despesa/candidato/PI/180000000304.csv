@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-RAIMUNDO ALCEMIR DA SILVA;440.207.323-53;20/09/2010;15000034011;R$ 10,00;Depósito em espécie;RAIMUNDO ALCEMIR DA SILVA;15999;Deputado Estadual;PMDB;PI;
-WILSON NUNES MARTINS;12.169.977/0001-16;23/08/2010;15000034012;R$ 862,07;Estimado;RAIMUNDO ALCEMIR DA SILVA;15999;Deputado Estadual;PMDB;PI;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JOSE LUIZ FERREIRA DA SILVA;375.198.673-15;20/09/2010;       Alimentação;R$ 10,00;Cheque; -  -  / 15999 - RAIMUNDO ALCEMIR DA SILVA - PI - Deputado Estadual;
+WILSON NUNES MARTINS;12.169.977/0001-16;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 862,07;Estimado;40 -  - PSB -  - Governador / 15999 - RAIMUNDO ALCEMIR DA SILVA - PI - Deputado Estadual;

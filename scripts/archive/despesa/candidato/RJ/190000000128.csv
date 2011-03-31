@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;11000007104;R$ 150,00;Estimado;WILLIAM PEREIRA DE SOUZA;11512;Deputado Estadual;PP;RJ;
-Comitê Financeiro Único;12.200.097/0001-65;02/10/2010;11000007106;R$ 3.592,00;Estimado;WILLIAM PEREIRA DE SOUZA;11512;Deputado Estadual;PP;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/08/2010;11000007102;R$ 150,00;Estimado;WILLIAM PEREIRA DE SOUZA;11512;Deputado Estadual;PP;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;11000007107;R$ 150,00;Estimado;WILLIAM PEREIRA DE SOUZA;11512;Deputado Estadual;PP;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;11000007105;R$ 150,00;Estimado;WILLIAM PEREIRA DE SOUZA;11512;Deputado Estadual;PP;RJ;
-JORGE PICCIANI;12.176.626/0001-32;30/08/2010;11000007103;R$ 17,00;Estimado;WILLIAM PEREIRA DE SOUZA;11512;Deputado Estadual;PP;RJ;
-NEW JUMP COMUNICAÇÃO VISUAL LTDA.;04.243.450/0001-66;22/07/2010;11000007101;R$ 893,00;Estimado;WILLIAM PEREIRA DE SOUZA;11512;Deputado Estadual;PP;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 11512 - WILLIAM PEREIRA DE SOUZA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 11512 - WILLIAM PEREIRA DE SOUZA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.200.097/0001-65;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.592,00;Estimado;Comitê Financeiro Único - PP -  / 11512 - WILLIAM PEREIRA DE SOUZA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 11512 - WILLIAM PEREIRA DE SOUZA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 11512 - WILLIAM PEREIRA DE SOUZA - RJ - Deputado Estadual;
+JORGE PICCIANI;12.176.626/0001-32;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 11512 - WILLIAM PEREIRA DE SOUZA - RJ - Deputado Estadual;
+NEW JUMP COMUNICAÇÃO VISUAL LTDA.;04.243.450/0001-66;22/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 893,00;Estimado; -  -  / 11512 - WILLIAM PEREIRA DE SOUZA - RJ - Deputado Estadual;

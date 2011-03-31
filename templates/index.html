@@ -1,0 +1,35 @@
+$def with (lista, url)
+<html>
+<head>
+<title>Checa.Url</title>
+</head>
+
+<body>
+
+<h1>Checa.Url</h1>
+
+<div class="box" style="width:400px;">O projeto Transparencia Neles eh uma iniciativa da Transparencia Hacker... blablablablabla
+<center>
+<form action="/" method="get">
+  <input type="text" name="url" value="coloque aqui a url da noticia..." size="30"/><input type="submit" value="Submit" />
+</form>
+</center>
+</div>
+
+
+<h3>Noticia consultada: <a href="$url">$url</a></h3>
+
+$for empresa in lista:
+	<div style="clear:both">
+	<h2>$empresa[0][0]</h2>
+	$code:
+		total = 0
+	$for doacao in empresa:
+		$code:			
+			valor = doacao[2].encode('utf-8').translate(None,'R$.,')	
+			total = int(valor) + total
+		<h3>Doou $doacao[2] para $doacao[3] do $doacao[5] em $doacao[4]</h3>
+	<span class="total">Total: $total</span>	
+	</div>
+	<hr>
+</body>

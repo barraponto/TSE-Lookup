@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Nacional;29.549.433/0001-82;23/09/2010;33000114252;R$ 37,50;Estimado;ANTONIO RICARDO CABRAL DE SOUZA;33123;Deputado Estadual;PMN;PE;
-Diretório Nacional;29.549.433/0001-82;23/09/2010;33000114251;R$ 500,00;Estimado;ANTONIO RICARDO CABRAL DE SOUZA;33123;Deputado Estadual;PMN;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Nacional;29.549.433/0001-82;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 37,50;Estimado;Direção Nacional - PMN -  / 33123 - ANTONIO RICARDO CABRAL DE SOUZA - PE - Deputado Estadual;
+Diretório Nacional;29.549.433/0001-82;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;Direção Nacional - PMN -  / 33123 - ANTONIO RICARDO CABRAL DE SOUZA - PE - Deputado Estadual;

@@ -1,3 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Governador;12.191.521/0001-52;01/10/2010;12001006536;R$ 19,72;Estimado;JOSÉ INACIO DA SILVA;12999;Deputado Estadual;PDT;AL;
-ELEIÇÃO 2010 RONALDO AUGUSTO LESSA  SANTOS GOVERNADOR;12.168.518/0001-18;19/08/2010;12001006535;R$ 5.000,00;Cheque;JOSÉ INACIO DA SILVA;12999;Deputado Estadual;PDT;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Governador;12.191.521/0001-52;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 19,72;Estimado;Comitê Financeiro Distrital/Estadual para Governador - PDT -  / 12999 - JOSÉ INACIO DA SILVA - AL - Deputado Estadual;
+GOMES E AMORIM LTDA EPP;09.654.270/0001-90;31/08/2010;       Publicidade por placas, estandartes e faixas;R$ 275,00;Cheque; -  -  / 12999 - JOSÉ INACIO DA SILVA - AL - Deputado Estadual;
+GOMES E AMORIM LTDA EPP;09.654.270/0001-90;25/08/2010;       Publicidade por materiais impressos;R$ 1.900,00;Cheque; -  -  / 12999 - JOSÉ INACIO DA SILVA - AL - Deputado Estadual;
+GOMES E AMORIM LTDA EPP;09.654.270/0001-90;25/08/2010;       Publicidade por placas, estandartes e faixas;R$ 1.000,00;Cheque; -  -  / 12999 - JOSÉ INACIO DA SILVA - AL - Deputado Estadual;
+POSTO VAVEL LTDA;02.496.680/0001-01;26/08/2010;       Combustíveis e lubrificantes;R$ 600,00;Cheque; -  -  / 12999 - JOSÉ INACIO DA SILVA - AL - Deputado Estadual;
+SIDCLAY COSTA PEREIRA - EPP;09.355.324/0001-17;25/08/2010;       Publicidade por placas, estandartes e faixas;R$ 1.200,00;Cheque; -  -  / 12999 - JOSÉ INACIO DA SILVA - AL - Deputado Estadual;

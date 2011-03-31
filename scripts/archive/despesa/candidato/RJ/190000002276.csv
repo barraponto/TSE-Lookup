@@ -1,2 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DILMA DA FONSECA;824.165.247-04;25/08/2010;70000151581;R$ 116,00;Depósito em espécie;DILMA DA FONSECA;70712;Deputado Estadual;PT do B;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA E EDITORA MAKINO LTDA;00.938.168/0001-42;21/07/2010;       Materiais de expediente;R$ 6,00;Cheque; -  -  / 70712 - DILMA DA FONSECA - RJ - Deputado Estadual;
+GRAFICA E EDITORA MAKINO LTDA;00.938.168/0001-42;03/08/2010;       Publicidade por materiais impressos;R$ 110,00;Cheque; -  -  / 70712 - DILMA DA FONSECA - RJ - Deputado Estadual;

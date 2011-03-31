@@ -1,2 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALMIR ANTONIO DE SOUSA;259.162.113-68;25/08/2010;45000202951;R$ 2.000,00;Depósito em espécie;ALMIR ANTONIO DE SOUSA;45001;Deputado Estadual;PSDB;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DEMETRIO DE LIMA PEREIRA;615.305.063-87;16/08/2010;       Serviços prestados por terceiros;R$ 600,00;Cheque; -  -  / 45001 - ALMIR ANTONIO DE SOUSA - CE - Deputado Estadual;
+GABRIEL ARCANJO DE SOUSA G NETO;849.413.407-87;16/08/2010;       Serviços prestados por terceiros;R$ 500,00;Cheque; -  -  / 45001 - ALMIR ANTONIO DE SOUSA - CE - Deputado Estadual;
+MANOEL ODESTO SILVA;090.695.693-53;16/08/2010;       Serviços prestados por terceiros;R$ 300,00;Cheque; -  -  / 45001 - ALMIR ANTONIO DE SOUSA - CE - Deputado Estadual;
+SAMARA TELES SILVA;567.547.793-49;16/08/2010;       Serviços prestados por terceiros;R$ 500,00;Cheque; -  -  / 45001 - ALMIR ANTONIO DE SOUSA - CE - Deputado Estadual;
+;;20/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 45001 - ALMIR ANTONIO DE SOUSA - CE - Deputado Estadual;
+;;20/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 45001 - ALMIR ANTONIO DE SOUSA - CE - Deputado Estadual;

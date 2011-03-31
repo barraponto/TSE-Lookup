@@ -1,5 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANDREA CRISTINA CORDOVIL DE ANDRADE;694.712.312-72;22/09/2010;50000293003;R$ 25,00;Depósito em espécie;ALBERTO FERREIRA DE ANDRADE JÚNIOR;5050;Deputado Federal;PSOL;PA;
-FERNANDO ANTONIO MARTINS CARNEIRO;12.198.699/0001-25;28/09/2010;50000293004;R$ 200,00;Estimado;ALBERTO FERREIRA DE ANDRADE JÚNIOR;5050;Deputado Federal;PSOL;PA;
-SANDRA MARIA AZEVDO DOS SANTOS;148.123.042-53;03/08/2010;50000293001;R$ 1.000,00;Depósito em espécie;ALBERTO FERREIRA DE ANDRADE JÚNIOR;5050;Deputado Federal;PSOL;PA;
-SANDRA MARIA AZEVDO DOS SANTOS;148.123.042-53;03/08/2010;50000293002;R$ 1.000,00;Depósito em espécie;ALBERTO FERREIRA DE ANDRADE JÚNIOR;5050;Deputado Federal;PSOL;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+FERNANDO ANTONIO MARTINS CARNEIRO;12.198.699/0001-25;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;50 -  - PSOL -  - Governador / 5050 - ALBERTO FERREIRA DE ANDRADE JÚNIOR - PA - Deputado Federal;
+GRAFICA E EDITORA BOOS LTDA;08.068.319/0001-60;13/09/2010;       Publicidade por placas, estandartes e faixas;R$ 515,25;Cheque; -  -  / 5050 - ALBERTO FERREIRA DE ANDRADE JÚNIOR - PA - Deputado Federal;
+GRAFICA E EDITORA BOOS LTDA;08.068.319/0001-60;03/08/2010;       Publicidade por materiais impressos;R$ 500,00;Não informado; -  -  / 5050 - ALBERTO FERREIRA DE ANDRADE JÚNIOR - PA - Deputado Federal;
+GRAFICA E EDITORA BOOS LTDA;08.068.319/0001-60;09/08/2010;       Publicidade por placas, estandartes e faixas;R$ 984,00;Cheque; -  -  / 5050 - ALBERTO FERREIRA DE ANDRADE JÚNIOR - PA - Deputado Federal;
+;;13/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 5050 - ALBERTO FERREIRA DE ANDRADE JÚNIOR - PA - Deputado Federal;
+;;13/09/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 5050 - ALBERTO FERREIRA DE ANDRADE JÚNIOR - PA - Deputado Federal;
+;;03/08/2010;       Encargos financeiros e taxas bancárias;R$ 3,00;Débito em conta; -  -  / 5050 - ALBERTO FERREIRA DE ANDRADE JÚNIOR - PA - Deputado Federal;

@@ -1,2 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-GENÉSIO CAMPOS NETO;659.597.446-00;17/09/2010;28000538401;R$ 2.000,00;Depósito em espécie;EDINICIO CAMPOS DA ROCHA;28333;Deputado Estadual;PRTB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EDITORA E PAPELARIA TRINDADE LTDA;07.780.689/0001-63;17/09/2010;       Materiais de expediente;R$ 1.200,00;Cheque; -  -  / 28333 - EDINICIO CAMPOS DA ROCHA - MG - Deputado Estadual;
+GRAFICA HOLLYWOOD LTDA;01.249.673/0001-42;17/09/2010;       Materiais de expediente;R$ 800,00;Cheque; -  -  / 28333 - EDINICIO CAMPOS DA ROCHA - MG - Deputado Estadual;

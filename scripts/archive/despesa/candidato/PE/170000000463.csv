@@ -1,6 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS VICENTE DE ARRUDA SILVA;214.902.954-53;15/07/2010;31000042264;R$ 20.000,00;Estimado;CARLOS VICENTE DE ARRUDA SILVA;31400;Deputado Estadual;PHS;PE;
-IRENE DANTAS DOS SANTOS;452.115.584-72;16/07/2010;31000042266;R$ 15.000,00;Estimado;CARLOS VICENTE DE ARRUDA SILVA;31400;Deputado Estadual;PHS;PE;
-JAIDE CESAR GUERRA BARBOSA;769.270.164-49;21/07/2010;31000042263;R$ 100,00;Depósito em espécie;CARLOS VICENTE DE ARRUDA SILVA;31400;Deputado Estadual;PHS;PE;
-JOSE ALEXANDRE MENDES;835.459.804-72;16/07/2010;31000042265;R$ 25.000,00;Estimado;CARLOS VICENTE DE ARRUDA SILVA;31400;Deputado Estadual;PHS;PE;
-M&G POLIMEROS BRASIL S.A;07.079.511/0001-90;30/07/2010;31000042262;R$ 40.000,00;Transferência eletrônica;CARLOS VICENTE DE ARRUDA SILVA;31400;Deputado Estadual;PHS;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARMAZEM CONSTRUÇÃO BARROS LTDA;01.612.054/0001-70;02/08/2010;       Diversas a especificar;R$ 11.020,00;Cheque; -  -  / 31400 - CARLOS VICENTE DE ARRUDA SILVA - PE - Deputado Estadual;
+BARBOSA & DUTRA COMBUSTIVEL LTDA;10.534.421/0001-56;02/08/2010;       Combustíveis e lubrificantes;R$ 12.000,78;Cheque; -  -  / 31400 - CARLOS VICENTE DE ARRUDA SILVA - PE - Deputado Estadual;
+CARLOS VICENTE DE ARRUDA SILVA;214.902.954-53;15/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 20.000,00;Estimado; -  -  / 31400 - CARLOS VICENTE DE ARRUDA SILVA - PE - Deputado Estadual;
+IRENE DANTAS DOS SANTOS;452.115.584-72;16/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 15.000,00;Estimado; -  -  / 31400 - CARLOS VICENTE DE ARRUDA SILVA - PE - Deputado Estadual;
+J.MARTINS DE ANDRADE NETO GRAFICA;06.293.548/0001-53;02/08/2010;       Publicidade por materiais impressos;R$ 16.800,00;Cheque; -  -  / 31400 - CARLOS VICENTE DE ARRUDA SILVA - PE - Deputado Estadual;
+JOSE ALEXANDRE MENDES;835.459.804-72;16/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 25.000,00;Estimado; -  -  / 31400 - CARLOS VICENTE DE ARRUDA SILVA - PE - Deputado Estadual;

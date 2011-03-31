@@ -1,8 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADRIANA CORRÊA CARNEIRO;814.774.572-91;30/09/2010;43001801434;R$ 1.530,00;Estimado;WALDELICE DA SILVA CARNEIRO;43456;Deputado Estadual;PV;AP;
-BENEDITO SILVA MELO;072.614.032-53;26/08/2010;43001801430;R$ 3.000,00;Estimado;WALDELICE DA SILVA CARNEIRO;43456;Deputado Estadual;PV;AP;
-Comitê Financeiro Único;12.205.285/0001-86;17/08/2010;43001801428;R$ 378,00;Estimado;WALDELICE DA SILVA CARNEIRO;43456;Deputado Estadual;PV;AP;
-Comitê Financeiro Único;12.205.285/0001-86;21/09/2010;43001801433;R$ 420,00;Estimado;WALDELICE DA SILVA CARNEIRO;43456;Deputado Estadual;PV;AP;
-WALDELICE DA SILVA CARNEIRO;160.751.962-34;05/08/2010;43001801427;R$ 100,00;Depósito em espécie;WALDELICE DA SILVA CARNEIRO;43456;Deputado Estadual;PV;AP;
-WALDELICE DA SILVA CARNEIRO;160.751.962-34;22/07/2010;43001801426;R$ 800,00;Depósito em espécie;WALDELICE DA SILVA CARNEIRO;43456;Deputado Estadual;PV;AP;
-WALDELICE DA SILVA CARNEIRO;160.751.962-34;15/09/2010;43001801431;R$ 408,00;Depósito em espécie;WALDELICE DA SILVA CARNEIRO;43456;Deputado Estadual;PV;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADRIANA CORRÊA CARNEIRO;814.774.572-91;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.530,00;Estimado; -  -  / 43456 - WALDELICE DA SILVA CARNEIRO - AP - Deputado Estadual;
+BENEDITO SILVA MELO;072.614.032-53;26/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.000,00;Estimado; -  -  / 43456 - WALDELICE DA SILVA CARNEIRO - AP - Deputado Estadual;
+Comitê Financeiro Único;12.205.285/0001-86;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 420,00;Estimado;Comitê Financeiro Único - PMDB -  / 43456 - WALDELICE DA SILVA CARNEIRO - AP - Deputado Estadual;
+Comitê Financeiro Único;12.205.285/0001-86;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 378,00;Estimado;Comitê Financeiro Único - PMDB -  / 43456 - WALDELICE DA SILVA CARNEIRO - AP - Deputado Estadual;
+E. C.  DE SOUZA - ME TALENTO IMPRESSÃO DIGITAL E OUTDOOR;04.357.973/0001-33;26/07/2010;       Publicidade por materiais impressos;R$ 282,90;Cheque; -  -  / 43456 - WALDELICE DA SILVA CARNEIRO - AP - Deputado Estadual;
+E. C.  DE SOUZA - ME TALENTO IMPRESSÃO DIGITAL E OUTDOOR;04.357.973/0001-33;21/07/2010;       Publicidade por materiais impressos;R$ 159,55;Cheque; -  -  / 43456 - WALDELICE DA SILVA CARNEIRO - AP - Deputado Estadual;
+E. C. DE SOUZA - ME TALENTO IMPRESSÃO DIGITAL E OUTDOOR;04.357.973/0001-33;30/07/2010;       Publicidade por materiais impressos;R$ 380,00;Cheque; -  -  / 43456 - WALDELICE DA SILVA CARNEIRO - AP - Deputado Estadual;
+E. C. DE SOUZA - ME TALENTO IMPRESSÃO DIGITAL E OUTDOOR;04.357.973/0001-33;15/09/2010;       Publicidade por materiais impressos;R$ 484,00;Cheque; -  -  / 43456 - WALDELICE DA SILVA CARNEIRO - AP - Deputado Estadual;
+;;04/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 43456 - WALDELICE DA SILVA CARNEIRO - AP - Deputado Estadual;

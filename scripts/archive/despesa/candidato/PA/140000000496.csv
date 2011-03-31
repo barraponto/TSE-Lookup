@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.249.219/0001-08;25/08/2010;22000063801;R$ 480,00;Estimado;JULIO SERGIO BRANCHES BRITO;22422;Deputado Estadual;PR;PA;
-LÚCIO VALE;12.175.288/0001-14;01/10/2010;22000063803;R$ 120,00;Estimado;JULIO SERGIO BRANCHES BRITO;22422;Deputado Estadual;PR;PA;
-LÚCIO VALE;12.175.288/0001-14;02/10/2010;22000063802;R$ 1.368,42;Estimado;JULIO SERGIO BRANCHES BRITO;22422;Deputado Estadual;PR;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.249.219/0001-08;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 480,00;Estimado;Comitê Financeiro Único - PR -  / 22422 - JULIO SERGIO BRANCHES BRITO - PA - Deputado Estadual;
+LÚCIO VALE;12.175.288/0001-14;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 120,00;Estimado;2222 -  - PR -  - Deputado Federal / 22422 - JULIO SERGIO BRANCHES BRITO - PA - Deputado Estadual;
+LÚCIO VALE;12.175.288/0001-14;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.368,42;Estimado;2222 -  - PR -  - Deputado Federal / 22422 - JULIO SERGIO BRANCHES BRITO - PA - Deputado Estadual;

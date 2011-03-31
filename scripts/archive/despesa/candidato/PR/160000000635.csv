@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-BERNARDO SEIXAS PILOTTO;12.169.388/0001-38;30/07/2010;50000389753;R$ 195,55;Estimado;JACKELINE LOURENÇO ARISTIDES;50150;Deputado Estadual;PSOL;PR;
-MB - INDUSTRIA E COMERCIO DE ETIQUETAS LTDA.;05.892.950/0001-91;14/09/2010;50000389931;R$ 150,00;Estimado;JACKELINE LOURENÇO ARISTIDES;50150;Deputado Estadual;PSOL;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BERNARDO SEIXAS PILOTTO;12.169.388/0001-38;30/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 195,55;Estimado;50500 -  - PSOL -  - Deputado Estadual / 50150 - JACKELINE LOURENÇO ARISTIDES - PR - Deputado Estadual;
+MB - INDUSTRIA E COMERCIO DE ETIQUETAS LTDA.;05.892.950/0001-91;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado; -  -  / 50150 - JACKELINE LOURENÇO ARISTIDES - PR - Deputado Estadual;

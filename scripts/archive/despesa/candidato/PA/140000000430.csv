@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALTAIR SALES COUTINHO;092.701.322-34;29/10/2010;25000606903;R$ 1.668,02;Depósito em espécie;ALTAIR SALES COUTINHO;25800;Deputado Estadual;DEM;PA;
-Comitê Financeiro Único;12.229.905/0001-17;30/09/2010;25000606902;R$ 1.000,00;Estimado;ALTAIR SALES COUTINHO;25800;Deputado Estadual;DEM;PA;
-Comitê Financeiro Único;12.229.905/0001-17;30/09/2010;25000606901;R$ 500,00;Estimado;ALTAIR SALES COUTINHO;25800;Deputado Estadual;DEM;PA;
-JOSÉ VINICIOS GOUVEIA COUTINHO;032.810.782-49;02/10/2010;25000606904;R$ 2.240,00;Estimado;ALTAIR SALES COUTINHO;25800;Deputado Estadual;DEM;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.229.905/0001-17;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;Comitê Financeiro Único - PSDB -  / 25800 - ALTAIR SALES COUTINHO - PA - Deputado Estadual;
+Comitê Financeiro Único;12.229.905/0001-17;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;Comitê Financeiro Único - PSDB -  / 25800 - ALTAIR SALES COUTINHO - PA - Deputado Estadual;
+JOSÉ VINICIOS GOUVEIA COUTINHO;032.810.782-49;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.240,00;Estimado; -  -  / 25800 - ALTAIR SALES COUTINHO - PA - Deputado Estadual;
+M DINORAH BATISTA DE MENEZES ME;09.362.051/0001-38;29/10/2010;       Publicidade por materiais impressos;R$ 500,02;Cheque; -  -  / 25800 - ALTAIR SALES COUTINHO - PA - Deputado Estadual;
+POSTO CARRETEIRO;07.366.080/0001-42;25/10/2010;       Combustíveis e lubrificantes;R$ 1.168,00;Cheque; -  -  / 25800 - ALTAIR SALES COUTINHO - PA - Deputado Estadual;

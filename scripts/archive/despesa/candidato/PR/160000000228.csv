@@ -1,3 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JURACI MARLENE DE MOURA SANTOS;623.571.079-87;01/09/2010;43001760002;R$ 130,00;Depósito em espécie;JURACI MARLENE DE MOURA SANTOS;4356;Deputado Federal;PV;PR;
-LUIZ CARLOS DE BONI;429.102.699-49;12/08/2010;43001760001;R$ 50,00;Depósito em espécie;JURACI MARLENE DE MOURA SANTOS;4356;Deputado Federal;PV;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CORSO COM DERIV DE PETROLEO LTDA;77.580.496/0001-44;20/09/2010;       Combustíveis e lubrificantes;R$ 10,00;Cheque; -  -  / 4356 - JURACI MARLENE DE MOURA SANTOS - PR - Deputado Federal;
+CORSO COM DERIV DE PETROLEO LTDA;77.580.496/0001-44;12/09/2010;       Combustíveis e lubrificantes;R$ 10,00;Cheque; -  -  / 4356 - JURACI MARLENE DE MOURA SANTOS - PR - Deputado Federal;
+CORSO COM DERIV DE PETROLEO LTDA;77.580.496/0001-44;02/10/2010;       Combustíveis e lubrificantes;R$ 10,00;Cheque; -  -  / 4356 - JURACI MARLENE DE MOURA SANTOS - PR - Deputado Federal;
+GRAFICA IGUAÇU;75.114.363/0001-57;31/08/2010;       Publicidade por materiais impressos;R$ 130,00;Cheque; -  -  / 4356 - JURACI MARLENE DE MOURA SANTOS - PR - Deputado Federal;
+ITHIBAN COMERCIO DE COMBUSTÍVEIS LTDA;07.570.466/0001-71;18/08/2010;       Combustíveis e lubrificantes;R$ 20,00;Cheque; -  -  / 4356 - JURACI MARLENE DE MOURA SANTOS - PR - Deputado Federal;

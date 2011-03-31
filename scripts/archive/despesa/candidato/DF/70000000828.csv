@@ -1,3 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANDRÉ RODOLFO DE LIMA;12.172.196/0001-80;22/09/2010;43061790102;R$ 1.000,00;Transferência eletrônica;CARLOS EDUARDO PEIXOTO GUIMARÃES;43061;Deputado Distrital;PV;DF;
-CARLOS EDUARDO PEIXOTO GUIMARÃES;859.610.351-15;22/07/2010;43061790101;R$ 3.000,00;Depósito em espécie;CARLOS EDUARDO PEIXOTO GUIMARÃES;43061;Deputado Distrital;PV;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BUREAU EXPRESS COMUNICAÇÃO VISUAL LTDA;09.186.489/0001-02;27/09/2010;       Publicidade por materiais impressos;R$ 1.670,00;Cheque; -  -  / 43061 - CARLOS EDUARDO PEIXOTO GUIMARÃES - DF - Deputado Distrital;
+GRÁFICA E EDITORA LOGOMARCA LTDA EPP;08.497.022/0001-10;27/08/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 43061 - CARLOS EDUARDO PEIXOTO GUIMARÃES - DF - Deputado Distrital;
+GRÁFICA E EDITORA LOGOMARCA LTDA EPP;08.497.022/0001-10;17/09/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 43061 - CARLOS EDUARDO PEIXOTO GUIMARÃES - DF - Deputado Distrital;
+SANDRO RODRIGUES CARNEIRO CONFECÇÕES GRÁFICAS ME;11.990.752/0001-63;23/07/2010;       Publicidade por materiais impressos;R$ 1.230,00;Cheque; -  -  / 43061 - CARLOS EDUARDO PEIXOTO GUIMARÃES - DF - Deputado Distrital;

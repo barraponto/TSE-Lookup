@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ENEIAS ANTONIO DA SILVA;12.178.656/0001-88;13/08/2010;50000232251;R$ 300,00;Estimado;FIDELIS ALDO DE MORAES;5007;Deputado Federal;PSOL;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ENEIAS ANTONIO DA SILVA;12.178.656/0001-88;13/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;70707 -  - PT do B -  - Deputado Estadual / 5007 - FIDELIS ALDO DE MORAES - MG - Deputado Federal;

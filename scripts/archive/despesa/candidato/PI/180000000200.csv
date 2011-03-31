@@ -1,8 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.218/0001-61;19/07/2010;43001804426;R$ 10,00;Estimado;JOSAFA PEREIRA DE MIRANDA;43111;Deputado Estadual;PV;PI;
-Comitê Financeiro Único;12.205.218/0001-61;22/09/2010;43001804431;R$ 600,00;Cheque;JOSAFA PEREIRA DE MIRANDA;43111;Deputado Estadual;PV;PI;
-JOSAFÁ PEREIRA DE MIRANDA;013.856.098-69;20/08/2010;43001804427;R$ 500,00;Depósito em espécie;JOSAFA PEREIRA DE MIRANDA;43111;Deputado Estadual;PV;PI;
-RAIMUNDO NONATO RODRIGUES FILHO;284.027.838-30;02/10/2010;43001804432;R$ 50,00;Transferência eletrônica;JOSAFA PEREIRA DE MIRANDA;43111;Deputado Estadual;PV;PI;
-TERESA DOS SANTOS SOUSA BRITTO;12.172.795/0001-02;20/09/2010;43001804428;R$ 400,00;Estimado;JOSAFA PEREIRA DE MIRANDA;43111;Deputado Estadual;PV;PI;
-TERESA DOS SANTOS SOUSA BRITTO;12.172.795/0001-02;16/09/2010;43001804429;R$ 2.000,00;Estimado;JOSAFA PEREIRA DE MIRANDA;43111;Deputado Estadual;PV;PI;
-TERESA DOS SANTOS SOUSA BRITTO;12.172.795/0001-02;05/08/2010;43001804430;R$ 200,00;Estimado;JOSAFA PEREIRA DE MIRANDA;43111;Deputado Estadual;PV;PI;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.218/0001-61;19/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 10,00;Estimado;Comitê Financeiro Único - PV -  / 43111 - JOSAFA PEREIRA DE MIRANDA - PI - Deputado Estadual;
+NOVA EXPANSÃO GRÁFICA E EDITORA LTDA;07.649.469/0001-03;30/09/2010;       Publicidade por materiais impressos;R$ 650,00;Cheque; -  -  / 43111 - JOSAFA PEREIRA DE MIRANDA - PI - Deputado Estadual;
+R N DA ROCHA JUNIOR INDUSTRIA CONFECÇÃO;11.371.219/0001-13;18/08/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 43111 - JOSAFA PEREIRA DE MIRANDA - PI - Deputado Estadual;
+TERESA DOS SANTOS SOUSA BRITTO;12.172.795/0001-02;16/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado;43 -  - PV -  - Governador / 43111 - JOSAFA PEREIRA DE MIRANDA - PI - Deputado Estadual;
+TERESA DOS SANTOS SOUSA BRITTO;12.172.795/0001-02;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;43 -  - PV -  - Governador / 43111 - JOSAFA PEREIRA DE MIRANDA - PI - Deputado Estadual;
+TERESA DOS SANTOS SOUSA BRITTO;12.172.795/0001-02;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado;43 -  - PV -  - Governador / 43111 - JOSAFA PEREIRA DE MIRANDA - PI - Deputado Estadual;

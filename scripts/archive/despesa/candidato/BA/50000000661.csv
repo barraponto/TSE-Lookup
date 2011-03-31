@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LUIZ CARLOS RIBEIRO DOS SANTOS FILHO;123.109.995-04;31/08/2010;50000085861;R$ 500,00;Depósito em espécie;LUIS CARLOS RIBEIRO DOS SANTOS FILHO;50555;Deputado Estadual;PSOL;BA;
-SUPERGRAF GRAFICA COMERCIO E SERVIÇOS;06.006.137/0001-30;14/09/2010;50000085862;R$ 2.300,00;Estimado;LUIS CARLOS RIBEIRO DOS SANTOS FILHO;50555;Deputado Estadual;PSOL;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+SUPERGRAF GRAFICA COMERCIO E SERVIÇOS;06.006.137/0001-30;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.300,00;Estimado; -  -  / 50555 - LUIS CARLOS RIBEIRO DOS SANTOS FILHO - BA - Deputado Estadual;
+SUPERGRAF GRAFICA COMERCIO E SERVIÇOS;06.006.137/0001-30;14/09/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 50555 - LUIS CARLOS RIBEIRO DOS SANTOS FILHO - BA - Deputado Estadual;

@@ -1,4 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO BENEDITO DA SILVEIRA;116.384.351-20;17/09/2010;43001798815;R$ 300,00;Depósito em espécie;ANTONIO BENEDITO DA SILVEIRA;4311;Deputado Federal;PV;GO;
-DEBORAH LEGINIA R. DE MIRANDA;920.282.681-15;02/08/2010;43001798816;R$ 2.000,00;Estimado;ANTONIO BENEDITO DA SILVEIRA;4311;Deputado Federal;PV;GO;
-VANDERLAN VIEIRA CARDOSO;12.198.568/0001-48;20/08/2010;43001798811;R$ 1.000,00;Estimado;ANTONIO BENEDITO DA SILVEIRA;4311;Deputado Federal;PV;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO SAIA VELHA LTDA;03.747.750/0001-10;02/10/2010;       Combustíveis e lubrificantes;R$ 127,00;Cheque; -  -  / 4311 - ANTONIO BENEDITO DA SILVEIRA - GO - Deputado Federal;
+AUTO POSTO SAIA VELHA LTDA;03.747.750/0001-10;02/10/2010;       Combustíveis e lubrificantes;R$ 60,00;Cheque; -  -  / 4311 - ANTONIO BENEDITO DA SILVEIRA - GO - Deputado Federal;
+DEBORAH LEGINIA R. DE MIRANDA;920.282.681-15;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado; -  -  / 4311 - ANTONIO BENEDITO DA SILVEIRA - GO - Deputado Federal;
+DOM BOSCO AUTO POSTO LTDA;24.839.060/0001-60;29/09/2010;       Combustíveis e lubrificantes;R$ 110,19;Cheque; -  -  / 4311 - ANTONIO BENEDITO DA SILVEIRA - GO - Deputado Federal;
+VANDERLAN VIEIRA CARDOSO;12.198.568/0001-48;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;22 -  - PR -  - Governador / 4311 - ANTONIO BENEDITO DA SILVEIRA - GO - Deputado Federal;

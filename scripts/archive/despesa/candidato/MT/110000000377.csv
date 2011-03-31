@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.927/0001-54;03/08/2010;33000092801;R$ 237,50;Estimado;JOSÉ FRANCISCO DA SILVA FILHO;33456;Deputado Estadual;PMN;MT;
-Diretório Nacional;29.549.433/0001-82;04/09/2010;33000092804;R$ 250,00;Estimado;JOSÉ FRANCISCO DA SILVA FILHO;33456;Deputado Estadual;PMN;MT;
-ELEIÇÕES 2010 - ANTERO PAES DE BARROS NETO;12.189.840/0001-23;04/09/2010;33000092803;R$ 500,00;Estimado;JOSÉ FRANCISCO DA SILVA FILHO;33456;Deputado Estadual;PMN;MT;
-NILSON APARECIDO LEITÃO;12.199.151/0001-08;24/08/2010;33000092802;R$ 1.000,00;Cheque;JOSÉ FRANCISCO DA SILVA FILHO;33456;Deputado Estadual;PMN;MT;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.927/0001-54;03/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 237,50;Estimado;Comitê Financeiro Único - PMN -  / 33456 - JOSÉ FRANCISCO DA SILVA FILHO - MT - Deputado Estadual;
+Diretório Nacional;29.549.433/0001-82;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;Direção Nacional - PMN -  / 33456 - JOSÉ FRANCISCO DA SILVA FILHO - MT - Deputado Estadual;
+ELEIÇÕES 2010 - ANTERO PAES DE BARROS NETO;12.189.840/0001-23;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 33456 - JOSÉ FRANCISCO DA SILVA FILHO - MT - Deputado Estadual;
+P. E. FERREIRA;06.240.779/0001-07;20/09/2010;       Combustíveis e lubrificantes;R$ 997,10;Não informado; -  -  / 33456 - JOSÉ FRANCISCO DA SILVA FILHO - MT - Deputado Estadual;
+;;26/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 33456 - JOSÉ FRANCISCO DA SILVA FILHO - MT - Deputado Estadual;

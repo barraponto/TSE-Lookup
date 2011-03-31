@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-AURESIR  ROCHA  LIMA;688.885.897-91;30/09/2010;44000031006;R$ 2.000,00;Estimado;JOSE CARLOS CHERMOUT;4400;Deputado Federal;PRP;RJ;
-AUTO POSTO JAPOR DE CANTAGALO LTDA;29.235.744/0001-77;30/09/2010;44000031005;R$ 1.800,00;Estimado;JOSE CARLOS CHERMOUT;4400;Deputado Federal;PRP;RJ;
-FABIANO  ROSA  BAPTISTA;096.786.557-30;01/09/2010;44000031003;R$ 500,00;Estimado;JOSE CARLOS CHERMOUT;4400;Deputado Federal;PRP;RJ;
-GALO GRÁFICA LTDA.;27.712.603/0001-72;30/08/2010;44000031002;R$ 1.379,00;Estimado;JOSE CARLOS CHERMOUT;4400;Deputado Federal;PRP;RJ;
-ROGER BAPTISTA;963.126.617-68;01/09/2010;44000031004;R$ 250,00;Estimado;JOSE CARLOS CHERMOUT;4400;Deputado Federal;PRP;RJ;
-VALTER DOS SANTOS;778.910.826-34;06/08/2010;44000031001;R$ 578,00;Estimado;JOSE CARLOS CHERMOUT;4400;Deputado Federal;PRP;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AURESIR  ROCHA  LIMA;688.885.897-91;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado; -  -  / 4400 - JOSE CARLOS CHERMOUT - RJ - Deputado Federal;
+AUTO POSTO JAPOR DE CANTAGALO LTDA;29.235.744/0001-77;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.800,00;Estimado; -  -  / 4400 - JOSE CARLOS CHERMOUT - RJ - Deputado Federal;
+FABIANO  ROSA  BAPTISTA;096.786.557-30;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 4400 - JOSE CARLOS CHERMOUT - RJ - Deputado Federal;
+GALO GRÁFICA LTDA.;27.712.603/0001-72;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.379,00;Estimado; -  -  / 4400 - JOSE CARLOS CHERMOUT - RJ - Deputado Federal;
+ROGER BAPTISTA;963.126.617-68;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado; -  -  / 4400 - JOSE CARLOS CHERMOUT - RJ - Deputado Federal;
+VALTER DOS SANTOS;778.910.826-34;06/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 578,00;Estimado; -  -  / 4400 - JOSE CARLOS CHERMOUT - RJ - Deputado Federal;

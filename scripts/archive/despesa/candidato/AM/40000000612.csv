@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;04.160.131/0001-97;30/09/2010;28000790403;R$ 200,00;Estimado;ELIELTON DE CASTRO ROFE DO NASCIMENTO;28123;Deputado Estadual;PRTB;AM;
-Diretório Estadual/Distrital;04.160.131/0001-97;10/09/2010;28000790402;R$ 300,00;Estimado;ELIELTON DE CASTRO ROFE DO NASCIMENTO;28123;Deputado Estadual;PRTB;AM;
-Diretório Estadual/Distrital;04.160.131/0001-97;23/09/2010;28000790401;R$ 363,00;Cheque;ELIELTON DE CASTRO ROFE DO NASCIMENTO;28123;Deputado Estadual;PRTB;AM;
-ELEICAO2010 VANESSA GRAZZIOTIN;12.172.394/0001-44;02/10/2010;28000790404;R$ 180,00;Estimado;ELIELTON DE CASTRO ROFE DO NASCIMENTO;28123;Deputado Estadual;PRTB;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;04.160.131/0001-97;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Direção Estadual/Distrital - PMDB -  / 28123 - ELIELTON DE CASTRO ROFE DO NASCIMENTO - AM - Deputado Estadual;
+Diretório Estadual/Distrital;04.160.131/0001-97;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;Direção Estadual/Distrital - PMDB -  / 28123 - ELIELTON DE CASTRO ROFE DO NASCIMENTO - AM - Deputado Estadual;
+ELEICAO2010 VANESSA GRAZZIOTIN;12.172.394/0001-44;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 180,00;Estimado;656 -  - PC do B -  - Senador / 28123 - ELIELTON DE CASTRO ROFE DO NASCIMENTO - AM - Deputado Estadual;
+GRAFISA E EDITORA LTDA;03.633.502/0001-48;27/09/2010;       Publicidade por materiais impressos;R$ 363,00;Cheque; -  -  / 28123 - ELIELTON DE CASTRO ROFE DO NASCIMENTO - AM - Deputado Estadual;

@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 CESAR EPITACIO MAIA;12.176.116/0001-65;20/07/2010;25000168277;R$ 313,50;Estimado;MARIA LUISA BATISTA VIDAL;25015;Deputado Estadual;DEM;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 CESAR EPITACIO MAIA;12.176.116/0001-65;20/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 313,50;Estimado;251 -  - DEM -  - Senador / 25015 - MARIA LUISA BATISTA VIDAL - RJ - Deputado Estadual;

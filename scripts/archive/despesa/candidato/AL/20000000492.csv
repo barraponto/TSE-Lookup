@@ -1,4 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Governador;12.191.521/0001-52;01/10/2010;44000051243;R$ 788,81;Estimado;VALDEVINO MOREIRA GOMES FILHO;44555;Deputado Estadual;PRP;AL;
-VALDEVINO MOREIRA GOMES FILHO;105.330.105-78;17/08/2010;44000051241;R$ 100,00;Depósito em espécie;VALDEVINO MOREIRA GOMES FILHO;44555;Deputado Estadual;PRP;AL;
-VALDEVINO MOREIRA GOMES FILHO;105.330.105-78;13/09/2010;44000051242;R$ 150,00;Depósito em espécie;VALDEVINO MOREIRA GOMES FILHO;44555;Deputado Estadual;PRP;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Governador;12.191.521/0001-52;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 788,81;Estimado;Comitê Financeiro Distrital/Estadual para Governador - PDT -  / 44555 - VALDEVINO MOREIRA GOMES FILHO - AL - Deputado Estadual;
+JORDEVAL SOARE DE MORAIS;648.513.464-68;01/09/2010;       Serviços prestados por terceiros;R$ 70,00;Cheque; -  -  / 44555 - VALDEVINO MOREIRA GOMES FILHO - AL - Deputado Estadual;
+VANDECHOK DE SANTOS LIMA JUNIOR;049.703.874-94;10/09/2010;       Produção de jingles, vinhetas e slogans;R$ 150,00;Cheque; -  -  / 44555 - VALDEVINO MOREIRA GOMES FILHO - AL - Deputado Estadual;
+WALFREDO AUGUSTO DO NASCIMENTO FILHO;036.395.344-25;17/09/2010;       Serviços prestados por terceiros;R$ 25,00;Cheque; -  -  / 44555 - VALDEVINO MOREIRA GOMES FILHO - AL - Deputado Estadual;

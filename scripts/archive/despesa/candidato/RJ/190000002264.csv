@@ -1,4 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS ALBERTINO BARBOZA;878.583.397-53;06/09/2010;70000152302;R$ 304,00;Depósito em espécie;ANDRE DOS SANTOS DE SANTANA;70303;Deputado Estadual;PT do B;RJ;
-CÉLIO SILVA;491.867.017-20;23/08/2010;70000152301;R$ 500,00;Depósito em espécie;ANDRE DOS SANTOS DE SANTANA;70303;Deputado Estadual;PT do B;RJ;
-EDUARDO PEREIRA MACHADO;082.816.017-10;04/09/2010;70000152304;R$ 300,00;Estimado;ANDRE DOS SANTOS DE SANTANA;70303;Deputado Estadual;PT do B;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EDUARDO PEREIRA MACHADO;082.816.017-10;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 70303 - ANDRE DOS SANTOS DE SANTANA - RJ - Deputado Estadual;
+RIBEDCOMÉRCIO E SEVIÇOS LTDA;31.079.593/0001-57;13/08/2010;       Bens permanentes;R$ 100,00;Cheque; -  -  / 70303 - ANDRE DOS SANTOS DE SANTANA - RJ - Deputado Estadual;
+STUDIO GRÁFICO GOOL DE PLACA LTDA;04.267.598/0001-30;24/08/2010;       Bens permanentes;R$ 350,00;Cheque; -  -  / 70303 - ANDRE DOS SANTOS DE SANTANA - RJ - Deputado Estadual;
+STUDIO GRÁFICO GOOL DE PLACA LTDA;04.267.598/0001-30;08/09/2010;       Bens permanentes;R$ 350,00;Cheque; -  -  / 70303 - ANDRE DOS SANTOS DE SANTANA - RJ - Deputado Estadual;

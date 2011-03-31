@@ -1,3 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-OJACIO PEDRO DA COSTA;951.638.088-34;18/08/2010;25000114202;R$ 3.316,00;Outros títulos de crédito;NAIR MARIA DA COSTA;25025;Deputado Estadual;DEM;BA;
-THV TRANSPORTES LTDA;56.764.822/0001-01;18/08/2010;25000114201;R$ 2.000,00;Cheque;NAIR MARIA DA COSTA;25025;Deputado Estadual;DEM;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTARES SIGN;11.851.968/0001-48;25/08/2010;       Publicidade por materiais impressos;R$ 950,00;Não informado; -  -  / 25025 - NAIR MARIA DA COSTA - BA - Deputado Estadual;
+ELGRAF SERVIÇOS GRAFICOS LTDA;08.953.873/0001-20;25/08/2010;       Publicidade por materiais impressos;R$ 845,00;Não informado; -  -  / 25025 - NAIR MARIA DA COSTA - BA - Deputado Estadual;
+ELGRAF SERVIÇOS GRAFICOS LTDA;08.953.873/0001-20;15/09/2010;       Publicidade por materiais impressos;R$ 130,00;Não informado; -  -  / 25025 - NAIR MARIA DA COSTA - BA - Deputado Estadual;
+ELGRAF SERVIÇOS GRAFICOS LTDA;08.953.873/0001-20;14/09/2010;       Publicidade por materiais impressos;R$ 1.600,00;Não informado; -  -  / 25025 - NAIR MARIA DA COSTA - BA - Deputado Estadual;
+NOVA ERA DIGITAL;04.967.379/0001-64;09/09/2010;       Publicidade por materiais impressos;R$ 351,00;Não informado; -  -  / 25025 - NAIR MARIA DA COSTA - BA - Deputado Estadual;
+S&S CARTÕES GRAFICA E EDITORA LTDA - ME;07.526.632/0001-32;28/07/2010;       Publicidade por materiais impressos;R$ 1.440,00;Não informado; -  -  / 25025 - NAIR MARIA DA COSTA - BA - Deputado Estadual;

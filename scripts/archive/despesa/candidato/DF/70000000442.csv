@@ -1,7 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.217.556/0001-13;09/08/2010;70000134457;R$ 360,00;Estimado;PETRÔNIO DA SILVA LOPES;70707;Deputado Distrital;PT do B;DF;
-Comitê Financeiro Único;12.217.556/0001-13;16/08/2010;70000134458;R$ 360,00;Estimado;PETRÔNIO DA SILVA LOPES;70707;Deputado Distrital;PT do B;DF;
-ELEIÇÃO 2010 PETRONIO DA SILVA LOPES DEPUTADO DISTRITAL;134.073.413-34;05/08/2010;70000134456;R$ 600,00;Depósito em espécie;PETRÔNIO DA SILVA LOPES;70707;Deputado Distrital;PT do B;DF;
-ELEIÇÃO 2010 PETRONIO DA SILVA LOPES DEPUTADO DISTRITAL;134.073.413-34;17/07/2010;70000134453;R$ 1.500,00;Estimado;PETRÔNIO DA SILVA LOPES;70707;Deputado Distrital;PT do B;DF;
-ELEIÇÃO 2010 PETRONIO DA SILVA LOPES DEPUTADO DISTRITAL;134.073.413-34;30/07/2010;70000134455;R$ 600,00;Depósito em espécie;PETRÔNIO DA SILVA LOPES;70707;Deputado Distrital;PT do B;DF;
-MARIA LUISA ABADIO LOPES;379.587.201-49;17/07/2010;70000134454;R$ 1.500,00;Estimado;PETRÔNIO DA SILVA LOPES;70707;Deputado Distrital;PT do B;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.217.556/0001-13;16/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Único - PT do B -  / 70707 - PETRÔNIO DA SILVA LOPES - DF - Deputado Distrital;
+Comitê Financeiro Único;12.217.556/0001-13;09/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Único - PT do B -  / 70707 - PETRÔNIO DA SILVA LOPES - DF - Deputado Distrital;
+ELEIÇÃO 2010 PETRONIO DA SILVA LOPES DEPUTADO DISTRITAL;134.073.413-34;17/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado; -  -  / 70707 - PETRÔNIO DA SILVA LOPES - DF - Deputado Distrital;
+GASOLINE;00.000.000/0000-00;29/09/2010;       Combustíveis e lubrificantes;R$ 68,55;Cheque; -  -  / 70707 - PETRÔNIO DA SILVA LOPES - DF - Deputado Distrital;
+K&F GRAFICA LTDA ME;05.324.189/0001-91;06/08/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 70707 - PETRÔNIO DA SILVA LOPES - DF - Deputado Distrital;
+MARIA LUISA ABADIO LOPES;379.587.201-49;17/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado; -  -  / 70707 - PETRÔNIO DA SILVA LOPES - DF - Deputado Distrital;
+WENDELL DE S OLIVEIRA CONTABILIDADE E COBRANÇA;08.912.497/0001-26;30/07/2010;       Serviços prestados por terceiros;R$ 531,45;Cheque; -  -  / 70707 - PETRÔNIO DA SILVA LOPES - DF - Deputado Distrital;

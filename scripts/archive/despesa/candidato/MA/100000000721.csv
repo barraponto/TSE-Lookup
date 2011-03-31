@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-COMUNIGRAF - COMUNICAÇÃO VISUAL E SERVIÇOS GRAFICOS;06.023.553/0001-46;06/09/2010;23000119754;R$ 50,00;Estimado;WILSON SILVA DOS SANTOS SARMENTO;23777;Deputado Estadual;PPS;MA;
-FLAVIO DINO DE COSTA E COSTA;12.176.183/0001-80;06/09/2010;23000119753;R$ 860,74;Estimado;WILSON SILVA DOS SANTOS SARMENTO;23777;Deputado Estadual;PPS;MA;
-JOSE RICARDO FERNANDES ROSA;375.380.043-00;06/09/2010;23000119755;R$ 60,00;Estimado;WILSON SILVA DOS SANTOS SARMENTO;23777;Deputado Estadual;PPS;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+COMUNIGRAF - COMUNICAÇÃO VISUAL E SERVIÇOS GRAFICOS;06.023.553/0001-46;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 50,00;Estimado; -  -  / 23777 - WILSON SILVA DOS SANTOS SARMENTO - MA - Deputado Estadual;
+FLAVIO DINO DE COSTA E COSTA;12.176.183/0001-80;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 860,74;Estimado;23 -  - PPS -  - Governador / 23777 - WILSON SILVA DOS SANTOS SARMENTO - MA - Deputado Estadual;
+JOSE RICARDO FERNANDES ROSA;375.380.043-00;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 60,00;Estimado; -  -  / 23777 - WILSON SILVA DOS SANTOS SARMENTO - MA - Deputado Estadual;

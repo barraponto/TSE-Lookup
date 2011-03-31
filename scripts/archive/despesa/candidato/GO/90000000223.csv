@@ -1,6 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 FLAVIA CARREIRO ALBUQUERQUE MORAIS DEPUTADO FEDERAL;12.178.206/0001-95;02/10/2010;44000004106;R$ 870,00;Estimado;ANDRE LUIS DA SILVA ROCHA;44110;Deputado Estadual;PRP;GO;
-ELEIÇÃO 2010 VANDERLAN VIEIRA CARDOSO GOVERNADOR;12.198.568/0001-48;27/09/2010;44000004104;R$ 378,00;Estimado;ANDRE LUIS DA SILVA ROCHA;44110;Deputado Estadual;PRP;GO;
-SANDRO ANTONIO SCODRO;12.167.331/0001-08;02/09/2010;44000004102;R$ 74,00;Estimado;ANDRE LUIS DA SILVA ROCHA;44110;Deputado Estadual;PRP;GO;
-VANDERLAN VIEIRA CARDOSO;12.198.568/0001-48;04/10/2010;44000004105;R$ 3.000,00;Transferência eletrônica;ANDRE LUIS DA SILVA ROCHA;44110;Deputado Estadual;PRP;GO;
-VANDERLAN VIEIRA CARDOSO;12.198.568/0001-48;10/08/2010;44000004103;R$ 500,00;Estimado;ANDRE LUIS DA SILVA ROCHA;44110;Deputado Estadual;PRP;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 FLAVIA CARREIRO ALBUQUERQUE MORAIS DEPUTADO FEDERAL;12.178.206/0001-95;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 870,00;Estimado;1212 -  - PDT -  - Deputado Federal / 44110 - ANDRE LUIS DA SILVA ROCHA - GO - Deputado Estadual;
+ELEIÇÃO 2010 VANDERLAN VIEIRA CARDOSO GOVERNADOR;12.198.568/0001-48;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 378,00;Estimado;22 -  - PR -  - Governador / 44110 - ANDRE LUIS DA SILVA ROCHA - GO - Deputado Estadual;
+FERNANDO LEMES ROCHA;382.302.911-87;04/10/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / 44110 - ANDRE LUIS DA SILVA ROCHA - GO - Deputado Estadual;
+FERNANDO LEMES ROCHA;382.302.911-87;04/10/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / 44110 - ANDRE LUIS DA SILVA ROCHA - GO - Deputado Estadual;
+JESUS NAZARENO DE CERQUEIRA SALES;166.969.131-49;02/10/2010;       Serviços prestados por terceiros;R$ 1.000,00;Cheque; -  -  / 44110 - ANDRE LUIS DA SILVA ROCHA - GO - Deputado Estadual;
+SANDRO ANTONIO SCODRO;12.167.331/0001-08;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 74,00;Estimado;2233 -  - PR -  - Deputado Federal / 44110 - ANDRE LUIS DA SILVA ROCHA - GO - Deputado Estadual;
+VANDERLAN VIEIRA CARDOSO;12.198.568/0001-48;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;22 -  - PR -  - Governador / 44110 - ANDRE LUIS DA SILVA ROCHA - GO - Deputado Estadual;
+WESLEY SANTANA TOLENTINO;283.694.591-53;04/10/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / 44110 - ANDRE LUIS DA SILVA ROCHA - GO - Deputado Estadual;
+WESLEY SANTANA TOLENTINO;283.694.591-53;04/10/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / 44110 - ANDRE LUIS DA SILVA ROCHA - GO - Deputado Estadual;

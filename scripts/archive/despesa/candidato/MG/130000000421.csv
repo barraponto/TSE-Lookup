@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Deputado Federal;12.191.554/0001-00;05/09/2010;33000028318;R$ 27,96;Estimado;CARLOS ALBERTO MANGABINHA RIBEIRO;3316;Deputado Federal;PMN;MG;
-Comitê Financeiro Estadual/Distrital para Deputado Federal;12.191.554/0001-00;05/09/2010;33000028319;R$ 1.197,84;Estimado;CARLOS ALBERTO MANGABINHA RIBEIRO;3316;Deputado Federal;PMN;MG;
-Comitê Financeiro Estadual/Distrital para Deputado Federal;12.191.554/0001-00;05/09/2010;33000028320;R$ 508,00;Estimado;CARLOS ALBERTO MANGABINHA RIBEIRO;3316;Deputado Federal;PMN;MG;
-Comitê Financeiro Único;12.191.496/0001-07;05/09/2010;33000028321;R$ 678,00;Estimado;CARLOS ALBERTO MANGABINHA RIBEIRO;3316;Deputado Federal;PMN;MG;
-Comitê Financeiro Único;12.191.496/0001-07;05/09/2010;33000028322;R$ 339,00;Estimado;CARLOS ALBERTO MANGABINHA RIBEIRO;3316;Deputado Federal;PMN;MG;
-Comitê Financeiro Único;12.191.496/0001-07;05/09/2010;33000028323;R$ 339,00;Estimado;CARLOS ALBERTO MANGABINHA RIBEIRO;3316;Deputado Federal;PMN;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Deputado Federal;12.191.554/0001-00;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 27,96;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Federal - PMN -  / 3316 - CARLOS ALBERTO MANGABINHA RIBEIRO - MG - Deputado Federal;
+Comitê Financeiro Estadual/Distrital para Deputado Federal;12.191.554/0001-00;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.197,84;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Federal - PMN -  / 3316 - CARLOS ALBERTO MANGABINHA RIBEIRO - MG - Deputado Federal;
+Comitê Financeiro Estadual/Distrital para Deputado Federal;12.191.554/0001-00;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 508,00;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Federal - PMN -  / 3316 - CARLOS ALBERTO MANGABINHA RIBEIRO - MG - Deputado Federal;
+Comitê Financeiro Único;12.191.496/0001-07;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 339,00;Estimado;Comitê Financeiro Único - PMN -  / 3316 - CARLOS ALBERTO MANGABINHA RIBEIRO - MG - Deputado Federal;
+Comitê Financeiro Único;12.191.496/0001-07;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 678,00;Estimado;Comitê Financeiro Único - PMN -  / 3316 - CARLOS ALBERTO MANGABINHA RIBEIRO - MG - Deputado Federal;
+Comitê Financeiro Único;12.191.496/0001-07;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 339,00;Estimado;Comitê Financeiro Único - PMN -  / 3316 - CARLOS ALBERTO MANGABINHA RIBEIRO - MG - Deputado Federal;

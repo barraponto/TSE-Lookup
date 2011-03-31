@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;28000183028;R$ 300,00;Estimado;WAGNER ATTINA XAVIER;2863;Deputado Federal;PRTB;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;28000183027;R$ 150,00;Estimado;WAGNER ATTINA XAVIER;2863;Deputado Federal;PRTB;RJ;
-Diretório Nacional;12.191.469/0001-34;30/09/2010;28000183026;R$ 273,00;Estimado;WAGNER ATTINA XAVIER;2863;Deputado Federal;PRTB;RJ;
-JORGE SAYED PICCIANE;12.176.626/0001-32;01/10/2010;28000183029;R$ 17,00;Estimado;WAGNER ATTINA XAVIER;2863;Deputado Federal;PRTB;RJ;
-WAGNER ATTINA XAVIER;774.523.307-06;25/08/2010;28000183030;R$ 470,00;Estimado;WAGNER ATTINA XAVIER;2863;Deputado Federal;PRTB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 2863 - WAGNER ATTINA XAVIER - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 2863 - WAGNER ATTINA XAVIER - RJ - Deputado Federal;
+Diretório Nacional;12.191.469/0001-34;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 273,00;Estimado;Direção Nacional - PRTB -  / 2863 - WAGNER ATTINA XAVIER - RJ - Deputado Federal;
+JORGE SAYED PICCIANE;12.176.626/0001-32;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 2863 - WAGNER ATTINA XAVIER - RJ - Deputado Federal;
+WAGNER ATTINA XAVIER;774.523.307-06;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 470,00;Estimado; -  -  / 2863 - WAGNER ATTINA XAVIER - RJ - Deputado Federal;

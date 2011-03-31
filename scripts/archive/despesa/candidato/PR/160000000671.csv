@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.134.176/0001-15;20/09/2010;33000000437;R$ 250,00;Estimado;JOSE EVANILDO ALVES DA SILVA;3312;Deputado Federal;PMN;PR;
-Comitê Financeiro Único;12.134.176/0001-15;25/09/2010;33000000436;R$ 565,00;Estimado;JOSE EVANILDO ALVES DA SILVA;3312;Deputado Federal;PMN;PR;
-Comitê Financeiro Único;29.549.433/0001-82;20/09/2010;33000000429;R$ 250,00;Estimado;JOSE EVANILDO ALVES DA SILVA;3312;Deputado Federal;PMN;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.134.176/0001-15;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;Comitê Financeiro Único - PMN -  / 3312 - JOSE EVANILDO ALVES DA SILVA - PR - Deputado Federal;
+Comitê Financeiro Único;12.134.176/0001-15;25/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 565,00;Estimado;Comitê Financeiro Único - PMN -  / 3312 - JOSE EVANILDO ALVES DA SILVA - PR - Deputado Federal;
+Comitê Financeiro Único;29.549.433/0001-82;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;Comitê Financeiro Único - PMN -  / 3312 - JOSE EVANILDO ALVES DA SILVA - PR - Deputado Federal;

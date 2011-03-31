@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;08.739.524/0001-00;01/08/2010;22000046752;R$ 641,00;Estimado;ROOSEVELT MORAIS JUNIOR;22000;Deputado Estadual;PR;MA;
-ROOSEVELT MORAIS JUNIOR;776.222.433-53;03/08/2010;22000046751;R$ 350,00;Depósito em espécie;ROOSEVELT MORAIS JUNIOR;22000;Deputado Estadual;PR;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;08.739.524/0001-00;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 641,00;Estimado;Comitê Financeiro Único - PR -  / 22000 - ROOSEVELT MORAIS JUNIOR - MA - Deputado Estadual;
+G.COSTA PEREIRA;10.297.423/0001-79;03/08/2010;       Publicidade por materiais impressos;R$ 235,00;Cheque; -  -  / 22000 - ROOSEVELT MORAIS JUNIOR - MA - Deputado Estadual;
+22000 - ROOSEVELT MORAIS JUNIOR - DEPUTADO ESTADUAL;12.180.401/0001-50;27/10/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 115,00;Depósito em espécie;Direção Estadual/Distrital - PR - MA / 22000 - ROOSEVELT MORAIS JUNIOR - MA - Deputado Estadual;

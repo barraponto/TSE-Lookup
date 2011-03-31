@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARMOZINO RODRIGUES DOS REIS;051.162.418-23;05/08/2010;50000232802;R$ 590,00;Depósito em espécie;CARMOZINO RODRIGUES DOS REIS;5015;Deputado Federal;PSOL;MG;
-CARMOZINO RODRIGUES DOS REIS;051.162.418-23;02/08/2010;50000232801;R$ 1.500,00;Depósito em espécie;CARMOZINO RODRIGUES DOS REIS;5015;Deputado Federal;PSOL;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARTE VISUAL LTDA;05.725.746/0001-86;02/08/2010;       Publicidade por materiais impressos;R$ 780,00;Cheque; -  -  / 5015 - CARMOZINO RODRIGUES DOS REIS - MG - Deputado Federal;
+OUT WAY PRODUÇÕES LTDA-ME;07.782.192/0001-84;30/07/2010;       Publicidade por materiais impressos;R$ 660,00;Cheque; -  -  / 5015 - CARMOZINO RODRIGUES DOS REIS - MG - Deputado Federal;
+PAPELFORM EDITORA LTDA;05.539.072/0001-25;04/08/2010;       Publicidade por materiais impressos;R$ 650,00;Cheque; -  -  / 5015 - CARMOZINO RODRIGUES DOS REIS - MG - Deputado Federal;

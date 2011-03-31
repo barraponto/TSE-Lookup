@@ -1,5 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS ALVES DA FONSECA;054.658.927-81;31/08/2010;31000023952;R$ 12.800,00;Depósito em espécie;BRUNO SILVA DOS SANTOS;31021;Deputado Estadual;PHS;RJ;
-FLAVIO CARIUS SANTOS;075.354.917-40;03/09/2010;31000023953;R$ 50,00;Depósito em espécie;BRUNO SILVA DOS SANTOS;31021;Deputado Estadual;PHS;RJ;
-NOVA SOLUÇÃO DIGITAL IMPRESSÕES LTDA;06.344.833/0001-56;22/07/2010;31000023950;R$ 15.722,50;Estimado;BRUNO SILVA DOS SANTOS;31021;Deputado Estadual;PHS;RJ;
-NOVA SOLUÇÃO DIGITAL IMPRESSÕES LTDA;06.344.833/0001-56;27/08/2010;31000023951;R$ 4.600,00;Estimado;BRUNO SILVA DOS SANTOS;31021;Deputado Estadual;PHS;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+M KP 2001 PUBLICIDADE LTDA;04.077.096/0001-47;26/08/2010;       Publicidade por placas, estandartes e faixas;R$ 12.500,00;Cheque; -  -  / 31021 - BRUNO SILVA DOS SANTOS - RJ - Deputado Estadual;
+M KP 2001 PUBLICIDADE LTDA;04.077.096/0001-47;27/08/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 31021 - BRUNO SILVA DOS SANTOS - RJ - Deputado Estadual;
+NOVA SOLUÇÃO DIGITAL IMPRESSÕES LTDA;06.344.833/0001-56;22/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 15.722,50;Estimado; -  -  / 31021 - BRUNO SILVA DOS SANTOS - RJ - Deputado Estadual;
+NOVA SOLUÇÃO DIGITAL IMPRESSÕES LTDA;06.344.833/0001-56;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.600,00;Estimado; -  -  / 31021 - BRUNO SILVA DOS SANTOS - RJ - Deputado Estadual;
+;;11/10/2010;       Encargos financeiros e taxas bancárias;R$ 15,20;Débito em conta; -  -  / 31021 - BRUNO SILVA DOS SANTOS - RJ - Deputado Estadual;
+;;01/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,05;Débito em conta; -  -  / 31021 - BRUNO SILVA DOS SANTOS - RJ - Deputado Estadual;
+;;03/09/2010;       Encargos financeiros e taxas bancárias;R$ 21,00;Débito em conta; -  -  / 31021 - BRUNO SILVA DOS SANTOS - RJ - Deputado Estadual;
+;;01/09/2010;       Encargos financeiros e taxas bancárias;R$ 13,75;Débito em conta; -  -  / 31021 - BRUNO SILVA DOS SANTOS - RJ - Deputado Estadual;

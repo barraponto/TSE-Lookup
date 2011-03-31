@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOAO MANOEL DOS SANTOS FILHO;022.817.514-30;13/08/2010;43001841477;R$ 50,00;Depósito em espécie;JOAO MANOEL DOS SANTOS FILHO;43600;Deputado Estadual;PV;PE;
-JOAO MANOEL DOS SANTOS FILHO;022.817.514-30;13/08/2010;43001841476;R$ 250,00;Depósito em espécie;JOAO MANOEL DOS SANTOS FILHO;43600;Deputado Estadual;PV;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GERALDA VALDEVINO DA SILVA MOTA;10.667.593/0001-06;20/08/2010;       Publicidade por materiais impressos;R$ 250,00;Cheque; -  -  / 43600 - JOAO MANOEL DOS SANTOS FILHO - PE - Deputado Estadual;
+43600 - JOAO MANOEL DOS SANTOS FILHO - DEPUTADO ESTADUAL;12.347.243/0001-80;01/11/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 36,50;Transferência eletrônica;Direção Estadual/Distrital - PV - PE / 43600 - JOAO MANOEL DOS SANTOS FILHO - PE - Deputado Estadual;
+;;01/11/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Transferência eletrônica; -  -  / 43600 - JOAO MANOEL DOS SANTOS FILHO - PE - Deputado Estadual;

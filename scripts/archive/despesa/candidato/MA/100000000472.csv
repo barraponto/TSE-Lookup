@@ -1,2 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DENISE MAGALHÃES LOBÃO SILVA;050.122.013-53;18/08/2010;10000072605;R$ 1.000,00;Depósito em espécie;JANAISE LOBAO SILVA CARVALHO;10400;Deputado Estadual;PRB;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO DRAGÃO LTDA;08.294.322/0001-00;19/08/2010;       Combustíveis e lubrificantes;R$ 310,00;Não informado; -  -  / 10400 - JANAISE LOBAO SILVA CARVALHO - MA - Deputado Estadual;
+GLAUCO COSTA FERNANDES VAZ SANTOS;242.258.603-10;18/08/2010;       Locação/cessão de bens imóveis;R$ 640,00;Não informado; -  -  / 10400 - JANAISE LOBAO SILVA CARVALHO - MA - Deputado Estadual;
+POSTO LIMA LTDA;10.502.173/0001-61;30/08/2010;       Combustíveis e lubrificantes;R$ 50,00;Não informado; -  -  / 10400 - JANAISE LOBAO SILVA CARVALHO - MA - Deputado Estadual;

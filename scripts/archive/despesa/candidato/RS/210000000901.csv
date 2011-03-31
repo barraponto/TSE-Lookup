@@ -1,2 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ORLANDO DOS SANTOS;239.703.590-15;20/07/2010;36000095531;R$ 4.400,00;Depósito em espécie;ORLANDO DOS SANTOS;3688;Deputado Federal;PTC;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA SIPRA;87.603.239/0001-34;23/09/2010;       Publicidade por materiais impressos;R$ 650,00;Cheque; -  -  / 3688 - ORLANDO DOS SANTOS - RS - Deputado Federal;
+JORNAL METROPOLITANO;10.639.445/0001-70;02/10/2010;       Publicidade por jornais e revistas;R$ 450,00;Cheque; -  -  / 3688 - ORLANDO DOS SANTOS - RS - Deputado Federal;
+JORNAL METROPOLITANO;10.639.445/0001-70;30/08/2010;       Publicidade por jornais e revistas;R$ 450,00;Cheque; -  -  / 3688 - ORLANDO DOS SANTOS - RS - Deputado Federal;
+POSTO MANS;04.357.437/0001-38;28/09/2010;       Combustíveis e lubrificantes;R$ 300,00;Cheque; -  -  / 3688 - ORLANDO DOS SANTOS - RS - Deputado Federal;
+POSTO MANS;04.357.437/0001-38;24/08/2010;       Combustíveis e lubrificantes;R$ 200,00;Cheque; -  -  / 3688 - ORLANDO DOS SANTOS - RS - Deputado Federal;
+POSTO MANS;04.357.437/0001-38;29/10/2010;       Combustíveis e lubrificantes;R$ 700,00;Cheque; -  -  / 3688 - ORLANDO DOS SANTOS - RS - Deputado Federal;
+ROBERTO MORAES;239.703.590-15;30/09/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 1.650,00;Não informado; -  -  / 3688 - ORLANDO DOS SANTOS - RS - Deputado Federal;

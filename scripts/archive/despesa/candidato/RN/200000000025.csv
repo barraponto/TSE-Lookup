@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FRANCISCO NOLASCO DAS CHAGAS;430.171.854-00;18/07/2010;50000445171;R$ 10,00;Depósito em espécie;RAIMUNDO NONATO SOBRINHO;50150;Deputado Estadual;PSOL;RN;
-RAIMUNDO NONATO SOBRINHO;148.776.784-68;14/10/2010;50000445175;R$ 2,00;Depósito em espécie;RAIMUNDO NONATO SOBRINHO;50150;Deputado Estadual;PSOL;RN;
-RAIMUNDO NONATO SOBRINHO;148.776.784-68;14/10/2010;50000445174;R$ 150,00;Depósito em espécie;RAIMUNDO NONATO SOBRINHO;50150;Deputado Estadual;PSOL;RN;
-RAIMUNDO NONATO SOBRINHO;148.776.784-68;02/08/2010;50000445172;R$ 140,00;Depósito em espécie;RAIMUNDO NONATO SOBRINHO;50150;Deputado Estadual;PSOL;RN;
-RAIMUNDO NONATO SOBRINHO;148.776.784-68;30/08/2010;50000445173;R$ 283,00;Depósito em espécie;RAIMUNDO NONATO SOBRINHO;50150;Deputado Estadual;PSOL;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EDVALDO NOGUEIRA SOARES - ME;01.638.027/0001-77;30/08/2010;       Diversas a especificar;R$ 22,00;Cheque; -  -  / 50150 - RAIMUNDO NONATO SOBRINHO - RN - Deputado Estadual;
+JOSÉ CARLOS LIMA LOPES;24.186.629/0001-36;14/07/2010;       Bens permanentes;R$ 450,00;Cheque; -  -  / 50150 - RAIMUNDO NONATO SOBRINHO - RN - Deputado Estadual;
+QUEIROZFILHOS COMERCIAL LTDA;08.480.816/0001-71;30/08/2010;       Publicidade por placas, estandartes e faixas;R$ 47,00;Cheque; -  -  / 50150 - RAIMUNDO NONATO SOBRINHO - RN - Deputado Estadual;
+QUEIROZFILHOS COMERCIAL LTDA;08.480.816/0001-71;30/08/2010;       Publicidade por placas, estandartes e faixas;R$ 63,97;Cheque; -  -  / 50150 - RAIMUNDO NONATO SOBRINHO - RN - Deputado Estadual;
+;;01/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,03;Débito em conta; -  -  / 50150 - RAIMUNDO NONATO SOBRINHO - RN - Deputado Estadual;

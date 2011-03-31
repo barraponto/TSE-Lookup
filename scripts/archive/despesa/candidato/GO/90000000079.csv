@@ -1,3 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO PEDRO DE CAMARGO;744.219.137-15;08/10/2010;10000051802;R$ 331,10;Depósito em espécie;ANTONIO PEDRO DE CAMARGO;1003;Deputado Federal;PRB;GO;
-ANTONIO PEDRO DE CAMARGO;744.219.137-15;19/08/2010;10000051801;R$ 300,00;Depósito em espécie;ANTONIO PEDRO DE CAMARGO;1003;Deputado Federal;PRB;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARREFOUR COM. E IND. LTDA;45.543.915/0278-96;20/08/2010;       Materiais de expediente;R$ 17,50;Cheque; -  -  / 1003 - ANTONIO PEDRO DE CAMARGO - GO - Deputado Federal;
+DELIZON PEREIRA GOMES;467.288.561-53;01/10/2010;       Combustíveis e lubrificantes;R$ 200,00;Cheque; -  -  / 1003 - ANTONIO PEDRO DE CAMARGO - GO - Deputado Federal;
+FUJIOKA ELETRO IMAGEM SA;01.008.713/0028-84;26/08/2010;       Serviços prestados por terceiros;R$ 20,00;Cheque; -  -  / 1003 - ANTONIO PEDRO DE CAMARGO - GO - Deputado Federal;
+HORIZONTE GRAFICA LTDA;06.334.279/0001-26;26/08/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 1003 - ANTONIO PEDRO DE CAMARGO - GO - Deputado Federal;
+POSTO MADRI LTDA;04.710.930/0001-90;03/09/2010;       Combustíveis e lubrificantes;R$ 24,90;Cheque; -  -  / 1003 - ANTONIO PEDRO DE CAMARGO - GO - Deputado Federal;
+POSTO NOVO HORIZONTE LTDA;01.495.316/0001-64;14/09/2010;       Combustíveis e lubrificantes;R$ 40,00;Cheque; -  -  / 1003 - ANTONIO PEDRO DE CAMARGO - GO - Deputado Federal;
+RADIO TAXI SERRA DOURADA;06.564.271/0001-56;25/08/2010;       Serviços prestados por terceiros;R$ 28,00;Cheque; -  -  / 1003 - ANTONIO PEDRO DE CAMARGO - GO - Deputado Federal;
+;;04/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 1003 - ANTONIO PEDRO DE CAMARGO - GO - Deputado Federal;
+;;04/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 1003 - ANTONIO PEDRO DE CAMARGO - GO - Deputado Federal;

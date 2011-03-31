@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.205.213/0001-39;24/09/2010;40000208402;R$ 1.900,00;Cheque;ADEIR BATISTA PEREIRA;4070;Deputado Federal;PSB;MG;
-Diretório Estadual/Distrital;12.205.213/0001-39;15/09/2010;40000208401;R$ 1.900,00;Cheque;ADEIR BATISTA PEREIRA;4070;Deputado Federal;PSB;MG;
-Diretório Estadual/Distrital;12.205.213/0001-39;30/09/2010;40000208405;R$ 45,00;Estimado;ADEIR BATISTA PEREIRA;4070;Deputado Federal;PSB;MG;
-Diretório Estadual/Distrital;12.205.213/0001-39;30/08/2010;40000208403;R$ 508,00;Estimado;ADEIR BATISTA PEREIRA;4070;Deputado Federal;PSB;MG;
-Diretório Estadual/Distrital;12.205.213/0001-39;03/09/2010;40000208404;R$ 1.197,84;Estimado;ADEIR BATISTA PEREIRA;4070;Deputado Federal;PSB;MG;
-GRUPO QUATRO ADMINISTRAÇÃO E VENDAS;18.031.153/0001-61;28/09/2010;40000208406;R$ 1.725,00;Estimado;ADEIR BATISTA PEREIRA;4070;Deputado Federal;PSB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ATIVIDADE EDITORA GRÁFICA LTDA;71.077.747/0001-96;24/09/2010;       Publicidade por materiais impressos;R$ 1.725,00;Cheque; -  -  / 4070 - ADEIR BATISTA PEREIRA - MG - Deputado Federal;
+Diretório Estadual/Distrital;12.205.213/0001-39;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 508,00;Estimado;Direção Estadual/Distrital - PSB -  / 4070 - ADEIR BATISTA PEREIRA - MG - Deputado Federal;
+Diretório Estadual/Distrital;12.205.213/0001-39;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 45,00;Estimado;Direção Estadual/Distrital - PSB -  / 4070 - ADEIR BATISTA PEREIRA - MG - Deputado Federal;
+Diretório Estadual/Distrital;12.205.213/0001-39;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.197,84;Estimado;Direção Estadual/Distrital - PSB -  / 4070 - ADEIR BATISTA PEREIRA - MG - Deputado Federal;
+GRUPO QUATRO ADMINISTRAÇÃO E VENDAS;18.031.153/0001-61;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.725,00;Estimado; -  -  / 4070 - ADEIR BATISTA PEREIRA - MG - Deputado Federal;
+PAULO ALVES DA SILVA;594.108.846-91;27/09/2010;       Serviços prestados por terceiros;R$ 2.075,00;Cheque; -  -  / 4070 - ADEIR BATISTA PEREIRA - MG - Deputado Federal;

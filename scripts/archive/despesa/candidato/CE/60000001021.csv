@@ -1,2 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ISRAEL RIBEIRO DE FARIAS;035.134.333-44;03/09/2010;19000000691;R$ 130,00;Depósito em espécie;BEZALIEL RIBEIRO DE FARIAS;19678;Deputado Estadual;PTN;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AM DA SILVA RODRIGUES - ME;11.424.514/0001-90;03/09/2010;       Publicidade por materiais impressos;R$ 120,00;Cheque; -  -  / 19678 - BEZALIEL RIBEIRO DE FARIAS - CE - Deputado Estadual;
+;;03/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,50;Débito em conta; -  -  / 19678 - BEZALIEL RIBEIRO DE FARIAS - CE - Deputado Estadual;
+;;29/10/2010;       Encargos financeiros e taxas bancárias;R$ 5,00;Débito em conta; -  -  / 19678 - BEZALIEL RIBEIRO DE FARIAS - CE - Deputado Estadual;
+;;03/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,50;Débito em conta; -  -  / 19678 - BEZALIEL RIBEIRO DE FARIAS - CE - Deputado Estadual;

@@ -1,3 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-;;01/09/2010;;R$ 0,14;Não informado;JUDITH COELHO DOS SANTOS;15145;Deputado Estadual;PMDB;MG;
-;;01/08/2010;;R$ 1.262,15;Não informado;JUDITH COELHO DOS SANTOS;15145;Deputado Estadual;PMDB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+MEDONÇA & CIA LTDA;18.286.757/0001-59;15/09/2010;       Diversas a especificar;R$ 220,14;Cheque; -  -  / 15145 - JUDITH COELHO DOS SANTOS - MG - Deputado Estadual;
+MEDONÇA & CIA LTDA;18.286.757/0001-59;04/09/2010;       Combustíveis e lubrificantes;R$ 104,26;Cheque; -  -  / 15145 - JUDITH COELHO DOS SANTOS - MG - Deputado Estadual;
+MEDONÇA & CIA LTDA;18.286.757/0001-59;24/09/2010;       Combustíveis e lubrificantes;R$ 84,40;Cheque; -  -  / 15145 - JUDITH COELHO DOS SANTOS - MG - Deputado Estadual;
+POSTO KALU LTDA;20.143.053/0001-79;12/09/2010;       Combustíveis e lubrificantes;R$ 162,08;Cheque; -  -  / 15145 - JUDITH COELHO DOS SANTOS - MG - Deputado Estadual;

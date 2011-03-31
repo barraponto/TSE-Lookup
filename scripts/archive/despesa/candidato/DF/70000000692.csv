@@ -1,4 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.221.838/0001-94;23/09/2010;10000071701;R$ 3.400,00;Cheque;ESTER ALVES RIBEIRO;10510;Deputado Distrital;PRB;DF;
-Comitê Financeiro Único;12.221.838/0001-94;08/08/2010;10000071703;R$ 309,29;Estimado;ESTER ALVES RIBEIRO;10510;Deputado Distrital;PRB;DF;
-Comitê Financeiro Único;12.221.838/0001-94;04/10/2010;10000071702;R$ 3.400,00;Cheque;ESTER ALVES RIBEIRO;10510;Deputado Distrital;PRB;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARTES VISUIAS;04.011.397/0001-78;01/10/2010;       Publicidade por placas, estandartes e faixas;R$ 1.500,00;Não informado; -  -  / 10510 - ESTER ALVES RIBEIRO - DF - Deputado Distrital;
+Comitê Financeiro Único;12.221.838/0001-94;08/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 309,29;Estimado;Comitê Financeiro Único - PRB -  / 10510 - ESTER ALVES RIBEIRO - DF - Deputado Distrital;
+PAPELARIA NOVO HORIZONTE;10.932.376/0001-98;01/10/2010;       Publicidade por materiais impressos;R$ 930,00;Não informado; -  -  / 10510 - ESTER ALVES RIBEIRO - DF - Deputado Distrital;
+STUDIO PRINT IMPRESSÃO DIGITAL;10.587.868/0001-93;01/10/2010;       Publicidade por placas, estandartes e faixas;R$ 4.370,00;Não informado; -  -  / 10510 - ESTER ALVES RIBEIRO - DF - Deputado Distrital;

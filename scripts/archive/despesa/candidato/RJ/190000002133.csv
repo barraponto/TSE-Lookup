@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CELSO SILVA RAMOS;546.951.397-15;09/09/2010;27000025271;R$ 80,00;Estimado;JOAO CARLOS DOS SANTOS RODRIGUES;2793;Deputado Federal;PSDC;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;27000025269;R$ 300,00;Estimado;JOAO CARLOS DOS SANTOS RODRIGUES;2793;Deputado Federal;PSDC;RJ;
-RENATO CABRAL DA SILVA;021.826.917-07;10/08/2010;27000025270;R$ 60,00;Estimado;JOAO CARLOS DOS SANTOS RODRIGUES;2793;Deputado Federal;PSDC;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CELSO SILVA RAMOS;546.951.397-15;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 80,00;Estimado; -  -  / 2793 - JOAO CARLOS DOS SANTOS RODRIGUES - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 2793 - JOAO CARLOS DOS SANTOS RODRIGUES - RJ - Deputado Federal;
+RENATO CABRAL DA SILVA;021.826.917-07;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 60,00;Estimado; -  -  / 2793 - JOAO CARLOS DOS SANTOS RODRIGUES - RJ - Deputado Federal;

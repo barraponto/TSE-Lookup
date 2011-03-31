@@ -1,3 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ORLANDO DE SOUZA REBOLÇAS;001.123.483-00;30/09/2010;23000070202;R$ 5.000,00;Depósito em espécie;LEONARDO DE BAYMA REBOUCAS;23123;Deputado Estadual;PPS;CE;
-ORLANDO DE SOUZA REBOLÇAS;001.123.483-00;21/09/2010;23000070201;R$ 8.000,00;Depósito em espécie;LEONARDO DE BAYMA REBOUCAS;23123;Deputado Estadual;PPS;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DANIELLE ROGERIO MONTEIRO;485.976.273-87;21/09/2010;       Cessão ou Locação de Veículos;R$ 1.000,00;Cheque; -  -  / 23123 - LEONARDO DE BAYMA REBOUCAS - CE - Deputado Estadual;
+EDITORA FORTE GRAFICA LTDA;07.955.842/0001-46;30/09/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 23123 - LEONARDO DE BAYMA REBOUCAS - CE - Deputado Estadual;
+EDITORA VERDES MARES LTDA;07.209.299/0001-38;29/09/2010;       Publicidade por materiais impressos;R$ 780,00;Cheque; -  -  / 23123 - LEONARDO DE BAYMA REBOUCAS - CE - Deputado Estadual;
+EMPRESA JORNALISTICA O POVO S.A;07.222.565/0001-62;29/09/2010;       Publicidade por materiais impressos;R$ 750,00;Cheque; -  -  / 23123 - LEONARDO DE BAYMA REBOUCAS - CE - Deputado Estadual;
+JORGE SIMÃO DA COSTA;008.938.993-05;27/09/2010;       Cessão ou Locação de Veículos;R$ 1.250,00;Cheque; -  -  / 23123 - LEONARDO DE BAYMA REBOUCAS - CE - Deputado Estadual;
+JOSE AIRTON DE SOUZA;724.444.873-20;27/09/2010;       Cessão ou Locação de Veículos;R$ 2.000,00;Cheque; -  -  / 23123 - LEONARDO DE BAYMA REBOUCAS - CE - Deputado Estadual;
+JOSE MARTINS DE SOUZA JUNIOR;186.440.230-04;19/09/2010;       Cessão ou Locação de Veículos;R$ 1.000,00;Cheque; -  -  / 23123 - LEONARDO DE BAYMA REBOUCAS - CE - Deputado Estadual;
+PAULO EDSON ALVES;300.938.643-53;18/09/2010;       Publicidade por materiais impressos;R$ 5.220,00;Cheque; -  -  / 23123 - LEONARDO DE BAYMA REBOUCAS - CE - Deputado Estadual;

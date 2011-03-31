@@ -1,6 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.099/0001-54;06/08/2010;13000649842;R$ 325,00;Estimado;ADERBAL BALBINO DOS SANTOS;13991;Deputado Estadual;PT;GO;
-Comitê Financeiro Único;12.200.099/0001-54;02/10/2010;13000649846;R$ 1.612,90;Estimado;ADERBAL BALBINO DOS SANTOS;13991;Deputado Estadual;PT;GO;
-ELEIÇÃO 2010 ADERBAL BALBINO DOS SANTOS;248.581.961-00;31/08/2010;13000649847;R$ 300,00;Depósito em espécie;ADERBAL BALBINO DOS SANTOS;13991;Deputado Estadual;PT;GO;
-PEDRO WILSON GUIMARAES;12.167.443/0001-50;03/10/2010;13000649844;R$ 1.140,00;Estimado;ADERBAL BALBINO DOS SANTOS;13991;Deputado Estadual;PT;GO;
-RUBENS OTONI GOMIDE;12.189.942/0001-49;27/09/2010;13000649843;R$ 175,00;Estimado;ADERBAL BALBINO DOS SANTOS;13991;Deputado Estadual;PT;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.099/0001-54;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.612,90;Estimado;Comitê Financeiro Único - PT -  / 13991 - ADERBAL BALBINO DOS SANTOS - GO - Deputado Estadual;
+Comitê Financeiro Único;12.200.099/0001-54;06/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 325,00;Estimado;Comitê Financeiro Único - PT -  / 13991 - ADERBAL BALBINO DOS SANTOS - GO - Deputado Estadual;
+GEMA AUTO POSTO LTDA;04.921.120/0001-82;11/09/2010;       Combustíveis e lubrificantes;R$ 140,00;Cheque; -  -  / 13991 - ADERBAL BALBINO DOS SANTOS - GO - Deputado Estadual;
+GEMA AUTO POSTO LTDA;04.921.120/0001-82;08/09/2010;       Combustíveis e lubrificantes;R$ 150,00;Cheque; -  -  / 13991 - ADERBAL BALBINO DOS SANTOS - GO - Deputado Estadual;
+PEDRO WILSON GUIMARAES;12.167.443/0001-50;03/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.140,00;Estimado;131 -  - PT -  - Senador / 13991 - ADERBAL BALBINO DOS SANTOS - GO - Deputado Estadual;
+RUBENS OTONI GOMIDE;12.189.942/0001-49;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 175,00;Estimado;1313 -  - PT -  - Deputado Federal / 13991 - ADERBAL BALBINO DOS SANTOS - GO - Deputado Estadual;
+;;22/10/2010;       Encargos financeiros e taxas bancárias;R$ 10,00;Débito em conta; -  -  / 13991 - ADERBAL BALBINO DOS SANTOS - GO - Deputado Estadual;

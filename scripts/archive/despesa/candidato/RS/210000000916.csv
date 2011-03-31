@@ -1,3 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOÃO MANOEL LIPPERT;330.264.830-87;06/09/2010;36000095312;R$ 250,00;Cheque;JOÃO MANOEL LIPPERT;36013;Deputado Estadual;PTC;RS;
-JOÃO MANOEL LIPPERT;330.264.830-87;16/08/2010;36000095311;R$ 75,00;Cheque;JOÃO MANOEL LIPPERT;36013;Deputado Estadual;PTC;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+COMSERV INFORMATICA LTDA;05.599.155/0001-00;10/09/2010;       Diversas a especificar;R$ 60,00;Não informado; -  -  / 36013 - JOÃO MANOEL LIPPERT - RS - Deputado Estadual;
+COMSERV INFORMATICA LTDA;05.599.155/0001-00;12/08/2010;       Diversas a especificar;R$ 40,00;Cheque; -  -  / 36013 - JOÃO MANOEL LIPPERT - RS - Deputado Estadual;
+JOÃO MANOEL LIPPERT;12.175.426/0001-65;28/09/2010;       Materiais de expediente;R$ 205,00;Cheque; -  -  / 36013 - JOÃO MANOEL LIPPERT - RS - Deputado Estadual;
+SINALIZERS;08.561.826/0001-31;10/09/2010;       Diversas a especificar;R$ 20,00;Cheque; -  -  / 36013 - JOÃO MANOEL LIPPERT - RS - Deputado Estadual;

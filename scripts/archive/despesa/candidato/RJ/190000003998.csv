@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.217.557/0001-68;30/09/2010;22000165456;R$ 2.272,72;Estimado;JOSE EMANOEL ALVES RANGEL;22211;Deputado Estadual;PR;RJ;
-GAROTINHO;12.199.794/0001-43;30/09/2010;22000165457;R$ 35,00;Estimado;JOSE EMANOEL ALVES RANGEL;22211;Deputado Estadual;PR;RJ;
-JM RANGEL DE VAZ LOBO COM DE GESSO;08.414.862/0001-72;10/08/2010;22000165451;R$ 1.973,21;Depósito em espécie;JOSE EMANOEL ALVES RANGEL;22211;Deputado Estadual;PR;RJ;
-JM RANGEL DE VAZ LOBO COM DE GESSO;08.414.862/0001-72;25/08/2010;22000165452;R$ 300,00;Estimado;JOSE EMANOEL ALVES RANGEL;22211;Deputado Estadual;PR;RJ;
-JM RANGEL DE VAZ LOBO COM DE GESSO;08.414.862/0001-72;07/08/2010;22000165453;R$ 300,00;Estimado;JOSE EMANOEL ALVES RANGEL;22211;Deputado Estadual;PR;RJ;
-JOSE EMANOEL ALVES RANGEL;790.959.767-34;17/08/2010;22000165454;R$ 1.860,00;Depósito em espécie;JOSE EMANOEL ALVES RANGEL;22211;Deputado Estadual;PR;RJ;
-PEREGRINO;12.176.027/0001-19;24/09/2010;22000165455;R$ 1.400,00;Estimado;JOSE EMANOEL ALVES RANGEL;22211;Deputado Estadual;PR;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALINE ARTE PUBLICIDADE LTDA - ME;10.212.846/0001-49;17/08/2010;       Publicidade por materiais impressos;R$ 1.860,00;Cheque; -  -  / 22211 - JOSE EMANOEL ALVES RANGEL - RJ - Deputado Estadual;
+Diretório Estadual/Distrital;12.217.557/0001-68;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.272,72;Estimado;Direção Estadual/Distrital - PR -  / 22211 - JOSE EMANOEL ALVES RANGEL - RJ - Deputado Estadual;
+GAROTINHO;12.199.794/0001-43;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 35,00;Estimado;2258 -  - PR -  - Deputado Federal / 22211 - JOSE EMANOEL ALVES RANGEL - RJ - Deputado Estadual;
+GRAFSERRA;09.676.824/0001-50;09/08/2010;       Publicidade por jornais e revistas;R$ 1.973,21;Cheque; -  -  / 22211 - JOSE EMANOEL ALVES RANGEL - RJ - Deputado Estadual;
+JM RANGEL DE VAZ LOBO COM DE GESSO;08.414.862/0001-72;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 22211 - JOSE EMANOEL ALVES RANGEL - RJ - Deputado Estadual;
+JM RANGEL DE VAZ LOBO COM DE GESSO;08.414.862/0001-72;07/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 22211 - JOSE EMANOEL ALVES RANGEL - RJ - Deputado Estadual;
+PEREGRINO;12.176.027/0001-19;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.400,00;Estimado;22 -  - PR -  - Governador / 22211 - JOSE EMANOEL ALVES RANGEL - RJ - Deputado Estadual;

@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-GRÁFICA SANTA MARTA LTDA;09.098.419/0001-00;31/08/2010;36000000001;R$ 347,50;Estimado;EDUARDO JORGE DE SOUZA DE ANDRADE LIMA;36456;Deputado Estadual;PTC;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRÁFICA SANTA MARTA LTDA;09.098.419/0001-00;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 347,50;Estimado; -  -  / 36456 - EDUARDO JORGE DE SOUZA DE ANDRADE LIMA - PB - Deputado Estadual;

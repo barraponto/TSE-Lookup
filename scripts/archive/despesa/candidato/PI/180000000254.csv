@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.487/0001-16;01/10/2010;14000018752;R$ 1.260,00;Estimado;WALTER RIBEIRO MOURA;1441;Deputado Federal;PTB;PI;
-Comitê Financeiro Único;12.191.487/0001-16;22/07/2010;14000018751;R$ 992,88;Estimado;WALTER RIBEIRO MOURA;1441;Deputado Federal;PTB;PI;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.487/0001-16;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.260,00;Estimado;Comitê Financeiro Único - PTB -  / 1441 - WALTER RIBEIRO MOURA - PI - Deputado Federal;
+Comitê Financeiro Único;12.191.487/0001-16;22/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 992,88;Estimado;Comitê Financeiro Único - PTB -  / 1441 - WALTER RIBEIRO MOURA - PI - Deputado Federal;

@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-GENIVAL LOPES DE SOUSA;182.292.043-49;02/08/2010;27000047420;R$ 250,00;Depósito em espécie;GENIVAL LOPES DE SOUSA;2711;Deputado Federal;PSDC;PI;
-GENIVAL LOPES DE SOUSA;182.292.043-49;06/09/2010;27000047423;R$ 595,00;Depósito em espécie;GENIVAL LOPES DE SOUSA;2711;Deputado Federal;PSDC;PI;
-GENIVAL LOPES DE SOUSA;182.292.043-49;20/08/2010;27000047421;R$ 200,00;Depósito em espécie;GENIVAL LOPES DE SOUSA;2711;Deputado Federal;PSDC;PI;
-LUIS ALVES DA MOTA;537.517.793-53;31/08/2010;27000047424;R$ 1.000,00;Estimado;GENIVAL LOPES DE SOUSA;2711;Deputado Federal;PSDC;PI;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ESPERANA SEREJO DOS SANTOS ME;35.140.821/0001-08;02/08/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 2711 - GENIVAL LOPES DE SOUSA - PI - Deputado Federal;
+ESPERANA SEREJO DOS SANTOS ME;35.140.821/0001-08;01/09/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 2711 - GENIVAL LOPES DE SOUSA - PI - Deputado Federal;
+J. BARBOSA DE CARVALHO;08.257.337/0001-90;20/08/2010;       Combustíveis e lubrificantes;R$ 200,00;Cheque; -  -  / 2711 - GENIVAL LOPES DE SOUSA - PI - Deputado Federal;
+LUIS ALVES DA MOTA;537.517.793-53;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 2711 - GENIVAL LOPES DE SOUSA - PI - Deputado Federal;
+;;31/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 2711 - GENIVAL LOPES DE SOUSA - PI - Deputado Federal;

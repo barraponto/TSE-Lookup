@@ -1,8 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;70000136509;R$ 763,20;Estimado;EDINEI DE MENEZES LIMA;70111;Deputado Estadual;PT do B;BA;
-Comitê Financeiro Único;12.191.570/0001-95;31/07/2010;70000136502;R$ 192,00;Estimado;EDINEI DE MENEZES LIMA;70111;Deputado Estadual;PT do B;BA;
-EDINEI DE MENEZES LIMA;779.664.225-34;16/09/2010;70000136506;R$ 150,00;Depósito em espécie;EDINEI DE MENEZES LIMA;70111;Deputado Estadual;PT do B;BA;
-EDINEI DE MENEZES LIMA;779.664.225-34;16/08/2010;70000136505;R$ 450,00;Depósito em espécie;EDINEI DE MENEZES LIMA;70111;Deputado Estadual;PT do B;BA;
-EDINEI DE MENEZES LIMA;779.664.225-34;16/09/2010;70000136508;R$ 600,00;Estimado;EDINEI DE MENEZES LIMA;70111;Deputado Estadual;PT do B;BA;
-GEDEL QUADROS VIERA LIMA;12.173.503/0001-48;30/08/2010;70000136503;R$ 204,00;Estimado;EDINEI DE MENEZES LIMA;70111;Deputado Estadual;PT do B;BA;
-JORGE DOS SANTOS FREITAS;101.363.715-15;10/08/2010;70000136504;R$ 430,00;Depósito em espécie;EDINEI DE MENEZES LIMA;70111;Deputado Estadual;PT do B;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.570/0001-95;31/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 192,00;Estimado;Comitê Financeiro Único - PMDB -  / 70111 - EDINEI DE MENEZES LIMA - BA - Deputado Estadual;
+Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 763,20;Estimado;Comitê Financeiro Único - PMDB -  / 70111 - EDINEI DE MENEZES LIMA - BA - Deputado Estadual;
+COPIADORA R 2 LTDA;05.886.036/0001-38;11/08/2010;       Publicidade por materiais impressos;R$ 860,00;Cheque; -  -  / 70111 - EDINEI DE MENEZES LIMA - BA - Deputado Estadual;
+ECONOMIZE COMUNICAÇÃO VISUAL LTDA - ME;11.851.476/0001-52;18/09/2010;       Publicidade por materiais impressos;R$ 160,00;Cheque; -  -  / 70111 - EDINEI DE MENEZES LIMA - BA - Deputado Estadual;
+EDINEI DE MENEZES LIMA;779.664.225-34;16/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado; -  -  / 70111 - EDINEI DE MENEZES LIMA - BA - Deputado Estadual;
+GEDEL QUADROS VIERA LIMA;12.173.503/0001-48;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 204,00;Estimado;15 -  - PMDB -  - Governador / 70111 - EDINEI DE MENEZES LIMA - BA - Deputado Estadual;

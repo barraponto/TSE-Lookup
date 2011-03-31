@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTERO PAES DE BARROS;12.189.840/0001-23;04/09/2010;70000118803;R$ 500,00;Estimado;PAULO CESAR DE QUEIROZ;70789;Deputado Estadual;PT do B;MT;
-Comitê Financeiro Único;12.217.625/0001-99;30/07/2010;70000118802;R$ 237,50;Estimado;PAULO CESAR DE QUEIROZ;70789;Deputado Estadual;PT do B;MT;
-CRISTIANO NOGUEIRA PERES;12.205.082/0001-90;24/07/2010;70000118801;R$ 199,82;Estimado;PAULO CESAR DE QUEIROZ;70789;Deputado Estadual;PT do B;MT;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTERO PAES DE BARROS;12.189.840/0001-23;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;455 -  - PSDB -  - Senador / 70789 - PAULO CESAR DE QUEIROZ - MT - Deputado Estadual;
+Comitê Financeiro Único;12.217.625/0001-99;30/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 237,50;Estimado;Comitê Financeiro Único - PT do B -  / 70789 - PAULO CESAR DE QUEIROZ - MT - Deputado Estadual;
+CRISTIANO NOGUEIRA PERES;12.205.082/0001-90;24/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 199,82;Estimado;7020 -  - PT do B -  - Deputado Federal / 70789 - PAULO CESAR DE QUEIROZ - MT - Deputado Estadual;

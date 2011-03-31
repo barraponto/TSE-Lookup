@@ -1,4 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-H T ENGENHARIA ELETRICA E TELECOMUNICAÇÕES LTDA;08.282.186/0001-20;20/10/2010;43001767801;R$ 1.372,10;Transferência eletrônica;HENRIQUE RUBUO LOPES;43313;Deputado Estadual;PV;PR;
-H T ENGENHARIA ELETRICA E TELECOMUNICAÇÕES LTDA;08.282.186/0001-20;20/10/2010;43001767803;R$ 0,08;Transferência eletrônica;HENRIQUE RUBUO LOPES;43313;Deputado Estadual;PV;PR;
-H T ENGENHARIA ELETRICA E TELECOMUNICAÇÕES LTDA;08.282.186/0001-20;20/10/2010;43001767802;R$ 11.844,51;Transferência eletrônica;HENRIQUE RUBUO LOPES;43313;Deputado Estadual;PV;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO JIHEH - PETROBAND COM. COMBUST LTDA;03.468.440/0001-66;29/09/2010;       Combustíveis e lubrificantes;R$ 150,00;Transferência eletrônica; -  -  / 43313 - HENRIQUE RUBUO LOPES - PR - Deputado Estadual;
+EMPRESA JORNALISTICA FOLHA DE LONDRINA S.A;77.338.424/0001-95;30/09/2010;       Publicidade por jornais e revistas;R$ 5.370,48;Transferência eletrônica; -  -  / 43313 - HENRIQUE RUBUO LOPES - PR - Deputado Estadual;
+EMPRESA JORNALISTICA FOLHA DE LONDRINA S.A;77.338.424/0001-95;31/08/2010;       Publicidade por jornais e revistas;R$ 1.331,68;Transferência eletrônica; -  -  / 43313 - HENRIQUE RUBUO LOPES - PR - Deputado Estadual;
+MACROIMAGENS DIGITAIS E COMPUTAÇÃO GRAFICO LTDA;00.254.196/0001-40;28/09/2010;       Publicidade por materiais impressos;R$ 400,00;Transferência eletrônica; -  -  / 43313 - HENRIQUE RUBUO LOPES - PR - Deputado Estadual;
+PINHEIRO  & MAGRO LTDA;07.377.165/0001-26;13/10/2010;       Publicidade por materiais impressos;R$ 2.520,00;Transferência eletrônica; -  -  / 43313 - HENRIQUE RUBUO LOPES - PR - Deputado Estadual;
+POSTO ALVES DA ROCHA LTDA;04.067.019/0001-06;22/09/2010;       Combustíveis e lubrificantes;R$ 74,63;Transferência eletrônica; -  -  / 43313 - HENRIQUE RUBUO LOPES - PR - Deputado Estadual;
+SUPER IMAGEM DIGITAL LTDA;07.574.252/0001-73;22/09/2010;       Publicidade por materiais impressos;R$ 1.929,40;Transferência eletrônica; -  -  / 43313 - HENRIQUE RUBUO LOPES - PR - Deputado Estadual;
+SUPER IMAGEM DIGITAL LTDA;07.574.252/0001-73;10/09/2010;       Publicidade por materiais impressos;R$ 1.400,00;Transferência eletrônica; -  -  / 43313 - HENRIQUE RUBUO LOPES - PR - Deputado Estadual;
+;;20/10/2010;       Encargos financeiros e taxas bancárias;R$ 40,50;Débito em conta; -  -  / 43313 - HENRIQUE RUBUO LOPES - PR - Deputado Estadual;

@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.221.845/0001-96;16/08/2010;45000422392;R$ 360,00;Estimado;MARGARIDA MARIA REGIS DE ALMEIDA;4547;Deputado Federal;PSDB;DF;
-Comitê Financeiro Único;12.221.845/0001-96;27/09/2010;45000422400;R$ 1.200,00;Estimado;MARGARIDA MARIA REGIS DE ALMEIDA;4547;Deputado Federal;PSDB;DF;
-Comitê Financeiro Único;12.221.845/0001-96;10/08/2010;45000422391;R$ 360,00;Estimado;MARGARIDA MARIA REGIS DE ALMEIDA;4547;Deputado Federal;PSDB;DF;
-MARGARIDA MARIA REGIS DE ALAMEIDA CHAULET;105.864.584-68;30/09/2010;45000422404;R$ 5.439,02;Estimado;MARGARIDA MARIA REGIS DE ALMEIDA;4547;Deputado Federal;PSDB;DF;
-MARGARIDA MARIA REGIS DE ALAMEIDA CHAULET;105.864.584-68;03/10/2010;45000422405;R$ 1.586,72;Estimado;MARGARIDA MARIA REGIS DE ALMEIDA;4547;Deputado Federal;PSDB;DF;
-MARGARIDA MARIA REGIS DE ALAMEIDA CHAULET;105.864.584-68;05/08/2010;45000422406;R$ 1.500,00;Estimado;MARGARIDA MARIA REGIS DE ALMEIDA;4547;Deputado Federal;PSDB;DF;
-REGINALDO ROCHA SARDINHA;12.180.333/0001-29;17/08/2010;45000422394;R$ 320,00;Estimado;MARGARIDA MARIA REGIS DE ALMEIDA;4547;Deputado Federal;PSDB;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.221.845/0001-96;16/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Único - PSDB -  / 4547 - MARGARIDA MARIA REGIS DE ALMEIDA - DF - Deputado Federal;
+Comitê Financeiro Único;12.221.845/0001-96;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.200,00;Estimado;Comitê Financeiro Único - PSDB -  / 4547 - MARGARIDA MARIA REGIS DE ALMEIDA - DF - Deputado Federal;
+Comitê Financeiro Único;12.221.845/0001-96;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Único - PSDB -  / 4547 - MARGARIDA MARIA REGIS DE ALMEIDA - DF - Deputado Federal;
+MARGARIDA MARIA REGIS DE ALAMEIDA CHAULET;105.864.584-68;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 5.439,02;Estimado; -  -  / 4547 - MARGARIDA MARIA REGIS DE ALMEIDA - DF - Deputado Federal;
+MARGARIDA MARIA REGIS DE ALAMEIDA CHAULET;105.864.584-68;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado; -  -  / 4547 - MARGARIDA MARIA REGIS DE ALMEIDA - DF - Deputado Federal;
+MARGARIDA MARIA REGIS DE ALAMEIDA CHAULET;105.864.584-68;03/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.586,72;Estimado; -  -  / 4547 - MARGARIDA MARIA REGIS DE ALMEIDA - DF - Deputado Federal;
+REGINALDO ROCHA SARDINHA;12.180.333/0001-29;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 320,00;Estimado;33200 -  - PMN -  - Deputado Distrital / 4547 - MARGARIDA MARIA REGIS DE ALMEIDA - DF - Deputado Federal;

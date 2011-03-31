@@ -1,2 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MARIA DE LOURDES RODRIGUES RIBEIRO;347.354.886-34;10/08/2010;33000065968;R$ 1.000,00;Depósito em espécie;MARCOS MAURICIO RIBEIRO DOS SANTOS;33313;Deputado Estadual;PMN;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARTEGRAF CARATINGA LTDA;02.890.631/0001-59;11/08/2010;       Publicidade por materiais impressos;R$ 358,00;Cheque; -  -  / 33313 - MARCOS MAURICIO RIBEIRO DOS SANTOS - MG - Deputado Estadual;
+HP SIGN SINALIZAÇÃO COMPUTADORIZADA LTDA;04.190.018/0001-54;26/08/2010;       Publicidade por placas, estandartes e faixas;R$ 390,00;Cheque; -  -  / 33313 - MARCOS MAURICIO RIBEIRO DOS SANTOS - MG - Deputado Estadual;
+HP SIGN SINALIZAÇÃO COMPUTADORIZADA LTDA;04.190.018/0001-54;11/08/2010;       Publicidade por placas, estandartes e faixas;R$ 250,00;Cheque; -  -  / 33313 - MARCOS MAURICIO RIBEIRO DOS SANTOS - MG - Deputado Estadual;

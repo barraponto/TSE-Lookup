@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Senador da República;12.147.828/0001-56;16/09/2010;36000085786;R$ 2.000,00;Cheque;LUIZ DE GONZAGA RIBEIRO DA SILVA;36193;Deputado Estadual;PTC;AC;
-Comitê Financeiro Único;12.205.296/0001-66;14/09/2010;36000085788;R$ 766,50;Estimado;LUIZ DE GONZAGA RIBEIRO DA SILVA;36193;Deputado Estadual;PTC;AC;
-Comitê Financeiro Único;12.205.296/0001-66;14/09/2010;36000085789;R$ 321,18;Estimado;LUIZ DE GONZAGA RIBEIRO DA SILVA;36193;Deputado Estadual;PTC;AC;
-TAUMATURGO LIMA CORDEIRO;12.178.234/0001-02;13/09/2010;36000085785;R$ 6.505,00;Estimado;LUIZ DE GONZAGA RIBEIRO DA SILVA;36193;Deputado Estadual;PTC;AC;
-TAUMATURGO LIMA CORDEIRO;12.178.234/0001-02;15/09/2010;36000085787;R$ 3.150,00;Estimado;LUIZ DE GONZAGA RIBEIRO DA SILVA;36193;Deputado Estadual;PTC;AC;
-TAUMATURGO LIMA CORDEIRO;12.178.234/0001-02;26/08/2010;36000085784;R$ 746,66;Estimado;LUIZ DE GONZAGA RIBEIRO DA SILVA;36193;Deputado Estadual;PTC;AC;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.296/0001-66;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 766,50;Estimado;Comitê Financeiro Único - PTC -  / 36193 - LUIZ DE GONZAGA RIBEIRO DA SILVA - AC - Deputado Estadual;
+Comitê Financeiro Único;12.205.296/0001-66;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 321,18;Estimado;Comitê Financeiro Único - PTC -  / 36193 - LUIZ DE GONZAGA RIBEIRO DA SILVA - AC - Deputado Estadual;
+TAUMATURGO LIMA CORDEIRO;12.178.234/0001-02;13/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 6.505,00;Estimado;1310 -  - PT -  - Deputado Federal / 36193 - LUIZ DE GONZAGA RIBEIRO DA SILVA - AC - Deputado Estadual;
+TAUMATURGO LIMA CORDEIRO;12.178.234/0001-02;26/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 746,66;Estimado;1310 -  - PT -  - Deputado Federal / 36193 - LUIZ DE GONZAGA RIBEIRO DA SILVA - AC - Deputado Estadual;
+TAUMATURGO LIMA CORDEIRO;12.178.234/0001-02;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.150,00;Estimado;1310 -  - PT -  - Deputado Federal / 36193 - LUIZ DE GONZAGA RIBEIRO DA SILVA - AC - Deputado Estadual;
+UCHOA PUBLICIDADE;14.357.263/0001-67;25/09/2010;       Publicidade por materiais impressos;R$ 2.000,00;Cheque; -  -  / 36193 - LUIZ DE GONZAGA RIBEIRO DA SILVA - AC - Deputado Estadual;

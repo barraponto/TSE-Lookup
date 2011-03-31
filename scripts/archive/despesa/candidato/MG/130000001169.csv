@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALESSANDRA TEREZINHA DE JESUS DE ALMEIDA;049.177.766-35;17/09/2010;28000539004;R$ 50,00;Estimado;FLAVIO ANSELMO PINTO;28193;Deputado Estadual;PRTB;MG;
-Diretório Estadual/Distrital;12.154.851/0001-78;15/09/2010;28000539001;R$ 590,00;Estimado;FLAVIO ANSELMO PINTO;28193;Deputado Estadual;PRTB;MG;
-Diretório Estadual/Distrital;12.154.851/0001-78;30/09/2010;28000539002;R$ 300,00;Estimado;FLAVIO ANSELMO PINTO;28193;Deputado Estadual;PRTB;MG;
-ELAINE CRISTENE PINTO MORAES;051.747.956-74;17/09/2010;28000539005;R$ 50,00;Estimado;FLAVIO ANSELMO PINTO;28193;Deputado Estadual;PRTB;MG;
-FRANK GERALDO PINTO;933.081.166-34;17/09/2010;28000539003;R$ 50,00;Estimado;FLAVIO ANSELMO PINTO;28193;Deputado Estadual;PRTB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALESSANDRA TEREZINHA DE JESUS DE ALMEIDA;049.177.766-35;17/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 50,00;Estimado; -  -  / 28193 - FLAVIO ANSELMO PINTO - MG - Deputado Estadual;
+Diretório Estadual/Distrital;12.154.851/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Direção Estadual/Distrital - PC do B -  / 28193 - FLAVIO ANSELMO PINTO - MG - Deputado Estadual;
+Diretório Estadual/Distrital;12.154.851/0001-78;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 590,00;Estimado;Direção Estadual/Distrital - PC do B -  / 28193 - FLAVIO ANSELMO PINTO - MG - Deputado Estadual;
+ELAINE CRISTENE PINTO MORAES;051.747.956-74;17/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 50,00;Estimado; -  -  / 28193 - FLAVIO ANSELMO PINTO - MG - Deputado Estadual;
+FRANK GERALDO PINTO;933.081.166-34;17/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 50,00;Estimado; -  -  / 28193 - FLAVIO ANSELMO PINTO - MG - Deputado Estadual;

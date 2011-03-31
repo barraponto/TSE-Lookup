@@ -1,5 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.147.818/0001-10;20/09/2010;43001505553;R$ 583,15;Estimado;NAHUM DA CRUZ;43011;Deputado Estadual;PV;RJ;
-NAHUM DA CRUZ;272.260.857-04;15/10/2010;43001505554;R$ 462,00;Depósito em espécie;NAHUM DA CRUZ;43011;Deputado Estadual;PV;RJ;
-NAHUM DA CRUZ;272.260.857-04;05/08/2010;43001505551;R$ 3.000,00;Depósito em espécie;NAHUM DA CRUZ;43011;Deputado Estadual;PV;RJ;
-NAHUM DA CRUZ;272.260.857-04;25/08/2010;43001505552;R$ 1.205,00;Depósito em espécie;NAHUM DA CRUZ;43011;Deputado Estadual;PV;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALINE ARTE PUBLICIDADE LTDA-ME;10.212.846/0001-49;11/09/2010;       Publicidade por materiais impressos;R$ 105,00;Cheque; -  -  / 43011 - NAHUM DA CRUZ - RJ - Deputado Estadual;
+ALINE ARTE PUBLICIDADE LTDA-ME;10.212.846/0001-49;05/09/2010;       Publicidade por materiais impressos;R$ 1.530,00;Cheque; -  -  / 43011 - NAHUM DA CRUZ - RJ - Deputado Estadual;
+ALINE ARTE PUBLICIDADE LTDA-ME;10.212.846/0001-49;30/09/2010;       Publicidade por materiais impressos;R$ 75,00;Cheque; -  -  / 43011 - NAHUM DA CRUZ - RJ - Deputado Estadual;
+ALINE ARTE PUBLICIDADE LTDA-ME;10.212.846/0001-49;14/08/2010;       Publicidade por placas, estandartes e faixas;R$ 1.460,00;Cheque; -  -  / 43011 - NAHUM DA CRUZ - RJ - Deputado Estadual;
+COPIADORA PAPEL DIGITAL;08.884.605/0001-02;13/09/2010;       Publicidade por materiais impressos;R$ 240,00;Cheque; -  -  / 43011 - NAHUM DA CRUZ - RJ - Deputado Estadual;
+COPIADORA PAPEL DIGITAL;08.884.605/0001-02;09/08/2010;       Publicidade por materiais impressos;R$ 950,00;Cheque; -  -  / 43011 - NAHUM DA CRUZ - RJ - Deputado Estadual;
+Diretório Estadual/Distrital;12.147.818/0001-10;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 583,15;Estimado;Direção Estadual/Distrital - PV -  / 43011 - NAHUM DA CRUZ - RJ - Deputado Estadual;
+JORNAL ILHA NOTICIAS;28.702.165/0001-24;29/09/2010;       Publicidade por materiais impressos;R$ 306,65;Cheque; -  -  / 43011 - NAHUM DA CRUZ - RJ - Deputado Estadual;
+;;25/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 43011 - NAHUM DA CRUZ - RJ - Deputado Estadual;

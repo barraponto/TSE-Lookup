@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Governador;12.181.923/0001-76;24/07/2010;11000005921;R$ 300,00;Estimado;JOAO IGNACIO DA COSTA FELICIANO;11435;Deputado Estadual;PP;RJ;
-Comitê Financeiro Único;12.200.097/0001-65;02/10/2010;11000005925;R$ 3.592,20;Estimado;JOAO IGNACIO DA COSTA FELICIANO;11435;Deputado Estadual;PP;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;22/09/2010;11000005927;R$ 300,00;Estimado;JOAO IGNACIO DA COSTA FELICIANO;11435;Deputado Estadual;PP;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;11000005926;R$ 150,00;Estimado;JOAO IGNACIO DA COSTA FELICIANO;11435;Deputado Estadual;PP;RJ;
-JORGE SAYED PICCIANI;12.176.626/0001-32;30/09/2010;11000005928;R$ 15,75;Estimado;JOAO IGNACIO DA COSTA FELICIANO;11435;Deputado Estadual;PP;RJ;
-JORGE SAYED PICIANNE;12.176.626/0001-32;09/08/2010;11000005923;R$ 13,86;Estimado;JOAO IGNACIO DA COSTA FELICIANO;11435;Deputado Estadual;PP;RJ;
-JORGE SAYED PICIANNE;12.176.626/0001-32;02/08/2010;11000005922;R$ 17,00;Estimado;JOAO IGNACIO DA COSTA FELICIANO;11435;Deputado Estadual;PP;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Governador;12.181.923/0001-76;24/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Distrital/Estadual para Governador - PMDB -  / 11435 - JOAO IGNACIO DA COSTA FELICIANO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 11435 - JOAO IGNACIO DA COSTA FELICIANO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;22/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 11435 - JOAO IGNACIO DA COSTA FELICIANO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.200.097/0001-65;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.592,20;Estimado;Comitê Financeiro Único - PP -  / 11435 - JOAO IGNACIO DA COSTA FELICIANO - RJ - Deputado Estadual;
+JORGE SAYED PICCIANI;12.176.626/0001-32;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 15,75;Estimado;151 -  - PMDB -  - Senador / 11435 - JOAO IGNACIO DA COSTA FELICIANO - RJ - Deputado Estadual;
+JORGE SAYED PICIANNE;12.176.626/0001-32;09/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 13,86;Estimado;155 -  - PMDB -  - Senador / 11435 - JOAO IGNACIO DA COSTA FELICIANO - RJ - Deputado Estadual;
+JORGE SAYED PICIANNE;12.176.626/0001-32;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 11435 - JOAO IGNACIO DA COSTA FELICIANO - RJ - Deputado Estadual;

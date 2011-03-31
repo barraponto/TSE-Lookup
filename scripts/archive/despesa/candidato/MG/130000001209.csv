@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.154.851/0001-78;15/09/2010;36000005702;R$ 1.180,00;Estimado;MIQUEIAS DE SOUZA;36013;Deputado Estadual;PTC;MG;
-Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;36000005703;R$ 300,00;Estimado;MIQUEIAS DE SOUZA;36013;Deputado Estadual;PTC;MG;
-FLÁVIO BRAZIL MARZANO;12.179.497/0001-36;10/09/2010;36000005704;R$ 400,00;Estimado;MIQUEIAS DE SOUZA;36013;Deputado Estadual;PTC;MG;
-NEUSA APARECIDA DOS SANTOS;12.190.382/0001-42;03/10/2010;36000005701;R$ 275,00;Estimado;MIQUEIAS DE SOUZA;36013;Deputado Estadual;PTC;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PT do B -  / 36013 - MIQUEIAS DE SOUZA - MG - Deputado Estadual;
+Comitê Financeiro Único;12.154.851/0001-78;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.180,00;Estimado;Comitê Financeiro Único - PT do B -  / 36013 - MIQUEIAS DE SOUZA - MG - Deputado Estadual;
+FLÁVIO BRAZIL MARZANO;12.179.497/0001-36;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado;3637 -  - PTC -  - Deputado Federal / 36013 - MIQUEIAS DE SOUZA - MG - Deputado Estadual;
+NEUSA APARECIDA DOS SANTOS;12.190.382/0001-42;03/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 275,00;Estimado;1335 -  - PT -  - Deputado Federal / 36013 - MIQUEIAS DE SOUZA - MG - Deputado Estadual;

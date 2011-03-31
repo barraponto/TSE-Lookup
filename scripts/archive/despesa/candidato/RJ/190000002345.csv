@@ -1,2 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-PAULO ROBERTO TAVARES LOBATO;464.528.267-00;30/08/2010;70000152591;R$ 126,00;Depósito em espécie;PAULO ROBERTO TAVARES LOBATO;70170;Deputado Estadual;PT do B;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+MSV OLIVEIRA NORONHA;11.763.642/0001-69;30/08/2010;       Publicidade por materiais impressos;R$ 125,00;Cheque; -  -  / 70170 - PAULO ROBERTO TAVARES LOBATO - RJ - Deputado Estadual;
+;;06/10/2010;       Encargos financeiros e taxas bancárias;R$ 1,00;Débito em conta; -  -  / 70170 - PAULO ROBERTO TAVARES LOBATO - RJ - Deputado Estadual;

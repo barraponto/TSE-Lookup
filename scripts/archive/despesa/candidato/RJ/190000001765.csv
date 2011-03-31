@@ -1,4 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS ALBERTO MIRANDA DE MORAES;688.563.777-72;12/08/2010;44000030081;R$ 1.000,00;Depósito em espécie;CARLOS ALBERTO MIRANDA DE MORAES;4412;Deputado Federal;PRP;RJ;
-CARLOS ALBERTO MIRANDA DE MORAES;688.563.777-72;31/08/2010;44000030082;R$ 50,00;Depósito em espécie;CARLOS ALBERTO MIRANDA DE MORAES;4412;Deputado Federal;PRP;RJ;
-GILENO RIBEIRO DE MORAES;217.749.517-20;13/09/2010;44000030083;R$ 300,00;Depósito em espécie;CARLOS ALBERTO MIRANDA DE MORAES;4412;Deputado Federal;PRP;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+IMPRESSOS LTDA;40.166.704/0001-53;10/09/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 4412 - CARLOS ALBERTO MIRANDA DE MORAES - RJ - Deputado Federal;
+RIO CARONGOLA;31.106.529/0001-18;28/08/2010;       Publicidade por materiais impressos;R$ 650,00;Cheque; -  -  / 4412 - CARLOS ALBERTO MIRANDA DE MORAES - RJ - Deputado Federal;
+WEST SIGN LTDA;02.111.289/0001-41;03/09/2010;       Publicidade por placas, estandartes e faixas;R$ 400,00;Cheque; -  -  / 4412 - CARLOS ALBERTO MIRANDA DE MORAES - RJ - Deputado Federal;
+WEST SIGN LTDA;02.111.289/0001-41;03/09/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 4412 - CARLOS ALBERTO MIRANDA DE MORAES - RJ - Deputado Federal;

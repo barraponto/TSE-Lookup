@@ -1,2 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 JAIME JOSE BASSO SUPLENTE SENADOR;476.435.790-91;28/09/2010;13000969581;R$ 1.400,00;Depósito em espécie;JAIME JOSE BASSO;651;1º Suplente Senador;PT;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO LOCH LTDA;02.973.239/0001-73;06/10/2010;       Combustíveis e lubrificantes;R$ 350,00;Cheque; -  -  / 651 - JAIME JOSE BASSO - RS - 1º Suplente Senador;
+J.I.ARTES GRAFICAS LTDA;74.164.799/0001-98;06/10/2010;       Publicidade por materiais impressos;R$ 550,00;Cheque; -  -  / 651 - JAIME JOSE BASSO - RS - 1º Suplente Senador;
+LORIEN MARIA BASSO DE MOURA E CIA LTDA;09.311.913/0001-01;14/10/2010;       Serviços prestados por terceiros;R$ 429,36;Cheque; -  -  / 651 - JAIME JOSE BASSO - RS - 1º Suplente Senador;
+VIVO S.A;02.449.992/0121-70;08/10/2010;       Telefone;R$ 70,64;Cheque; -  -  / 651 - JAIME JOSE BASSO - RS - 1º Suplente Senador;

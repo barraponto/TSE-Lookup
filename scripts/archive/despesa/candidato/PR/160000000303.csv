@@ -1,2 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MEDICALWAL EQUIPAMENTOS MEDICOS LTDA;02.949.582/0001-82;15/09/2010;43001774801;R$ 1.500,00;Cheque;PAULO MAZZA DE SOUZA;43434;Deputado Estadual;PV;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO AUTODROMO;00.668.693/0001-95;29/09/2010;       Combustíveis e lubrificantes;R$ 50,00;Cheque; -  -  / 43434 - PAULO MAZZA DE SOUZA - PR - Deputado Estadual;
+AUTO POSTO AUTODROMO;00.668.693/0001-95;01/10/2010;       Combustíveis e lubrificantes;R$ 110,00;Cheque; -  -  / 43434 - PAULO MAZZA DE SOUZA - PR - Deputado Estadual;
+DA HORA RODIZIO DE PASTEIS;11.366.459/0001-20;30/09/2010;       Alimentação;R$ 300,00;Cheque; -  -  / 43434 - PAULO MAZZA DE SOUZA - PR - Deputado Estadual;
+ELZA LEAL DOS SANTOS;00.732.832/0001-00;01/10/2010;       Telefone;R$ 80,00;Cheque; -  -  / 43434 - PAULO MAZZA DE SOUZA - PR - Deputado Estadual;
+PEDRO PAULO VIEIRA JUNIO;977.607.149-04;30/09/2010;       Despesas com pessoal;R$ 260,00;Cheque; -  -  / 43434 - PAULO MAZZA DE SOUZA - PR - Deputado Estadual;
+PINHAL GRAPH;82.666.884/0001-82;20/09/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 43434 - PAULO MAZZA DE SOUZA - PR - Deputado Estadual;
+PINHAL GRAPH;82.666.884/0001-82;29/09/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 43434 - PAULO MAZZA DE SOUZA - PR - Deputado Estadual;

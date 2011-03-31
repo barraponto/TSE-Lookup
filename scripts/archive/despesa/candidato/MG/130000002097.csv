@@ -1,2 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEICAO 2010 NELSON DA SILVA PEREIRA DEPUTADO FEDERAL;083.564.676-91;16/08/2010;13000701761;R$ 3.000,00;Transferência eletrônica;NELSON DA SILVA PEREIRA;1321;Deputado Federal;PT;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+PONTO COM GRAFICA LTDA;07.660.831/0001-39;20/08/2010;       Publicidade por materiais impressos;R$ 1.400,00;Transferência eletrônica; -  -  / 1321 - NELSON DA SILVA PEREIRA - MG - Deputado Federal;
+PONTO COM GRAFICA LTDA;07.660.831/0001-39;16/08/2010;       Publicidade por materiais impressos;R$ 1.400,00;Transferência eletrônica; -  -  / 1321 - NELSON DA SILVA PEREIRA - MG - Deputado Federal;
+POSTO PAULISTA 1 COMERCIO E SERVICOS LTDA;06.130.797/0001-28;02/10/2010;       Combustíveis e lubrificantes;R$ 200,00;Cheque; -  -  / 1321 - NELSON DA SILVA PEREIRA - MG - Deputado Federal;

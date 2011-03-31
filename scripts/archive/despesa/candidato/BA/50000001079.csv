@@ -1,2 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JAZIEL ARISTIDES DE CARVALHO;101.407.945-49;15/07/2010;40000660121;R$ 4.000,00;Cheque;JAZIEL ARISTIDES DE CARVALHO;40188;Deputado Estadual;PSB;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CUNHA COMERCIO E DERIVADOS DE PETROLEO LTDA.;00.754.315/0001-24;01/10/2010;       Combustíveis e lubrificantes;R$ 480,00;Cheque; -  -  / 40188 - JAZIEL ARISTIDES DE CARVALHO - BA - Deputado Estadual;
+HERBERT CARVALHO OLIVEIRA;027.656.285-21;24/09/2010;       Publicidade por placas, estandartes e faixas;R$ 720,00;Cheque; -  -  / 40188 - JAZIEL ARISTIDES DE CARVALHO - BA - Deputado Estadual;
+PHOTHOLYTHUS SERVIÇOS DIGITAIS LTDA.;04.649.374/0001-93;19/08/2010;       Publicidade por materiais impressos;R$ 2.800,00;Cheque; -  -  / 40188 - JAZIEL ARISTIDES DE CARVALHO - BA - Deputado Estadual;

@@ -1,6 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.221.838/0001-94;04/10/2010;10000071903;R$ 3.400,00;Cheque;LIDIA SOARES DA MATA;1001;Deputado Federal;PRB;DF;
-Comitê Financeiro Único;12.221.838/0001-94;22/09/2010;10000071902;R$ 3.400,00;Cheque;LIDIA SOARES DA MATA;1001;Deputado Federal;PRB;DF;
-Comitê Financeiro Único;12.221.838/0001-94;30/09/2010;10000071905;R$ 8.884,97;Estimado;LIDIA SOARES DA MATA;1001;Deputado Federal;PRB;DF;
-Comitê Financeiro Único;12.221.838/0001-94;30/08/2010;10000071904;R$ 2.249,37;Estimado;LIDIA SOARES DA MATA;1001;Deputado Federal;PRB;DF;
-NELIO DE JESUS JALOTO;126.689.597-30;01/09/2010;10000071901;R$ 510,00;Estimado;LIDIA SOARES DA MATA;1001;Deputado Federal;PRB;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.221.838/0001-94;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 8.884,97;Estimado;Comitê Financeiro Único - PRB -  / 1001 - LIDIA SOARES DA MATA - DF - Deputado Federal;
+Comitê Financeiro Único;12.221.838/0001-94;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.249,37;Estimado;Comitê Financeiro Único - PRB -  / 1001 - LIDIA SOARES DA MATA - DF - Deputado Federal;
+GRAFICA E PAPELARIA DIAS LTDA - ME;11.987.128/0001-07;24/09/2010;       Publicidade por materiais impressos;R$ 3.300,00;Cheque; -  -  / 1001 - LIDIA SOARES DA MATA - DF - Deputado Federal;
+GRAFICA E PAPELARIA DIAS LTDA - ME;11.987.128/0001-07;01/10/2010;       Publicidade por materiais impressos;R$ 3.200,00;Cheque; -  -  / 1001 - LIDIA SOARES DA MATA - DF - Deputado Federal;
+NELIO DE JESUS JALOTO;126.689.597-30;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 510,00;Estimado; -  -  / 1001 - LIDIA SOARES DA MATA - DF - Deputado Federal;
+;;05/10/2010;       Encargos financeiros e taxas bancárias;R$ 4,50;Débito em conta; -  -  / 1001 - LIDIA SOARES DA MATA - DF - Deputado Federal;

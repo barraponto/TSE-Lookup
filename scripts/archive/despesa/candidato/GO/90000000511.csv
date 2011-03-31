@@ -1,8 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ROGERIO RIBEIRO DA SILVA;810.730.891-34;04/11/2010;22000042508;R$ 32,50;Outros títulos de crédito;ROGÉRIO RIBEIRO DA SILVA;22223;Deputado Estadual;PR;GO;
-ROGERIO RIBEIRO DA SILVA;810.730.891-34;22/07/2010;22000042506;R$ 10,00;Depósito em espécie;ROGÉRIO RIBEIRO DA SILVA;22223;Deputado Estadual;PR;GO;
-SANDRO ANTONIO SCODRO;12.167.331/0001-08;15/09/2010;22000042502;R$ 284,70;Estimado;ROGÉRIO RIBEIRO DA SILVA;22223;Deputado Estadual;PR;GO;
-SANDRO ANTONIO SCODRO;12.167.331/0001-08;15/09/2010;22000042503;R$ 187,50;Estimado;ROGÉRIO RIBEIRO DA SILVA;22223;Deputado Estadual;PR;GO;
-SANDRO ANTONIO SCODRO;12.167.331/0001-08;15/09/2010;22000042505;R$ 341,00;Estimado;ROGÉRIO RIBEIRO DA SILVA;22223;Deputado Estadual;PR;GO;
-SANDRO ANTONIO SCODRO;12.167.331/0001-08;26/07/2010;22000042501;R$ 368,00;Estimado;ROGÉRIO RIBEIRO DA SILVA;22223;Deputado Estadual;PR;GO;
-SANDRO ANTONIO SCODRO;12.167.331/0001-08;25/08/2010;22000042504;R$ 907,50;Estimado;ROGÉRIO RIBEIRO DA SILVA;22223;Deputado Estadual;PR;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+SANDRO ANTONIO SCODRO;12.167.331/0001-08;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 284,70;Estimado;2233 -  - PR -  - Deputado Federal / 22223 - ROGÉRIO RIBEIRO DA SILVA - GO - Deputado Estadual;
+SANDRO ANTONIO SCODRO;12.167.331/0001-08;26/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 368,00;Estimado;2233 -  - PR -  - Deputado Federal / 22223 - ROGÉRIO RIBEIRO DA SILVA - GO - Deputado Estadual;
+SANDRO ANTONIO SCODRO;12.167.331/0001-08;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 187,50;Estimado;2233 -  - PR -  - Deputado Federal / 22223 - ROGÉRIO RIBEIRO DA SILVA - GO - Deputado Estadual;
+SANDRO ANTONIO SCODRO;12.167.331/0001-08;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 907,50;Estimado;2233 -  - PR -  - Deputado Federal / 22223 - ROGÉRIO RIBEIRO DA SILVA - GO - Deputado Estadual;
+SANDRO ANTONIO SCODRO;12.167.331/0001-08;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 341,00;Estimado;2233 -  - PR -  - Deputado Federal / 22223 - ROGÉRIO RIBEIRO DA SILVA - GO - Deputado Estadual;

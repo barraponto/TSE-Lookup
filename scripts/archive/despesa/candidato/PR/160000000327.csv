@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 CARLOS ALBERTO RICHA GOVERNADOR;12.190.887/0001-07;01/09/2010;23000180651;R$ 630,00;Estimado;CLARISDETE RODRIGUES;23830;Deputado Estadual;PPS;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 CARLOS ALBERTO RICHA GOVERNADOR;12.190.887/0001-07;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 630,00;Estimado;45 -  - PSDB -  - Governador / 23830 - CLARISDETE RODRIGUES - PR - Deputado Estadual;

@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MAX FREITAS MAURO FILHO;12.191.457/0001-00;23/08/2010;14000001653;R$ 225,00;Estimado;NAZARENO CAMARGO FONTE BOA;14220;Deputado Estadual;PTB;ES;
-MAX FREITAS MAURO FILHO;12.191.457/0001-00;28/09/2010;14000001654;R$ 60,00;Estimado;NAZARENO CAMARGO FONTE BOA;14220;Deputado Estadual;PTB;ES;
-TRACOS E FORMAS COM.IND.CONFECCOES LTDA;03.426.626/0001-52;23/08/2010;14000001652;R$ 1.500,00;Cheque;NAZARENO CAMARGO FONTE BOA;14220;Deputado Estadual;PTB;ES;
-TRACOS E FORMAS COM.IND.CONFECCOES LTDA;03.426.626/0001-52;17/09/2010;14000001655;R$ 720,00;Cheque;NAZARENO CAMARGO FONTE BOA;14220;Deputado Estadual;PTB;ES;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GAFICA E EDITORA A1 LTDA EPP;35.968.361/0001-00;26/08/2010;       Publicidade por materiais impressos;R$ 1.484,00;Cheque; -  -  / 14220 - NAZARENO CAMARGO FONTE BOA - ES - Deputado Estadual;
+GAFICA E EDITORA A1 LTDA EPP;35.968.361/0001-00;21/09/2010;       Publicidade por materiais impressos;R$ 720,00;Cheque; -  -  / 14220 - NAZARENO CAMARGO FONTE BOA - ES - Deputado Estadual;
+MAX FREITAS MAURO FILHO;12.191.457/0001-00;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 60,00;Estimado;1400 -  - PTB -  - Deputado Federal / 14220 - NAZARENO CAMARGO FONTE BOA - ES - Deputado Estadual;
+MAX FREITAS MAURO FILHO;12.191.457/0001-00;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 225,00;Estimado;1400 -  - PTB -  - Deputado Federal / 14220 - NAZARENO CAMARGO FONTE BOA - ES - Deputado Estadual;
+;;17/12/2010;       Encargos financeiros e taxas bancárias;R$ 15,00;Débito em conta; -  -  / 14220 - NAZARENO CAMARGO FONTE BOA - ES - Deputado Estadual;

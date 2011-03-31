@@ -1,5 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CLAUDEMIR PEREIRA;326.271.222-15;27/07/2010;12001825352;R$ 1.500,00;Depósito em espécie;CLAUDEMIR PEREIRA DOS SANTOS;12444;Deputado Estadual;PDT;RO;
-CLAUDEMIR PEREIRA;326.271.222-15;28/07/2010;12001825351;R$ 400,00;Depósito em espécie;CLAUDEMIR PEREIRA DOS SANTOS;12444;Deputado Estadual;PDT;RO;
-CLAUDEMIR PEREIRA;326.271.222-15;20/09/2010;12001825355;R$ 1.500,00;Estimado;CLAUDEMIR PEREIRA DOS SANTOS;12444;Deputado Estadual;PDT;RO;
-Diretório Estadual/Distrital;84.638.196/0001-34;20/09/2010;12001825354;R$ 247,50;Estimado;CLAUDEMIR PEREIRA DOS SANTOS;12444;Deputado Estadual;PDT;RO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO PAI  R& M COMERCIO DE COMBUSTIVEIS LTDA;04.958.480/0001-59;31/08/2010;       Combustíveis e lubrificantes;R$ 303,48;Cheque; -  -  / 12444 - CLAUDEMIR PEREIRA DOS SANTOS - RO - Deputado Estadual;
+AUTO POSTO PAI  R& M COMERCIO DE COMBUSTIVEIS LTDA;04.958.480/0001-59;27/07/2010;       Combustíveis e lubrificantes;R$ 505,80;Cheque; -  -  / 12444 - CLAUDEMIR PEREIRA DOS SANTOS - RO - Deputado Estadual;
+CLAUDEMIR PEREIRA;326.271.222-15;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado; -  -  / 12444 - CLAUDEMIR PEREIRA DOS SANTOS - RO - Deputado Estadual;
+Diretório Estadual/Distrital;84.638.196/0001-34;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 247,50;Estimado;Direção Estadual/Distrital - PMDB -  / 12444 - CLAUDEMIR PEREIRA DOS SANTOS - RO - Deputado Estadual;
+FLORISVALDO ALVES DA SILVA;661.736.121-00;01/10/2010;       Água;R$ 0,72;Cheque; -  -  / 12444 - CLAUDEMIR PEREIRA DOS SANTOS - RO - Deputado Estadual;
+POWER INK INDUST COM E SERV IM E EXP LTDA;07.238.061/0001-30;28/07/2010;       Publicidade por materiais impressos;R$ 90,00;Cheque; -  -  / 12444 - CLAUDEMIR PEREIRA DOS SANTOS - RO - Deputado Estadual;
+POWER INK INDUST COM E SERV IM E EXP LTDA;07.238.061/0001-30;27/07/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 12444 - CLAUDEMIR PEREIRA DOS SANTOS - RO - Deputado Estadual;

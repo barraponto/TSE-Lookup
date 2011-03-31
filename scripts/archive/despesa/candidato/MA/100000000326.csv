@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.221.840/0001-63;30/09/2010;13000667045;R$ 8.474,58;Estimado;RAIMUNDO NONATO SILVA JUNIOR;1345;Deputado Federal;PT;MA;
-RAIMUNDO NONATO SILVA JÚNIOR CHOCOLATE;738.854.953-68;24/09/2010;13000667044;R$ 350,00;Depósito em espécie;RAIMUNDO NONATO SILVA JUNIOR;1345;Deputado Federal;PT;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.221.840/0001-63;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 8.474,58;Estimado;Direção Estadual/Distrital - PT -  / 1345 - RAIMUNDO NONATO SILVA JUNIOR - MA - Deputado Federal;
+H.M. BÓGEA E CIA LTDA;01.153.837/0001-33;23/09/2010;       Publicidade por jornais e revistas;R$ 300,00;Cheque; -  -  / 1345 - RAIMUNDO NONATO SILVA JUNIOR - MA - Deputado Federal;
+;;24/09/2010;       Impostos, contribuições e taxas;R$ 21,20;Débito em conta; -  -  / 1345 - RAIMUNDO NONATO SILVA JUNIOR - MA - Deputado Federal;

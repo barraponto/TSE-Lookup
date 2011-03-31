@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-AUDENORA FERREIRA LAVES;166.191.964-20;27/10/2010;36000064341;R$ 2.578,50;Depósito em espécie;AUMIR FERREIRA ALVES;36014;Deputado Estadual;PTC;PE;
-HELDER CECILIO DOS ANJOS DA CRUZ;024.854.054-84;13/08/2010;36000064342;R$ 3.640,00;Estimado;AUMIR FERREIRA ALVES;36014;Deputado Estadual;PTC;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA SALGUEIRO LTDA-ME;41.106.865/0001-14;02/10/2010;       Publicidade por materiais impressos;R$ 1.250,00;Cheque; -  -  / 36014 - AUMIR FERREIRA ALVES - PE - Deputado Estadual;
+HELDER CECILIO DOS ANJOS DA CRUZ;024.854.054-84;13/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.640,00;Estimado; -  -  / 36014 - AUMIR FERREIRA ALVES - PE - Deputado Estadual;
+POSTO ITAMARATY;35.345.321/0001-02;02/10/2010;       Combustíveis e lubrificantes;R$ 1.328,50;Cheque; -  -  / 36014 - AUMIR FERREIRA ALVES - PE - Deputado Estadual;

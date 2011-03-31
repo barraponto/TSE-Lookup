@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.167/0001-85;10/09/2010;10000027043;R$ 3.320,00;Estimado;IVONETE VIEGAS FERREIRA;10312;Deputado Estadual;PRB;RJ;
-Comitê Financeiro Único;12.200.167/0001-85;13/09/2010;10000027044;R$ 300,00;Estimado;IVONETE VIEGAS FERREIRA;10312;Deputado Estadual;PRB;RJ;
-Comitê Financeiro Único;12.200.167/0001-85;27/09/2010;10000027045;R$ 600,00;Estimado;IVONETE VIEGAS FERREIRA;10312;Deputado Estadual;PRB;RJ;
-Diretório Estadual/Distrital;12.200.167/0001-85;10/09/2010;10000027042;R$ 230,00;Estimado;IVONETE VIEGAS FERREIRA;10312;Deputado Estadual;PRB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.167/0001-85;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.320,00;Estimado;Comitê Financeiro Único - PRB -  / 10312 - IVONETE VIEGAS FERREIRA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.200.167/0001-85;13/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PRB -  / 10312 - IVONETE VIEGAS FERREIRA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.200.167/0001-85;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado;Comitê Financeiro Único - PRB -  / 10312 - IVONETE VIEGAS FERREIRA - RJ - Deputado Estadual;
+Diretório Estadual/Distrital;12.200.167/0001-85;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 230,00;Estimado;Direção Estadual/Distrital - PRB -  / 10312 - IVONETE VIEGAS FERREIRA - RJ - Deputado Estadual;

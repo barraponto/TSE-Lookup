@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.217.540/0001-00;30/09/2010;15000214263;R$ 3.070,00;Estimado;VALMIR DANTAS DE CARVALHO;15888;Deputado Estadual;PMDB;RN;
-GARIBALDI ALVES FILHO;12.197.974/0001-96;13/09/2010;15000214262;R$ 193,00;Estimado;VALMIR DANTAS DE CARVALHO;15888;Deputado Estadual;PMDB;RN;
-HENRIQUE EDUARDO LYRA ALVES;12.198.521/0001-84;29/08/2010;15000214261;R$ 730,00;Estimado;VALMIR DANTAS DE CARVALHO;15888;Deputado Estadual;PMDB;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.217.540/0001-00;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.070,00;Estimado;Comitê Financeiro Único - PMDB -  / 15888 - VALMIR DANTAS DE CARVALHO - RN - Deputado Estadual;
+GARIBALDI ALVES FILHO;12.197.974/0001-96;13/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 193,00;Estimado;154 -  - PMDB -  - Senador / 15888 - VALMIR DANTAS DE CARVALHO - RN - Deputado Estadual;
+HENRIQUE EDUARDO LYRA ALVES;12.198.521/0001-84;29/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 730,00;Estimado;1511 -  - PMDB -  - Deputado Federal / 15888 - VALMIR DANTAS DE CARVALHO - RN - Deputado Estadual;

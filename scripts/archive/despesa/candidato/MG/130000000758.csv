@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 - JOSÉ APARECIDO DE OLIVEIRA;12.168.802/0001-94;28/08/2010;43001708952;R$ 440,00;Estimado;LUIZ DIAS DA SILVA;4304;Deputado Federal;PV;MG;
-ELEIÇÃO 2010 RONALDO VASCONCELLOS;12.170.805/0001-62;19/08/2010;43001708951;R$ 305,00;Estimado;LUIZ DIAS DA SILVA;4304;Deputado Federal;PV;MG;
-FERNANDA BRAZ SANTAROSA;046.010.006-88;26/08/2010;43001708956;R$ 100,00;Depósito em espécie;LUIZ DIAS DA SILVA;4304;Deputado Federal;PV;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 - JOSÉ APARECIDO DE OLIVEIRA;12.168.802/0001-94;28/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 440,00;Estimado;43 -  - PV -  - Governador / 4304 - LUIZ DIAS DA SILVA - MG - Deputado Federal;
+ELEIÇÃO 2010 RONALDO VASCONCELLOS;12.170.805/0001-62;19/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 305,00;Estimado;43222 -  - PV -  - Deputado Estadual / 4304 - LUIZ DIAS DA SILVA - MG - Deputado Federal;
+YURI ANTONIO FAGUNDES FARIA;082.511.736-47;03/09/2010;       Serviços prestados por terceiros;R$ 100,00;Cheque; -  -  / 4304 - LUIZ DIAS DA SILVA - MG - Deputado Federal;

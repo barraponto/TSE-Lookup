@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;11000005243;R$ 300,00;Estimado;CARLOS ALBERTO DOS SANTOS;11222;Deputado Estadual;PP;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;27/07/2010;11000005221;R$ 150,00;Estimado;CARLOS ALBERTO DOS SANTOS;11222;Deputado Estadual;PP;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;11000005242;R$ 150,00;Estimado;CARLOS ALBERTO DOS SANTOS;11222;Deputado Estadual;PP;RJ;
-Comitê Financeiro Único;12.200.097/0001-65;02/10/2010;11000005244;R$ 3.592,00;Estimado;CARLOS ALBERTO DOS SANTOS;11222;Deputado Estadual;PP;RJ;
-JORGE SAYED PICCIANI;12.176.626/0001-32;27/08/2010;11000005222;R$ 13,86;Estimado;CARLOS ALBERTO DOS SANTOS;11222;Deputado Estadual;PP;RJ;
-JORGE SAYED PICCIANI;12.176.626/0001-32;29/09/2010;11000005241;R$ 15,75;Estimado;CARLOS ALBERTO DOS SANTOS;11222;Deputado Estadual;PP;RJ;
-JORGE SAYED PICCIANI;12.176.626/0001-32;27/08/2010;11000005223;R$ 17,00;Estimado;CARLOS ALBERTO DOS SANTOS;11222;Deputado Estadual;PP;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.097/0001-65;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.592,00;Estimado;Comitê Financeiro Único - PMDB -  / 11222 - CARLOS ALBERTO DOS SANTOS - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 11222 - CARLOS ALBERTO DOS SANTOS - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 11222 - CARLOS ALBERTO DOS SANTOS - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;27/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 11222 - CARLOS ALBERTO DOS SANTOS - RJ - Deputado Estadual;
+JORGE SAYED PICCIANI;12.176.626/0001-32;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 11222 - CARLOS ALBERTO DOS SANTOS - RJ - Deputado Estadual;
+JORGE SAYED PICCIANI;12.176.626/0001-32;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 13,86;Estimado;155 -  - PMDB -  - Senador / 11222 - CARLOS ALBERTO DOS SANTOS - RJ - Deputado Estadual;
+JORGE SAYED PICCIANI;12.176.626/0001-32;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 15,75;Estimado;155 -  - PMDB -  - Senador / 11222 - CARLOS ALBERTO DOS SANTOS - RJ - Deputado Estadual;

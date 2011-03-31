@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 TEOTONIO BRANDÃO VILELA FILHO GOVERNADOR;12.170.978/0001-80;28/09/2010;23000039011;R$ 750,00;Estimado;GERALDO BARBOSA;23699;Deputado Estadual;PPS;AL;
-ELEIÇÃO 2010 TEOTÔNIO BRANDÃO VILELA FILHO GOVERNADOR;12.170.978/0001-80;18/09/2010;23000039010;R$ 4.147,97;Estimado;GERALDO BARBOSA;23699;Deputado Estadual;PPS;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 TEOTONIO BRANDÃO VILELA FILHO GOVERNADOR;12.170.978/0001-80;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 750,00;Estimado;45 -  - PSDB -  - Governador / 23699 - GERALDO BARBOSA - AL - Deputado Estadual;
+ELEIÇÃO 2010 TEOTÔNIO BRANDÃO VILELA FILHO GOVERNADOR;12.170.978/0001-80;18/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.147,97;Estimado;45 -  - PSDB -  - Governador / 23699 - GERALDO BARBOSA - AL - Deputado Estadual;

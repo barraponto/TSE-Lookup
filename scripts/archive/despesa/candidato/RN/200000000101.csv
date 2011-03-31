@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOAO PAULINO DOS SANTOS NETO;597.664.254-34;03/10/2010;22000054501;R$ 510,00;Estimado;ALBERVANIA SILVA DE MEDEIROS COSTA;2233;Deputado Federal;PR;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JOAO PAULINO DOS SANTOS NETO;597.664.254-34;03/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 510,00;Estimado; -  -  / 2233 - ALBERVANIA SILVA DE MEDEIROS COSTA - RN - Deputado Federal;

@@ -1,5 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;20000075803;R$ 179,25;Estimado;SARA QUEIROZ DOS SANTOS;2014;Deputado Federal;PSC;BA;
-Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;20000075804;R$ 833,45;Estimado;SARA QUEIROZ DOS SANTOS;2014;Deputado Federal;PSC;BA;
-ODETE QUEIROZ DOS SANTOS;135.974.505-04;23/09/2010;20000075802;R$ 737,00;Depósito em espécie;SARA QUEIROZ DOS SANTOS;2014;Deputado Federal;PSC;BA;
-SARA QUEIROZ DOS SANTOS;497.974.095-20;11/08/2010;20000075801;R$ 100,00;Depósito em espécie;SARA QUEIROZ DOS SANTOS;2014;Deputado Federal;PSC;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 179,25;Estimado;Comitê Financeiro Único - PMDB -  / 2014 - SARA QUEIROZ DOS SANTOS - BA - Deputado Federal;
+Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 833,45;Estimado;Comitê Financeiro Único - PMDB -  / 2014 - SARA QUEIROZ DOS SANTOS - BA - Deputado Federal;
+GRAFICA LISBOA AZEVEDO LTDA;05.525.107/0001-77;05/09/2010;       Publicidade por materiais impressos;R$ 700,00;Cheque; -  -  / 2014 - SARA QUEIROZ DOS SANTOS - BA - Deputado Federal;
+ROSINEY DA SILVA SANTOS;419.018.862-04;23/08/2010;       Serviços prestados por terceiros;R$ 80,00;Cheque; -  -  / 2014 - SARA QUEIROZ DOS SANTOS - BA - Deputado Federal;
+;;23/09/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 2014 - SARA QUEIROZ DOS SANTOS - BA - Deputado Federal;
+;;10/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 2014 - SARA QUEIROZ DOS SANTOS - BA - Deputado Federal;
+;;08/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 2014 - SARA QUEIROZ DOS SANTOS - BA - Deputado Federal;
+;;17/08/2010;       Encargos financeiros e taxas bancárias;R$ 19,00;Débito em conta; -  -  / 2014 - SARA QUEIROZ DOS SANTOS - BA - Deputado Federal;
+;;30/09/2010;       Encargos financeiros e taxas bancárias;R$ 19,60;Débito em conta; -  -  / 2014 - SARA QUEIROZ DOS SANTOS - BA - Deputado Federal;

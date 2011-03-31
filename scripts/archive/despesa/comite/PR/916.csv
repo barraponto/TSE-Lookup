@@ -1,4 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
-CHAGAS E CHAGAS PUBLICIDADE LTDA;81.078.289/0001-63;17/08/2010;70000179202;R$ 12.000,00;Estimado;Comitê Financeiro Único;PT do B;PR;
-DANILO BECKER DAVILA;112.301.429-91;29/10/2010;70000179204;R$ 2.863,50;Depósito em espécie;Comitê Financeiro Único;PT do B;PR;
-GRAFICA CAPITAL LTDA;76.157.676/0001-55;27/08/2010;70000179203;R$ 6.960,00;Estimado;Comitê Financeiro Único;PT do B;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CHAGAS E CHAGAS PUBLICIDADE LTDA;81.078.289/0001-63;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 12.000,00;Estimado; -  -  / Comitê Financeiro Único - PT do B - PR;
+GRAFICA CAPITAL LTDA;76.157.676/0001-55;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 6.960,00;Estimado; -  -  / Comitê Financeiro Único - PT do B - PR;
+KEOPS INDUSTRIA GRAFICA S.A.;01.674.524/0001-20;30/09/2010;       Publicidade por materiais impressos;R$ 2.850,00;Transferência eletrônica; -  -  / Comitê Financeiro Único - PT do B - PR;
+;;29/10/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Transferência eletrônica; -  -  / Comitê Financeiro Único - PT do B - PR;

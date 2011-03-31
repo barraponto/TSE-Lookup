@@ -1,6 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.228/0001-05;30/09/2010;15000256609;R$ 1.389,32;Estimado;ANTÔNIO MARCÉLIO DA SILVA;15020;Deputado Distrital;PMDB;DF;
-Comitê Financeiro Único;12.205.228/0001-05;13/09/2010;15000256605;R$ 3.500,00;Cheque;ANTÔNIO MARCÉLIO DA SILVA;15020;Deputado Distrital;PMDB;DF;
-JADER CORREA DE SÁ;12.204.288/0001-03;21/09/2010;15000256606;R$ 30.000,00;Cheque;ANTÔNIO MARCÉLIO DA SILVA;15020;Deputado Distrital;PMDB;DF;
-JADER CORREA DE SÁ;12.204.288/0001-03;24/09/2010;15000256607;R$ 2.000,00;Estimado;ANTÔNIO MARCÉLIO DA SILVA;15020;Deputado Distrital;PMDB;DF;
-;;23/08/2010;;R$ 4.000,00;Não informado;ANTÔNIO MARCÉLIO DA SILVA;15020;Deputado Distrital;PMDB;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.228/0001-05;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.389,32;Estimado;Comitê Financeiro Único - PMDB -  / 15020 - ANTÔNIO MARCÉLIO DA SILVA - DF - Deputado Distrital;
+ELMA MARIA NOBRE SILVA;223.183.423-68;13/09/2010;       Serviços prestados por terceiros;R$ 2.219,00;Não informado; -  -  / 15020 - ANTÔNIO MARCÉLIO DA SILVA - DF - Deputado Distrital;
+GRÁFICA TOLETINO;08.540.661/0001-11;24/09/2010;       Publicidade por materiais impressos;R$ 2.000,00;Não informado; -  -  / 15020 - ANTÔNIO MARCÉLIO DA SILVA - DF - Deputado Distrital;
+IZABEL CRISTINA NOBRE SILVA;720.473.641-91;30/09/2010;       Serviços prestados por terceiros;R$ 3.281,00;Não informado; -  -  / 15020 - ANTÔNIO MARCÉLIO DA SILVA - DF - Deputado Distrital;
+JADER CORREA DE SÁ;12.204.288/0001-03;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado;1577 -  - PMDB -  - Deputado Federal / 15020 - ANTÔNIO MARCÉLIO DA SILVA - DF - Deputado Distrital;
+;;28/09/2010;       Encargos financeiros e taxas bancárias;R$ 30.000,00;Débito em conta; -  -  / 15020 - ANTÔNIO MARCÉLIO DA SILVA - DF - Deputado Distrital;

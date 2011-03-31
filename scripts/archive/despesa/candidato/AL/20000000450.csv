@@ -1,3 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Governador;12.191.521/0001-52;01/10/2010;12001005513;R$ 39,44;Estimado;ERIVALDO PAULINO DA SILVA;12789;Deputado Estadual;PDT;AL;
-ELEIÇÃO 2010 RONALDO AUGUSTO LESSA SANTOS GOVERNADOR;12.168.518/0001-18;19/08/2010;12001005512;R$ 5.000,00;Cheque;ERIVALDO PAULINO DA SILVA;12789;Deputado Estadual;PDT;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANDRESA ALVES DA SILVA;086.804.234-08;26/08/2010;       Despesas com pessoal;R$ 700,00;Cheque; -  -  / 12789 - ERIVALDO PAULINO DA SILVA - AL - Deputado Estadual;
+Comitê Financeiro Estadual/Distrital para Governador;12.191.521/0001-52;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 39,44;Estimado;Comitê Financeiro Distrital/Estadual para Governador - PDT -  / 12789 - ERIVALDO PAULINO DA SILVA - AL - Deputado Estadual;
+DAVI OLIVEIRA RIOS;041.226.594-00;26/08/2010;       Serviços prestados por terceiros;R$ 3.000,00;Cheque; -  -  / 12789 - ERIVALDO PAULINO DA SILVA - AL - Deputado Estadual;
+JOÃO ALBERTO DA SILVA;540.188.894-53;26/08/2010;       Despesas com pessoal;R$ 400,00;Cheque; -  -  / 12789 - ERIVALDO PAULINO DA SILVA - AL - Deputado Estadual;
+JOÃO ALBERTO DA SILVA;540.188.894-53;26/08/2010;       Despesas com pessoal;R$ 100,00;Cheque; -  -  / 12789 - ERIVALDO PAULINO DA SILVA - AL - Deputado Estadual;
+LUCINEIA ALVES DE OLIVEIRA;926.075.784-34;26/08/2010;       Despesas com pessoal;R$ 800,00;Cheque; -  -  / 12789 - ERIVALDO PAULINO DA SILVA - AL - Deputado Estadual;

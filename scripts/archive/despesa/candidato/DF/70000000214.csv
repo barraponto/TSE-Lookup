@@ -1,2 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.318.997/0001-01;23/09/2010;44000060051;R$ 2.900,00;Transferência eletrônica;AILTON ANTONIO ENEAS;44112;Deputado Distrital;PRP;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CONTAGEM DERIVADOS DE PETROLEO LTDA;37.149.861/0008-12;24/09/2010;       Combustíveis e lubrificantes;R$ 50,00;Transferência eletrônica; -  -  / 44112 - AILTON ANTONIO ENEAS - DF - Deputado Distrital;
+GASOL COMBUSTIVEIS AUTOMOTIVOS LTDA;00.603.738/0002-24;27/09/2010;       Combustíveis e lubrificantes;R$ 130,00;Transferência eletrônica; -  -  / 44112 - AILTON ANTONIO ENEAS - DF - Deputado Distrital;
+G.J. VIANNA PRODUÇÃO DE IMPRESSOS ME;03.715.754/0001-16;30/09/2010;       Publicidade por materiais impressos;R$ 2.420,00;Cheque; -  -  / 44112 - AILTON ANTONIO ENEAS - DF - Deputado Distrital;
+IGOR SANTHYAGO FERNANDES ENEAS;041.441.441-19;24/09/2010;       Serviços prestados por terceiros;R$ 300,00;Transferência eletrônica; -  -  / 44112 - AILTON ANTONIO ENEAS - DF - Deputado Distrital;

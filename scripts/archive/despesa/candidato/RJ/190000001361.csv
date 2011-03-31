@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MARIA RITA TEIXEIRA;685.467.427-15;26/08/2010;45000071722;R$ 300,00;Depósito em espécie;ROGERIO DOS SANTOS GOULART;45001;Deputado Estadual;PSDB;RJ;
-OTAVIO SANTOS SILVA LEITE;12.190.107/0001-29;10/08/2010;45000071723;R$ 1.440,00;Estimado;ROGERIO DOS SANTOS GOULART;45001;Deputado Estadual;PSDB;RJ;
-ROBSON MATIAS DE MORAIS;037.390.517-36;31/08/2010;45000071724;R$ 1.020,00;Estimado;ROGERIO DOS SANTOS GOULART;45001;Deputado Estadual;PSDB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+OTAVIO SANTOS SILVA LEITE;12.190.107/0001-29;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.440,00;Estimado;4555 -  - PSDB -  - Deputado Federal / 45001 - ROGERIO DOS SANTOS GOULART - RJ - Deputado Estadual;
+ROBSON MATIAS DE MORAIS;037.390.517-36;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.020,00;Estimado; -  -  / 45001 - ROGERIO DOS SANTOS GOULART - RJ - Deputado Estadual;
+ROBSON MATIAS DE MORAIS;037.390.517-36;15/09/2010;       Despesas com pessoal;R$ 300,00;Cheque; -  -  / 45001 - ROGERIO DOS SANTOS GOULART - RJ - Deputado Estadual;

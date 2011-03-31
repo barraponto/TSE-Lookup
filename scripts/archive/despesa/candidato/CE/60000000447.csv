@@ -1,6 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.217.554/0001-24;03/09/2010;13000621343;R$ 2.000,00;Estimado;FRANCISCO FABIO DE SOUSA GALVÃO;13213;Deputado Estadual;PT;CE;
-Comitê Financeiro Único;12.217.554/0001-24;27/08/2010;13000621344;R$ 264,70;Estimado;FRANCISCO FABIO DE SOUSA GALVÃO;13213;Deputado Estadual;PT;CE;
-FRANCISCO ELIZAUDO DA SILVA;309.764.723-68;27/08/2010;13000621342;R$ 1.100,00;Depósito em espécie;FRANCISCO FABIO DE SOUSA GALVÃO;13213;Deputado Estadual;PT;CE;
-FRANCISCO FÁBIO DE SOUSA GALVÃO;567.732.343-87;21/07/2010;13000621341;R$ 2.540,00;Depósito em espécie;FRANCISCO FABIO DE SOUSA GALVÃO;13213;Deputado Estadual;PT;CE;
-FRANCISCO FÁBIO DE SOUSA GALVÃO;567.732.343-87;29/09/2010;13000621345;R$ 4.000,00;Depósito em espécie;FRANCISCO FABIO DE SOUSA GALVÃO;13213;Deputado Estadual;PT;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.217.554/0001-24;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado;Comitê Financeiro Único - PT -  / 13213 - FRANCISCO FABIO DE SOUSA GALVÃO - CE - Deputado Estadual;
+Comitê Financeiro Único;12.217.554/0001-24;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 264,70;Estimado;Comitê Financeiro Único - PT -  / 13213 - FRANCISCO FABIO DE SOUSA GALVÃO - CE - Deputado Estadual;
+LC GRAFICA E EDITORA LTDA;05.288.202/0001-02;29/09/2010;       Publicidade por materiais impressos;R$ 4.047,10;Cheque; -  -  / 13213 - FRANCISCO FABIO DE SOUSA GALVÃO - CE - Deputado Estadual;
+LC GRAFICA E EDITORA LTDA;05.288.202/0001-02;06/08/2010;       Publicidade por materiais impressos;R$ 2.537,10;Cheque; -  -  / 13213 - FRANCISCO FABIO DE SOUSA GALVÃO - CE - Deputado Estadual;
+MARCOS PAULO DA SILVA BESSA;727.703.343-44;01/09/2010;       Locação/cessão de bens imóveis;R$ 1.050,00;Cheque; -  -  / 13213 - FRANCISCO FABIO DE SOUSA GALVÃO - CE - Deputado Estadual;
+;;23/07/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 13213 - FRANCISCO FABIO DE SOUSA GALVÃO - CE - Deputado Estadual;
+;;31/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 13213 - FRANCISCO FABIO DE SOUSA GALVÃO - CE - Deputado Estadual;

@@ -1,9 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.241.703/0001-90;27/08/2010;11000173447;R$ 1.100,00;Estimado;GEORGE WILLIAM CORTES PEREIRA;11333;Deputado Estadual;PP;AP;
-Comitê Financeiro Único;12.241.703/0001-90;28/09/2010;11000173452;R$ 577,00;Estimado;GEORGE WILLIAM CORTES PEREIRA;11333;Deputado Estadual;PP;AP;
-Comitê Financeiro Único;12.241.703/0001-90;08/08/2010;11000173446;R$ 400,00;Estimado;GEORGE WILLIAM CORTES PEREIRA;11333;Deputado Estadual;PP;AP;
-Comitê Financeiro Único;12.241.703/0001-90;01/10/2010;11000173453;R$ 550,00;Estimado;GEORGE WILLIAM CORTES PEREIRA;11333;Deputado Estadual;PP;AP;
-Comitê Financeiro Único;12.256.162/0001-74;24/08/2010;11000173449;R$ 240,00;Estimado;GEORGE WILLIAM CORTES PEREIRA;11333;Deputado Estadual;PP;AP;
-Comitê Financeiro Único;12.241.703/0001-90;28/09/2010;11000173450;R$ 625,00;Estimado;GEORGE WILLIAM CORTES PEREIRA;11333;Deputado Estadual;PP;AP;
-MARIA TEREZA DE HOLANDA CORTES;066.834.602-72;28/07/2010;11000173442;R$ 75,00;Estimado;GEORGE WILLIAM CORTES PEREIRA;11333;Deputado Estadual;PP;AP;
-MARINILZA DE SOUZA MACEDO;466.549.762-15;28/07/2010;11000173441;R$ 146,30;Estimado;GEORGE WILLIAM CORTES PEREIRA;11333;Deputado Estadual;PP;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.256.162/0001-74;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 240,00;Estimado;Comitê Financeiro Único - PP -  / 11333 - GEORGE WILLIAM CORTES PEREIRA - AP - Deputado Estadual;
+Comitê Financeiro Único;12.241.703/0001-90;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 625,00;Estimado;Comitê Financeiro Único - PP -  / 11333 - GEORGE WILLIAM CORTES PEREIRA - AP - Deputado Estadual;
+Comitê Financeiro Único;12.241.703/0001-90;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.100,00;Estimado;Comitê Financeiro Único - PP -  / 11333 - GEORGE WILLIAM CORTES PEREIRA - AP - Deputado Estadual;
+Comitê Financeiro Único;12.241.703/0001-90;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 550,00;Estimado;Comitê Financeiro Único - PP -  / 11333 - GEORGE WILLIAM CORTES PEREIRA - AP - Deputado Estadual;
+Comitê Financeiro Único;12.241.703/0001-90;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 577,00;Estimado;Comitê Financeiro Único - PP -  / 11333 - GEORGE WILLIAM CORTES PEREIRA - AP - Deputado Estadual;
+Comitê Financeiro Único;12.241.703/0001-90;08/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado;Comitê Financeiro Único - PP -  / 11333 - GEORGE WILLIAM CORTES PEREIRA - AP - Deputado Estadual;
+MARIA TEREZA DE HOLANDA CORTES;066.834.602-72;28/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 75,00;Estimado; -  -  / 11333 - GEORGE WILLIAM CORTES PEREIRA - AP - Deputado Estadual;
+MARINILZA DE SOUZA MACEDO;466.549.762-15;28/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 146,30;Estimado; -  -  / 11333 - GEORGE WILLIAM CORTES PEREIRA - AP - Deputado Estadual;

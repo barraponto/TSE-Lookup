@@ -1,7 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CANAL 27 COMUNICAÇÕES LTDA;37.079.498/0001-30;16/09/2010;13000624962;R$ 300,00;Cheque;MARCIO APOLINARIO DE OLIVEIRA SILVA;13233;Deputado Distrital;PT;DF;
-Comitê Financeiro Único;12.217.601/0001-30;17/09/2010;13000624963;R$ 7.000,00;Cheque;MARCIO APOLINARIO DE OLIVEIRA SILVA;13233;Deputado Distrital;PT;DF;
-ERIKA JUCA KOKAY;12.173.566/0001-02;09/09/2010;13000624961;R$ 600,00;Cheque;MARCIO APOLINARIO DE OLIVEIRA SILVA;13233;Deputado Distrital;PT;DF;
-JOÃO RICARDO EBERLE DENICOL;473.009.061-68;21/09/2010;13000624981;R$ 1.500,00;Estimado;MARCIO APOLINARIO DE OLIVEIRA SILVA;13233;Deputado Distrital;PT;DF;
-PAULO TADEU;12.199.324/0001-80;03/08/2010;13000624965;R$ 300,00;Estimado;MARCIO APOLINARIO DE OLIVEIRA SILVA;13233;Deputado Distrital;PT;DF;
-RODRIGO ROLLEMBERG;12.173.922/0001-80;20/09/2010;13000624964;R$ 76,42;Estimado;MARCIO APOLINARIO DE OLIVEIRA SILVA;13233;Deputado Distrital;PT;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS EDUARDO CRUZ PEREIRA;305.700.118-17;21/09/2010;       Produção de jingles, vinhetas e slogans;R$ 1.500,00;Cheque; -  -  / 13233 - MARCIO APOLINARIO DE OLIVEIRA SILVA - DF - Deputado Distrital;
+COOPERATIVA DE PROD ARTESANAL E INDUSTIAL DO DF;10.940.124/0001-00;27/09/2010;       Publicidade por materiais impressos;R$ 125,00;Cheque; -  -  / 13233 - MARCIO APOLINARIO DE OLIVEIRA SILVA - DF - Deputado Distrital;
+IDEAL COMUNICAÇÃO VISUAL LTDA;12.156.455/0001-80;16/09/2010;       Publicidade por materiais impressos;R$ 368,00;Cheque; -  -  / 13233 - MARCIO APOLINARIO DE OLIVEIRA SILVA - DF - Deputado Distrital;
+JBM CHURRASCARIA LTDA;72.571.821/0001-99;17/09/2010;       Eventos de promoção da candidatura;R$ 3.750,00;Cheque; -  -  / 13233 - MARCIO APOLINARIO DE OLIVEIRA SILVA - DF - Deputado Distrital;
+JOÃO RICARDO EBERLE DENICOL;473.009.061-68;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado; -  -  / 13233 - MARCIO APOLINARIO DE OLIVEIRA SILVA - DF - Deputado Distrital;
+MANOEL MENEZES BONFIM;098.461.071-53;22/09/2010;       Publicidade por materiais impressos;R$ 150,00;Cheque; -  -  / 13233 - MARCIO APOLINARIO DE OLIVEIRA SILVA - DF - Deputado Distrital;
+PAULO TADEU;12.199.324/0001-80;03/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;1310 -  - PT -  - Deputado Federal / 13233 - MARCIO APOLINARIO DE OLIVEIRA SILVA - DF - Deputado Distrital;
+RAFAEL RIOS CROSARA;714.705.141-68;21/09/2010;       Produção de jingles, vinhetas e slogans;R$ 2.000,00;Cheque; -  -  / 13233 - MARCIO APOLINARIO DE OLIVEIRA SILVA - DF - Deputado Distrital;
+RODRIGO ROLLEMBERG;12.173.922/0001-80;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 76,42;Estimado;400 -  - PSB -  - Senador / 13233 - MARCIO APOLINARIO DE OLIVEIRA SILVA - DF - Deputado Distrital;

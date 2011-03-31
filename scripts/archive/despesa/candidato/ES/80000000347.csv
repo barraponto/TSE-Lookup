@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LUIZ PAULO VELLOZO LUCAS;12.179.441/0001-81;01/10/2010;14000000402;R$ 2.600,00;Estimado;EDSON ALVES DE FREITAS;14133;Deputado Estadual;PTB;ES;
-MAX DE FREITAS MAURO FILHO;12.191.457/0001-00;01/10/2010;14000000404;R$ 60,00;Estimado;EDSON ALVES DE FREITAS;14133;Deputado Estadual;PTB;ES;
-MAX DE FREITAS MAURO FILHO;12.191.457/0001-00;30/08/2010;14000000401;R$ 225,00;Estimado;EDSON ALVES DE FREITAS;14133;Deputado Estadual;PTB;ES;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+LUIZ PAULO VELLOZO LUCAS;12.179.441/0001-81;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.600,00;Estimado;45 -  - PSDB -  - Governador / 14133 - EDSON ALVES DE FREITAS - ES - Deputado Estadual;
+MAX DE FREITAS MAURO FILHO;12.191.457/0001-00;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 60,00;Estimado;1400 -  - PTB -  - Deputado Federal / 14133 - EDSON ALVES DE FREITAS - ES - Deputado Estadual;
+MAX DE FREITAS MAURO FILHO;12.191.457/0001-00;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 225,00;Estimado;1400 -  - PTB -  - Deputado Federal / 14133 - EDSON ALVES DE FREITAS - ES - Deputado Estadual;

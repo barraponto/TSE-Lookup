@@ -1,5 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ARAY MIRA FEITOSA;177.278.122-34;01/08/2010;45000337541;R$ 600,00;Estimado;LAERCIO AIRES DOS SANTOS;45333;Deputado Estadual;PSDB;AP;
-DAVI NUNES FILHO;004.671.462-68;14/09/2010;45000337544;R$ 500,00;Estimado;LAERCIO AIRES DOS SANTOS;45333;Deputado Estadual;PSDB;AP;
-LAERCIO AIRES DOS SANTOS;039.790.242-53;05/08/2010;45000337542;R$ 1.000,00;Estimado;LAERCIO AIRES DOS SANTOS;45333;Deputado Estadual;PSDB;AP;
-LAERCIO AIRES DOS SANTOS;039.790.242-53;02/08/2010;45000337543;R$ 9.000,00;Transferência eletrônica;LAERCIO AIRES DOS SANTOS;45333;Deputado Estadual;PSDB;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+A. C. S. SAMPAIO ME;07.563.222/0001-61;09/08/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 45333 - LAERCIO AIRES DOS SANTOS - AP - Deputado Estadual;
+A. C. S. SAMPAIO ME;07.563.222/0001-61;31/08/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 45333 - LAERCIO AIRES DOS SANTOS - AP - Deputado Estadual;
+A. L. DE MELO ME;05.989.595/0001-73;29/09/2010;       Diversas a especificar;R$ 102,00;Cheque; -  -  / 45333 - LAERCIO AIRES DOS SANTOS - AP - Deputado Estadual;
+ARAY MIRA FEITOSA;177.278.122-34;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado; -  -  / 45333 - LAERCIO AIRES DOS SANTOS - AP - Deputado Estadual;
+DAVI NUNES FILHO;004.671.462-68;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 45333 - LAERCIO AIRES DOS SANTOS - AP - Deputado Estadual;
+LAERCIO AIRES DOS SANTOS;039.790.242-53;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 45333 - LAERCIO AIRES DOS SANTOS - AP - Deputado Estadual;
+R. C. VON SHARTEN ME;07.093.512/0001-99;05/08/2010;       Publicidade por materiais impressos;R$ 3.898,00;Cheque; -  -  / 45333 - LAERCIO AIRES DOS SANTOS - AP - Deputado Estadual;
+R. C. VON SHARTEN ME;07.093.512/0001-99;05/08/2010;       Publicidade por materiais impressos;R$ 2.100,00;Cheque; -  -  / 45333 - LAERCIO AIRES DOS SANTOS - AP - Deputado Estadual;
+SALOMAO ALCOLUMBRE & CIA LTDA;05.983.192/0003-89;12/08/2010;       Combustíveis e lubrificantes;R$ 1.000,00;Cheque; -  -  / 45333 - LAERCIO AIRES DOS SANTOS - AP - Deputado Estadual;
+SALOMAO ALCOLUMBRE & CIA LTDA;05.983.192/0003-89;19/08/2010;       Combustíveis e lubrificantes;R$ 1.000,00;Cheque; -  -  / 45333 - LAERCIO AIRES DOS SANTOS - AP - Deputado Estadual;

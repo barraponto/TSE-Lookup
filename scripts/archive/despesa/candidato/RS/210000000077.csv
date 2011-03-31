@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LUCIANA GENRO;12.154.809/0001-57;16/07/2010;50000479801;R$ 2.394,00;Estimado;PAULO RICARDO MORAES MOURA;50250;Deputado Estadual;PSOL;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+LUCIANA GENRO;12.154.809/0001-57;16/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.394,00;Estimado;5050 -  - PSOL -  - Deputado Federal / 50250 - PAULO RICARDO MORAES MOURA - RS - Deputado Estadual;

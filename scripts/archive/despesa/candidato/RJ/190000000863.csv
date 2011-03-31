@@ -1,7 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;12001063446;R$ 300,00;Estimado;LUCIA MARIA LOPES;1207;Deputado Federal;PDT;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;12001063447;R$ 150,00;Estimado;LUCIA MARIA LOPES;1207;Deputado Federal;PDT;RJ;
-Comitê Financeiro Único;12.205.322/0001-56;29/09/2010;12001063443;R$ 3.639,86;Estimado;LUCIA MARIA LOPES;1207;Deputado Federal;PDT;RJ;
-FELIPE DOS SANTOS PEIXOTO;12.167.944/0001-37;29/09/2010;12001063448;R$ 41,25;Estimado;LUCIA MARIA LOPES;1207;Deputado Federal;PDT;RJ;
-FELIPE DOS SANTOS PEIXOTO;12.167.944/0001-37;21/09/2010;12001063444;R$ 1.000,00;Transferência eletrônica;LUCIA MARIA LOPES;1207;Deputado Federal;PDT;RJ;
-RESERVE COPIADORA LTDA.;01.137.644/0001-99;30/09/2010;12001063445;R$ 380,00;Estimado;LUCIA MARIA LOPES;1207;Deputado Federal;PDT;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.322/0001-56;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.639,86;Estimado;Comitê Financeiro Único - PDT -  / 1207 - LUCIA MARIA LOPES - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PDT -  / 1207 - LUCIA MARIA LOPES - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PDT -  / 1207 - LUCIA MARIA LOPES - RJ - Deputado Federal;
+FELIPE DOS SANTOS PEIXOTO;12.167.944/0001-37;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 41,25;Estimado;12369 -  - PDT -  - Deputado Estadual / 1207 - LUCIA MARIA LOPES - RJ - Deputado Federal;
+MARCELO RIBEIRO DA ROCHA;023.413.247-70;01/10/2010;       Despesas com pessoal;R$ 700,00;Cheque; -  -  / 1207 - LUCIA MARIA LOPES - RJ - Deputado Federal;
+MAX KINDLER FILHO;037.950.917-21;29/09/2010;       Despesas com pessoal;R$ 150,00;Cheque; -  -  / 1207 - LUCIA MARIA LOPES - RJ - Deputado Federal;
+MELVIA BARBOSA GERALDO;636.176.417-68;29/09/2010;       Despesas com pessoal;R$ 150,00;Cheque; -  -  / 1207 - LUCIA MARIA LOPES - RJ - Deputado Federal;
+RESERVE COPIADORA LTDA.;01.137.644/0001-99;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 380,00;Estimado; -  -  / 1207 - LUCIA MARIA LOPES - RJ - Deputado Federal;

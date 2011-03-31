@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.372.871/0001-15;31/08/2010;12001570052;R$ 1.320,00;Estimado;NÁDIA VALDEZ FRANÇA;12456;Deputado Estadual;PDT;MG;
-Comitê Financeiro Único;12.372.871/0001-15;29/07/2010;12001570051;R$ 1.197,84;Estimado;NÁDIA VALDEZ FRANÇA;12456;Deputado Estadual;PDT;MG;
-MARIO LÚCIO HERINGER;12.174.649/0001-08;30/08/2010;12001570057;R$ 50,00;Estimado;NÁDIA VALDEZ FRANÇA;12456;Deputado Estadual;PDT;MG;
-MÁRIO LÚCIO HERINGER;12.174.649/0001-08;30/08/2010;12001570054;R$ 850,00;Estimado;NÁDIA VALDEZ FRANÇA;12456;Deputado Estadual;PDT;MG;
-MÁRIO LÚCIO HERINGER;12.174.649/0001-08;30/08/2010;12001570053;R$ 240,00;Estimado;NÁDIA VALDEZ FRANÇA;12456;Deputado Estadual;PDT;MG;
-MÁRIO LÚCIO HERINGER;12.174.649/0001-08;30/08/2010;12001570055;R$ 100,00;Estimado;NÁDIA VALDEZ FRANÇA;12456;Deputado Estadual;PDT;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.372.871/0001-15;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.320,00;Estimado;Comitê Financeiro Único - PDT -  / 12456 - NÁDIA VALDEZ FRANÇA - MG - Deputado Estadual;
+Comitê Financeiro Único;12.372.871/0001-15;29/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.197,84;Estimado;Comitê Financeiro Único - PDT -  / 12456 - NÁDIA VALDEZ FRANÇA - MG - Deputado Estadual;
+MARIO LÚCIO HERINGER;12.174.649/0001-08;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 50,00;Estimado;1234 -  - PDT -  - Deputado Federal / 12456 - NÁDIA VALDEZ FRANÇA - MG - Deputado Estadual;
+MÁRIO LÚCIO HERINGER;12.174.649/0001-08;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado;1234 -  - PDT -  - Deputado Federal / 12456 - NÁDIA VALDEZ FRANÇA - MG - Deputado Estadual;
+MÁRIO LÚCIO HERINGER;12.174.649/0001-08;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 240,00;Estimado;1234 -  - PDT -  - Deputado Federal / 12456 - NÁDIA VALDEZ FRANÇA - MG - Deputado Estadual;
+MÁRIO LÚCIO HERINGER;12.174.649/0001-08;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 850,00;Estimado;1234 -  - PDT -  - Deputado Federal / 12456 - NÁDIA VALDEZ FRANÇA - MG - Deputado Estadual;

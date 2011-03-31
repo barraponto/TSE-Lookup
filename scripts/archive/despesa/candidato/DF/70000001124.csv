@@ -1,4 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOAO BATISTA PEREIRA;151.480.171-04;20/07/2010;;R$ 190,00;Depósito em espécie;JOAO BATISTA PEREIRA;28288;Deputado Distrital;PRTB;DF;
-JOAO BATISTA PEREIRA;151.480.171-04;28/08/2010;;R$ 750,00;Estimado;JOAO BATISTA PEREIRA;28288;Deputado Distrital;PRTB;DF;
-JOAO BATISTA PEREIRA;151.480.171-04;30/07/2010;;R$ 600,00;Estimado;JOAO BATISTA PEREIRA;28288;Deputado Distrital;PRTB;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CAPITAL CARTÕES PRODUTOS GRÁFICOS LTDA - ME;09.381.870/0001-22;27/07/2010;       Publicidade por materiais impressos;R$ 171,77;Não informado; -  -  / 28288 - JOAO BATISTA PEREIRA - DF - Deputado Distrital;
+JOAO BATISTA PEREIRA;151.480.171-04;30/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado; -  -  / 28288 - JOAO BATISTA PEREIRA - DF - Deputado Distrital;
+JOAO BATISTA PEREIRA;151.480.171-04;28/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 750,00;Estimado; -  -  / 28288 - JOAO BATISTA PEREIRA - DF - Deputado Distrital;
+;;20/09/2010;       Encargos financeiros e taxas bancárias;R$ 9,00;Débito em conta; -  -  / 28288 - JOAO BATISTA PEREIRA - DF - Deputado Distrital;

@@ -1,2 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-COLOSSUS GEOLOGIA E PARTICIPAÇÕES LTDA;08.040.141/0001-40;06/08/2010;10000060644;R$ 40.000,00;Depósito em espécie;NEUTON PAULINO DE SOUZA;10567;Deputado Estadual;PRB;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANA CLAUDIA DUMONT;455.150.422-04;06/08/2010;       Despesas com pessoal;R$ 2.000,00;Cheque; -  -  / 10567 - NEUTON PAULINO DE SOUZA - PA - Deputado Estadual;
+GRAFICA POLIBRAS LTDA;07.854.836/0001-00;10/08/2010;       Publicidade por materiais impressos;R$ 2.800,00;Cheque; -  -  / 10567 - NEUTON PAULINO DE SOUZA - PA - Deputado Estadual;
+JOSÉ EVARISTO DOS SANTOS;333.894.972-34;06/08/2010;       Despesas com pessoal;R$ 5.000,00;Cheque; -  -  / 10567 - NEUTON PAULINO DE SOUZA - PA - Deputado Estadual;
+JOSÉ EVARISTO DOS SANTOS;333.894.972-34;06/08/2010;       Publicidade por carros de som;R$ 12.000,00;Cheque; -  -  / 10567 - NEUTON PAULINO DE SOUZA - PA - Deputado Estadual;
+JOSÉ EVARISTO DOS SANTOS;333.894.972-34;06/08/2010;       Despesas com pessoal;R$ 10.000,00;Cheque; -  -  / 10567 - NEUTON PAULINO DE SOUZA - PA - Deputado Estadual;
+SILVA ABREU COMERCIO DE COMBUSTÍVEIS LTDA;05.203.553/0003-27;31/08/2010;       Combustíveis e lubrificantes;R$ 8.000,00;Cheque; -  -  / 10567 - NEUTON PAULINO DE SOUZA - PA - Deputado Estadual;

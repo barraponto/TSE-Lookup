@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;46.050.027/0001-90;07/08/2010;22000059034;R$ 515,10;Estimado;SAMUEL MARQUES DOS SANTOS;2222;Deputado Federal;PR;RO;
-Comitê Financeiro Único;12.205.221/0001-85;11/09/2010;22000059032;R$ 1.177,78;Estimado;SAMUEL MARQUES DOS SANTOS;2222;Deputado Federal;PR;RO;
-Comitê Financeiro Único;12.205.221/0001-85;27/09/2010;22000059033;R$ 442,80;Estimado;SAMUEL MARQUES DOS SANTOS;2222;Deputado Federal;PR;RO;
-SAMUEL MARQUES DOS SANTOS;204.645.762-53;02/09/2010;22000059031;R$ 550,00;Depósito em espécie;SAMUEL MARQUES DOS SANTOS;2222;Deputado Federal;PR;RO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.221/0001-85;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 442,80;Estimado;Comitê Financeiro Único - PSDB -  / 2222 - SAMUEL MARQUES DOS SANTOS - RO - Deputado Federal;
+Comitê Financeiro Único;12.205.221/0001-85;11/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.177,78;Estimado;Comitê Financeiro Único - PSDB -  / 2222 - SAMUEL MARQUES DOS SANTOS - RO - Deputado Federal;
+Comitê Financeiro Único;46.050.027/0001-90;07/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 515,10;Estimado;Comitê Financeiro Único - PSDB -  / 2222 - SAMUEL MARQUES DOS SANTOS - RO - Deputado Federal;
+FRAFICA E EDITORA PRIMUS LTDA ME;12.204.272/0001-92;02/09/2010;       Publicidade por materiais impressos;R$ 350,00;Cheque; -  -  / 2222 - SAMUEL MARQUES DOS SANTOS - RO - Deputado Federal;
+JMS E CIA LTDA ME;09.127.392/0001-29;02/09/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 2222 - SAMUEL MARQUES DOS SANTOS - RO - Deputado Federal;

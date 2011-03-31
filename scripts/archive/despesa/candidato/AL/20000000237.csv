@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 TEOTÔNIO BRANDÃO VILELA FILHO GOVERNADOR;12.170.978/0001-80;28/09/2010;23000300382;R$ 750,00;Estimado;ADEMIR FERREIRA DA SILVA;23456;Deputado Estadual;PPS;AL;
-GEDSON BASÍLIO TAVARES;994.919.074-68;01/10/2010;23000300383;R$ 900,00;Estimado;ADEMIR FERREIRA DA SILVA;23456;Deputado Estadual;PPS;AL;
-PATRÍCIA MARIA DA SILVA;008.646.834-05;17/08/2010;23000300381;R$ 630,00;Depósito em espécie;ADEMIR FERREIRA DA SILVA;23456;Deputado Estadual;PPS;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARTECORES COMUNICAÇÃO VISUAL LTDA.;02.796.182/0001-84;18/08/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 23456 - ADEMIR FERREIRA DA SILVA - AL - Deputado Estadual;
+ELEIÇÃO 2010 TEOTÔNIO BRANDÃO VILELA FILHO GOVERNADOR;12.170.978/0001-80;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 750,00;Estimado;45 -  - PSDB -  - Governador / 23456 - ADEMIR FERREIRA DA SILVA - AL - Deputado Estadual;
+GEDSON BASÍLIO TAVARES;994.919.074-68;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 900,00;Estimado; -  -  / 23456 - ADEMIR FERREIRA DA SILVA - AL - Deputado Estadual;

@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANDRE GONSALVES DA SILVA;020.741.367-30;31/08/2010;70000152606;R$ 400,00;Estimado;LUIZ CARLOS JOAQUIM DA SILVA;7021;Deputado Federal;PT do B;RJ;
-CLARISSA BARROS ASSED MATHEUS DE OLIVEIRA;12.170.911/0001-46;31/08/2010;70000152604;R$ 10.000,00;Estimado;LUIZ CARLOS JOAQUIM DA SILVA;7021;Deputado Federal;PT do B;RJ;
-CLARISSA BARROS ASSED MATHEUS DE OLIVEIRA;12.170.911/0001-46;31/08/2010;70000152603;R$ 223,75;Estimado;LUIZ CARLOS JOAQUIM DA SILVA;7021;Deputado Federal;PT do B;RJ;
-CLAUDIA REGINA DURAES DA SILVA;003.920.237-25;01/10/2010;70000152607;R$ 500,00;Estimado;LUIZ CARLOS JOAQUIM DA SILVA;7021;Deputado Federal;PT do B;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANDRE GONSALVES DA SILVA;020.741.367-30;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado; -  -  / 7021 - LUIZ CARLOS JOAQUIM DA SILVA - RJ - Deputado Federal;
+CLARISSA BARROS ASSED MATHEUS DE OLIVEIRA;12.170.911/0001-46;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 223,75;Estimado;22123 -  - PR -  - Deputado Estadual / 7021 - LUIZ CARLOS JOAQUIM DA SILVA - RJ - Deputado Federal;
+CLARISSA BARROS ASSED MATHEUS DE OLIVEIRA;12.170.911/0001-46;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 10.000,00;Estimado;22123 -  - PR -  - Deputado Estadual / 7021 - LUIZ CARLOS JOAQUIM DA SILVA - RJ - Deputado Federal;
+CLAUDIA REGINA DURAES DA SILVA;003.920.237-25;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 7021 - LUIZ CARLOS JOAQUIM DA SILVA - RJ - Deputado Federal;

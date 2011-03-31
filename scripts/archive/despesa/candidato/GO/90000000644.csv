@@ -1,4 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-GERALDO PEREIRA DE ARAUJO;020.211.021-49;24/09/2010;;R$ 20,00;Depósito em espécie;GERALDO PEREIRA DE ARAUJO;10222;Deputado Estadual;PRB;GO;
-GERALDO PEREIRA DE ARAUJO;020.211.021-49;03/09/2010;;R$ 2.114,79;Depósito em espécie;GERALDO PEREIRA DE ARAUJO;10222;Deputado Estadual;PRB;GO;
-GERALDO PEREIRA DE ARAUJO;020.211.021-49;01/10/2010;;R$ 100,00;Depósito em espécie;GERALDO PEREIRA DE ARAUJO;10222;Deputado Estadual;PRB;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANA MARIA UMBELINO DOS SANTOS LOUZA;09.574.551/0001-33;22/09/2010;       Alimentação;R$ 423,33;Cheque; -  -  / 10222 - GERALDO PEREIRA DE ARAUJO - GO - Deputado Estadual;
+ANA MARIA UMBELINO DOS SANTOS LOUZA;09.574.551/0001-33;10/09/2010;       Alimentação;R$ 466,55;Cheque; -  -  / 10222 - GERALDO PEREIRA DE ARAUJO - GO - Deputado Estadual;
+AUTO POSTO  SAO GERMANO LTDA;02.326.411/0001-05;15/09/2010;       Combustíveis e lubrificantes;R$ 57,00;Transferência eletrônica; -  -  / 10222 - GERALDO PEREIRA DE ARAUJO - GO - Deputado Estadual;
+GRAFICA DIO DOMINUS LTDA;05.490.323/0001-24;29/09/2010;       Publicidade por materiais impressos;R$ 100,00;Cheque; -  -  / 10222 - GERALDO PEREIRA DE ARAUJO - GO - Deputado Estadual;
+PETROXACO DERIVADOS DE PETRÓLEO LTDA;86.773.892/0001-89;22/09/2010;       Combustíveis e lubrificantes;R$ 545,24;Cheque; -  -  / 10222 - GERALDO PEREIRA DE ARAUJO - GO - Deputado Estadual;
+PETROXACO DERIVADOS DE PETRÓLEO LTDA;86.773.892/0001-89;13/09/2010;       Combustíveis e lubrificantes;R$ 510,00;Cheque; -  -  / 10222 - GERALDO PEREIRA DE ARAUJO - GO - Deputado Estadual;

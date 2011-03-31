@@ -1,3 +1,13 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.488/0001-60;28/10/2010;13000600222;R$ 375,00;Estimado;MARLIO DAZA LA SERNA;13000;Deputado Estadual;PT;AM;
-MÁRLIO DAZA LA SERNA;435.232.692-53;06/08/2010;13000600221;R$ 5.000,00;Depósito em espécie;MARLIO DAZA LA SERNA;13000;Deputado Estadual;PT;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALDEMIR XAVIER SABOIA;890.593.012-34;05/10/2010;       Cessão ou Locação de Veículos;R$ 2.000,00;Cheque; -  -  / 13000 - MARLIO DAZA LA SERNA - AM - Deputado Estadual;
+ANTONIA CLEIDE MARQUES DE LIMA;822.937.322-15;05/09/2010;       Despesas com pessoal;R$ 300,00;Cheque; -  -  / 13000 - MARLIO DAZA LA SERNA - AM - Deputado Estadual;
+ANTONIA GORETE DE OLIVEIRA;566.432.412-00;05/09/2010;       Despesas com pessoal;R$ 300,00;Cheque; -  -  / 13000 - MARLIO DAZA LA SERNA - AM - Deputado Estadual;
+ANTONIA MENEZES DA SILVA;637.181.892-91;05/09/2010;       Despesas com pessoal;R$ 300,00;Cheque; -  -  / 13000 - MARLIO DAZA LA SERNA - AM - Deputado Estadual;
+ANTONIA SEBASTIANA MARQUES DE LIMA;828.657.952-68;05/09/2010;       Despesas com pessoal;R$ 300,00;Cheque; -  -  / 13000 - MARLIO DAZA LA SERNA - AM - Deputado Estadual;
+ANTONIO EDILSON FERREIRA DA SILVA APURINA;860.136.532-91;05/09/2010;       Despesas com pessoal;R$ 300,00;Cheque; -  -  / 13000 - MARLIO DAZA LA SERNA - AM - Deputado Estadual;
+ANTONIO RAIMUNDO ARAUJO DA SILVA;801.750.822-00;05/09/2010;       Despesas com pessoal;R$ 300,00;Cheque; -  -  / 13000 - MARLIO DAZA LA SERNA - AM - Deputado Estadual;
+Comitê Financeiro Único;12.191.488/0001-60;28/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 375,00;Estimado;Comitê Financeiro Único - PT -  / 13000 - MARLIO DAZA LA SERNA - AM - Deputado Estadual;
+FRANCISCA VERISMAR QUEIROZ DOS SANTOS;622.212.132-20;05/09/2010;       Despesas com pessoal;R$ 300,00;Cheque; -  -  / 13000 - MARLIO DAZA LA SERNA - AM - Deputado Estadual;
+RAIMUNDA MARQUES DE LIMA;399.573.302-68;05/09/2010;       Despesas com pessoal;R$ 300,00;Cheque; -  -  / 13000 - MARLIO DAZA LA SERNA - AM - Deputado Estadual;
+RAIMUNDO FRANCO DOS SANTOS;004.740.142-74;05/09/2010;       Despesas com pessoal;R$ 300,00;Cheque; -  -  / 13000 - MARLIO DAZA LA SERNA - AM - Deputado Estadual;
+RAIMUNDO JUVENCIO DE SOUZA;405.661.022-34;05/09/2010;       Despesas com pessoal;R$ 300,00;Cheque; -  -  / 13000 - MARLIO DAZA LA SERNA - AM - Deputado Estadual;

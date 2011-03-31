@@ -1,3 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CELSO MONTEIRO DA SILVA;591.418.247-68;10/08/2010;19000013552;R$ 4.000,00;Depósito em espécie;CELSO MONTEIRO DA SILVA;19001;Deputado Distrital;PTN;DF;
-CELSO MONTEIRO DA SILVA;591.418.247-68;25/08/2010;19000013551;R$ 6.000,00;Depósito em espécie;CELSO MONTEIRO DA SILVA;19001;Deputado Distrital;PTN;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO EVANDRO COELHO DO NASCIMENTO;798.563.573-49;01/10/2010;       Serviços prestados por terceiros;R$ 1.000,00;Transferência eletrônica; -  -  / 19001 - CELSO MONTEIRO DA SILVA - DF - Deputado Distrital;
+JOÃO BATISTA BENEDITO ARRUDA DA SILVA - ME;09.609.289/0001-15;31/08/2010;       Publicidade por materiais impressos;R$ 3.500,00;Cheque; -  -  / 19001 - CELSO MONTEIRO DA SILVA - DF - Deputado Distrital;
+JORGE MIGUEL H. PRETTO;100.508.500-59;25/08/2010;       Criação e inclusão de páginas na internet;R$ 700,00;Cheque; -  -  / 19001 - CELSO MONTEIRO DA SILVA - DF - Deputado Distrital;
+NS&A CENTRO OESTE LTDA;02.029.405/0001-88;10/09/2010;       Publicidade por telemarketing;R$ 3.000,00;Cheque; -  -  / 19001 - CELSO MONTEIRO DA SILVA - DF - Deputado Distrital;
+PEDRO DONIZETE PAZINATO;443.531.621-87;17/09/2010;       Serviços prestados por terceiros;R$ 850,00;Cheque; -  -  / 19001 - CELSO MONTEIRO DA SILVA - DF - Deputado Distrital;
+PEDRO DONIZETE PAZINATO;443.531.621-87;01/10/2010;       Serviços prestados por terceiros;R$ 100,00;Transferência eletrônica; -  -  / 19001 - CELSO MONTEIRO DA SILVA - DF - Deputado Distrital;
+PEDRO DONIZETE PAZINATO;443.531.621-87;24/09/2010;       Serviços prestados por terceiros;R$ 850,00;Cheque; -  -  / 19001 - CELSO MONTEIRO DA SILVA - DF - Deputado Distrital;

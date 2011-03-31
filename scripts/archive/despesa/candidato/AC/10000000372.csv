@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.205.237/0001-98;30/08/2010;44000026231;R$ 358,80;Estimado;JOSE ALTAMIR TAUMATURGO DE SA;44444;Deputado Estadual;PRP;AC;
-Diretório Nacional;12.205.237/0001-98;30/08/2010;44000026230;R$ 267,72;Estimado;JOSE ALTAMIR TAUMATURGO DE SA;44444;Deputado Estadual;PRP;AC;
-GLADSON DE LIMA CAMELI;12.176.958/0001-17;30/08/2010;44000026229;R$ 2.089,00;Estimado;JOSE ALTAMIR TAUMATURGO DE SA;44444;Deputado Estadual;PRP;AC;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.205.237/0001-98;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 358,80;Estimado;Direção Estadual/Distrital - PRB -  / 44444 - JOSE ALTAMIR TAUMATURGO DE SA - AC - Deputado Estadual;
+Diretório Nacional;12.205.237/0001-98;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 267,72;Estimado;Direção Nacional - PRB -  / 44444 - JOSE ALTAMIR TAUMATURGO DE SA - AC - Deputado Estadual;
+GLADSON DE LIMA CAMELI;12.176.958/0001-17;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.089,00;Estimado;1122 -  - PP -  - Deputado Federal / 44444 - JOSE ALTAMIR TAUMATURGO DE SA - AC - Deputado Estadual;

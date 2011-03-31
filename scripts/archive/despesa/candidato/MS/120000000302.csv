@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.221.832/0001-17;09/09/2010;11000156963;R$ 2.434,31;Estimado;AUGUSTO FERREIRA DA CRUZ;11111;Deputado Estadual;PP;MS;
-Comitê Financeiro Único;12.221.832/0001-17;28/10/2010;11000156966;R$ 180,00;Estimado;AUGUSTO FERREIRA DA CRUZ;11111;Deputado Estadual;PP;MS;
-Comitê Financeiro Único;12.221.832/0001-17;09/09/2010;11000156962;R$ 627,00;Estimado;AUGUSTO FERREIRA DA CRUZ;11111;Deputado Estadual;PP;MS;
-Comitê Financeiro Único;12.221.832/0001-17;28/10/2010;11000156965;R$ 113,75;Estimado;AUGUSTO FERREIRA DA CRUZ;11111;Deputado Estadual;PP;MS;
-DAGOBERTO NOGUEIRA FILHO;12.197.958/0001-01;29/09/2010;11000156964;R$ 25.000,00;Cheque;AUGUSTO FERREIRA DA CRUZ;11111;Deputado Estadual;PP;MS;
-DELCIDIO DO AMARAL GOMES;12.167.861/0001-48;01/09/2010;11000156961;R$ 940,00;Estimado;AUGUSTO FERREIRA DA CRUZ;11111;Deputado Estadual;PP;MS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.221.832/0001-17;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.434,31;Estimado;Comitê Financeiro Único - PP -  / 11111 - AUGUSTO FERREIRA DA CRUZ - MS - Deputado Estadual;
+Comitê Financeiro Único;12.221.832/0001-17;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 627,00;Estimado;Comitê Financeiro Único - PP -  / 11111 - AUGUSTO FERREIRA DA CRUZ - MS - Deputado Estadual;
+Comitê Financeiro Único;12.221.832/0001-17;28/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 180,00;Estimado;Comitê Financeiro Único - PP -  / 11111 - AUGUSTO FERREIRA DA CRUZ - MS - Deputado Estadual;
+Comitê Financeiro Único;12.221.832/0001-17;28/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 113,75;Estimado;Comitê Financeiro Único - PP -  / 11111 - AUGUSTO FERREIRA DA CRUZ - MS - Deputado Estadual;
+DELCIDIO DO AMARAL GOMES;12.167.861/0001-48;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 940,00;Estimado;138 -  - PT -  - Senador / 11111 - AUGUSTO FERREIRA DA CRUZ - MS - Deputado Estadual;
+GRAFICA E EDITORA PANTANAL LTDA;15.926.769/0001-02;30/09/2010;       Publicidade por materiais impressos;R$ 25.000,00;Cheque; -  -  / 11111 - AUGUSTO FERREIRA DA CRUZ - MS - Deputado Estadual;

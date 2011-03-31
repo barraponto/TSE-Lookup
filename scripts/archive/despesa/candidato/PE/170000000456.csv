@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALMIR SANDRO DE MACEDO;026.833.554-08;30/09/2010;31000042367;R$ 120,00;Depósito em espécie;ALMIR SANDRO DE MACEDO;31613;Deputado Estadual;PHS;PE;
-BARTOLOMEL SOARES DE BRITO;12.388.434/0001-90;13/09/2010;31000042366;R$ 400,00;Estimado;ALMIR SANDRO DE MACEDO;31613;Deputado Estadual;PHS;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANA CLAUDIA DOS SANTOS;057.002.084-07;01/09/2010;       Produção de jingles, vinhetas e slogans;R$ 120,00;Cheque; -  -  / 31613 - ALMIR SANDRO DE MACEDO - PE - Deputado Estadual;
+BARTOLOMEL SOARES DE BRITO;12.388.434/0001-90;13/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado; -  -  / 31613 - ALMIR SANDRO DE MACEDO - PE - Deputado Estadual;

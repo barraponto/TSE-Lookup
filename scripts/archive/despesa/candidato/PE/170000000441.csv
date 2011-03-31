@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.489/0001-05;18/08/2010;16000033802;R$ 483,75;Estimado;JAIR PEDRO DA SILVA;16;Governador;PSTU;PE;
-Comitê Financeiro Único;12.191.489/0001-05;18/08/2010;16000033801;R$ 526,00;Estimado;JAIR PEDRO DA SILVA;16;Governador;PSTU;PE;
-Comitê Financeiro Único;12.191.489/0001-05;21/09/2010;16000033805;R$ 200,00;Estimado;JAIR PEDRO DA SILVA;16;Governador;PSTU;PE;
-Comitê Financeiro Único;12.191.489/0001-05;13/09/2010;16000033804;R$ 218,15;Estimado;JAIR PEDRO DA SILVA;16;Governador;PSTU;PE;
-Comitê Financeiro Único;12.191.489/0001-05;27/09/2010;16000033806;R$ 1.500,00;Estimado;JAIR PEDRO DA SILVA;16;Governador;PSTU;PE;
-Comitê Financeiro Único;12.191.489/0001-05;27/08/2010;16000033803;R$ 218,25;Estimado;JAIR PEDRO DA SILVA;16;Governador;PSTU;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.489/0001-05;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado;Comitê Financeiro Único - PSTU -  / 16 - JAIR PEDRO DA SILVA - PE - Governador;
+Comitê Financeiro Único;12.191.489/0001-05;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;Comitê Financeiro Único - PSTU -  / 16 - JAIR PEDRO DA SILVA - PE - Governador;
+Comitê Financeiro Único;12.191.489/0001-05;13/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 218,15;Estimado;Comitê Financeiro Único - PSTU -  / 16 - JAIR PEDRO DA SILVA - PE - Governador;
+Comitê Financeiro Único;12.191.489/0001-05;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 483,75;Estimado;Comitê Financeiro Único - PSTU -  / 16 - JAIR PEDRO DA SILVA - PE - Governador;
+Comitê Financeiro Único;12.191.489/0001-05;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 218,25;Estimado;Comitê Financeiro Único - PSTU -  / 16 - JAIR PEDRO DA SILVA - PE - Governador;
+Comitê Financeiro Único;12.191.489/0001-05;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 526,00;Estimado;Comitê Financeiro Único - PSTU -  / 16 - JAIR PEDRO DA SILVA - PE - Governador;

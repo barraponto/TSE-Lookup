@@ -1,3 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIA DOS REIS ALVES DA SILVA;765.313.683-49;01/10/2010;40000801461;R$ 10,00;Depósito em espécie;JOSE RIBAMAR EWERTON;40001;Deputado Estadual;PSB;MA;
-ANTONIA DOS REIS ALVES DA SILVA;765.313.683-49;21/09/2010;40000801462;R$ 300,00;Depósito em espécie;JOSE RIBAMAR EWERTON;40001;Deputado Estadual;PSB;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+A CARNEIRO FILHO COMERCIO - EPP;00.140.661/0002-01;23/09/2010;       Combustíveis e lubrificantes;R$ 37,00;Cheque; -  -  / 40001 - JOSE RIBAMAR EWERTON - MA - Deputado Estadual;
+F M FERREIRACOMERCIO DE BOMBUSTIVEIS;10.208.994/0001-90;27/09/2010;       Combustíveis e lubrificantes;R$ 43,00;Cheque; -  -  / 40001 - JOSE RIBAMAR EWERTON - MA - Deputado Estadual;
+LIMA COMERCIAL DE COMBUSTIVEIS LTDA;69.418.101/0002-64;16/08/2010;       Combustíveis e lubrificantes;R$ 37,00;Cheque; -  -  / 40001 - JOSE RIBAMAR EWERTON - MA - Deputado Estadual;
+POSTO JESUS LTDA;12.190.225/0001-37;29/09/2010;       Combustíveis e lubrificantes;R$ 50,00;Cheque; -  -  / 40001 - JOSE RIBAMAR EWERTON - MA - Deputado Estadual;
+POSTO VIVA LTDA;05.977.972/0001-54;21/09/2010;       Combustíveis e lubrificantes;R$ 73,50;Cheque; -  -  / 40001 - JOSE RIBAMAR EWERTON - MA - Deputado Estadual;
+;;23/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 40001 - JOSE RIBAMAR EWERTON - MA - Deputado Estadual;
+;;05/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 40001 - JOSE RIBAMAR EWERTON - MA - Deputado Estadual;
+;;21/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 40001 - JOSE RIBAMAR EWERTON - MA - Deputado Estadual;
+;;21/09/2010;       Encargos financeiros e taxas bancárias;R$ 28,50;Débito em conta; -  -  / 40001 - JOSE RIBAMAR EWERTON - MA - Deputado Estadual;
+;;06/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,01;Débito em conta; -  -  / 40001 - JOSE RIBAMAR EWERTON - MA - Deputado Estadual;
+;;21/09/2010;       Encargos financeiros e taxas bancárias;R$ 28,48;Débito em conta; -  -  / 40001 - JOSE RIBAMAR EWERTON - MA - Deputado Estadual;

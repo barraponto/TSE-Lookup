@@ -1,4 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.570/0001-95;27/10/2010;14000134902;R$ 270.041,20;Estimado;EDVALDO PEREIRA DE BRITO;147;Senador;PTB;BA;
-Comitê Financeiro Único;12.191.570/0001-95;27/10/2010;14000134903;R$ 30,00;Estimado;EDVALDO PEREIRA DE BRITO;147;Senador;PTB;BA;
-EDVALDO PEREIRA DE BRITO;002.299.465-34;22/09/2010;14000134901;R$ 10.000,00;Cheque;EDVALDO PEREIRA DE BRITO;147;Senador;PTB;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.570/0001-95;27/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 270.041,20;Estimado;Comitê Financeiro Único - PMDB -  / 147 - EDVALDO PEREIRA DE BRITO - BA - Senador;
+Comitê Financeiro Único;12.191.570/0001-95;27/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 30,00;Estimado;Comitê Financeiro Único - PMDB -  / 147 - EDVALDO PEREIRA DE BRITO - BA - Senador;
+GRAFICA LURIPRESS LTDA;01.208.686/0001-73;11/10/2010;       Publicidade por materiais impressos;R$ 2.100,00;Cheque; -  -  / 147 - EDVALDO PEREIRA DE BRITO - BA - Senador;
+RV CONTADORES E AUDITORES SOCIEDADE SIMPLES LTDA;04.477.365/0001-62;27/10/2010;       Serviços prestados por terceiros;R$ 4.800,00;Cheque; -  -  / 147 - EDVALDO PEREIRA DE BRITO - BA - Senador;
+WALTER PINHEIRO DE QUEIROZ JUNIOR;023.777.725-87;30/09/2010;       Produção de jingles, vinhetas e slogans;R$ 3.000,00;Cheque; -  -  / 147 - EDVALDO PEREIRA DE BRITO - BA - Senador;
+;;20/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 147 - EDVALDO PEREIRA DE BRITO - BA - Senador;
+;;24/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 147 - EDVALDO PEREIRA DE BRITO - BA - Senador;

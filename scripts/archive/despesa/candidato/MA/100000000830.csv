@@ -1,2 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;01.387.080/0001-42;01/10/2010;11000097962;R$ 10.000,00;Cheque;JOSE JORGE GOMES RODRIGUES;11123;Deputado Estadual;PP;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+FELICIO COELHO FILHO;004.471.743-12;08/10/2010;       Serviços prestados por terceiros;R$ 800,00;Cheque; -  -  / 11123 - JOSE JORGE GOMES RODRIGUES - MA - Deputado Estadual;
+FRANCISCO DAS CHAGHAS REIS FILHO;147.024.103-00;08/10/2010;       Despesas com transporte ou deslocamento;R$ 3.000,00;Cheque; -  -  / 11123 - JOSE JORGE GOMES RODRIGUES - MA - Deputado Estadual;
+GARDENIA MALUF SANTOS;005.311.923-18;08/10/2010;       Serviços prestados por terceiros;R$ 1.500,00;Cheque; -  -  / 11123 - JOSE JORGE GOMES RODRIGUES - MA - Deputado Estadual;
+JOSE MARIA RODRIGUES DOS SANTOS;047.659.623-85;08/10/2010;       Serviços prestados por terceiros;R$ 1.500,00;Cheque; -  -  / 11123 - JOSE JORGE GOMES RODRIGUES - MA - Deputado Estadual;
+MANOEL DE JESUS MENDES GARCIA;020.123.703-22;08/10/2010;       Reembolsos de gastos realizados por eleitores;R$ 1.000,00;Cheque; -  -  / 11123 - JOSE JORGE GOMES RODRIGUES - MA - Deputado Estadual;
+PATRICIO SILVA SOUSA;027.561.613-49;08/10/2010;       Locação/cessão de bens imóveis;R$ 1.300,00;Cheque; -  -  / 11123 - JOSE JORGE GOMES RODRIGUES - MA - Deputado Estadual;
+PAULO BENEDITO DE SOUSA PEREIRA;641.917.023-00;08/10/2010;       Serviços prestados por terceiros;R$ 900,00;Cheque; -  -  / 11123 - JOSE JORGE GOMES RODRIGUES - MA - Deputado Estadual;

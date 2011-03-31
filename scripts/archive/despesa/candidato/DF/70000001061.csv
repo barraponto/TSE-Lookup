@@ -1,7 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.229.907/0001-06;16/08/2010;25000623002;R$ 360,00;Estimado;RENATO LEVI PEREIRA DE BARROS;25105;Deputado Distrital;DEM;DF;
-Diretório Estadual/Distrital;12.229.907/0001-06;10/08/2010;25000623001;R$ 360,00;Estimado;RENATO LEVI PEREIRA DE BARROS;25105;Deputado Distrital;DEM;DF;
-Diretório Estadual/Distrital;12.229.907/0001-06;22/09/2010;25000623006;R$ 2.160,00;Estimado;RENATO LEVI PEREIRA DE BARROS;25105;Deputado Distrital;DEM;DF;
-RENATO LEVI PEREIRA DE BARROS;076.247.941-87;20/08/2010;25000623004;R$ 800,00;Depósito em espécie;RENATO LEVI PEREIRA DE BARROS;25105;Deputado Distrital;DEM;DF;
-RENATO LEVI PEREIRA DE BARROS;076.247.941-87;20/08/2010;25000623003;R$ 500,00;Depósito em espécie;RENATO LEVI PEREIRA DE BARROS;25105;Deputado Distrital;DEM;DF;
-RENATO LEVI PEREIRA DE BARROS;076.247.941-87;03/09/2010;25000623005;R$ 800,00;Depósito em espécie;RENATO LEVI PEREIRA DE BARROS;25105;Deputado Distrital;DEM;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.229.907/0001-06;16/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Direção Estadual/Distrital - DEM -  / 25105 - RENATO LEVI PEREIRA DE BARROS - DF - Deputado Distrital;
+Diretório Estadual/Distrital;12.229.907/0001-06;22/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.160,00;Estimado;Direção Estadual/Distrital - DEM -  / 25105 - RENATO LEVI PEREIRA DE BARROS - DF - Deputado Distrital;
+Diretório Estadual/Distrital;12.229.907/0001-06;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Direção Estadual/Distrital - DEM -  / 25105 - RENATO LEVI PEREIRA DE BARROS - DF - Deputado Distrital;
+JALES E MELO SERVIÇOS GRAFICOS LTDA ME;10.218.137/0001-70;28/08/2010;       Publicidade por materiais impressos;R$ 1.600,00;Cheque; -  -  / 25105 - RENATO LEVI PEREIRA DE BARROS - DF - Deputado Distrital;
+VALDIR BORGES DOS SANTOS;221.351.201-97;20/08/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 500,00;Cheque; -  -  / 25105 - RENATO LEVI PEREIRA DE BARROS - DF - Deputado Distrital;

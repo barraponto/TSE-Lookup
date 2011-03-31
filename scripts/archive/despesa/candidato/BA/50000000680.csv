@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;19000006130;R$ 85,20;Estimado;AURENIA ARAUJO TORRES;19013;Deputado Estadual;PTN;BA;
-Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;19000006128;R$ 381,60;Estimado;AURENIA ARAUJO TORRES;19013;Deputado Estadual;PTN;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 381,60;Estimado;Comitê Financeiro Único - PMDB -  / 19013 - AURENIA ARAUJO TORRES - BA - Deputado Estadual;
+Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 85,20;Estimado;Comitê Financeiro Único - PMDB -  / 19013 - AURENIA ARAUJO TORRES - BA - Deputado Estadual;
+RAUL BARBOSA VIEIRA;881.044.865-00;15/09/2010;       Publicidade por placas, estandartes e faixas;R$ 100,00;Não informado; -  -  / 19013 - AURENIA ARAUJO TORRES - BA - Deputado Estadual;

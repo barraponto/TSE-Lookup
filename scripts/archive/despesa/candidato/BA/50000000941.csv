@@ -1,4 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.570/0001-95;02/08/2010;27000016901;R$ 192,00;Estimado;HARRISON FREITAS DE LIMA;2789;Deputado Federal;PSDC;BA;
-GEDDEL QUADOR VIEIRA LIMA;12.173.503/0001-48;30/08/2010;27000016902;R$ 204,00;Estimado;HARRISON FREITAS DE LIMA;2789;Deputado Federal;PSDC;BA;
-HARRISON FREITAS DE LIMA;075.564.205-82;22/10/2010;27000016903;R$ 1.500,00;Depósito em espécie;HARRISON FREITAS DE LIMA;2789;Deputado Federal;PSDC;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARTSET GRAFICA E EDITORA LTDA;13.710.009/0001-38;29/09/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 2789 - HARRISON FREITAS DE LIMA - BA - Deputado Federal;
+ARTSET GRAFICA E EDITORA LTDA;13.710.009/0001-38;29/09/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 2789 - HARRISON FREITAS DE LIMA - BA - Deputado Federal;
+Comitê Financeiro Único;12.191.570/0001-95;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 192,00;Estimado;Comitê Financeiro Único - PMDB -  / 2789 - HARRISON FREITAS DE LIMA - BA - Deputado Federal;
+GEDDEL QUADOR VIEIRA LIMA;12.173.503/0001-48;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 204,00;Estimado;15 -  - PMDB -  - Governador / 2789 - HARRISON FREITAS DE LIMA - BA - Deputado Federal;

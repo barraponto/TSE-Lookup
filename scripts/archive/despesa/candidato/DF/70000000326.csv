@@ -1,6 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANNA PAULA GOUVEIA;573.019.721-72;27/09/2010;40002145602;R$ 1.250,00;Depósito em espécie;CHARLES DOS SANTOS DIAS;40325;Deputado Distrital;PSB;DF;
-CHARLES DOS SANTOS DIAS;494.525.761-20;21/09/2010;40002145601;R$ 1.000,00;Depósito em espécie;CHARLES DOS SANTOS DIAS;40325;Deputado Distrital;PSB;DF;
-CHARLES DOS SANTOS DIAS;494.525.761-20;29/10/2010;40002145603;R$ 242,00;Depósito em espécie;CHARLES DOS SANTOS DIAS;40325;Deputado Distrital;PSB;DF;
-Diretório Estadual/Distrital;03.475.971/0001-86;01/10/2010;40002145605;R$ 940,00;Estimado;CHARLES DOS SANTOS DIAS;40325;Deputado Distrital;PSB;DF;
-ELEIÇÃO 2010 RODRIGO SOBRAL ROLLEMBERG;12.173.922/0001-80;27/09/2010;40002145604;R$ 2.000,00;Cheque;CHARLES DOS SANTOS DIAS;40325;Deputado Distrital;PSB;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BRISA EDITORA GRAFICA LTDA;05.059.201/0001-88;01/10/2010;       Publicidade por placas, estandartes e faixas;R$ 1.500,00;Cheque; -  -  / 40325 - CHARLES DOS SANTOS DIAS - DF - Deputado Distrital;
+Diretório Estadual/Distrital;03.475.971/0001-86;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 940,00;Estimado;Direção Estadual/Distrital - PSB -  / 40325 - CHARLES DOS SANTOS DIAS - DF - Deputado Distrital;
+FRRE COMUNICAÇÃO VISUAL E SERIGRAFIA LTDA;09.163.850/0001-85;15/09/2010;       Publicidade por materiais impressos;R$ 1.500,00;Cheque; -  -  / 40325 - CHARLES DOS SANTOS DIAS - DF - Deputado Distrital;
+FRRE COMUNICAÇÃO VISUAL E SERIGRAFIA LTDA;09.163.850/0001-85;30/09/2010;       Publicidade por materiais impressos;R$ 900,00;Cheque; -  -  / 40325 - CHARLES DOS SANTOS DIAS - DF - Deputado Distrital;
+GRAVIA IND PERF DE AÇO LTDA;26.487.744/0004-19;23/09/2010;       Diversas a especificar;R$ 340,00;Cheque; -  -  / 40325 - CHARLES DOS SANTOS DIAS - DF - Deputado Distrital;
+RESTAURANTE TEMPERO & SABOR GOIANO LTDA ME;11.301.803/0001-00;22/09/2010;       Alimentação;R$ 252,00;Cheque; -  -  / 40325 - CHARLES DOS SANTOS DIAS - DF - Deputado Distrital;

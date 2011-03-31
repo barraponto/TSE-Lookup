@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LINDBERGUE ARAUJO FARIA;155.926.694-53;29/07/2010;21000014538;R$ 1.000,00;Depósito em espécie;LINDBERGUE ARAUJO FARIAS;21000;Deputado Estadual;PCB;AM;
-LINDBERGUE ARAUJO FARIA;155.926.694-53;01/08/2010;21000014539;R$ 850,00;Depósito em espécie;LINDBERGUE ARAUJO FARIAS;21000;Deputado Estadual;PCB;AM;
-LINDBERGUE ARAUJO FARIA;155.926.694-53;21/09/2010;21000014540;R$ 500,00;Depósito em espécie;LINDBERGUE ARAUJO FARIAS;21000;Deputado Estadual;PCB;AM;
-TESSA MÍDIA TOTAL;10.366.686/0001-92;02/10/2010;21000014541;R$ 1.000,00;Estimado;LINDBERGUE ARAUJO FARIAS;21000;Deputado Estadual;PCB;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CESAR'S GRAFICA;04.805.925/0001-60;03/09/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 21000 - LINDBERGUE ARAUJO FARIAS - AM - Deputado Estadual;
+PARAÍSO DAS CACHOEIRAS;00.992.097/0006-70;29/07/2010;       Combustíveis e lubrificantes;R$ 950,00;Cheque; -  -  / 21000 - LINDBERGUE ARAUJO FARIAS - AM - Deputado Estadual;
+PARAÍSO DAS CACHOEIRAS;00.992.097/0006-70;09/08/2010;       Combustíveis e lubrificantes;R$ 400,00;Cheque; -  -  / 21000 - LINDBERGUE ARAUJO FARIAS - AM - Deputado Estadual;
+TESSA MÍDIA TOTAL;10.366.686/0001-92;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 21000 - LINDBERGUE ARAUJO FARIAS - AM - Deputado Estadual;

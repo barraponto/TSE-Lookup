@@ -1,8 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANA TEREZA MIRANDA DE PAULO;442.278.764-00;17/09/2010;12001067098;R$ 1.500,00;Estimado;ANIZIO LUCIO BARBOSA;12333;Deputado Estadual;PDT;RN;
-ANIZIO LUCIO BARBOSA NETO;306.518.324-20;10/08/2010;12001067096;R$ 200,00;Depósito em espécie;ANIZIO LUCIO BARBOSA;12333;Deputado Estadual;PDT;RN;
-ANIZIO LUCIO BARBOSA NETO;306.518.324-20;16/09/2010;12001067097;R$ 450,00;Depósito em espécie;ANIZIO LUCIO BARBOSA;12333;Deputado Estadual;PDT;RN;
-ANIZIO LUCIO BARBOSA NETO;306.518.324-20;14/10/2010;12001067099;R$ 710,00;Depósito em espécie;ANIZIO LUCIO BARBOSA;12333;Deputado Estadual;PDT;RN;
-ANIZIO LUCIO BARBOSA NETO;306.518.324-20;04/08/2010;12001067095;R$ 1.200,00;Depósito em espécie;ANIZIO LUCIO BARBOSA;12333;Deputado Estadual;PDT;RN;
-GILVAN NUNES DO NASCIMENTO ME;01.697.541/0001-83;01/10/2010;12001067100;R$ 740,00;Estimado;ANIZIO LUCIO BARBOSA;12333;Deputado Estadual;PDT;RN;
-SEVERINO GALDINO DO NASCIMENTO;703.157.604-00;01/10/2010;12001067101;R$ 2.000,00;Estimado;ANIZIO LUCIO BARBOSA;12333;Deputado Estadual;PDT;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+A.A.S. DE SOUZA;09.589.804/0001-42;06/08/2010;       Produção de jingles, vinhetas e slogans;R$ 300,00;Cheque; -  -  / 12333 - ANIZIO LUCIO BARBOSA - RN - Deputado Estadual;
+ANA TEREZA MIRANDA DE PAULO;442.278.764-00;17/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado; -  -  / 12333 - ANIZIO LUCIO BARBOSA - RN - Deputado Estadual;
+GILVAN NUNES DO NASCIMENTO ME;01.697.541/0001-83;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 740,00;Estimado; -  -  / 12333 - ANIZIO LUCIO BARBOSA - RN - Deputado Estadual;
+LUCGRAF EDITORA GRÁFICA LTDA;03.637.347/0001-38;06/08/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 12333 - ANIZIO LUCIO BARBOSA - RN - Deputado Estadual;
+OSSIAN SILVA FONSECA;02.574.121/0001-72;23/09/2010;       Publicidade por materiais impressos;R$ 450,00;Cheque; -  -  / 12333 - ANIZIO LUCIO BARBOSA - RN - Deputado Estadual;
+POSTOS DOS ANJOS LTDA - EPP;08.396.203/0002-31;03/10/2010;       Combustíveis e lubrificantes;R$ 800,00;Cheque; -  -  / 12333 - ANIZIO LUCIO BARBOSA - RN - Deputado Estadual;
+SEVERINO GALDINO DO NASCIMENTO;703.157.604-00;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado; -  -  / 12333 - ANIZIO LUCIO BARBOSA - RN - Deputado Estadual;
+;;07/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 12333 - ANIZIO LUCIO BARBOSA - RN - Deputado Estadual;
+;;05/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 12333 - ANIZIO LUCIO BARBOSA - RN - Deputado Estadual;

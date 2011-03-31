@@ -1,5 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.217.614/0001-09;06/09/2010;70000141004;R$ 292,96;Estimado;FERNANDO CEZAR CIDRAO GUEDES;70255;Deputado Estadual;PT do B;CE;
-FERNANDO CEZAR CIDRAO GUEDES;122.988.163-87;18/08/2010;70000141001;R$ 2.000,00;Depósito em espécie;FERNANDO CEZAR CIDRAO GUEDES;70255;Deputado Estadual;PT do B;CE;
-MARCOGRAF GRAFICA LTDA;02.963.095/0001-74;08/09/2010;70000141003;R$ 25,00;Estimado;FERNANDO CEZAR CIDRAO GUEDES;70255;Deputado Estadual;PT do B;CE;
-MARCOGRAF GRAFICA LTDA;02.963.095/0001-74;20/08/2010;70000141002;R$ 122,00;Estimado;FERNANDO CEZAR CIDRAO GUEDES;70255;Deputado Estadual;PT do B;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+COELCE;07.047.251/0001-70;09/09/2010;       Energia elétrica;R$ 44,78;Cheque; -  -  / 70255 - FERNANDO CEZAR CIDRAO GUEDES - CE - Deputado Estadual;
+COELCE;07.047.251/0001-70;06/09/2010;       Energia elétrica;R$ 29,71;Cheque; -  -  / 70255 - FERNANDO CEZAR CIDRAO GUEDES - CE - Deputado Estadual;
+Comitê Financeiro Único;12.217.614/0001-09;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 292,96;Estimado;Comitê Financeiro Único - PTN -  / 70255 - FERNANDO CEZAR CIDRAO GUEDES - CE - Deputado Estadual;
+MARCOGRAF GRAFICA LTDA;02.963.095/0001-74;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 122,00;Estimado; -  -  / 70255 - FERNANDO CEZAR CIDRAO GUEDES - CE - Deputado Estadual;
+MARCOGRAF GRAFICA LTDA;02.963.095/0001-74;08/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 25,00;Estimado; -  -  / 70255 - FERNANDO CEZAR CIDRAO GUEDES - CE - Deputado Estadual;
+MARIA ELISABETE SILVEIRA DE SOUZA;061.875.283-87;07/08/2010;       Locação/cessão de bens imóveis;R$ 1.500,00;Cheque; -  -  / 70255 - FERNANDO CEZAR CIDRAO GUEDES - CE - Deputado Estadual;
+VLADIMIR DOS SANTOS MATHIAS;724.953.403-34;24/09/2010;       Serviços prestados por terceiros;R$ 380,00;Cheque; -  -  / 70255 - FERNANDO CEZAR CIDRAO GUEDES - CE - Deputado Estadual;
+70255 - FERNANDO CEZAR CIDRAO GUEDES - DEPUTADO ESTADUAL;12.171.528/0001-02;01/11/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 27,66;Transferência eletrônica;Direção Nacional - PT do B - BR / 70255 - FERNANDO CEZAR CIDRAO GUEDES - CE - Deputado Estadual;
+;;01/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 70255 - FERNANDO CEZAR CIDRAO GUEDES - CE - Deputado Estadual;
+;;01/09/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 70255 - FERNANDO CEZAR CIDRAO GUEDES - CE - Deputado Estadual;

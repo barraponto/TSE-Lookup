@@ -1,7 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CICERO JANUARIO DA SILVA;551.460.237-00;04/08/2010;43001505002;R$ 50,00;Depósito em espécie;CICERO JANUARIO DA SILVA;43223;Deputado Estadual;PV;RJ;
-CICERO JANUARIO DA SILVA;551.460.237-00;24/08/2010;43001505003;R$ 450,00;Depósito em espécie;CICERO JANUARIO DA SILVA;43223;Deputado Estadual;PV;RJ;
-CICERO JANUARIO DA SILVA;551.460.237-00;22/09/2010;43001505007;R$ 834,00;Depósito em espécie;CICERO JANUARIO DA SILVA;43223;Deputado Estadual;PV;RJ;
-CICERO JANUARIO DA SILVA;551.460.237-00;30/08/2010;43001505005;R$ 750,00;Depósito em espécie;CICERO JANUARIO DA SILVA;43223;Deputado Estadual;PV;RJ;
-CICERO JANUARIO DA SILVA;551.460.237-00;16/09/2010;43001505006;R$ 220,00;Depósito em espécie;CICERO JANUARIO DA SILVA;43223;Deputado Estadual;PV;RJ;
-CICERO JANUARIO DA SILVA;551.460.237-00;03/08/2010;43001505001;R$ 600,00;Depósito em espécie;CICERO JANUARIO DA SILVA;43223;Deputado Estadual;PV;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+H - LERA CONFECÇÃO DE ROUPAS LTDA.ME;07.698.669/0001-48;23/09/2010;       Publicidade por materiais impressos;R$ 650,00;Cheque; -  -  / 43223 - CICERO JANUARIO DA SILVA - RJ - Deputado Estadual;
+INICIAL ASSESORIA CONTABIL LTDA;05.054.773/0001-74;18/10/2010;       Serviços prestados por terceiros;R$ 376,15;Cheque; -  -  / 43223 - CICERO JANUARIO DA SILVA - RJ - Deputado Estadual;
+NEUZA MARIA DOS SANTOS;494.752.907-53;01/09/2010;       Locação/cessão de bens imóveis;R$ 700,00;Cheque; -  -  / 43223 - CICERO JANUARIO DA SILVA - RJ - Deputado Estadual;
+SANTANA COMUNICAÇÃO LTDA;09.049.132/0001-82;24/08/2010;       Publicidade por materiais impressos;R$ 360,00;Cheque; -  -  / 43223 - CICERO JANUARIO DA SILVA - RJ - Deputado Estadual;
+SANTANA 2  COMUNICAÇÃO  LTDA;09.049.132/0001-82;16/09/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 43223 - CICERO JANUARIO DA SILVA - RJ - Deputado Estadual;
+SISTEMARK INFORMATICA E GRAFICA ME;35.792.365/0001-80;03/08/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 43223 - CICERO JANUARIO DA SILVA - RJ - Deputado Estadual;
+;;04/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 43223 - CICERO JANUARIO DA SILVA - RJ - Deputado Estadual;
+;;04/08/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 43223 - CICERO JANUARIO DA SILVA - RJ - Deputado Estadual;

@@ -1,4 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;15.028.905/0001-47;03/08/2010;45000054051;R$ 30.000,00;Cheque;SOLON PINHEIRO BRITO LIMA;45789;Deputado Estadual;PSDB;BA;
-Diretório Estadual/Distrital;15.028.905/0001-47;24/08/2010;45000054052;R$ 10.000,00;Cheque;SOLON PINHEIRO BRITO LIMA;45789;Deputado Estadual;PSDB;BA;
-ELEICOES 2010 ANTONIO CARLOS PEIXOTO DE MAGALHAES NETO;12.156.128/0001-28;27/09/2010;45000054054;R$ 10.000,00;Cheque;SOLON PINHEIRO BRITO LIMA;45789;Deputado Estadual;PSDB;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA E EDITORA VITAL LTDA;04.894.924/0001-30;26/10/2010;       Publicidade por materiais impressos;R$ 5.000,00;Cheque; -  -  / 45789 - SOLON PINHEIRO BRITO LIMA - BA - Deputado Estadual;
+LUAN CARLOS NOGUEIRA SANTOS;035.656.955-10;20/10/2010;       Publicidade por carros de som;R$ 2.500,00;Cheque; -  -  / 45789 - SOLON PINHEIRO BRITO LIMA - BA - Deputado Estadual;
+P M SANTANA CAMPOS;12.360.642/0001-80;24/08/2010;       Publicidade por carros de som;R$ 9.800,00;Cheque; -  -  / 45789 - SOLON PINHEIRO BRITO LIMA - BA - Deputado Estadual;
+P M SANTANA CAMPOS;12.360.642/0001-80;24/08/2010;       Publicidade por placas, estandartes e faixas;R$ 20.000,00;Cheque; -  -  / 45789 - SOLON PINHEIRO BRITO LIMA - BA - Deputado Estadual;
+POSTO NOVO GRAPIUNA;04.317.344/0001-80;01/09/2010;       Combustíveis e lubrificantes;R$ 10.000,00;Cheque; -  -  / 45789 - SOLON PINHEIRO BRITO LIMA - BA - Deputado Estadual;
+RONNEY SOUZA DE SALES NUNES;006.556.915-61;27/10/2010;       Publicidade por placas, estandartes e faixas;R$ 2.700,00;Cheque; -  -  / 45789 - SOLON PINHEIRO BRITO LIMA - BA - Deputado Estadual;

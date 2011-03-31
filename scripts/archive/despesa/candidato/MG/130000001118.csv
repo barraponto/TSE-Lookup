@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.154.859/0001-34;08/09/2010;16000025103;R$ 105,00;Estimado;GERALDO DE ARAÚJO SILVA;16016;Deputado Estadual;PSTU;MG;
-Comitê Financeiro Único;12.154.859/0001-34;07/09/2010;16000025106;R$ 500,00;Estimado;GERALDO DE ARAÚJO SILVA;16016;Deputado Estadual;PSTU;MG;
-Comitê Financeiro Único;12.154.859/0001-34;07/09/2010;16000025105;R$ 412,50;Estimado;GERALDO DE ARAÚJO SILVA;16016;Deputado Estadual;PSTU;MG;
-Comitê Financeiro Único;12.154.859/0001-34;08/09/2010;16000025104;R$ 525,00;Estimado;GERALDO DE ARAÚJO SILVA;16016;Deputado Estadual;PSTU;MG;
-LUIZ ROBERTO REZENDE MARTINS;891.930.406-87;09/08/2010;16000025102;R$ 200,00;Estimado;GERALDO DE ARAÚJO SILVA;16016;Deputado Estadual;PSTU;MG;
-LUIZ ROBERTO REZENDE MARTINS;891.930.406-87;09/08/2010;16000025101;R$ 100,00;Estimado;GERALDO DE ARAÚJO SILVA;16016;Deputado Estadual;PSTU;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.154.859/0001-34;08/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 105,00;Estimado;Comitê Financeiro Único - PSTU -  / 16016 - GERALDO DE ARAÚJO SILVA - MG - Deputado Estadual;
+Comitê Financeiro Único;12.154.859/0001-34;07/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;Comitê Financeiro Único - PSTU -  / 16016 - GERALDO DE ARAÚJO SILVA - MG - Deputado Estadual;
+Comitê Financeiro Único;12.154.859/0001-34;07/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 412,50;Estimado;Comitê Financeiro Único - PSTU -  / 16016 - GERALDO DE ARAÚJO SILVA - MG - Deputado Estadual;
+Comitê Financeiro Único;12.154.859/0001-34;08/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 525,00;Estimado;Comitê Financeiro Único - PSTU -  / 16016 - GERALDO DE ARAÚJO SILVA - MG - Deputado Estadual;
+LUIZ ROBERTO REZENDE MARTINS;891.930.406-87;09/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado; -  -  / 16016 - GERALDO DE ARAÚJO SILVA - MG - Deputado Estadual;
+LUIZ ROBERTO REZENDE MARTINS;891.930.406-87;09/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado; -  -  / 16016 - GERALDO DE ARAÚJO SILVA - MG - Deputado Estadual;

@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADRIANO LIMA CORREA;792.079.797-72;09/09/2010;50000162711;R$ 1.000,00;Cheque;WELLINGTON PEREIRA;50456;Deputado Estadual;PSOL;ES;
-BRICE BRAGATO;12.190.477/0001-66;01/10/2010;50000162714;R$ 755,50;Estimado;WELLINGTON PEREIRA;50456;Deputado Estadual;PSOL;ES;
-BRICE BRAGATO;12.190.477/0001-66;23/09/2010;50000162713;R$ 2.000,00;Cheque;WELLINGTON PEREIRA;50456;Deputado Estadual;PSOL;ES;
-CAMILA COSTA VALADAO;104.560.437-21;27/09/2010;50000162715;R$ 200,00;Depósito em espécie;WELLINGTON PEREIRA;50456;Deputado Estadual;PSOL;ES;
-ROBERTO MARTINS DE OLIVEIRA;342.924.382-34;27/09/2010;50000162712;R$ 300,00;Depósito em espécie;WELLINGTON PEREIRA;50456;Deputado Estadual;PSOL;ES;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BRICE BRAGATO;12.190.477/0001-66;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 755,50;Estimado;50 -  - PSOL -  - Governador / 50456 - WELLINGTON PEREIRA - ES - Deputado Estadual;
+DOMA SIGN IMPRESSAO DIGITAL;10.686.918/0001-90;14/09/2010;       Publicidade por materiais impressos;R$ 830,00;Cheque; -  -  / 50456 - WELLINGTON PEREIRA - ES - Deputado Estadual;
+GRAFICA E EDITORA QUATRO IRMAOS;36.356.251/0002-31;29/09/2010;       Publicidade por materiais impressos;R$ 450,00;Cheque; -  -  / 50456 - WELLINGTON PEREIRA - ES - Deputado Estadual;
+GRAFITA GRAFICA E EDITORA;06.300.908/0001-05;01/10/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 50456 - WELLINGTON PEREIRA - ES - Deputado Estadual;
+RICARDO CASTRO DE AGUIAR;931.023.807-00;22/09/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 2.000,00;Cheque; -  -  / 50456 - WELLINGTON PEREIRA - ES - Deputado Estadual;

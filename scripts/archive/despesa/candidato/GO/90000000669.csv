@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JORGE DOS REIS PINHEIRO;12.178.516/0001-00;16/07/2010;10000053901;R$ 173,53;Estimado;PAULO HENRIQUE SILVA DIAS;10415;Deputado Estadual;PRB;GO;
-PAULO HENRIQUE SILVA DIAS;055.518.956-29;06/09/2010;10000053902;R$ 100,00;Depósito em espécie;PAULO HENRIQUE SILVA DIAS;10415;Deputado Estadual;PRB;GO;
-PAULO HENRIQUE SILVA DIAS;055.518.956-29;28/09/2010;10000053903;R$ 160,00;Cheque;PAULO HENRIQUE SILVA DIAS;10415;Deputado Estadual;PRB;GO;
-PAULO HENRIQUE SILVA DIAS;055.518.956-29;05/10/2010;10000053904;R$ 50,00;Cheque;PAULO HENRIQUE SILVA DIAS;10415;Deputado Estadual;PRB;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO IGUALDADE;03.155.626/0001-65;01/10/2010;       Combustíveis e lubrificantes;R$ 50,00;Cheque; -  -  / 10415 - PAULO HENRIQUE SILVA DIAS - GO - Deputado Estadual;
+AUTO POSTO IGUALDADE;03.155.626/0001-65;01/10/2010;       Combustíveis e lubrificantes;R$ 260,00;Cheque; -  -  / 10415 - PAULO HENRIQUE SILVA DIAS - GO - Deputado Estadual;
+GRAFICA E EDITORA AMERICA LTDA;12.178.516/0001-00;16/07/2010;       Publicidade por materiais impressos;R$ 173,53;Cheque; -  -  / 10415 - PAULO HENRIQUE SILVA DIAS - GO - Deputado Estadual;
+JORGE DOS REIS PINHEIRO;12.178.516/0001-00;16/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 173,53;Estimado;1010 -  - PRB -  - Deputado Federal / 10415 - PAULO HENRIQUE SILVA DIAS - GO - Deputado Estadual;

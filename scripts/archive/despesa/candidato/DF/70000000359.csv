@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-RODRIGO SOBRAL ROLLEMBERG;12.173.922/0001-80;12/08/2010;40002152601;R$ 260,00;Estimado;JURANDI PEREIRA MARINHO;40321;Deputado Distrital;PSB;DF;
-RODRIGO SOBRAL ROLLEMBERG;12.173.922/0001-80;24/09/2010;40002152602;R$ 2.000,00;Cheque;JURANDI PEREIRA MARINHO;40321;Deputado Distrital;PSB;DF;
-RODRIGO SOBRAL ROLLEMBERG;12.173.922/0001-80;23/09/2010;40002152603;R$ 422,44;Estimado;JURANDI PEREIRA MARINHO;40321;Deputado Distrital;PSB;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JR COMERCIO DE MATERIAL DE CONSTRUÇÃO LTDA;09.416.420/0001-28;01/10/2010;       Publicidade por placas, estandartes e faixas;R$ 2.000,00;Cheque; -  -  / 40321 - JURANDI PEREIRA MARINHO - DF - Deputado Distrital;
+RODRIGO SOBRAL ROLLEMBERG;12.173.922/0001-80;12/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 260,00;Estimado;400 -  - PSB -  - Senador / 40321 - JURANDI PEREIRA MARINHO - DF - Deputado Distrital;
+RODRIGO SOBRAL ROLLEMBERG;12.173.922/0001-80;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 422,44;Estimado;400 -  - PSB -  - Senador / 40321 - JURANDI PEREIRA MARINHO - DF - Deputado Distrital;

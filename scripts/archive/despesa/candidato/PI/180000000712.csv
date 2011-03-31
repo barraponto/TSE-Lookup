@@ -1,4 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 HERÁCLITO DE SOUSA FORTES;12.169.950/0001-23;28/09/2010;25000499103;R$ 15.000,00;Cheque;JOSÉ COSTA DA ROCHA;25999;Deputado Estadual;DEM;PI;
-JOSE COSTA DA ROCHA;065.193.773-68;31/08/2010;25000499101;R$ 300,00;Depósito em espécie;JOSÉ COSTA DA ROCHA;25999;Deputado Estadual;DEM;PI;
-TERESINHA DE JESUS BARBOSA PAIVA;200.363.613-72;02/09/2010;25000499102;R$ 5.400,00;Estimado;JOSÉ COSTA DA ROCHA;25999;Deputado Estadual;DEM;PI;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EDUARDO & EDUARDO ADVOGADOS ASSOCIADOS;23.658.099/0001-19;01/10/2010;       Serviços prestados por terceiros;R$ 4.000,00;Cheque; -  -  / 25999 - JOSÉ COSTA DA ROCHA - PI - Deputado Estadual;
+JOSÉ RIBEIRO SOBRINHO;463.276.903-78;01/10/2010;       Cessão ou Locação de Veículos;R$ 4.500,00;Cheque; -  -  / 25999 - JOSÉ COSTA DA ROCHA - PI - Deputado Estadual;
+POSTO HOMERO CASTELO BRANCO LTDA;08.596.605/0001-07;01/10/2010;       Combustíveis e lubrificantes;R$ 2.450,00;Cheque; -  -  / 25999 - JOSÉ COSTA DA ROCHA - PI - Deputado Estadual;
+POSTO HOMERO CASTELO BRANCO LTDA;08.596.605/0001-07;08/09/2010;       Combustíveis e lubrificantes;R$ 290,03;Cheque; -  -  / 25999 - JOSÉ COSTA DA ROCHA - PI - Deputado Estadual;
+ROSA SOUSA PINTO;043.643.683-34;01/10/2010;       Cessão ou Locação de Veículos;R$ 4.000,00;Cheque; -  -  / 25999 - JOSÉ COSTA DA ROCHA - PI - Deputado Estadual;
+TERESINHA DE JESUS BARBOSA PAIVA;200.363.613-72;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 5.400,00;Estimado; -  -  / 25999 - JOSÉ COSTA DA ROCHA - PI - Deputado Estadual;

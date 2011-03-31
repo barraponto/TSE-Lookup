@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-AQUIM NACIZ DE MENDONÇA;667.743.738-87;02/10/2010;14000084703;R$ 400,00;Estimado;ISAIAS CAMILO SANTANA;14193;Deputado Estadual;PTB;MG;
-Diretório Estadual/Distrital;21.531.363/0001-23;06/09/2010;14000084702;R$ 1.073,38;Estimado;ISAIAS CAMILO SANTANA;14193;Deputado Estadual;PTB;MG;
-Diretório Estadual/Distrital;21.531.363/0001-23;06/09/2010;14000084701;R$ 1.444,55;Estimado;ISAIAS CAMILO SANTANA;14193;Deputado Estadual;PTB;MG;
-ISAIAS CAMILO SANTANA;442.650.346-91;01/11/2010;14000084705;R$ 50,00;Depósito em espécie;ISAIAS CAMILO SANTANA;14193;Deputado Estadual;PTB;MG;
-ISAIAS CAMILO SANTANA;442.650.346-91;19/10/2010;14000084706;R$ 96,60;Depósito em espécie;ISAIAS CAMILO SANTANA;14193;Deputado Estadual;PTB;MG;
-JOSE DE SOUZA SANTANA;899.999.596-87;02/10/2010;14000084704;R$ 400,00;Estimado;ISAIAS CAMILO SANTANA;14193;Deputado Estadual;PTB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AQUIM NACIZ DE MENDONÇA;667.743.738-87;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado; -  -  / 14193 - ISAIAS CAMILO SANTANA - MG - Deputado Estadual;
+Diretório Estadual/Distrital;21.531.363/0001-23;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.073,38;Estimado;Direção Estadual/Distrital - PTB -  / 14193 - ISAIAS CAMILO SANTANA - MG - Deputado Estadual;
+Diretório Estadual/Distrital;21.531.363/0001-23;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.444,55;Estimado;Direção Estadual/Distrital - PTB -  / 14193 - ISAIAS CAMILO SANTANA - MG - Deputado Estadual;
+IDENILSON HONORIO DA SILVA;027.766.227-32;15/08/2010;       Produção de jingles, vinhetas e slogans;R$ 50,00;Cheque; -  -  / 14193 - ISAIAS CAMILO SANTANA - MG - Deputado Estadual;
+JOSE DE SOUZA SANTANA;899.999.596-87;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado; -  -  / 14193 - ISAIAS CAMILO SANTANA - MG - Deputado Estadual;
+NATAHAN EDITORA GRAFICA LTDA;11.984.488/0001-55;28/09/2010;       Publicidade por materiais impressos;R$ 96,60;Cheque; -  -  / 14193 - ISAIAS CAMILO SANTANA - MG - Deputado Estadual;

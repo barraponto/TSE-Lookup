@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;03.534.059/0001-58;23/07/2010;44000001704;R$ 1.200,00;Estimado;MARA VALDENE SILVA LOBO;44238;Deputado Estadual;PRP;AP;
-Diretório Estadual/Distrital;03.534.059/0001-58;09/08/2010;44000001705;R$ 1.100,00;Estimado;MARA VALDENE SILVA LOBO;44238;Deputado Estadual;PRP;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;03.534.059/0001-58;09/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.100,00;Estimado;Direção Estadual/Distrital - PTB -  / 44238 - MARA VALDENE SILVA LOBO - AP - Deputado Estadual;
+Diretório Estadual/Distrital;03.534.059/0001-58;23/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.200,00;Estimado;Direção Estadual/Distrital - PTB -  / 44238 - MARA VALDENE SILVA LOBO - AP - Deputado Estadual;

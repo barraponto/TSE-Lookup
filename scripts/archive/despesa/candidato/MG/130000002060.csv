@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-HÉLIO CALIXTO DA COSTA;12.189.609/0001-30;15/08/2010;15000132902;R$ 600,00;Estimado;FERNANDO ANTONIO SANTOS DE SANTANA;1514;Deputado Federal;PMDB;MG;
-HÉLIO CALIXTO DA COSTA;12.189.609/0001-30;05/08/2010;15000132901;R$ 300,00;Estimado;FERNANDO ANTONIO SANTOS DE SANTANA;1514;Deputado Federal;PMDB;MG;
-HÉLIO CALIXTO DA COSTA;12.189.609/0001-30;01/10/2010;15000132903;R$ 57,00;Estimado;FERNANDO ANTONIO SANTOS DE SANTANA;1514;Deputado Federal;PMDB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+HÉLIO CALIXTO DA COSTA;12.189.609/0001-30;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;15 -  - PMDB -  - Governador / 1514 - FERNANDO ANTONIO SANTOS DE SANTANA - MG - Deputado Federal;
+HÉLIO CALIXTO DA COSTA;12.189.609/0001-30;15/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado;15 -  - PMDB -  - Governador / 1514 - FERNANDO ANTONIO SANTOS DE SANTANA - MG - Deputado Federal;
+HÉLIO CALIXTO DA COSTA;12.189.609/0001-30;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 57,00;Estimado;15 -  - PMDB -  - Governador / 1514 - FERNANDO ANTONIO SANTOS DE SANTANA - MG - Deputado Federal;

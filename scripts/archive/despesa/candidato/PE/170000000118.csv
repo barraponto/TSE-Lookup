@@ -1,4 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;09.057.316/0001-94;17/08/2010;25000543806;R$ 2.000,00;Transferência eletrônica;ALEXANDRE DA SILVA RÊGO;25888;Deputado Estadual;DEM;PE;
-Diretório Estadual/Distrital;09.057.316/0001-94;29/09/2010;25000543808;R$ 3.000,00;Transferência eletrônica;ALEXANDRE DA SILVA RÊGO;25888;Deputado Estadual;DEM;PE;
-JOSE MENDONÇA BEZERRA FILHO;12.176.573/0001-50;14/09/2010;25000543807;R$ 3.000,00;Cheque;ALEXANDRE DA SILVA RÊGO;25888;Deputado Estadual;DEM;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANDREA DE ALMEIDA ALBUQUERQUE -ME;07.505.403/0001-31;03/09/2010;       Publicidade por materiais impressos;R$ 450,00;Cheque; -  -  / 25888 - ALEXANDRE DA SILVA RÊGO - PE - Deputado Estadual;
+ANDREA DE ALMEIDA ALBUQUERQUE -ME;07.505.403/0001-31;06/09/2010;       Publicidade por materiais impressos;R$ 630,00;Cheque; -  -  / 25888 - ALEXANDRE DA SILVA RÊGO - PE - Deputado Estadual;
+ANDREA DE ALMEIDA ALBUQUERQUE -ME;07.505.403/0001-31;21/09/2010;       Publicidade por materiais impressos;R$ 450,00;Cheque; -  -  / 25888 - ALEXANDRE DA SILVA RÊGO - PE - Deputado Estadual;
+ENOCK ROBERTO DE HOLANDA RAMOS;760.606.084-34;19/08/2010;       Serviços prestados por terceiros;R$ 180,00;Cheque; -  -  / 25888 - ALEXANDRE DA SILVA RÊGO - PE - Deputado Estadual;
+FRANCISCA VERONICA FERREIRA RODRIGUES;032.643.504-24;29/09/2010;       Serviços prestados por terceiros;R$ 2.800,00;Cheque; -  -  / 25888 - ALEXANDRE DA SILVA RÊGO - PE - Deputado Estadual;
+J AMARAL FERREIRA ME;02.704.231/0001-01;23/08/2010;       Publicidade por materiais impressos;R$ 700,00;Cheque; -  -  / 25888 - ALEXANDRE DA SILVA RÊGO - PE - Deputado Estadual;
+ORGANIZAÇÃO DE PETRÓLEO LTDA;09.044.272/0001-68;30/09/2010;       Combustíveis e lubrificantes;R$ 120,00;Cheque; -  -  / 25888 - ALEXANDRE DA SILVA RÊGO - PE - Deputado Estadual;
+POSTO NOSSA SENHORA DOS PRAZERES;11.176.245/0003-52;20/09/2010;       Combustíveis e lubrificantes;R$ 2.000,00;Cheque; -  -  / 25888 - ALEXANDRE DA SILVA RÊGO - PE - Deputado Estadual;
+SAL E BRASA BAR E CHURRASCARIA LTDA;08.958.025/0001-04;19/08/2010;       Alimentação;R$ 500,00;Cheque; -  -  / 25888 - ALEXANDRE DA SILVA RÊGO - PE - Deputado Estadual;
+;;26/10/2010;       Encargos financeiros e taxas bancárias;R$ 7,80;Débito em conta; -  -  / 25888 - ALEXANDRE DA SILVA RÊGO - PE - Deputado Estadual;
+;330.042.004-06;29/09/2010;       Encargos financeiros e taxas bancárias;R$ 28,35;Débito em conta; -  -  / 25888 - ALEXANDRE DA SILVA RÊGO - PE - Deputado Estadual;

@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-RAMILDO AIRES DE OLIVEIRA;405.431.533-04;02/09/2010;31000047305;R$ 1.100,00;Depósito em espécie;RAMILDO AIRES DE OLIVEIRA;3112;Deputado Federal;PHS;MA;
-RAMILDO AIRES DE OLIVEIRA;405.431.533-04;05/08/2010;31000047301;R$ 400,00;Depósito em espécie;RAMILDO AIRES DE OLIVEIRA;3112;Deputado Federal;PHS;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EMPRESA PACOTILHA S.A;06.271.258/0001-09;26/08/2010;       Publicidade por jornais e revistas;R$ 1.100,00;Cheque; -  -  / 3112 - RAMILDO AIRES DE OLIVEIRA - MA - Deputado Federal;
+GRAFICA M.A.S DE OLIVEIRA SERIGRAFIA;07.245.831/0001-72;27/08/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 3112 - RAMILDO AIRES DE OLIVEIRA - MA - Deputado Federal;
+GRAFICA M.A.S DE OLIVEIRA SERIGRAFIA;07.245.831/0001-72;12/08/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 3112 - RAMILDO AIRES DE OLIVEIRA - MA - Deputado Federal;

@@ -1,2 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ISRAEL TOMAZ DA SILVA;184.993.684-68;12/09/2010;43001841326;R$ 500,00;Depósito em espécie;ISRAEL TOMAZ DA SILVA;43113;Deputado Estadual;PV;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ENCART GRÁFICA;10.820.336/0001-54;16/08/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 43113 - ISRAEL TOMAZ DA SILVA - PE - Deputado Estadual;
+;;16/08/2010;       Encargos financeiros e taxas bancárias;R$ 18,00;Transferência eletrônica; -  -  / 43113 - ISRAEL TOMAZ DA SILVA - PE - Deputado Estadual;

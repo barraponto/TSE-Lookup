@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;11/08/2010;31000052018;R$ 630,00;Estimado;ALCIONE JORGE DA SILVA FRANCO;3132;Deputado Federal;PHS;PR;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;21/09/2010;31000052031;R$ 500,00;Estimado;ALCIONE JORGE DA SILVA FRANCO;3132;Deputado Federal;PHS;PR;
-RICARDO JOSE MAGALHÃES BARROS;12.190.665/0001-94;23/09/2010;31000052101;R$ 450,00;Estimado;ALCIONE JORGE DA SILVA FRANCO;3132;Deputado Federal;PHS;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;45 -  - PSDB -  - Governador / 3132 - ALCIONE JORGE DA SILVA FRANCO - PR - Deputado Federal;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;11/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 630,00;Estimado;45 -  - PSDB -  - Governador / 3132 - ALCIONE JORGE DA SILVA FRANCO - PR - Deputado Federal;
+RICARDO JOSE MAGALHÃES BARROS;12.190.665/0001-94;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 450,00;Estimado;111 -  - PP -  - Senador / 3132 - ALCIONE JORGE DA SILVA FRANCO - PR - Deputado Federal;

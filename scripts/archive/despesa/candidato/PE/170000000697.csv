@@ -1,4 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-GEORGEM MOUTINHO SILVA;123.044.924-87;04/08/2010;43001842776;R$ 1.000,00;Depósito em espécie;GEORGEM MOUTINHO SILVA;4321;Deputado Federal;PV;PE;
-GEORGEM MOUTINHO SILVA;123.044.924-87;15/09/2010;43001842778;R$ 1.100,00;Depósito em espécie;GEORGEM MOUTINHO SILVA;4321;Deputado Federal;PV;PE;
-GEORGEM MOUTINHO SILVA;123.044.924-87;17/08/2010;43001842777;R$ 1.000,00;Depósito em espécie;GEORGEM MOUTINHO SILVA;4321;Deputado Federal;PV;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BANCO DO BRASIL;00.000.000/0001-91;01/10/2010;       Diversas a especificar;R$ 4,50;Transferência eletrônica; -  -  / 4321 - GEORGEM MOUTINHO SILVA - PE - Deputado Federal;
+CRS GRAFICA LTDA ME;09.451.294/0001-42;30/09/2010;       Publicidade por materiais impressos;R$ 920,00;Cheque; -  -  / 4321 - GEORGEM MOUTINHO SILVA - PE - Deputado Federal;
+CRS GRAFICA LTDA ME;09.451.294/0001-42;01/10/2010;       Publicidade por materiais impressos;R$ 65,50;Cheque; -  -  / 4321 - GEORGEM MOUTINHO SILVA - PE - Deputado Federal;
+CRS GRAFICA LTDA ME;09.451.294/0001-42;03/08/2010;       Publicidade por materiais impressos;R$ 1.110,00;Cheque; -  -  / 4321 - GEORGEM MOUTINHO SILVA - PE - Deputado Federal;
+CRS GRAFICA LTDA ME;09.451.294/0001-42;10/08/2010;       Publicidade por materiais impressos;R$ 360,00;Cheque; -  -  / 4321 - GEORGEM MOUTINHO SILVA - PE - Deputado Federal;
+EDVANIA MARIA FERREIRA - SERIGRAF;049.479.484-42;03/08/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 4321 - GEORGEM MOUTINHO SILVA - PE - Deputado Federal;
+EDVANIA MARIA FERREIRA - SERIGRAF;049.479.484-42;09/08/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 4321 - GEORGEM MOUTINHO SILVA - PE - Deputado Federal;
+LEVI FERREIRA DA SILVA;999.631.914-87;10/09/2010;       Publicidade por materiais impressos;R$ 240,00;Cheque; -  -  / 4321 - GEORGEM MOUTINHO SILVA - PE - Deputado Federal;

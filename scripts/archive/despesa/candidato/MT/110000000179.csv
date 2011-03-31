@@ -1,5 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.221.863/0001-78;16/08/2010;43001905394;R$ 2.000,00;Transferência eletrônica;ANTONIO JOÃO GAIVA FILHO;43100;Deputado Estadual;PV;MT;
-Comitê Financeiro Único;12.221.863/0001-78;24/09/2010;43001905396;R$ 2.500,00;Transferência eletrônica;ANTONIO JOÃO GAIVA FILHO;43100;Deputado Estadual;PV;MT;
-Comitê Financeiro Único;12.221.863/0001-78;24/08/2010;43001905393;R$ 2.000,00;Transferência eletrônica;ANTONIO JOÃO GAIVA FILHO;43100;Deputado Estadual;PV;MT;
-ELEIÇÕES 2010 MAURO MENDES FERREIRA;12.199.024/0001-09;20/09/2010;43001905395;R$ 1.297,25;Estimado;ANTONIO JOÃO GAIVA FILHO;43100;Deputado Estadual;PV;MT;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ATENAS CONSULTORES ASSOCIADOS LTDA;00.195.424/0001-59;01/08/2010;       Publicidade por telemarketing;R$ 2.000,00;Cheque; -  -  / 43100 - ANTONIO JOÃO GAIVA FILHO - MT - Deputado Estadual;
+ELEIÇÕES 2010 MAURO MENDES FERREIRA;12.199.024/0001-09;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.297,25;Estimado;40 -  - PSB -  - Governador / 43100 - ANTONIO JOÃO GAIVA FILHO - MT - Deputado Estadual;
+FREDERICO LEONCIO GAIVA NETO;344.392.341-00;27/08/2010;       Despesas com pessoal;R$ 1.000,00;Cheque; -  -  / 43100 - ANTONIO JOÃO GAIVA FILHO - MT - Deputado Estadual;
+JOSE CARLOS LACERDA CINTRA;361.907.301-59;27/08/2010;       Despesas com pessoal;R$ 1.200,00;Cheque; -  -  / 43100 - ANTONIO JOÃO GAIVA FILHO - MT - Deputado Estadual;
+MARIO SERGIO SOUZA AFONSO;023.437.171-41;25/08/2010;       Despesas com pessoal;R$ 1.000,00;Cheque; -  -  / 43100 - ANTONIO JOÃO GAIVA FILHO - MT - Deputado Estadual;
+RANIEL FONTES GAIVA;327.458.181-04;27/08/2010;       Despesas com pessoal;R$ 1.300,00;Cheque; -  -  / 43100 - ANTONIO JOÃO GAIVA FILHO - MT - Deputado Estadual;

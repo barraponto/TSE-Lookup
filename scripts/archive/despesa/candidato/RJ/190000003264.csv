@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.181.923/0001-76;30/07/2010;17000065351;R$ 150,00;Estimado;VANESSA SANTOS DA SILVA;17145;Deputado Estadual;PSL;RJ;
-Diretório Estadual/Distrital;12.181.923/0001-76;30/07/2010;17000065352;R$ 150,00;Estimado;VANESSA SANTOS DA SILVA;17145;Deputado Estadual;PSL;RJ;
-Diretório Estadual/Distrital;12.181.923/0001-76;30/09/2010;17000065356;R$ 300,00;Estimado;VANESSA SANTOS DA SILVA;17145;Deputado Estadual;PSL;RJ;
-Diretório Estadual/Distrital;12.176.626/0001-32;10/09/2010;17000065354;R$ 28,33;Estimado;VANESSA SANTOS DA SILVA;17145;Deputado Estadual;PSL;RJ;
-Diretório Estadual/Distrital;12.181.923/0001-76;30/09/2010;17000065355;R$ 150,00;Estimado;VANESSA SANTOS DA SILVA;17145;Deputado Estadual;PSL;RJ;
-Diretório Estadual/Distrital;12.181.923/0001-76;10/09/2010;17000065353;R$ 300,00;Estimado;VANESSA SANTOS DA SILVA;17145;Deputado Estadual;PSL;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.181.923/0001-76;30/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Direção Estadual/Distrital - PSL -  / 17145 - VANESSA SANTOS DA SILVA - RJ - Deputado Estadual;
+Diretório Estadual/Distrital;12.181.923/0001-76;30/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Direção Estadual/Distrital - PSL -  / 17145 - VANESSA SANTOS DA SILVA - RJ - Deputado Estadual;
+Diretório Estadual/Distrital;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Direção Estadual/Distrital - PMDB -  / 17145 - VANESSA SANTOS DA SILVA - RJ - Deputado Estadual;
+Diretório Estadual/Distrital;12.176.626/0001-32;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 28,33;Estimado;Direção Estadual/Distrital - PSL -  / 17145 - VANESSA SANTOS DA SILVA - RJ - Deputado Estadual;
+Diretório Estadual/Distrital;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Direção Estadual/Distrital - PMDB -  / 17145 - VANESSA SANTOS DA SILVA - RJ - Deputado Estadual;
+Diretório Estadual/Distrital;12.181.923/0001-76;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Direção Estadual/Distrital - PMDB -  / 17145 - VANESSA SANTOS DA SILVA - RJ - Deputado Estadual;

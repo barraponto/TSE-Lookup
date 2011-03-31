@@ -1,3 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO EXPEDITO CARDOSO;400.565.031-72;30/07/2010;43061789102;R$ 500,00;Depósito em espécie;ANTONIO EXPEDITO CARDOSO;43333;Deputado Distrital;PV;DF;
-ANTONIO EXPEDITO CARDOSO;400.565.031-72;26/07/2010;43061789101;R$ 230,00;Depósito em espécie;ANTONIO EXPEDITO CARDOSO;43333;Deputado Distrital;PV;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+SANDRO MÁRCIO BARBOSA MAGALHÃES - ME;06.974.580/0001-02;27/07/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 43333 - ANTONIO EXPEDITO CARDOSO - DF - Deputado Distrital;

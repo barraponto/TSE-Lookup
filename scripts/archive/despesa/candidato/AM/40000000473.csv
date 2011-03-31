@@ -1,6 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;04.160.131/0001-97;13/08/2010;25000595592;R$ 300,00;Estimado;JOAO BOSCO BELO FERREIRA;25137;Deputado Estadual;DEM;AM;
-Diretório Estadual/Distrital;04.160.131/0001-97;14/10/2010;25000595591;R$ 970,00;Cheque;JOAO BOSCO BELO FERREIRA;25137;Deputado Estadual;DEM;AM;
-JOAO BOSCO BELO FERREIRA;026.655.572-15;09/08/2010;25000595593;R$ 2.000,00;Depósito em espécie;JOAO BOSCO BELO FERREIRA;25137;Deputado Estadual;DEM;AM;
-PAUDERNEY TOMAZ AVELINO;12.168.915/0001-90;15/09/2010;25000595594;R$ 345,00;Estimado;JOAO BOSCO BELO FERREIRA;25137;Deputado Estadual;DEM;AM;
-PAUDERNEY TOMAZ AVELINO;12.168.915/0001-90;02/10/2010;25000595595;R$ 36,00;Estimado;JOAO BOSCO BELO FERREIRA;25137;Deputado Estadual;DEM;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;04.160.131/0001-97;13/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Direção Estadual/Distrital - PMDB -  / 25137 - JOAO BOSCO BELO FERREIRA - AM - Deputado Estadual;
+EDITORA ANA CASSIA LTDA;04.816.658/0001-27;30/09/2010;       Publicidade por materiais impressos;R$ 970,00;Cheque; -  -  / 25137 - JOAO BOSCO BELO FERREIRA - AM - Deputado Estadual;
+PAUDERNEY TOMAZ AVELINO;12.168.915/0001-90;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 36,00;Estimado;2525 -  - DEM -  - Deputado Federal / 25137 - JOAO BOSCO BELO FERREIRA - AM - Deputado Estadual;
+PAUDERNEY TOMAZ AVELINO;12.168.915/0001-90;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 345,00;Estimado;2525 -  - DEM -  - Deputado Federal / 25137 - JOAO BOSCO BELO FERREIRA - AM - Deputado Estadual;

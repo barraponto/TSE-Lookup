@@ -1,8 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS ROBERTO CAMPOS;278.976.486-72;21/09/2010;50000232104;R$ 200,00;Transferência eletrônica;MARIA DA CONSOLACAO ROCHA;5000;Deputado Federal;PSOL;MG;
-CARLOS ROBERTO CAMPOS;278.976.486-72;31/08/2010;50000232102;R$ 200,00;Transferência eletrônica;MARIA DA CONSOLACAO ROCHA;5000;Deputado Federal;PSOL;MG;
-CARMEM LUCIA BOMTEMPO;211.247.526-68;28/09/2010;50000232107;R$ 500,00;Depósito em espécie;MARIA DA CONSOLACAO ROCHA;5000;Deputado Federal;PSOL;MG;
-JOSE ROMANIELE RAIMUNDO DOS SANTOS;660.123.096-00;24/09/2010;50000232106;R$ 750,00;Cheque;MARIA DA CONSOLACAO ROCHA;5000;Deputado Federal;PSOL;MG;
-MARIA DA CONSOLACAO ROCHA;636.497.566-68;21/09/2010;50000232103;R$ 2.000,00;Transferência eletrônica;MARIA DA CONSOLACAO ROCHA;5000;Deputado Federal;PSOL;MG;
-MARIA DA CONSOLACAO ROCHA;636.497.566-68;31/08/2010;50000232101;R$ 2.000,00;Transferência eletrônica;MARIA DA CONSOLACAO ROCHA;5000;Deputado Federal;PSOL;MG;
-ROBERTO ALVES BRAGA JUNIOR;653.861.406-04;21/09/2010;50000232105;R$ 200,00;Transferência eletrônica;MARIA DA CONSOLACAO ROCHA;5000;Deputado Federal;PSOL;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BIGRAFICA EDITORA;05.022.805/0001-50;23/09/2010;       Publicidade por materiais impressos;R$ 2.200,00;Cheque; -  -  / 5000 - MARIA DA CONSOLACAO ROCHA - MG - Deputado Federal;
+BIGRAFICA EDITORA;05.022.805/0001-50;31/08/2010;       Publicidade por materiais impressos;R$ 2.100,00;Cheque; -  -  / 5000 - MARIA DA CONSOLACAO ROCHA - MG - Deputado Federal;
+GILCA HELENA DE CAMPOS;709.738.146-91;30/09/2010;       Serviços prestados por terceiros;R$ 630,00;Cheque; -  -  / 5000 - MARIA DA CONSOLACAO ROCHA - MG - Deputado Federal;
+LUGRAF;02.654.368/0001-07;30/09/2010;       Publicidade por materiais impressos;R$ 920,00;Cheque; -  -  / 5000 - MARIA DA CONSOLACAO ROCHA - MG - Deputado Federal;

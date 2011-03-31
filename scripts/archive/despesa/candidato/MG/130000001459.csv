@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADILSON JORGE ROSSY DOS SANTOS;005.339.566-25;30/09/2010;14000092106;R$ 600,00;Estimado;ADILSON JORGE ROSSY DOS SANTOS;14789;Deputado Estadual;PTB;MG;
-ADILSON JORGE ROSSY DOS SANTOS;005.339.566-25;30/09/2010;14000092105;R$ 330,00;Estimado;ADILSON JORGE ROSSY DOS SANTOS;14789;Deputado Estadual;PTB;MG;
-Diretório Estadual/Distrital;21.531.363/0001-23;06/09/2010;14000092102;R$ 1.444,55;Estimado;ADILSON JORGE ROSSY DOS SANTOS;14789;Deputado Estadual;PTB;MG;
-Diretório Estadual/Distrital;21.531.363/0001-23;06/09/2010;14000092103;R$ 1.073,38;Estimado;ADILSON JORGE ROSSY DOS SANTOS;14789;Deputado Estadual;PTB;MG;
-WHEULLER LUIZ FERREIRA DA SILVA;864.893.136-34;30/09/2010;14000092104;R$ 350,00;Estimado;ADILSON JORGE ROSSY DOS SANTOS;14789;Deputado Estadual;PTB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADILSON JORGE ROSSY DOS SANTOS;005.339.566-25;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 330,00;Estimado; -  -  / 14789 - ADILSON JORGE ROSSY DOS SANTOS - MG - Deputado Estadual;
+ADILSON JORGE ROSSY DOS SANTOS;005.339.566-25;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado; -  -  / 14789 - ADILSON JORGE ROSSY DOS SANTOS - MG - Deputado Estadual;
+Diretório Estadual/Distrital;21.531.363/0001-23;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.444,55;Estimado;Direção Estadual/Distrital - PTB -  / 14789 - ADILSON JORGE ROSSY DOS SANTOS - MG - Deputado Estadual;
+Diretório Estadual/Distrital;21.531.363/0001-23;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.073,38;Estimado;Direção Estadual/Distrital - PTB -  / 14789 - ADILSON JORGE ROSSY DOS SANTOS - MG - Deputado Estadual;
+WHEULLER LUIZ FERREIRA DA SILVA;864.893.136-34;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 350,00;Estimado; -  -  / 14789 - ADILSON JORGE ROSSY DOS SANTOS - MG - Deputado Estadual;

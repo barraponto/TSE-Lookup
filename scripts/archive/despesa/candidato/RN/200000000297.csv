@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANA SANTANA DOS SANTOS PEREIRA;060.678.434-98;10/10/2010;16000035407;R$ 400,00;Estimado;DÁRIO BARBOSA DE MELO;161;Senador;PSTU;RN;
-Comitê Financeiro Único;12.235.322/0001-07;28/09/2010;16000035403;R$ 165,00;Depósito em espécie;DÁRIO BARBOSA DE MELO;161;Senador;PSTU;RN;
-Comitê Financeiro Único;12.235.322/0001-07;10/10/2010;16000035406;R$ 1.500,00;Estimado;DÁRIO BARBOSA DE MELO;161;Senador;PSTU;RN;
-Comitê Financeiro Único;12.235.322/0001-07;17/09/2010;16000035401;R$ 400,00;Depósito em espécie;DÁRIO BARBOSA DE MELO;161;Senador;PSTU;RN;
-Comitê Financeiro Único;12.235.322/0001-07;22/10/2010;16000035408;R$ 500,00;Estimado;DÁRIO BARBOSA DE MELO;161;Senador;PSTU;RN;
-ERICK TEOFILI ALMEIDA LIMA;055.897.334-56;03/10/2010;16000035404;R$ 800,00;Estimado;DÁRIO BARBOSA DE MELO;161;Senador;PSTU;RN;
-LUCIANA LIMA DA SILVA;12.199.743/0001-11;24/09/2010;16000035402;R$ 45,00;Estimado;DÁRIO BARBOSA DE MELO;161;Senador;PSTU;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANA SANTANA DOS SANTOS PEREIRA;060.678.434-98;10/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado; -  -  / 161 - DÁRIO BARBOSA DE MELO - RN - Senador;
+Comitê Financeiro Único;12.235.322/0001-07;10/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado;Comitê Financeiro Único - PSTU -  / 161 - DÁRIO BARBOSA DE MELO - RN - Senador;
+Comitê Financeiro Único;12.235.322/0001-07;22/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;Comitê Financeiro Único - PSTU -  / 161 - DÁRIO BARBOSA DE MELO - RN - Senador;
+ERICK TEOFILI ALMEIDA LIMA;055.897.334-56;03/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 800,00;Estimado; -  -  / 161 - DÁRIO BARBOSA DE MELO - RN - Senador;
+GRAFICA SUL & EDITORA;06.948.614/0001-86;18/10/2010;       Publicidade por materiais impressos;R$ 230,00;Cheque; -  -  / 161 - DÁRIO BARBOSA DE MELO - RN - Senador;
+GRAFIPEL SERVIÇOS GRAFICOS E REPROGRAFICOS LTDA;03.239.088/0001-97;15/10/2010;       Publicidade por materiais impressos;R$ 150,00;Cheque; -  -  / 161 - DÁRIO BARBOSA DE MELO - RN - Senador;
+LUCIANA LIMA DA SILVA;12.199.743/0001-11;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 45,00;Estimado;16123 -  - PSTU -  - Deputado Estadual / 161 - DÁRIO BARBOSA DE MELO - RN - Senador;

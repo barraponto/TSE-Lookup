@@ -1,8 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CHAIANE PAULA RODRIGUES;888.888.432-72;14/07/2010;40002310676;R$ 2.100,00;Estimado;JOSE RIBAMAR DE LIMA MOTA;40440;Deputado Estadual;PSB;AC;
-Comitê Financeiro Estadual/Distrital para Senador da República;12.147.828/0001-56;24/09/2010;40002310672;R$ 2.000,00;Depósito em espécie;JOSE RIBAMAR DE LIMA MOTA;40440;Deputado Estadual;PSB;AC;
-Comitê Financeiro Único;12.206.664/0001-90;27/09/2010;40002310671;R$ 1.000,00;Transferência eletrônica;JOSE RIBAMAR DE LIMA MOTA;40440;Deputado Estadual;PSB;AC;
-Comitê Financeiro Único;12.206.664/0001-90;29/09/2010;40002310675;R$ 392,00;Estimado;JOSE RIBAMAR DE LIMA MOTA;40440;Deputado Estadual;PSB;AC;
-Comitê Financeiro Único;12.206.664/0001-90;23/09/2010;40002310673;R$ 657,72;Estimado;JOSE RIBAMAR DE LIMA MOTA;40440;Deputado Estadual;PSB;AC;
-Comitê Financeiro Único;12.206.664/0001-90;01/09/2010;40002310674;R$ 392,00;Estimado;JOSE RIBAMAR DE LIMA MOTA;40440;Deputado Estadual;PSB;AC;
-JOSÉ RIBAMAR DE LIMA MOTA;359.843.092-20;15/10/2010;40002310677;R$ 5,00;Depósito em espécie;JOSE RIBAMAR DE LIMA MOTA;40440;Deputado Estadual;PSB;AC;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CHAIANE PAULA RODRIGUES;888.888.432-72;14/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.100,00;Estimado; -  -  / 40440 - JOSE RIBAMAR DE LIMA MOTA - AC - Deputado Estadual;
+Comitê Financeiro Único;12.206.664/0001-90;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 657,72;Estimado;Comitê Financeiro Único - PSB -  / 40440 - JOSE RIBAMAR DE LIMA MOTA - AC - Deputado Estadual;
+Comitê Financeiro Único;12.206.664/0001-90;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 392,00;Estimado;Comitê Financeiro Único - PSB -  / 40440 - JOSE RIBAMAR DE LIMA MOTA - AC - Deputado Estadual;
+Comitê Financeiro Único;12.206.664/0001-90;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 392,00;Estimado;Comitê Financeiro Único - PSB -  / 40440 - JOSE RIBAMAR DE LIMA MOTA - AC - Deputado Estadual;
+E. ROQUE DA COSTA - ME;03.427.195/0001-49;30/09/2010;       Publicidade por materiais impressos;R$ 997,50;Cheque; -  -  / 40440 - JOSE RIBAMAR DE LIMA MOTA - AC - Deputado Estadual;
+E. ROQUE DA COSTA - ME;03.427.195/0001-49;30/09/2010;       Publicidade por materiais impressos;R$ 2.000,00;Cheque; -  -  / 40440 - JOSE RIBAMAR DE LIMA MOTA - AC - Deputado Estadual;
+;;05/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 40440 - JOSE RIBAMAR DE LIMA MOTA - AC - Deputado Estadual;
+;;27/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,50;Débito em conta; -  -  / 40440 - JOSE RIBAMAR DE LIMA MOTA - AC - Deputado Estadual;

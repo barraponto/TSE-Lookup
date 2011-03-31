@@ -1,4 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FABIO FERNANDES VARGAS;598.552.071-49;16/08/2010;13000772763;R$ 10.000,00;Cheque;RAIMUNDO DE OLIVEIRA FILHO;13456;Deputado Estadual;PT;PA;
-POSTO LAGO VERMELHO LTDA.;04.858.270/0001-99;20/08/2010;13000772762;R$ 20.000,00;Cheque;RAIMUNDO DE OLIVEIRA FILHO;13456;Deputado Estadual;PT;PA;
-RICARDO GUIMARÃES DE QUEIROZ;418.284.026-72;19/08/2010;13000772764;R$ 20.000,00;Cheque;RAIMUNDO DE OLIVEIRA FILHO;13456;Deputado Estadual;PT;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS ROBERTO CAVALCANTE;094.235.241-68;30/08/2010;       Publicidade por carros de som;R$ 20.000,00;Cheque; -  -  / 13456 - RAIMUNDO DE OLIVEIRA FILHO - PA - Deputado Estadual;
+GRAFICA ITACAIUNAS LTDA (GRAFIL);34.825.034/0001-37;19/09/2010;       Publicidade por materiais impressos;R$ 20.000,00;Cheque; -  -  / 13456 - RAIMUNDO DE OLIVEIRA FILHO - PA - Deputado Estadual;
+GRAFICA ITACAIUNAS LTDA (GRAFIL);34.825.034/0001-37;01/10/2010;       Publicidade por materiais impressos;R$ 10.000,00;Cheque; -  -  / 13456 - RAIMUNDO DE OLIVEIRA FILHO - PA - Deputado Estadual;
+POSTO DO BOLINHA LTDA.;01.332.446/0001-86;24/09/2010;       Combustíveis e lubrificantes;R$ 8.562,34;Cheque; -  -  / 13456 - RAIMUNDO DE OLIVEIRA FILHO - PA - Deputado Estadual;
+POSTO DO BOLINHA LTDA.;01.332.446/0001-86;02/09/2010;       Combustíveis e lubrificantes;R$ 5.000,00;Cheque; -  -  / 13456 - RAIMUNDO DE OLIVEIRA FILHO - PA - Deputado Estadual;
+PROCYON VEICULOS (TOYOTA);08.290.083/0001-02;04/09/2010;       Diversas a especificar;R$ 1.090,00;Cheque; -  -  / 13456 - RAIMUNDO DE OLIVEIRA FILHO - PA - Deputado Estadual;

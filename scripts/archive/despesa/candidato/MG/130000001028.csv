@@ -1,6 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO CARLOS DA SILVA;401.254.676-72;09/09/2010;28000563206;R$ 100,00;Depósito em espécie;ANTONIO CARLOS DA SILVA;2800;Deputado Federal;PRTB;MG;
-ANTONIO CARLOS DA SILVA;401.254.676-72;24/09/2010;28000563208;R$ 100,00;Depósito em espécie;ANTONIO CARLOS DA SILVA;2800;Deputado Federal;PRTB;MG;
-Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;28000563212;R$ 300,00;Estimado;ANTONIO CARLOS DA SILVA;2800;Deputado Federal;PRTB;MG;
-Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;28000563210;R$ 590,00;Estimado;ANTONIO CARLOS DA SILVA;2800;Deputado Federal;PRTB;MG;
-FRANCISCO OLÍMPIO DA FONSECA;072.281.636-72;16/09/2010;28000563207;R$ 300,00;Depósito em espécie;ANTONIO CARLOS DA SILVA;2800;Deputado Federal;PRTB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALVORADA COMERCIAL E SERVIÇOS LTDA;86.584.786/0001-57;14/09/2010;       Combustíveis e lubrificantes;R$ 18,00;Cheque; -  -  / 2800 - ANTONIO CARLOS DA SILVA - MG - Deputado Federal;
+ALVORADA COMERCIAL E SERVIÇOS LTDA;86.584.786/0001-57;28/09/2010;       Combustíveis e lubrificantes;R$ 60,00;Cheque; -  -  / 2800 - ANTONIO CARLOS DA SILVA - MG - Deputado Federal;
+ALVORADA COMERCIAL E SERVIÇOS LTDA;86.584.786/0001-57;10/09/2010;       Combustíveis e lubrificantes;R$ 22,00;Cheque; -  -  / 2800 - ANTONIO CARLOS DA SILVA - MG - Deputado Federal;
+ALVORADA COMERCIAL E SERVIÇOS LTDA;86.584.786/0001-57;22/09/2010;       Combustíveis e lubrificantes;R$ 10,00;Cheque; -  -  / 2800 - ANTONIO CARLOS DA SILVA - MG - Deputado Federal;
+ALVORADA COMERCIAL E SERVIÇOS LTDA;86.584.786/0001-57;24/09/2010;       Combustíveis e lubrificantes;R$ 20,00;Cheque; -  -  / 2800 - ANTONIO CARLOS DA SILVA - MG - Deputado Federal;
+Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PT do B -  / 2800 - ANTONIO CARLOS DA SILVA - MG - Deputado Federal;
+Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 590,00;Estimado;Comitê Financeiro Único - PT do B -  / 2800 - ANTONIO CARLOS DA SILVA - MG - Deputado Federal;
+SEMPRE EDITORA LTDA;26.198.515/0004-84;16/09/2010;       Publicidade por jornais e revistas;R$ 350,00;Cheque; -  -  / 2800 - ANTONIO CARLOS DA SILVA - MG - Deputado Federal;

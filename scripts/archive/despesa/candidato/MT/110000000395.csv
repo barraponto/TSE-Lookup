@@ -1,8 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTERO PAES DE BARROS NETO;12.189.840/0001-23;04/09/2010;70000118504;R$ 500,00;Estimado;MARCELINA REIS DE SOUZA;70157;Deputado Estadual;PT do B;MT;
-Comitê Financeiro Único;12.217.625/0001-99;30/07/2010;70000118502;R$ 237,50;Estimado;MARCELINA REIS DE SOUZA;70157;Deputado Estadual;PT do B;MT;
-Comitê Financeiro Único;12.200.154/0001-06;10/09/2010;70000118503;R$ 1.500,00;Depósito em espécie;MARCELINA REIS DE SOUZA;70157;Deputado Estadual;PT do B;MT;
-Comitê Financeiro Único;12.200.154/0001-06;30/09/2010;70000118507;R$ 420,00;Estimado;MARCELINA REIS DE SOUZA;70157;Deputado Estadual;PT do B;MT;
-Comitê Financeiro Único;12.200.154/0001-06;16/09/2010;70000118505;R$ 1.500,00;Depósito em espécie;MARCELINA REIS DE SOUZA;70157;Deputado Estadual;PT do B;MT;
-Comitê Financeiro Único;12.200.154/0001-06;25/08/2010;70000118506;R$ 200,00;Estimado;MARCELINA REIS DE SOUZA;70157;Deputado Estadual;PT do B;MT;
-CRISTIANO NOGUEIRA PERES;12.205.082/0001-90;24/07/2010;70000118501;R$ 199,82;Estimado;MARCELINA REIS DE SOUZA;70157;Deputado Estadual;PT do B;MT;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTERO PAES DE BARROS NETO;12.189.840/0001-23;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;455 -  - PSDB -  - Senador / 70157 - MARCELINA REIS DE SOUZA - MT - Deputado Estadual;
+Comitê Financeiro Único;12.217.625/0001-99;30/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 237,50;Estimado;Comitê Financeiro Único - PT do B -  / 70157 - MARCELINA REIS DE SOUZA - MT - Deputado Estadual;
+Comitê Financeiro Único;12.200.154/0001-06;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 420,00;Estimado;Comitê Financeiro Único - PTB -  / 70157 - MARCELINA REIS DE SOUZA - MT - Deputado Estadual;
+Comitê Financeiro Único;12.200.154/0001-06;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;Comitê Financeiro Único - PTB -  / 70157 - MARCELINA REIS DE SOUZA - MT - Deputado Estadual;
+CRISTIANO NOGUEIRA PERES;12.205.082/0001-90;24/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 199,82;Estimado;7020 -  - PT do B -  - Deputado Federal / 70157 - MARCELINA REIS DE SOUZA - MT - Deputado Estadual;
+EDMUNDO BOERO BARBOS;305.820.911-87;14/09/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / 70157 - MARCELINA REIS DE SOUZA - MT - Deputado Estadual;
+LUZIMAR FERREIRA DE OLIVEIRA;948.330.601-91;14/09/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / 70157 - MARCELINA REIS DE SOUZA - MT - Deputado Estadual;
+MARIA GILZA DE ABREU;266.146.198-10;14/09/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / 70157 - MARCELINA REIS DE SOUZA - MT - Deputado Estadual;
+70157 - MARCELINA REIS DE SOUZA - DEPUTADO ESTADUAL;12.205.997/0001-03;19/10/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 1.500,00;Depósito em espécie;7020 - CRISTIANO NOGUEIRA PERES - PT do B - MT - Deputado Federal / 70157 - MARCELINA REIS DE SOUZA - MT - Deputado Estadual;

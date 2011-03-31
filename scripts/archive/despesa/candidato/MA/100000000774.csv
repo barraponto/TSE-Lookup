@@ -1,4 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.118/0001-42;01/10/2010;14000129003;R$ 641,00;Estimado;ANTÔNIO CÍCERO LOPES ASSUNÇÃO;14000;Deputado Estadual;PTB;MA;
-PEDRO FERNANDES;12.169.916/0001-59;25/09/2010;14000129002;R$ 740,00;Estimado;ANTÔNIO CÍCERO LOPES ASSUNÇÃO;14000;Deputado Estadual;PTB;MA;
-PEDRO FERNANDES;12.169.916/0001-59;25/08/2010;14000129001;R$ 300,00;Estimado;ANTÔNIO CÍCERO LOPES ASSUNÇÃO;14000;Deputado Estadual;PTB;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.118/0001-42;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 641,00;Estimado;Comitê Financeiro Único - PTB -  / 14000 - ANTÔNIO CÍCERO LOPES ASSUNÇÃO - MA - Deputado Estadual;
+EMPRESA PACOTILHA S/A - AQUI MA;06.271.258/0001-09;29/09/2010;       Publicidade por jornais e revistas;R$ 240,00;Cheque; -  -  / 14000 - ANTÔNIO CÍCERO LOPES ASSUNÇÃO - MA - Deputado Estadual;
+PEDRO FERNANDES;12.169.916/0001-59;25/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 740,00;Estimado;1414 -  - PTB -  - Deputado Federal / 14000 - ANTÔNIO CÍCERO LOPES ASSUNÇÃO - MA - Deputado Estadual;
+PEDRO FERNANDES;12.169.916/0001-59;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;1414 -  - PTB -  - Deputado Federal / 14000 - ANTÔNIO CÍCERO LOPES ASSUNÇÃO - MA - Deputado Estadual;

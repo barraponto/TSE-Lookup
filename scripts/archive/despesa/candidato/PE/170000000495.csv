@@ -1,4 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;09.057.316/0001-94;17/08/2010;31000042076;R$ 2.000,00;Transferência eletrônica;WRANIO JOSE MENDES SARAIVA;31150;Deputado Estadual;PHS;PE;
-Diretório Estadual/Distrital;09.057.316/0001-94;27/09/2010;31000042078;R$ 2.000,00;Transferência eletrônica;WRANIO JOSE MENDES SARAIVA;31150;Deputado Estadual;PHS;PE;
-Diretório Estadual/Distrital;09.057.316/0001-94;03/09/2010;31000042077;R$ 3.000,00;Transferência eletrônica;WRANIO JOSE MENDES SARAIVA;31150;Deputado Estadual;PHS;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARMANDO ANTONIO SARAIVA;100.684.164-40;23/09/2010;       Diversas a especificar;R$ 69,00;Cheque; -  -  / 31150 - WRANIO JOSE MENDES SARAIVA - PE - Deputado Estadual;
+JOSE RILDO DA SILVA;099.793.384-40;14/09/2010;       Diversas a especificar;R$ 1.930,00;Cheque; -  -  / 31150 - WRANIO JOSE MENDES SARAIVA - PE - Deputado Estadual;
+JOSE RILDO DA SILVA;099.793.384-40;06/09/2010;       Diversas a especificar;R$ 3.000,00;Cheque; -  -  / 31150 - WRANIO JOSE MENDES SARAIVA - PE - Deputado Estadual;
+JOSE RILDO DA SILVA;099.793.384-40;25/08/2010;       Diversas a especificar;R$ 2.000,00;Cheque; -  -  / 31150 - WRANIO JOSE MENDES SARAIVA - PE - Deputado Estadual;
+;;30/09/2010;       Encargos financeiros e taxas bancárias;R$ 1,00;Débito em conta; -  -  / 31150 - WRANIO JOSE MENDES SARAIVA - PE - Deputado Estadual;

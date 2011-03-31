@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEICÃO 2010 MOISES GONCALVES DE LIMA FILHO DEPUTADO ESTADUAL;799.193.751-87;28/09/2010;17000036952;R$ 700,00;Depósito em espécie;MOISES GONÇALVES DE LIMA FILHO;17555;Deputado Estadual;PSL;GO;
-ELEIÇÃO 2010 VANDERLAN VIEIRA CARDOSO;12.198.568/0001-48;06/10/2010;17000036951;R$ 700,00;Estimado;MOISES GONÇALVES DE LIMA FILHO;17555;Deputado Estadual;PSL;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+COLOR SILK SERIGRAFIA LTDA;25.023.151/0001-96;28/09/2010;       Publicidade por materiais impressos;R$ 350,00;Cheque; -  -  / 17555 - MOISES GONÇALVES DE LIMA FILHO - GO - Deputado Estadual;
+COLOR SILK SERIGRAFIA LTDA;25.023.151/0001-96;29/09/2010;       Publicidade por materiais impressos;R$ 350,00;Cheque; -  -  / 17555 - MOISES GONÇALVES DE LIMA FILHO - GO - Deputado Estadual;
+ELEIÇÃO 2010 VANDERLAN VIEIRA CARDOSO;12.198.568/0001-48;06/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 700,00;Estimado;22 -  - PR -  - Governador / 17555 - MOISES GONÇALVES DE LIMA FILHO - GO - Deputado Estadual;

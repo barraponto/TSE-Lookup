@@ -1,8 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;32.080.483/0001-78;30/09/2010;45000452407;R$ 166,67;Estimado;SORAIA CARDOSO DA SILVA;45126;Deputado Estadual;PSDB;RJ;
-Diretório Estadual/Distrital;32.080.483/0001-78;30/09/2010;45000452408;R$ 3.875,00;Estimado;SORAIA CARDOSO DA SILVA;45126;Deputado Estadual;PSDB;RJ;
-OTAVIO SANTOS SILVA LEITE;12.190.107/0001-29;23/08/2010;45000452402;R$ 58,75;Estimado;SORAIA CARDOSO DA SILVA;45126;Deputado Estadual;PSDB;RJ;
-OTAVIO SANTOS SILVA LEITE;12.190.107/0001-29;23/08/2010;45000452403;R$ 59,98;Estimado;SORAIA CARDOSO DA SILVA;45126;Deputado Estadual;PSDB;RJ;
-OTAVIO SANTOS SILVA LEITE;12.190.107/0001-29;23/09/2010;45000452404;R$ 530,85;Estimado;SORAIA CARDOSO DA SILVA;45126;Deputado Estadual;PSDB;RJ;
-SORAIA CARDOSO DA SILVA;813.005.497-34;13/08/2010;45000452401;R$ 180,00;Depósito em espécie;SORAIA CARDOSO DA SILVA;45126;Deputado Estadual;PSDB;RJ;
-SORAIA CARDOSO DA SILVA;813.005.497-34;22/10/2010;45000452409;R$ 3,26;Depósito em espécie;SORAIA CARDOSO DA SILVA;45126;Deputado Estadual;PSDB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;32.080.483/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 166,67;Estimado;Direção Estadual/Distrital - PSDB -  / 45126 - SORAIA CARDOSO DA SILVA - RJ - Deputado Estadual;
+Diretório Estadual/Distrital;32.080.483/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.875,00;Estimado;Direção Estadual/Distrital - PSDB -  / 45126 - SORAIA CARDOSO DA SILVA - RJ - Deputado Estadual;
+EMPRESA JORNALÍSTICA POSTO SEIS EDITORA LTDA;02.728.575/0001-50;25/08/2010;       Publicidade por jornais e revistas;R$ 180,00;Cheque; -  -  / 45126 - SORAIA CARDOSO DA SILVA - RJ - Deputado Estadual;
+OTAVIO SANTOS SILVA LEITE;12.190.107/0001-29;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 58,75;Estimado;4555 -  - PSDB -  - Deputado Federal / 45126 - SORAIA CARDOSO DA SILVA - RJ - Deputado Estadual;
+OTAVIO SANTOS SILVA LEITE;12.190.107/0001-29;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 59,98;Estimado;4555 -  - PSDB -  - Deputado Federal / 45126 - SORAIA CARDOSO DA SILVA - RJ - Deputado Estadual;
+OTAVIO SANTOS SILVA LEITE;12.190.107/0001-29;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 530,85;Estimado;4555 -  - PSDB -  - Deputado Federal / 45126 - SORAIA CARDOSO DA SILVA - RJ - Deputado Estadual;
+;;05/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,30;Débito em conta; -  -  / 45126 - SORAIA CARDOSO DA SILVA - RJ - Deputado Estadual;
+;;17/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 45126 - SORAIA CARDOSO DA SILVA - RJ - Deputado Estadual;
+;;03/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,06;Débito em conta; -  -  / 45126 - SORAIA CARDOSO DA SILVA - RJ - Deputado Estadual;

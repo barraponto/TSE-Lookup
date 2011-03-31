@@ -1,2 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MARCONE TARRADT ROCHA;059.102.264-87;03/09/2010;25000000001;R$ 2.500,00;Depósito em espécie;MARCONE TARRADT ROCHA;25678;Deputado Estadual;DEM;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CENTER GRAFICA LTDA;07.523.694/0001-90;02/09/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 25678 - MARCONE TARRADT ROCHA - PB - Deputado Estadual;
+KROMME IMPRESSAONDEMAT.PARA USO INDUSTRIAL LTDA;02.427.729/0001-74;02/09/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 25678 - MARCONE TARRADT ROCHA - PB - Deputado Estadual;

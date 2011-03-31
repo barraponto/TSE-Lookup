@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;07/08/2010;17000066451;R$ 150,00;Estimado;CLAUDIA BASTOS FRANÇA DO CARMO TAVARES;1718;Deputado Federal;PSL;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;15/09/2010;17000066453;R$ 150,00;Estimado;CLAUDIA BASTOS FRANÇA DO CARMO TAVARES;1718;Deputado Federal;PSL;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;29/09/2010;17000066455;R$ 300,00;Estimado;CLAUDIA BASTOS FRANÇA DO CARMO TAVARES;1718;Deputado Federal;PSL;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;15/09/2010;17000066454;R$ 300,00;Estimado;CLAUDIA BASTOS FRANÇA DO CARMO TAVARES;1718;Deputado Federal;PSL;RJ;
-JORGE SAYED PICCIANI;12.176.626/0001-32;01/09/2010;17000066452;R$ 17,00;Estimado;CLAUDIA BASTOS FRANÇA DO CARMO TAVARES;1718;Deputado Federal;PSL;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 1718 - CLAUDIA BASTOS FRANÇA DO CARMO TAVARES - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 1718 - CLAUDIA BASTOS FRANÇA DO CARMO TAVARES - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;07/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 1718 - CLAUDIA BASTOS FRANÇA DO CARMO TAVARES - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 1718 - CLAUDIA BASTOS FRANÇA DO CARMO TAVARES - RJ - Deputado Federal;
+JORGE SAYED PICCIANI;12.176.626/0001-32;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 1718 - CLAUDIA BASTOS FRANÇA DO CARMO TAVARES - RJ - Deputado Federal;

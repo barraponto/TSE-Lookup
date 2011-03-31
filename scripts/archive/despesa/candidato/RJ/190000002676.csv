@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS ALBERTO LOPES;12.169.533/0001-80;24/09/2010;15000260954;R$ 300,00;Estimado;ADELSON PEREIRA GUEDES;15012;Deputado Estadual;PMDB;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;24/08/2010;15000260951;R$ 300,00;Estimado;ADELSON PEREIRA GUEDES;15012;Deputado Estadual;PMDB;RJ;
-JORGE SAYED PICCIANI;12.176.626/0001-32;02/08/2010;15000260952;R$ 17,00;Estimado;ADELSON PEREIRA GUEDES;15012;Deputado Estadual;PMDB;RJ;
-LUIZ LINDBERG FARIAS FILHO;12.179.678/0001-62;24/09/2010;15000260953;R$ 5.000,00;Cheque;ADELSON PEREIRA GUEDES;15012;Deputado Estadual;PMDB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS ALBERTO LOPES;12.169.533/0001-80;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;3333 -  - PMN -  - Deputado Federal / 15012 - ADELSON PEREIRA GUEDES - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 15012 - ADELSON PEREIRA GUEDES - RJ - Deputado Estadual;
+JORGE SAYED PICCIANI;12.176.626/0001-32;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 15012 - ADELSON PEREIRA GUEDES - RJ - Deputado Estadual;
+M N IMÓVEIS LTDA.;00.778.821/0001-53;29/09/2010;       Locação/cessão de bens imóveis;R$ 5.000,00;Cheque; -  -  / 15012 - ADELSON PEREIRA GUEDES - RJ - Deputado Estadual;

@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;29.549.433/0001-82;31/08/2010;33000118001;R$ 250,00;Estimado;JANE SOUSA SANTOS;33658;Deputado Estadual;PMN;BA;
-Comitê Financeiro Único;12.191.496/0001-07;14/09/2010;33000118002;R$ 15,00;Estimado;JANE SOUSA SANTOS;33658;Deputado Estadual;PMN;BA;
-JANE DE SOUSA SANTOS;891.862.145-00;03/10/2010;33000118003;R$ 200,00;Estimado;JANE SOUSA SANTOS;33658;Deputado Estadual;PMN;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.496/0001-07;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 15,00;Estimado;Comitê Financeiro Único - PMDB -  / 33658 - JANE SOUSA SANTOS - BA - Deputado Estadual;
+Comitê Financeiro Único;29.549.433/0001-82;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;Comitê Financeiro Único - PMDB -  / 33658 - JANE SOUSA SANTOS - BA - Deputado Estadual;
+JANE DE SOUSA SANTOS;891.862.145-00;03/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado; -  -  / 33658 - JANE SOUSA SANTOS - BA - Deputado Estadual;

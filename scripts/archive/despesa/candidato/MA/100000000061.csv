@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÕES JACKSON LAGO - GOVERNADOR;12.167.170/0001-44;15/09/2010;36000060926;R$ 2.698,80;Estimado;DANIEL AUGUSTO DA SILVA CARNEIRO;36063;Deputado Estadual;PTC;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÕES JACKSON LAGO - GOVERNADOR;12.167.170/0001-44;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.698,80;Estimado;12 -  - PDT -  - Governador / 36063 - DANIEL AUGUSTO DA SILVA CARNEIRO - MA - Deputado Estadual;

@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.217.560/0001-81;02/08/2010;23000052553;R$ 3.180,00;Estimado;LEOPOLDINO LOURENCO ARAUJO DA SILVA;23256;Deputado Estadual;PPS;AM;
-Comitê Financeiro Único;12.217.560/0001-81;02/08/2010;23000052552;R$ 1.800,00;Estimado;LEOPOLDINO LOURENCO ARAUJO DA SILVA;23256;Deputado Estadual;PPS;AM;
-LEOPOLDINO LOULENÇO ARAUJO DA SILVA;049.964.292-91;08/08/2010;23000052551;R$ 500,00;Estimado;LEOPOLDINO LOURENCO ARAUJO DA SILVA;23256;Deputado Estadual;PPS;AM;
-PAULO CELESTINO DE OLIVEIRA;005.541.622-53;01/08/2010;23000052554;R$ 1.000,00;Estimado;LEOPOLDINO LOURENCO ARAUJO DA SILVA;23256;Deputado Estadual;PPS;AM;
-ROSANGELA MARQUES SOLANO;611.799.732-91;01/08/2010;23000052555;R$ 1.000,00;Estimado;LEOPOLDINO LOURENCO ARAUJO DA SILVA;23256;Deputado Estadual;PPS;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.217.560/0001-81;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.800,00;Estimado;Comitê Financeiro Único - PPS -  / 23256 - LEOPOLDINO LOURENCO ARAUJO DA SILVA - AM - Deputado Estadual;
+Comitê Financeiro Único;12.217.560/0001-81;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.180,00;Estimado;Comitê Financeiro Único - PPS -  / 23256 - LEOPOLDINO LOURENCO ARAUJO DA SILVA - AM - Deputado Estadual;
+LEOPOLDINO LOULENÇO ARAUJO DA SILVA;049.964.292-91;08/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 23256 - LEOPOLDINO LOURENCO ARAUJO DA SILVA - AM - Deputado Estadual;
+PAULO CELESTINO DE OLIVEIRA;005.541.622-53;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 23256 - LEOPOLDINO LOURENCO ARAUJO DA SILVA - AM - Deputado Estadual;
+ROSANGELA MARQUES SOLANO;611.799.732-91;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 23256 - LEOPOLDINO LOURENCO ARAUJO DA SILVA - AM - Deputado Estadual;

@@ -1,7 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALISON COELHO ARAGAO;971.042.131-04;29/07/2010;43001798781;R$ 110,00;Depósito em espécie;ALISON COELHO ARAGAO;43102;Deputado Estadual;PV;GO;
-ALISON COELHO ARAGAO;971.042.131-04;23/07/2010;43001798784;R$ 130,00;Depósito em espécie;ALISON COELHO ARAGAO;43102;Deputado Estadual;PV;GO;
-ALISON COELHO ARAGAO;971.042.131-04;16/09/2010;43001798786;R$ 700,00;Depósito em espécie;ALISON COELHO ARAGAO;43102;Deputado Estadual;PV;GO;
-ALISON COELHO ARAGAO;971.042.131-04;22/09/2010;43001798787;R$ 600,00;Depósito em espécie;ALISON COELHO ARAGAO;43102;Deputado Estadual;PV;GO;
-SANDRO ANTONIO SCODRO;12.167.331/0001-08;05/10/2010;43001798783;R$ 93,80;Estimado;ALISON COELHO ARAGAO;43102;Deputado Estadual;PV;GO;
-VANDERLAN VIEIRA CARDOSO;12.198.568/0001-48;02/10/2010;43001798782;R$ 500,00;Estimado;ALISON COELHO ARAGAO;43102;Deputado Estadual;PV;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADESIVOS OLIVEIRA E PAULINO LTDA;10.294.995/0001-02;20/10/2010;       Publicidade por materiais impressos;R$ 690,00;Cheque; -  -  / 43102 - ALISON COELHO ARAGAO - GO - Deputado Estadual;
+GERSON VILA NOVA DE CARVALHO NETO;009.774.301-11;28/07/2010;       Despesas com pessoal;R$ 100,00;Cheque; -  -  / 43102 - ALISON COELHO ARAGAO - GO - Deputado Estadual;
+JOSE PAULO DA SILVA PEREIRA;002.962.591-28;09/08/2010;       Despesas com pessoal;R$ 110,00;Cheque; -  -  / 43102 - ALISON COELHO ARAGAO - GO - Deputado Estadual;
+KBL STUDIO AUDIO DIGITAL E IMPRESSOS;11.966.711/0001-31;02/10/2010;       Publicidade por materiais impressos;R$ 22,15;Transferência eletrônica; -  -  / 43102 - ALISON COELHO ARAGAO - GO - Deputado Estadual;
+KBL STUDIO AUDIO DIGITAL E IMPRESSOS;11.966.711/0001-31;22/09/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 43102 - ALISON COELHO ARAGAO - GO - Deputado Estadual;
+SANDRO ANTONIO SCODRO;12.167.331/0001-08;05/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 93,80;Estimado;2233 -  - PR -  - Deputado Federal / 43102 - ALISON COELHO ARAGAO - GO - Deputado Estadual;
+VANDERLAN VIEIRA CARDOSO;12.198.568/0001-48;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;22 -  - PR -  - Governador / 43102 - ALISON COELHO ARAGAO - GO - Deputado Estadual;
+;;15/09/2010;       Encargos financeiros e taxas bancárias;R$ 17,85;Débito em conta; -  -  / 43102 - ALISON COELHO ARAGAO - GO - Deputado Estadual;

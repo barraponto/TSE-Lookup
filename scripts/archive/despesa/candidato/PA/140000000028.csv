@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANA JULIA DE VASCONCELOS CAREPA;12.171.430/0001-55;05/09/2010;43001885378;R$ 1.395,35;Estimado;LUIZ CARLOS RAMOS DA COSTA;43165;Deputado Estadual;PV;PA;
-ANA JULIA DE VASCONCELOS CAREPA;12.171.430/0001-55;05/09/2010;43001885379;R$ 1.920,93;Estimado;LUIZ CARLOS RAMOS DA COSTA;43165;Deputado Estadual;PV;PA;
-ANA JULIA DE VASCONCELOS CAREPA;12.171.430/0001-55;05/09/2010;43001885380;R$ 2.325,58;Estimado;LUIZ CARLOS RAMOS DA COSTA;43165;Deputado Estadual;PV;PA;
-ELIAS VERA FERREIRA;210.796.412-20;16/07/2010;43001885376;R$ 100,00;Depósito em espécie;LUIZ CARLOS RAMOS DA COSTA;43165;Deputado Estadual;PV;PA;
-MARILIA CRISTINA BARATA;327.209.632-91;27/09/2010;43001885377;R$ 629,00;Estimado;LUIZ CARLOS RAMOS DA COSTA;43165;Deputado Estadual;PV;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANA JULIA DE VASCONCELOS CAREPA;12.171.430/0001-55;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.395,35;Estimado;13 -  - PT -  - Governador / 43165 - LUIZ CARLOS RAMOS DA COSTA - PA - Deputado Estadual;
+ANA JULIA DE VASCONCELOS CAREPA;12.171.430/0001-55;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.920,93;Estimado;13 -  - PT -  - Governador / 43165 - LUIZ CARLOS RAMOS DA COSTA - PA - Deputado Estadual;
+ANA JULIA DE VASCONCELOS CAREPA;12.171.430/0001-55;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.325,58;Estimado;13 -  - PT -  - Governador / 43165 - LUIZ CARLOS RAMOS DA COSTA - PA - Deputado Estadual;
+MARILIA CRISTINA BARATA;327.209.632-91;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 629,00;Estimado; -  -  / 43165 - LUIZ CARLOS RAMOS DA COSTA - PA - Deputado Estadual;
+MULTIGRAFICA EDITORA COMERCIO LTDA;14.154.017/0001-08;16/09/2010;       Publicidade por materiais impressos;R$ 100,00;Cheque; -  -  / 43165 - LUIZ CARLOS RAMOS DA COSTA - PA - Deputado Estadual;

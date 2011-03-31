@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.099/0001-54;02/10/2010;13000650202;R$ 1.612,90;Estimado;PEDRO AFONSO DE FREITAS;1326;Deputado Federal;PT;GO;
-Comitê Financeiro Único;12.200.099/0001-54;16/08/2010;13000650201;R$ 650,00;Estimado;PEDRO AFONSO DE FREITAS;1326;Deputado Federal;PT;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.099/0001-54;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.612,90;Estimado;Comitê Financeiro Único - PT -  / 1326 - PEDRO AFONSO DE FREITAS - GO - Deputado Federal;
+Comitê Financeiro Único;12.200.099/0001-54;16/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 650,00;Estimado;Comitê Financeiro Único - PT -  / 1326 - PEDRO AFONSO DE FREITAS - GO - Deputado Federal;

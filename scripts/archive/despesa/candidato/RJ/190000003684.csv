@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.154.856/0001-09;28/07/2010;50000391551;R$ 120,00;Estimado;SIDNEI MARCOS GONÇALVES DA SILVA;50057;Deputado Estadual;PSOL;RJ;
-Comitê Financeiro Único;12.154.856/0001-09;05/08/2010;50000391552;R$ 125,43;Estimado;SIDNEI MARCOS GONÇALVES DA SILVA;50057;Deputado Estadual;PSOL;RJ;
-ELEICAO 2010 ALMIR PORTO DE OLIVEIRA;12.203.935/0001-54;20/08/2010;50000391556;R$ 209,67;Estimado;SIDNEI MARCOS GONÇALVES DA SILVA;50057;Deputado Estadual;PSOL;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.154.856/0001-09;28/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 120,00;Estimado;Comitê Financeiro Único - PSOL -  / 50057 - SIDNEI MARCOS GONÇALVES DA SILVA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.154.856/0001-09;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 125,43;Estimado;Comitê Financeiro Único - PSOL -  / 50057 - SIDNEI MARCOS GONÇALVES DA SILVA - RJ - Deputado Estadual;
+ELEICAO 2010 ALMIR PORTO DE OLIVEIRA;12.203.935/0001-54;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 209,67;Estimado;5033 -  - PSOL -  - Deputado Federal / 50057 - SIDNEI MARCOS GONÇALVES DA SILVA - RJ - Deputado Estadual;

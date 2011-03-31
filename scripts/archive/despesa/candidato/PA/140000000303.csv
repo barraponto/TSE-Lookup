@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ROBERTO BRITO FERNADES;211.855.902-00;27/08/2010;10000061401;R$ 50,00;Depósito em espécie;RAIMUNDO NONATO HUGHES FILHO;10130;Deputado Estadual;PRB;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+POSTO DALLAS;12.178.993/0001-75;27/08/2010;       Combustíveis e lubrificantes;R$ 50,00;Cheque; -  -  / 10130 - RAIMUNDO NONATO HUGHES FILHO - PA - Deputado Estadual;

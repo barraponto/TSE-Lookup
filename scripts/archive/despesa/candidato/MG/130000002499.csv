@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.372.871/0001-15;31/08/2010;12001712802;R$ 1.320,00;Estimado;ANA MARIA DO CARMO MACIEL;1270;Deputado Federal;PDT;MG;
-Comitê Financeiro Único;12.372.871/0001-15;30/09/2010;12001712806;R$ 510,00;Estimado;ANA MARIA DO CARMO MACIEL;1270;Deputado Federal;PDT;MG;
-Comitê Financeiro Único;12.372.871/0001-15;20/09/2010;12001712808;R$ 500,00;Cheque;ANA MARIA DO CARMO MACIEL;1270;Deputado Federal;PDT;MG;
-Comitê Financeiro Único;12.372.871/0001-15;29/07/2010;12001712803;R$ 1.197,84;Estimado;ANA MARIA DO CARMO MACIEL;1270;Deputado Federal;PDT;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.372.871/0001-15;29/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.197,84;Estimado;Comitê Financeiro Único - PDT -  / 1270 - ANA MARIA DO CARMO MACIEL - MG - Deputado Federal;
+Comitê Financeiro Único;12.372.871/0001-15;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 510,00;Estimado;Comitê Financeiro Único - PDT -  / 1270 - ANA MARIA DO CARMO MACIEL - MG - Deputado Federal;
+Comitê Financeiro Único;12.372.871/0001-15;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.320,00;Estimado;Comitê Financeiro Único - PDT -  / 1270 - ANA MARIA DO CARMO MACIEL - MG - Deputado Federal;
+SUELLEN DO CARMO MACIEL;098.396.286-31;27/09/2010;       Serviços prestados por terceiros;R$ 500,00;Cheque; -  -  / 1270 - ANA MARIA DO CARMO MACIEL - MG - Deputado Federal;

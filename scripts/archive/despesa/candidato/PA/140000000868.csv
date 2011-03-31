@@ -1,2 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.242.511/0001-07;16/09/2010;14000201201;R$ 20.000,00;Cheque;MARIO HENRIQUE DE LIMA BISCARO;1441;Deputado Federal;PTB;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JOSÉ FLAVIO BORGES;564.324.532-91;24/09/2010;       Combustíveis e lubrificantes;R$ 4.500,00;Cheque; -  -  / 1441 - MARIO HENRIQUE DE LIMA BISCARO - PA - Deputado Federal;
+LUCINETE OLIVEIRA DO ROSARIO;757.341.332-72;24/09/2010;       Combustíveis e lubrificantes;R$ 4.000,00;Cheque; -  -  / 1441 - MARIO HENRIQUE DE LIMA BISCARO - PA - Deputado Federal;
+MARIA DO SOCORRO MIRANDA DOS SANTOS;181.237.162-49;24/09/2010;       Publicidade por materiais impressos;R$ 3.500,00;Cheque; -  -  / 1441 - MARIO HENRIQUE DE LIMA BISCARO - PA - Deputado Federal;
+PAULO GERSON ROCHA DOS SANTOS;279.768.152-53;24/09/2010;       Publicidade por materiais impressos;R$ 2.200,00;Cheque; -  -  / 1441 - MARIO HENRIQUE DE LIMA BISCARO - PA - Deputado Federal;
+RUBENS MOTA DA CONCEIÇÃO;008.972.562-04;27/09/2010;       Serviços prestados por terceiros;R$ 5.800,00;Cheque; -  -  / 1441 - MARIO HENRIQUE DE LIMA BISCARO - PA - Deputado Federal;

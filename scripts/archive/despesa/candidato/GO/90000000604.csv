@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-IRIS REZENDE MACHADO;12.167.313/0001-18;02/10/2010;15000089401;R$ 1.612,90;Estimado;DENIS ROBSON DA SILVA;1505;Deputado Federal;PMDB;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+IRIS REZENDE MACHADO;12.167.313/0001-18;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.612,90;Estimado;15 -  - PMDB -  - Governador / 1505 - DENIS ROBSON DA SILVA - GO - Deputado Federal;

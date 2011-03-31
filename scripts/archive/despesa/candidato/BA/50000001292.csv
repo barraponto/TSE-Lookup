@@ -1,7 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ABEL VENTURA NETO;387.577.024-20;06/08/2010;50000085552;R$ 1.000,00;Transferência eletrônica;NELSON ARAUJO FILHO;505;1º Suplente Senador;PSOL;BA;
-AFFONSO DE GENARIO JUNIOR;740.781.358-20;17/08/2010;50000085565;R$ 150,00;Cheque;NELSON ARAUJO FILHO;505;1º Suplente Senador;PSOL;BA;
-GILVAN MACHADO DE SOUZA;084.502.854-53;26/08/2010;50000085568;R$ 50,00;Transferência eletrônica;NELSON ARAUJO FILHO;505;1º Suplente Senador;PSOL;BA;
-ISABEL CRISTINA VIEIRA SANTANA;098.730.665-00;01/09/2010;50000085570;R$ 1.500,00;Transferência eletrônica;NELSON ARAUJO FILHO;505;1º Suplente Senador;PSOL;BA;
-PITAGORAS BOURSCHEID;004.317.100-15;25/08/2010;50000085566;R$ 500,00;Transferência eletrônica;NELSON ARAUJO FILHO;505;1º Suplente Senador;PSOL;BA;
-ROMUALDO ALVES DA SILVA;089.114.105-78;05/08/2010;50000085563;R$ 2.000,00;Transferência eletrônica;NELSON ARAUJO FILHO;505;1º Suplente Senador;PSOL;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+505 - NELSON ARAUJO FILHO - 1º SUPLENTE SENADOR;12.256.057/0001-35;24/08/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 2.500,00;Transferência eletrônica;50150 - HILTON BARROS COELHO - PSOL - BA - Deputado Estadual / 505 - NELSON ARAUJO FILHO - BA - 1º Suplente Senador;
+505 - NELSON ARAUJO FILHO - 1º SUPLENTE SENADOR;12.256.057/0001-35;18/08/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 1.500,00;Transferência eletrônica;50150 - HILTON BARROS COELHO - PSOL - BA - Deputado Estadual / 505 - NELSON ARAUJO FILHO - BA - 1º Suplente Senador;
+;;18/08/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Débito em conta; -  -  / 505 - NELSON ARAUJO FILHO - BA - 1º Suplente Senador;
+;;24/08/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Débito em conta; -  -  / 505 - NELSON ARAUJO FILHO - BA - 1º Suplente Senador;
+;;20/09/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Débito em conta; -  -  / 505 - NELSON ARAUJO FILHO - BA - 1º Suplente Senador;

@@ -1,2 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
-ULISSES SABINO NOGUEIRA;800.388.248-68;29/10/2010;36000073108;R$ 1.076,00;Transferência eletrônica;Comitê Financeiro Único;PTC;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+NATHALIE LOPES MARTINS;065.222.499-79;29/10/2010;       Despesas com pessoal;R$ 360,93;Cheque; -  -  / Comitê Financeiro Único - PTC - PR;
+SERCOMTEL S.A. - TELECOMUNICAÇÕES;01.371.416/0001-89;29/10/2010;       Telefone;R$ 714,76;Cheque; -  -  / Comitê Financeiro Único - PTC - PR;
+;;29/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,31;Débito em conta; -  -  / Comitê Financeiro Único - PTC - PR;

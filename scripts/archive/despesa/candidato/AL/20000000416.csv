@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.114/0001-64;21/09/2010;25000457501;R$ 4.000,00;Cheque;HELIANA LEIMBECK NOGUEIRA;25777;Deputado Estadual;DEM;AL;
-ELEIÇÃO 2010 TEOTÔNIO BRANDÃO VILELA FILHO;12.170.978/0001-80;26/08/2010;25000457502;R$ 1.400,01;Estimado;HELIANA LEIMBECK NOGUEIRA;25777;Deputado Estadual;DEM;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 TEOTÔNIO BRANDÃO VILELA FILHO;12.170.978/0001-80;26/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.400,01;Estimado;45 -  - PSDB -  - Governador / 25777 - HELIANA LEIMBECK NOGUEIRA - AL - Deputado Estadual;
+IDEIA GRÁFICA E EMBALAGENS LTDA;00.631.480/0001-99;29/09/2010;       Publicidade por materiais impressos;R$ 3.400,00;Cheque; -  -  / 25777 - HELIANA LEIMBECK NOGUEIRA - AL - Deputado Estadual;
+ROSEANE NOGUEIRA DE ANDRADE;725.513.054-20;30/09/2010;       Serviços prestados por terceiros;R$ 600,00;Cheque; -  -  / 25777 - HELIANA LEIMBECK NOGUEIRA - AL - Deputado Estadual;

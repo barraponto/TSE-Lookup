@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.262.844/0001-90;30/09/2010;40000162903;R$ 2.000,00;Estimado;EDUARDO CANUTO DE OLIVEIRA;40190;Deputado Estadual;PSB;RN;
-Comitê Financeiro Único;12.262.844/0001-90;29/09/2010;40000162901;R$ 3.000,00;Estimado;EDUARDO CANUTO DE OLIVEIRA;40190;Deputado Estadual;PSB;RN;
-EDUARDO CANUTO DE OLIVEIRA;761.911.414-91;28/07/2010;40002162651;R$ 50,00;Transferência eletrônica;EDUARDO CANUTO DE OLIVEIRA;40190;Deputado Estadual;PSB;RN;
-EDUARDO CANUTO DE OLIVEIRA;761.911.414-91;13/09/2010;40002162652;R$ 40,00;Transferência eletrônica;EDUARDO CANUTO DE OLIVEIRA;40190;Deputado Estadual;PSB;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO IRMÃOS LTDA (POSTO SHELL);08.533.200/0001-11;30/09/2010;       Combustíveis e lubrificantes;R$ 30,00;Transferência eletrônica; -  -  / 40190 - EDUARDO CANUTO DE OLIVEIRA - RN - Deputado Estadual;
+Comitê Financeiro Único;12.262.844/0001-90;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado;Comitê Financeiro Único - PSB -  / 40190 - EDUARDO CANUTO DE OLIVEIRA - RN - Deputado Estadual;
+Comitê Financeiro Único;12.262.844/0001-90;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.000,00;Estimado;Comitê Financeiro Único - PSB -  / 40190 - EDUARDO CANUTO DE OLIVEIRA - RN - Deputado Estadual;
+MP CARTUCHOS;09.404.211/0001-64;15/09/2010;       Materiais de expediente;R$ 60,00;Transferência eletrônica; -  -  / 40190 - EDUARDO CANUTO DE OLIVEIRA - RN - Deputado Estadual;

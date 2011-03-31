@@ -1,2 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MARLUCE MARIA MEIRELES DA SILVA CHERMONT;146.225.722-49;17/09/2010;;R$ 50,00;Estimado;MARLUCE MARIA MEIRELES DA SILVA CHERMONT;28222;Deputado Estadual;PRTB;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CLAUDIO LUIS LEITE BUENO;34.942.433/0001-88;17/09/2010;       Publicidade por materiais impressos;R$ 50,00;Cheque; -  -  / 28222 - MARLUCE MARIA MEIRELES DA SILVA CHERMONT - AP - Deputado Estadual;
+MARLUCE MARIA MEIRELES DA SILVA CHERMONT;146.225.722-49;17/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 50,00;Estimado; -  -  / 28222 - MARLUCE MARIA MEIRELES DA SILVA CHERMONT - AP - Deputado Estadual;
+28222 - MARLUCE MARIA MEIRELES DA SILVA CHERMONT - DEPUTADO ESTADUAL;12.214.181/0001-38;24/08/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 120,00;Cheque;Comitê Financeiro Único - PRTB - AP / 28222 - MARLUCE MARIA MEIRELES DA SILVA CHERMONT - AP - Deputado Estadual;
+28222 - MARLUCE MARIA MEIRELES DA SILVA CHERMONT - DEPUTADO ESTADUAL;12.214.181/0001-38;30/07/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 300,00;Depósito em espécie;Comitê Financeiro Único - PRTB - AP / 28222 - MARLUCE MARIA MEIRELES DA SILVA CHERMONT - AP - Deputado Estadual;

@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO CARLOS BORBA;391.526.420-20;22/07/2010;15000200053;R$ 366,00;Estimado;MIGUEL CIPRIANO MACHADO VEIGA;15024;Deputado Estadual;PMDB;RS;
-Comitê Financeiro Único;12.200.140/0001-92;19/08/2010;15000200052;R$ 1.334,00;Estimado;MIGUEL CIPRIANO MACHADO VEIGA;15024;Deputado Estadual;PMDB;RS;
-Diretório Estadual/Distrital;87.582.714/0001-33;15/07/2010;15000200051;R$ 139,00;Estimado;MIGUEL CIPRIANO MACHADO VEIGA;15024;Deputado Estadual;PMDB;RS;
-PATRÍCIO RODRIGUES FERREIRA;002.302.600-63;05/08/2010;15000200054;R$ 800,00;Estimado;MIGUEL CIPRIANO MACHADO VEIGA;15024;Deputado Estadual;PMDB;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO CARLOS BORBA;391.526.420-20;22/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 366,00;Estimado; -  -  / 15024 - MIGUEL CIPRIANO MACHADO VEIGA - RS - Deputado Estadual;
+Comitê Financeiro Único;12.200.140/0001-92;19/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.334,00;Estimado;Comitê Financeiro Único - PMDB -  / 15024 - MIGUEL CIPRIANO MACHADO VEIGA - RS - Deputado Estadual;
+Diretório Estadual/Distrital;87.582.714/0001-33;15/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 139,00;Estimado;Direção Estadual/Distrital - PMDB -  / 15024 - MIGUEL CIPRIANO MACHADO VEIGA - RS - Deputado Estadual;
+PATRÍCIO RODRIGUES FERREIRA;002.302.600-63;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 800,00;Estimado; -  -  / 15024 - MIGUEL CIPRIANO MACHADO VEIGA - RS - Deputado Estadual;

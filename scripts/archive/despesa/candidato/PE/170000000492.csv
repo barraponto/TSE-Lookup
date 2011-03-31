@@ -1,3 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-COPIADORA GRAFICA RAPIDA.;00.202.290/0001-56;25/08/2010;31000042387;R$ 250,00;Estimado;ROSE MARY VIEIRA FERNANDES;31017;Deputado Estadual;PHS;PE;
-ROSE MARY VIEIRA FERNANDES;665.115.934-87;28/07/2010;31000042386;R$ 50,00;Cheque;ROSE MARY VIEIRA FERNANDES;31017;Deputado Estadual;PHS;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+COPIADORA GRAFICA RAPIDA.;00.202.290/0001-56;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado; -  -  / 31017 - ROSE MARY VIEIRA FERNANDES - PE - Deputado Estadual;

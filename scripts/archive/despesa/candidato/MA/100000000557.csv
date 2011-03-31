@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.221.840/0001-63;30/09/2010;13000668344;R$ 2.542,36;Estimado;GENILSON ROBERTO ALVES SILVA;13000;Deputado Estadual;PT;MA;
-GENILSON ROBERTO ALVES SILVA;775.097.063-00;01/10/2010;13000668343;R$ 520,00;Transferência eletrônica;GENILSON ROBERTO ALVES SILVA;13000;Deputado Estadual;PT;MA;
-GENILSON ROBERTO ALVES SILVA;775.097.063-00;15/09/2010;13000668341;R$ 500,00;Transferência eletrônica;GENILSON ROBERTO ALVES SILVA;13000;Deputado Estadual;PT;MA;
-GENILSON ROBERTO ALVES SILVA;775.097.063-00;16/09/2010;13000668342;R$ 60,00;Transferência eletrônica;GENILSON ROBERTO ALVES SILVA;13000;Deputado Estadual;PT;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.221.840/0001-63;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.542,36;Estimado;Direção Estadual/Distrital - PT -  / 13000 - GENILSON ROBERTO ALVES SILVA - MA - Deputado Estadual;
+ESTACAO GRAFICA LTDA;69.419.877/0001-18;16/09/2010;       Publicidade por materiais impressos;R$ 550,00;Cheque; -  -  / 13000 - GENILSON ROBERTO ALVES SILVA - MA - Deputado Estadual;
+ESTACAO GRAFICA LTDA;69.419.877/0001-18;01/10/2010;       Publicidade por materiais impressos;R$ 510,00;Cheque; -  -  / 13000 - GENILSON ROBERTO ALVES SILVA - MA - Deputado Estadual;
+TERSIO TADEU SILVA CARDOSO;702.261.803-87;01/10/2010;       Serviços prestados por terceiros;R$ 20,00;Cheque; -  -  / 13000 - GENILSON ROBERTO ALVES SILVA - MA - Deputado Estadual;

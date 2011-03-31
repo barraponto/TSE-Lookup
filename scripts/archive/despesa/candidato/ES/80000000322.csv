@@ -1,4 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.205.215/0001-28;20/09/2010;70000146901;R$ 405,00;Transferência eletrônica;WALTER CANOSSA DA COSTA;70670;Deputado Estadual;PT do B;ES;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.205.215/0001-28;23/09/2010;70000146900;R$ 1.000,00;Transferência eletrônica;WALTER CANOSSA DA COSTA;70670;Deputado Estadual;PT do B;ES;
-NILTON CRISTO GAGNO;252.233.807-20;10/09/2010;70000146902;R$ 900,00;Estimado;WALTER CANOSSA DA COSTA;70670;Deputado Estadual;PT do B;ES;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA E EDITORA JEP LTDA;27.252.147/0001-25;04/08/2010;       Publicidade por materiais impressos;R$ 32,50;Transferência eletrônica; -  -  / 70670 - WALTER CANOSSA DA COSTA - ES - Deputado Estadual;
+GRAFICA SANTO ANTONIO LTDA;28.156.297/0001-06;01/09/2010;       Publicidade por materiais impressos;R$ 30,00;Transferência eletrônica; -  -  / 70670 - WALTER CANOSSA DA COSTA - ES - Deputado Estadual;
+GRAFICA SANTO ANTONIO LTDA;28.156.297/0001-06;15/09/2010;       Publicidade por materiais impressos;R$ 60,00;Transferência eletrônica; -  -  / 70670 - WALTER CANOSSA DA COSTA - ES - Deputado Estadual;
+GRAFICA SANTO ANTONIO LTDA;28.156.297/0001-06;29/07/2010;       Publicidade por materiais impressos;R$ 30,00;Transferência eletrônica; -  -  / 70670 - WALTER CANOSSA DA COSTA - ES - Deputado Estadual;
+GRAFITUSA S/A;05.461.408/0001-84;04/08/2010;       Publicidade por materiais impressos;R$ 29,16;Transferência eletrônica; -  -  / 70670 - WALTER CANOSSA DA COSTA - ES - Deputado Estadual;
+IRMAOS VARGAS LTDA;27.434.000/0002-37;30/09/2010;       Combustíveis e lubrificantes;R$ 150,00;Transferência eletrônica; -  -  / 70670 - WALTER CANOSSA DA COSTA - ES - Deputado Estadual;
+IRMAOS VARGAS LTDA;27.434.000/0002-37;22/09/2010;       Combustíveis e lubrificantes;R$ 400,00;Transferência eletrônica; -  -  / 70670 - WALTER CANOSSA DA COSTA - ES - Deputado Estadual;
+IRMAOS VARGAS LTDA;27.434.000/0002-37;24/09/2010;       Combustíveis e lubrificantes;R$ 100,00;Transferência eletrônica; -  -  / 70670 - WALTER CANOSSA DA COSTA - ES - Deputado Estadual;
+MARISELMA PEREIRA FERRANI;084.724.897-60;01/09/2010;       Despesas com pessoal;R$ 300,00;Transferência eletrônica; -  -  / 70670 - WALTER CANOSSA DA COSTA - ES - Deputado Estadual;
+MARLI IZABEL GOMES DADALDO;101.126.287-88;04/09/2010;       Despesas com pessoal;R$ 258,34;Transferência eletrônica; -  -  / 70670 - WALTER CANOSSA DA COSTA - ES - Deputado Estadual;
+NILTON CRISTO GAGNO;252.233.807-20;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 900,00;Estimado; -  -  / 70670 - WALTER CANOSSA DA COSTA - ES - Deputado Estadual;

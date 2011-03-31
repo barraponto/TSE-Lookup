@@ -1,5 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JORGE SANTANA QUEIROZ;12.171.605/0001-24;15/08/2010;70000151601;R$ 400,00;Cheque;EVANDRO LOURENCO DE LIMA;70772;Deputado Estadual;PT do B;RJ;
-JORGE SANTANA QUEIROZ;12.171.605/0001-24;15/09/2010;70000151604;R$ 40,00;Estimado;EVANDRO LOURENCO DE LIMA;70772;Deputado Estadual;PT do B;RJ;
-JORGE SANTANA QUEIROZ;12.171.605/0001-24;15/09/2010;70000151603;R$ 820,00;Estimado;EVANDRO LOURENCO DE LIMA;70772;Deputado Estadual;PT do B;RJ;
-JORGE SANTANA QUEIROZ;12.171.605/0001-24;03/09/2010;70000151602;R$ 700,00;Cheque;EVANDRO LOURENCO DE LIMA;70772;Deputado Estadual;PT do B;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+FIAMA AQUINO SIMÕES;150.997.897-65;09/09/2010;       Despesas com pessoal;R$ 260,00;Cheque; -  -  / 70772 - EVANDRO LOURENCO DE LIMA - RJ - Deputado Estadual;
+GENIVALDO DOS SANTOS DE AGUIAR;070.730.267-66;10/09/2010;       Despesas com pessoal;R$ 150,00;Cheque; -  -  / 70772 - EVANDRO LOURENCO DE LIMA - RJ - Deputado Estadual;
+JOÃO BATISTA;344.997.927-20;10/09/2010;       Despesas com pessoal;R$ 290,00;Cheque; -  -  / 70772 - EVANDRO LOURENCO DE LIMA - RJ - Deputado Estadual;
+JORGE SANTANA QUEIROZ;12.171.605/0001-24;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 40,00;Estimado;7072 -  - PT do B -  - Deputado Federal / 70772 - EVANDRO LOURENCO DE LIMA - RJ - Deputado Estadual;
+JORGE SANTANA QUEIROZ;12.171.605/0001-24;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 820,00;Estimado;7072 -  - PT do B -  - Deputado Federal / 70772 - EVANDRO LOURENCO DE LIMA - RJ - Deputado Estadual;
+PAGAMENTOS DIVERSOS;041.495.777-65;18/08/2010;       Despesas com pessoal;R$ 400,00;Cheque; -  -  / 70772 - EVANDRO LOURENCO DE LIMA - RJ - Deputado Estadual;

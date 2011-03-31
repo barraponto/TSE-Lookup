@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-HÉLIO CALIXTO COSTA;12.189.609/0001-30;05/08/2010;15000132851;R$ 300,00;Estimado;NEYMAR CAMILO DA SILVA;1568;Deputado Federal;PMDB;MG;
-HELIO CALIXTO DA COSTA;12.189.609/0001-30;01/10/2010;15000132853;R$ 68,40;Estimado;NEYMAR CAMILO DA SILVA;1568;Deputado Federal;PMDB;MG;
-HELIO CALIXTO DA COSTA;12.189.609/0001-30;01/10/2010;15000132854;R$ 285,99;Estimado;NEYMAR CAMILO DA SILVA;1568;Deputado Federal;PMDB;MG;
-NEYMAR CAMILO DA SILVA;490.711.306-49;09/08/2010;15000132852;R$ 250,00;Depósito em espécie;NEYMAR CAMILO DA SILVA;1568;Deputado Federal;PMDB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARTE VISUAL LTDA;05.725.746/0001-86;03/08/2010;       Publicidade por placas, estandartes e faixas;R$ 250,00;Cheque; -  -  / 1568 - NEYMAR CAMILO DA SILVA - MG - Deputado Federal;
+HÉLIO CALIXTO COSTA;12.189.609/0001-30;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;15 -  - PMDB -  - Governador / 1568 - NEYMAR CAMILO DA SILVA - MG - Deputado Federal;
+HELIO CALIXTO DA COSTA;12.189.609/0001-30;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 285,99;Estimado;15 -  - PMDB -  - Governador / 1568 - NEYMAR CAMILO DA SILVA - MG - Deputado Federal;
+HELIO CALIXTO DA COSTA;12.189.609/0001-30;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 68,40;Estimado;15 -  - PMDB -  - Governador / 1568 - NEYMAR CAMILO DA SILVA - MG - Deputado Federal;

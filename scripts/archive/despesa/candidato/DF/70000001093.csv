@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.229.907/0001-06;10/08/2010;25000613001;R$ 360,00;Estimado;EDSON MARCOS FERREIRA;25300;Deputado Distrital;DEM;DF;
-Comitê Financeiro Único;12.229.907/0001-06;10/08/2010;25000613003;R$ 360,00;Estimado;EDSON MARCOS FERREIRA;25300;Deputado Distrital;DEM;DF;
-Comitê Financeiro Único;12.229.907/0001-06;10/08/2010;25000613002;R$ 360,00;Estimado;EDSON MARCOS FERREIRA;25300;Deputado Distrital;DEM;DF;
-ROSA CATARINA FERREIRA;120.574.281-68;10/08/2010;25000613004;R$ 1.500,00;Estimado;EDSON MARCOS FERREIRA;25300;Deputado Distrital;DEM;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.229.907/0001-06;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Único - DEM -  / 25300 - EDSON MARCOS FERREIRA - DF - Deputado Distrital;
+Comitê Financeiro Único;12.229.907/0001-06;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Único - DEM -  / 25300 - EDSON MARCOS FERREIRA - DF - Deputado Distrital;
+Comitê Financeiro Único;12.229.907/0001-06;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Único - DEM -  / 25300 - EDSON MARCOS FERREIRA - DF - Deputado Distrital;
+ROSA CATARINA FERREIRA;120.574.281-68;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado; -  -  / 25300 - EDSON MARCOS FERREIRA - DF - Deputado Distrital;

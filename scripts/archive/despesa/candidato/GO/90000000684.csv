@@ -1,3 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ERNESTO VILELA RESENDE;275.374.711-34;24/09/2010;15000093352;R$ 9.700,00;Transferência eletrônica;ERNESTO VILELA REZENDE;15112;Deputado Estadual;PMDB;GO;
-ERNESTO VILELA RESENDE;275.374.711-34;23/08/2010;15000093351;R$ 800,00;Depósito em espécie;ERNESTO VILELA REZENDE;15112;Deputado Estadual;PMDB;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANAIR SOARES DE CASTRO;26.680.371/0001-55;01/10/2010;       Serviços prestados por terceiros;R$ 550,00;Cheque; -  -  / 15112 - ERNESTO VILELA REZENDE - GO - Deputado Estadual;
+ERASMO MARTINS;402.216.791-20;01/10/2010;       Serviços prestados por terceiros;R$ 50,00;Cheque; -  -  / 15112 - ERNESTO VILELA REZENDE - GO - Deputado Estadual;
+ESFERO GRÁFICA LTDA;03.049.146/0001-10;24/09/2010;       Materiais de expediente;R$ 1.100,00;Cheque; -  -  / 15112 - ERNESTO VILELA REZENDE - GO - Deputado Estadual;
+GRAFOPELÇ GRÁFICA E EDITORA LTDA;00.747.303/0001-72;02/08/2010;       Materiais de expediente;R$ 8.000,00;Cheque; -  -  / 15112 - ERNESTO VILELA REZENDE - GO - Deputado Estadual;
+JAMAQUES OLIVEIRA COSTA;350.269.871-68;31/08/2010;       Materiais de expediente;R$ 800,00;Cheque; -  -  / 15112 - ERNESTO VILELA REZENDE - GO - Deputado Estadual;

@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.206.659/0001-88;23/07/2010;36000069101;R$ 396,20;Estimado;CARLITO NEVES CARVALHO;36123;Deputado Estadual;PTC;PI;
-Comitê Financeiro Único;12.206.659/0001-88;01/10/2010;36000069103;R$ 420,00;Estimado;CARLITO NEVES CARVALHO;36123;Deputado Estadual;PTC;PI;
-Comitê Financeiro Único;12.206.659/0001-88;27/08/2010;36000069102;R$ 235,50;Estimado;CARLITO NEVES CARVALHO;36123;Deputado Estadual;PTC;PI;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.206.659/0001-88;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 420,00;Estimado;Comitê Financeiro Único - PTC -  / 36123 - CARLITO NEVES CARVALHO - PI - Deputado Estadual;
+Comitê Financeiro Único;12.206.659/0001-88;23/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 396,20;Estimado;Comitê Financeiro Único - PTC -  / 36123 - CARLITO NEVES CARVALHO - PI - Deputado Estadual;
+Comitê Financeiro Único;12.206.659/0001-88;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 235,50;Estimado;Comitê Financeiro Único - PTC -  / 36123 - CARLITO NEVES CARVALHO - PI - Deputado Estadual;

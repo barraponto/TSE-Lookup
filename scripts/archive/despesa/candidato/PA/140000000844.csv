@@ -1,2 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LUIZ ANTONIO DE SENA FONSECA;189.566.612-00;06/08/2010;14000210801;R$ 9.000,00;Depósito em espécie;LUIZ ANTONIO DE SENA FONSECA;14010;Deputado Estadual;PTB;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANDERSON MARQUES LEAL;900.558.532-34;09/08/2010;       Produção de jingles, vinhetas e slogans;R$ 250,00;Cheque; -  -  / 14010 - LUIZ ANTONIO DE SENA FONSECA - PA - Deputado Estadual;
+BARBARA PALHARES DA SILVA;619.477.922-53;09/08/2010;       Locação/cessão de bens imóveis;R$ 1.000,00;Cheque; -  -  / 14010 - LUIZ ANTONIO DE SENA FONSECA - PA - Deputado Estadual;
+CLAUDIA DA SILVA GOMES;391.493.232-53;11/08/2010;       Despesas com pessoal;R$ 300,00;Cheque; -  -  / 14010 - LUIZ ANTONIO DE SENA FONSECA - PA - Deputado Estadual;
+DELTA GRAFICA E EDITORA LTDA;07.960.738/0001-40;10/08/2010;       Publicidade por materiais impressos;R$ 2.900,00;Cheque; -  -  / 14010 - LUIZ ANTONIO DE SENA FONSECA - PA - Deputado Estadual;
+EDER SILVA FERREIRA;837.189.902-53;20/08/2010;       Serviços prestados por terceiros;R$ 300,00;Cheque; -  -  / 14010 - LUIZ ANTONIO DE SENA FONSECA - PA - Deputado Estadual;
+ELIZANDRA PAULA ARAÚJO DA COSTA;597.762.262-72;10/08/2010;       Publicidade por carros de som;R$ 300,00;Cheque; -  -  / 14010 - LUIZ ANTONIO DE SENA FONSECA - PA - Deputado Estadual;
+EMANUEL ALVES DA SILVA JUNIOR;634.015.682-72;13/08/2010;       Serviços prestados por terceiros;R$ 1.000,00;Cheque; -  -  / 14010 - LUIZ ANTONIO DE SENA FONSECA - PA - Deputado Estadual;
+ESTHER COSTA DE SOUZA;773.743.122-53;10/08/2010;       Serviços prestados por terceiros;R$ 1.500,00;Cheque; -  -  / 14010 - LUIZ ANTONIO DE SENA FONSECA - PA - Deputado Estadual;
+JORGE GOMES LEITE;045.172.532-87;16/08/2010;       Despesas com transporte ou deslocamento;R$ 300,00;Cheque; -  -  / 14010 - LUIZ ANTONIO DE SENA FONSECA - PA - Deputado Estadual;
+NHÂNHÂ ÇAYRE;944.046.742-87;16/08/2010;       Criação e inclusão de páginas na internet;R$ 500,00;Cheque; -  -  / 14010 - LUIZ ANTONIO DE SENA FONSECA - PA - Deputado Estadual;
+VANDERLI DOS SANTOS DA SILVA;361.526.682-04;09/08/2010;       Locação/cessão de bens imóveis;R$ 600,00;Cheque; -  -  / 14010 - LUIZ ANTONIO DE SENA FONSECA - PA - Deputado Estadual;

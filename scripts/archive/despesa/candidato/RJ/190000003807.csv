@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOÃO PAULO DOS SANTOS DA MATTA FREIRE;093.590.597-90;28/09/2010;14000130132;R$ 230,00;Estimado;MERALDO HULPAN PEREIRA;14283;Deputado Estadual;PTB;RJ;
-MERALDO HULPAN PEREIRA;547.649.397-20;28/09/2010;14000130131;R$ 39,90;Estimado;MERALDO HULPAN PEREIRA;14283;Deputado Estadual;PTB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JOÃO PAULO DOS SANTOS DA MATTA FREIRE;093.590.597-90;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 230,00;Estimado; -  -  / 14283 - MERALDO HULPAN PEREIRA - RJ - Deputado Estadual;
+MERALDO HULPAN PEREIRA;547.649.397-20;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 39,90;Estimado; -  -  / 14283 - MERALDO HULPAN PEREIRA - RJ - Deputado Estadual;

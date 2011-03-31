@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSE HELIO DA COSTA;888.551.204-68;28/09/2010;70000123802;R$ 200,00;Estimado;JOSIVALDO FERREIRA DA SILVA;70555;Deputado Estadual;PT do B;AL;
-JOSE JAELSON AVELINO DA SILVA;815.257.964-53;28/09/2010;70000123803;R$ 300,00;Estimado;JOSIVALDO FERREIRA DA SILVA;70555;Deputado Estadual;PT do B;AL;
-JOSIVALDO FERREIRA DA SILVA;677.980.474-68;27/09/2010;70000123801;R$ 300,00;Depósito em espécie;JOSIVALDO FERREIRA DA SILVA;70555;Deputado Estadual;PT do B;AL;
-MARIA APARECIDA DA SILVA;015.393.254-66;28/09/2010;70000123804;R$ 885,00;Estimado;JOSIVALDO FERREIRA DA SILVA;70555;Deputado Estadual;PT do B;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EDGRAFICA E CIA LTDA - ME;05.994.887/0001-02;25/09/2010;       Publicidade por materiais impressos;R$ 280,00;Cheque; -  -  / 70555 - JOSIVALDO FERREIRA DA SILVA - AL - Deputado Estadual;
+JOSE HELIO DA COSTA;888.551.204-68;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado; -  -  / 70555 - JOSIVALDO FERREIRA DA SILVA - AL - Deputado Estadual;
+JOSE JAELSON AVELINO DA SILVA;815.257.964-53;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 70555 - JOSIVALDO FERREIRA DA SILVA - AL - Deputado Estadual;
+MARIA APARECIDA DA SILVA;015.393.254-66;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 885,00;Estimado; -  -  / 70555 - JOSIVALDO FERREIRA DA SILVA - AL - Deputado Estadual;

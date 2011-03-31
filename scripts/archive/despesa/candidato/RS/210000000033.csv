@@ -1,4 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANA HELENA SCHMIDT HEBERLE;258.189.610-87;10/09/2010;50000477562;R$ 150,00;Cheque;MARCIO RODRIGO DE VARGAS;5030;Deputado Federal;PSOL;RS;
-MÁRCIO RODRIGO DE VARGAS;824.639.480-00;25/08/2010;50000477561;R$ 800,00;Transferência eletrônica;MARCIO RODRIGO DE VARGAS;5030;Deputado Federal;PSOL;RS;
-MÁRCIO RODRIGO DE VARGAS;824.639.480-00;22/09/2010;50000477563;R$ 200,00;Transferência eletrônica;MARCIO RODRIGO DE VARGAS;5030;Deputado Federal;PSOL;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EMP BRAS DE CORREIOS E TELEGRAFOS;34.028.316/0956-51;17/09/2010;       Despesas postais;R$ 541,50;Cheque; -  -  / 5030 - MARCIO RODRIGO DE VARGAS - RS - Deputado Federal;
+NEW COPY FOTOCÓPIAS E ENCADERNAÇÕES LTDA. - ME;93.905.370/0001-59;26/08/2010;       Publicidade por materiais impressos;R$ 560,00;Cheque; -  -  / 5030 - MARCIO RODRIGO DE VARGAS - RS - Deputado Federal;

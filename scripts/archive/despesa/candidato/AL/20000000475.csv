@@ -1,10 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Governador;12.191.521/0001-52;01/10/2010;22000030003;R$ 1.380,43;Estimado;MANOEL BERNARDO GALVÃO;22444;Deputado Estadual;PR;AL;
-MANOEL BERNARDO GALVÃO;426.014.444-87;10/08/2010;22000030004;R$ 430,00;Depósito em espécie;MANOEL BERNARDO GALVÃO;22444;Deputado Estadual;PR;AL;
-MANOEL BERNARDO GALVÃO;426.014.444-87;11/08/2010;22000030005;R$ 1.020,00;Depósito em espécie;MANOEL BERNARDO GALVÃO;22444;Deputado Estadual;PR;AL;
-MANOEL BERNARDO GALVÃO;426.014.444-87;16/08/2010;22000030006;R$ 500,00;Depósito em espécie;MANOEL BERNARDO GALVÃO;22444;Deputado Estadual;PR;AL;
-MANOEL BERNARDO GALVÃO;426.014.444-87;15/10/2010;22000030008;R$ 400,00;Depósito em espécie;MANOEL BERNARDO GALVÃO;22444;Deputado Estadual;PR;AL;
-MANOEL BERNARDO GALVÃO;426.014.444-87;18/10/2010;22000030009;R$ 153,00;Depósito em espécie;MANOEL BERNARDO GALVÃO;22444;Deputado Estadual;PR;AL;
-MANOEL BERNARDO GALVÃO;426.014.444-87;29/07/2010;22000030001;R$ 560,00;Transferência eletrônica;MANOEL BERNARDO GALVÃO;22444;Deputado Estadual;PR;AL;
-MANOEL BERNARDO GALVÃO;426.014.444-87;15/09/2010;22000030007;R$ 500,00;Depósito em espécie;MANOEL BERNARDO GALVÃO;22444;Deputado Estadual;PR;AL;
-MAURICIO QUINTELLA LESSA;12.180.644/0001-98;20/08/2010;22000030002;R$ 185,00;Estimado;MANOEL BERNARDO GALVÃO;22444;Deputado Estadual;PR;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Governador;12.191.521/0001-52;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.380,43;Estimado;Comitê Financeiro Distrital/Estadual para Governador - PDT -  / 22444 - MANOEL BERNARDO GALVÃO - AL - Deputado Estadual;
+J.R.G. DOS SANTOS - ME;04.976.456/0001-42;03/08/2010;       Publicidade por materiais impressos;R$ 750,00;Cheque; -  -  / 22444 - MANOEL BERNARDO GALVÃO - AL - Deputado Estadual;
+MAURICIO QUINTELLA LESSA;12.180.644/0001-98;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 185,00;Estimado;2266 -  - PR -  - Deputado Federal / 22444 - MANOEL BERNARDO GALVÃO - AL - Deputado Estadual;
+THUDO COMUNICAÇÃO VISUAL LTDA.;35.729.524/0001-00;24/09/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 22444 - MANOEL BERNARDO GALVÃO - AL - Deputado Estadual;
+THUDO COMUNICAÇÃO VISUAL LTDA.;35.729.524/0001-00;27/09/2010;       Publicidade por materiais impressos;R$ 405,00;Cheque; -  -  / 22444 - MANOEL BERNARDO GALVÃO - AL - Deputado Estadual;
+THUDO COMUNICAÇÃO VISUAL LTDA.;35.729.524/0001-00;16/09/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 22444 - MANOEL BERNARDO GALVÃO - AL - Deputado Estadual;

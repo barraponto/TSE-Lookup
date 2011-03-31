@@ -1,5 +1,13 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOÃO CARLOS VIEIRA BENJAMIN;003.493.304-25;20/08/2010;43001828776;R$ 1.000,00;Transferência eletrônica;JOÃO CARLOS VIEIRA BENJAMIIN;4344;Deputado Federal;PV;RS;
-JOÃO CARLOS VIEIRA BENJAMIN;003.493.304-25;22/09/2010;43001828781;R$ 1.000,00;Transferência eletrônica;JOÃO CARLOS VIEIRA BENJAMIIN;4344;Deputado Federal;PV;RS;
-KLABIN FÁBRICA DE PAPEL E CELULOSE;89.637.490/0001-45;21/09/2010;43001828780;R$ 3.000,00;Transferência eletrônica;JOÃO CARLOS VIEIRA BENJAMIIN;4344;Deputado Federal;PV;RS;
-PAULO LUIZ BASTOS LUCENA;004.127.320-68;13/09/2010;43001828777;R$ 300,00;Cheque;JOÃO CARLOS VIEIRA BENJAMIIN;4344;Deputado Federal;PV;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CLEBER MARTIN;97.230.957/0001-66;20/08/2010;       Publicidade por jornais e revistas;R$ 500,00;Cheque; -  -  / 4344 - JOÃO CARLOS VIEIRA BENJAMIIN - RS - Deputado Federal;
+ECT - EMP.BERAS. DE CORREIOS E TELEGRAFOS;34.028.316/4402-60;25/09/2010;       Despesas postais;R$ 546,84;Cheque; -  -  / 4344 - JOÃO CARLOS VIEIRA BENJAMIIN - RS - Deputado Federal;
+ECT - EMP.BERAS. DE CORREIOS E TELEGRAFOS;34.028.316/4402-60;27/09/2010;       Despesas postais;R$ 799,68;Cheque; -  -  / 4344 - JOÃO CARLOS VIEIRA BENJAMIIN - RS - Deputado Federal;
+GRUPO EDITORIAL SINOS S/A;91.665.570/0001-56;24/09/2010;       Publicidade por jornais e revistas;R$ 1.526,40;Cheque; -  -  / 4344 - JOÃO CARLOS VIEIRA BENJAMIIN - RS - Deputado Federal;
+JOÃO CARLOS ARRUDA BENJAMIN;979.543.570-15;02/10/2010;       Cessão ou Locação de Veículos;R$ 1.000,00;Cheque; -  -  / 4344 - JOÃO CARLOS VIEIRA BENJAMIIN - RS - Deputado Federal;
+LUVIT COMERCIAL DE COMBUSTÍVEIS LTDA;04.846.896/0001-85;02/10/2010;       Combustíveis e lubrificantes;R$ 545,06;Cheque; -  -  / 4344 - JOÃO CARLOS VIEIRA BENJAMIIN - RS - Deputado Federal;
+RUA GRANDE S/A GRÁFICA EDITORA;96.754.783/0001-78;02/09/2010;       Publicidade por jornais e revistas;R$ 300,00;Cheque; -  -  / 4344 - JOÃO CARLOS VIEIRA BENJAMIIN - RS - Deputado Federal;
+;;24/09/2010;       Encargos financeiros e taxas bancárias;R$ 40,32;Débito em conta; -  -  / 4344 - JOÃO CARLOS VIEIRA BENJAMIIN - RS - Deputado Federal;
+;;16/09/2010;       Encargos financeiros e taxas bancárias;R$ 20,50;Débito em conta; -  -  / 4344 - JOÃO CARLOS VIEIRA BENJAMIIN - RS - Deputado Federal;
+;;10/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 4344 - JOÃO CARLOS VIEIRA BENJAMIIN - RS - Deputado Federal;
+;;13/09/2010;       Encargos financeiros e taxas bancárias;R$ 20,50;Débito em conta; -  -  / 4344 - JOÃO CARLOS VIEIRA BENJAMIIN - RS - Deputado Federal;
+;;15/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 4344 - JOÃO CARLOS VIEIRA BENJAMIIN - RS - Deputado Federal;

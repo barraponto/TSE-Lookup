@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.217.574/0001-03;10/09/2010;19000026150;R$ 1.118,20;Estimado;AGDA DO CARMOS ANDRADE OJEDA;19025;Deputado Estadual;PTN;MT;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.217.574/0001-03;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.118,20;Estimado;Comitê Financeiro Único - PTN -  / 19025 - AGDA DO CARMOS ANDRADE OJEDA - MT - Deputado Estadual;

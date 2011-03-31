@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;04.160.131/0001-97;10/09/2010;19000009602;R$ 300,00;Estimado;LUIZ PEREIRA MELO DE SOUZA;19191;Deputado Estadual;PTN;AM;
-Diretório Estadual/Distrital;04.160.131/0001-97;23/09/2010;19000009601;R$ 945,00;Cheque;LUIZ PEREIRA MELO DE SOUZA;19191;Deputado Estadual;PTN;AM;
-LUCIENE DOS SANTOS CORREA;457.732.892-53;02/09/2010;19000009604;R$ 510,00;Estimado;LUIZ PEREIRA MELO DE SOUZA;19191;Deputado Estadual;PTN;AM;
-LUIZ BOSCO FERREIRA MELO DE SOUZA;001.318.842-98;02/09/2010;19000009603;R$ 510,00;Estimado;LUIZ PEREIRA MELO DE SOUZA;19191;Deputado Estadual;PTN;AM;
-WALMIR RODRIGUES DA SILVA;320.662.872-53;02/09/2010;19000009605;R$ 510,00;Estimado;LUIZ PEREIRA MELO DE SOUZA;19191;Deputado Estadual;PTN;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;04.160.131/0001-97;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Direção Estadual/Distrital - PMDB -  / 19191 - LUIZ PEREIRA MELO DE SOUZA - AM - Deputado Estadual;
+GRAFISA GRAFICA E EDITORA LTDA;03.633.502/0001-48;25/08/2010;       Publicidade por materiais impressos;R$ 945,00;Cheque; -  -  / 19191 - LUIZ PEREIRA MELO DE SOUZA - AM - Deputado Estadual;
+LUCIENE DOS SANTOS CORREA;457.732.892-53;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 510,00;Estimado; -  -  / 19191 - LUIZ PEREIRA MELO DE SOUZA - AM - Deputado Estadual;
+LUIZ BOSCO FERREIRA MELO DE SOUZA;001.318.842-98;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 510,00;Estimado; -  -  / 19191 - LUIZ PEREIRA MELO DE SOUZA - AM - Deputado Estadual;
+WALMIR RODRIGUES DA SILVA;320.662.872-53;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 510,00;Estimado; -  -  / 19191 - LUIZ PEREIRA MELO DE SOUZA - AM - Deputado Estadual;

@@ -1,5 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO RODRIGUES CAVALCANTE;580.482.274-87;12/08/2010;50000333892;R$ 750,00;Depósito em espécie;ANTONIO RODRIGUES CAVALCANTE;50000;Deputado Estadual;PSOL;PE;
-ANTONIO RODRIGUES CAVALCANTE;580.482.274-87;29/09/2010;50000333895;R$ 10,00;Depósito em espécie;ANTONIO RODRIGUES CAVALCANTE;50000;Deputado Estadual;PSOL;PE;
-ANTONIO RODRIGUES CAVALCANTE;580.482.274-87;10/09/2010;50000333894;R$ 65,00;Depósito em espécie;ANTONIO RODRIGUES CAVALCANTE;50000;Deputado Estadual;PSOL;PE;
-ANTONIO RODRIGUES CAVALCANTE;580.482.274-87;24/08/2010;50000333893;R$ 100,00;Depósito em espécie;ANTONIO RODRIGUES CAVALCANTE;50000;Deputado Estadual;PSOL;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CRISTIANE ANDRADE DA SILVA;651.082.564-34;01/10/2010;       Despesas com pessoal;R$ 29,40;Cheque; -  -  / 50000 - ANTONIO RODRIGUES CAVALCANTE - PE - Deputado Estadual;
+IMPRELL GRAFICA E EDITORA LTDA (ME);40.952.988/0001-03;26/08/2010;       Publicidade por materiais impressos;R$ 350,00;Cheque; -  -  / 50000 - ANTONIO RODRIGUES CAVALCANTE - PE - Deputado Estadual;
+IMPRELL GRAFICA E EDITORA LTDA (ME);40.952.988/0001-03;20/08/2010;       Publicidade por materiais impressos;R$ 350,00;Cheque; -  -  / 50000 - ANTONIO RODRIGUES CAVALCANTE - PE - Deputado Estadual;
+RS RECORTE E IMPRESSÃO SERIGRAFICA LTDA;09.339.057/0001-94;24/08/2010;       Publicidade por materiais impressos;R$ 118,00;Cheque; -  -  / 50000 - ANTONIO RODRIGUES CAVALCANTE - PE - Deputado Estadual;
+RS RECORTE E IMPRESSÃO SERIGRAFICA LTDA;09.339.057/0001-94;24/09/2010;       Publicidade por materiais impressos;R$ 60,00;Cheque; -  -  / 50000 - ANTONIO RODRIGUES CAVALCANTE - PE - Deputado Estadual;
+;;12/08/2010;       Encargos financeiros e taxas bancárias;R$ 6,00;Débito em conta; -  -  / 50000 - ANTONIO RODRIGUES CAVALCANTE - PE - Deputado Estadual;
+;;14/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 50000 - ANTONIO RODRIGUES CAVALCANTE - PE - Deputado Estadual;
+;;26/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 50000 - ANTONIO RODRIGUES CAVALCANTE - PE - Deputado Estadual;
+;;01/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 50000 - ANTONIO RODRIGUES CAVALCANTE - PE - Deputado Estadual;
+;;16/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 50000 - ANTONIO RODRIGUES CAVALCANTE - PE - Deputado Estadual;

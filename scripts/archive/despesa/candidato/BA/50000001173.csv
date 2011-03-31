@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADSON MUNIZ SANTOS;003.729.485-70;26/07/2010;12001008591;R$ 100,00;Transferência eletrônica;ADSON MUNIZ SANTOS;12666;Deputado Estadual;PDT;BA;
-JAQUES WAGNER;12.174.245/0001-14;02/10/2010;12001008593;R$ 875,00;Estimado;ADSON MUNIZ SANTOS;12666;Deputado Estadual;PDT;BA;
-JAQUES WAGNER;12.174.245/0001-14;02/10/2010;12001008592;R$ 1.200,00;Estimado;ADSON MUNIZ SANTOS;12666;Deputado Estadual;PDT;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JAQUES WAGNER;12.174.245/0001-14;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.200,00;Estimado;13 -  - PT -  - Governador / 12666 - ADSON MUNIZ SANTOS - BA - Deputado Estadual;
+JAQUES WAGNER;12.174.245/0001-14;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 875,00;Estimado;13 -  - PT -  - Governador / 12666 - ADSON MUNIZ SANTOS - BA - Deputado Estadual;
+URANUS 2 COMUNICAÇÃO LTDA;00.188.004/0001-45;26/07/2010;       Publicidade por materiais impressos;R$ 95,70;Cheque; -  -  / 12666 - ADSON MUNIZ SANTOS - BA - Deputado Estadual;

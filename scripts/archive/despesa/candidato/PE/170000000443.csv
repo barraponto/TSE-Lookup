@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.489/0001-05;18/08/2010;16000033852;R$ 106,50;Estimado;HELIO CABRAL LIMA;161;Senador;PSTU;PE;
-Comitê Financeiro Único;12.191.489/0001-05;18/08/2010;16000033851;R$ 117,00;Estimado;HELIO CABRAL LIMA;161;Senador;PSTU;PE;
-Comitê Financeiro Único;12.191.489/0001-05;27/08/2010;16000033853;R$ 48,50;Estimado;HELIO CABRAL LIMA;161;Senador;PSTU;PE;
-Comitê Financeiro Único;12.191.489/0001-05;21/09/2010;16000033856;R$ 350,00;Estimado;HELIO CABRAL LIMA;161;Senador;PSTU;PE;
-Comitê Financeiro Único;12.191.489/0001-05;27/09/2010;16000033855;R$ 250,00;Estimado;HELIO CABRAL LIMA;161;Senador;PSTU;PE;
-Comitê Financeiro Único;12.191.489/0001-05;21/09/2010;16000033857;R$ 300,00;Estimado;HELIO CABRAL LIMA;161;Senador;PSTU;PE;
-Comitê Financeiro Único;12.191.489/0001-05;13/09/2010;16000033854;R$ 48,50;Estimado;HELIO CABRAL LIMA;161;Senador;PSTU;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.489/0001-05;13/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 48,50;Estimado;Comitê Financeiro Único - PSTU -  / 161 - HELIO CABRAL LIMA - PE - Senador;
+Comitê Financeiro Único;12.191.489/0001-05;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PSTU -  / 161 - HELIO CABRAL LIMA - PE - Senador;
+Comitê Financeiro Único;12.191.489/0001-05;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 48,50;Estimado;Comitê Financeiro Único - PSTU -  / 161 - HELIO CABRAL LIMA - PE - Senador;
+Comitê Financeiro Único;12.191.489/0001-05;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 106,50;Estimado;Comitê Financeiro Único - PSTU -  / 161 - HELIO CABRAL LIMA - PE - Senador;
+Comitê Financeiro Único;12.191.489/0001-05;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 117,00;Estimado;Comitê Financeiro Único - PSTU -  / 161 - HELIO CABRAL LIMA - PE - Senador;
+Comitê Financeiro Único;12.191.489/0001-05;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 350,00;Estimado;Comitê Financeiro Único - PSTU -  / 161 - HELIO CABRAL LIMA - PE - Senador;
+Comitê Financeiro Único;12.191.489/0001-05;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;Comitê Financeiro Único - PSTU -  / 161 - HELIO CABRAL LIMA - PE - Senador;

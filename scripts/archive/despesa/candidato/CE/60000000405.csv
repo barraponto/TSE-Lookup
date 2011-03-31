@@ -1,5 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FRANCISCO CHARLYS MOREIRA DE MENEZES;930.613.313-87;01/09/2010;50000101924;R$ 200,00;Estimado;FRANCISCO CHARLYS MOREIRA DE MENEZES;50000;Deputado Estadual;PSOL;CE;
-JOAO BATISTA CRISTINO DE MENEZES;034.744.553-54;09/09/2010;50000101923;R$ 520,00;Transferência eletrônica;FRANCISCO CHARLYS MOREIRA DE MENEZES;50000;Deputado Estadual;PSOL;CE;
-JOSÉ WILTON MOREIRA MENEZES;025.653.433-02;13/08/2010;50000101921;R$ 200,00;Depósito em espécie;FRANCISCO CHARLYS MOREIRA DE MENEZES;50000;Deputado Estadual;PSOL;CE;
-SIMÃO CRISTINO DE MENEZES;027.519.743-33;25/08/2010;50000101922;R$ 410,00;Depósito em espécie;FRANCISCO CHARLYS MOREIRA DE MENEZES;50000;Deputado Estadual;PSOL;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+FRANCISCO CHARLYS MOREIRA DE MENEZES;930.613.313-87;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado; -  -  / 50000 - FRANCISCO CHARLYS MOREIRA DE MENEZES - CE - Deputado Estadual;
+GRÁFICA FUTURA - ARNALDO FERNANDES GOMES - ME;04.284.414/0001-40;27/08/2010;       Publicidade por materiais impressos;R$ 540,00;Cheque; -  -  / 50000 - FRANCISCO CHARLYS MOREIRA DE MENEZES - CE - Deputado Estadual;
+IRMÃOS FREIRE AUIAR TDA;06.205.564/0001-47;30/09/2010;       Combustíveis e lubrificantes;R$ 70,00;Cheque; -  -  / 50000 - FRANCISCO CHARLYS MOREIRA DE MENEZES - CE - Deputado Estadual;
+IRMÃOS FREIRE AUIAR TDA;06.205.564/0001-47;16/09/2010;       Combustíveis e lubrificantes;R$ 60,00;Cheque; -  -  / 50000 - FRANCISCO CHARLYS MOREIRA DE MENEZES - CE - Deputado Estadual;
+IRMÃOS FREIRE AUIAR TDA;06.205.564/0001-47;13/09/2010;       Combustíveis e lubrificantes;R$ 60,00;Cheque; -  -  / 50000 - FRANCISCO CHARLYS MOREIRA DE MENEZES - CE - Deputado Estadual;
+M M DA SILVA ALVES;04.967.870/0001-95;24/09/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 50000 - FRANCISCO CHARLYS MOREIRA DE MENEZES - CE - Deputado Estadual;

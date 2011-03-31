@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FRANCISCO DA CUNHA NETO;112.460.304-20;20/10/2010;40002163103;R$ 0,70;Depósito em espécie;FRANCISCO DA CUNHA NETO;40999;Deputado Estadual;PSB;RN;
-FRANCISCO DA CUNHA NETO;112.460.304-20;29/09/2010;40002163102;R$ 600,00;Depósito em espécie;FRANCISCO DA CUNHA NETO;40999;Deputado Estadual;PSB;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BANCO DO BRASIL;00.000.000/0001-91;18/10/2010;       Publicidade por materiais impressos;R$ 0,35;Transferência eletrônica; -  -  / 40999 - FRANCISCO DA CUNHA NETO - RN - Deputado Estadual;
+BANCO DO BRASIL;00.000.000/0001-91;15/10/2010;       Publicidade por materiais impressos;R$ 0,35;Transferência eletrônica; -  -  / 40999 - FRANCISCO DA CUNHA NETO - RN - Deputado Estadual;
+FRANCISCO FERNANDES DA COSTA SERIGRAFICA ME;35.286.764/0001-70;29/09/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 40999 - FRANCISCO DA CUNHA NETO - RN - Deputado Estadual;

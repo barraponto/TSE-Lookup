@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-SEVERINO DOS SANTOS;689.966.594-87;27/08/2010;20000520552;R$ 19,50;Depósito em espécie;SEVERINO DOS SANTOS;20200;Deputado Estadual;PSC;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+;;27/08/2010;       Encargos financeiros e taxas bancárias;R$ 19,50;Débito em conta; -  -  / 20200 - SEVERINO DOS SANTOS - PB - Deputado Estadual;

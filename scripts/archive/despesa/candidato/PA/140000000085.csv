@@ -1,7 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-EPAMINONDAS MARCELINO COSTA;537.161.831-72;30/08/2010;65000228201;R$ 1.000,00;Depósito em espécie;MANOEL DIAS DOS SANTOS;65513;Deputado Estadual;PC do B;PA;
-JORGE PANZERA;12.204.180/0001-02;01/09/2010;65000228202;R$ 900,00;Estimado;MANOEL DIAS DOS SANTOS;65513;Deputado Estadual;PC do B;PA;
-JORGE PANZERA;12.204.180/0001-02;14/09/2010;65000228203;R$ 161,00;Estimado;MANOEL DIAS DOS SANTOS;65513;Deputado Estadual;PC do B;PA;
-JORGE PANZERA;12.204.180/0001-02;14/09/2010;65000228204;R$ 30,00;Estimado;MANOEL DIAS DOS SANTOS;65513;Deputado Estadual;PC do B;PA;
-JORGE PANZERA;12.204.180/0001-02;29/09/2010;65000228205;R$ 100,00;Estimado;MANOEL DIAS DOS SANTOS;65513;Deputado Estadual;PC do B;PA;
-PAULO ROCHA;12.168.406/0001-67;25/09/2010;65000228206;R$ 420,00;Estimado;MANOEL DIAS DOS SANTOS;65513;Deputado Estadual;PC do B;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA REAL;07.767.107/0001-09;31/08/2010;       Publicidade por materiais impressos;R$ 860,00;Cheque; -  -  / 65513 - MANOEL DIAS DOS SANTOS - PA - Deputado Estadual;
+JORGE PANZERA;12.204.180/0001-02;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 161,00;Estimado;6565 -  - PC do B -  - Deputado Federal / 65513 - MANOEL DIAS DOS SANTOS - PA - Deputado Estadual;
+JORGE PANZERA;12.204.180/0001-02;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 900,00;Estimado;6565 -  - PC do B -  - Deputado Federal / 65513 - MANOEL DIAS DOS SANTOS - PA - Deputado Estadual;
+JORGE PANZERA;12.204.180/0001-02;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado;6565 -  - PC do B -  - Deputado Federal / 65513 - MANOEL DIAS DOS SANTOS - PA - Deputado Estadual;
+JORGE PANZERA;12.204.180/0001-02;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 30,00;Estimado;6565 -  - PC do B -  - Deputado Federal / 65513 - MANOEL DIAS DOS SANTOS - PA - Deputado Estadual;
+PAULO ROCHA;12.168.406/0001-67;25/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 420,00;Estimado;131 -  - PT -  - Senador / 65513 - MANOEL DIAS DOS SANTOS - PA - Deputado Estadual;
+;;06/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 65513 - MANOEL DIAS DOS SANTOS - PA - Deputado Estadual;
+;;04/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 65513 - MANOEL DIAS DOS SANTOS - PA - Deputado Estadual;
+;;16/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 65513 - MANOEL DIAS DOS SANTOS - PA - Deputado Estadual;

@@ -1,4 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSÉ ROBERTO CARDOSO DA CUNHA;511.553.543-20;20/08/2010;50000101242;R$ 100,00;Transferência eletrônica;FRANCISCO DUARTE RODRIGUES;5055;Deputado Federal;PSOL;CE;
-VICTOR EMMANUEL FARIAS GOMES;996.849.693-68;27/09/2010;50000101243;R$ 200,00;Depósito em espécie;FRANCISCO DUARTE RODRIGUES;5055;Deputado Federal;PSOL;CE;
-VICTOR EMMANUEL FARIAS GOMES;996.849.693-68;22/07/2010;50000101241;R$ 410,00;Depósito em espécie;FRANCISCO DUARTE RODRIGUES;5055;Deputado Federal;PSOL;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO HELDER CANSANÇÃO BRASILEIRO - ME;00.651.164/0001-89;28/09/2010;       Publicidade por materiais impressos;R$ 280,00;Cheque; -  -  / 5055 - FRANCISCO DUARTE RODRIGUES - CE - Deputado Federal;
+GABRIEL COELHO LIMA - ME;09.521.937/0001-87;23/07/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 5055 - FRANCISCO DUARTE RODRIGUES - CE - Deputado Federal;

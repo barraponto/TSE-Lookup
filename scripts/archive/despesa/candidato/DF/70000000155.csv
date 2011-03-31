@@ -1,4 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MARIA MADALENA DA SILVA CARNEIRO;126.481.404-68;24/08/2010;17000027401;R$ 1.500,00;Depósito em espécie;MARIA MADALENA DA SILVA CARNEIRO;1717;Deputado Federal;PSL;DF;
-MARIA MADALENA DA SILVA CARNEIRO;126.481.404-68;30/09/2010;17000027403;R$ 0,70;Depósito em espécie;MARIA MADALENA DA SILVA CARNEIRO;1717;Deputado Federal;PSL;DF;
-MARIA MADALENA DA SILVA CARNEIRO;126.481.404-68;23/09/2010;17000027402;R$ 4.500,00;Depósito em espécie;MARIA MADALENA DA SILVA CARNEIRO;1717;Deputado Federal;PSL;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EUCLIDES JORGE VERGILATO;289.744.172-00;25/08/2010;       Criação e inclusão de páginas na internet;R$ 500,00;Cheque; -  -  / 1717 - MARIA MADALENA DA SILVA CARNEIRO - DF - Deputado Federal;
+IMPRESSO DIGITAL COMUNICAÇÃO VISUAL LTDA ME;11.401.894/0001-48;25/08/2010;       Publicidade por placas, estandartes e faixas;R$ 1.000,00;Cheque; -  -  / 1717 - MARIA MADALENA DA SILVA CARNEIRO - DF - Deputado Federal;
+PETRO RIOS COMERCIO DERIVADOS DE PETROLEO LTDA;38.074.571/0001-43;20/09/2010;       Combustíveis e lubrificantes;R$ 4.500,00;Cheque; -  -  / 1717 - MARIA MADALENA DA SILVA CARNEIRO - DF - Deputado Federal;
+;;28/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 1717 - MARIA MADALENA DA SILVA CARNEIRO - DF - Deputado Federal;
+;;23/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 1717 - MARIA MADALENA DA SILVA CARNEIRO - DF - Deputado Federal;

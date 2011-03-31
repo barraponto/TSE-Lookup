@@ -1,6 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADELINO PEREIRA DIAS;034.278.206-10;16/07/2010;15000132201;R$ 2.000,00;Depósito em espécie;ADELINO PEREIRA DIAS;15111;Deputado Estadual;PMDB;MG;
-ADELINO PEREIRA DIAS;034.278.206-10;09/08/2010;15000132202;R$ 1.500,00;Depósito em espécie;ADELINO PEREIRA DIAS;15111;Deputado Estadual;PMDB;MG;
-ELEIÇÃO 2010 - HÉLIO CALIXTO DA COSTA;12.189.609/0001-30;30/09/2010;15000132205;R$ 330,46;Estimado;ADELINO PEREIRA DIAS;15111;Deputado Estadual;PMDB;MG;
-ELEIÇÃO 2010 - HÉLIO CALIXTO DA COSTA;12.189.609/0001-30;30/09/2010;15000132204;R$ 159,60;Estimado;ADELINO PEREIRA DIAS;15111;Deputado Estadual;PMDB;MG;
-ELEIÇÃO 2010 - HÉLIO CALIXTO DA COSTA - GOVERNADOR;12.189.609/0001-30;13/08/2010;15000132203;R$ 600,00;Estimado;ADELINO PEREIRA DIAS;15111;Deputado Estadual;PMDB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO GONÇALVES DO COUTO;371.979.406-72;04/08/2010;       Produção de jingles, vinhetas e slogans;R$ 700,00;Cheque; -  -  / 15111 - ADELINO PEREIRA DIAS - MG - Deputado Estadual;
+D & M SINALIZAÇÃO LTDA;08.909.766/0001-03;03/08/2010;       Publicidade por materiais impressos;R$ 660,00;Cheque; -  -  / 15111 - ADELINO PEREIRA DIAS - MG - Deputado Estadual;
+ELEIÇÃO 2010 - HÉLIO CALIXTO DA COSTA;12.189.609/0001-30;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 159,60;Estimado;15 -  - PMDB -  - Governador / 15111 - ADELINO PEREIRA DIAS - MG - Deputado Estadual;
+ELEIÇÃO 2010 - HÉLIO CALIXTO DA COSTA;12.189.609/0001-30;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 330,46;Estimado;15 -  - PMDB -  - Governador / 15111 - ADELINO PEREIRA DIAS - MG - Deputado Estadual;
+ELEIÇÃO 2010 - HÉLIO CALIXTO DA COSTA - GOVERNADOR;12.189.609/0001-30;13/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado;15 -  - PMDB -  - Governador / 15111 - ADELINO PEREIRA DIAS - MG - Deputado Estadual;
+GRÁFICA DO GAÚCHO LTDA;10.582.159/0001-15;31/07/2010;       Publicidade por materiais impressos;R$ 440,00;Cheque; -  -  / 15111 - ADELINO PEREIRA DIAS - MG - Deputado Estadual;
+GRÁFICA DO GAÚCHO LTDA;10.582.159/0001-15;04/08/2010;       Publicidade por materiais impressos;R$ 560,00;Cheque; -  -  / 15111 - ADELINO PEREIRA DIAS - MG - Deputado Estadual;
+PEDRINA LIGEA DIAS DE OLIVEIRA;673.773.866-49;10/08/2010;       Serviços prestados por terceiros;R$ 240,00;Cheque; -  -  / 15111 - ADELINO PEREIRA DIAS - MG - Deputado Estadual;
+SETORGRAF GRAFICA E EDITORA;10.545.651/0001-10;17/08/2010;       Publicidade por materiais impressos;R$ 900,00;Cheque; -  -  / 15111 - ADELINO PEREIRA DIAS - MG - Deputado Estadual;

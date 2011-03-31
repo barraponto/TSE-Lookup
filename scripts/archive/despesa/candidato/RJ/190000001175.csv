@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CESAR MAIA;12.176.116/0001-65;01/10/2010;45000108711;R$ 456,30;Estimado;DEMETRIO MASSAD SOBRINHO;4556;Deputado Federal;PSDB;RJ;
-CESAR MAIA;12.176.116/0001-65;01/10/2010;45000108712;R$ 576,00;Estimado;DEMETRIO MASSAD SOBRINHO;4556;Deputado Federal;PSDB;RJ;
-CESAR MAIA;12.176.116/0001-65;27/09/2010;45000108713;R$ 75,00;Estimado;DEMETRIO MASSAD SOBRINHO;4556;Deputado Federal;PSDB;RJ;
-CESAR MAIA;12.176.116/0001-65;01/10/2010;45000108714;R$ 147,00;Estimado;DEMETRIO MASSAD SOBRINHO;4556;Deputado Federal;PSDB;RJ;
-CESAR MAIA;12.176.116/0001-65;01/10/2010;45000108715;R$ 1.791,50;Estimado;DEMETRIO MASSAD SOBRINHO;4556;Deputado Federal;PSDB;RJ;
-Diretório Estadual/Distrital;32.080.483/0001-78;10/08/2010;45000108716;R$ 166,67;Estimado;DEMETRIO MASSAD SOBRINHO;4556;Deputado Federal;PSDB;RJ;
-Diretório Estadual/Distrital;32.080.483/0001-78;30/07/2010;45000108717;R$ 3.875,00;Estimado;DEMETRIO MASSAD SOBRINHO;4556;Deputado Federal;PSDB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CESAR MAIA;12.176.116/0001-65;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 456,30;Estimado;251 -  - DEM -  - Senador / 4556 - DEMETRIO MASSAD SOBRINHO - RJ - Deputado Federal;
+CESAR MAIA;12.176.116/0001-65;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 147,00;Estimado;251 -  - DEM -  - Senador / 4556 - DEMETRIO MASSAD SOBRINHO - RJ - Deputado Federal;
+CESAR MAIA;12.176.116/0001-65;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 75,00;Estimado;251 -  - DEM -  - Senador / 4556 - DEMETRIO MASSAD SOBRINHO - RJ - Deputado Federal;
+CESAR MAIA;12.176.116/0001-65;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.791,50;Estimado;251 -  - DEM -  - Senador / 4556 - DEMETRIO MASSAD SOBRINHO - RJ - Deputado Federal;
+CESAR MAIA;12.176.116/0001-65;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 576,00;Estimado;251 -  - DEM -  - Senador / 4556 - DEMETRIO MASSAD SOBRINHO - RJ - Deputado Federal;
+Diretório Estadual/Distrital;32.080.483/0001-78;30/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.875,00;Estimado;Direção Estadual/Distrital - PSDB -  / 4556 - DEMETRIO MASSAD SOBRINHO - RJ - Deputado Federal;
+Diretório Estadual/Distrital;32.080.483/0001-78;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 166,67;Estimado;Direção Estadual/Distrital - PSDB -  / 4556 - DEMETRIO MASSAD SOBRINHO - RJ - Deputado Federal;

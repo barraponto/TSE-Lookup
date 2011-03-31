@@ -1,3 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-IZALCI LUCAS FERREIRA;068.014.801-97;10/09/2010;25000618504;R$ 1.530,00;Transferência eletrônica;MARIA DE LOURDES SILVA;25345;Deputado Distrital;DEM;DF;
-JAQUELINE MARIA RORIZ;12.198.906/0001-41;30/09/2010;25000618505;R$ 47,50;Estimado;MARIA DE LOURDES SILVA;25345;Deputado Distrital;DEM;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARNAUD BENJAMIN NDJANA  MVOGO;698.118.221-15;10/09/2010;       Despesas com pessoal;R$ 510,00;Cheque; -  -  / 25345 - MARIA DE LOURDES SILVA - DF - Deputado Distrital;
+ARNAUD BENJAMIN NDJANA  MVOGO;698.118.221-15;13/09/2010;       Despesas com pessoal;R$ 50,00;Não informado; -  -  / 25345 - MARIA DE LOURDES SILVA - DF - Deputado Distrital;
+ARNAUD BENJAMIN NDJANA  MVOGO;698.118.221-15;13/10/2010;       Despesas com pessoal;R$ 50,00;Não informado; -  -  / 25345 - MARIA DE LOURDES SILVA - DF - Deputado Distrital;
+JAQUELINE MARIA RORIZ;12.198.906/0001-41;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 47,50;Estimado; -  -  / 25345 - MARIA DE LOURDES SILVA - DF - Deputado Distrital;
+WILLIAM CARVALHO SOARES;956.294.911-72;10/09/2010;       Despesas com pessoal;R$ 640,00;Não informado; -  -  / 25345 - MARIA DE LOURDES SILVA - DF - Deputado Distrital;
+WILLIAM CARVALHO SOARES;956.294.911-72;10/09/2010;       Despesas com pessoal;R$ 100,00;Não informado; -  -  / 25345 - MARIA DE LOURDES SILVA - DF - Deputado Distrital;

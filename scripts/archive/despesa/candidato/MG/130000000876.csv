@@ -1,7 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALEXANDRE LUZ MARTINS;699.947.306-49;31/08/2010;31000010923;R$ 500,00;Depósito em espécie;DEUSEMI GOMES FERREIRA JUNIOR;3123;Deputado Federal;PHS;MG;
-DEUSEMI GOMES FERREIRA JUNIOR;882.821.046-04;30/09/2010;31000010926;R$ 1.000,00;Transferência eletrônica;DEUSEMI GOMES FERREIRA JUNIOR;3123;Deputado Federal;PHS;MG;
-DEUSEMI GOMES FERREIRA JUNIOR;882.821.046-04;17/09/2010;31000010924;R$ 1.000,00;Transferência eletrônica;DEUSEMI GOMES FERREIRA JUNIOR;3123;Deputado Federal;PHS;MG;
-DEUSEMI GOMES FERREIRA JUNIOR;882.821.046-04;30/09/2010;31000010925;R$ 600,00;Transferência eletrônica;DEUSEMI GOMES FERREIRA JUNIOR;3123;Deputado Federal;PHS;MG;
-DEUSEMI GOMES FERREIRA JUNIOR;882.821.046-04;13/08/2010;31000010921;R$ 500,00;Transferência eletrônica;DEUSEMI GOMES FERREIRA JUNIOR;3123;Deputado Federal;PHS;MG;
-ROGERIO APARECIDO DA SILVA;972.428.536-72;23/08/2010;31000010922;R$ 2.500,00;Depósito em espécie;DEUSEMI GOMES FERREIRA JUNIOR;3123;Deputado Federal;PHS;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AGUIAR TINTAS, BASTOES E IMPRESSAO DIGITAL LTDA - ME;12.058.968/0001-58;30/09/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 3123 - DEUSEMI GOMES FERREIRA JUNIOR - MG - Deputado Federal;
+AGUIAR TINTAS, BASTOES E IMPRESSAO DIGITAL LTDA - ME;12.058.968/0001-58;14/09/2010;       Publicidade por materiais impressos;R$ 1.100,00;Cheque; -  -  / 3123 - DEUSEMI GOMES FERREIRA JUNIOR - MG - Deputado Federal;
+EDITORA GRAFICA DALIANA LTDA;05.581.027/0001-39;16/09/2010;       Publicidade por materiais impressos;R$ 1.750,00;Cheque; -  -  / 3123 - DEUSEMI GOMES FERREIRA JUNIOR - MG - Deputado Federal;
+EZAGON PUBLICIDADES LTDA.;02.099.910/0001-07;24/08/2010;       Publicidade por materiais impressos;R$ 1.550,00;Cheque; -  -  / 3123 - DEUSEMI GOMES FERREIRA JUNIOR - MG - Deputado Federal;
+GRAFICA HOLLYDAY LTDA-EPP;19.679.976/0001-60;16/09/2010;       Publicidade por materiais impressos;R$ 560,00;Cheque; -  -  / 3123 - DEUSEMI GOMES FERREIRA JUNIOR - MG - Deputado Federal;
+PRODATA EDITORA GRAFICA LTDA;03.508.494/0001-08;13/08/2010;       Publicidade por materiais impressos;R$ 190,00;Cheque; -  -  / 3123 - DEUSEMI GOMES FERREIRA JUNIOR - MG - Deputado Federal;
+RONILSOM EMILIO DO CARMO MALTA;882.122.466-04;31/08/2010;       Diversas a especificar;R$ 500,00;Cheque; -  -  / 3123 - DEUSEMI GOMES FERREIRA JUNIOR - MG - Deputado Federal;
+ROSANGELA GERALDA DO CARMO RODRIGUES;761.530.026-68;30/09/2010;       Despesas com pessoal;R$ 132,15;Cheque; -  -  / 3123 - DEUSEMI GOMES FERREIRA JUNIOR - MG - Deputado Federal;
+;;20/09/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 3123 - DEUSEMI GOMES FERREIRA JUNIOR - MG - Deputado Federal;
+;;20/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 3123 - DEUSEMI GOMES FERREIRA JUNIOR - MG - Deputado Federal;

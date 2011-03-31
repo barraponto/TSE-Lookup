@@ -1,6 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CAMÕES BERNARDINO ALFREDO FERNANDES;091.762.176-04;30/09/2010;36000001404;R$ 150,00;Depósito em espécie;CELESTE ALFREDO FERNANDES;36936;Deputado Estadual;PTC;MG;
-CFC UNIÃO DOS INSTRUTORES DE MINAS GERAIS;07.550.190/0001-60;27/09/2010;36000001403;R$ 300,00;Depósito em espécie;CELESTE ALFREDO FERNANDES;36936;Deputado Estadual;PTC;MG;
-Comitê Financeiro Único;12.154.851/0001-78;15/09/2010;36000001405;R$ 1.180,00;Estimado;CELESTE ALFREDO FERNANDES;36936;Deputado Estadual;PTC;MG;
-OSMAR VICENTE DE ABREU DINIZ;355.419.386-00;06/09/2010;36000001401;R$ 310,00;Depósito em espécie;CELESTE ALFREDO FERNANDES;36936;Deputado Estadual;PTC;MG;
-SEBASTIANA MENEZES DE CARVALHO;221.721.906-59;13/09/2010;36000001402;R$ 200,00;Depósito em espécie;CELESTE ALFREDO FERNANDES;36936;Deputado Estadual;PTC;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANDRE HENRIQUE FERRER DE PAULA;06.980.937/0001-57;25/09/2010;       Publicidade por materiais impressos;R$ 150,00;Cheque; -  -  / 36936 - CELESTE ALFREDO FERNANDES - MG - Deputado Estadual;
+Comitê Financeiro Único;12.154.851/0001-78;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.180,00;Estimado;Comitê Financeiro Único - PT do B -  / 36936 - CELESTE ALFREDO FERNANDES - MG - Deputado Estadual;
+COPIADORA ARMENIO LTDA;02.827.132/0001-17;06/09/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 36936 - CELESTE ALFREDO FERNANDES - MG - Deputado Estadual;
+COPIADORA ARMENIO LTDA;02.827.132/0001-17;20/09/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 36936 - CELESTE ALFREDO FERNANDES - MG - Deputado Estadual;
+KATARINA EMBALAGENS GRÁFICA E EDITORA LTDA;12.140.776/0001-96;11/09/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 36936 - CELESTE ALFREDO FERNANDES - MG - Deputado Estadual;
+;;27/10/2010;       Encargos financeiros e taxas bancárias;R$ 10,00;Débito em conta; -  -  / 36936 - CELESTE ALFREDO FERNANDES - MG - Deputado Estadual;

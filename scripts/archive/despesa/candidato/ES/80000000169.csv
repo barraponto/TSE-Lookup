@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FERNANDO VINICIUS CHAGAS ALMANÇA;034.546.837-69;28/07/2010;17000008451;R$ 885,60;Transferência eletrônica;FERNANDO VINICIUS CHAGAS ALMANCA;17234;Deputado Estadual;PSL;ES;
-FERNANDO VINICIUS CHAGAS ALMANÇA;034.546.837-69;06/08/2010;17000008452;R$ 159,60;Transferência eletrônica;FERNANDO VINICIUS CHAGAS ALMANCA;17234;Deputado Estadual;PSL;ES;
-FERNANDO VINICIUS CHAGAS ALMANÇA;034.546.837-69;28/09/2010;17000008456;R$ 18,00;Transferência eletrônica;FERNANDO VINICIUS CHAGAS ALMANCA;17234;Deputado Estadual;PSL;ES;
-FERNANDO VINICIUS CHAGAS ALMANÇA;034.546.837-69;01/09/2010;17000008454;R$ 131,15;Transferência eletrônica;FERNANDO VINICIUS CHAGAS ALMANCA;17234;Deputado Estadual;PSL;ES;
-FERNANDO VINICIUS CHAGAS ALMANÇA;034.546.837-69;17/09/2010;17000008455;R$ 50,00;Transferência eletrônica;FERNANDO VINICIUS CHAGAS ALMANCA;17234;Deputado Estadual;PSL;ES;
-FERNANDO VINICIUS CHAGAS ALMANÇA;034.546.837-69;11/08/2010;17000008453;R$ 187,65;Transferência eletrônica;FERNANDO VINICIUS CHAGAS ALMANCA;17234;Deputado Estadual;PSL;ES;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ART HOUSE COMUNICAÇÃO LTDA ME;11.448.689/0001-38;06/08/2010;       Publicidade por materiais impressos;R$ 159,60;Transferência eletrônica; -  -  / 17234 - FERNANDO VINICIUS CHAGAS ALMANCA - ES - Deputado Estadual;
+ART HOUSE COMUNICAÇÃO LTDA ME;11.448.689/0001-38;01/09/2010;       Publicidade por materiais impressos;R$ 100,00;Transferência eletrônica; -  -  / 17234 - FERNANDO VINICIUS CHAGAS ALMANCA - ES - Deputado Estadual;
+BRASILGRAF SERVICOS GRAFICOS LTDA;08.077.403/0001-40;01/09/2010;       Publicidade por materiais impressos;R$ 116,90;Transferência eletrônica; -  -  / 17234 - FERNANDO VINICIUS CHAGAS ALMANCA - ES - Deputado Estadual;
+BRASILGRAF SERVICOS GRAFICOS LTDA;08.077.403/0001-40;30/09/2010;       Publicidade por materiais impressos;R$ 68,00;Transferência eletrônica; -  -  / 17234 - FERNANDO VINICIUS CHAGAS ALMANCA - ES - Deputado Estadual;
+BRASILGRAF SERVICOS GRAFICOS LTDA;08.077.403/0001-40;11/08/2010;       Publicidade por materiais impressos;R$ 116,90;Transferência eletrônica; -  -  / 17234 - FERNANDO VINICIUS CHAGAS ALMANCA - ES - Deputado Estadual;
+PAULO GERALDO BORGES GRÁFICA - ATUALCARD;10.493.162/0001-62;30/07/2010;       Publicidade por materiais impressos;R$ 870,60;Transferência eletrônica; -  -  / 17234 - FERNANDO VINICIUS CHAGAS ALMANCA - ES - Deputado Estadual;

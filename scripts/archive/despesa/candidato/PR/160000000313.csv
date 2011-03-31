@@ -1,9 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEICOES 2010 CLEUSA ROSANE RIBAS FERREIRA DEP FED;12.178.049/0001-18;17/08/2010;43001776805;R$ 293,00;Estimado;ROSNELE CORDOVA ARMSTRONG;43033;Deputado Estadual;PV;PR;
-HUGO RICARDO KLAT;234.063.809-72;06/08/2010;43001776802;R$ 100,00;Transferência eletrônica;ROSNELE CORDOVA ARMSTRONG;43033;Deputado Estadual;PV;PR;
-JACQUES AMAURI LEMES;016.000.479-98;25/08/2010;43001776806;R$ 100,00;Depósito em espécie;ROSNELE CORDOVA ARMSTRONG;43033;Deputado Estadual;PV;PR;
-JORNAL FOLHA DO BOQUEIRÃO;97.329.882/0001-75;23/09/2010;43001776808;R$ 143,00;Estimado;ROSNELE CORDOVA ARMSTRONG;43033;Deputado Estadual;PV;PR;
-JOSMAIR MACIEL;610.796.779-68;09/08/2010;43001776803;R$ 300,00;Depósito em espécie;ROSNELE CORDOVA ARMSTRONG;43033;Deputado Estadual;PV;PR;
-JOSMAIR MACIEL;610.796.779-68;24/08/2010;43001776807;R$ 100,00;Depósito em espécie;ROSNELE CORDOVA ARMSTRONG;43033;Deputado Estadual;PV;PR;
-ROSNELE CORDOVA ARMSTRONG;776.052.689-04;30/07/2010;43001776801;R$ 100,00;Depósito em espécie;ROSNELE CORDOVA ARMSTRONG;43033;Deputado Estadual;PV;PR;
-ROSNELE CORDOVA ARMSTRONG;776.052.689-04;09/08/2010;43001776804;R$ 280,00;Depósito em espécie;ROSNELE CORDOVA ARMSTRONG;43033;Deputado Estadual;PV;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BRUNA FITZ ARMSTRONG;085.453.739-29;01/10/2010;       Despesas com pessoal;R$ 67,80;Transferência eletrônica; -  -  / 43033 - ROSNELE CORDOVA ARMSTRONG - PR - Deputado Estadual;
+ELEICOES 2010 CLEUSA ROSANE RIBAS FERREIRA DEP FED;12.178.049/0001-18;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 293,00;Estimado;4343 -  - PV -  - Deputado Federal / 43033 - ROSNELE CORDOVA ARMSTRONG - PR - Deputado Estadual;
+FIEL GRÁFICA LTDA.;02.216.870/0001-28;17/08/2010;       Publicidade por materiais impressos;R$ 134,80;Cheque; -  -  / 43033 - ROSNELE CORDOVA ARMSTRONG - PR - Deputado Estadual;
+JORNAL FOLHA DO BOQUEIRÃO;97.329.882/0001-75;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 143,00;Estimado; -  -  / 43033 - ROSNELE CORDOVA ARMSTRONG - PR - Deputado Estadual;
+VISUALIZAR COMUNICAÇÃO VISUAL LDA.;07.322.816/0001-80;10/08/2010;       Publicidade por materiais impressos;R$ 488,00;Cheque; -  -  / 43033 - ROSNELE CORDOVA ARMSTRONG - PR - Deputado Estadual;
+VISUALIZAR COMUNICAÇÃO VISUAL LDA.;07.322.816/0001-80;26/08/2010;       Publicidade por materiais impressos;R$ 284,90;Cheque; -  -  / 43033 - ROSNELE CORDOVA ARMSTRONG - PR - Deputado Estadual;
+;;20/09/2010;       Encargos financeiros e taxas bancárias;R$ 4,50;Débito em conta; -  -  / 43033 - ROSNELE CORDOVA ARMSTRONG - PR - Deputado Estadual;

@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;65000146001;R$ 150,00;Estimado;JORGE MESQUITA LISBOA;65101;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;65000146002;R$ 150,00;Estimado;JORGE MESQUITA LISBOA;65101;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.191.555/0001-47;30/09/2010;65000146005;R$ 100,00;Estimado;JORGE MESQUITA LISBOA;65101;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.191.555/0001-47;06/09/2010;65000146004;R$ 406,25;Estimado;JORGE MESQUITA LISBOA;65101;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;65000146003;R$ 300,00;Estimado;JORGE MESQUITA LISBOA;65101;Deputado Estadual;PC do B;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 65101 - JORGE MESQUITA LISBOA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 65101 - JORGE MESQUITA LISBOA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.191.555/0001-47;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 406,25;Estimado;Comitê Financeiro Único - PC do B -  / 65101 - JORGE MESQUITA LISBOA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.191.555/0001-47;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado;Comitê Financeiro Único - PC do B -  / 65101 - JORGE MESQUITA LISBOA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 65101 - JORGE MESQUITA LISBOA - RJ - Deputado Estadual;

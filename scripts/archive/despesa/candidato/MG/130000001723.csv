@@ -1,9 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO EUSTAQUIO  ANDRADE FERREIRA;12.189.990/0001-37;17/08/2010;13000693523;R$ 700,00;Estimado;PAULO JORGE DOS SANTOS;13153;Deputado Estadual;PT;MG;
-Diretório Estadual/Distrital;12.205.318/0001-98;27/10/2010;13000693522;R$ 600,00;Estimado;PAULO JORGE DOS SANTOS;13153;Deputado Estadual;PT;MG;
-ELEIÇÃO 2010 REGINALDO LAZARO DE OLIVEIRA LOPES DEPUTADO FEDERAL;12.200.014/0001-38;09/08/2010;13000689181;R$ 142,16;Estimado;PAULO JORGE DOS SANTOS;13153;Deputado Estadual;PT;MG;
-ELEIÇÕES 2010. REGINALDO LÁZARO DE OLIVEIRA LOPES;12.200.014/0001-38;27/10/2010;13000693524;R$ 160,33;Estimado;PAULO JORGE DOS SANTOS;13153;Deputado Estadual;PT;MG;
-ERNANDO DAMATA PIMENTEL;12.189.933/0001-58;30/09/2010;13000693526;R$ 21.347,00;Estimado;PAULO JORGE DOS SANTOS;13153;Deputado Estadual;PT;MG;
-FRNANDO DAMATA PIMENTEL;12.189.933/0001-58;30/09/2010;13000693525;R$ 1.863,00;Estimado;PAULO JORGE DOS SANTOS;13153;Deputado Estadual;PT;MG;
-HELIO CALIXTO DA COSTA;12.189.609/0001-30;03/09/2010;13000693527;R$ 68,40;Estimado;PAULO JORGE DOS SANTOS;13153;Deputado Estadual;PT;MG;
-HELIO CALIXTO DA COSTA;12.189.609/0001-30;17/09/2010;13000693528;R$ 143,10;Estimado;PAULO JORGE DOS SANTOS;13153;Deputado Estadual;PT;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO EUSTAQUIO  ANDRADE FERREIRA;12.189.990/0001-37;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 700,00;Estimado;1518 -  - PMDB -  - Deputado Federal / 13153 - PAULO JORGE DOS SANTOS - MG - Deputado Estadual;
+Diretório Estadual/Distrital;12.205.318/0001-98;27/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado;Direção Estadual/Distrital - PT -  / 13153 - PAULO JORGE DOS SANTOS - MG - Deputado Estadual;
+ELEIÇÃO 2010 REGINALDO LAZARO DE OLIVEIRA LOPES DEPUTADO FEDERAL;12.200.014/0001-38;09/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 142,16;Estimado;1312 -  - PT -  - Deputado Federal / 13153 - PAULO JORGE DOS SANTOS - MG - Deputado Estadual;
+ELEIÇÕES 2010. REGINALDO LÁZARO DE OLIVEIRA LOPES;12.200.014/0001-38;27/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 160,33;Estimado;1312 -  - PT -  - Deputado Federal / 13153 - PAULO JORGE DOS SANTOS - MG - Deputado Estadual;
+ERNANDO DAMATA PIMENTEL;12.189.933/0001-58;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 21.347,00;Estimado;133 -  - PT -  - Senador / 13153 - PAULO JORGE DOS SANTOS - MG - Deputado Estadual;
+FRNANDO DAMATA PIMENTEL;12.189.933/0001-58;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.863,00;Estimado;133 -  - PT -  - Senador / 13153 - PAULO JORGE DOS SANTOS - MG - Deputado Estadual;
+HELIO CALIXTO DA COSTA;12.189.609/0001-30;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 68,40;Estimado;15 -  - PMDB -  - Governador / 13153 - PAULO JORGE DOS SANTOS - MG - Deputado Estadual;
+HELIO CALIXTO DA COSTA;12.189.609/0001-30;17/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 143,10;Estimado;15 -  - PMDB -  - Governador / 13153 - PAULO JORGE DOS SANTOS - MG - Deputado Estadual;

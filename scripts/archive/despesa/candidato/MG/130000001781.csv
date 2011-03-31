@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-GERALDO FELIPE DA SILVA;12.177.816/0001-74;25/08/2010;50000234391;R$ 115,00;Estimado;ADILSON SILVA;50313;Deputado Estadual;PSOL;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GERALDO FELIPE DA SILVA;12.177.816/0001-74;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 115,00;Estimado;5077 -  - PSOL -  - Deputado Federal / 50313 - ADILSON SILVA - MG - Deputado Estadual;

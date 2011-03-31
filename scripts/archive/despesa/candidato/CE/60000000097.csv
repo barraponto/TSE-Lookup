@@ -1,3 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO LEITE TAVARES;002.487.203-25;09/09/2010;65000116882;R$ 1.000,00;Cheque;FRANCISCO BEZERRA SILVA;65555;Deputado Estadual;PC do B;CE;
-ANTONIO LEITE TAVARES;002.487.203-25;16/07/2010;65000116881;R$ 7.500,00;Cheque;FRANCISCO BEZERRA SILVA;65555;Deputado Estadual;PC do B;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CLAUDIO GOMES FEITOSA & CIA LTDA;01.524.627/0001-04;16/09/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 65555 - FRANCISCO BEZERRA SILVA - CE - Deputado Estadual;
+CLAUDIO GOMES FEITOSA & CIA LTDA;01.524.627/0001-04;27/09/2010;       Publicidade por materiais impressos;R$ 700,00;Cheque; -  -  / 65555 - FRANCISCO BEZERRA SILVA - CE - Deputado Estadual;
+CLAUDIO GOMES FEITOSA & CIA LTDA;01.524.627/0001-04;17/07/2010;       Publicidade por materiais impressos;R$ 4.800,00;Cheque; -  -  / 65555 - FRANCISCO BEZERRA SILVA - CE - Deputado Estadual;
+CLAUDIO GOMES FEITOSA & CIA LTDA;01.524.627/0001-04;05/08/2010;       Publicidade por materiais impressos;R$ 2.550,00;Cheque; -  -  / 65555 - FRANCISCO BEZERRA SILVA - CE - Deputado Estadual;

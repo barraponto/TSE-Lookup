@@ -1,4 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 FERNANDO AFFONSO COLLOR DE MELLO;12.168.659/0001-30;29/09/2010;14000063402;R$ 166.640,00;Estimado;FLAVIO EMILIO ARRUDA SILVA;145;Senador;PTB;AL;
-EMILIO SILVA;005.932.734-00;28/10/2010;14000063403;R$ 2.880,00;Depósito em espécie;FLAVIO EMILIO ARRUDA SILVA;145;Senador;PTB;AL;
-FLÁVIO EMÍLIO ARRUDA SILVA;757.684.884-72;27/10/2010;14000063401;R$ 300,00;Depósito em espécie;FLAVIO EMILIO ARRUDA SILVA;145;Senador;PTB;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 FERNANDO AFFONSO COLLOR DE MELLO;12.168.659/0001-30;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 166.640,00;Estimado;14 -  - PTB -  - Governador / 145 - FLAVIO EMILIO ARRUDA SILVA - AL - Senador;
+IDEIA EDITORA GRÁFICA E EMBALAGENS LTDA;00.631.480/0001-99;31/08/2010;       Publicidade por materiais impressos;R$ 3.160,00;Cheque; -  -  / 145 - FLAVIO EMILIO ARRUDA SILVA - AL - Senador;

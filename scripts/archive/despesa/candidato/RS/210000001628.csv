@@ -1,3 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DILSON JARDEL D AVILA RASSIER;571.661.610-00;17/09/2010;27000045272;R$ 340,00;Depósito em espécie;DILSON JARDEL D AVILA RASSIER;27027;Deputado Estadual;PSDC;RS;
-JORGE LUIZ KNOPP CARDOSO;269.606.720-15;08/09/2010;27000045271;R$ 100,00;Depósito em espécie;DILSON JARDEL D AVILA RASSIER;27027;Deputado Estadual;PSDC;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EDGAR RODRIGUES FERNANDES - AUTO POSTO ESSO;93.760.601/0001-83;05/09/2010;       Combustíveis e lubrificantes;R$ 50,00;Cheque; -  -  / 27027 - DILSON JARDEL D AVILA RASSIER - RS - Deputado Estadual;
+EDGAR RODRIGUES FERNANDES - AUTO POSTO ESSO;93.760.601/0001-83;03/09/2010;       Combustíveis e lubrificantes;R$ 46,00;Cheque; -  -  / 27027 - DILSON JARDEL D AVILA RASSIER - RS - Deputado Estadual;
+EDGAR RODRIGUES FERNANDES - AUTO POSTO ESSO;93.760.601/0001-83;02/09/2010;       Combustíveis e lubrificantes;R$ 50,00;Cheque; -  -  / 27027 - DILSON JARDEL D AVILA RASSIER - RS - Deputado Estadual;
+EDGAR RODRIGUES FERNANDES - AUTO POSTO ESSO;93.760.601/0001-83;09/09/2010;       Combustíveis e lubrificantes;R$ 50,00;Cheque; -  -  / 27027 - DILSON JARDEL D AVILA RASSIER - RS - Deputado Estadual;
+EDGAR RODRIGUES FERNANDES - AUTO POSTO ESSO;93.760.601/0001-83;03/09/2010;       Combustíveis e lubrificantes;R$ 5,50;Cheque; -  -  / 27027 - DILSON JARDEL D AVILA RASSIER - RS - Deputado Estadual;
+EDGAR RODRIGUES FERNANDES - AUTO POSTO ESSO;93.760.601/0001-83;20/09/2010;       Combustíveis e lubrificantes;R$ 50,00;Cheque; -  -  / 27027 - DILSON JARDEL D AVILA RASSIER - RS - Deputado Estadual;
+EDGAR RODRIGUES FERNANDES - AUTO POSTO ESSO;93.760.601/0001-83;17/09/2010;       Combustíveis e lubrificantes;R$ 70,00;Cheque; -  -  / 27027 - DILSON JARDEL D AVILA RASSIER - RS - Deputado Estadual;
+JOAO BATISTA MADRUGA GARCIA;93.191.427/0001-03;06/09/2010;       Publicidade por placas, estandartes e faixas;R$ 57,00;Cheque; -  -  / 27027 - DILSON JARDEL D AVILA RASSIER - RS - Deputado Estadual;
+;;16/09/2010;       Encargos financeiros e taxas bancárias;R$ 20,50;Débito em conta; -  -  / 27027 - DILSON JARDEL D AVILA RASSIER - RS - Deputado Estadual;
+;;08/09/2010;       Encargos financeiros e taxas bancárias;R$ 20,50;Débito em conta; -  -  / 27027 - DILSON JARDEL D AVILA RASSIER - RS - Deputado Estadual;
+;;28/09/2010;       Encargos financeiros e taxas bancárias;R$ 20,50;Débito em conta; -  -  / 27027 - DILSON JARDEL D AVILA RASSIER - RS - Deputado Estadual;

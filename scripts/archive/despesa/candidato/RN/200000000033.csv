@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSE MESSIAS DA SILVA;201.473.094-68;21/07/2010;50000445121;R$ 10,00;Depósito em espécie;MARCOS ALCANTARA DA SILVA;5013;Deputado Federal;PSOL;RN;
-MARCOS ALCANTARA DA SILVA;439.255.617-49;10/09/2010;50000445125;R$ 240,00;Depósito em espécie;MARCOS ALCANTARA DA SILVA;5013;Deputado Federal;PSOL;RN;
-MARCOS ALCANTARA DA SILVA;439.255.617-49;03/08/2010;50000445123;R$ 625,00;Depósito em espécie;MARCOS ALCANTARA DA SILVA;5013;Deputado Federal;PSOL;RN;
-RAIMUNDA MARQUES DE BRITO;379.443.714-49;21/07/2010;50000445122;R$ 10,00;Depósito em espécie;MARCOS ALCANTARA DA SILVA;5013;Deputado Federal;PSOL;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+LM SERVGRAFICA E COPIADORA LTDA ME;07.805.649/0001-29;09/08/2010;       Publicidade por materiais impressos;R$ 250,00;Cheque; -  -  / 5013 - MARCOS ALCANTARA DA SILVA - RN - Deputado Federal;
+LM SERVGRAFICA E COPIADORA LTDA ME;07.805.649/0001-29;09/08/2010;       Publicidade por materiais impressos;R$ 125,00;Cheque; -  -  / 5013 - MARCOS ALCANTARA DA SILVA - RN - Deputado Federal;
+5013 - MARCOS ALCANTARA DA SILVA - DEPUTADO FEDERAL;12.199.359/0001-19;17/08/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 250,00;Cheque;Comitê Financeiro Único - PSOL - RN / 5013 - MARCOS ALCANTARA DA SILVA - RN - Deputado Federal;
+5013 - MARCOS ALCANTARA DA SILVA - DEPUTADO FEDERAL;12.199.359/0001-19;22/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 250,00;Cheque;Comitê Financeiro Único - PSOL - RN / 5013 - MARCOS ALCANTARA DA SILVA - RN - Deputado Federal;

@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;43001811616;R$ 6.250,00;Estimado;LUIZ LOPES VARELLA;4355;Deputado Federal;PV;RN;
-Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;43001811617;R$ 3.260,00;Estimado;LUIZ LOPES VARELLA;4355;Deputado Federal;PV;RN;
-Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;43001811620;R$ 2.500,75;Estimado;LUIZ LOPES VARELLA;4355;Deputado Federal;PV;RN;
-Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;43001811619;R$ 1.785,00;Estimado;LUIZ LOPES VARELLA;4355;Deputado Federal;PV;RN;
-Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;43001811618;R$ 11.903,00;Estimado;LUIZ LOPES VARELLA;4355;Deputado Federal;PV;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 6.250,00;Estimado;Comitê Financeiro Único - PV -  / 4355 - LUIZ LOPES VARELLA - RN - Deputado Federal;
+Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.500,75;Estimado;Comitê Financeiro Único - PV -  / 4355 - LUIZ LOPES VARELLA - RN - Deputado Federal;
+Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.260,00;Estimado;Comitê Financeiro Único - PV -  / 4355 - LUIZ LOPES VARELLA - RN - Deputado Federal;
+Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 11.903,00;Estimado;Comitê Financeiro Único - PV -  / 4355 - LUIZ LOPES VARELLA - RN - Deputado Federal;
+Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.785,00;Estimado;Comitê Financeiro Único - PV -  / 4355 - LUIZ LOPES VARELLA - RN - Deputado Federal;

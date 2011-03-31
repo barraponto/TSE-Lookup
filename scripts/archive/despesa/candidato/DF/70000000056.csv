@@ -1,4 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DANIEL BIN;532.601.980-91;02/08/2010;50000139262;R$ 200,00;Transferência eletrônica;MARCELLO CAVALCANTI BARRA;500;1º Suplente Senador;PSOL;DF;
-EDNA CAVALCANTE MUNIZ;220.534.177-49;09/09/2010;50000139263;R$ 120,00;Depósito em espécie;MARCELLO CAVALCANTI BARRA;500;1º Suplente Senador;PSOL;DF;
-MARCELLO CAVALCANTI BARRA;197.257.348-90;25/07/2010;50000139261;R$ 1.000,00;Depósito em espécie;MARCELLO CAVALCANTI BARRA;500;1º Suplente Senador;PSOL;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+500 - MARCELLO CAVALCANTI BARRA - 1º SUPLENTE SENADOR;12.173.057/0001-71;21/07/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 500,00;Cheque;5050 - WELLINGTON ANDRADE RODRIGUES - PSOL - DF - Deputado Federal / 500 - MARCELLO CAVALCANTI BARRA - DF - 1º Suplente Senador;
+500 - MARCELLO CAVALCANTI BARRA - 1º SUPLENTE SENADOR;12.173.057/0001-71;19/07/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 500,00;Depósito em espécie;50150 - EDLEUZO SOUZA CAVALCANTE - PSOL - DF - Deputado Distrital / 500 - MARCELLO CAVALCANTI BARRA - DF - 1º Suplente Senador;
+500 - MARCELLO CAVALCANTI BARRA - 1º SUPLENTE SENADOR;12.173.057/0001-71;20/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 315,50;Depósito em espécie;5050 - WELLINGTON ANDRADE RODRIGUES - PSOL - DF - Deputado Federal / 500 - MARCELLO CAVALCANTI BARRA - DF - 1º Suplente Senador;
+;;31/08/2010;       Encargos financeiros e taxas bancárias;R$ 4,50;Débito em conta; -  -  / 500 - MARCELLO CAVALCANTI BARRA - DF - 1º Suplente Senador;

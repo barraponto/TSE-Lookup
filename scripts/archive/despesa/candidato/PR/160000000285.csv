@@ -1,2 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LUIZ GONZAGA CAETANO MONEZI;013.351.389-00;11/08/2010;43001771201;R$ 500,00;Depósito em espécie;LUIZ GONZAGA CAETANO MONEZI;43009;Deputado Estadual;PV;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CASA SARTORI INSTRUMENTOS MUSICAIS LTDA;76.504.216/0001-56;30/07/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 145,00;Transferência eletrônica; -  -  / 43009 - LUIZ GONZAGA CAETANO MONEZI - PR - Deputado Estadual;
+GRAFICA EXPRESS;81.713.836/0001-35;13/09/2010;       Publicidade por materiais impressos;R$ 60,00;Transferência eletrônica; -  -  / 43009 - LUIZ GONZAGA CAETANO MONEZI - PR - Deputado Estadual;
+MARCOS LUIZ RAMOS;003.383.661-21;01/10/2010;       Despesas com pessoal;R$ 75,00;Transferência eletrônica; -  -  / 43009 - LUIZ GONZAGA CAETANO MONEZI - PR - Deputado Estadual;
+POSTO ABRANCHES;08.222.174/0001-00;09/09/2010;       Combustíveis e lubrificantes;R$ 50,00;Transferência eletrônica; -  -  / 43009 - LUIZ GONZAGA CAETANO MONEZI - PR - Deputado Estadual;
+POSTO ABRANCHES;08.222.174/0001-00;20/09/2010;       Combustíveis e lubrificantes;R$ 50,00;Transferência eletrônica; -  -  / 43009 - LUIZ GONZAGA CAETANO MONEZI - PR - Deputado Estadual;
+POSTO ABRANCHES;08.222.174/0001-00;27/09/2010;       Combustíveis e lubrificantes;R$ 50,00;Transferência eletrônica; -  -  / 43009 - LUIZ GONZAGA CAETANO MONEZI - PR - Deputado Estadual;
+RAMOS INFORMATICA;05.029.290/0001-10;01/10/2010;       Materiais de expediente;R$ 70,00;Transferência eletrônica; -  -  / 43009 - LUIZ GONZAGA CAETANO MONEZI - PR - Deputado Estadual;

@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-A DE M R LARRAT;07.354.456/0001-07;03/09/2010;10000000349;R$ 3.050,00;Estimado;ELIEL CAVALCANTE GUIMARAES;10737;Deputado Estadual;PRB;PA;
-RAUL BATISTA DE SOUZA;12.214.212/0001-50;12/08/2010;10000000348;R$ 210,00;Estimado;ELIEL CAVALCANTE GUIMARAES;10737;Deputado Estadual;PRB;PA;
-RAUL BATISTA DE SOUZA;12.214.212/0001-50;10/08/2010;10000000347;R$ 69,00;Estimado;ELIEL CAVALCANTE GUIMARAES;10737;Deputado Estadual;PRB;PA;
-RAUL BATISTA DE SOUZA;12.214.212/0001-50;06/08/2010;10000000345;R$ 150,00;Estimado;ELIEL CAVALCANTE GUIMARAES;10737;Deputado Estadual;PRB;PA;
-RAUL BATISTA DE SOUZA;12.214.212/0001-50;04/08/2010;10000000346;R$ 105,00;Estimado;ELIEL CAVALCANTE GUIMARAES;10737;Deputado Estadual;PRB;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+A DE M R LARRAT;07.354.456/0001-07;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.050,00;Estimado; -  -  / 10737 - ELIEL CAVALCANTE GUIMARAES - PA - Deputado Estadual;
+RAUL BATISTA DE SOUZA;12.214.212/0001-50;04/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 105,00;Estimado;1010 -  - PRB -  - Deputado Federal / 10737 - ELIEL CAVALCANTE GUIMARAES - PA - Deputado Estadual;
+RAUL BATISTA DE SOUZA;12.214.212/0001-50;12/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 210,00;Estimado;1010 -  - PRB -  - Deputado Federal / 10737 - ELIEL CAVALCANTE GUIMARAES - PA - Deputado Estadual;
+RAUL BATISTA DE SOUZA;12.214.212/0001-50;06/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;1010 -  - PRB -  - Deputado Federal / 10737 - ELIEL CAVALCANTE GUIMARAES - PA - Deputado Estadual;
+RAUL BATISTA DE SOUZA;12.214.212/0001-50;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 69,00;Estimado;1010 -  - PRB -  - Deputado Federal / 10737 - ELIEL CAVALCANTE GUIMARAES - PA - Deputado Estadual;

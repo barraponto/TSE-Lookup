@@ -1,6 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-BERNARDO ALVES CORREA;002.181.210-16;27/08/2010;50000480562;R$ 340,00;Depósito em espécie;JULIANO CARRICONDE FRIPP;50633;Deputado Estadual;PSOL;RS;
-JULIANO CARRICONDE FRIPP;241.533.622-04;29/10/2010;50000480565;R$ 11,05;Depósito em espécie;JULIANO CARRICONDE FRIPP;50633;Deputado Estadual;PSOL;RS;
-JULIANO CARRICONDE FRIPP;241.533.622-04;09/09/2010;50000480564;R$ 65,00;Depósito em espécie;JULIANO CARRICONDE FRIPP;50633;Deputado Estadual;PSOL;RS;
-JULIANO CARRICONDE FRIPP;241.533.622-04;09/08/2010;50000480561;R$ 75,00;Depósito em espécie;JULIANO CARRICONDE FRIPP;50633;Deputado Estadual;PSOL;RS;
-JULIANO CARRICONDE FRIPP;241.533.622-04;08/09/2010;50000480563;R$ 115,00;Depósito em espécie;JULIANO CARRICONDE FRIPP;50633;Deputado Estadual;PSOL;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARESTAS PRINT IMPRESSÃO DIGITAL LTDA;09.286.085/0001-90;02/09/2010;       Publicidade por materiais impressos;R$ 114,00;Cheque; -  -  / 50633 - JULIANO CARRICONDE FRIPP - RS - Deputado Estadual;
+ARESTAS PRINT IMPRESSÃO DIGITAL LTDA;09.286.085/0001-90;02/09/2010;       Publicidade por materiais impressos;R$ 338,00;Cheque; -  -  / 50633 - JULIANO CARRICONDE FRIPP - RS - Deputado Estadual;
+ARESTAS PRINT IMPRESSÃO DIGITAL LTDA;09.286.085/0001-90;02/09/2010;       Publicidade por materiais impressos;R$ 75,00;Cheque; -  -  / 50633 - JULIANO CARRICONDE FRIPP - RS - Deputado Estadual;
+;;03/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 50633 - JULIANO CARRICONDE FRIPP - RS - Deputado Estadual;
+;;31/08/2010;       Encargos financeiros e taxas bancárias;R$ 20,50;Débito em conta; -  -  / 50633 - JULIANO CARRICONDE FRIPP - RS - Deputado Estadual;
+;;27/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 50633 - JULIANO CARRICONDE FRIPP - RS - Deputado Estadual;
+;;27/08/2010;       Encargos financeiros e taxas bancárias;R$ 20,50;Débito em conta; -  -  / 50633 - JULIANO CARRICONDE FRIPP - RS - Deputado Estadual;
+;;30/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 50633 - JULIANO CARRICONDE FRIPP - RS - Deputado Estadual;
+;;29/10/2010;       Encargos financeiros e taxas bancárias;R$ 37,00;Débito em conta; -  -  / 50633 - JULIANO CARRICONDE FRIPP - RS - Deputado Estadual;

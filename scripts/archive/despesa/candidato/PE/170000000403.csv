@@ -1,2 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JUSSARA DANTAS DE MOURA;145.413.944-72;21/09/2010;31000042951;R$ 1.160,00;Transferência eletrônica;JOÃO DE MOURA BARBOSA FILHO;3190;Deputado Federal;PHS;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS;34.028.316/0021-57;23/09/2010;       Despesas postais;R$ 140,00;Transferência eletrônica; -  -  / 3190 - JOÃO DE MOURA BARBOSA FILHO - PE - Deputado Federal;
+EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS;34.028.316/0021-57;23/09/2010;       Despesas postais;R$ 510,00;Transferência eletrônica; -  -  / 3190 - JOÃO DE MOURA BARBOSA FILHO - PE - Deputado Federal;
+EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS;34.028.316/0021-57;22/09/2010;       Despesas postais;R$ 510,00;Transferência eletrônica; -  -  / 3190 - JOÃO DE MOURA BARBOSA FILHO - PE - Deputado Federal;

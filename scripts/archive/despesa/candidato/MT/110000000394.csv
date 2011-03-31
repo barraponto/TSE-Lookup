@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.154/0001-06;30/07/2010;14000155401;R$ 237,50;Estimado;ISAC NASCIMENTO MARQUES;14125;Deputado Estadual;PTB;MT;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.154/0001-06;30/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 237,50;Estimado;Comitê Financeiro Único - PTB -  / 14125 - ISAC NASCIMENTO MARQUES - MT - Deputado Estadual;

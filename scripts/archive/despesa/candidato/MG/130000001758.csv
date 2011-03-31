@@ -1,5 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LUIZ CARLOS FREITAS PEREIRA;956.116.228-87;16/07/2010;50000234511;R$ 15,00;Depósito em espécie;WALDEIR FERNANDES DA SILVA;501;Senador;PSOL;MG;
-LUIZ CARLOS FREITAS PEREIRA;956.116.228-87;17/08/2010;50000234512;R$ 235,00;Depósito em espécie;WALDEIR FERNANDES DA SILVA;501;Senador;PSOL;MG;
-PEDRO SILVA CAMPANHA;069.167.676-34;13/09/2010;50000232151;R$ 760,00;Depósito em espécie;WALDEIR FERNANDES DA SILVA;501;Senador;PSOL;MG;
-WALDEIR FERNANDES DA SILVA;028.701.538-64;27/08/2010;50000232152;R$ 100,00;Depósito em espécie;WALDEIR FERNANDES DA SILVA;501;Senador;PSOL;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+IDEIA IMPRESSÃO DIGITAL;21.613.807/0001-70;27/08/2010;       Publicidade por placas, estandartes e faixas;R$ 25,00;Cheque; -  -  / 501 - WALDEIR FERNANDES DA SILVA - MG - Senador;
+IDEIA IMPRESSÃO DIGITAL;21.613.807/0001-70;26/08/2010;       Publicidade por placas, estandartes e faixas;R$ 74,00;Cheque; -  -  / 501 - WALDEIR FERNANDES DA SILVA - MG - Senador;
+JOÃO ROBERTO MARQUES;278.104.615-91;20/08/2010;       Serviços prestados por terceiros;R$ 400,00;Cheque; -  -  / 501 - WALDEIR FERNANDES DA SILVA - MG - Senador;
+JOSÉ AUGUSTO DO CARMO;484.930.746-91;08/09/2010;       Serviços prestados por terceiros;R$ 140,00;Cheque; -  -  / 501 - WALDEIR FERNANDES DA SILVA - MG - Senador;
+STUDIO DIGITAL COLAB;04.782.951/0001-10;15/09/2010;       Publicidade por materiais impressos;R$ 460,00;Cheque; -  -  / 501 - WALDEIR FERNANDES DA SILVA - MG - Senador;
+;;27/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,50;Débito em conta; -  -  / 501 - WALDEIR FERNANDES DA SILVA - MG - Senador;

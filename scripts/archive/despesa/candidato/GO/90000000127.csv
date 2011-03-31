@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.242/0001-09;23/08/2010;65000185185;R$ 120,00;Estimado;DAMIÃO SILVA DE OLIVEIRA;65650;Deputado Estadual;PC do B;GO;
-ELEICAO 2010 FABIO TOKARSKI DEPUTADO FEDERAL;12.171.879/0001-13;30/07/2010;65000185184;R$ 345,00;Estimado;DAMIÃO SILVA DE OLIVEIRA;65650;Deputado Estadual;PC do B;GO;
-ELEIÇÃO 2010 IRIS REZENDE MACHADO GOVERNADOR;12.167.313/0001-18;02/10/2010;65000185186;R$ 1.612,90;Estimado;DAMIÃO SILVA DE OLIVEIRA;65650;Deputado Estadual;PC do B;GO;
-VANDERLEI MARTINS DA COSTA;712.780.286-68;30/08/2010;65000185187;R$ 550,00;Estimado;DAMIÃO SILVA DE OLIVEIRA;65650;Deputado Estadual;PC do B;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.242/0001-09;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 120,00;Estimado;Comitê Financeiro Único - PC do B -  / 65650 - DAMIÃO SILVA DE OLIVEIRA - GO - Deputado Estadual;
+ELEICAO 2010 FABIO TOKARSKI DEPUTADO FEDERAL;12.171.879/0001-13;30/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 345,00;Estimado;6565 -  - PC do B -  - Deputado Federal / 65650 - DAMIÃO SILVA DE OLIVEIRA - GO - Deputado Estadual;
+ELEIÇÃO 2010 IRIS REZENDE MACHADO GOVERNADOR;12.167.313/0001-18;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.612,90;Estimado;15 -  - PMDB -  - Governador / 65650 - DAMIÃO SILVA DE OLIVEIRA - GO - Deputado Estadual;
+VANDERLEI MARTINS DA COSTA;712.780.286-68;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 550,00;Estimado; -  -  / 65650 - DAMIÃO SILVA DE OLIVEIRA - GO - Deputado Estadual;

@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANIBAL DE OLIVEIRA VALENÇA;12.175.169/0001-61;20/09/2010;21000012795;R$ 80,00;Estimado;LUCIANO MORAIS DE SOUZA;2121;Deputado Federal;PCB;PE;
-CARLOS ROBERTO MAGALHÃES NUMERIANO;12.176.122/0001-12;20/09/2010;21000012794;R$ 300,00;Estimado;LUCIANO MORAIS DE SOUZA;2121;Deputado Federal;PCB;PE;
-Comitê Financeiro Único;12.229.917/0001-41;20/09/2010;21000012792;R$ 1.200,00;Estimado;LUCIANO MORAIS DE SOUZA;2121;Deputado Federal;PCB;PE;
-Comitê Financeiro Único;12.229.917/0001-41;20/09/2010;21000012793;R$ 400,00;Estimado;LUCIANO MORAIS DE SOUZA;2121;Deputado Federal;PCB;PE;
-Comitê Financeiro Único;12.229.917/0001-41;28/09/2010;21000012796;R$ 200,00;Transferência eletrônica;LUCIANO MORAIS DE SOUZA;2121;Deputado Federal;PCB;PE;
-JOSÉ FÁBIO RODRIGUES DE MEDEIROS;032.985.984-61;25/08/2010;21000012791;R$ 550,00;Estimado;LUCIANO MORAIS DE SOUZA;2121;Deputado Federal;PCB;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANIBAL DE OLIVEIRA VALENÇA;12.175.169/0001-61;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 80,00;Estimado;21 -  - PCB -  - Vice-Governador / 2121 - LUCIANO MORAIS DE SOUZA - PE - Deputado Federal;
+CARLOS ROBERTO MAGALHÃES NUMERIANO;12.176.122/0001-12;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;21 -  - PCB -  - Governador / 2121 - LUCIANO MORAIS DE SOUZA - PE - Deputado Federal;
+Comitê Financeiro Único;12.229.917/0001-41;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.200,00;Estimado;Comitê Financeiro Único - PCB -  / 2121 - LUCIANO MORAIS DE SOUZA - PE - Deputado Federal;
+Comitê Financeiro Único;12.229.917/0001-41;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado;Comitê Financeiro Único - PCB -  / 2121 - LUCIANO MORAIS DE SOUZA - PE - Deputado Federal;
+F M COMERCIO DERIVADOS DE PETROLEO LTDA;04.637.954/0001-60;19/10/2010;       Combustíveis e lubrificantes;R$ 200,00;Cheque; -  -  / 2121 - LUCIANO MORAIS DE SOUZA - PE - Deputado Federal;
+JOSÉ FÁBIO RODRIGUES DE MEDEIROS;032.985.984-61;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 550,00;Estimado; -  -  / 2121 - LUCIANO MORAIS DE SOUZA - PE - Deputado Federal;

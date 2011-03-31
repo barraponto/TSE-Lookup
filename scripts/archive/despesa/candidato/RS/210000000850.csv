@@ -1,3 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.178/0001-58;25/08/2010;12001076231;R$ 2.000,00;Transferência eletrônica;GLORIA LENIR ROSA BARRETO;12105;Deputado Estadual;PDT;RS;
-GLORIA LENIR ROSA BARRETO;914.208.490-34;13/10/2010;12001076232;R$ 4,20;Depósito em espécie;GLORIA LENIR ROSA BARRETO;12105;Deputado Estadual;PDT;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CLAUDIO FONSECA AZAMBUJA;500.600.070-87;26/08/2010;       Cessão ou Locação de Veículos;R$ 1.500,00;Cheque; -  -  / 12105 - GLORIA LENIR ROSA BARRETO - RS - Deputado Estadual;
+DRESCHER & SCHMTZ LTDA;08.406.295/0001-02;09/09/2010;       Produção de jingles, vinhetas e slogans;R$ 250,00;Cheque; -  -  / 12105 - GLORIA LENIR ROSA BARRETO - RS - Deputado Estadual;
+GAZETA DO SUL;95.424.834/0001-30;30/09/2010;       Publicidade por jornais e revistas;R$ 145,80;Cheque; -  -  / 12105 - GLORIA LENIR ROSA BARRETO - RS - Deputado Estadual;
+TELASUL MEDIAS LTDA;93.508.729/0001-54;17/08/2010;       Publicidade por materiais impressos;R$ 212,50;Cheque; -  -  / 12105 - GLORIA LENIR ROSA BARRETO - RS - Deputado Estadual;
+;;13/10/2010;       Encargos financeiros e taxas bancárias;R$ 20,50;Débito em conta; -  -  / 12105 - GLORIA LENIR ROSA BARRETO - RS - Deputado Estadual;
+;;04/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 12105 - GLORIA LENIR ROSA BARRETO - RS - Deputado Estadual;
+;;08/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 12105 - GLORIA LENIR ROSA BARRETO - RS - Deputado Estadual;
+;;05/10/2010;       Encargos financeiros e taxas bancárias;R$ 20,50;Débito em conta; -  -  / 12105 - GLORIA LENIR ROSA BARRETO - RS - Deputado Estadual;

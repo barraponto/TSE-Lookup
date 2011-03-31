@@ -1,7 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Nacional;01.585.552/0001-71;24/08/2010;21000009863;R$ 177,84;Estimado;HIRAN ROEDEL;2121;Deputado Federal;PCB;RJ;
-Diretório Nacional;01.585.552/0001-71;19/08/2010;21000009861;R$ 959,04;Estimado;HIRAN ROEDEL;2121;Deputado Federal;PCB;RJ;
-HIRAN ROEDEL;636.751.967-04;08/09/2010;21000009864;R$ 420,00;Depósito em espécie;HIRAN ROEDEL;2121;Deputado Federal;PCB;RJ;
-HIRAN ROEDEL;636.751.967-04;21/09/2010;21000009865;R$ 1.100,00;Estimado;HIRAN ROEDEL;2121;Deputado Federal;PCB;RJ;
-IVAN PINHEIRO;12.198.076/0001-52;21/08/2010;21000009862;R$ 959,04;Estimado;HIRAN ROEDEL;2121;Deputado Federal;PCB;RJ;
-RAYMUNDO THEODORO CARVALHO DE OLIVEIRA;023.630.207-82;14/09/2010;21000009866;R$ 500,00;Depósito em espécie;HIRAN ROEDEL;2121;Deputado Federal;PCB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Nacional;01.585.552/0001-71;19/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 959,04;Estimado;Direção Nacional - PCB -  / 2121 - HIRAN ROEDEL - RJ - Deputado Federal;
+Diretório Nacional;01.585.552/0001-71;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 177,84;Estimado;Direção Nacional - PCB -  / 2121 - HIRAN ROEDEL - RJ - Deputado Federal;
+HIRAN ROEDEL;636.751.967-04;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.100,00;Estimado; -  -  / 2121 - HIRAN ROEDEL - RJ - Deputado Federal;
+INFORMASTER SUPRIMENTOS DE INFORMATICA LTDA ME;01.581.315/0001-32;08/09/2010;       Publicidade por materiais impressos;R$ 420,00;Cheque; -  -  / 2121 - HIRAN ROEDEL - RJ - Deputado Federal;
+IVAN PINHEIRO;12.198.076/0001-52;21/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 959,04;Estimado;21 -  - PCB -  - Presidente / 2121 - HIRAN ROEDEL - RJ - Deputado Federal;

@@ -1,6 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.205.213/0001-39;03/09/2010;40002208553;R$ 1.197,84;Outros títulos de crédito;LESSANDRO GRAZIANE RODRIGUES RIBEIRO;40810;Deputado Estadual;PSB;MG;
-Diretório Estadual/Distrital;12.205.213/0001-39;30/08/2010;40002208552;R$ 508,00;Outros títulos de crédito;LESSANDRO GRAZIANE RODRIGUES RIBEIRO;40810;Deputado Estadual;PSB;MG;
-Diretório Estadual/Distrital;12.205.213/0001-39;30/09/2010;40002208554;R$ 27,95;Outros títulos de crédito;LESSANDRO GRAZIANE RODRIGUES RIBEIRO;40810;Deputado Estadual;PSB;MG;
-Diretório Estadual/Distrital;12.205.213/0001-39;14/09/2010;40002208551;R$ 1.500,00;Cheque;LESSANDRO GRAZIANE RODRIGUES RIBEIRO;40810;Deputado Estadual;PSB;MG;
-LESSANDRO GRAZIANE RODRIGUES RIBEIRO;070.063.796-60;16/08/2010;40002203926;R$ 120,00;Depósito em espécie;LESSANDRO GRAZIANE RODRIGUES RIBEIRO;40810;Deputado Estadual;PSB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+COMITÊ FINANCEIRO UNICO PSB;12.205.213/0001-39;30/09/2010;       Publicidade por materiais impressos;R$ 27,95;Não informado; -  -  / 40810 - LESSANDRO GRAZIANE RODRIGUES RIBEIRO - MG - Deputado Estadual;
+COMITÊ FINANCEIRO UNICO PSB;12.205.213/0001-39;30/08/2010;       Publicidade por materiais impressos;R$ 508,00;Não informado; -  -  / 40810 - LESSANDRO GRAZIANE RODRIGUES RIBEIRO - MG - Deputado Estadual;
+COMITÊ FINANCEIRO UNICO PSB;12.205.213/0001-39;03/09/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 1.197,84;Não informado; -  -  / 40810 - LESSANDRO GRAZIANE RODRIGUES RIBEIRO - MG - Deputado Estadual;
+GRACIETE;250.643.473-91;17/09/2010;       Despesas com pessoal;R$ 230,00;Cheque; -  -  / 40810 - LESSANDRO GRAZIANE RODRIGUES RIBEIRO - MG - Deputado Estadual;
+JUNIOR;095.369.896-38;20/09/2010;       Despesas com pessoal;R$ 230,00;Cheque; -  -  / 40810 - LESSANDRO GRAZIANE RODRIGUES RIBEIRO - MG - Deputado Estadual;
+LEANDRO;048.746.226-23;09/09/2010;       Despesas com pessoal;R$ 80,00;Cheque; -  -  / 40810 - LESSANDRO GRAZIANE RODRIGUES RIBEIRO - MG - Deputado Estadual;
+MARCO;732.020.536-04;28/09/2010;       Despesas com pessoal;R$ 90,00;Cheque; -  -  / 40810 - LESSANDRO GRAZIANE RODRIGUES RIBEIRO - MG - Deputado Estadual;
+MARCOS VINICIUS;066.883.786-12;28/09/2010;       Despesas com pessoal;R$ 130,00;Cheque; -  -  / 40810 - LESSANDRO GRAZIANE RODRIGUES RIBEIRO - MG - Deputado Estadual;
+PETRO SERRA AUTO POSTO LTDA;09.264.999/0001-50;21/09/2010;       Combustíveis e lubrificantes;R$ 99,00;Cheque; -  -  / 40810 - LESSANDRO GRAZIANE RODRIGUES RIBEIRO - MG - Deputado Estadual;
+TARDELE;102.983.916-60;17/08/2010;       Despesas com pessoal;R$ 700,00;Cheque; -  -  / 40810 - LESSANDRO GRAZIANE RODRIGUES RIBEIRO - MG - Deputado Estadual;
+;;30/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,50;Débito em conta; -  -  / 40810 - LESSANDRO GRAZIANE RODRIGUES RIBEIRO - MG - Deputado Estadual;

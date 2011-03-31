@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 CESAR EPITACIO MAIA;12.176.116/0001-65;20/07/2010;25000168973;R$ 249,50;Estimado;VITOR CESAR FERREIRA VARGAS;25888;Deputado Estadual;DEM;RJ;
-RENATO CESAR DE OLIVEIRA VARGAS;025.820.637-38;23/08/2010;25000168974;R$ 1.200,00;Estimado;VITOR CESAR FERREIRA VARGAS;25888;Deputado Estadual;DEM;RJ;
-VITOR CESAR FERREIRA VARGAS;006.159.307-94;29/09/2010;25000168976;R$ 1.000,00;Depósito em espécie;VITOR CESAR FERREIRA VARGAS;25888;Deputado Estadual;DEM;RJ;
-VITOR CESAR FERREIRA VARGAS;006.159.307-94;15/09/2010;25000168975;R$ 15.000,00;Depósito em espécie;VITOR CESAR FERREIRA VARGAS;25888;Deputado Estadual;DEM;RJ;
-VITOR CESAR FERREIRA VARGAS;006.159.307-94;04/10/2010;25000168977;R$ 22.000,00;Depósito em espécie;VITOR CESAR FERREIRA VARGAS;25888;Deputado Estadual;DEM;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 CESAR EPITACIO MAIA;12.176.116/0001-65;20/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 249,50;Estimado;251 -  - DEM -  - Senador / 25888 - VITOR CESAR FERREIRA VARGAS - RJ - Deputado Estadual;
+M. R. CEDA IMPRESSOS LTDA;40.166.704/0001-53;21/09/2010;       Publicidade por materiais impressos;R$ 5.600,00;Cheque; -  -  / 25888 - VITOR CESAR FERREIRA VARGAS - RJ - Deputado Estadual;
+M. R. CEDA IMPRESSOS LTDA;40.166.704/0001-53;21/09/2010;       Publicidade por materiais impressos;R$ 1.700,00;Cheque; -  -  / 25888 - VITOR CESAR FERREIRA VARGAS - RJ - Deputado Estadual;
+NELSON DE SOUZA OLIVEIRA;023.482.737-80;08/10/2010;       Despesas com pessoal;R$ 855,00;Cheque; -  -  / 25888 - VITOR CESAR FERREIRA VARGAS - RJ - Deputado Estadual;
+RENATO CESAR DE OLIVEIRA VARGAS;025.820.637-38;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.200,00;Estimado; -  -  / 25888 - VITOR CESAR FERREIRA VARGAS - RJ - Deputado Estadual;

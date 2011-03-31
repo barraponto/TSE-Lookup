@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;28000183016;R$ 150,00;Estimado;SÉRGIO LUIZ DA ROCHA FERREIRA;28628;Deputado Estadual;PRTB;RJ;
-Comitê Financeiro Único;12.176.626/0001-32;01/10/2010;28000183018;R$ 17,00;Estimado;SÉRGIO LUIZ DA ROCHA FERREIRA;28628;Deputado Estadual;PRTB;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;28000183017;R$ 150,00;Estimado;SÉRGIO LUIZ DA ROCHA FERREIRA;28628;Deputado Estadual;PRTB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 28628 - SÉRGIO LUIZ DA ROCHA FERREIRA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 28628 - SÉRGIO LUIZ DA ROCHA FERREIRA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.176.626/0001-32;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;Comitê Financeiro Único - PMDB -  / 28628 - SÉRGIO LUIZ DA ROCHA FERREIRA - RJ - Deputado Estadual;

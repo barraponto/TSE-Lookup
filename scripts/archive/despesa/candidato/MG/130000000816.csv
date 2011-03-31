@@ -1,5 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSE REINALDO DE LIMA;12.173.656/0001-95;04/09/2010;43001705653;R$ 60,00;Estimado;MARIA IMACULADA COSTANTIN;43777;Deputado Estadual;PV;MG;
-MARIA IMACULADA COSTANTIN;277.350.106-30;25/10/2010;43001705657;R$ 1.470,00;Depósito em espécie;MARIA IMACULADA COSTANTIN;43777;Deputado Estadual;PV;MG;
-MARIA IMACULADA COSTANTIN;277.350.106-30;23/08/2010;43001705655;R$ 500,00;Depósito em espécie;MARIA IMACULADA COSTANTIN;43777;Deputado Estadual;PV;MG;
-MARIA IMACULADA COSTANTIN;277.350.106-30;30/08/2010;43001705656;R$ 100,00;Depósito em espécie;MARIA IMACULADA COSTANTIN;43777;Deputado Estadual;PV;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA DANIELA;16.812.992/0001-91;25/10/2010;       Publicidade por materiais impressos;R$ 480,00;Cheque; -  -  / 43777 - MARIA IMACULADA COSTANTIN - MG - Deputado Estadual;
+ITAU  DE ARRENDAMENTO MERCANTIL;19.925.225/0001-48;23/08/2010;       Locação/cessão de bens móveis;R$ 390,41;Cheque; -  -  / 43777 - MARIA IMACULADA COSTANTIN - MG - Deputado Estadual;
+JOSE ACIR BATISTA GUIMARAES;010.007.726-91;15/09/2010;       Serviços prestados por terceiros;R$ 1.000,00;Cheque; -  -  / 43777 - MARIA IMACULADA COSTANTIN - MG - Deputado Estadual;
+JOSE REINALDO DE LIMA;12.173.656/0001-95;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 60,00;Estimado;4309 -  - PV -  - Deputado Federal / 43777 - MARIA IMACULADA COSTANTIN - MG - Deputado Estadual;
+NIC.BR;05.506.560/0001-36;30/08/2010;       Criação e inclusão de páginas na internet;R$ 30,00;Cheque; -  -  / 43777 - MARIA IMACULADA COSTANTIN - MG - Deputado Estadual;
+POSTO AVENIDA;21.254.958/0005-02;04/09/2010;       Combustíveis e lubrificantes;R$ 60,00;Cheque; -  -  / 43777 - MARIA IMACULADA COSTANTIN - MG - Deputado Estadual;
+TNL PCS S.A;04.164.616/0003-10;26/08/2010;       Criação e inclusão de páginas na internet;R$ 106,06;Cheque; -  -  / 43777 - MARIA IMACULADA COSTANTIN - MG - Deputado Estadual;

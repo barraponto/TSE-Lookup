@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;05.055.973/0001-41;24/09/2010;36000064103;R$ 200,00;Estimado;JOSE ROBERTO DA SILVA BARBOSA;36190;Deputado Estadual;PTC;PE;
-Diretório Estadual/Distrital;05.055.973/0001-41;27/09/2010;36000064102;R$ 728,00;Estimado;JOSE ROBERTO DA SILVA BARBOSA;36190;Deputado Estadual;PTC;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;05.055.973/0001-41;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;Direção Estadual/Distrital - PTC -  / 36190 - JOSE ROBERTO DA SILVA BARBOSA - PE - Deputado Estadual;
+Diretório Estadual/Distrital;05.055.973/0001-41;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 728,00;Estimado;Direção Estadual/Distrital - PTC -  / 36190 - JOSE ROBERTO DA SILVA BARBOSA - PE - Deputado Estadual;

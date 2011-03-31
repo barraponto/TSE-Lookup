@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;04/09/2010;40000999101;R$ 150,00;Estimado;ANTONIO CELSO PATE;40762;Deputado Estadual;PSB;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;40000999104;R$ 150,00;Estimado;ANTONIO CELSO PATE;40762;Deputado Estadual;PSB;RJ;
-Diretório Estadual/Distrital;01.669.171/0001-70;29/09/2010;40000999103;R$ 392,15;Estimado;ANTONIO CELSO PATE;40762;Deputado Estadual;PSB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 40762 - ANTONIO CELSO PATE - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 40762 - ANTONIO CELSO PATE - RJ - Deputado Estadual;
+Diretório Estadual/Distrital;01.669.171/0001-70;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 392,15;Estimado;Direção Estadual/Distrital - PSB -  / 40762 - ANTONIO CELSO PATE - RJ - Deputado Estadual;

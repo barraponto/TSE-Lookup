@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.118/0001-42;22/09/2010;14000135603;R$ 641,00;Estimado;MARIA ALDENIR GOMES SENA;14111;Deputado Estadual;PTB;MA;
-PEDRO FERNANDES RIBEIRO;12.169.916/0001-59;25/08/2010;14000135601;R$ 300,00;Estimado;MARIA ALDENIR GOMES SENA;14111;Deputado Estadual;PTB;MA;
-PEDRO FERNANDES RIBEIRO;12.169.916/0001-59;22/09/2010;14000135602;R$ 740,00;Estimado;MARIA ALDENIR GOMES SENA;14111;Deputado Estadual;PTB;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.118/0001-42;22/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 641,00;Estimado;Comitê Financeiro Único - PTB -  / 14111 - MARIA ALDENIR GOMES SENA - MA - Deputado Estadual;
+PEDRO FERNANDES RIBEIRO;12.169.916/0001-59;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;1414 -  - PTB -  - Deputado Federal / 14111 - MARIA ALDENIR GOMES SENA - MA - Deputado Estadual;
+PEDRO FERNANDES RIBEIRO;12.169.916/0001-59;22/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 740,00;Estimado;1414 -  - PTB -  - Deputado Federal / 14111 - MARIA ALDENIR GOMES SENA - MA - Deputado Estadual;

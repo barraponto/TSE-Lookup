@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS EDUARDO MEDEIROS DA FONSECA;503.342.394-00;25/08/2010;12001067125;R$ 360,00;Depósito em espécie;RICARDO LUIZ MEDEIROS DA FONSECA;12222;Deputado Estadual;PDT;RN;
-LEDA MARIA MIRANDA DE ANDRADE;157.158.254-15;09/09/2010;12001067126;R$ 500,00;Depósito em espécie;RICARDO LUIZ MEDEIROS DA FONSECA;12222;Deputado Estadual;PDT;RN;
-RICARDO LUIZ MEDEIROS DA FONSECA;565.332.254-72;20/09/2010;12001067127;R$ 450,00;Depósito em espécie;RICARDO LUIZ MEDEIROS DA FONSECA;12222;Deputado Estadual;PDT;RN;
-RICARDO LUIZ MEDEIROS DA FONSECA;565.332.254-72;22/09/2010;12001067128;R$ 1.000,00;Depósito em espécie;RICARDO LUIZ MEDEIROS DA FONSECA;12222;Deputado Estadual;PDT;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GILSON BUFFET LTDA - ME;70.025.259/0001-72;22/09/2010;       Alimentação;R$ 1.000,00;Cheque; -  -  / 12222 - RICARDO LUIZ MEDEIROS DA FONSECA - RN - Deputado Estadual;
+J. SILVA DOS SANTOS;12.308.735/0001-66;25/08/2010;       Publicidade por materiais impressos;R$ 360,00;Cheque; -  -  / 12222 - RICARDO LUIZ MEDEIROS DA FONSECA - RN - Deputado Estadual;
+LM SERVGRAFICA E COPIADORA LTDA - ME;07.805.649/0001-29;09/09/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 12222 - RICARDO LUIZ MEDEIROS DA FONSECA - RN - Deputado Estadual;
+OSSIAN SILVA FONSECA;02.574.121/0001-72;08/10/2010;       Publicidade por materiais impressos;R$ 450,00;Cheque; -  -  / 12222 - RICARDO LUIZ MEDEIROS DA FONSECA - RN - Deputado Estadual;

@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.322/0001-56;10/08/2010;12101863902;R$ 3.639,86;Estimado;MARCUS VINICIUS COHEN DE SOUZA;1277;Deputado Federal;PDT;RJ;
-ELEIÇÕES 2010 BRUNO BARBOS CORREIA;12.170.580/0001-44;28/09/2010;12101863905;R$ 5.000,00;Cheque;MARCUS VINICIUS COHEN DE SOUZA;1277;Deputado Federal;PDT;RJ;
-ELEIÇOES 2010 TÚLIO BASTOS BARBOSA;12.198.328/0001-43;30/09/2010;12101863903;R$ 1.000,00;Estimado;MARCUS VINICIUS COHEN DE SOUZA;1277;Deputado Federal;PDT;RJ;
-ELEIÇÕES 2010 TÚLIO BASTOS BARBOSA;12.198.328/0001-43;30/09/2010;12101863904;R$ 500,00;Estimado;MARCUS VINICIUS COHEN DE SOUZA;1277;Deputado Federal;PDT;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANDERSON DE AZEVEDO RODRIGUES;083.417.217-83;30/09/2010;       Despesas com pessoal;R$ 5.000,00;Transferência eletrônica; -  -  / 1277 - MARCUS VINICIUS COHEN DE SOUZA - RJ - Deputado Federal;
+Comitê Financeiro Único;12.205.322/0001-56;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.639,86;Estimado;Comitê Financeiro Único - PDT -  / 1277 - MARCUS VINICIUS COHEN DE SOUZA - RJ - Deputado Federal;
+ELEIÇOES 2010 TÚLIO BASTOS BARBOSA;12.198.328/0001-43;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;12111 -  - PDT -  - Deputado Estadual / 1277 - MARCUS VINICIUS COHEN DE SOUZA - RJ - Deputado Federal;
+ELEIÇÕES 2010 TÚLIO BASTOS BARBOSA;12.198.328/0001-43;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;12111 -  - PDT -  - Deputado Estadual / 1277 - MARCUS VINICIUS COHEN DE SOUZA - RJ - Deputado Federal;

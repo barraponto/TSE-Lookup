@@ -1,2 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELSON CELIO DA SILVA COSTA;238.470.262-91;01/09/2010;43001901996;R$ 1.000,00;Depósito em espécie;ELSON CELIO DA SILVA COSTA;4345;Deputado Federal;PV;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+FE COMBUSTIVEIS E DERIVADOS DE PETROLEO LTDA;08.219.844/0001-30;13/09/2010;       Combustíveis e lubrificantes;R$ 290,00;Cheque; -  -  / 4345 - ELSON CELIO DA SILVA COSTA - AM - Deputado Federal;
+IVAN WILLIAMS DA SILVA;599.713.982-49;01/09/2010;       Serviços prestados por terceiros;R$ 230,00;Cheque; -  -  / 4345 - ELSON CELIO DA SILVA COSTA - AM - Deputado Federal;
+MARCA BRASIL COM. E SERV. GRAFICOS LTDA EPP;06.889.405/0001-09;01/09/2010;       Serviços prestados por terceiros;R$ 280,00;Cheque; -  -  / 4345 - ELSON CELIO DA SILVA COSTA - AM - Deputado Federal;
+RC SA DA SILVA GRAFICA ME;05.408.231/0001-52;04/09/2010;       Serviços prestados por terceiros;R$ 200,00;Cheque; -  -  / 4345 - ELSON CELIO DA SILVA COSTA - AM - Deputado Federal;

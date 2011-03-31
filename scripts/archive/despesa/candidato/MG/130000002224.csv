@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.372.871/0001-15;31/08/2010;12001671851;R$ 1.320,00;Estimado;COSME DAMIAO CORREA;12615;Deputado Estadual;PDT;MG;
-Comitê Financeiro Único;12.372.871/0001-15;29/07/2010;12001671852;R$ 1.197,84;Estimado;COSME DAMIAO CORREA;12615;Deputado Estadual;PDT;MG;
-Comitê Financeiro Único;12.372.871/0001-15;20/09/2010;12001671853;R$ 500,00;Cheque;COSME DAMIAO CORREA;12615;Deputado Estadual;PDT;MG;
-HAROLDO DARTAGNAN DE CARVALHO;12.235.242/0001-43;27/09/2010;12001671854;R$ 500,00;Estimado;COSME DAMIAO CORREA;12615;Deputado Estadual;PDT;MG;
-HAROLDO DARTAGNAN DE CARVALHO;12.235.242/0001-43;02/09/2010;12001671856;R$ 214,55;Estimado;COSME DAMIAO CORREA;12615;Deputado Estadual;PDT;MG;
-HAROLDO DARTAGNAN DE CARVALHO;12.235.242/0001-43;02/09/2010;12001671857;R$ 103,60;Estimado;COSME DAMIAO CORREA;12615;Deputado Estadual;PDT;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.372.871/0001-15;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.320,00;Estimado;Comitê Financeiro Único - PDT -  / 12615 - COSME DAMIAO CORREA - MG - Deputado Estadual;
+Comitê Financeiro Único;12.372.871/0001-15;29/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.197,84;Estimado;Comitê Financeiro Único - PDT -  / 12615 - COSME DAMIAO CORREA - MG - Deputado Estadual;
+HAROLDO DARTAGNAN DE CARVALHO;12.235.242/0001-43;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;1280 -  - PDT -  - Deputado Federal / 12615 - COSME DAMIAO CORREA - MG - Deputado Estadual;
+HAROLDO DARTAGNAN DE CARVALHO;12.235.242/0001-43;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 214,55;Estimado;1280 -  - PDT -  - Deputado Federal / 12615 - COSME DAMIAO CORREA - MG - Deputado Estadual;
+HAROLDO DARTAGNAN DE CARVALHO;12.235.242/0001-43;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 103,60;Estimado;1280 -  - PDT -  - Deputado Federal / 12615 - COSME DAMIAO CORREA - MG - Deputado Estadual;
+SEBASTIÃO BALBINO ALVES;257.401.056-68;24/09/2010;       Serviços prestados por terceiros;R$ 500,00;Cheque; -  -  / 12615 - COSME DAMIAO CORREA - MG - Deputado Estadual;

@@ -1,2 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-RONALDO VASCONCELLOS NOVAIS;12.170.805/0001-62;17/09/2010;43001704901;R$ 1.500,00;Cheque;ALEXANDER NERY SANT ANNA;4332;Deputado Federal;PV;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+LUCIANA OLINDA BATISTA;043.134.256-32;22/09/2010;       Despesas com pessoal;R$ 297,00;Transferência eletrônica; -  -  / 4332 - ALEXANDER NERY SANT ANNA - MG - Deputado Federal;
+THAIS OSANA BATISTA;012.591.526-85;20/09/2010;       Despesas com pessoal;R$ 1.200,00;Transferência eletrônica; -  -  / 4332 - ALEXANDER NERY SANT ANNA - MG - Deputado Federal;
+;;20/09/2010;       Encargos financeiros e taxas bancárias;R$ 3,00;Débito em conta; -  -  / 4332 - ALEXANDER NERY SANT ANNA - MG - Deputado Federal;

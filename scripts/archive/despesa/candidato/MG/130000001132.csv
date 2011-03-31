@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.154.851/0001-78;15/09/2010;36000000501;R$ 1.180,00;Estimado;ADÃO PEREIRA MARQUES;36368;Deputado Estadual;PTC;MG;
-FLAVIO BRASIL MARZANO;12.179.497/0001-36;24/08/2010;36000000502;R$ 200,00;Estimado;ADÃO PEREIRA MARQUES;36368;Deputado Estadual;PTC;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.154.851/0001-78;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.180,00;Estimado;Comitê Financeiro Único - PT do B -  / 36368 - ADÃO PEREIRA MARQUES - MG - Deputado Estadual;
+FLAVIO BRASIL MARZANO;12.179.497/0001-36;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;3637 -  - PTC -  - Deputado Federal / 36368 - ADÃO PEREIRA MARQUES - MG - Deputado Estadual;

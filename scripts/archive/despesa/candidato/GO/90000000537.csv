@@ -1,2 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEICAO 2010  JOSE ANTONIO ALVES DEPUTADO ESTADUAL;292.089.711-04;22/09/2010;19000016902;R$ 3.000,00;Transferência eletrônica;JOSE ANTONIO ALVES;19193;Deputado Estadual;PTN;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA MODERNA;08.965.687/0001-01;20/09/2010;       Publicidade por materiais impressos;R$ 580,00;Cheque; -  -  / 19193 - JOSE ANTONIO ALVES - GO - Deputado Estadual;
+GRAFICA MODERNA;08.965.687/0001-01;13/08/2010;       Publicidade por materiais impressos;R$ 1.700,00;Cheque; -  -  / 19193 - JOSE ANTONIO ALVES - GO - Deputado Estadual;
+GRAFICA MODERNA;08.965.687/0001-01;28/09/2010;       Publicidade por materiais impressos;R$ 460,00;Cheque; -  -  / 19193 - JOSE ANTONIO ALVES - GO - Deputado Estadual;
+JANDUI FERREIRA;817.117.271-72;28/09/2010;       Produção de jingles, vinhetas e slogans;R$ 10,00;Cheque; -  -  / 19193 - JOSE ANTONIO ALVES - GO - Deputado Estadual;
+LUIS ALBERTO DA COSTA;10.799.244/0001-30;23/09/2010;       Publicidade por materiais impressos;R$ 250,00;Cheque; -  -  / 19193 - JOSE ANTONIO ALVES - GO - Deputado Estadual;

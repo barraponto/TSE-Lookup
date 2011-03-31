@@ -1,2 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;33.642.422/0001-10;16/09/2010;28000739801;R$ 20.000,00;Cheque;CHANTER LANE PEREIRA DE ALMEIDA;28453;Deputado Estadual;PRTB;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+FERNANDA DIVINA ESPIRITO SANTO COSTA;968.117.651-00;21/09/2010;       Despesas com pessoal;R$ 5.000,00;Cheque; -  -  / 28453 - CHANTER LANE PEREIRA DE ALMEIDA - GO - Deputado Estadual;
+RICHARD ANDERSON BENFICA DE SOUSA;946.640.051-72;21/09/2010;       Despesas com pessoal;R$ 5.000,00;Cheque; -  -  / 28453 - CHANTER LANE PEREIRA DE ALMEIDA - GO - Deputado Estadual;
+WELCIMAR MACHADO PEREIRA;953.130.521-87;20/09/2010;       Cessão ou Locação de Veículos;R$ 10.000,00;Cheque; -  -  / 28453 - CHANTER LANE PEREIRA DE ALMEIDA - GO - Deputado Estadual;

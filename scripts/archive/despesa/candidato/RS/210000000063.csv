@@ -1,2 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-BEATRIZ GERHARDT;686.314.050-00;16/09/2010;50000478051;R$ 609,00;Transferência eletrônica;GERSON LUIS ROLIM;50789;Deputado Estadual;PSOL;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BEATRIZ GERHARDT;686.314.050-00;16/09/2010;       Publicidade por materiais impressos;R$ 21,00;Transferência eletrônica; -  -  / 50789 - GERSON LUIS ROLIM - RS - Deputado Estadual;
+CONDOR ARTES GRAFICAS DE THIAGO D. ANGELLOS;10.449.144/0001-83;16/09/2010;       Publicidade por materiais impressos;R$ 588,00;Cheque; -  -  / 50789 - GERSON LUIS ROLIM - RS - Deputado Estadual;

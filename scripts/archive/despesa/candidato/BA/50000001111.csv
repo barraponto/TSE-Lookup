@@ -1,3 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CLÍNICA MONTE SINAI;40.614.877/0001-97;27/09/2010;17000011602;R$ 500,00;Cheque;ZEILDA ALVES BONFIM;17500;Deputado Estadual;PSL;BA;
-JORGE SANTOS NASCIMENTO;271.734.295-87;29/07/2010;17000011601;R$ 500,00;Depósito em espécie;ZEILDA ALVES BONFIM;17500;Deputado Estadual;PSL;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+TEIXEIRA SOBRAL PRODUÇÔES GRÁFICAS  LTDA - ME;02.309.488/0001-69;27/09/2010;       Publicidade por materiais impressos;R$ 900,00;Cheque; -  -  / 17500 - ZEILDA ALVES BONFIM - BA - Deputado Estadual;

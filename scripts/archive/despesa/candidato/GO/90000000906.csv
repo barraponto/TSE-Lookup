@@ -1,6 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.099/0001-54;20/09/2010;13000652003;R$ 325,00;Estimado;MARCOS AURÉLIO BARBOSA DA SILVEIRA;1370;Deputado Federal;PT;GO;
-Comitê Financeiro Único;12.200.099/0001-54;02/10/2010;13000652005;R$ 1.612,90;Estimado;MARCOS AURÉLIO BARBOSA DA SILVEIRA;1370;Deputado Federal;PT;GO;
-Comitê Financeiro Único;12.200.099/0001-54;13/08/2010;13000652001;R$ 650,00;Estimado;MARCOS AURÉLIO BARBOSA DA SILVEIRA;1370;Deputado Federal;PT;GO;
-MARCOS AURELIO BARBOSA DA SILVEIRA;138.692.051-72;12/08/2010;13000652002;R$ 0,13;Depósito em espécie;MARCOS AURÉLIO BARBOSA DA SILVEIRA;1370;Deputado Federal;PT;GO;
-MAURO RUBEM;01.013.775/0001-64;13/10/2010;13000652007;R$ 335,00;Estimado;MARCOS AURÉLIO BARBOSA DA SILVEIRA;1370;Deputado Federal;PT;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.099/0001-54;13/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 650,00;Estimado;Comitê Financeiro Único - PT -  / 1370 - MARCOS AURÉLIO BARBOSA DA SILVEIRA - GO - Deputado Federal;
+Comitê Financeiro Único;12.200.099/0001-54;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.612,90;Estimado;Comitê Financeiro Único - PT -  / 1370 - MARCOS AURÉLIO BARBOSA DA SILVEIRA - GO - Deputado Federal;
+Comitê Financeiro Único;12.200.099/0001-54;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 325,00;Estimado;Comitê Financeiro Único - PT -  / 1370 - MARCOS AURÉLIO BARBOSA DA SILVEIRA - GO - Deputado Federal;
+MAURO RUBEM;01.013.775/0001-64;13/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 335,00;Estimado;13789 -  - PT -  - Deputado Estadual / 1370 - MARCOS AURÉLIO BARBOSA DA SILVEIRA - GO - Deputado Federal;

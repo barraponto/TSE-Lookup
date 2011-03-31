@@ -1,6 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO BARBOSA DE LIMA;146.441.934-53;31/08/2010;50000310232;R$ 500,00;Depósito em espécie;EMERSON LIRA NASCIMENTO;50200;Deputado Estadual;PSOL;PB;
-EMERSON LIRA;062.654.024-04;01/10/2010;50000310235;R$ 0,35;Depósito em espécie;EMERSON LIRA NASCIMENTO;50200;Deputado Estadual;PSOL;PB;
-MANOEL BARBOSA FILHO;008.869.556-53;13/09/2010;50000310236;R$ 150,00;Cheque;EMERSON LIRA NASCIMENTO;50200;Deputado Estadual;PSOL;PB;
-MARIA DE LOURDES TAVARES DOS SANTOS;207.497.674-72;31/08/2010;50000310231;R$ 1.000,00;Depósito em espécie;EMERSON LIRA NASCIMENTO;50200;Deputado Estadual;PSOL;PB;
-ULISSES ALBERTO DA SILVA;054.082.124-16;28/10/2010;50000310234;R$ 450,00;Depósito em espécie;EMERSON LIRA NASCIMENTO;50200;Deputado Estadual;PSOL;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GES GRAFICA EDITORA E SERVIÇOS LTDA;02.100.672/0001-02;13/09/2010;       Publicidade por materiais impressos;R$ 1.350,00;Cheque; -  -  / 50200 - EMERSON LIRA NASCIMENTO - PB - Deputado Estadual;
+MS - GRAFICA E EDITORA LTDA;09.588.675/0001-78;01/10/2010;       Publicidade por materiais impressos;R$ 450,00;Cheque; -  -  / 50200 - EMERSON LIRA NASCIMENTO - PB - Deputado Estadual;
+50200 - EMERSON LIRA - DEPUTADO ESTADUAL;12.169.927/0001-39;13/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 300,00;Cheque;Comitê Financeiro Único - PSOL - PB / 50200 - EMERSON LIRA NASCIMENTO - PB - Deputado Estadual;
+;;01/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 50200 - EMERSON LIRA NASCIMENTO - PB - Deputado Estadual;

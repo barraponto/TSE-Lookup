@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANA JULIA DE VASCONCELOS CAREPA;12.171.430/0001-55;02/10/2010;10000059893;R$ 500,00;Estimado;FRANCISCO ALVES BRAGA FILHO;10318;Deputado Estadual;PRB;PA;
-ANA JULIA DE VASCONCELOS CAREPA;12.171.430/0001-55;02/10/2010;10000059892;R$ 500,00;Estimado;FRANCISCO ALVES BRAGA FILHO;10318;Deputado Estadual;PRB;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANA JULIA DE VASCONCELOS CAREPA;12.171.430/0001-55;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;13 -  - PT -  - Governador / 10318 - FRANCISCO ALVES BRAGA FILHO - PA - Deputado Estadual;
+ANA JULIA DE VASCONCELOS CAREPA;12.171.430/0001-55;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;13 -  - PT -  - Governador / 10318 - FRANCISCO ALVES BRAGA FILHO - PA - Deputado Estadual;

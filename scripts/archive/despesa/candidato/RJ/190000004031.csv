@@ -1,6 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALEXANDRE JOSE FARAH;12.171.292/0001-04;04/08/2010;22000166851;R$ 5.500,00;Cheque;REGINALDO BOMFIM IELLAMO;22622;Deputado Estadual;PR;RJ;
-ALEXANDRE JOSE FARAH;12.171.292/0001-04;10/09/2010;22000166853;R$ 4.500,00;Cheque;REGINALDO BOMFIM IELLAMO;22622;Deputado Estadual;PR;RJ;
-ALEXNDRE JOSE FARAH;12.171.292/0001-04;20/08/2010;22000166852;R$ 2.000,00;Cheque;REGINALDO BOMFIM IELLAMO;22622;Deputado Estadual;PR;RJ;
-FERNANDO OTAVIO DE F PEREGRINO;12.176.027/0001-19;31/08/2010;22000166854;R$ 1.125,00;Estimado;REGINALDO BOMFIM IELLAMO;22622;Deputado Estadual;PR;RJ;
-FERNANDO OTAVIO DE F PEREGRINO;12.176.027/0001-19;01/10/2010;22000166855;R$ 350,00;Estimado;REGINALDO BOMFIM IELLAMO;22622;Deputado Estadual;PR;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALBERTO DA COSTA MACEDO;252.484.307-63;11/08/2010;       Serviços prestados por terceiros;R$ 2.700,00;Cheque; -  -  / 22622 - REGINALDO BOMFIM IELLAMO - RJ - Deputado Estadual;
+AMILTON P DE OLIVEIRA;020.985.367-04;30/08/2010;       Serviços prestados por terceiros;R$ 2.000,00;Cheque; -  -  / 22622 - REGINALDO BOMFIM IELLAMO - RJ - Deputado Estadual;
+FERNANDO OTAVIO DE F PEREGRINO;12.176.027/0001-19;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.125,00;Estimado;22 -  - PR -  - Governador / 22622 - REGINALDO BOMFIM IELLAMO - RJ - Deputado Estadual;
+FERNANDO OTAVIO DE F PEREGRINO;12.176.027/0001-19;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 350,00;Estimado;22 -  - PR -  - Governador / 22622 - REGINALDO BOMFIM IELLAMO - RJ - Deputado Estadual;
+HUGO MARTINS;121.357.837-06;18/08/2010;       Serviços prestados por terceiros;R$ 2.700,00;Cheque; -  -  / 22622 - REGINALDO BOMFIM IELLAMO - RJ - Deputado Estadual;
+ROGERIA BOMFIM IELLAMO;021.750.517-14;09/11/2010;       Despesas com pessoal;R$ 100,00;Cheque; -  -  / 22622 - REGINALDO BOMFIM IELLAMO - RJ - Deputado Estadual;
+TOBIAS LUIS S ISAAC;110.896.957-72;23/09/2010;       Serviços prestados por terceiros;R$ 4.500,00;Cheque; -  -  / 22622 - REGINALDO BOMFIM IELLAMO - RJ - Deputado Estadual;

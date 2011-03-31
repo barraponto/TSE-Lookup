@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.496/0001-07;20/09/2010;33000000110;R$ 339,00;Estimado;VANEIDE VIEIRA FERREIRA;33233;Deputado Estadual;PMN;PR;
-ELEIÇAO 2010 ALBERTO RICHA;12.190.887/0001-07;27/09/2010;33000000103;R$ 1.680,00;Transferência eletrônica;VANEIDE VIEIRA FERREIRA;33233;Deputado Estadual;PMN;PR;
-ELEIÇAO 2010 ALBERTO RICHA;12.190.887/0001-07;13/09/2010;33000000100;R$ 630,00;Estimado;VANEIDE VIEIRA FERREIRA;33233;Deputado Estadual;PMN;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CLAUDIO ISRAEL DA SILVA;832.465.099-72;01/10/2010;       Despesas com pessoal;R$ 1.680,00;Transferência eletrônica; -  -  / 33233 - VANEIDE VIEIRA FERREIRA - PR - Deputado Estadual;
+Comitê Financeiro Único;12.191.496/0001-07;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 339,00;Estimado;Comitê Financeiro Único - PMN -  / 33233 - VANEIDE VIEIRA FERREIRA - PR - Deputado Estadual;
+ELEIÇAO 2010 ALBERTO RICHA;12.190.887/0001-07;13/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 630,00;Estimado;45 -  - PSDB -  - Governador / 33233 - VANEIDE VIEIRA FERREIRA - PR - Deputado Estadual;

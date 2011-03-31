@@ -1,4 +1,4 @@
-Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
-JOSE RIBAMAR AGUIAR JUNIOR;144.273.383-72;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.000,00;Estimado; -  -  / Comitê Financeiro Único - PTC - CE;
-PAULO ROBERTO DA COSTA BEZERRA;443.595.603-97;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.530,00;Estimado; -  -  / Comitê Financeiro Único - PTC - CE;
-TERRA DA LUZ IMOVEIS LTDA;01.098.988/0001-36;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.600,00;Estimado; -  -  / Comitê Financeiro Único - PTC - CE;
+Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
+JOSE RIBAMAR AGUIAR JUNIOR;144.273.383-72;30/09/2010;36000077053;R$ 3.000,00;Estimado;Comitê Financeiro Único;PTC;CE;
+PAULO ROBERTO DA COSTA BEZERRA;443.595.603-97;30/09/2010;36000077052;R$ 1.530,00;Estimado;Comitê Financeiro Único;PTC;CE;
+TERRA DA LUZ IMOVEIS LTDA;01.098.988/0001-36;30/09/2010;36000077051;R$ 1.600,00;Estimado;Comitê Financeiro Único;PTC;CE;

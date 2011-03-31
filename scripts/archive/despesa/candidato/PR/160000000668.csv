@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.134.176/0001-15;20/09/2010;33000000399;R$ 250,00;Estimado;JOANA MACHADO DOS SANTOS;3379;Deputado Federal;PMN;PR;
-Comitê Financeiro Único;12.134.176/0001-15;25/09/2010;33000000401;R$ 565,00;Estimado;JOANA MACHADO DOS SANTOS;3379;Deputado Federal;PMN;PR;
-ELEIÇÃO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;18/08/2010;33000000394;R$ 630,00;Estimado;JOANA MACHADO DOS SANTOS;3379;Deputado Federal;PMN;PR;
-ELEIÇÃO 2010 CARLOS ALBETO RICHA;12.190.887/0001-07;30/09/2010;33000000400;R$ 1.680,00;Transferência eletrônica;JOANA MACHADO DOS SANTOS;3379;Deputado Federal;PMN;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.134.176/0001-15;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;Comitê Financeiro Único - PMN -  / 3379 - JOANA MACHADO DOS SANTOS - PR - Deputado Federal;
+Comitê Financeiro Único;12.134.176/0001-15;25/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 565,00;Estimado;Comitê Financeiro Único - PMN -  / 3379 - JOANA MACHADO DOS SANTOS - PR - Deputado Federal;
+ELEIÇÃO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 630,00;Estimado;45 -  - PSDB -  - Governador / 3379 - JOANA MACHADO DOS SANTOS - PR - Deputado Federal;
+MALVINA APARECIDA LE LARA BORBA;830.175.349-87;30/09/2010;       Cessão ou Locação de Veículos;R$ 1.680,00;Transferência eletrônica; -  -  / 3379 - JOANA MACHADO DOS SANTOS - PR - Deputado Federal;

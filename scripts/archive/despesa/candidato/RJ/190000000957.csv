@@ -1,6 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MARIA DO SOCORRO DE SOUZA CARVALHO;806.224.457-15;04/08/2010;12000062111;R$ 1.600,00;Depósito em espécie;MARIA DO SOCORRO DE SOUZA CARVALHO;12490;Deputado Estadual;PDT;RJ;
-MARIA DO SOCORRO DE SOUZA CARVALHO;806.224.457-15;06/09/2010;12000062112;R$ 500,00;Depósito em espécie;MARIA DO SOCORRO DE SOUZA CARVALHO;12490;Deputado Estadual;PDT;RJ;
-MARIA DO SOCORRO DE SOUZA CARVALHO;806.224.457-15;19/10/2010;12000062115;R$ 4,50;Depósito em espécie;MARIA DO SOCORRO DE SOUZA CARVALHO;12490;Deputado Estadual;PDT;RJ;
-MARIA DO SOCORRO DE SOUZA CARVALHO;806.224.457-15;27/09/2010;12000062114;R$ 610,00;Depósito em espécie;MARIA DO SOCORRO DE SOUZA CARVALHO;12490;Deputado Estadual;PDT;RJ;
-MARIA DO SOCORRO DE SOUZA CARVALHO;806.224.457-15;27/09/2010;12000062113;R$ 600,00;Depósito em espécie;MARIA DO SOCORRO DE SOUZA CARVALHO;12490;Deputado Estadual;PDT;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALINE  DA  SILVA  OLIVEIRA;100.903.227-54;27/09/2010;       Despesas com pessoal;R$ 1.000,00;Transferência eletrônica; -  -  / 12490 - MARIA DO SOCORRO DE SOUZA CARVALHO - RJ - Deputado Estadual;
+ALINE  DA  SILVA  OLIVEIRA;100.903.227-54;05/08/2010;       Despesas com pessoal;R$ 200,00;Cheque; -  -  / 12490 - MARIA DO SOCORRO DE SOUZA CARVALHO - RJ - Deputado Estadual;
+ALINE  DA  SILVA  OLIVEIRA;100.903.227-54;11/08/2010;       Despesas com pessoal;R$ 720,00;Cheque; -  -  / 12490 - MARIA DO SOCORRO DE SOUZA CARVALHO - RJ - Deputado Estadual;
+ALINE  DA  SILVA  OLIVEIRA;100.903.227-54;06/09/2010;       Despesas com pessoal;R$ 200,00;Transferência eletrônica; -  -  / 12490 - MARIA DO SOCORRO DE SOUZA CARVALHO - RJ - Deputado Estadual;
+JOSE RAIMUNDO TAVARES DE MORAES;932.603.008-30;28/09/2010;       Serviços prestados por terceiros;R$ 255,50;Transferência eletrônica; -  -  / 12490 - MARIA DO SOCORRO DE SOUZA CARVALHO - RJ - Deputado Estadual;
+JOSE RAIMUNDO TAVARES DE MORAES;932.603.008-30;06/09/2010;       Serviços prestados por terceiros;R$ 300,00;Transferência eletrônica; -  -  / 12490 - MARIA DO SOCORRO DE SOUZA CARVALHO - RJ - Deputado Estadual;
+JOSE RAIMUNDO TAVARES DE MORAES;932.603.008-30;05/08/2010;       Serviços prestados por terceiros;R$ 300,00;Transferência eletrônica; -  -  / 12490 - MARIA DO SOCORRO DE SOUZA CARVALHO - RJ - Deputado Estadual;
+SIGNS BLUE EVENTOS E PROMOÇÕES LTDA.;08.293.353/0001-39;12/08/2010;       Publicidade por placas, estandartes e faixas;R$ 330,00;Cheque; -  -  / 12490 - MARIA DO SOCORRO DE SOUZA CARVALHO - RJ - Deputado Estadual;
+;;08/09/2010;       Encargos financeiros e taxas bancárias;R$ 4,50;Débito em conta; -  -  / 12490 - MARIA DO SOCORRO DE SOUZA CARVALHO - RJ - Deputado Estadual;

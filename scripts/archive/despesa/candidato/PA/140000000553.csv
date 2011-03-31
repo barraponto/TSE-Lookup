@@ -1,9 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELIZEU GOMES DE OLIVEIRA;300.175.482-68;15/08/2010;20000475201;R$ 100,00;Estimado;ANTONIO MARCOS DA SILVA;20250;Deputado Estadual;PSC;PA;
-JOSE DA CRUZ MARINHO;12.170.040/0001-60;01/10/2010;20000475205;R$ 560,00;Estimado;ANTONIO MARCOS DA SILVA;20250;Deputado Estadual;PSC;PA;
-JOSE DA CRUZ MARINHO;12.170.040/0001-60;20/09/2010;20000475207;R$ 400,00;Estimado;ANTONIO MARCOS DA SILVA;20250;Deputado Estadual;PSC;PA;
-JOSE DA CRUZ MARINHO;12.170.040/0001-60;01/10/2010;20000475206;R$ 581,00;Estimado;ANTONIO MARCOS DA SILVA;20250;Deputado Estadual;PSC;PA;
-JOSE DA CRUZ MARINHO;12.170.040/0001-60;20/08/2010;20000475203;R$ 240,00;Estimado;ANTONIO MARCOS DA SILVA;20250;Deputado Estadual;PSC;PA;
-PAULO ROBERTO GALVAO DA ROCHA;12.168.406/0001-67;23/09/2010;20000475209;R$ 260,00;Estimado;ANTONIO MARCOS DA SILVA;20250;Deputado Estadual;PSC;PA;
-PAULO ROBERTO GALVAO DA ROCHA;12.168.406/0001-67;31/08/2010;20000475208;R$ 440,00;Estimado;ANTONIO MARCOS DA SILVA;20250;Deputado Estadual;PSC;PA;
-VERBENIA FREITAS DA SILVA;776.489.002-20;15/08/2010;20000475202;R$ 800,00;Estimado;ANTONIO MARCOS DA SILVA;20250;Deputado Estadual;PSC;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELIZEU GOMES DE OLIVEIRA;300.175.482-68;15/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado; -  -  / 20250 - ANTONIO MARCOS DA SILVA - PA - Deputado Estadual;
+JOSE DA CRUZ MARINHO;12.170.040/0001-60;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 560,00;Estimado;2020 -  - PSC -  - Deputado Federal / 20250 - ANTONIO MARCOS DA SILVA - PA - Deputado Estadual;
+JOSE DA CRUZ MARINHO;12.170.040/0001-60;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 581,00;Estimado;2020 -  - PSC -  - Deputado Federal / 20250 - ANTONIO MARCOS DA SILVA - PA - Deputado Estadual;
+JOSE DA CRUZ MARINHO;12.170.040/0001-60;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado;2020 -  - PSC -  - Deputado Federal / 20250 - ANTONIO MARCOS DA SILVA - PA - Deputado Estadual;
+JOSE DA CRUZ MARINHO;12.170.040/0001-60;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 240,00;Estimado;2020 -  - PSC -  - Deputado Federal / 20250 - ANTONIO MARCOS DA SILVA - PA - Deputado Estadual;
+PAULO ROBERTO GALVAO DA ROCHA;12.168.406/0001-67;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 260,00;Estimado;131 -  - PT -  - Senador / 20250 - ANTONIO MARCOS DA SILVA - PA - Deputado Estadual;
+PAULO ROBERTO GALVAO DA ROCHA;12.168.406/0001-67;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 440,00;Estimado;131 -  - PT -  - Senador / 20250 - ANTONIO MARCOS DA SILVA - PA - Deputado Estadual;
+VERBENIA FREITAS DA SILVA;776.489.002-20;15/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 800,00;Estimado; -  -  / 20250 - ANTONIO MARCOS DA SILVA - PA - Deputado Estadual;

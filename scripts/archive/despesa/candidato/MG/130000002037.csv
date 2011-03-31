@@ -1,2 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MARIA APARECIDA ANDRADE MOURA;010.743.006-10;31/08/2010;15000135451;R$ 500,00;Cheque;MARIA APARECIDA ANDRADE MOURA;650;2º Suplente Senador;PMDB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ACF RAJA LTDA;42.769.240/0001-03;21/09/2010;       Despesas postais;R$ 79,10;Cheque; -  -  / 650 - MARIA APARECIDA ANDRADE MOURA - MG - 2º Suplente Senador;
+AUTO POSTO TURISTA LTDA;71.355.341/0001-28;02/10/2010;       Despesas com transporte ou deslocamento;R$ 70,90;Cheque; -  -  / 650 - MARIA APARECIDA ANDRADE MOURA - MG - 2º Suplente Senador;
+GRAFICA MUNDIAL LTDA;20.110.680/0001-03;20/09/2010;       Publicidade por materiais impressos;R$ 350,00;Cheque; -  -  / 650 - MARIA APARECIDA ANDRADE MOURA - MG - 2º Suplente Senador;

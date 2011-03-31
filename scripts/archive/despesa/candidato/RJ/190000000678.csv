@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;02/09/2010;40000997952;R$ 150,00;Estimado;JOSE SEVERINO PENHA;4020;Deputado Federal;PSB;RJ;
-Comitê Financeiro Único;12.339.086/0001-60;29/09/2010;40000997971;R$ 392,15;Estimado;JOSE SEVERINO PENHA;4020;Deputado Federal;PSB;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;40000997953;R$ 150,00;Estimado;JOSE SEVERINO PENHA;4020;Deputado Federal;PSB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 4020 - JOSE SEVERINO PENHA - RJ - Deputado Federal;
+Comitê Financeiro Único;12.339.086/0001-60;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 392,15;Estimado;Comitê Financeiro Único - PSB -  / 4020 - JOSE SEVERINO PENHA - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PSB -  / 4020 - JOSE SEVERINO PENHA - RJ - Deputado Federal;

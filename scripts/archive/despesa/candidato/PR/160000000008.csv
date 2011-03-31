@@ -1,8 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO CARLOS DE ALMEIDA;166.982.909-04;17/09/2010;40002063487;R$ 400,00;Cheque;ANTONIO CARLOS DE ALMEIDA;4057;Deputado Federal;PSB;PR;
-ANTONIO CARLOS DE ALMEIDA;166.982.909-04;18/10/2010;40002064630;R$ 31,00;Depósito em espécie;ANTONIO CARLOS DE ALMEIDA;4057;Deputado Federal;PSB;PR;
-ANTONIO CARLOS DE ALMEIDA;166.982.909-04;31/08/2010;40002063484;R$ 100,00;Depósito em espécie;ANTONIO CARLOS DE ALMEIDA;4057;Deputado Federal;PSB;PR;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;10/09/2010;40002064629;R$ 1.106,60;Estimado;ANTONIO CARLOS DE ALMEIDA;4057;Deputado Federal;PSB;PR;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;24/09/2010;40002063485;R$ 1.575,00;Estimado;ANTONIO CARLOS DE ALMEIDA;4057;Deputado Federal;PSB;PR;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;17/09/2010;40002063486;R$ 2.200,00;Estimado;ANTONIO CARLOS DE ALMEIDA;4057;Deputado Federal;PSB;PR;
-HONDA CONSERVAÇÃO & LIMPEZA LTDA.;09.477.708/0001-02;20/08/2010;40002063483;R$ 300,00;Depósito em espécie;ANTONIO CARLOS DE ALMEIDA;4057;Deputado Federal;PSB;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADRIANO EZEQUIEL DE SOUZA;008.408.499-58;01/09/2010;       Serviços prestados por terceiros;R$ 100,00;Cheque; -  -  / 4057 - ANTONIO CARLOS DE ALMEIDA - PR - Deputado Federal;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;17/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.200,00;Estimado;45 -  - PSDB -  - Governador / 4057 - ANTONIO CARLOS DE ALMEIDA - PR - Deputado Federal;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.575,00;Estimado;45 -  - PSDB -  - Governador / 4057 - ANTONIO CARLOS DE ALMEIDA - PR - Deputado Federal;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.106,60;Estimado;45 -  - PSDB -  - Governador / 4057 - ANTONIO CARLOS DE ALMEIDA - PR - Deputado Federal;
+GRAFICA E EDITORA GODOY LTDA.;75.205.260/0001-00;17/09/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 4057 - ANTONIO CARLOS DE ALMEIDA - PR - Deputado Federal;
+J. ERNESTO SOCCIO ME.;97.342.786/0001-67;30/08/2010;       Publicidade por materiais impressos;R$ 290,00;Cheque; -  -  / 4057 - ANTONIO CARLOS DE ALMEIDA - PR - Deputado Federal;
+SUPERMERCADO PELICANO LTDA.;77.981.520/0001-57;02/10/2010;       Materiais de expediente;R$ 10,00;Cheque; -  -  / 4057 - ANTONIO CARLOS DE ALMEIDA - PR - Deputado Federal;
+;;30/09/2010;       Impostos, contribuições e taxas;R$ 31,00;Cheque; -  -  / 4057 - ANTONIO CARLOS DE ALMEIDA - PR - Deputado Federal;

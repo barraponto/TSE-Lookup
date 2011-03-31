@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MARCOS MOURA DOS REIS;931.505.807-06;27/08/2010;19190001751;R$ 3.000,00;Depósito em espécie;MARCOS MOURA DOS REIS;19900;Deputado Estadual;PTN;RJ;
-MARCOS MOURA DOS REIS;931.505.807-06;27/07/2010;19190001763;R$ 1.766,05;Depósito em espécie;MARCOS MOURA DOS REIS;19900;Deputado Estadual;PTN;RJ;
-MARCOS MOURA DOS REIS;931.505.807-06;28/09/2010;19190001753;R$ 250,00;Depósito em espécie;MARCOS MOURA DOS REIS;19900;Deputado Estadual;PTN;RJ;
-VITOR SOARES LUDOVICO;260.563.487-68;02/08/2010;19190001752;R$ 2.500,00;Estimado;MARCOS MOURA DOS REIS;19900;Deputado Estadual;PTN;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELIAS DA SILVA ALBERTINO;673.485.997-53;30/08/2010;       Despesas com pessoal;R$ 1.200,00;Cheque; -  -  / 19900 - MARCOS MOURA DOS REIS - RJ - Deputado Estadual;
+MANOEL SANTANA SANCHO;000.246.547-79;28/08/2010;       Cessão ou Locação de Veículos;R$ 1.000,00;Cheque; -  -  / 19900 - MARCOS MOURA DOS REIS - RJ - Deputado Estadual;
+POSTO DE ABASTECIMENTO A GÁS 2000 DE CAXIAS LTDA;03.603.616/0001-45;30/08/2010;       Combustíveis e lubrificantes;R$ 388,74;Cheque; -  -  / 19900 - MARCOS MOURA DOS REIS - RJ - Deputado Estadual;
+POSTO DE SERVIÇO TRI DE BELFORD ROXO LTDA;03.121.488/0001-01;01/09/2010;       Combustíveis e lubrificantes;R$ 411,26;Cheque; -  -  / 19900 - MARCOS MOURA DOS REIS - RJ - Deputado Estadual;
+VITOR SOARES LUDOVICO;260.563.487-68;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.500,00;Estimado; -  -  / 19900 - MARCOS MOURA DOS REIS - RJ - Deputado Estadual;

@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;43001811526;R$ 2.500,00;Estimado;MARIA LUCIA DE ALMEIDA;43001;Deputado Estadual;PV;RN;
-Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;43001811527;R$ 1.304,00;Estimado;MARIA LUCIA DE ALMEIDA;43001;Deputado Estadual;PV;RN;
-Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;43001811531;R$ 855,00;Estimado;MARIA LUCIA DE ALMEIDA;43001;Deputado Estadual;PV;RN;
-Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;43001811529;R$ 714,00;Estimado;MARIA LUCIA DE ALMEIDA;43001;Deputado Estadual;PV;RN;
-Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;43001811530;R$ 4.999,75;Estimado;MARIA LUCIA DE ALMEIDA;43001;Deputado Estadual;PV;RN;
-Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;43001811528;R$ 4.761,00;Estimado;MARIA LUCIA DE ALMEIDA;43001;Deputado Estadual;PV;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.500,00;Estimado;Comitê Financeiro Único - PV -  / 43001 - MARIA LUCIA DE ALMEIDA - RN - Deputado Estadual;
+Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 855,00;Estimado;Comitê Financeiro Único - PV -  / 43001 - MARIA LUCIA DE ALMEIDA - RN - Deputado Estadual;
+Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.304,00;Estimado;Comitê Financeiro Único - PV -  / 43001 - MARIA LUCIA DE ALMEIDA - RN - Deputado Estadual;
+Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.999,75;Estimado;Comitê Financeiro Único - PV -  / 43001 - MARIA LUCIA DE ALMEIDA - RN - Deputado Estadual;
+Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.761,00;Estimado;Comitê Financeiro Único - PV -  / 43001 - MARIA LUCIA DE ALMEIDA - RN - Deputado Estadual;
+Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 714,00;Estimado;Comitê Financeiro Único - PV -  / 43001 - MARIA LUCIA DE ALMEIDA - RN - Deputado Estadual;

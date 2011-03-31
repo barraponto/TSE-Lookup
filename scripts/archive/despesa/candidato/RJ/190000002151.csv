@@ -1,7 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;31000023801;R$ 150,00;Estimado;MARCELO HENRIQUES BAPTISTA;3113;Deputado Federal;PHS;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;31000023804;R$ 300,00;Estimado;MARCELO HENRIQUES BAPTISTA;3113;Deputado Federal;PHS;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;31000023803;R$ 300,00;Estimado;MARCELO HENRIQUES BAPTISTA;3113;Deputado Federal;PHS;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;31000023802;R$ 150,00;Estimado;MARCELO HENRIQUES BAPTISTA;3113;Deputado Federal;PHS;RJ;
-ELEIÇÃO 2010 JORGE SAYED PICCIANI SENADOR;12.176.626/0001-32;30/09/2010;31000023811;R$ 600,00;Estimado;MARCELO HENRIQUES BAPTISTA;3113;Deputado Federal;PHS;RJ;
-MARECELLE LUISA HENRIQUES BAPTISTA;096.228.807-11;01/10/2010;31000023812;R$ 5.000,00;Transferência eletrônica;MARCELO HENRIQUES BAPTISTA;3113;Deputado Federal;PHS;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALAN RODRIGO MARQUES;073.986.267-70;01/09/2010;       Despesas com pessoal;R$ 700,00;Cheque; -  -  / 3113 - MARCELO HENRIQUES BAPTISTA - RJ - Deputado Federal;
+ALESSANDRA DE SOUZA MATIAS;084.553.957-45;01/09/2010;       Despesas com pessoal;R$ 700,00;Cheque; -  -  / 3113 - MARCELO HENRIQUES BAPTISTA - RJ - Deputado Federal;
+CARLOS ALBERTO FIGUEIREDO DE ALMEIDA;841.759.587-20;01/09/2010;       Despesas com pessoal;R$ 2.200,00;Cheque; -  -  / 3113 - MARCELO HENRIQUES BAPTISTA - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 3113 - MARCELO HENRIQUES BAPTISTA - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 3113 - MARCELO HENRIQUES BAPTISTA - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 3113 - MARCELO HENRIQUES BAPTISTA - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 3113 - MARCELO HENRIQUES BAPTISTA - RJ - Deputado Federal;
+ELEIÇÃO 2010 JORGE SAYED PICCIANI SENADOR;12.176.626/0001-32;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado;155 -  - PMDB -  - Senador / 3113 - MARCELO HENRIQUES BAPTISTA - RJ - Deputado Federal;
+LUIS OTAVIO FELIPE LIMA SILVA;012.227.267-69;01/09/2010;       Despesas com pessoal;R$ 700,00;Cheque; -  -  / 3113 - MARCELO HENRIQUES BAPTISTA - RJ - Deputado Federal;
+ORLANDO PAULO SERRA MATIAS;028.978.007-12;01/09/2010;       Despesas com pessoal;R$ 700,00;Cheque; -  -  / 3113 - MARCELO HENRIQUES BAPTISTA - RJ - Deputado Federal;

@@ -1,6 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ARTHUR PHILLIPE PINTO E SILVA;131.845.804-82;20/08/2010;23000080802;R$ 20,00;Depósito em espécie;ARTHUR PHILLIPE PINTO E SILVA;23015;Deputado Distrital;PPS;DF;
-ARTHUR PHILLIPE PINTO E SILVA;131.845.804-82;23/09/2010;23000080803;R$ 100,00;Depósito em espécie;ARTHUR PHILLIPE PINTO E SILVA;23015;Deputado Distrital;PPS;DF;
-Comitê Financeiro Estadual/Distrital para Governador;12.249.210/0001-05;23/09/2010;23000080801;R$ 3.000,00;Cheque;ARTHUR PHILLIPE PINTO E SILVA;23015;Deputado Distrital;PPS;DF;
-Comitê Financeiro Único;12.205.228/0001-05;03/10/2010;23000080804;R$ 291,76;Estimado;ARTHUR PHILLIPE PINTO E SILVA;23015;Deputado Distrital;PPS;DF;
-Comitê Financeiro Único;12.205.228/0001-05;03/10/2010;23000080805;R$ 337,40;Estimado;ARTHUR PHILLIPE PINTO E SILVA;23015;Deputado Distrital;PPS;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARISA ACESSORIOS;07.328.334/0001-38;22/09/2010;       Despesas com transporte ou deslocamento;R$ 90,00;Cheque; -  -  / 23015 - ARTHUR PHILLIPE PINTO E SILVA - DF - Deputado Distrital;
+COMERCIAL DE ALIMENTOS YAVE LTDA (SUPERMERCADO ECONÔMICO);11.040.634/0001-94;23/09/2010;       Reembolsos de gastos realizados por eleitores;R$ 759,00;Cheque; -  -  / 23015 - ARTHUR PHILLIPE PINTO E SILVA - DF - Deputado Distrital;
+Comitê Financeiro Único;12.205.228/0001-05;03/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 337,40;Estimado;Comitê Financeiro Único - PMDB -  / 23015 - ARTHUR PHILLIPE PINTO E SILVA - DF - Deputado Distrital;
+Comitê Financeiro Único;12.205.228/0001-05;03/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 291,76;Estimado;Comitê Financeiro Único - PMDB -  / 23015 - ARTHUR PHILLIPE PINTO E SILVA - DF - Deputado Distrital;
+S/A CORREIO BRASILIENSE;00.001.172/0001-80;28/09/2010;       Publicidade por jornais e revistas;R$ 2.010,00;Cheque; -  -  / 23015 - ARTHUR PHILLIPE PINTO E SILVA - DF - Deputado Distrital;
+W A FERRAGENS;05.407.881/0001-83;25/09/2010;       Eventos de promoção da candidatura;R$ 261,00;Transferência eletrônica; -  -  / 23015 - ARTHUR PHILLIPE PINTO E SILVA - DF - Deputado Distrital;

@@ -1,9 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CICERO LIAL DE BRITO;046.256.174-72;26/08/2010;20000520152;R$ 1.000,00;Depósito em espécie;FABIANO ARMSTRONG DANTAS;20015;Deputado Estadual;PSC;PB;
-CRISTIANNE TAVARES DA CUNHA MELO;04.333.540/0001-48;26/08/2010;20000520155;R$ 1.500,00;Depósito em espécie;FABIANO ARMSTRONG DANTAS;20015;Deputado Estadual;PSC;PB;
-ELEIÇÕES 2010 JOSÉ TARGINO MARANHÃO;12.189.345/0001-14;06/09/2010;20000520157;R$ 150,00;Estimado;FABIANO ARMSTRONG DANTAS;20015;Deputado Estadual;PSC;PB;
-ELEIÇÕES 2010 JOSÉ TARGINO MARANHÃO;12.189.345/0001-14;23/09/2010;20000520158;R$ 523,56;Estimado;FABIANO ARMSTRONG DANTAS;20015;Deputado Estadual;PSC;PB;
-FABIANO ARMSTRONG DANTAS;884.882.764-00;27/09/2010;20000520159;R$ 600,00;Depósito em espécie;FABIANO ARMSTRONG DANTAS;20015;Deputado Estadual;PSC;PB;
-MAMEDE & CIA LTDA;09.197.286/0001-11;26/08/2010;20000520154;R$ 500,00;Depósito em espécie;FABIANO ARMSTRONG DANTAS;20015;Deputado Estadual;PSC;PB;
-POPULAR PARAIBA CREDITO E COBRANÇA LTDA;07.586.218/0001-19;26/08/2010;20000520153;R$ 1.000,00;Depósito em espécie;FABIANO ARMSTRONG DANTAS;20015;Deputado Estadual;PSC;PB;
-TONY ALBERTO DA NÓBREGA BRITO;690.744.024-53;26/08/2010;20000520151;R$ 1.000,00;Depósito em espécie;FABIANO ARMSTRONG DANTAS;20015;Deputado Estadual;PSC;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÕES 2010 JOSÉ TARGINO MARANHÃO;12.189.345/0001-14;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;15 -  - PMDB -  - Governador / 20015 - FABIANO ARMSTRONG DANTAS - PB - Deputado Estadual;
+ELEIÇÕES 2010 JOSÉ TARGINO MARANHÃO;12.189.345/0001-14;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 523,56;Estimado;15 -  - PMDB -  - Governador / 20015 - FABIANO ARMSTRONG DANTAS - PB - Deputado Estadual;
+IGLY JANINE DO EGITO ALMEIDA;06.200.866/0001-22;27/09/2010;       Publicidade por materiais impressos;R$ 600,00;Transferência eletrônica; -  -  / 20015 - FABIANO ARMSTRONG DANTAS - PB - Deputado Estadual;
+NEON LINE PLACAS LUMINOSAS LTDA;02.083.778/0001-37;01/09/2010;       Publicidade por materiais impressos;R$ 5.000,00;Não informado; -  -  / 20015 - FABIANO ARMSTRONG DANTAS - PB - Deputado Estadual;
+;;27/09/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Débito em conta; -  -  / 20015 - FABIANO ARMSTRONG DANTAS - PB - Deputado Estadual;
+;;26/08/2010;       Encargos financeiros e taxas bancárias;R$ 3,00;Débito em conta; -  -  / 20015 - FABIANO ARMSTRONG DANTAS - PB - Deputado Estadual;

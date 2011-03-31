@@ -1,7 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-AUTOCLASS COM. E CONSIG. DE VEICULOS;31.350.010/0001-80;08/09/2010;43001512301;R$ 500,00;Cheque;JOSE CARLOS GOMES DE SOUZA;43777;Deputado Estadual;PV;RJ;
-CASIMIRO VALE;12.190.049/0001-33;30/09/2010;43001512304;R$ 2.000,00;Cheque;JOSE CARLOS GOMES DE SOUZA;43777;Deputado Estadual;PV;RJ;
-CASIMIRO VALE;12.190.049/0001-33;24/09/2010;43001512303;R$ 2.000,00;Cheque;JOSE CARLOS GOMES DE SOUZA;43777;Deputado Estadual;PV;RJ;
-Comitê Financeiro Único;12.147.818/0001-10;30/09/2010;43001512305;R$ 1.490,22;Estimado;JOSE CARLOS GOMES DE SOUZA;43777;Deputado Estadual;PV;RJ;
-JOSÉ CARLOS GOMES DE SOUZA;469.030.627-34;27/09/2010;43001512306;R$ 350,00;Transferência eletrônica;JOSE CARLOS GOMES DE SOUZA;43777;Deputado Estadual;PV;RJ;
-SERGIO MENDES ASSESSORIA IMOBILIÁRIA LTDA;42.188.391/0001-60;22/09/2010;43001512302;R$ 2.000,00;Cheque;JOSE CARLOS GOMES DE SOUZA;43777;Deputado Estadual;PV;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.147.818/0001-10;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.490,22;Estimado;Comitê Financeiro Único - PV -  / 43777 - JOSE CARLOS GOMES DE SOUZA - RJ - Deputado Estadual;
+GIILBERTO PEREIRA LIMA;660.631.167-53;27/09/2010;       Serviços prestados por terceiros;R$ 2.500,00;Cheque; -  -  / 43777 - JOSE CARLOS GOMES DE SOUZA - RJ - Deputado Estadual;
+JJ GRAYPHUS PUBLICIDADES LTDA;02.236.384/0001-71;29/09/2010;       Publicidade por materiais impressos;R$ 4.000,00;Cheque; -  -  / 43777 - JOSE CARLOS GOMES DE SOUZA - RJ - Deputado Estadual;
+OSWALDO ARAÚJO DAS CHAGAS;015.863.432-20;25/09/2010;       Publicidade por carros de som;R$ 320,00;Cheque; -  -  / 43777 - JOSE CARLOS GOMES DE SOUZA - RJ - Deputado Estadual;
+43777 - JOSÉ CARLOS GOMES DE SOUZA - DEPUTADO ESTADUAL;12.206.434/0001-21;19/11/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 16,50;Transferência eletrônica;Direção Estadual/Distrital - PV - RJ / 43777 - JOSE CARLOS GOMES DE SOUZA - RJ - Deputado Estadual;

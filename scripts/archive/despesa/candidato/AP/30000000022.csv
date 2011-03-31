@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANGELO RONAN DOS SANTOS FERREIRA;721.219.042-04;31/08/2010;40000960502;R$ 383,30;Estimado;ELCIO JOSE DE SOUZA FERREIRA;4001;Deputado Federal;PSB;AP;
-ANGELO RONAN DOS SANTOS FERREIRA;721.219.042-04;31/08/2010;40000960501;R$ 1.100,00;Estimado;ELCIO JOSE DE SOUZA FERREIRA;4001;Deputado Federal;PSB;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANGELO RONAN DOS SANTOS FERREIRA;721.219.042-04;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.100,00;Estimado; -  -  / 4001 - ELCIO JOSE DE SOUZA FERREIRA - AP - Deputado Federal;
+ANGELO RONAN DOS SANTOS FERREIRA;721.219.042-04;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 383,30;Estimado; -  -  / 4001 - ELCIO JOSE DE SOUZA FERREIRA - AP - Deputado Federal;

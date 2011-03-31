@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.154.856/0001-09;05/08/2010;50000391771;R$ 125,43;Estimado;OCTACIANO GOMES RAMOS;5056;Deputado Federal;PSOL;RJ;
-Comitê Financeiro Único;12.154.856/0001-09;29/09/2010;50000391773;R$ 62,50;Estimado;OCTACIANO GOMES RAMOS;5056;Deputado Federal;PSOL;RJ;
-ROSIMERI MARIA L. DE PAIVA;708.237.317-15;06/08/2010;50000391772;R$ 440,00;Depósito em espécie;OCTACIANO GOMES RAMOS;5056;Deputado Federal;PSOL;RJ;
-ROSIMERI MARIA L. DE PAIVA;708.237.317-15;15/09/2010;50000391774;R$ 1.000,00;Depósito em espécie;OCTACIANO GOMES RAMOS;5056;Deputado Federal;PSOL;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.154.856/0001-09;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 125,43;Estimado;Comitê Financeiro Único - PSOL -  / 5056 - OCTACIANO GOMES RAMOS - RJ - Deputado Federal;
+Comitê Financeiro Único;12.154.856/0001-09;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 62,50;Estimado;Comitê Financeiro Único - PSOL -  / 5056 - OCTACIANO GOMES RAMOS - RJ - Deputado Federal;
+PONTO DAS ARTES / MARLENE MEIRELES A. COUTO;03.145.123/0001-09;07/08/2010;       Diversas a especificar;R$ 400,00;Cheque; -  -  / 5056 - OCTACIANO GOMES RAMOS - RJ - Deputado Federal;
+PONTO DAS ARTES / MARLENE MEIRELES A. COUTO;03.145.123/0001-09;15/09/2010;       Publicidade por placas, estandartes e faixas;R$ 1.000,00;Cheque; -  -  / 5056 - OCTACIANO GOMES RAMOS - RJ - Deputado Federal;
+PSOL - PARTIDO SOCIALISMO E LIBERDADE;08.049.726/0001-20;20/10/2010;       Diversas a especificar;R$ 40,00;Cheque; -  -  / 5056 - OCTACIANO GOMES RAMOS - RJ - Deputado Federal;

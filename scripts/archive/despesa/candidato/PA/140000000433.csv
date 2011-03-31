@@ -1,2 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010EDIVAN VIEIRA DOS SANTOS DEPUTADO ESTADUAL;295.360.062-00;20/09/2010;25000607201;R$ 2.500,00;Depósito em espécie;EDIVAN VIEIRA DOS SANTOS;25111;Deputado Estadual;DEM;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANDRÉ DOS SANTOS ANDRADE;919.049.862-34;29/09/2010;       Serviços prestados por terceiros;R$ 400,00;Cheque; -  -  / 25111 - EDIVAN VIEIRA DOS SANTOS - PA - Deputado Estadual;
+AUTO POSTO CAVALCANTE LTDA. ME;10.293.999/0001-68;29/09/2010;       Combustíveis e lubrificantes;R$ 1.740,00;Cheque; -  -  / 25111 - EDIVAN VIEIRA DOS SANTOS - PA - Deputado Estadual;
+M DINORAH BATISTA DE MENEZES ME;09.362.051/0001-38;29/09/2010;       Publicidade por materiais impressos;R$ 360,00;Cheque; -  -  / 25111 - EDIVAN VIEIRA DOS SANTOS - PA - Deputado Estadual;

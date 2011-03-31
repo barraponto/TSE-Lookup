@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DERLI CRISTINA NICOLAU ARANHA;626.960.507-59;31/08/2010;43001510854;R$ 175,00;Estimado;ELIAS GUEDES ARANHA SOBRINHO;4335;Deputado Federal;PV;RJ;
-DERLI CRISTINA NICOLAU ARANHA;626.960.507-59;31/08/2010;43001510855;R$ 58,00;Estimado;ELIAS GUEDES ARANHA SOBRINHO;4335;Deputado Federal;PV;RJ;
-ELIAS GUEDES ARANHA SOBRNHO;550.584.007-82;05/09/2010;43001510856;R$ 230,00;Transferência eletrônica;ELIAS GUEDES ARANHA SOBRINHO;4335;Deputado Federal;PV;RJ;
-ELIAS GUEDES ARANHA SOBRNHO;550.584.007-82;23/08/2010;43001510851;R$ 950,00;Transferência eletrônica;ELIAS GUEDES ARANHA SOBRINHO;4335;Deputado Federal;PV;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DERLI CRISTINA NICOLAU ARANHA;626.960.507-59;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 175,00;Estimado; -  -  / 4335 - ELIAS GUEDES ARANHA SOBRINHO - RJ - Deputado Federal;
+DERLI CRISTINA NICOLAU ARANHA;626.960.507-59;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 58,00;Estimado; -  -  / 4335 - ELIAS GUEDES ARANHA SOBRINHO - RJ - Deputado Federal;
+OFF-SILK ARTES GRÁFICAS LTDA.;97.338.040/0001-80;16/08/2010;       Publicidade por materiais impressos;R$ 930,00;Cheque; -  -  / 4335 - ELIAS GUEDES ARANHA SOBRINHO - RJ - Deputado Federal;
+POSTO CONSELHEIRO PAULINO - NOVA FRIBURGO RJ;30.542.070/0001-32;10/09/2010;       Combustíveis e lubrificantes;R$ 96,84;Transferência eletrônica; -  -  / 4335 - ELIAS GUEDES ARANHA SOBRINHO - RJ - Deputado Federal;
+POSTO JURUÁ LTDA.;33.202.755/0001-28;05/09/2010;       Combustíveis e lubrificantes;R$ 110,00;Transferência eletrônica; -  -  / 4335 - ELIAS GUEDES ARANHA SOBRINHO - RJ - Deputado Federal;

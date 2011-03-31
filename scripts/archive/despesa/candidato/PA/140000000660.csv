@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANA JULIA CAREPA;12.171.430/0001-55;11/08/2010;31000069201;R$ 2.200,00;Estimado;LUCIANO JOAO PONCE DE SOUZA;31008;Deputado Estadual;PHS;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANA JULIA CAREPA;12.171.430/0001-55;11/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.200,00;Estimado; -  -  / 31008 - LUCIANO JOAO PONCE DE SOUZA - PA - Deputado Estadual;

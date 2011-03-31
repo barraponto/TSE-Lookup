@@ -1,2 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-RAMON NASCIMENTO SANTOS;925.278.095-53;12/08/2010;17000012351;R$ 1.000,00;Outros títulos de crédito;JUTAY SILVA SANTOS;17234;Deputado Estadual;PSL;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CLIBER DE JESUS LIMA;579.793.835-91;03/09/2010;       Publicidade por placas, estandartes e faixas;R$ 274,00;Cheque; -  -  / 17234 - JUTAY SILVA SANTOS - BA - Deputado Estadual;
+CLIBER DE JESUS LIMA;579.793.835-91;19/08/2010;       Publicidade por materiais impressos;R$ 196,00;Cheque; -  -  / 17234 - JUTAY SILVA SANTOS - BA - Deputado Estadual;
+CLIBER DE JESUS LIMA;579.793.835-91;12/08/2010;       Publicidade por materiais impressos;R$ 180,00;Cheque; -  -  / 17234 - JUTAY SILVA SANTOS - BA - Deputado Estadual;
+KGE GRAFICA E EDITORA LTDA;07.880.276/0001-50;22/07/2010;       Publicidade por materiais impressos;R$ 350,00;Cheque; -  -  / 17234 - JUTAY SILVA SANTOS - BA - Deputado Estadual;

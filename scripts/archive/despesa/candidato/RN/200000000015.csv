@@ -1,3 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MARCOS FELIX DA COSTA;412.781.867-00;18/10/2010;36000093717;R$ 500,00;Depósito em espécie;MARCOS FELIX DA COSTA;36333;Deputado Estadual;PTC;RN;
-MARCOS FELIX DA COSTA;412.781.867-00;31/08/2010;36000093711;R$ 1.000,00;Depósito em espécie;MARCOS FELIX DA COSTA;36333;Deputado Estadual;PTC;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GEL PETROLIO LTDA;07.006.283/0002-09;30/09/2010;       Publicidade por materiais impressos;R$ 107,60;Cheque; -  -  / 36333 - MARCOS FELIX DA COSTA - RN - Deputado Estadual;
+GEL PETROLIO LTDA;07.006.283/0002-09;31/10/2010;       Publicidade por materiais impressos;R$ 269,00;Cheque; -  -  / 36333 - MARCOS FELIX DA COSTA - RN - Deputado Estadual;
+LINDON JONSON DA SILVA;020.263.534-17;20/08/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 36333 - MARCOS FELIX DA COSTA - RN - Deputado Estadual;
+L.P. ARTES GRAFICA LIMITADA;11.984.138/0001-99;25/08/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 36333 - MARCOS FELIX DA COSTA - RN - Deputado Estadual;
+MARNE FRANCISCO DANTAS;08.241.747/0006-58;16/09/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 36333 - MARCOS FELIX DA COSTA - RN - Deputado Estadual;
+PARTIDO TRABALHISTA CRISTÃO;04.713.245/0001-17;01/11/2010;       Diversas a especificar;R$ 23,40;Transferência eletrônica; -  -  / 36333 - MARCOS FELIX DA COSTA - RN - Deputado Estadual;

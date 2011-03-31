@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-SERGIO FIGUEIRA CARVALHO;303.742.860-00;02/09/2010;40000921551;R$ 40,00;Depósito em espécie;SERGIO FIGUEIRA CARVALHO;40333;Deputado Estadual;PSB;RS;
-SERGIO FIGUEIRA CARVALHO;303.742.860-00;23/09/2010;40000921553;R$ 25,00;Depósito em espécie;SERGIO FIGUEIRA CARVALHO;40333;Deputado Estadual;PSB;RS;
-SERGIO FIGUEIRA CARVALHO;303.742.860-00;23/09/2010;40000921552;R$ 250,00;Depósito em espécie;SERGIO FIGUEIRA CARVALHO;40333;Deputado Estadual;PSB;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+FABIO DA SILVA MACHADO;833.583.740-68;20/09/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 40333 - SERGIO FIGUEIRA CARVALHO - RS - Deputado Estadual;
+LEANDRO FRANCISCO DA SILVA;697.105.200-59;20/08/2010;       Diversas a especificar;R$ 40,00;Cheque; -  -  / 40333 - SERGIO FIGUEIRA CARVALHO - RS - Deputado Estadual;
+;;27/10/2010;       Encargos financeiros e taxas bancárias;R$ 75,00;Débito em conta; -  -  / 40333 - SERGIO FIGUEIRA CARVALHO - RS - Deputado Estadual;

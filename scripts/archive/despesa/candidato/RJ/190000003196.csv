@@ -1,4 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.167/0001-85;10/08/2010;10000028021;R$ 4.980,00;Estimado;OSMAR BRITO FILHO;1007;Deputado Federal;PRB;RJ;
-Diretório Estadual/Distrital;12.200.167/0001-85;10/09/2010;10000028023;R$ 230,00;Boleto de cobrança;OSMAR BRITO FILHO;1007;Deputado Federal;PRB;RJ;
-Diretório Estadual/Distrital;12.200.167/0001-85;06/09/2010;10000028022;R$ 3.320,00;Boleto de cobrança;OSMAR BRITO FILHO;1007;Deputado Federal;PRB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.167/0001-85;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.980,00;Estimado;Comitê Financeiro Único - PRB -  / 1007 - OSMAR BRITO FILHO - RJ - Deputado Federal;

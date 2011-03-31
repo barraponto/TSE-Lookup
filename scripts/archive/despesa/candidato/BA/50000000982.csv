@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JAQUES WAGNER;12.174.245/0001-14;30/09/2010;31000058901;R$ 1.200,00;Estimado;CARLOS ALBERTO DE JESUS;31253;Deputado Estadual;PHS;BA;
-JAQUES WAGNER;12.174.245/0001-14;30/09/2010;31000058904;R$ 550,00;Estimado;CARLOS ALBERTO DE JESUS;31253;Deputado Estadual;PHS;BA;
-JAQUES WAGNER;12.174.245/0001-14;30/09/2010;31000058903;R$ 875,00;Estimado;CARLOS ALBERTO DE JESUS;31253;Deputado Estadual;PHS;BA;
-JAQUES WAGNER;12.174.245/0001-14;30/09/2010;31000058902;R$ 875,00;Estimado;CARLOS ALBERTO DE JESUS;31253;Deputado Estadual;PHS;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JAQUES WAGNER;12.174.245/0001-14;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 875,00;Estimado;13 -  - PT -  - Governador / 31253 - CARLOS ALBERTO DE JESUS - BA - Deputado Estadual;
+JAQUES WAGNER;12.174.245/0001-14;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 875,00;Estimado;13 -  - PT -  - Governador / 31253 - CARLOS ALBERTO DE JESUS - BA - Deputado Estadual;
+JAQUES WAGNER;12.174.245/0001-14;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.200,00;Estimado;13 -  - PT -  - Governador / 31253 - CARLOS ALBERTO DE JESUS - BA - Deputado Estadual;
+JAQUES WAGNER;12.174.245/0001-14;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 550,00;Estimado;13 -  - PT -  - Governador / 31253 - CARLOS ALBERTO DE JESUS - BA - Deputado Estadual;

@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-AGENOR RIBEIRO DE JESUS FILHO;12.170.850/0001-17;20/09/2010;44000007163;R$ 172,73;Estimado;DORIS ANE PALMEIRA DA SILVA;44567;Deputado Estadual;PRP;BA;
-Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;44000007164;R$ 954,00;Estimado;DORIS ANE PALMEIRA DA SILVA;44567;Deputado Estadual;PRP;BA;
-Comitê Financeiro Único;12.191.570/0001-95;31/07/2010;44000007161;R$ 192,00;Estimado;DORIS ANE PALMEIRA DA SILVA;44567;Deputado Estadual;PRP;BA;
-DORIS ANE PALMEIRA DA SILVA;177.523.105-49;10/08/2010;44000007162;R$ 248,00;Depósito em espécie;DORIS ANE PALMEIRA DA SILVA;44567;Deputado Estadual;PRP;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AGENOR RIBEIRO DE JESUS FILHO;12.170.850/0001-17;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 172,73;Estimado;4422 -  - PRP -  - Deputado Federal / 44567 - DORIS ANE PALMEIRA DA SILVA - BA - Deputado Estadual;
+ANDRADE ARARIPE COMERCIO DE MALHAS E CONFECÇÕES LTDA;34.108.233/0001-24;10/08/2010;       Publicidade por materiais impressos;R$ 248,00;Cheque; -  -  / 44567 - DORIS ANE PALMEIRA DA SILVA - BA - Deputado Estadual;
+Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 954,00;Estimado;Comitê Financeiro Único - PMDB -  / 44567 - DORIS ANE PALMEIRA DA SILVA - BA - Deputado Estadual;
+Comitê Financeiro Único;12.191.570/0001-95;31/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 192,00;Estimado;Comitê Financeiro Único - PMDB -  / 44567 - DORIS ANE PALMEIRA DA SILVA - BA - Deputado Estadual;

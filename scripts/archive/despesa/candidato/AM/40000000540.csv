@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.172/0001-98;03/09/2010;43001902146;R$ 3.200,00;Estimado;SERGIO PAULO MONTEIRO LITAIFF;4343;Deputado Federal;PV;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.172/0001-98;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.200,00;Estimado;Comitê Financeiro Único - PSDB -  / 4343 - SERGIO PAULO MONTEIRO LITAIFF - AM - Deputado Federal;

@@ -1,5 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS ENOCK RODRIGUES ESTEVES;444.700.452-68;10/08/2010;44000026831;R$ 5.000,00;Depósito em espécie;CARLOS JOSÉ ESTEVES JUNIOR;44567;Deputado Estadual;PRP;AM;
-Diretório Estadual/Distrital;04.160.131/0001-97;23/09/2010;44000026832;R$ 4.890,00;Cheque;CARLOS JOSÉ ESTEVES JUNIOR;44567;Deputado Estadual;PRP;AM;
-Diretório Estadual/Distrital;04.160.131/0001-97;30/09/2010;44000026834;R$ 350,00;Estimado;CARLOS JOSÉ ESTEVES JUNIOR;44567;Deputado Estadual;PRP;AM;
-Diretório Estadual/Distrital;04.160.131/0001-97;13/08/2010;44000026833;R$ 300,00;Estimado;CARLOS JOSÉ ESTEVES JUNIOR;44567;Deputado Estadual;PRP;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;04.160.131/0001-97;13/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Direção Estadual/Distrital - PMDB -  / 44567 - CARLOS JOSÉ ESTEVES JUNIOR - AM - Deputado Estadual;
+Diretório Estadual/Distrital;04.160.131/0001-97;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 350,00;Estimado;Direção Estadual/Distrital - PMDB -  / 44567 - CARLOS JOSÉ ESTEVES JUNIOR - AM - Deputado Estadual;
+EDIMILSON PEREIRA MARQUES;575.851.802-68;26/09/2010;       Publicidade por carros de som;R$ 700,00;Cheque; -  -  / 44567 - CARLOS JOSÉ ESTEVES JUNIOR - AM - Deputado Estadual;
+GRAFISA - GRAFICA E EDITORA LTDA.;03.633.502/0001-48;25/08/2010;       Publicidade por materiais impressos;R$ 4.890,00;Cheque; -  -  / 44567 - CARLOS JOSÉ ESTEVES JUNIOR - AM - Deputado Estadual;
+INVICTA - COM. DE PROD. GRÁFICOS SERV. DE SINALIZAÇÃO E PUBLICIDADE LTDA.;22.786.529/0001-15;13/08/2010;       Publicidade por placas, estandartes e faixas;R$ 1.200,00;Cheque; -  -  / 44567 - CARLOS JOSÉ ESTEVES JUNIOR - AM - Deputado Estadual;
+JOÃO FARIAS DA GAMA NETO;05.935.876/0001-43;17/09/2010;       Combustíveis e lubrificantes;R$ 1.369,00;Cheque; -  -  / 44567 - CARLOS JOSÉ ESTEVES JUNIOR - AM - Deputado Estadual;
+JOSÉ ESTEVES NETO;677.548.992-72;26/09/2010;       Publicidade por carros de som;R$ 800,00;Cheque; -  -  / 44567 - CARLOS JOSÉ ESTEVES JUNIOR - AM - Deputado Estadual;
+SEBASTIÃO JOSÉ NEGREIROS FERREIRA FILHO;438.875.032-87;11/09/2010;       Produção de jingles, vinhetas e slogans;R$ 900,00;Cheque; -  -  / 44567 - CARLOS JOSÉ ESTEVES JUNIOR - AM - Deputado Estadual;

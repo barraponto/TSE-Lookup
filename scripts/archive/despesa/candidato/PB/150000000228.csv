@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-AMANDA LUZIA DANTAS DA SILVA;084.585.834-37;20/08/2010;70000144603;R$ 300,00;Depósito em espécie;JOSE WELLINGTON DA SILVA;70999;Deputado Estadual;PT do B;PB;
-ELEIÇÃO 2010 JOSÉ TARGINO MANHÃO;12.189.345/0001-14;30/08/2010;70000144607;R$ 150,00;Estimado;JOSE WELLINGTON DA SILVA;70999;Deputado Estadual;PT do B;PB;
-JOSE TARGINO MARANHÃO;12.189.345/0001-14;23/09/2010;70000144608;R$ 523,56;Estimado;JOSE WELLINGTON DA SILVA;70999;Deputado Estadual;PT do B;PB;
-JOSE WELLINGTON DA SILVA;299.353.694-04;29/07/2010;70000144601;R$ 400,00;Depósito em espécie;JOSE WELLINGTON DA SILVA;70999;Deputado Estadual;PT do B;PB;
-JOSE WELLINGTON DA SILVA;299.353.694-04;10/09/2010;70000144606;R$ 330,00;Depósito em espécie;JOSE WELLINGTON DA SILVA;70999;Deputado Estadual;PT do B;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 JOSÉ TARGINO MANHÃO;12.189.345/0001-14;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;15 -  - PMDB -  - Governador / 70999 - JOSE WELLINGTON DA SILVA - PB - Deputado Estadual;
+JOSE TARGINO MARANHÃO;12.189.345/0001-14;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 523,56;Estimado;15 -  - PMDB -  - Governador / 70999 - JOSE WELLINGTON DA SILVA - PB - Deputado Estadual;
+SANDRA MARIA ROCHA ALBUQUERQUE DE AZEVEDO - SERI SINALIZAÇÃO;02.249.081/0001-93;10/09/2010;       Publicidade por materiais impressos;R$ 330,00;Cheque; -  -  / 70999 - JOSE WELLINGTON DA SILVA - PB - Deputado Estadual;
+SANDRA MARIA ROCHA ALBUQUERQUE DE AZEVEDO - SERI SINALIZAÇÃO;02.249.081/0001-93;29/07/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 70999 - JOSE WELLINGTON DA SILVA - PB - Deputado Estadual;
+SANDRA MARIA ROCHA ALBUQUERQUE DE AZEVEDO - SERI SINALIZAÇÃO;02.249.081/0001-93;20/08/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 70999 - JOSE WELLINGTON DA SILVA - PB - Deputado Estadual;

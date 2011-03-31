@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÕES 2010/ BRICE BRAGATO;12.190.477/0001-66;24/09/2010;50000163548;R$ 754,90;Estimado;JOSE ROBERTO TULLI;50555;Deputado Estadual;PSOL;ES;
-ELEIÇÕES 2010/BRICE BRAGATO;12.190.477/0001-66;24/09/2010;50000163547;R$ 2.000,00;Transferência eletrônica;JOSE ROBERTO TULLI;50555;Deputado Estadual;PSOL;ES;
-JOÃO  HENREIQUE ESPINOSA DE OLIVEIRA;416.810.707-82;01/09/2010;50000163542;R$ 510,00;Cheque;JOSE ROBERTO TULLI;50555;Deputado Estadual;PSOL;ES;
-JONAS DUTRA DA SILVA;467.186.727-34;23/09/2010;50000163543;R$ 500,00;Cheque;JOSE ROBERTO TULLI;50555;Deputado Estadual;PSOL;ES;
-JOSE ROBERTO TULLI;507.442.917-04;04/08/2010;50000163541;R$ 1.000,00;Transferência eletrônica;JOSE ROBERTO TULLI;50555;Deputado Estadual;PSOL;ES;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÕES 2010/ BRICE BRAGATO;12.190.477/0001-66;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 754,90;Estimado;50 -  - PSOL -  - Governador / 50555 - JOSE ROBERTO TULLI - ES - Deputado Estadual;
+GRAFICA F&M LTDA - ME;01.492.494/0001-31;02/09/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 50555 - JOSE ROBERTO TULLI - ES - Deputado Estadual;
+GRAFICA F&M LTDA - ME;01.492.494/0001-31;27/09/2010;       Publicidade por materiais impressos;R$ 380,00;Cheque; -  -  / 50555 - JOSE ROBERTO TULLI - ES - Deputado Estadual;
+JOSE ROGERIO CARDOSO;821.406.347-72;22/08/2010;       Produção de jingles, vinhetas e slogans;R$ 300,00;Cheque; -  -  / 50555 - JOSE ROBERTO TULLI - ES - Deputado Estadual;
+RICARDO CASTRO DE AGUIAR;931.023.807-00;27/09/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 2.000,00;Cheque; -  -  / 50555 - JOSE ROBERTO TULLI - ES - Deputado Estadual;

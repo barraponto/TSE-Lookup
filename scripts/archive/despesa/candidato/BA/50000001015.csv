@@ -1,3 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.940/0001-03;02/10/2010;65000045402;R$ 814,07;Estimado;DEUSDETE PIRES DA SILVA;65073;Deputado Estadual;PC do B;BA;
-DEUSDETE PIRES DA SILVA;115.135.945-91;26/08/2010;65000045401;R$ 1.000,00;Depósito em espécie;DEUSDETE PIRES DA SILVA;65073;Deputado Estadual;PC do B;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BARBARA MOREIRA DOS SANTOS;002.889.865-63;23/09/2010;       Serviços prestados por terceiros;R$ 600,00;Cheque; -  -  / 65073 - DEUSDETE PIRES DA SILVA - BA - Deputado Estadual;
+Comitê Financeiro Único;12.181.940/0001-03;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 814,07;Estimado;Comitê Financeiro Único - PC do B -  / 65073 - DEUSDETE PIRES DA SILVA - BA - Deputado Estadual;
+DANY FRANCO PESSOA TELES;022.137.065-06;27/09/2010;       Cessão ou Locação de Veículos;R$ 200,00;Cheque; -  -  / 65073 - DEUSDETE PIRES DA SILVA - BA - Deputado Estadual;
+NILMARA PEREIRA SILVA BORGE;495.041.505-00;27/09/2010;       Serviços prestados por terceiros;R$ 200,00;Cheque; -  -  / 65073 - DEUSDETE PIRES DA SILVA - BA - Deputado Estadual;

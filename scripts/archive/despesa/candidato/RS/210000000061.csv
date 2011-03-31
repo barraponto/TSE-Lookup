@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MARCIO ESPERANÇA CRUSIUS;806.433.020-34;10/07/2010;50000480051;R$ 700,00;Estimado;FABIAN TUBINO ROCHA;50600;Deputado Estadual;PSOL;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+MARCIO ESPERANÇA CRUSIUS;806.433.020-34;10/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 700,00;Estimado; -  -  / 50600 - FABIAN TUBINO ROCHA - RS - Deputado Estadual;

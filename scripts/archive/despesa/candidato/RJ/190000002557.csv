@@ -1,6 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-EDSON FIGUEIREDO DE ALMEIDA;411.012.867-68;17/08/2010;22000161584;R$ 400,00;Cheque;ROMULO JOSE DE ALMEIDA;2230;Deputado Federal;PR;RJ;
-FRANCISCO ROBERTO DE MEDEIROS FORTE;438.424.027-91;10/09/2010;22000161586;R$ 500,00;Transferência eletrônica;ROMULO JOSE DE ALMEIDA;2230;Deputado Federal;PR;RJ;
-FRANCISCO ROBERTO DE MEDEIROS FORTE;438.424.027-91;24/09/2010;22000161585;R$ 220,00;Transferência eletrônica;ROMULO JOSE DE ALMEIDA;2230;Deputado Federal;PR;RJ;
-MONIQUE DA MOTTA ALMEIDA;106.150.707-60;28/10/2010;22000161587;R$ 1.719,27;Transferência eletrônica;ROMULO JOSE DE ALMEIDA;2230;Deputado Federal;PR;RJ;
-SAMEA PETRONILHO CABRAL;096.015.047-10;01/09/2010;22000161582;R$ 500,00;Transferência eletrônica;ROMULO JOSE DE ALMEIDA;2230;Deputado Federal;PR;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARNALDO BARBOSA E SILVA;660.668.757-87;10/09/2010;       Serviços prestados por terceiros;R$ 80,00;Cheque; -  -  / 2230 - ROMULO JOSE DE ALMEIDA - RJ - Deputado Federal;
+GRAFICA EDITORA STAMPPA LTDA;28.844.405/0001-25;01/10/2010;       Publicidade por materiais impressos;R$ 1.725,00;Cheque; -  -  / 2230 - ROMULO JOSE DE ALMEIDA - RJ - Deputado Federal;
+HB INFORMATICA LTDA;01.969.207/0001-31;23/09/2010;       Publicidade por materiais impressos;R$ 467,47;Cheque; -  -  / 2230 - ROMULO JOSE DE ALMEIDA - RJ - Deputado Federal;
+MARIA CRISTINA DE MORAES E SILVA;839.806.107-30;10/09/2010;       Serviços prestados por terceiros;R$ 80,00;Cheque; -  -  / 2230 - ROMULO JOSE DE ALMEIDA - RJ - Deputado Federal;
+SILK FABRIL INDUSTRIA E COMERCIO LTDA;72.344.013/0001-99;30/07/2010;       Diversas a especificar;R$ 384,30;Transferência eletrônica; -  -  / 2230 - ROMULO JOSE DE ALMEIDA - RJ - Deputado Federal;
+STEPHANIE DOS SANTOS HORA;123.507.057-30;10/09/2010;       Serviços prestados por terceiros;R$ 200,00;Cheque; -  -  / 2230 - ROMULO JOSE DE ALMEIDA - RJ - Deputado Federal;
+VISUANA GRAFICA E EDITORA LTDA;04.561.145/0001-12;14/09/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 2230 - ROMULO JOSE DE ALMEIDA - RJ - Deputado Federal;
+VISUANA GRAFICA E EDITORA LTDA;04.561.145/0001-12;21/09/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 2230 - ROMULO JOSE DE ALMEIDA - RJ - Deputado Federal;
+;;02/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,50;Débito em conta; -  -  / 2230 - ROMULO JOSE DE ALMEIDA - RJ - Deputado Federal;

@@ -1,4 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.169.771/0001-96;02/08/2010;22000000001;R$ 2.000,00;Cheque;NILDA JESUS DA SILVA;22011;Deputado Estadual;PR;AM;
-Diretório Estadual/Distrital;12.169.771/0001-96;09/09/2010;22000000002;R$ 2.000,00;Cheque;NILDA JESUS DA SILVA;22011;Deputado Estadual;PR;AM;
-RONILDO JESUS DA SILVA;494.020.802-87;16/08/2010;22000000003;R$ 100,00;Depósito em espécie;NILDA JESUS DA SILVA;22011;Deputado Estadual;PR;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+NILDA JESUS DA SILVA;928.903.692-34;11/08/2010;       Publicidade por carros de som;R$ 1.400,00;Cheque; -  -  / 22011 - NILDA JESUS DA SILVA - AM - Deputado Estadual;
+NILDA JESUS DA SILVA;153.236.536-31;10/08/2010;       Pesquisas ou testes eleitorais;R$ 100,00;Cheque; -  -  / 22011 - NILDA JESUS DA SILVA - AM - Deputado Estadual;
+NILDA JESUS DA SILVA;828.921.482-00;10/08/2010;       Pesquisas ou testes eleitorais;R$ 400,00;Cheque; -  -  / 22011 - NILDA JESUS DA SILVA - AM - Deputado Estadual;
+NILDA JESUS DA SILVA;636.948.912-34;15/09/2010;       Pesquisas ou testes eleitorais;R$ 500,00;Cheque; -  -  / 22011 - NILDA JESUS DA SILVA - AM - Deputado Estadual;
+NILDA JESUS DA SILVA;011.310.682-38;11/08/2010;       Pesquisas ou testes eleitorais;R$ 200,00;Cheque; -  -  / 22011 - NILDA JESUS DA SILVA - AM - Deputado Estadual;
+NILDA JESUS DA SILVA;572.569.692-87;16/09/2010;       Pesquisas ou testes eleitorais;R$ 300,00;Cheque; -  -  / 22011 - NILDA JESUS DA SILVA - AM - Deputado Estadual;
+NILDA JESUS DA SILVA;797.855.222-53;15/09/2010;       Pesquisas ou testes eleitorais;R$ 1.200,00;Cheque; -  -  / 22011 - NILDA JESUS DA SILVA - AM - Deputado Estadual;

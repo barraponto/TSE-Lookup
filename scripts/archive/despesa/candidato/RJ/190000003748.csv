@@ -1,6 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;02/09/2010;27000024989;R$ 150,00;Estimado;FABIO PINHEIRO DE OLIVEIRA;27011;Deputado Estadual;PSDC;RJ;
-FABIO PINHEIRO DE OLIVEIRA;008.374.857-11;19/08/2010;;R$ 15,00;Depósito em espécie;FABIO PINHEIRO DE OLIVEIRA;27011;Deputado Estadual;PSDC;RJ;
-FABIO PINHEIRO DE OLIVEIRA;008.374.857-11;19/08/2010;;R$ 130,00;Depósito em espécie;FABIO PINHEIRO DE OLIVEIRA;27011;Deputado Estadual;PSDC;RJ;
-RODRIGO BETHLEM;12.181.892/0001-53;20/08/2010;27000024988;R$ 740,00;Estimado;FABIO PINHEIRO DE OLIVEIRA;27011;Deputado Estadual;PSDC;RJ;
-RODRIGO BETHLEM;12.181.892/0001-53;20/08/2010;27000024987;R$ 70,00;Estimado;FABIO PINHEIRO DE OLIVEIRA;27011;Deputado Estadual;PSDC;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 27011 - FABIO PINHEIRO DE OLIVEIRA - RJ - Deputado Estadual;
+RODRIGO BETHLEM;12.181.892/0001-53;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 70,00;Estimado;1510 -  - PMDB -  - Deputado Federal / 27011 - FABIO PINHEIRO DE OLIVEIRA - RJ - Deputado Estadual;
+RODRIGO BETHLEM;12.181.892/0001-53;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 740,00;Estimado;1510 -  - PMDB -  - Deputado Federal / 27011 - FABIO PINHEIRO DE OLIVEIRA - RJ - Deputado Estadual;
+3MARC IMPRESSOS GRAFICOS LTDA;02.651.657/0001-44;19/08/2010;       Publicidade por materiais impressos;R$ 144,80;Cheque; -  -  / 27011 - FABIO PINHEIRO DE OLIVEIRA - RJ - Deputado Estadual;

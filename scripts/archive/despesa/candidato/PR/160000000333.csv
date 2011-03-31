@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;24/08/2010;23000180994;R$ 1.575,00;Estimado;EDSON LUIZ PEREIRA;23700;Deputado Estadual;PPS;PR;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;01/10/2010;23000180995;R$ 1.250,00;Estimado;EDSON LUIZ PEREIRA;23700;Deputado Estadual;PPS;PR;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;30/09/2010;23000180998;R$ 1.680,00;Transferência eletrônica;EDSON LUIZ PEREIRA;23700;Deputado Estadual;PPS;PR;
-JOAÕ DESTRO;12.167.811/0001-60;10/09/2010;23000180997;R$ 5.500,00;Transferência eletrônica;EDSON LUIZ PEREIRA;23700;Deputado Estadual;PPS;PR;
-RUBENS BUENO;12.172.903/0001-39;14/09/2010;23000180996;R$ 57,20;Estimado;EDSON LUIZ PEREIRA;23700;Deputado Estadual;PPS;PR;
-RUBENS BUENO;12.172.903/0001-39;14/09/2010;23000180999;R$ 42,50;Estimado;EDSON LUIZ PEREIRA;23700;Deputado Estadual;PPS;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.575,00;Estimado;45 -  - PSDB -  - Governador / 23700 - EDSON LUIZ PEREIRA - PR - Deputado Estadual;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.250,00;Estimado;45 -  - PSDB -  - Governador / 23700 - EDSON LUIZ PEREIRA - PR - Deputado Estadual;
+EDSON LUIZ PEREIRA;552.826.959-87;30/09/2010;       Eventos de promoção da candidatura;R$ 1.680,00;Não informado; -  -  / 23700 - EDSON LUIZ PEREIRA - PR - Deputado Estadual;
+EDSON LUIZ PEREIRA;552.826.959-87;10/09/2010;       Eventos de promoção da candidatura;R$ 5.500,00;Não informado; -  -  / 23700 - EDSON LUIZ PEREIRA - PR - Deputado Estadual;
+RUBENS BUENO;12.172.903/0001-39;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 57,20;Estimado;2300 -  - PPS -  - Deputado Federal / 23700 - EDSON LUIZ PEREIRA - PR - Deputado Estadual;
+RUBENS BUENO;12.172.903/0001-39;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 42,50;Estimado;2300 -  - PPS -  - Deputado Federal / 23700 - EDSON LUIZ PEREIRA - PR - Deputado Estadual;

@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.110/0001-86;22/09/2010;12001009381;R$ 10.000,00;Cheque;WASHINGTON LUIZ AIRES VELOSO;1269;Deputado Federal;PDT;BA;
-ELEIÇÕES 2010 JAQUES WAGENER GOVERNADOR;12.174.245/0001-14;02/10/2010;12001009389;R$ 875,00;Estimado;WASHINGTON LUIZ AIRES VELOSO;1269;Deputado Federal;PDT;BA;
-ELEIÇÕES 2010 JAQUES WAGNER GOVERNADOR;12.174.245/0001-14;02/10/2010;12001009388;R$ 875,00;Estimado;WASHINGTON LUIZ AIRES VELOSO;1269;Deputado Federal;PDT;BA;
-ELEIÇÕES 2010 JAQUES WAGNER GOVERNADOR;12.174.245/0001-14;02/10/2010;12001009385;R$ 1.200,00;Estimado;WASHINGTON LUIZ AIRES VELOSO;1269;Deputado Federal;PDT;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ACE - ASSESSORIA CONTABIL LTDA;12.051.270/0001-00;24/09/2010;       Serviços prestados por terceiros;R$ 10.000,00;Cheque; -  -  / 1269 - WASHINGTON LUIZ AIRES VELOSO - BA - Deputado Federal;
+ELEIÇÕES 2010 JAQUES WAGENER GOVERNADOR;12.174.245/0001-14;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 875,00;Estimado;13 -  - PT -  - Governador / 1269 - WASHINGTON LUIZ AIRES VELOSO - BA - Deputado Federal;
+ELEIÇÕES 2010 JAQUES WAGNER GOVERNADOR;12.174.245/0001-14;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 875,00;Estimado;13 -  - PT -  - Governador / 1269 - WASHINGTON LUIZ AIRES VELOSO - BA - Deputado Federal;
+ELEIÇÕES 2010 JAQUES WAGNER GOVERNADOR;12.174.245/0001-14;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.200,00;Estimado;13 -  - PT -  - Governador / 1269 - WASHINGTON LUIZ AIRES VELOSO - BA - Deputado Federal;

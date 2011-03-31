@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 FERNANDO AFFONSO COLLOR DE MELLO;12.168.659/0001-30;29/09/2010;17000034951;R$ 3.906,25;Estimado;JOAO CARLOS VASCONCELOS;17111;Deputado Estadual;PSL;AL;
-JOÃO CARLOS VASCONCELOS;724.329.424-34;02/10/2010;17000034952;R$ 2.400,00;Estimado;JOAO CARLOS VASCONCELOS;17111;Deputado Estadual;PSL;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 FERNANDO AFFONSO COLLOR DE MELLO;12.168.659/0001-30;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.906,25;Estimado;14 -  - PTB -  - Governador / 17111 - JOAO CARLOS VASCONCELOS - AL - Deputado Estadual;
+JOÃO CARLOS VASCONCELOS;724.329.424-34;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.400,00;Estimado; -  -  / 17111 - JOAO CARLOS VASCONCELOS - AL - Deputado Estadual;

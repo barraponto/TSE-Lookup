@@ -1,7 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DANIEL TOURINHO;12.172.794/0001-50;22/08/2010;36000055351;R$ 700,00;Cheque;VALENTINA OUZONOF;36361;Deputado Estadual;PTC;RJ;
-IRANY ONOFRE RODRIGUES;12.169.762/0001-03;05/09/2010;36000055354;R$ 1.000,00;Estimado;VALENTINA OUZONOF;36361;Deputado Estadual;PTC;RJ;
-IRANY ONOFRE RODRIGUES;12.169.762/0001-03;20/09/2010;36000055353;R$ 2.250,00;Estimado;VALENTINA OUZONOF;36361;Deputado Estadual;PTC;RJ;
-IRANY ONOFRE RODRIGUES;12.169.762/0001-03;20/09/2010;36000055355;R$ 900,00;Estimado;VALENTINA OUZONOF;36361;Deputado Estadual;PTC;RJ;
-IRANY ONOFRE RODRIGUES;12.169.762/0001-03;20/09/2010;36000055356;R$ 90,00;Estimado;VALENTINA OUZONOF;36361;Deputado Estadual;PTC;RJ;
-JORGE PICCIANI;12.176.626/0001-32;05/09/2010;36000055352;R$ 47,18;Estimado;VALENTINA OUZONOF;36361;Deputado Estadual;PTC;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+IRANY ONOFRE RODRIGUES;12.169.762/0001-03;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 900,00;Estimado; -  -  / 36361 - VALENTINA OUZONOF - RJ - Deputado Estadual;
+IRANY ONOFRE RODRIGUES;12.169.762/0001-03;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 36361 - VALENTINA OUZONOF - RJ - Deputado Estadual;
+IRANY ONOFRE RODRIGUES;12.169.762/0001-03;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.250,00;Estimado; -  -  / 36361 - VALENTINA OUZONOF - RJ - Deputado Estadual;
+IRANY ONOFRE RODRIGUES;12.169.762/0001-03;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 90,00;Estimado; -  -  / 36361 - VALENTINA OUZONOF - RJ - Deputado Estadual;
+JORGE PICCIANI;12.176.626/0001-32;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 47,18;Estimado; -  -  / 36361 - VALENTINA OUZONOF - RJ - Deputado Estadual;

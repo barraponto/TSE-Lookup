@@ -1,3 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JESUALDO DE ALBUQUERQUE CAMPOS;128.450.784-04;17/08/2010;50000334952;R$ 400,00;Depósito em espécie;JESUALDO DE ALBUQUERQUE CAMPOS;50555;Deputado Estadual;PSOL;PE;
-JESUALDO DE ALBUQUERQUE CAMPOS JUNIOR;029.735.344-61;17/08/2010;50000334951;R$ 300,00;Depósito em espécie;JESUALDO DE ALBUQUERQUE CAMPOS;50555;Deputado Estadual;PSOL;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EDIÇÕES BAGAÇO LTDA;09.059.684/0001-71;17/08/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 50555 - JESUALDO DE ALBUQUERQUE CAMPOS - PE - Deputado Estadual;

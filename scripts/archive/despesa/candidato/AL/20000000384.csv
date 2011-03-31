@@ -1,7 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.108/0001-07;10/08/2010;28000507476;R$ 500,00;Estimado;JOAO BOSCO FERREIRA PEDROSA;28777;Deputado Estadual;PRTB;AL;
-JOAO BOSCO FERREIRA PEDROSA;007.898.524-20;01/09/2010;28000507471;R$ 5.000,00;Cheque;JOAO BOSCO FERREIRA PEDROSA;28777;Deputado Estadual;PRTB;AL;
-JOAO BOSCO FERREIRA PEDROSA;007.898.524-20;07/10/2010;28000507473;R$ 5.310,00;Depósito em espécie;JOAO BOSCO FERREIRA PEDROSA;28777;Deputado Estadual;PRTB;AL;
-JOAO BOSCO FERREIRA PEDROSA JUNIOR;029.103.604-07;07/10/2010;28000507474;R$ 3.000,00;Depósito em espécie;JOAO BOSCO FERREIRA PEDROSA;28777;Deputado Estadual;PRTB;AL;
-JOSE IVALDO COSTA PEDROSA;451.648.944-91;01/10/2010;28000507472;R$ 1.555,00;Depósito em espécie;JOAO BOSCO FERREIRA PEDROSA;28777;Deputado Estadual;PRTB;AL;
-RICARDO NOBRE AGRA;525.054.054-68;03/10/2010;28000507475;R$ 1.500,00;Estimado;JOAO BOSCO FERREIRA PEDROSA;28777;Deputado Estadual;PRTB;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.108/0001-07;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;Comitê Financeiro Único - PRTB -  / 28777 - JOAO BOSCO FERREIRA PEDROSA - AL - Deputado Estadual;
+EDMUNDO CAMPOS FLORENTINO;076.570.214-20;01/08/2010;       Publicidade por carros de som;R$ 5.000,00;Cheque; -  -  / 28777 - JOAO BOSCO FERREIRA PEDROSA - AL - Deputado Estadual;
+GRAFICA E EDITORA SANTA RITA LTDA;04.627.916/0001-27;06/10/2010;       Publicidade por materiais impressos;R$ 1.800,00;Cheque; -  -  / 28777 - JOAO BOSCO FERREIRA PEDROSA - AL - Deputado Estadual;
+JOSE TELMO DOS SANTOS;870.434.594-00;06/10/2010;       Publicidade por placas, estandartes e faixas;R$ 510,00;Cheque; -  -  / 28777 - JOAO BOSCO FERREIRA PEDROSA - AL - Deputado Estadual;
+NASCIMENTO E NASCIMENTO LTDA;05.324.226/0001-61;02/09/2010;       Publicidade por materiais impressos;R$ 1.750,00;Cheque; -  -  / 28777 - JOAO BOSCO FERREIRA PEDROSA - AL - Deputado Estadual;
+NASCIMENTO E NASCIMENTO LTDA;05.324.226/0001-61;27/09/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 28777 - JOAO BOSCO FERREIRA PEDROSA - AL - Deputado Estadual;
+NIVALDO DOS SANTOS;456.714.604-25;06/10/2010;       Publicidade por jornais e revistas;R$ 1.000,00;Cheque; -  -  / 28777 - JOAO BOSCO FERREIRA PEDROSA - AL - Deputado Estadual;
+RICARDO NOBRE AGRA;525.054.054-68;03/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado; -  -  / 28777 - JOAO BOSCO FERREIRA PEDROSA - AL - Deputado Estadual;
+VIUVA JAIME COSTA E CIA LTDA;08.616.112/0001-83;01/10/2010;       Combustíveis e lubrificantes;R$ 4.385,00;Cheque; -  -  / 28777 - JOAO BOSCO FERREIRA PEDROSA - AL - Deputado Estadual;
+;;15/10/2010;       Encargos financeiros e taxas bancárias;R$ 20,00;Débito em conta; -  -  / 28777 - JOAO BOSCO FERREIRA PEDROSA - AL - Deputado Estadual;

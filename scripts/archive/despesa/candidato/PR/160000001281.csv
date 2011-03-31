@@ -1,4 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS ALBERTO RICHA GOVERNADOR;12.190.887/0001-07;13/09/2010;40000063823;R$ 630,00;Estimado;NELSON ZAMARIAN;4000;Deputado Federal;PSB;PR;
-CARLOS ALBERTO RICHA GOVERNADOR;12.190.887/0001-07;15/09/2010;40000063824;R$ 500,00;Estimado;NELSON ZAMARIAN;4000;Deputado Federal;PSB;PR;
-NELSON ZAMARIAN;365.969.909-82;01/11/2010;40000063825;R$ 6.000,00;Depósito em espécie;NELSON ZAMARIAN;4000;Deputado Federal;PSB;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS ALBERTO RICHA GOVERNADOR;12.190.887/0001-07;13/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 630,00;Estimado;45 -  - PSDB -  - Governador / 4000 - NELSON ZAMARIAN - PR - Deputado Federal;
+CARLOS ALBERTO RICHA GOVERNADOR;12.190.887/0001-07;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;45 -  - PSDB -  - Governador / 4000 - NELSON ZAMARIAN - PR - Deputado Federal;
+COR GRÁFICA LTDA.;75.148.080/0001-26;21/09/2010;       Publicidade por materiais impressos;R$ 1.850,00;Não informado; -  -  / 4000 - NELSON ZAMARIAN - PR - Deputado Federal;
+COR GRÁFICA LTDA.;75.148.080/0001-26;13/09/2010;       Publicidade por materiais impressos;R$ 1.170,00;Transferência eletrônica; -  -  / 4000 - NELSON ZAMARIAN - PR - Deputado Federal;
+EDITORA A VOZ DO POVO S/S LTDA. ME;06.133.626/0001-52;29/09/2010;       Publicidade por jornais e revistas;R$ 500,00;Transferência eletrônica; -  -  / 4000 - NELSON ZAMARIAN - PR - Deputado Federal;
+PATROCINIO & CIA LTDA.;07.784.957/0001-15;03/09/2010;       Publicidade por materiais impressos;R$ 2.480,00;Transferência eletrônica; -  -  / 4000 - NELSON ZAMARIAN - PR - Deputado Federal;

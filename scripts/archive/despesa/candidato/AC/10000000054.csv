@@ -1,2 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.147.828/0001-56;22/09/2010;40000311062;R$ 2.000,00;Cheque;RICARD CÍCERO DINIZ AGUIAR;40789;Deputado Estadual;PSB;AC;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CHURRASCARIA GAUCHO;07.894.111/0001-38;27/09/2010;       Alimentação;R$ 39,00;Cheque; -  -  / 40789 - RICARD CÍCERO DINIZ AGUIAR - AC - Deputado Estadual;
+GILMAR PISMEL ALMEIDA;390.907.792-72;04/11/2010;       Despesas com pessoal;R$ 10,50;Cheque; -  -  / 40789 - RICARD CÍCERO DINIZ AGUIAR - AC - Deputado Estadual;
+SONIA MARIA DE MELO;216.936.252-53;28/09/2010;       Cessão ou Locação de Veículos;R$ 1.950,00;Cheque; -  -  / 40789 - RICARD CÍCERO DINIZ AGUIAR - AC - Deputado Estadual;
+;;22/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,50;Débito em conta; -  -  / 40789 - RICARD CÍCERO DINIZ AGUIAR - AC - Deputado Estadual;

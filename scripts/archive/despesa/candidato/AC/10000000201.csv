@@ -1,7 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALONSO ANDRADE;12.175.575/0001-24;30/08/2010;45000429213;R$ 450,00;Estimado;FRANCISCO JOSE BENICIO DIAS;4580;Deputado Federal;PSDB;AC;
-Comitê Financeiro Único;12.200.153/0001-61;15/09/2010;45000429216;R$ 290,00;Cheque;FRANCISCO JOSE BENICIO DIAS;4580;Deputado Federal;PSDB;AC;
-Comitê Financeiro Único;12.200.153/0001-61;20/09/2010;45000429217;R$ 440,00;Estimado;FRANCISCO JOSE BENICIO DIAS;4580;Deputado Federal;PSDB;AC;
-FRANCISCO CHAGAS BENÍCIO DIAS;196.559.242-20;17/08/2010;45000429215;R$ 272,00;Estimado;FRANCISCO JOSE BENICIO DIAS;4580;Deputado Federal;PSDB;AC;
-FRANCISCO CHAGAS BENÍCIO DIAS;196.559.242-20;13/08/2010;45000429211;R$ 516,00;Estimado;FRANCISCO JOSE BENICIO DIAS;4580;Deputado Federal;PSDB;AC;
-FRANCISCO CHAGAS BENÍCIO DIAS;196.559.242-20;01/08/2010;45000429212;R$ 1.200,00;Estimado;FRANCISCO JOSE BENICIO DIAS;4580;Deputado Federal;PSDB;AC;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALONSO ANDRADE;12.175.575/0001-24;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 450,00;Estimado;45233 -  - PSDB -  - Deputado Estadual / 4580 - FRANCISCO JOSE BENICIO DIAS - AC - Deputado Federal;
+Comitê Financeiro Único;12.200.153/0001-61;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 440,00;Estimado;Comitê Financeiro Único - PSDB -  / 4580 - FRANCISCO JOSE BENICIO DIAS - AC - Deputado Federal;
+DISDEPEL DIST. DE DERIVADOS DE PETRÓLEO LTDA.;04.517.835/0001-74;27/09/2010;       Combustíveis e lubrificantes;R$ 60,00;Cheque; -  -  / 4580 - FRANCISCO JOSE BENICIO DIAS - AC - Deputado Federal;
+FRANCISCO CHAGAS BENÍCIO DIAS;196.559.242-20;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 272,00;Estimado; -  -  / 4580 - FRANCISCO JOSE BENICIO DIAS - AC - Deputado Federal;
+FRANCISCO CHAGAS BENÍCIO DIAS;196.559.242-20;13/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 516,00;Estimado; -  -  / 4580 - FRANCISCO JOSE BENICIO DIAS - AC - Deputado Federal;
+FRANCISCO CHAGAS BENÍCIO DIAS;196.559.242-20;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.200,00;Estimado; -  -  / 4580 - FRANCISCO JOSE BENICIO DIAS - AC - Deputado Federal;
+M.ELISA DE ALMEIDA - EPP (RAYANE LOJA DO MILITAR);03.743.475/0001-66;29/09/2010;       Publicidade por materiais impressos;R$ 230,00;Cheque; -  -  / 4580 - FRANCISCO JOSE BENICIO DIAS - AC - Deputado Federal;

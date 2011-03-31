@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSILIAS FLORÊNCIO DE FREITAS;273.049.812-53;21/07/2010;15000179201;R$ 490,00;Estimado;JOSE LUPERCIO RAMOS DE OLIVEIRA;1514;Deputado Federal;PMDB;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JOSILIAS FLORÊNCIO DE FREITAS;273.049.812-53;21/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 490,00;Estimado; -  -  / 1514 - JOSE LUPERCIO RAMOS DE OLIVEIRA - AM - Deputado Federal;

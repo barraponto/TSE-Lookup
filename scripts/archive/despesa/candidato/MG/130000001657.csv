@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;20.764.395/0001-06;17/08/2010;23000153241;R$ 2.000,00;Cheque;ZILÁ CORREIA FERNANDES DE SOUZA;23265;Deputado Estadual;PPS;MG;
-Diretório Estadual/Distrital;20.764.395/0001-06;24/08/2010;23000153245;R$ 1.215,45;Estimado;ZILÁ CORREIA FERNANDES DE SOUZA;23265;Deputado Estadual;PPS;MG;
-Diretório Estadual/Distrital;20.764.395/0001-06;20/09/2010;23000153243;R$ 360,00;Estimado;ZILÁ CORREIA FERNANDES DE SOUZA;23265;Deputado Estadual;PPS;MG;
-Diretório Estadual/Distrital;20.764.395/0001-06;10/08/2010;23000153242;R$ 508,00;Estimado;ZILÁ CORREIA FERNANDES DE SOUZA;23265;Deputado Estadual;PPS;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;20.764.395/0001-06;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 508,00;Estimado;Direção Estadual/Distrital - PPS -  / 23265 - ZILÁ CORREIA FERNANDES DE SOUZA - MG - Deputado Estadual;
+Diretório Estadual/Distrital;20.764.395/0001-06;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.215,45;Estimado;Direção Estadual/Distrital - PPS -  / 23265 - ZILÁ CORREIA FERNANDES DE SOUZA - MG - Deputado Estadual;
+Diretório Estadual/Distrital;20.764.395/0001-06;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Direção Estadual/Distrital - PPS -  / 23265 - ZILÁ CORREIA FERNANDES DE SOUZA - MG - Deputado Estadual;
+MARIA DALVA DOS SANTOS;115.049.768-86;01/09/2010;       Serviços prestados por terceiros;R$ 1.950,00;Cheque; -  -  / 23265 - ZILÁ CORREIA FERNANDES DE SOUZA - MG - Deputado Estadual;

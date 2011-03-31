@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.154.851/0001-78;05/09/2010;28000606005;R$ 590,00;Estimado;RODRIGO MARTINS DA SILVA;28337;Deputado Estadual;PRTB;MG;
-Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;28000606006;R$ 300,00;Estimado;RODRIGO MARTINS DA SILVA;28337;Deputado Estadual;PRTB;MG;
-EIDDY MILENNE CRISTINE FROIS COSTA;056.219.976-46;23/09/2010;28000606003;R$ 140,00;Depósito em espécie;RODRIGO MARTINS DA SILVA;28337;Deputado Estadual;PRTB;MG;
-RODRIGO LUCIANO MACHADO;074.110.326-54;16/09/2010;28000606002;R$ 150,00;Depósito em espécie;RODRIGO MARTINS DA SILVA;28337;Deputado Estadual;PRTB;MG;
-RODRIGO MARTINS DA SILVA;053.331.206-09;28/09/2010;28000606004;R$ 130,00;Depósito em espécie;RODRIGO MARTINS DA SILVA;28337;Deputado Estadual;PRTB;MG;
-RODRIGO MARTINS DA SILVA;053.331.206-09;01/09/2010;28000606001;R$ 1.000,00;Cheque;RODRIGO MARTINS DA SILVA;28337;Deputado Estadual;PRTB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PT do B -  / 28337 - RODRIGO MARTINS DA SILVA - MG - Deputado Estadual;
+Comitê Financeiro Único;12.154.851/0001-78;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 590,00;Estimado;Comitê Financeiro Único - PT do B -  / 28337 - RODRIGO MARTINS DA SILVA - MG - Deputado Estadual;
+ETC - EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS;64.296.528/0001-32;22/09/2010;       Despesas postais;R$ 134,15;Cheque; -  -  / 28337 - RODRIGO MARTINS DA SILVA - MG - Deputado Estadual;
+ETC - EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS;64.296.528/0001-32;24/09/2010;       Despesas postais;R$ 128,50;Cheque; -  -  / 28337 - RODRIGO MARTINS DA SILVA - MG - Deputado Estadual;
+GRAFATEC DIGITAL LTDA;07.667.754/0001-49;13/09/2010;       Publicidade por materiais impressos;R$ 870,00;Cheque; -  -  / 28337 - RODRIGO MARTINS DA SILVA - MG - Deputado Estadual;
+PAPELFORM EDITORA LTDA;05.539.072/0001-25;03/09/2010;       Publicidade por materiais impressos;R$ 275,00;Cheque; -  -  / 28337 - RODRIGO MARTINS DA SILVA - MG - Deputado Estadual;

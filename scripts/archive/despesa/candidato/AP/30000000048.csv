@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MOACIR PANTOJA;047.324.992-87;24/09/2010;13000601202;R$ 20,00;Depósito em espécie;MOACIR PANTOJA;13111;Deputado Estadual;PT;AP;
-MOACIR PANTOJA;047.324.992-87;26/08/2010;13000601201;R$ 530,00;Depósito em espécie;MOACIR PANTOJA;13111;Deputado Estadual;PT;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA E EDITORA BRASIL LTDA;03.568.535/0001-51;16/09/2010;       Publicidade por materiais impressos;R$ 130,00;Cheque; -  -  / 13111 - MOACIR PANTOJA - AP - Deputado Estadual;
+GRAFICA E EDITORA BRASIL LTDA;03.568.535/0001-51;16/09/2010;       Publicidade por materiais impressos;R$ 20,00;Cheque; -  -  / 13111 - MOACIR PANTOJA - AP - Deputado Estadual;
+GRAFICA E EDITORA BRASIL LTDA;03.568.535/0001-51;27/08/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 13111 - MOACIR PANTOJA - AP - Deputado Estadual;

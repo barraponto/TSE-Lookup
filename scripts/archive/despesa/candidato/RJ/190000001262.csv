@@ -1,7 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CLANIR RIBEIRO MARQUES;942.546.217-87;28/07/2010;45000071651;R$ 2.000,00;Transferência eletrônica;CLANIR RIBEIRO MARQUES;45100;Deputado Estadual;PSDB;RJ;
-Diretório Estadual/Distrital;32.080.483/0001-78;30/09/2010;45000439705;R$ 3.875,00;Estimado;CLANIR RIBEIRO MARQUES;45100;Deputado Estadual;PSDB;RJ;
-Diretório Estadual/Distrital;32.080.483/0001-78;30/09/2010;45000439706;R$ 166,67;Estimado;CLANIR RIBEIRO MARQUES;45100;Deputado Estadual;PSDB;RJ;
-ELEIÇAO 2010 OTAVIO SANTOS SILVA LEITE;12.190.107/0001-29;30/09/2010;45000439703;R$ 939,56;Estimado;CLANIR RIBEIRO MARQUES;45100;Deputado Estadual;PSDB;RJ;
-ELEIÇÃO 2010 OTAVIO SANTOS SILVA LEITE;12.190.107/0001-29;30/09/2010;45000439704;R$ 150,00;Estimado;CLANIR RIBEIRO MARQUES;45100;Deputado Estadual;PSDB;RJ;
-ELIAS DE TOLEDO PINTO;267.093.687-34;18/08/2010;45000439702;R$ 600,00;Cheque;CLANIR RIBEIRO MARQUES;45100;Deputado Estadual;PSDB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;32.080.483/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.875,00;Estimado;Direção Estadual/Distrital - PSDB -  / 45100 - CLANIR RIBEIRO MARQUES - RJ - Deputado Estadual;
+Diretório Estadual/Distrital;32.080.483/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 166,67;Estimado;Direção Estadual/Distrital - PSDB -  / 45100 - CLANIR RIBEIRO MARQUES - RJ - Deputado Estadual;
+ELEIÇAO 2010 OTAVIO SANTOS SILVA LEITE;12.190.107/0001-29;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 939,56;Estimado;4555 -  - PSDB -  - Deputado Federal / 45100 - CLANIR RIBEIRO MARQUES - RJ - Deputado Estadual;
+ELEIÇÃO 2010 OTAVIO SANTOS SILVA LEITE;12.190.107/0001-29;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;4555 -  - PSDB -  - Deputado Federal / 45100 - CLANIR RIBEIRO MARQUES - RJ - Deputado Estadual;
+JP4 SOLUÇÕES GRÁFICAS E COMUNICAÇÃO VISUAL;10.768.789/0001-89;25/08/2010;       Publicidade por materiais impressos;R$ 1.450,00;Cheque; -  -  / 45100 - CLANIR RIBEIRO MARQUES - RJ - Deputado Estadual;
+MANUEL ANTONIO JOSE;960.660.837-91;21/09/2010;       Despesas com pessoal;R$ 525,00;Cheque; -  -  / 45100 - CLANIR RIBEIRO MARQUES - RJ - Deputado Estadual;
+OPEN MIND 2010 COMERCIO GRAFICO LTDA;09.377.389/0001-63;09/08/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 45100 - CLANIR RIBEIRO MARQUES - RJ - Deputado Estadual;
+PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA;32.080.483/0001-78;28/09/2010;       Diversas a especificar;R$ 25,00;Cheque; -  -  / 45100 - CLANIR RIBEIRO MARQUES - RJ - Deputado Estadual;

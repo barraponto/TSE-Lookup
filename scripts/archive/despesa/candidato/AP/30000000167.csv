@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.285/0001-86;17/08/2010;20000041101;R$ 964,36;Estimado;DEUZA DIAS DE SOUZA;20125;Deputado Estadual;PSC;AP;
-Comitê Financeiro Único;12.205.285/0001-86;05/08/2010;20000041102;R$ 300,00;Estimado;DEUZA DIAS DE SOUZA;20125;Deputado Estadual;PSC;AP;
-Comitê Financeiro Único;12.256.171/0001-65;02/09/2010;20000041105;R$ 1.000,00;Estimado;DEUZA DIAS DE SOUZA;20125;Deputado Estadual;PSC;AP;
-Comitê Financeiro Único;12.256.171/0001-65;02/09/2010;20000041104;R$ 300,00;Estimado;DEUZA DIAS DE SOUZA;20125;Deputado Estadual;PSC;AP;
-Comitê Financeiro Único;12.205.285/0001-86;21/09/2010;20000041103;R$ 140,00;Estimado;DEUZA DIAS DE SOUZA;20125;Deputado Estadual;PSC;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.285/0001-86;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 20125 - DEUZA DIAS DE SOUZA - AP - Deputado Estadual;
+Comitê Financeiro Único;12.256.171/0001-65;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;Comitê Financeiro Único - PSC -  / 20125 - DEUZA DIAS DE SOUZA - AP - Deputado Estadual;
+Comitê Financeiro Único;12.256.171/0001-65;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PSC -  / 20125 - DEUZA DIAS DE SOUZA - AP - Deputado Estadual;
+Comitê Financeiro Único;12.205.285/0001-86;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 140,00;Estimado;Comitê Financeiro Único - PMDB -  / 20125 - DEUZA DIAS DE SOUZA - AP - Deputado Estadual;
+Comitê Financeiro Único;12.205.285/0001-86;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 964,36;Estimado;Comitê Financeiro Único - PMDB -  / 20125 - DEUZA DIAS DE SOUZA - AP - Deputado Estadual;

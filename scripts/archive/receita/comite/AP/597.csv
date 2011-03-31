@@ -1,3 +1,8 @@
-Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
-GRAFICA AMAPAENSE LTDA;84.410.653/0001-39;15/07/2010;       Diversas a especificar;R$ 650,00;Transferência eletrônica; -  -  / Comitê Financeiro Único - PPS - AP;
-;;15/07/2010;       Encargos financeiros e taxas bancárias;R$ 3,00;Débito em conta; -  -  / Comitê Financeiro Único - PPS - AP;
+Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
+ALINETE CORDEIRO DE OLIVEIRA;179.834.952-34;15/07/2010;23000040486;R$ 130,00;Depósito em espécie;Comitê Financeiro Único;PPS;AP;
+MARIA JOSINEIDE RAMOS BRAGA;821.478.502-25;15/07/2010;23000040483;R$ 130,00;Depósito em espécie;Comitê Financeiro Único;PPS;AP;
+OLAVO DINIZ DE SALES BASTOS FILHO;045.457.882-20;15/07/2010;23000040485;R$ 130,00;Depósito em espécie;Comitê Financeiro Único;PPS;AP;
+PATRICK RONNY DOS SANTOS FERNANDES;717.284.812-87;15/07/2010;23000040481;R$ 130,00;Depósito em espécie;Comitê Financeiro Único;PPS;AP;
+RAIMUNDO NONATO TAVARES DOS SANTOS;431.999.922-34;15/07/2010;23000040482;R$ 130,00;Depósito em espécie;Comitê Financeiro Único;PPS;AP;
+RAIMUNDO NONATO TAVARES DOS SANTOS;431.999.922-34;23/08/2010;23000040487;R$ 13,50;Depósito em espécie;Comitê Financeiro Único;PPS;AP;
+TITO CURSINO AMANAJAS NETO;623.550.662-72;15/07/2010;23000040484;R$ 130,00;Depósito em espécie;Comitê Financeiro Único;PPS;AP;

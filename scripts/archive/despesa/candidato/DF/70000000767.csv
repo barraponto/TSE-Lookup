@@ -1,7 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.229.927/0001-87;12/08/2010;28000689152;R$ 360,00;Estimado;JEAN PAULO FRANCISCO;28120;Deputado Distrital;PRTB;DF;
-Diretório Estadual/Distrital;12.229.927/0001-87;16/08/2010;28000689153;R$ 360,00;Estimado;JEAN PAULO FRANCISCO;28120;Deputado Distrital;PRTB;DF;
-HAMMASKJELD VERDI MARTINS;369.817.886-91;24/08/2010;28000689156;R$ 1.300,00;Depósito em espécie;JEAN PAULO FRANCISCO;28120;Deputado Distrital;PRTB;DF;
-SANDRA GARRIDO PEREIRA;258.157.171-34;21/10/2010;28000689159;R$ 160,00;Depósito em espécie;JEAN PAULO FRANCISCO;28120;Deputado Distrital;PRTB;DF;
-SANDRA GARRIDO PEREIRA;258.157.171-34;18/08/2010;28000689154;R$ 250,00;Depósito em espécie;JEAN PAULO FRANCISCO;28120;Deputado Distrital;PRTB;DF;
-SOLANGE BORGES;610.349.757-49;11/08/2010;28000689151;R$ 300,00;Depósito em espécie;JEAN PAULO FRANCISCO;28120;Deputado Distrital;PRTB;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.229.927/0001-87;12/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Direção Estadual/Distrital - PRTB -  / 28120 - JEAN PAULO FRANCISCO - DF - Deputado Distrital;
+Diretório Estadual/Distrital;12.229.927/0001-87;16/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Direção Estadual/Distrital - PRTB -  / 28120 - JEAN PAULO FRANCISCO - DF - Deputado Distrital;
+EMERSON AUTO PEÇAS LTDA-ME;11.839.037/0001-24;29/09/2010;       Despesas com transporte ou deslocamento;R$ 160,00;Cheque; -  -  / 28120 - JEAN PAULO FRANCISCO - DF - Deputado Distrital;
+HUDSON DE OLIVEIRA JUNIOR;536.440.181-20;17/08/2010;       Produção de jingles, vinhetas e slogans;R$ 550,00;Cheque; -  -  / 28120 - JEAN PAULO FRANCISCO - DF - Deputado Distrital;
+QUALIGRAFF IMPRESSOS GRAFICOS E EDITORA LTDA-ME;10.727.524/0001-32;19/08/2010;       Publicidade por placas, estandartes e faixas;R$ 1.300,00;Cheque; -  -  / 28120 - JEAN PAULO FRANCISCO - DF - Deputado Distrital;

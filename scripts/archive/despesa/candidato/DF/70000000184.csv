@@ -1,3 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JUSSARA BEZERRA JAPIASSU;244.490.081-20;20/09/2010;17000028552;R$ 2.000,00;Depósito em espécie;JUSSARA BEZERRA JAPIASSU;17852;Deputado Distrital;PSL;DF;
-JUSSARA BEZERRA JAPIASSU;244.490.081-20;02/09/2010;17000028551;R$ 1.100,00;Depósito em espécie;JUSSARA BEZERRA JAPIASSU;17852;Deputado Distrital;PSL;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EUCLIDES JORGE VERGILATO;289.744.172-00;05/09/2010;       Criação e inclusão de páginas na internet;R$ 1.000,00;Cheque; -  -  / 17852 - JUSSARA BEZERRA JAPIASSU - DF - Deputado Distrital;
+FIREBIT SOLUCOES EM TI, INFORMATICA E SERVIÇOS GRAFICOS LTDA ME;10.332.271/0001-06;16/09/2010;       Publicidade por materiais impressos;R$ 1.700,00;Cheque; -  -  / 17852 - JUSSARA BEZERRA JAPIASSU - DF - Deputado Distrital;
+UNIAO COMERCIO DE PAPEIS LTDA ME;05.807.200/0001-74;01/10/2010;       Publicidade por materiais impressos;R$ 82,00;Cheque; -  -  / 17852 - JUSSARA BEZERRA JAPIASSU - DF - Deputado Distrital;
+VCI FESTAS E EVENTOS LTDA;06.091.495/0001-98;27/09/2010;       Publicidade por placas, estandartes e faixas;R$ 120,00;Cheque; -  -  / 17852 - JUSSARA BEZERRA JAPIASSU - DF - Deputado Distrital;
+;;06/09/2010;       Encargos financeiros e taxas bancárias;R$ 4,50;Débito em conta; -  -  / 17852 - JUSSARA BEZERRA JAPIASSU - DF - Deputado Distrital;

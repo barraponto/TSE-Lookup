@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.531/0001-98;30/09/2010;33000086032;R$ 1.950,00;Estimado;ANTONIO PESSOA DOS SANTOS;33444;Deputado Estadual;PMN;CE;
-Comitê Financeiro Único;12.191.531/0001-98;29/09/2010;33000086031;R$ 98,00;Estimado;ANTONIO PESSOA DOS SANTOS;33444;Deputado Estadual;PMN;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.531/0001-98;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 98,00;Estimado;Comitê Financeiro Único - PMN -  / 33444 - ANTONIO PESSOA DOS SANTOS - CE - Deputado Estadual;
+Comitê Financeiro Único;12.191.531/0001-98;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.950,00;Estimado;Comitê Financeiro Único - PMN -  / 33444 - ANTONIO PESSOA DOS SANTOS - CE - Deputado Estadual;

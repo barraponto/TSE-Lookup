@@ -1,7 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.372.871/0001-15;29/07/2010;12001564252;R$ 1.197,84;Estimado;STELA MARES ALVES NEVES;1236;Deputado Federal;PDT;MG;
-Comitê Financeiro Único;12.372.871/0001-15;10/09/2010;12001564256;R$ 510,00;Estimado;STELA MARES ALVES NEVES;1236;Deputado Federal;PDT;MG;
-Comitê Financeiro Único;12.372.871/0001-15;31/08/2010;12001564251;R$ 1.320,00;Estimado;STELA MARES ALVES NEVES;1236;Deputado Federal;PDT;MG;
-Comitê Financeiro Único;12.372.871/0001-15;20/09/2010;12001564253;R$ 2.500,00;Cheque;STELA MARES ALVES NEVES;1236;Deputado Federal;PDT;MG;
-LUIZ CARLOS DE MIRANDA FARIA;12.189.992/0001-26;30/08/2010;12001564254;R$ 1.200,00;Estimado;STELA MARES ALVES NEVES;1236;Deputado Federal;PDT;MG;
-STELA MARES ALVES NEVES;448.030.106-25;28/09/2010;12001564255;R$ 15,00;Depósito em espécie;STELA MARES ALVES NEVES;1236;Deputado Federal;PDT;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CLAUDINEI GOMES BRAGA;922.341.606-00;22/09/2010;       Serviços prestados por terceiros;R$ 800,00;Cheque; -  -  / 1236 - STELA MARES ALVES NEVES - MG - Deputado Federal;
+Comitê Financeiro Único;12.372.871/0001-15;29/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.197,84;Estimado;Comitê Financeiro Único - PDT -  / 1236 - STELA MARES ALVES NEVES - MG - Deputado Federal;
+Comitê Financeiro Único;12.372.871/0001-15;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.320,00;Estimado;Comitê Financeiro Único - PDT -  / 1236 - STELA MARES ALVES NEVES - MG - Deputado Federal;
+Comitê Financeiro Único;12.372.871/0001-15;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 510,00;Estimado;Comitê Financeiro Único - PDT -  / 1236 - STELA MARES ALVES NEVES - MG - Deputado Federal;
+JANAINA OLIVEIRA GUEDES ALVES;030.764.256-92;22/09/2010;       Serviços prestados por terceiros;R$ 800,00;Cheque; -  -  / 1236 - STELA MARES ALVES NEVES - MG - Deputado Federal;
+KÁTIA MICHELLE RIBEIRO SALDANHA;003.632.126-55;22/09/2010;       Serviços prestados por terceiros;R$ 500,00;Cheque; -  -  / 1236 - STELA MARES ALVES NEVES - MG - Deputado Federal;
+LUIZ CARLOS DE MIRANDA FARIA;12.189.992/0001-26;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.200,00;Estimado;12345 -  - PDT -  - Deputado Estadual / 1236 - STELA MARES ALVES NEVES - MG - Deputado Federal;
+POSTO JOSÉ BICALHO LTDA;20.964.326/0001-46;23/09/2010;       Combustíveis e lubrificantes;R$ 117,00;Cheque; -  -  / 1236 - STELA MARES ALVES NEVES - MG - Deputado Federal;
+SEBASTIANA LEITE COSTA;561.991.126-87;23/09/2010;       Serviços prestados por terceiros;R$ 250,00;Cheque; -  -  / 1236 - STELA MARES ALVES NEVES - MG - Deputado Federal;

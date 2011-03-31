@@ -1,5 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CLISUR CLIN SUBURBANA E DE URGENCIA LTDA.;13.534.359/0001-90;01/09/2010;22000011905;R$ 1.500,72;Depósito em espécie;ORLANDO COLAVOLPE;2231;Deputado Federal;PR;BA;
-Diretório Nacional;12.191.570/0001-95;30/09/2010;22000011903;R$ 6.667,60;Estimado;ORLANDO COLAVOLPE;2231;Deputado Federal;PR;BA;
-Diretório Nacional;12.191.570/0001-95;31/07/2010;22000011901;R$ 192,00;Estimado;ORLANDO COLAVOLPE;2231;Deputado Federal;PR;BA;
-GEDDEL QUADROS VIEIRA LIMA;12.173.503/0001-48;30/08/2010;22000011902;R$ 204,00;Estimado;ORLANDO COLAVOLPE;2231;Deputado Federal;PR;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Nacional;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 6.667,60;Estimado;Direção Nacional - PMDB -  / 2231 - ORLANDO COLAVOLPE - BA - Deputado Federal;
+Diretório Nacional;12.191.570/0001-95;31/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 192,00;Estimado;Direção Nacional - PR -  / 2231 - ORLANDO COLAVOLPE - BA - Deputado Federal;
+FADALI MENDES NOVAES;283.039.385-68;19/10/2010;       Publicidade por materiais impressos;R$ 0,35;Cheque; -  -  / 2231 - ORLANDO COLAVOLPE - BA - Deputado Federal;
+GEDDEL QUADROS VIEIRA LIMA;12.173.503/0001-48;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 204,00;Estimado;15 -  - PMDB -  - Governador / 2231 - ORLANDO COLAVOLPE - BA - Deputado Federal;
+J.W.S.COML DE BRINDES E SILKSCREEN LTDA.;00.312.635/0001-24;11/09/2010;       Publicidade por materiais impressos;R$ 850,00;Cheque; -  -  / 2231 - ORLANDO COLAVOLPE - BA - Deputado Federal;
+J.W.S.COML DE BRINDES E SILKSCREEN LTDA.;00.312.635/0001-24;30/09/2010;       Publicidade por materiais impressos;R$ 650,37;Cheque; -  -  / 2231 - ORLANDO COLAVOLPE - BA - Deputado Federal;

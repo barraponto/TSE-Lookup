@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.249.219/0001-08;25/08/2010;22000134601;R$ 480,00;Estimado;RAIMUNDO AUDEMAR CAMPOS CARMONA;22788;Deputado Estadual;PR;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.249.219/0001-08;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 480,00;Estimado;Comitê Financeiro Único - PR -  / 22788 - RAIMUNDO AUDEMAR CAMPOS CARMONA - PA - Deputado Estadual;

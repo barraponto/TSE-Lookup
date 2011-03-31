@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;23/08/2010;17000073058;R$ 630,00;Estimado;MARILDA BATISTA PADILHA;17310;Deputado Estadual;PSL;PR;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;27/09/2010;17000073059;R$ 500,00;Estimado;MARILDA BATISTA PADILHA;17310;Deputado Estadual;PSL;PR;
-LUCIANO PIZZATTO;12.175.251/0001-96;28/09/2010;17000073060;R$ 850,00;Estimado;MARILDA BATISTA PADILHA;17310;Deputado Estadual;PSL;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;45 -  - PSDB -  - Governador / 17310 - MARILDA BATISTA PADILHA - PR - Deputado Estadual;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 630,00;Estimado;45 -  - PSDB -  - Governador / 17310 - MARILDA BATISTA PADILHA - PR - Deputado Estadual;
+LUCIANO PIZZATTO;12.175.251/0001-96;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 850,00;Estimado;2552 -  - DEM -  - Deputado Federal / 17310 - MARILDA BATISTA PADILHA - PR - Deputado Estadual;

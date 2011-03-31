@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;05.055.973/0001-41;24/09/2010;36000064001;R$ 200,00;Estimado;CLAUDIA ROBERTA CORDEIRO DE MOURA;36455;Deputado Estadual;PTC;PE;
-Diretório Estadual/Distrital;05.055.973/0001-41;28/09/2010;36000064003;R$ 574,00;Estimado;CLAUDIA ROBERTA CORDEIRO DE MOURA;36455;Deputado Estadual;PTC;PE;
-Diretório Estadual/Distrital;05.055.973/0001-41;02/10/2010;36000064002;R$ 250,00;Estimado;CLAUDIA ROBERTA CORDEIRO DE MOURA;36455;Deputado Estadual;PTC;PE;
-JOSE ERIBERTO MEDEIROS DE OLIVEIRA;12.177.701/0001-80;25/08/2010;36000064004;R$ 60,00;Estimado;CLAUDIA ROBERTA CORDEIRO DE MOURA;36455;Deputado Estadual;PTC;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;05.055.973/0001-41;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 574,00;Estimado;Direção Estadual/Distrital - PTC -  / 36455 - CLAUDIA ROBERTA CORDEIRO DE MOURA - PE - Deputado Estadual;
+Diretório Estadual/Distrital;05.055.973/0001-41;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;Direção Estadual/Distrital - PTC -  / 36455 - CLAUDIA ROBERTA CORDEIRO DE MOURA - PE - Deputado Estadual;
+Diretório Estadual/Distrital;05.055.973/0001-41;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;Direção Estadual/Distrital - PTC -  / 36455 - CLAUDIA ROBERTA CORDEIRO DE MOURA - PE - Deputado Estadual;
+JOSE ERIBERTO MEDEIROS DE OLIVEIRA;12.177.701/0001-80;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 60,00;Estimado;36111 -  - PTC -  - Deputado Estadual / 36455 - CLAUDIA ROBERTA CORDEIRO DE MOURA - PE - Deputado Estadual;

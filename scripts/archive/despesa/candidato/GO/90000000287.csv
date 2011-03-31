@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 FLÁVIA CARREIRO ALBUQUERQUE DEP. FEDERAL;12.178.206/0001-95;21/10/2010;12001019591;R$ 7.750,00;Estimado;TIMOTIO JOAO DE SOUZA COSTA;12112;Deputado Estadual;PDT;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 FLÁVIA CARREIRO ALBUQUERQUE DEP. FEDERAL;12.178.206/0001-95;21/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 7.750,00;Estimado;1212 -  - PDT -  - Deputado Federal / 12112 - TIMOTIO JOAO DE SOUZA COSTA - GO - Deputado Estadual;

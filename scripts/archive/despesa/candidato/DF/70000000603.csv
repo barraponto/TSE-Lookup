@@ -1,6 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Nacional;01.770.770/0001-86;22/09/2010;31000003451;R$ 3.200,00;Cheque;JOSE SINEZIO RODRIGUES DE SOUSA;31100;Deputado Distrital;PHS;DF;
-Diretório Nacional;01.770.770/0001-86;01/10/2010;31000003454;R$ 3.000,00;Cheque;JOSE SINEZIO RODRIGUES DE SOUSA;31100;Deputado Distrital;PHS;DF;
-LUIZ CARLOS PIESTSCHMANN;12.174.266/0001-30;20/09/2010;31000003452;R$ 10.000,00;Cheque;JOSE SINEZIO RODRIGUES DE SOUSA;31100;Deputado Distrital;PHS;DF;
-LUIZ CARLOS PIETSCHMANN;12.174.266/0001-30;28/09/2010;31000003453;R$ 10.000,00;Cheque;JOSE SINEZIO RODRIGUES DE SOUSA;31100;Deputado Distrital;PHS;DF;
-LUIZ CARLOS PIETSCHMANN;12.174.266/0001-30;30/09/2010;31000003455;R$ 2.597,73;Estimado;JOSE SINEZIO RODRIGUES DE SOUSA;31100;Deputado Distrital;PHS;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS DE CARVALHO;473.272.941-04;01/09/2010;       Serviços prestados por terceiros;R$ 2.500,00;Transferência eletrônica; -  -  / 31100 - JOSE SINEZIO RODRIGUES DE SOUSA - DF - Deputado Distrital;
+G R TIBA GRAFICA ME;07.713.424/0001-42;27/09/2010;       Publicidade por materiais impressos;R$ 6.500,00;Transferência eletrônica; -  -  / 31100 - JOSE SINEZIO RODRIGUES DE SOUSA - DF - Deputado Distrital;
+LUIZ CARLOS PIETSCHMANN;12.174.266/0001-30;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.597,73;Estimado;1515 -  - PMDB -  - Deputado Federal / 31100 - JOSE SINEZIO RODRIGUES DE SOUSA - DF - Deputado Distrital;
+LUIZ DONIZETE PEREIRA;335.079.881-00;27/09/2010;       Locação/cessão de bens imóveis;R$ 3.000,00;Transferência eletrônica; -  -  / 31100 - JOSE SINEZIO RODRIGUES DE SOUSA - DF - Deputado Distrital;
+QUALIGRAFF IMPRESSOS GRAFICOS E EDITORA LTDA;10.727.524/0001-32;27/09/2010;       Publicidade por materiais impressos;R$ 3.300,00;Transferência eletrônica; -  -  / 31100 - JOSE SINEZIO RODRIGUES DE SOUSA - DF - Deputado Distrital;
+XEQUEMATE COMUNICACAO ESTRATEGICA;02.066.340/0001-40;23/09/2010;       Serviços prestados por terceiros;R$ 10.800,00;Transferência eletrônica; -  -  / 31100 - JOSE SINEZIO RODRIGUES DE SOUSA - DF - Deputado Distrital;
+;;24/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,05;Débito em conta; -  -  / 31100 - JOSE SINEZIO RODRIGUES DE SOUSA - DF - Deputado Distrital;
+;;24/09/2010;       Encargos financeiros e taxas bancárias;R$ 35,00;Débito em conta; -  -  / 31100 - JOSE SINEZIO RODRIGUES DE SOUSA - DF - Deputado Distrital;
+;;01/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,05;Débito em conta; -  -  / 31100 - JOSE SINEZIO RODRIGUES DE SOUSA - DF - Deputado Distrital;
+;;22/09/2010;       Encargos financeiros e taxas bancárias;R$ 14,00;Débito em conta; -  -  / 31100 - JOSE SINEZIO RODRIGUES DE SOUSA - DF - Deputado Distrital;

@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CRISTIANE M. DE C. JUNCK;063.573.449-40;15/10/2010;33000000507;R$ 350,00;Transferência eletrônica;ORZALI ALVES DOS SANTOS;3356;Deputado Federal;PMN;PR;
-ISMAEL ALVES DOS SANTOS;474.571.399-15;25/10/2010;33000000506;R$ 540,00;Transferência eletrônica;ORZALI ALVES DOS SANTOS;3356;Deputado Federal;PMN;PR;
-ORZALI ALVES DOS SANTOS;965.381.639-04;26/08/2010;33000000504;R$ 500,00;Transferência eletrônica;ORZALI ALVES DOS SANTOS;3356;Deputado Federal;PMN;PR;
-ZENILDA GOMES ANTUNES;794.476.949-34;01/09/2010;33000000505;R$ 100,00;Transferência eletrônica;ORZALI ALVES DOS SANTOS;3356;Deputado Federal;PMN;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA GLOBO;10.545.041/0001-17;20/08/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 3356 - ORZALI ALVES DOS SANTOS - PR - Deputado Federal;
+POSTO CASA BRANCA LTDA;78.185.287/0001-69;04/09/2010;       Combustíveis e lubrificantes;R$ 91,00;Cheque; -  -  / 3356 - ORZALI ALVES DOS SANTOS - PR - Deputado Federal;
+POSTO CASA BRANCA LTDA;78.185.287/0001-69;11/09/2010;       Combustíveis e lubrificantes;R$ 72,50;Cheque; -  -  / 3356 - ORZALI ALVES DOS SANTOS - PR - Deputado Federal;
+POSTO CASA BRANCA LTDA;78.185.287/0001-69;26/09/2010;       Combustíveis e lubrificantes;R$ 400,50;Cheque; -  -  / 3356 - ORZALI ALVES DOS SANTOS - PR - Deputado Federal;

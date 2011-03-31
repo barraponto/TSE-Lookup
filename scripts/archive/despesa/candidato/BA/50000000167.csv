@@ -1,4 +1,13 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MANOEL BONFIM DOS SANTOS;091.880.705-06;09/08/2010;43001855655;R$ 1.000,00;Depósito em espécie;MANOEL BONFIM DOS SANTOS;43123;Deputado Estadual;PV;BA;
-MANOEL BONFIM DOS SANTOS;091.880.705-06;10/09/2010;43001855657;R$ 700,00;Transferência eletrônica;MANOEL BONFIM DOS SANTOS;43123;Deputado Estadual;PV;BA;
-MANOEL BONFIM DOS SANTOS;091.880.705-06;26/08/2010;43001855656;R$ 1.000,00;Depósito em espécie;MANOEL BONFIM DOS SANTOS;43123;Deputado Estadual;PV;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CHURRASCARIA BRASA VIVA;02.109.037/0001-88;03/10/2010;       Alimentação;R$ 125,50;Não informado; -  -  / 43123 - MANOEL BONFIM DOS SANTOS - BA - Deputado Estadual;
+CYBER DRAGON;539.479.325-53;29/07/2010;       Publicidade por materiais impressos;R$ 124,00;Não informado; -  -  / 43123 - MANOEL BONFIM DOS SANTOS - BA - Deputado Estadual;
+MANOEL BONFIM DOS SANTOS;086.332.905-53;17/08/2010;       Produção de jingles, vinhetas e slogans;R$ 250,00;Não informado; -  -  / 43123 - MANOEL BONFIM DOS SANTOS - BA - Deputado Estadual;
+PELICANO;63.248.454/0001-04;10/09/2010;       Publicidade por materiais impressos;R$ 10.000,00;Não informado; -  -  / 43123 - MANOEL BONFIM DOS SANTOS - BA - Deputado Estadual;
+POLARIS;10.613.810/0001-77;01/09/2010;       Alimentação;R$ 782,78;Não informado; -  -  / 43123 - MANOEL BONFIM DOS SANTOS - BA - Deputado Estadual;
+POSTO SHELL;15.151.046/0003-40;25/09/2010;       Combustíveis e lubrificantes;R$ 743,27;Não informado; -  -  / 43123 - MANOEL BONFIM DOS SANTOS - BA - Deputado Estadual;
+POSTO TREVO;14.486.153/0011-77;09/08/2010;       Combustíveis e lubrificantes;R$ 50,00;Não informado; -  -  / 43123 - MANOEL BONFIM DOS SANTOS - BA - Deputado Estadual;
+RIART'S;741.116.395-34;14/08/2010;       Publicidade por placas, estandartes e faixas;R$ 950,00;Não informado; -  -  / 43123 - MANOEL BONFIM DOS SANTOS - BA - Deputado Estadual;
+ROBSON PEREIRA DE ANDRADE;027.071.755-28;30/07/2010;       Serviços prestados por terceiros;R$ 157,28;Não informado; -  -  / 43123 - MANOEL BONFIM DOS SANTOS - BA - Deputado Estadual;
+ROBSON PEREIRA DE ANDRADE;027.071.755-28;29/07/2010;       Serviços prestados por terceiros;R$ 157,28;Não informado; -  -  / 43123 - MANOEL BONFIM DOS SANTOS - BA - Deputado Estadual;
+ROBSON PEREIRA DE ANDRADE;027.071.755-28;03/10/2010;       Serviços prestados por terceiros;R$ 830,00;Não informado; -  -  / 43123 - MANOEL BONFIM DOS SANTOS - BA - Deputado Estadual;
+SINO COM E DISTRIB DE DERIV DE PETROLEO LTDA;34.208.215/0001-14;15/08/2010;       Combustíveis e lubrificantes;R$ 50,00;Não informado; -  -  / 43123 - MANOEL BONFIM DOS SANTOS - BA - Deputado Estadual;

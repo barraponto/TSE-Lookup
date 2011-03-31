@@ -1,3 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOAQUIM FRANCISCO DE FREITAS CAVALCANTI;004.582.874-15;25/08/2010;40001964302;R$ 3.702,60;Estimado;JOAQUIM FRANCISCO DE FREITAS CAVALCANTI;130;1º Suplente Senador;PSB;PE;
-JOAQUIM FRANCISCO DE FREITAS CAVALCANTI;004.582.874-15;24/08/2010;40001964301;R$ 2.500,00;Cheque;JOAQUIM FRANCISCO DE FREITAS CAVALCANTI;130;1º Suplente Senador;PSB;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CEMOPEL - CM PETROLEO LTDA.;69.943.686/0001-50;23/09/2010;       Combustíveis e lubrificantes;R$ 983,17;Cheque; -  -  / 130 - JOAQUIM FRANCISCO DE FREITAS CAVALCANTI - PE - 1º Suplente Senador;
+CEMOPEL - CM PETROLEO LTDA.;69.943.686/0001-50;02/09/2010;       Combustíveis e lubrificantes;R$ 967,00;Cheque; -  -  / 130 - JOAQUIM FRANCISCO DE FREITAS CAVALCANTI - PE - 1º Suplente Senador;
+GRUPO DE AMIGOS BAR E RESTAURANTE LTDA.;05.550.261/0001-07;20/09/2010;       Alimentação;R$ 341,22;Cheque; -  -  / 130 - JOAQUIM FRANCISCO DE FREITAS CAVALCANTI - PE - 1º Suplente Senador;
+JOAQUIM FRANCISCO DE FREITAS CAVALCANTI;004.582.874-15;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.702,60;Estimado; -  -  / 130 - JOAQUIM FRANCISCO DE FREITAS CAVALCANTI - PE - 1º Suplente Senador;
+MARCIO ANDRE OLIVEIRA SILVA;449.276.494-15;30/09/2010;       Serviços prestados por terceiros;R$ 208,61;Cheque; -  -  / 130 - JOAQUIM FRANCISCO DE FREITAS CAVALCANTI - PE - 1º Suplente Senador;

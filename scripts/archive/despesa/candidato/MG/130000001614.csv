@@ -1,7 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;20.764.395/0001-06;24/09/2010;23000152823;R$ 2.000,00;Cheque;JOSÉ CARLOS DA SILVA;23116;Deputado Estadual;PPS;MG;
-Diretório Estadual/Distrital;20.764.395/0001-06;05/08/2010;23000152821;R$ 2.000,00;Estimado;JOSÉ CARLOS DA SILVA;23116;Deputado Estadual;PPS;MG;
-Diretório Estadual/Distrital;20.764.395/0001-06;24/08/2010;23000152827;R$ 1.215,45;Estimado;JOSÉ CARLOS DA SILVA;23116;Deputado Estadual;PPS;MG;
-Diretório Estadual/Distrital;20.764.395/0001-06;04/08/2010;23000152824;R$ 356,00;Estimado;JOSÉ CARLOS DA SILVA;23116;Deputado Estadual;PPS;MG;
-Diretório Estadual/Distrital;20.764.395/0001-06;20/09/2010;23000152826;R$ 360,00;Estimado;JOSÉ CARLOS DA SILVA;23116;Deputado Estadual;PPS;MG;
-Diretório Estadual/Distrital;20.764.395/0001-06;10/08/2010;23000152822;R$ 1.116,00;Estimado;JOSÉ CARLOS DA SILVA;23116;Deputado Estadual;PPS;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+COMUNICAÇÃO ITALUX VISUAL;00.000.000/0000-00;29/09/2010;       Publicidade por placas, estandartes e faixas;R$ 90,00;Cheque; -  -  / 23116 - JOSÉ CARLOS DA SILVA - MG - Deputado Estadual;
+Diretório Estadual/Distrital;20.764.395/0001-06;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Direção Estadual/Distrital - PPS -  / 23116 - JOSÉ CARLOS DA SILVA - MG - Deputado Estadual;
+Diretório Estadual/Distrital;20.764.395/0001-06;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.116,00;Estimado;Direção Estadual/Distrital - PPS -  / 23116 - JOSÉ CARLOS DA SILVA - MG - Deputado Estadual;
+Diretório Estadual/Distrital;20.764.395/0001-06;04/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 356,00;Estimado;Direção Estadual/Distrital - PPS -  / 23116 - JOSÉ CARLOS DA SILVA - MG - Deputado Estadual;
+Diretório Estadual/Distrital;20.764.395/0001-06;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.215,45;Estimado;Direção Estadual/Distrital - PPS -  / 23116 - JOSÉ CARLOS DA SILVA - MG - Deputado Estadual;
+Diretório Estadual/Distrital;20.764.395/0001-06;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado;Direção Estadual/Distrital - PPS -  / 23116 - JOSÉ CARLOS DA SILVA - MG - Deputado Estadual;
+MAPEL RENTACAR COMERCIO E LOCACAO DE VEICULOS LTDA - EPP;11.270.241/0001-77;30/09/2010;       Cessão ou Locação de Veículos;R$ 150,00;Cheque; -  -  / 23116 - JOSÉ CARLOS DA SILVA - MG - Deputado Estadual;
+ORQUIDÉIA VALENTE DE OLIVEIRA;011.376.107-43;29/09/2010;       Serviços prestados por terceiros;R$ 1.500,00;Cheque; -  -  / 23116 - JOSÉ CARLOS DA SILVA - MG - Deputado Estadual;
+RENATO ANTONIO DE SOUZA OLIVEIRA;753.568.997-34;02/10/2010;       Serviços prestados por terceiros;R$ 260,00;Cheque; -  -  / 23116 - JOSÉ CARLOS DA SILVA - MG - Deputado Estadual;

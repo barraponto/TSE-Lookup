@@ -1,5 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CLAIR DA FLORA MARTINS;160.729.100-25;01/10/2010;28000769177;R$ 1.061,66;Estimado;JOSE CARLOS ARDIZZONE XAVIER;28880;Deputado Estadual;PRTB;PR;
-Comitê Financeiro Único;12.235.315/0001-05;30/09/2010;28000769179;R$ 1.923,23;Estimado;JOSE CARLOS ARDIZZONE XAVIER;28880;Deputado Estadual;PRTB;PR;
-RENATO ALVES;028.033.489-34;18/10/2010;28000769136;R$ 705,00;Depósito em espécie;JOSE CARLOS ARDIZZONE XAVIER;28880;Deputado Estadual;PRTB;PR;
-WALTER XAVIER JUNIOR;574.557.409-72;24/09/2010;28000769135;R$ 550,00;Depósito em espécie;JOSE CARLOS ARDIZZONE XAVIER;28880;Deputado Estadual;PRTB;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CLAIR DA FLORA MARTINS;160.729.100-25;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.061,66;Estimado; -  -  / 28880 - JOSE CARLOS ARDIZZONE XAVIER - PR - Deputado Estadual;
+Comitê Financeiro Único;12.235.315/0001-05;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.923,23;Estimado;Comitê Financeiro Único - PRTB -  / 28880 - JOSE CARLOS ARDIZZONE XAVIER - PR - Deputado Estadual;
+DIGITAL GROUPP COMUNICACA VISUAL LTDA;03.023.270/0001-06;18/08/2010;       Publicidade por materiais impressos;R$ 480,00;Cheque; -  -  / 28880 - JOSE CARLOS ARDIZZONE XAVIER - PR - Deputado Estadual;
+DIGITAL GROUPP COMUNICACA VISUAL LTDA;03.023.270/0001-06;18/08/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 28880 - JOSE CARLOS ARDIZZONE XAVIER - PR - Deputado Estadual;
+DIGITAL GROUPP COMUNICACA VISUAL LTDA;03.023.270/0001-06;16/09/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 28880 - JOSE CARLOS ARDIZZONE XAVIER - PR - Deputado Estadual;
+IMPRESSORA IMPERIAL DO BRASIL LTDA;02.797.312/0001-01;14/09/2010;       Publicidade por materiais impressos;R$ 465,00;Cheque; -  -  / 28880 - JOSE CARLOS ARDIZZONE XAVIER - PR - Deputado Estadual;
+LUIZ CARLOS MARQUES ME;00.519.294/0001-62;30/09/2010;       Publicidade por materiais impressos;R$ 760,00;Cheque; -  -  / 28880 - JOSE CARLOS ARDIZZONE XAVIER - PR - Deputado Estadual;
+MARA LUCIA FERNANDES HASSEN;03.800.996/0001-08;15/07/2010;       Publicidade por materiais impressos;R$ 50,00;Cheque; -  -  / 28880 - JOSE CARLOS ARDIZZONE XAVIER - PR - Deputado Estadual;
+;;30/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 28880 - JOSE CARLOS ARDIZZONE XAVIER - PR - Deputado Estadual;
+;;30/09/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 28880 - JOSE CARLOS ARDIZZONE XAVIER - PR - Deputado Estadual;

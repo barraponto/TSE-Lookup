@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-THIAGO PAMPOLHA GONÇALVES;12.198.489/0001-37;30/08/2010;44000030161;R$ 1.750,00;Estimado;KLEBER DE OLIVEIRA SILVA;4405;Deputado Federal;PRP;RJ;
-THIAGO PAMPOLHA GONÇALVES;12.198.489/0001-37;30/09/2010;44000030164;R$ 75,00;Estimado;KLEBER DE OLIVEIRA SILVA;4405;Deputado Federal;PRP;RJ;
-THIAGO PAMPOLHA GONÇALVES;12.198.489/0001-37;30/09/2010;44000030163;R$ 825,00;Estimado;KLEBER DE OLIVEIRA SILVA;4405;Deputado Federal;PRP;RJ;
-THIAGO PAMPOLHA GONÇALVES;12.198.489/0001-37;22/09/2010;44000030162;R$ 30,00;Estimado;KLEBER DE OLIVEIRA SILVA;4405;Deputado Federal;PRP;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+THIAGO PAMPOLHA GONÇALVES;12.198.489/0001-37;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.750,00;Estimado;44500 -  - PRP -  - Deputado Estadual / 4405 - KLEBER DE OLIVEIRA SILVA - RJ - Deputado Federal;
+THIAGO PAMPOLHA GONÇALVES;12.198.489/0001-37;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 825,00;Estimado;44500 -  - PRP -  - Deputado Estadual / 4405 - KLEBER DE OLIVEIRA SILVA - RJ - Deputado Federal;
+THIAGO PAMPOLHA GONÇALVES;12.198.489/0001-37;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 75,00;Estimado;44500 -  - PRP -  - Deputado Estadual / 4405 - KLEBER DE OLIVEIRA SILVA - RJ - Deputado Federal;
+THIAGO PAMPOLHA GONÇALVES;12.198.489/0001-37;22/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 30,00;Estimado;44500 -  - PRP -  - Deputado Estadual / 4405 - KLEBER DE OLIVEIRA SILVA - RJ - Deputado Federal;

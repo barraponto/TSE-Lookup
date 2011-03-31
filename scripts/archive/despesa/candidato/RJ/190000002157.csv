@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;36000051553;R$ 150,00;Estimado;MARIA LUCIA COSTA SILVA;3646;Deputado Federal;PTC;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;36000051554;R$ 150,00;Estimado;MARIA LUCIA COSTA SILVA;3646;Deputado Federal;PTC;RJ;
-ELEIÇÃO 2010 - JORGE SAYED PICCIANI;12.176.626/0001-32;30/09/2010;36000051552;R$ 23,59;Estimado;MARIA LUCIA COSTA SILVA;3646;Deputado Federal;PTC;RJ;
-ELEIÇÃO 2010- JORGE SAYED PICCIANI;12.176.626/0001-32;20/09/2010;36000051551;R$ 23,59;Estimado;MARIA LUCIA COSTA SILVA;3646;Deputado Federal;PTC;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 3646 - MARIA LUCIA COSTA SILVA - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 3646 - MARIA LUCIA COSTA SILVA - RJ - Deputado Federal;
+ELEIÇÃO 2010 - JORGE SAYED PICCIANI;12.176.626/0001-32;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 23,59;Estimado;155 -  - PMDB -  - Senador / 3646 - MARIA LUCIA COSTA SILVA - RJ - Deputado Federal;
+ELEIÇÃO 2010- JORGE SAYED PICCIANI;12.176.626/0001-32;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 23,59;Estimado;155 -  - PMDB -  - Senador / 3646 - MARIA LUCIA COSTA SILVA - RJ - Deputado Federal;

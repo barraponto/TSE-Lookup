@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-HÉLIO CALIXTO DA COSTA;12.189.609/0001-30;20/09/2010;15000135401;R$ 600,00;Estimado;PAULO ROBERTO CARDOSO;15008;Deputado Estadual;PMDB;MG;
-HÉLIO CALIXTO DA COSTA;12.189.609/0001-30;14/09/2010;15000135404;R$ 180,20;Estimado;PAULO ROBERTO CARDOSO;15008;Deputado Estadual;PMDB;MG;
-HÉLIO CALIXTO DA COSTA;12.189.609/0001-30;14/09/2010;15000135403;R$ 285,99;Estimado;PAULO ROBERTO CARDOSO;15008;Deputado Estadual;PMDB;MG;
-HÉLIO CALIXTO DA COSTA;12.189.609/0001-30;14/09/2010;15000135402;R$ 68,04;Estimado;PAULO ROBERTO CARDOSO;15008;Deputado Estadual;PMDB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+HÉLIO CALIXTO DA COSTA;12.189.609/0001-30;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 68,04;Estimado;15 -  - PMDB -  - Governador / 15008 - PAULO ROBERTO CARDOSO - MG - Deputado Estadual;
+HÉLIO CALIXTO DA COSTA;12.189.609/0001-30;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 285,99;Estimado;15 -  - PMDB -  - Governador / 15008 - PAULO ROBERTO CARDOSO - MG - Deputado Estadual;
+HÉLIO CALIXTO DA COSTA;12.189.609/0001-30;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 180,20;Estimado;15 -  - PMDB -  - Governador / 15008 - PAULO ROBERTO CARDOSO - MG - Deputado Estadual;
+HÉLIO CALIXTO DA COSTA;12.189.609/0001-30;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado;15 -  - PMDB -  - Governador / 15008 - PAULO ROBERTO CARDOSO - MG - Deputado Estadual;

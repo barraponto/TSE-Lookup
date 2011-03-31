@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;28000552001;R$ 590,00;Estimado;JOSE FRANCISCO DO NASCIMENTO;2830;Deputado Federal;PRTB;MG;
-Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;28000552005;R$ 300,00;Estimado;JOSE FRANCISCO DO NASCIMENTO;2830;Deputado Federal;PRTB;MG;
-JOSÉ FRANCISCO DO NASCIMENTO;284.537.196-91;04/10/2010;28000552008;R$ 20,00;Transferência eletrônica;JOSE FRANCISCO DO NASCIMENTO;2830;Deputado Federal;PRTB;MG;
-JOSÉ FRANCISCO DO NASCIMENTO;284.537.196-91;04/10/2010;28000552007;R$ 20,00;Transferência eletrônica;JOSE FRANCISCO DO NASCIMENTO;2830;Deputado Federal;PRTB;MG;
-JOSÉ FRANCISCO DO NASCIMENTO;284.537.196-91;04/10/2010;28000552009;R$ 15,00;Transferência eletrônica;JOSE FRANCISCO DO NASCIMENTO;2830;Deputado Federal;PRTB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PT do B -  / 2830 - JOSE FRANCISCO DO NASCIMENTO - MG - Deputado Federal;
+Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 590,00;Estimado;Comitê Financeiro Único - PT do B -  / 2830 - JOSE FRANCISCO DO NASCIMENTO - MG - Deputado Federal;
+LOPES FERREIRA COM. DE COMBUSTÍVEIS;08.036.520/0001-66;07/09/2010;       Combustíveis e lubrificantes;R$ 151,40;Cheque; -  -  / 2830 - JOSE FRANCISCO DO NASCIMENTO - MG - Deputado Federal;
+LOPES FERREIRA COM. DE COMBUSTÍVEIS;08.036.520/0001-66;13/09/2010;       Combustíveis e lubrificantes;R$ 105,00;Cheque; -  -  / 2830 - JOSE FRANCISCO DO NASCIMENTO - MG - Deputado Federal;
+LOPES FERREIRA COM. DE COMBUSTÍVEIS;08.036.520/0001-66;22/09/2010;       Combustíveis e lubrificantes;R$ 80,00;Cheque; -  -  / 2830 - JOSE FRANCISCO DO NASCIMENTO - MG - Deputado Federal;

@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;71.585.376/0001-53;09/09/2010;65000208120;R$ 1.500,00;Estimado;PEDRO ESAU BARROS DA SILVA;65999;Deputado Estadual;PC do B;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;71.585.376/0001-53;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado;Direção Estadual/Distrital - PC do B -  / 65999 - PEDRO ESAU BARROS DA SILVA - MA - Deputado Estadual;

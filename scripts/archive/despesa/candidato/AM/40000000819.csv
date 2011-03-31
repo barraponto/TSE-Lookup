@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.172/0001-98;03/09/2010;45000236956;R$ 3.200,00;Estimado;IARA DAS DORES DA SILVA FREITAS;45545;Deputado Estadual;PSDB;AM;
-Diretório Estadual/Distrital;04.511.430/0001-29;02/09/2010;45000236952;R$ 240,00;Estimado;IARA DAS DORES DA SILVA FREITAS;45545;Deputado Estadual;PSDB;AM;
-Diretório Estadual/Distrital;04.511.430/0001-29;01/09/2010;45000236955;R$ 2.550,00;Estimado;IARA DAS DORES DA SILVA FREITAS;45545;Deputado Estadual;PSDB;AM;
-Diretório Estadual/Distrital;04.511.430/0001-29;17/09/2010;45000236953;R$ 240,00;Estimado;IARA DAS DORES DA SILVA FREITAS;45545;Deputado Estadual;PSDB;AM;
-Diretório Estadual/Distrital;04.511.430/0001-29;07/09/2010;45000236954;R$ 747,00;Estimado;IARA DAS DORES DA SILVA FREITAS;45545;Deputado Estadual;PSDB;AM;
-MICHELA ANGELICA FREITAS DE SOUZA;907.600.422-68;01/09/2010;45000236951;R$ 900,00;Estimado;IARA DAS DORES DA SILVA FREITAS;45545;Deputado Estadual;PSDB;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.172/0001-98;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.200,00;Estimado;Comitê Financeiro Único - PSDB -  / 45545 - IARA DAS DORES DA SILVA FREITAS - AM - Deputado Estadual;
+Diretório Estadual/Distrital;04.511.430/0001-29;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.550,00;Estimado;Direção Estadual/Distrital - PSDB -  / 45545 - IARA DAS DORES DA SILVA FREITAS - AM - Deputado Estadual;
+Diretório Estadual/Distrital;04.511.430/0001-29;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 240,00;Estimado;Direção Estadual/Distrital - PSDB -  / 45545 - IARA DAS DORES DA SILVA FREITAS - AM - Deputado Estadual;
+Diretório Estadual/Distrital;04.511.430/0001-29;17/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 240,00;Estimado;Direção Estadual/Distrital - PSDB -  / 45545 - IARA DAS DORES DA SILVA FREITAS - AM - Deputado Estadual;
+Diretório Estadual/Distrital;04.511.430/0001-29;07/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 747,00;Estimado;Direção Estadual/Distrital - PSDB -  / 45545 - IARA DAS DORES DA SILVA FREITAS - AM - Deputado Estadual;
+MICHELA ANGELICA FREITAS DE SOUZA;907.600.422-68;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 900,00;Estimado; -  -  / 45545 - IARA DAS DORES DA SILVA FREITAS - AM - Deputado Estadual;

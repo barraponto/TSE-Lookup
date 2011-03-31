@@ -1,2 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-RGB VIDEO PRODUÇÕES A.C. MARCHI SILVA;07.311.217/0001-61;30/09/2010;13000668281;R$ 2.542,36;Estimado;VANDISON SARAIVA FERREIRA;13999;Deputado Estadual;PT;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+RGB VIDEO PRODUÇÕES A.C. MARCHI SILVA;07.311.217/0001-61;30/09/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 2.542,36;Não informado; -  -  / 13999 - VANDISON SARAIVA FERREIRA - MA - Deputado Estadual;
+RGB VIDEO PRODUÇÕES A.C. MARCHI SILVA;07.311.217/0001-61;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.542,36;Estimado; -  -  / 13999 - VANDISON SARAIVA FERREIRA - MA - Deputado Estadual;

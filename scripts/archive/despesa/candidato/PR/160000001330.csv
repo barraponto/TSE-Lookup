@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ROSANGELA ROLIM DE MOURA;510.467.929-20;23/08/2010;43001779401;R$ 1.300,00;Transferência eletrônica;ROSÂNGELA ROLIM DE MOURA;4307;Deputado Federal;PV;PR;
-ROSANGELA ROLIM DE MOURA;510.467.929-20;04/10/2010;43001779404;R$ 21,00;Depósito em espécie;ROSÂNGELA ROLIM DE MOURA;4307;Deputado Federal;PV;PR;
-ROSANGELA ROLIM DE MOURA;510.467.929-20;30/09/2010;43001779403;R$ 500,00;Transferência eletrônica;ROSÂNGELA ROLIM DE MOURA;4307;Deputado Federal;PV;PR;
-ROSANGELA ROLIM DE MOURA;510.467.929-20;30/09/2010;43001779402;R$ 620,00;Transferência eletrônica;ROSÂNGELA ROLIM DE MOURA;4307;Deputado Federal;PV;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+FIEL GRAFICA LTDA;02.216.870/0001-28;30/09/2010;       Publicidade por placas, estandartes e faixas;R$ 1.180,20;Cheque; -  -  / 4307 - ROSÂNGELA ROLIM DE MOURA - PR - Deputado Federal;
+FIEL GRAFICA LTDA;02.216.870/0001-28;27/09/2010;       Publicidade por placas, estandartes e faixas;R$ 1.100,00;Cheque; -  -  / 4307 - ROSÂNGELA ROLIM DE MOURA - PR - Deputado Federal;
+VRVS COMUNICAÇÃO VISUAL;12.002.500/0001-41;09/09/2010;       Publicidade por placas, estandartes e faixas;R$ 139,80;Cheque; -  -  / 4307 - ROSÂNGELA ROLIM DE MOURA - PR - Deputado Federal;
+;;05/10/2010;       Encargos financeiros e taxas bancárias;R$ 21,00;Débito em conta; -  -  / 4307 - ROSÂNGELA ROLIM DE MOURA - PR - Deputado Federal;

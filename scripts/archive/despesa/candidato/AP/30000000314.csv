@@ -1,6 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.285/0001-86;03/08/2010;45000335992;R$ 378,00;Estimado;VALCINETE FARIAS SANTANA;4512;Deputado Federal;PSDB;AP;
-Comitê Financeiro Único;12.205.285/0001-86;21/09/2010;45000335994;R$ 420,00;Estimado;VALCINETE FARIAS SANTANA;4512;Deputado Federal;PSDB;AP;
-Comitê Financeiro Único;12.205.285/0001-86;05/08/2010;45000335993;R$ 900,00;Estimado;VALCINETE FARIAS SANTANA;4512;Deputado Federal;PSDB;AP;
-PAULO ROBERTO DA GAMA JORGE MELEM;638.543.762-00;01/10/2010;45000335995;R$ 1.500,00;Estimado;VALCINETE FARIAS SANTANA;4512;Deputado Federal;PSDB;AP;
-VALCINETE FARIAS SANTANA;415.166.482-34;23/08/2010;45000335991;R$ 1.000,00;Depósito em espécie;VALCINETE FARIAS SANTANA;4512;Deputado Federal;PSDB;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+COMERCIAL BRITO NUNES LTDA.;34.927.772/0003-57;01/10/2010;       Combustíveis e lubrificantes;R$ 277,60;Cheque; -  -  / 4512 - VALCINETE FARIAS SANTANA - AP - Deputado Federal;
+Comitê Financeiro Único;12.205.285/0001-86;03/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 378,00;Estimado;Comitê Financeiro Único - PMDB -  / 4512 - VALCINETE FARIAS SANTANA - AP - Deputado Federal;
+Comitê Financeiro Único;12.205.285/0001-86;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 900,00;Estimado;Comitê Financeiro Único - PMDB -  / 4512 - VALCINETE FARIAS SANTANA - AP - Deputado Federal;
+Comitê Financeiro Único;12.205.285/0001-86;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 420,00;Estimado;Comitê Financeiro Único - PMDB -  / 4512 - VALCINETE FARIAS SANTANA - AP - Deputado Federal;
+MARCO ZERO GRÁFICA E EDITORA LTDA.;11.592.965/0001-37;26/08/2010;       Publicidade por materiais impressos;R$ 700,00;Cheque; -  -  / 4512 - VALCINETE FARIAS SANTANA - AP - Deputado Federal;
+PAULO ROBERTO DA GAMA JORGE MELEM;638.543.762-00;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado; -  -  / 4512 - VALCINETE FARIAS SANTANA - AP - Deputado Federal;
+;;23/08/2010;       Encargos financeiros e taxas bancárias;R$ 19,50;Débito em conta; -  -  / 4512 - VALCINETE FARIAS SANTANA - AP - Deputado Federal;
+;;25/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 4512 - VALCINETE FARIAS SANTANA - AP - Deputado Federal;

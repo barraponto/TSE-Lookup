@@ -1,5 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANA PAULA DE OLIVEIRA;12.191.376/0001-00;21/08/2010;31000039503;R$ 100,00;Estimado;DIJAIR LAURINDO DA SILVA;31100;Deputado Estadual;PHS;PB;
-ANA PAULA DE OLIVEIRA;12.191.376/0001-00;21/08/2010;31000039504;R$ 85,00;Estimado;DIJAIR LAURINDO DA SILVA;31100;Deputado Estadual;PHS;PB;
-JOSE TARGINO MARANHÃO;12.189.345/0001-14;26/08/2010;31000039511;R$ 523,56;Estimado;DIJAIR LAURINDO DA SILVA;31100;Deputado Estadual;PHS;PB;
-JOSÉ TARGINO MARANHÃO;12.189.345/0001-14;26/08/2010;31000039510;R$ 150,00;Estimado;DIJAIR LAURINDO DA SILVA;31100;Deputado Estadual;PHS;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANA PAULA DE OLIVEIRA;12.191.376/0001-00;21/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado;3111 -  - PHS -  - Deputado Federal / 31100 - DIJAIR LAURINDO DA SILVA - PB - Deputado Estadual;
+ANA PAULA DE OLIVEIRA;12.191.376/0001-00;21/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 85,00;Estimado;3111 -  - PHS -  - Deputado Federal / 31100 - DIJAIR LAURINDO DA SILVA - PB - Deputado Estadual;
+CLARO  S/A;40.432.544/0265-37;23/09/2010;       Telefone;R$ 12,00;Não informado; -  -  / 31100 - DIJAIR LAURINDO DA SILVA - PB - Deputado Estadual;
+CLARO  S/A;40.432.544/0265-37;27/09/2010;       Telefone;R$ 12,00;Transferência eletrônica; -  -  / 31100 - DIJAIR LAURINDO DA SILVA - PB - Deputado Estadual;
+JOSE TARGINO MARANHÃO;12.189.345/0001-14;26/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 523,56;Estimado;15 -  - PMDB -  - Governador / 31100 - DIJAIR LAURINDO DA SILVA - PB - Deputado Estadual;
+JOSÉ TARGINO MARANHÃO;12.189.345/0001-14;26/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;15 -  - PMDB -  - Governador / 31100 - DIJAIR LAURINDO DA SILVA - PB - Deputado Estadual;

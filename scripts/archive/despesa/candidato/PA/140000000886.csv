@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.229.905/0001-17;30/08/2010;45000315970;R$ 1.000,00;Estimado;FRANCISCA ALVES DE SOUSA;4556;Deputado Federal;PSDB;PA;
-Comitê Financeiro Único;12.229.905/0001-17;01/10/2010;45000315971;R$ 1.852,00;Estimado;FRANCISCA ALVES DE SOUSA;4556;Deputado Federal;PSDB;PA;
-Comitê Financeiro Único;12.229.905/0001-17;01/10/2010;45000315968;R$ 1.000,00;Estimado;FRANCISCA ALVES DE SOUSA;4556;Deputado Federal;PSDB;PA;
-Comitê Financeiro Único;12.229.905/0001-17;30/09/2010;45000315969;R$ 500,00;Estimado;FRANCISCA ALVES DE SOUSA;4556;Deputado Federal;PSDB;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.229.905/0001-17;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;Comitê Financeiro Único - PSDB -  / 4556 - FRANCISCA ALVES DE SOUSA - PA - Deputado Federal;
+Comitê Financeiro Único;12.229.905/0001-17;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;Comitê Financeiro Único - PSDB -  / 4556 - FRANCISCA ALVES DE SOUSA - PA - Deputado Federal;
+Comitê Financeiro Único;12.229.905/0001-17;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.852,00;Estimado;Comitê Financeiro Único - PSDB -  / 4556 - FRANCISCA ALVES DE SOUSA - PA - Deputado Federal;
+Comitê Financeiro Único;12.229.905/0001-17;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;Comitê Financeiro Único - PSDB -  / 4556 - FRANCISCA ALVES DE SOUSA - PA - Deputado Federal;

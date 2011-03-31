@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;24/09/2010;44000027581;R$ 150,00;Estimado;OZAMIR FIGUEIREDO DA SILVA;44322;Deputado Estadual;PRP;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;25/10/2010;44000027583;R$ 1.000,00;Estimado;OZAMIR FIGUEIREDO DA SILVA;44322;Deputado Estadual;PRP;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;24/09/2010;44000027582;R$ 150,00;Estimado;OZAMIR FIGUEIREDO DA SILVA;44322;Deputado Estadual;PRP;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 44322 - OZAMIR FIGUEIREDO DA SILVA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;25/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;Comitê Financeiro Único - PRP -  / 44322 - OZAMIR FIGUEIREDO DA SILVA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 44322 - OZAMIR FIGUEIREDO DA SILVA - RJ - Deputado Estadual;

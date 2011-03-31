@@ -1,5 +1,4 @@
-Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
-Comitê Financeiro Único - PTB;12.191.478/0001-25;30/08/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 60.000,00;Transferência eletrônica;14014 - JOSE CARLOS ELIAS - PTB - ES - Deputado Estadual / Comitê Financeiro Único - PTB - ES;
-Comitê Financeiro Único - PTB;12.191.478/0001-25;27/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 15.000,00;Transferência eletrônica;14014 - JOSE CARLOS ELIAS - PTB - ES - Deputado Estadual / Comitê Financeiro Único - PTB - ES;
-Comitê Financeiro Único - PTB;12.191.478/0001-25;21/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 25.000,00;Transferência eletrônica;14014 - JOSE CARLOS ELIAS - PTB - ES - Deputado Estadual / Comitê Financeiro Único - PTB - ES;
-Comitê Financeiro Único - PTB;12.191.478/0001-25;20/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 5.000,00;Transferência eletrônica;14789 - MARILIA LUISA VIVACQUA BELOTTI - PTB - ES - Deputado Estadual / Comitê Financeiro Único - PTB - ES;
+Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
+CONSTRUÇÕES E COMERCIO CMARGO CORREA S/A;61.522.512/0001-02;24/08/2010;14000002953;R$ 60.000,00;Transferência eletrônica;Comitê Financeiro Único;PTB;ES;
+FERTILIZANTES FOSFATADOS SA - FOSFERTIL;19.443.985/0001-58;16/09/2010;14000002954;R$ 30.000,00;Cheque;Comitê Financeiro Único;PTB;ES;
+PELICANO CONSTRUÇÕES LTDA;27.426.196/0001-37;22/09/2010;14000002955;R$ 15.000,00;Cheque;Comitê Financeiro Único;PTB;ES;

@@ -1,3 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 ADEMAR LUIZ DE OLIVEIRA DEPUTADO ESTADUAL;231.519.351-68;22/09/2010;17000037352;R$ 53,73;Estimado;ADEMAR LUIZ DE OLIVEIRA;17001;Deputado Estadual;PSL;GO;
-ELEIÇÃO 2010 ADEMAR LUIZ DE OLIVEIRA DEPUTADO ESTADUAL;231.519.351-68;25/08/2010;17000037351;R$ 7.000,00;Transferência eletrônica;ADEMAR LUIZ DE OLIVEIRA;17001;Deputado Estadual;PSL;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALVES E CRISTIANO COMUNICAÇÃO VISUAL LTDA;10.483.398/0001-18;31/08/2010;       Publicidade por materiais impressos;R$ 2.150,00;Cheque; -  -  / 17001 - ADEMAR LUIZ DE OLIVEIRA - GO - Deputado Estadual;
+ANNA ISABEL SANTOS FREIRE;006.410.281-56;02/10/2010;       Despesas com pessoal;R$ 358,00;Cheque; -  -  / 17001 - ADEMAR LUIZ DE OLIVEIRA - GO - Deputado Estadual;
+CBE SERVIÇOS E COMÉRCIO EM COMUNICAÇÃO VISUAL LTDA;11.816.646/0001-68;10/09/2010;       Publicidade por placas, estandartes e faixas;R$ 350,00;Cheque; -  -  / 17001 - ADEMAR LUIZ DE OLIVEIRA - GO - Deputado Estadual;
+ELEIÇÃO 2010 ADEMAR LUIZ DE OLIVEIRA DEPUTADO ESTADUAL;231.519.351-68;22/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 53,73;Estimado; -  -  / 17001 - ADEMAR LUIZ DE OLIVEIRA - GO - Deputado Estadual;
+OBJETIVA GRÁFICA E EDITORA LTDA;37.655.552/0001-48;30/08/2010;       Publicidade por materiais impressos;R$ 3.100,00;Cheque; -  -  / 17001 - ADEMAR LUIZ DE OLIVEIRA - GO - Deputado Estadual;
+OBJETIVA GRÁFICA E EDITORA LTDA;37.655.552/0001-48;20/09/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 17001 - ADEMAR LUIZ DE OLIVEIRA - GO - Deputado Estadual;
+;;02/09/2010;       Encargos financeiros e taxas bancárias;R$ 21,00;Débito em conta; -  -  / 17001 - ADEMAR LUIZ DE OLIVEIRA - GO - Deputado Estadual;
+;;04/10/2010;       Encargos financeiros e taxas bancárias;R$ 21,00;Débito em conta; -  -  / 17001 - ADEMAR LUIZ DE OLIVEIRA - GO - Deputado Estadual;

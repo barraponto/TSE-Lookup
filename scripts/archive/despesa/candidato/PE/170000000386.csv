@@ -1,4 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Nacional;01.209.414/0001-98;30/07/2010;17000030456;R$ 5.000,00;Transferência eletrônica;DAVID BATISTA SANTIAGO;1700;Deputado Federal;PSL;PE;
-Diretório Nacional;01.209.414/0001-98;17/09/2010;17000030457;R$ 1.900,00;Transferência eletrônica;DAVID BATISTA SANTIAGO;1700;Deputado Federal;PSL;PE;
-ROBSON FELIX DOS SANTOS;059.996.534-79;07/08/2010;17000030458;R$ 1.200,00;Estimado;DAVID BATISTA SANTIAGO;1700;Deputado Federal;PSL;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CMYK GRAFICA E EDITORA LTDA;07.833.150/0001-25;10/08/2010;       Publicidade por materiais impressos;R$ 750,00;Cheque; -  -  / 1700 - DAVID BATISTA SANTIAGO - PE - Deputado Federal;
+CMYK GRAFICA E EDITORA LTDA;07.833.150/0001-25;03/08/2010;       Publicidade por materiais impressos;R$ 3.000,00;Cheque; -  -  / 1700 - DAVID BATISTA SANTIAGO - PE - Deputado Federal;
+COMERCIAL SÁ IRMÃOS LTDA;11.206.927/0001-07;06/08/2010;       Diversas a especificar;R$ 285,00;Cheque; -  -  / 1700 - DAVID BATISTA SANTIAGO - PE - Deputado Federal;
+ELDORADO TINTAS LTDA;12.784.831/0001-80;06/08/2010;       Diversas a especificar;R$ 62,80;Cheque; -  -  / 1700 - DAVID BATISTA SANTIAGO - PE - Deputado Federal;
+FERRAZ COMERCIO DE COMBUSTIVEIS LTDA;08.342.298/0002-00;15/08/2010;       Combustíveis e lubrificantes;R$ 150,00;Cheque; -  -  / 1700 - DAVID BATISTA SANTIAGO - PE - Deputado Federal;
+FERRAZ COMERCIO DE COMBUSTIVEIS LTDA;08.342.298/0002-00;23/08/2010;       Combustíveis e lubrificantes;R$ 146,00;Cheque; -  -  / 1700 - DAVID BATISTA SANTIAGO - PE - Deputado Federal;
+FERRAZ COMERCIO DE COMBUSTIVEIS LTDA;08.342.298/0002-00;07/08/2010;       Combustíveis e lubrificantes;R$ 131,00;Cheque; -  -  / 1700 - DAVID BATISTA SANTIAGO - PE - Deputado Federal;
+GRAFICA GUERRA E FILHO LTDA;09.191.421/0001-11;17/09/2010;       Publicidade por materiais impressos;R$ 1.850,00;Cheque; -  -  / 1700 - DAVID BATISTA SANTIAGO - PE - Deputado Federal;
+ROBSON FELIX DOS SANTOS;059.996.534-79;07/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.200,00;Estimado; -  -  / 1700 - DAVID BATISTA SANTIAGO - PE - Deputado Federal;
+SGS SOLUÇÕES EM INFORMATICA LTDA ME;03.213.043/0001-43;25/08/2010;       Publicidade por placas, estandartes e faixas;R$ 475,00;Cheque; -  -  / 1700 - DAVID BATISTA SANTIAGO - PE - Deputado Federal;

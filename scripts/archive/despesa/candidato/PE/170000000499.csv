@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DAVI FORTUNATO DOS SANTOS DEPUTADO FEDERAL;914.507.308-25;10/09/2010;36000064512;R$ 283,00;Transferência eletrônica;DAVI FORTUNATO DOS SANTOS;3688;Deputado Federal;PTC;PE;
-DAVI FORTUNATO DOS SANTOS DEPUTADO FEDERAL;914.507.308-25;17/08/2010;36000064511;R$ 300,00;Depósito em espécie;DAVI FORTUNATO DOS SANTOS;3688;Deputado Federal;PTC;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+L.V. DOS SANTOS FORMULARIOS ME;05.636.762/0001-00;17/08/2010;       Publicidade por materiais impressos;R$ 290,00;Cheque; -  -  / 3688 - DAVI FORTUNATO DOS SANTOS - PE - Deputado Federal;
+MARCELO LUIZ FERREIRA;733.384.354-87;22/09/2010;       Publicidade por placas, estandartes e faixas;R$ 10,00;Cheque; -  -  / 3688 - DAVI FORTUNATO DOS SANTOS - PE - Deputado Federal;
+MULTILAB FERREIRA COLLOR;35.309.343/0001-17;22/09/2010;       Publicidade por placas, estandartes e faixas;R$ 283,00;Cheque; -  -  / 3688 - DAVI FORTUNATO DOS SANTOS - PE - Deputado Federal;

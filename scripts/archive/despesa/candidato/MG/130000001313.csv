@@ -1,7 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-AVILMAR NILTON BICALHO;165.252.646-34;16/08/2010;70000189232;R$ 1.500,00;Estimado;MARLON XAVIER OLIVA BICALHO;70223;Deputado Estadual;PT do B;MG;
-Comitê Financeiro Único;12.154.851/0001-78;23/08/2010;70000189234;R$ 590,00;Estimado;MARLON XAVIER OLIVA BICALHO;70223;Deputado Estadual;PT do B;MG;
-Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;70000189235;R$ 300,00;Estimado;MARLON XAVIER OLIVA BICALHO;70223;Deputado Estadual;PT do B;MG;
-MARIA MADALENA OLIVEIRA LOZAN;598.368.496-53;23/08/2010;70000189233;R$ 500,00;Estimado;MARLON XAVIER OLIVA BICALHO;70223;Deputado Estadual;PT do B;MG;
-MARLON XAVIER OLIVA BICALHO;032.992.496-65;16/08/2010;70000189231;R$ 1.020,00;Depósito em espécie;MARLON XAVIER OLIVA BICALHO;70223;Deputado Estadual;PT do B;MG;
-MARLON XAVIER OLIVA BICALHO;032.992.496-65;14/09/2010;70000189236;R$ 680,00;Depósito em espécie;MARLON XAVIER OLIVA BICALHO;70223;Deputado Estadual;PT do B;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AVILMAR NILTON BICALHO;165.252.646-34;04/09/2010;       Locação/cessão de bens móveis;R$ 635,00;Cheque; -  -  / 70223 - MARLON XAVIER OLIVA BICALHO - MG - Deputado Estadual;
+AVILMAR NILTON BICALHO;165.252.646-34;16/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado; -  -  / 70223 - MARLON XAVIER OLIVA BICALHO - MG - Deputado Estadual;
+Comitê Financeiro Único;12.154.851/0001-78;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 590,00;Estimado;Comitê Financeiro Único - PT do B -  / 70223 - MARLON XAVIER OLIVA BICALHO - MG - Deputado Estadual;
+Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PT do B -  / 70223 - MARLON XAVIER OLIVA BICALHO - MG - Deputado Estadual;
+MARIA MADALENA OLIVEIRA LOZAN;598.368.496-53;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 70223 - MARLON XAVIER OLIVA BICALHO - MG - Deputado Estadual;
+MENDES E CAMPOS COMÉRCIO E INDÚSTRIA GRÁFICA LTDA;09.157.519/0001-52;16/08/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 70223 - MARLON XAVIER OLIVA BICALHO - MG - Deputado Estadual;
+NOÊMIA OLIVA BICALHO;573.436.916-00;01/10/2010;       Serviços prestados por terceiros;R$ 64,65;Cheque; -  -  / 70223 - MARLON XAVIER OLIVA BICALHO - MG - Deputado Estadual;
+;;18/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 70223 - MARLON XAVIER OLIVA BICALHO - MG - Deputado Estadual;

@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.153/0001-61;20/08/2010;45000429401;R$ 440,00;Estimado;IRINEU GOMES CANINDE;45631;Deputado Estadual;PSDB;AC;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.153/0001-61;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 440,00;Estimado;Comitê Financeiro Único - PSDB -  / 45631 - IRINEU GOMES CANINDE - AC - Deputado Estadual;

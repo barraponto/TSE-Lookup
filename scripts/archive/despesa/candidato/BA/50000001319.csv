@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.570/0001-95;31/07/2010;36000080391;R$ 192,00;Estimado;ELIETE CRISPINIANA SANTOS SALVADOR;36050;Deputado Estadual;PTC;BA;
-Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;36000080395;R$ 763,20;Estimado;ELIETE CRISPINIANA SANTOS SALVADOR;36050;Deputado Estadual;PTC;BA;
-Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;36000080394;R$ 56,40;Estimado;ELIETE CRISPINIANA SANTOS SALVADOR;36050;Deputado Estadual;PTC;BA;
-GEDDEL QUADROS VIEIRA LIMA;12.173.503/0001-48;27/08/2010;36000080393;R$ 204,00;Estimado;ELIETE CRISPINIANA SANTOS SALVADOR;36050;Deputado Estadual;PTC;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 763,20;Estimado;Comitê Financeiro Único - PMDB -  / 36050 - ELIETE CRISPINIANA SANTOS SALVADOR - BA - Deputado Estadual;
+Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 56,40;Estimado;Comitê Financeiro Único - PMDB -  / 36050 - ELIETE CRISPINIANA SANTOS SALVADOR - BA - Deputado Estadual;
+Comitê Financeiro Único;12.191.570/0001-95;31/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 192,00;Estimado;Comitê Financeiro Único - PMDB -  / 36050 - ELIETE CRISPINIANA SANTOS SALVADOR - BA - Deputado Estadual;
+GEDDEL QUADROS VIEIRA LIMA;12.173.503/0001-48;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 204,00;Estimado;15 -  - PMDB -  - Governador / 36050 - ELIETE CRISPINIANA SANTOS SALVADOR - BA - Deputado Estadual;

@@ -1,7 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANDREIA PENHA DA SILVA;053.302.286-03;24/08/2010;10000082206;R$ 1.700,00;Depósito em espécie;JOÃO EMILIO DA SILVA;10456;Deputado Estadual;PRB;MG;
-Comitê Financeiro Único;12.191.525/0001-30;02/10/2010;10000082211;R$ 900,00;Estimado;JOÃO EMILIO DA SILVA;10456;Deputado Estadual;PRB;MG;
-ELEICAO 2010 HELIO CALIXTO DA COSTA;12.189.609/0001-30;04/09/2010;10000082208;R$ 994,55;Estimado;JOÃO EMILIO DA SILVA;10456;Deputado Estadual;PRB;MG;
-ELEICAO 2010 HELIO CALIXTO DA COSTA;12.189.609/0001-30;04/09/2010;10000082209;R$ 483,60;Estimado;JOÃO EMILIO DA SILVA;10456;Deputado Estadual;PRB;MG;
-ELEICAO 2010 HELIO CALIXTO DA COSTA;12.189.609/0001-30;04/09/2010;10000082210;R$ 136,80;Estimado;JOÃO EMILIO DA SILVA;10456;Deputado Estadual;PRB;MG;
-THAIS VILELA ARAUJO;081.569.936-08;01/09/2010;10000082207;R$ 100,00;Depósito em espécie;JOÃO EMILIO DA SILVA;10456;Deputado Estadual;PRB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.525/0001-30;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 900,00;Estimado;Comitê Financeiro Único - PRB -  / 10456 - JOÃO EMILIO DA SILVA - MG - Deputado Estadual;
+DECIO COMUNICACAO E MARKETING LTDA;10.564.081/0001-06;24/08/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 10456 - JOÃO EMILIO DA SILVA - MG - Deputado Estadual;
+DECIO COMUNICACAO E MARKETING LTDA;10.564.081/0001-06;24/08/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 10456 - JOÃO EMILIO DA SILVA - MG - Deputado Estadual;
+EDITORA GRAFICA PAULA MOURA LTDA ME;09.495.600/0001-42;03/08/2010;       Publicidade por materiais impressos;R$ 100,00;Cheque; -  -  / 10456 - JOÃO EMILIO DA SILVA - MG - Deputado Estadual;
+ELEICAO 2010 HELIO CALIXTO DA COSTA;12.189.609/0001-30;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 483,60;Estimado;15 -  - PMDB -  - Governador / 10456 - JOÃO EMILIO DA SILVA - MG - Deputado Estadual;
+ELEICAO 2010 HELIO CALIXTO DA COSTA;12.189.609/0001-30;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 994,55;Estimado;15 -  - PMDB -  - Governador / 10456 - JOÃO EMILIO DA SILVA - MG - Deputado Estadual;
+ELEICAO 2010 HELIO CALIXTO DA COSTA;12.189.609/0001-30;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 136,80;Estimado;15 -  - PMDB -  - Governador / 10456 - JOÃO EMILIO DA SILVA - MG - Deputado Estadual;
+SAN MARINO GRAFICA E SERVICOS DE PLOTER´S LTDA ME;03.372.788/0001-55;13/08/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 10456 - JOÃO EMILIO DA SILVA - MG - Deputado Estadual;

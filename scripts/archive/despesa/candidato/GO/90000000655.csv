@@ -1,6 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JORGE DOS REIS PINHEIRO;12.178.516/0001-00;06/08/2010;10000053303;R$ 173,53;Estimado;JOSÉ MARIA ALVES;10678;Deputado Estadual;PRB;GO;
-JOSÉ MARIA ALVES;033.182.651-87;27/07/2010;10000053301;R$ 1.300,00;Depósito em espécie;JOSÉ MARIA ALVES;10678;Deputado Estadual;PRB;GO;
-JOSÉ MARIA ALVES;033.182.651-87;06/09/2010;10000053305;R$ 2.680,00;Depósito em espécie;JOSÉ MARIA ALVES;10678;Deputado Estadual;PRB;GO;
-JOSÉ MARIA ALVES;033.182.651-87;13/09/2010;10000053306;R$ 1.905,00;Depósito em espécie;JOSÉ MARIA ALVES;10678;Deputado Estadual;PRB;GO;
-VASCONCELOS E HUPP MATERIAL DE CONSTRUÇÃO LTDA;07.478.729/0001-17;05/08/2010;10000053302;R$ 2.000,00;Cheque;JOSÉ MARIA ALVES;10678;Deputado Estadual;PRB;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO CARLOS GONÇALVES DIAS FILHO - AGENCIAMENTO DE ESPÇOS ME;12.454.745/0001-00;14/09/2010;       Publicidade por telemarketing;R$ 1.300,00;Cheque; -  -  / 10678 - JOSÉ MARIA ALVES - GO - Deputado Estadual;
+AP PUBLICIDADE VISUAL & SONORO LTDA-ME;08.832.726/0001-00;27/07/2010;       Publicidade por materiais impressos;R$ 1.200,00;Cheque; -  -  / 10678 - JOSÉ MARIA ALVES - GO - Deputado Estadual;
+AP PUBLICIDADE VISUAL & SONORO LTDA-ME;08.832.726/0001-00;09/08/2010;       Publicidade por materiais impressos;R$ 380,00;Cheque; -  -  / 10678 - JOSÉ MARIA ALVES - GO - Deputado Estadual;
+COMERCIAL DE COMBUSTÍVEIS + ECONÔMICO LTDA;08.464.163/0001-37;08/09/2010;       Combustíveis e lubrificantes;R$ 3.108,00;Cheque; -  -  / 10678 - JOSÉ MARIA ALVES - GO - Deputado Estadual;
+GRAFICA E PAPELARIA DIAS LTDA - ME;11.987.128/0001-07;14/09/2010;       Publicidade por materiais impressos;R$ 795,00;Cheque; -  -  / 10678 - JOSÉ MARIA ALVES - GO - Deputado Estadual;
+GRAFICA E PAPELARIA DIAS LTDA - ME;11.987.128/0001-07;06/08/2010;       Publicidade por materiais impressos;R$ 1.100,00;Cheque; -  -  / 10678 - JOSÉ MARIA ALVES - GO - Deputado Estadual;
+JORGE DOS REIS PINHEIRO;12.178.516/0001-00;06/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 173,53;Estimado;1010 -  - PRB -  - Deputado Federal / 10678 - JOSÉ MARIA ALVES - GO - Deputado Estadual;

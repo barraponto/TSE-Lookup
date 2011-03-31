@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.154.851/0001-78;22/07/2010;70000104004;R$ 594,00;Estimado;GUSTAVO DE MAGALHAES PINTO LOPES CANCADO;70010;Deputado Estadual;PT do B;MG;
-Diretório Estadual/Distrital;12.154.851/0001-78;22/07/2010;70000104003;R$ 590,00;Estimado;GUSTAVO DE MAGALHAES PINTO LOPES CANCADO;70010;Deputado Estadual;PT do B;MG;
-GUSTAVO DE MAGALHAES;712.935.666-91;12/08/2010;70000104005;R$ 80,00;Boleto de cobrança;GUSTAVO DE MAGALHAES PINTO LOPES CANCADO;70010;Deputado Estadual;PT do B;MG;
-GUSTAVO DE MAGALHAES;712.935.666-91;27/08/2010;;R$ 144,00;Boleto de cobrança;GUSTAVO DE MAGALHAES PINTO LOPES CANCADO;70010;Deputado Estadual;PT do B;MG;
-GUSTAVO DE MAGALHAES;712.935.666-91;04/08/2010;70000104006;R$ 100,00;Transferência eletrônica;GUSTAVO DE MAGALHAES PINTO LOPES CANCADO;70010;Deputado Estadual;PT do B;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.154.851/0001-78;22/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 590,00;Estimado;Direção Estadual/Distrital - PT do B -  / 70010 - GUSTAVO DE MAGALHAES PINTO LOPES CANCADO - MG - Deputado Estadual;
+Diretório Estadual/Distrital;12.154.851/0001-78;22/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 594,00;Estimado;Direção Estadual/Distrital - PT do B -  / 70010 - GUSTAVO DE MAGALHAES PINTO LOPES CANCADO - MG - Deputado Estadual;
+GRAFICA MIDGRAF;10.726.911/0001-54;27/08/2010;       Publicidade por placas, estandartes e faixas;R$ 144,00;Transferência eletrônica; -  -  / 70010 - GUSTAVO DE MAGALHAES PINTO LOPES CANCADO - MG - Deputado Estadual;
+GRAFICA MIDGRAF;10.726.911/0001-54;12/08/2010;       Publicidade por materiais impressos;R$ 80,00;Transferência eletrônica; -  -  / 70010 - GUSTAVO DE MAGALHAES PINTO LOPES CANCADO - MG - Deputado Estadual;
+WANDER SOBRE LOPES ME - JORNAL O GUIA DE NOVA LIMA;22.712.160/0001-04;04/08/2010;       Publicidade por materiais impressos;R$ 100,00;Transferência eletrônica; -  -  / 70010 - GUSTAVO DE MAGALHAES PINTO LOPES CANCADO - MG - Deputado Estadual;

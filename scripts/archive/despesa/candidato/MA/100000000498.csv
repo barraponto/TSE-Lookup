@@ -1,3 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÕES 2010 - CARLOS FERNANDO D"AGUIAR SILVA PALÁCIO;12.171.410/0001-84;07/08/2010;17000052603;R$ 468,60;Estimado;MURILO PEREIRA DA SILVA;17999;Deputado Estadual;PSL;MA;
-MURILO PEREIRA DA SILVA;657.870.803-00;03/09/2010;17000052601;R$ 1.000,00;Depósito em espécie;MURILO PEREIRA DA SILVA;17999;Deputado Estadual;PSL;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÕES 2010 - CARLOS FERNANDO D"AGUIAR SILVA PALÁCIO;12.171.410/0001-84;07/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 468,60;Estimado;1745 -  - PSL -  - Deputado Federal / 17999 - MURILO PEREIRA DA SILVA - MA - Deputado Estadual;
+GIRLENE MENDES DA SILVA;031.899.793-24;03/09/2010;       Serviços prestados por terceiros;R$ 300,00;Cheque; -  -  / 17999 - MURILO PEREIRA DA SILVA - MA - Deputado Estadual;
+GRAFICA E EDITORA MARANHAO DO SUL LTDA;04.430.694/0001-58;03/09/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 17999 - MURILO PEREIRA DA SILVA - MA - Deputado Estadual;
+JOSE DOS REIS RIBEIRO;216.265.103-34;30/09/2010;       Serviços prestados por terceiros;R$ 20,00;Cheque; -  -  / 17999 - MURILO PEREIRA DA SILVA - MA - Deputado Estadual;
+SIDNEY RODRIGUES DE CARVALHO;196.939.151-00;06/09/2010;       Serviços prestados por terceiros;R$ 180,00;Cheque; -  -  / 17999 - MURILO PEREIRA DA SILVA - MA - Deputado Estadual;

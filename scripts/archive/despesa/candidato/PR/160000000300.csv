@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-AOPTICA COMERCIO OPTICO LTDA;03.269.516/0001-24;12/08/2010;43001774202;R$ 1.000,00;Cheque;NICOLAU BULGACOV JUNIOR;43700;Deputado Estadual;PV;PR;
-JOSE ROBERTO DOS REIS;434.555.909-00;27/09/2010;43001774204;R$ 1.000,00;Depósito em espécie;NICOLAU BULGACOV JUNIOR;43700;Deputado Estadual;PV;PR;
-OTICA HIGIENOPOLIS;80.196.090/0001-77;27/09/2010;43001774203;R$ 1.000,00;Depósito em espécie;NICOLAU BULGACOV JUNIOR;43700;Deputado Estadual;PV;PR;
-UZIER DE CARVALHO;135.055.809-53;12/08/2010;43001774201;R$ 2.000,00;Cheque;NICOLAU BULGACOV JUNIOR;43700;Deputado Estadual;PV;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DLD COMUNICAÇÃO VISUAL LTDA;07.569.529/0001-70;17/08/2010;       Publicidade por materiais impressos;R$ 950,00;Cheque; -  -  / 43700 - NICOLAU BULGACOV JUNIOR - PR - Deputado Estadual;
+EDITORA GAZETA DO POVO S.A;76.530.047/0001-29;24/09/2010;       Publicidade por jornais e revistas;R$ 1.584,00;Cheque; -  -  / 43700 - NICOLAU BULGACOV JUNIOR - PR - Deputado Estadual;
+EDITORA JORNAL DE LONDRINA;79.347.001/0001-67;06/09/2010;       Publicidade por jornais e revistas;R$ 1.040,00;Cheque; -  -  / 43700 - NICOLAU BULGACOV JUNIOR - PR - Deputado Estadual;
+SILVANO INDUSTRIAS GRAFICAS LTDA;75.754.994/0001-30;25/09/2010;       Publicidade por materiais impressos;R$ 466,00;Cheque; -  -  / 43700 - NICOLAU BULGACOV JUNIOR - PR - Deputado Estadual;
+SUPER IMAGEM DIGITAL LTDA;07.574.252/0001-73;16/08/2010;       Publicidade por materiais impressos;R$ 960,00;Cheque; -  -  / 43700 - NICOLAU BULGACOV JUNIOR - PR - Deputado Estadual;

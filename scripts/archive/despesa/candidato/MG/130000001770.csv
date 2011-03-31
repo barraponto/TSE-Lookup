@@ -1,7 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FRANCISCO FELIPE DA SILVA;613.612.596-04;09/08/2010;50000234372;R$ 450,00;Depósito em espécie;GERALDO FELIPE DA SILVA;5077;Deputado Federal;PSOL;MG;
-GERALDO FELIPE DA SILVA;510.375.136-49;28/09/2010;50000234376;R$ 350,00;Depósito em espécie;GERALDO FELIPE DA SILVA;5077;Deputado Federal;PSOL;MG;
-GERALDO FELIPE DA SILVA;510.375.136-49;22/09/2010;50000234375;R$ 13,50;Depósito em espécie;GERALDO FELIPE DA SILVA;5077;Deputado Federal;PSOL;MG;
-GERALDO FELIPE DA SILVA;510.375.136-49;04/08/2010;50000234371;R$ 100,00;Depósito em espécie;GERALDO FELIPE DA SILVA;5077;Deputado Federal;PSOL;MG;
-GERALDO FELIPE DA SILVA;510.375.136-49;22/09/2010;50000234373;R$ 60,00;Depósito em espécie;GERALDO FELIPE DA SILVA;5077;Deputado Federal;PSOL;MG;
-OZIRES CORDEIRO SANTANA;356.409.446-68;25/09/2010;50000234374;R$ 150,00;Estimado;GERALDO FELIPE DA SILVA;5077;Deputado Federal;PSOL;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARTES GRÁFICAS GSM LTDA;10.914.069/0001-84;25/08/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 5077 - GERALDO FELIPE DA SILVA - MG - Deputado Federal;
+COPIADORA SEGUNDA VIA LTDA;26.268.912/0001-32;27/09/2010;       Publicidade por materiais impressos;R$ 325,00;Cheque; -  -  / 5077 - GERALDO FELIPE DA SILVA - MG - Deputado Federal;
+OZIRES CORDEIRO SANTANA;356.409.446-68;25/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado; -  -  / 5077 - GERALDO FELIPE DA SILVA - MG - Deputado Federal;
+RW PUBLICIDADE PROPAGANDA LTDA-ME;10.412.304/0001-10;13/08/2010;       Publicidade por materiais impressos;R$ 80,00;Cheque; -  -  / 5077 - GERALDO FELIPE DA SILVA - MG - Deputado Federal;
+;;03/09/2010;       Encargos financeiros e taxas bancárias;R$ 20,50;Débito em conta; -  -  / 5077 - GERALDO FELIPE DA SILVA - MG - Deputado Federal;
+;;11/08/2010;       Encargos financeiros e taxas bancárias;R$ 3,00;Débito em conta; -  -  / 5077 - GERALDO FELIPE DA SILVA - MG - Deputado Federal;
+;;18/08/2010;       Encargos financeiros e taxas bancárias;R$ 3,00;Débito em conta; -  -  / 5077 - GERALDO FELIPE DA SILVA - MG - Deputado Federal;
+;;08/09/2010;       Encargos financeiros e taxas bancárias;R$ 3,00;Débito em conta; -  -  / 5077 - GERALDO FELIPE DA SILVA - MG - Deputado Federal;

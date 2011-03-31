@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.221.840/0001-63;30/09/2010;13000666064;R$ 2.542,36;Estimado;JOSÉLIA MARIA DE ALENCAR NOGUEIRA;13610;Deputado Estadual;PT;MA;
-FRANCISCA ALENCAR DE LIMA COSTA;100.040.413-72;08/09/2010;13000666065;R$ 2.000,00;Depósito em espécie;JOSÉLIA MARIA DE ALENCAR NOGUEIRA;13610;Deputado Estadual;PT;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.221.840/0001-63;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.542,36;Estimado;Comitê Financeiro Único - PT -  / 13610 - JOSÉLIA MARIA DE ALENCAR NOGUEIRA - MA - Deputado Estadual;
+DIVERSOS SERVIÇOS DE TERCEIROS;280.478.773-72;21/09/2010;       Serviços prestados por terceiros;R$ 500,00;Cheque; -  -  / 13610 - JOSÉLIA MARIA DE ALENCAR NOGUEIRA - MA - Deputado Estadual;
+DIVERSOS SERVIÇOS GRAFICOS;280.478.773-72;17/09/2010;       Serviços prestados por terceiros;R$ 1.500,00;Cheque; -  -  / 13610 - JOSÉLIA MARIA DE ALENCAR NOGUEIRA - MA - Deputado Estadual;

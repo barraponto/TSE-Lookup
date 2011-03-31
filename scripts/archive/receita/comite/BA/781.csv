@@ -1,3 +1,2 @@
-Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
-Comitê Financeiro Único - PMN;12.235.323/0001-43;31/08/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 10.000,00;Cheque;3333 - ANTONIO CARLOS BOSCO MASSAROLLO - PMN - BA - Deputado Federal / Comitê Financeiro Único - PMN - BA;
-Comitê Financeiro Único - PMN;12.235.323/0001-43;22/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 10.000,00;Cheque;3333 - ANTONIO CARLOS BOSCO MASSAROLLO - PMN - BA - Deputado Federal / Comitê Financeiro Único - PMN - BA;
+Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
+Diretório Estadual/Distrital;01.332.853/0001-93;23/07/2010;33000118951;R$ 20.000,00;Cheque;Comitê Financeiro Único;PMN;BA;

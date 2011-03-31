@@ -1,4 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.153/0001-61;06/09/2010;45000429352;R$ 290,00;Cheque;EVA GALVÃO DIAS;45045;Deputado Estadual;PSDB;AC;
-Comitê Financeiro Único;12.200.153/0001-61;20/09/2010;45000429353;R$ 440,00;Estimado;EVA GALVÃO DIAS;45045;Deputado Estadual;PSDB;AC;
-JOAO BATISTA ALVES RODRIGUES;782.096.338-72;30/08/2010;45000429351;R$ 1.500,00;Depósito em espécie;EVA GALVÃO DIAS;45045;Deputado Estadual;PSDB;AC;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.153/0001-61;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 440,00;Estimado;Comitê Financeiro Único - PSDB -  / 45045 - EVA GALVÃO DIAS - AC - Deputado Estadual;
+G S SILVEIRA - ME;84.313.923/0001-93;30/08/2010;       Publicidade por materiais impressos;R$ 1.500,00;Cheque; -  -  / 45045 - EVA GALVÃO DIAS - AC - Deputado Estadual;
+MONACO HOTEL;02.008.242/0001-57;26/08/2010;       Diversas a especificar;R$ 160,00;Cheque; -  -  / 45045 - EVA GALVÃO DIAS - AC - Deputado Estadual;
+;;01/10/2010;       Encargos financeiros e taxas bancárias;R$ 40,35;Débito em conta; -  -  / 45045 - EVA GALVÃO DIAS - AC - Deputado Estadual;
+;;06/09/2010;       Encargos financeiros e taxas bancárias;R$ 76,05;Débito em conta; -  -  / 45045 - EVA GALVÃO DIAS - AC - Deputado Estadual;

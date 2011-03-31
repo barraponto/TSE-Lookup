@@ -1,8 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-BENEDITO CORREA DOS SANTOS;896.325.407-00;06/09/2010;17000009253;R$ 1.500,00;Depósito em espécie;JARDEL VIEIRA MACHADO NUNES;17123;Deputado Estadual;PSL;ES;
-Comitê Financeiro Único;12.181.922/0001-21;24/09/2010;17000009257;R$ 2.800,00;Estimado;JARDEL VIEIRA MACHADO NUNES;17123;Deputado Estadual;PSL;ES;
-GERCIMARIO SERAFIM;001.852.047-24;04/09/2010;17000009252;R$ 1.000,00;Depósito em espécie;JARDEL VIEIRA MACHADO NUNES;17123;Deputado Estadual;PSL;ES;
-JARDEL VIEIRA MACHADO NUNES;924.972.767-49;08/08/2010;17000009251;R$ 600,00;Depósito em espécie;JARDEL VIEIRA MACHADO NUNES;17123;Deputado Estadual;PSL;ES;
-LUCIANA DE ARAUJO SOUZA;017.249.987-90;06/09/2010;17000009254;R$ 2.500,00;Depósito em espécie;JARDEL VIEIRA MACHADO NUNES;17123;Deputado Estadual;PSL;ES;
-POSTO ITAPARICA LTDA;39.330.410/0001-36;30/09/2010;17000009256;R$ 1.218,00;Estimado;JARDEL VIEIRA MACHADO NUNES;17123;Deputado Estadual;PSL;ES;
-SERGIO PORCINO GUAST;925.455.137-68;29/09/2010;17000009255;R$ 1.000,00;Estimado;JARDEL VIEIRA MACHADO NUNES;17123;Deputado Estadual;PSL;ES;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BOX SERVIÇOS LTDA ME;05.294.072/0001-02;01/10/2010;       Produção de jingles, vinhetas e slogans;R$ 335,00;Cheque; -  -  / 17123 - JARDEL VIEIRA MACHADO NUNES - ES - Deputado Estadual;
+Comitê Financeiro Único;12.181.922/0001-21;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.800,00;Estimado;Comitê Financeiro Único - PSL -  / 17123 - JARDEL VIEIRA MACHADO NUNES - ES - Deputado Estadual;
+FONTANA ARTES GRAFICAS LTDA ME;31.287.667/0001-40;06/09/2010;       Publicidade por materiais impressos;R$ 4.760,00;Cheque; -  -  / 17123 - JARDEL VIEIRA MACHADO NUNES - ES - Deputado Estadual;
+POLLYANA FRAGA BAYERL - ME;07.436.790/0001-00;19/08/2010;       Publicidade por placas, estandartes e faixas;R$ 500,00;Cheque; -  -  / 17123 - JARDEL VIEIRA MACHADO NUNES - ES - Deputado Estadual;
+POSTO ITAPARICA LTDA;39.330.410/0001-36;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.218,00;Estimado; -  -  / 17123 - JARDEL VIEIRA MACHADO NUNES - ES - Deputado Estadual;
+SERGIO PORCINO GUAST;925.455.137-68;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 17123 - JARDEL VIEIRA MACHADO NUNES - ES - Deputado Estadual;

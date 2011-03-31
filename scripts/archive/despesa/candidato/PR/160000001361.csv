@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;21/09/2010;27000046741;R$ 630,00;Estimado;JUAN FURTADO DE LACERDA;27580;Deputado Estadual;PSDC;PR;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;21/09/2010;27000046742;R$ 500,00;Estimado;JUAN FURTADO DE LACERDA;27580;Deputado Estadual;PSDC;PR;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;30/09/2010;27000046745;R$ 1.680,00;Depósito em espécie;JUAN FURTADO DE LACERDA;27580;Deputado Estadual;PSDC;PR;
-G LAFFITTE INCORPORAÇÕES E EMPREENDIMENTOS IMOBILIARIOS LTDA;78.448.602/0001-01;16/09/2010;27000046743;R$ 200,00;Estimado;JUAN FURTADO DE LACERDA;27580;Deputado Estadual;PSDC;PR;
-PEDRO LUCAS DE MORAES;967.529.049-87;15/09/2010;27000046744;R$ 80,00;Estimado;JUAN FURTADO DE LACERDA;27580;Deputado Estadual;PSDC;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;45 -  - PSDB -  - Governador / 27580 - JUAN FURTADO DE LACERDA - PR - Deputado Estadual;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 630,00;Estimado;45 -  - PSDB -  - Governador / 27580 - JUAN FURTADO DE LACERDA - PR - Deputado Estadual;
+G LAFFITTE INCORPORAÇÕES E EMPREENDIMENTOS IMOBILIARIOS LTDA;78.448.602/0001-01;16/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado; -  -  / 27580 - JUAN FURTADO DE LACERDA - PR - Deputado Estadual;
+PEDRO LUCAS DE MORAES;967.529.049-87;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 80,00;Estimado; -  -  / 27580 - JUAN FURTADO DE LACERDA - PR - Deputado Estadual;
+POSTO CRISTAL LTDA;00.076.498/0001-76;02/10/2010;       Combustíveis e lubrificantes;R$ 1.680,00;Cheque; -  -  / 27580 - JUAN FURTADO DE LACERDA - PR - Deputado Estadual;

@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.147.818/0001-10;06/09/2010;43001504351;R$ 667,72;Estimado;JOSE CARLOS PEREIRA DUARTE;43555;Deputado Estadual;PV;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.147.818/0001-10;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 667,72;Estimado;Comitê Financeiro Único - PV -  / 43555 - JOSE CARLOS PEREIRA DUARTE - RJ - Deputado Estadual;

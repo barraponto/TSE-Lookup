@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;43001812179;R$ 1.304,00;Estimado;SEVERINO MIGUEL MONTEIRO FILHO;4300;Deputado Federal;PV;RN;
-Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;43001812177;R$ 2.500,00;Estimado;SEVERINO MIGUEL MONTEIRO FILHO;4300;Deputado Federal;PV;RN;
-Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;43001812182;R$ 5.003,25;Estimado;SEVERINO MIGUEL MONTEIRO FILHO;4300;Deputado Federal;PV;RN;
-Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;43001812180;R$ 4.761,00;Estimado;SEVERINO MIGUEL MONTEIRO FILHO;4300;Deputado Federal;PV;RN;
-Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;43001812181;R$ 714,00;Estimado;SEVERINO MIGUEL MONTEIRO FILHO;4300;Deputado Federal;PV;RN;
-FRANCISCO EDSON DA ROCHA GUIMARAES;638.832.874-15;28/09/2010;43001812176;R$ 500,00;Depósito em espécie;SEVERINO MIGUEL MONTEIRO FILHO;4300;Deputado Federal;PV;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.500,00;Estimado;Comitê Financeiro Único - PV -  / 4300 - SEVERINO MIGUEL MONTEIRO FILHO - RN - Deputado Federal;
+Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.761,00;Estimado;Comitê Financeiro Único - PV -  / 4300 - SEVERINO MIGUEL MONTEIRO FILHO - RN - Deputado Federal;
+Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 714,00;Estimado;Comitê Financeiro Único - PV -  / 4300 - SEVERINO MIGUEL MONTEIRO FILHO - RN - Deputado Federal;
+Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 5.003,25;Estimado;Comitê Financeiro Único - PV -  / 4300 - SEVERINO MIGUEL MONTEIRO FILHO - RN - Deputado Federal;
+Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.304,00;Estimado;Comitê Financeiro Único - PV -  / 4300 - SEVERINO MIGUEL MONTEIRO FILHO - RN - Deputado Federal;
+G P DA SILVA BEZERRA EPP;09.196.733/0001-18;30/09/2010;       Combustíveis e lubrificantes;R$ 500,00;Cheque; -  -  / 4300 - SEVERINO MIGUEL MONTEIRO FILHO - RN - Deputado Federal;

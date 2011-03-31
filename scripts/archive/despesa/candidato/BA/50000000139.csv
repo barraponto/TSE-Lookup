@@ -1,4 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MARCOS LEONELI ESPINHEIRA;097.839.385-68;10/09/2010;;R$ 1.000,00;Depósito em espécie;MARCOS LEONELI ESPINHEIRA;4331;Deputado Federal;PV;BA;
-MARCOS LEONELI ESPINHEIRA;097.839.385-68;23/09/2010;;R$ 1.000,00;Depósito em espécie;MARCOS LEONELI ESPINHEIRA;4331;Deputado Federal;PV;BA;
-MARCOS LEONELI ESPINHEIRA;097.839.385-68;20/09/2010;;R$ 1.000,00;Depósito em espécie;MARCOS LEONELI ESPINHEIRA;4331;Deputado Federal;PV;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BETA;03.846.306/0001-51;22/09/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 500,00;Cheque; -  -  / 4331 - MARCOS LEONELI ESPINHEIRA - BA - Deputado Federal;
+CARLOS EDUARDO PRATA GODINHO;568.181.065-87;08/09/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 300,00;Cheque; -  -  / 4331 - MARCOS LEONELI ESPINHEIRA - BA - Deputado Federal;
+PV DIREÇÃO EXECUTIVA ESTADUAL- BAHIA;01.365.593/0001-52;15/09/2010;       Diversas a especificar;R$ 1.050,00;Cheque; -  -  / 4331 - MARCOS LEONELI ESPINHEIRA - BA - Deputado Federal;
+RAMON MARGIOLLE PEREIRA DA SILVA;011.997.205-00;08/09/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 420,00;Cheque; -  -  / 4331 - MARCOS LEONELI ESPINHEIRA - BA - Deputado Federal;

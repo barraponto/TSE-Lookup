@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JULIO CESAR DA CRUZ SILVA;022.830.564-03;29/07/2010;70000143202;R$ 40,00;Depósito em espécie;JULIO CESAR DA CRUZ SILVA;70170;Deputado Estadual;PT do B;PB;
-JULIO CESAR DA CRUZ SILVA;022.830.564-03;02/09/2010;70000143203;R$ 50,00;Depósito em espécie;JULIO CESAR DA CRUZ SILVA;70170;Deputado Estadual;PT do B;PB;
-JULIO CESAR DA CRUZ SILVA;022.830.564-03;27/09/2010;70000143205;R$ 1.300,00;Depósito em espécie;JULIO CESAR DA CRUZ SILVA;70170;Deputado Estadual;PT do B;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA JBS LTDA;08.967.907/0001-36;30/09/2010;       Publicidade por materiais impressos;R$ 1.300,00;Cheque; -  -  / 70170 - JULIO CESAR DA CRUZ SILVA - PB - Deputado Estadual;
+POSTO SÃO MARCOS - MARCIA MOURA RAMADAN;01.106.085/0001-50;02/09/2010;       Combustíveis e lubrificantes;R$ 40,00;Cheque; -  -  / 70170 - JULIO CESAR DA CRUZ SILVA - PB - Deputado Estadual;
+POSTO SÃO MARCOS - MARCIA MOURA RAMADAN;01.106.085/0001-50;29/07/2010;       Combustíveis e lubrificantes;R$ 30,00;Cheque; -  -  / 70170 - JULIO CESAR DA CRUZ SILVA - PB - Deputado Estadual;

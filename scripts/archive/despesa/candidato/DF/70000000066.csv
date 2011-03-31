@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSE JACQUES OLIVEIRA DE MEDEIROS;728.334.321-00;20/08/2010;50000139122;R$ 250,00;Cheque;JOSÉ JACQUES OLIVEIRA DE MEDEIROS;5010;Deputado Federal;PSOL;DF;
-JOSE JACQUES OLIVEIRA DE MEDEIROS;728.334.321-00;22/07/2010;50000139121;R$ 180,00;Depósito em espécie;JOSÉ JACQUES OLIVEIRA DE MEDEIROS;5010;Deputado Federal;PSOL;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+J BRINDES LTDA;04.679.318/0001-00;21/07/2010;       Publicidade por materiais impressos;R$ 160,00;Cheque; -  -  / 5010 - JOSÉ JACQUES OLIVEIRA DE MEDEIROS - DF - Deputado Federal;
+J BRINDES LTDA;04.679.318/0001-00;24/08/2010;       Publicidade por placas, estandartes e faixas;R$ 250,00;Cheque; -  -  / 5010 - JOSÉ JACQUES OLIVEIRA DE MEDEIROS - DF - Deputado Federal;
+5010 - JOSE JACQUES OLIVEIRA DE MEDEIROS - DEPUTADO FEDERAL;12.180.009/0001-00;01/11/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 20,00;Cheque;Direção Estadual/Distrital - PSOL - DF / 5010 - JOSÉ JACQUES OLIVEIRA DE MEDEIROS - DF - Deputado Federal;

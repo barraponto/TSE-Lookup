@@ -1,9 +1,4 @@
-Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
-Comitê Financeiro Único - PRB;12.235.340/0001-80;11/08/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 4.000,00;Cheque;10210 - AQUELINO ÂNGELO NUNES DE SOUZA - PRB - SC - Deputado Estadual / Comitê Financeiro Único - PRB - SC;
-Comitê Financeiro Único - PRB;12.235.340/0001-80;11/08/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 2.000,00;Cheque;10777 - JOSÉ NAPOLEÃO BONAPARTE MAIA RODRIGUES - PRB - SC - Deputado Estadual / Comitê Financeiro Único - PRB - SC;
-Comitê Financeiro Único - PRB;12.235.340/0001-80;11/08/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 21.000,00;Cheque;1010 - ELEIÇÕES 2010 JERÔNIMO ALVES FERREIRA DEPUTADO FEDERAL - PRB - SC - Deputado Federal / Comitê Financeiro Único - PRB - SC;
-Comitê Financeiro Único - PRB;12.235.340/0001-80;20/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 17.500,00;Cheque;10123 - ODETE DE JESUS PRESTES DO NASCIMENTO - PRB - SC - Deputado Estadual / Comitê Financeiro Único - PRB - SC;
-Comitê Financeiro Único - PRB;12.235.340/0001-80;11/08/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 3.000,00;Cheque;10552 - ALDO WAGNER FERNANDES - PRB - SC - Deputado Estadual / Comitê Financeiro Único - PRB - SC;
-Comitê Financeiro Único - PRB;12.235.340/0001-80;29/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 30.000,00;Cheque;1010 - ELEIÇÕES 2010 JERÔNIMO ALVES FERREIRA DEPUTADO FEDERAL - PRB - SC - Deputado Federal / Comitê Financeiro Único - PRB - SC;
-Comitê Financeiro Único - PRB;12.235.340/0001-80;20/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 12.500,00;Cheque;1010 - ELEIÇÕES 2010 JERÔNIMO ALVES DEPUTADO FEDERAL - PRB - SC - Deputado Federal / Comitê Financeiro Único - PRB - SC;
-Comitê Financeiro Único - PRB;12.235.340/0001-80;11/08/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 10.000,00;Cheque;10123 - ODETE DE JESUS PRESTES DO NASCIMENTO - PRB - SC - Deputado Estadual / Comitê Financeiro Único - PRB - SC;
+Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
+Comitê Financeiro Único;12.205.309/0001-05;17/09/2010;10000088532;R$ 30.000,00;Transferência eletrônica;Comitê Financeiro Único;PRB;SC;
+Comitê Financeiro Único;12.205.309/0001-05;27/09/2010;10000088533;R$ 30.000,00;Cheque;Comitê Financeiro Único;PRB;SC;
+Comitê Financeiro Único;12.205.309/0001-05;06/08/2010;10000088531;R$ 40.000,00;Cheque;Comitê Financeiro Único;PRB;SC;

@@ -1,7 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;05.055.973/0001-41;28/09/2010;36000064804;R$ 1.722,00;Estimado;GEOVACI COSME DOS SANTOS;36258;Deputado Estadual;PTC;PE;
-GEOVACI COSME DOS SANTOS;062.217.404-52;23/09/2010;36000064795;R$ 538,00;Depósito em espécie;GEOVACI COSME DOS SANTOS;36258;Deputado Estadual;PTC;PE;
-GEOVACI COSME DOS SANTOS;062.217.404-52;05/10/2010;36000064799;R$ 150,00;Depósito em espécie;GEOVACI COSME DOS SANTOS;36258;Deputado Estadual;PTC;PE;
-GEOVACI COSME DOS SANTOS;062.217.404-52;25/10/2010;36000064803;R$ 19,70;Depósito em espécie;GEOVACI COSME DOS SANTOS;36258;Deputado Estadual;PTC;PE;
-GEOVACI COSME DOS SANTOS;062.217.404-52;14/09/2010;36000064792;R$ 1.200,00;Depósito em espécie;GEOVACI COSME DOS SANTOS;36258;Deputado Estadual;PTC;PE;
-GEOVACI COSME DOS SANTOS;062.217.404-52;01/10/2010;36000064798;R$ 500,00;Depósito em espécie;GEOVACI COSME DOS SANTOS;36258;Deputado Estadual;PTC;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;05.055.973/0001-41;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.722,00;Estimado;Direção Estadual/Distrital - PTC -  / 36258 - GEOVACI COSME DOS SANTOS - PE - Deputado Estadual;
+EDITE PEREIRA DO NASCIMENTO;10.536.364/0001-44;25/10/2010;       Publicidade por materiais impressos;R$ 900,00;Cheque; -  -  / 36258 - GEOVACI COSME DOS SANTOS - PE - Deputado Estadual;
+IRENILDA RODRIGUES DO NASCIMENTO;522.299.044-34;26/10/2010;       Serviços prestados por terceiros;R$ 24,00;Cheque; -  -  / 36258 - GEOVACI COSME DOS SANTOS - PE - Deputado Estadual;
+IRENILDA RODRIGUES DO NASCIMENTO;522.299.044-34;24/09/2010;       Serviços prestados por terceiros;R$ 95,00;Cheque; -  -  / 36258 - GEOVACI COSME DOS SANTOS - PE - Deputado Estadual;
+MARILUCE DE SOUZA QUEIROZ;08.409.840/0001-14;17/09/2010;       Materiais de expediente;R$ 200,00;Cheque; -  -  / 36258 - GEOVACI COSME DOS SANTOS - PE - Deputado Estadual;
+VERDEJANTE COMERCIAL LTDA;41.057.571/0003-01;25/10/2010;       Combustíveis e lubrificantes;R$ 500,00;Cheque; -  -  / 36258 - GEOVACI COSME DOS SANTOS - PE - Deputado Estadual;
+VERDEJANTE COMERCIAL LTDA;41.057.571/0003-01;25/10/2010;       Combustíveis e lubrificantes;R$ 500,00;Cheque; -  -  / 36258 - GEOVACI COSME DOS SANTOS - PE - Deputado Estadual;
+VERDEJANTE COMERCIAL LTDA;41.057.571/0003-01;25/10/2010;       Combustíveis e lubrificantes;R$ 188,00;Cheque; -  -  / 36258 - GEOVACI COSME DOS SANTOS - PE - Deputado Estadual;
+;;29/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 36258 - GEOVACI COSME DOS SANTOS - PE - Deputado Estadual;
+;;27/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 36258 - GEOVACI COSME DOS SANTOS - PE - Deputado Estadual;

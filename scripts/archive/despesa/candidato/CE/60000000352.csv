@@ -1,6 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FRANCISCO JOSE DE OLIVEIRA CASTRO;993.584.688-15;18/08/2010;43001892548;R$ 500,00;Depósito em espécie;JOSEFA ALVES DOS SANTOS LIMA;43777;Deputado Estadual;PV;CE;
-JOSEFA ALVES DOS SANTOS;172.646.503-91;24/08/2010;43001892549;R$ 555,00;Transferência eletrônica;JOSEFA ALVES DOS SANTOS LIMA;43777;Deputado Estadual;PV;CE;
-JOSEFA ALVES DOS SANTOS;172.646.503-91;30/07/2010;43001892547;R$ 500,00;Depósito em espécie;JOSEFA ALVES DOS SANTOS LIMA;43777;Deputado Estadual;PV;CE;
-RAIMUNDO NONATO DE LIMA;034.412.533-53;30/07/2010;43001892546;R$ 500,00;Depósito em espécie;JOSEFA ALVES DOS SANTOS LIMA;43777;Deputado Estadual;PV;CE;
-ZILDEMBERGUE DE SA BARRETO LIMA;933.244.993-72;16/09/2010;43001892550;R$ 1.000,00;Depósito em espécie;JOSEFA ALVES DOS SANTOS LIMA;43777;Deputado Estadual;PV;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO HELDER CANSANÇAO BRASILEIRO - ME;00.651.164/0001-89;30/07/2010;       Publicidade por materiais impressos;R$ 490,00;Cheque; -  -  / 43777 - JOSEFA ALVES DOS SANTOS LIMA - CE - Deputado Estadual;
+ANTONIO HELDER CANSANÇAO BRASILEIRO - ME;00.651.164/0001-89;14/09/2010;       Publicidade por materiais impressos;R$ 390,00;Cheque; -  -  / 43777 - JOSEFA ALVES DOS SANTOS LIMA - CE - Deputado Estadual;
+CLAUDENUZIA GOMES PEREIRA;005.209.733-13;01/09/2010;       Despesas com pessoal;R$ 254,00;Cheque; -  -  / 43777 - JOSEFA ALVES DOS SANTOS LIMA - CE - Deputado Estadual;
+JOSE FLAVIANO DINIZ BARBOSA - ME;07.635.630/0001-81;30/07/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 43777 - JOSEFA ALVES DOS SANTOS LIMA - CE - Deputado Estadual;
+JOSE FLAVIANO DINIZ BARBOSA - ME;07.635.630/0001-81;31/08/2010;       Publicidade por materiais impressos;R$ 525,00;Cheque; -  -  / 43777 - JOSEFA ALVES DOS SANTOS LIMA - CE - Deputado Estadual;
+JOSE FLAVIANO DINIZ BARBOSA - ME;07.635.630/0001-81;31/08/2010;       Publicidade por materiais impressos;R$ 366,00;Cheque; -  -  / 43777 - JOSEFA ALVES DOS SANTOS LIMA - CE - Deputado Estadual;
+JOSE FLAVIANO DINIZ BARBOSA - ME;07.635.630/0001-81;14/09/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 43777 - JOSEFA ALVES DOS SANTOS LIMA - CE - Deputado Estadual;
+JOSE FLAVIANO DINIZ BARBOSA - ME;07.635.630/0001-81;10/09/2010;       Publicidade por materiais impressos;R$ 130,00;Cheque; -  -  / 43777 - JOSEFA ALVES DOS SANTOS LIMA - CE - Deputado Estadual;

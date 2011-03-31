@@ -1,2 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADRIANA DA ROCHA TOMÉ;246.385.443-04;21/09/2010;43001894448;R$ 300,00;Depósito em espécie;ADRIANA DA ROCHA TOME;43333;Deputado Estadual;PV;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+MARIA FÁTIMA CABRAL FREIRE;212.359.103-34;30/09/2010;       Serviços prestados por terceiros;R$ 40,00;Cheque; -  -  / 43333 - ADRIANA DA ROCHA TOME - CE - Deputado Estadual;
+RUTE VALÉRIA DE OLIVEIRA;05.492.196/0001-00;21/09/2010;       Publicidade por materiais impressos;R$ 250,00;Cheque; -  -  / 43333 - ADRIANA DA ROCHA TOME - CE - Deputado Estadual;
+;;23/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 43333 - ADRIANA DA ROCHA TOME - CE - Deputado Estadual;

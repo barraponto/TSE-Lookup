@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS WILLIAM DE SOUZA;12.173.461/0001-45;20/09/2010;36000015002;R$ 120,00;Estimado;ADÃO PEREIRA SANTOS;36777;Deputado Estadual;PTC;MG;
-CARLOS WILLIAM DE SOUZA;12.173.461/0001-45;11/09/2010;36000015001;R$ 1.400,00;Estimado;ADÃO PEREIRA SANTOS;36777;Deputado Estadual;PTC;MG;
-CARLOS WILLIAM DE SOUZA;12.173.461/0001-45;24/08/2010;36000015003;R$ 260,00;Estimado;ADÃO PEREIRA SANTOS;36777;Deputado Estadual;PTC;MG;
-JOÃO BATISTA RODRIGUES GUIMARÃES;685.525.996-00;03/10/2010;36000015006;R$ 500,00;Estimado;ADÃO PEREIRA SANTOS;36777;Deputado Estadual;PTC;MG;
-JOSÉ ROQUE FERREIRA;124.987.338-09;03/10/2010;36000015004;R$ 700,00;Estimado;ADÃO PEREIRA SANTOS;36777;Deputado Estadual;PTC;MG;
-SANDRO DA SILVA MORAES;488.859.916-53;03/10/2010;36000015005;R$ 1.000,00;Estimado;ADÃO PEREIRA SANTOS;36777;Deputado Estadual;PTC;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS WILLIAM DE SOUZA;12.173.461/0001-45;11/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.400,00;Estimado;3636 -  - PTC -  - Deputado Federal / 36777 - ADÃO PEREIRA SANTOS - MG - Deputado Estadual;
+CARLOS WILLIAM DE SOUZA;12.173.461/0001-45;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 260,00;Estimado;3636 -  - PTC -  - Deputado Federal / 36777 - ADÃO PEREIRA SANTOS - MG - Deputado Estadual;
+CARLOS WILLIAM DE SOUZA;12.173.461/0001-45;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 120,00;Estimado;3636 -  - PTC -  - Deputado Federal / 36777 - ADÃO PEREIRA SANTOS - MG - Deputado Estadual;
+JOÃO BATISTA RODRIGUES GUIMARÃES;685.525.996-00;03/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 36777 - ADÃO PEREIRA SANTOS - MG - Deputado Estadual;
+JOSÉ ROQUE FERREIRA;124.987.338-09;03/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 700,00;Estimado; -  -  / 36777 - ADÃO PEREIRA SANTOS - MG - Deputado Estadual;
+SANDRO DA SILVA MORAES;488.859.916-53;03/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 36777 - ADÃO PEREIRA SANTOS - MG - Deputado Estadual;

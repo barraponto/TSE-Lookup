@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-SOLANGE AMARAL;12.178.255/0001-28;27/08/2010;25000168391;R$ 359,00;Estimado;NATHALIE DRUMOND ALVES DO AMARAL;25126;Deputado Estadual;DEM;RJ;
-SOLANGE AMARAL;12.178.255/0001-28;27/08/2010;25000168390;R$ 625,00;Estimado;NATHALIE DRUMOND ALVES DO AMARAL;25126;Deputado Estadual;DEM;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+SOLANGE AMARAL;12.178.255/0001-28;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 625,00;Estimado;2522 -  - DEM -  - Deputado Federal / 25126 - NATHALIE DRUMOND ALVES DO AMARAL - RJ - Deputado Estadual;
+SOLANGE AMARAL;12.178.255/0001-28;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 359,00;Estimado;2522 -  - DEM -  - Deputado Federal / 25126 - NATHALIE DRUMOND ALVES DO AMARAL - RJ - Deputado Estadual;

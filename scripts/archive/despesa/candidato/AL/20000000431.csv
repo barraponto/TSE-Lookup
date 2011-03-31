@@ -1,2 +1,15 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.114/0001-64;21/09/2010;25000457576;R$ 7.000,00;Cheque;MARIA JOSE DA SILVA;25456;Deputado Estadual;DEM;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADRIANA RAQUEL DA SILVA MELO;054.398.234-33;29/09/2010;       Despesas com pessoal;R$ 480,00;Cheque; -  -  / 25456 - MARIA JOSE DA SILVA - AL - Deputado Estadual;
+CLEDJA CORDEIRO DA SILVA;058.020.994-61;29/09/2010;       Despesas com pessoal;R$ 460,00;Cheque; -  -  / 25456 - MARIA JOSE DA SILVA - AL - Deputado Estadual;
+COSMO GOMES DIAS;028.598.504-30;29/09/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / 25456 - MARIA JOSE DA SILVA - AL - Deputado Estadual;
+DENIZE FERREIRA DA SILVA;724.074.094-34;29/09/2010;       Despesas com pessoal;R$ 400,00;Cheque; -  -  / 25456 - MARIA JOSE DA SILVA - AL - Deputado Estadual;
+DEYSYELLY JUDITH DA SILVA SOUZA;092.725.494-85;29/09/2010;       Despesas com pessoal;R$ 450,00;Cheque; -  -  / 25456 - MARIA JOSE DA SILVA - AL - Deputado Estadual;
+E. P. IND. GRAFICA E EDITORA LTDA;08.954.523/0001-89;28/09/2010;       Publicidade por materiais impressos;R$ 450,00;Cheque; -  -  / 25456 - MARIA JOSE DA SILVA - AL - Deputado Estadual;
+GRACIELLY MARIA DA SILVA SOUZA;059.171.624-09;29/09/2010;       Despesas com pessoal;R$ 580,00;Cheque; -  -  / 25456 - MARIA JOSE DA SILVA - AL - Deputado Estadual;
+GREICE KELLY DA SILVA SOUZA;051.336.944-90;29/09/2010;       Despesas com pessoal;R$ 480,00;Cheque; -  -  / 25456 - MARIA JOSE DA SILVA - AL - Deputado Estadual;
+JAMILY CAVALCANTE DE MELO;040.256.384-01;29/09/2010;       Despesas com pessoal;R$ 280,00;Cheque; -  -  / 25456 - MARIA JOSE DA SILVA - AL - Deputado Estadual;
+JOSINALDO FERREIRA DE LIMA;039.646.834-93;29/09/2010;       Despesas com pessoal;R$ 550,00;Cheque; -  -  / 25456 - MARIA JOSE DA SILVA - AL - Deputado Estadual;
+M J DE SOUZA SERIGRAFIA ME;11.978.278/0001-54;28/09/2010;       Publicidade por materiais impressos;R$ 490,00;Cheque; -  -  / 25456 - MARIA JOSE DA SILVA - AL - Deputado Estadual;
+NATANAEL DA SILVA MELO;077.644.774-27;29/09/2010;       Despesas com pessoal;R$ 480,00;Cheque; -  -  / 25456 - MARIA JOSE DA SILVA - AL - Deputado Estadual;
+NIVALDO DOS SANTOS;456.714.604-25;28/09/2010;       Produção de jingles, vinhetas e slogans;R$ 800,00;Cheque; -  -  / 25456 - MARIA JOSE DA SILVA - AL - Deputado Estadual;
+ROSEANE NOGUEIRA DE ANDRADE;725.513.054-20;29/09/2010;       Serviços prestados por terceiros;R$ 600,00;Cheque; -  -  / 25456 - MARIA JOSE DA SILVA - AL - Deputado Estadual;

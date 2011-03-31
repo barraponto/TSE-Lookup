@@ -1,6 +1,6 @@
-Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
-Comitê Financeiro Único;12.191.578/0001-51;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.891,53;Estimado;Comitê Financeiro Único - PT -  / Comitê Financeiro Distrital/Estadual para Deputado Estadual - PC do B - MS;
-Comitê Financeiro Único;12.191.578/0001-51;19/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.389,00;Estimado;Comitê Financeiro Único - PT -  / Comitê Financeiro Distrital/Estadual para Deputado Estadual - PC do B - MS;
-Comitê Financeiro Único;12.191.578/0001-51;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.040,00;Estimado;Comitê Financeiro Único - PT -  / Comitê Financeiro Distrital/Estadual para Deputado Estadual - PC do B - MS;
-ELEICAO 2010 MOACIR ROBERTO DE ABREU - DEPUTADO FEDERAL;12.169.514/0001-54;05/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 95,00;Estimado;6513 -  - PC do B -  - Deputado Federal / Comitê Financeiro Distrital/Estadual para Deputado Estadual - PC do B - MS;
-ELEICAO 2010 MOACIR ROBERTO DE ABREU - DEPUTADO FEDERAL;12.169.514/0001-54;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 75,00;Estimado;6513 -  - PC do B -  - Deputado Federal / Comitê Financeiro Distrital/Estadual para Deputado Estadual - PC do B - MS;
+Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
+Comitê Financeiro Único;12.191.578/0001-51;19/08/2010;65000215001;R$ 4.389,00;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual;PC do B;MS;
+Comitê Financeiro Único;12.191.578/0001-51;17/08/2010;65000215002;R$ 2.891,53;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual;PC do B;MS;
+Comitê Financeiro Único;12.191.578/0001-51;04/09/2010;65000215006;R$ 1.040,00;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual;PC do B;MS;
+ELEICAO 2010 MOACIR ROBERTO DE ABREU - DEPUTADO FEDERAL;12.169.514/0001-54;17/08/2010;65000215005;R$ 75,00;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual;PC do B;MS;
+ELEICAO 2010 MOACIR ROBERTO DE ABREU - DEPUTADO FEDERAL;12.169.514/0001-54;05/10/2010;65000215008;R$ 95,00;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual;PC do B;MS;

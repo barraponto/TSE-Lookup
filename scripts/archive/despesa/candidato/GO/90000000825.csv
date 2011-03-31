@@ -1,2 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-HELIO DA SILVA SOUSA;766.467.501-49;24/08/2010;45000105353;R$ 350,00;Depósito em espécie;MARCILENE DA SILVA SOUSA;45611;Deputado Estadual;PSDB;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARTS FOTOS E VIDEO LTDA-ME;07.243.873/0001-74;24/08/2010;       Diversas a especificar;R$ 22,00;Cheque; -  -  / 45611 - MARCILENE DA SILVA SOUSA - GO - Deputado Estadual;
+ENIS GOMES DE ANDRADE;00.960.793/0001-90;30/08/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 45611 - MARCILENE DA SILVA SOUSA - GO - Deputado Estadual;
+JOÃO BATISTA DA SILVA;11.381.653/0001-84;09/09/2010;       Alimentação;R$ 16,50;Cheque; -  -  / 45611 - MARCILENE DA SILVA SOUSA - GO - Deputado Estadual;
+SUPRIPEL PAPELARIA LTDA;01.453.849/0001-83;26/08/2010;       Materiais de expediente;R$ 4,90;Cheque; -  -  / 45611 - MARCILENE DA SILVA SOUSA - GO - Deputado Estadual;
+WILSON QUEIROZ SILVERIO;02.616.118/0001-74;02/10/2010;       Materiais de expediente;R$ 5,10;Cheque; -  -  / 45611 - MARCILENE DA SILVA SOUSA - GO - Deputado Estadual;
+;;13/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,50;Débito em conta; -  -  / 45611 - MARCILENE DA SILVA SOUSA - GO - Deputado Estadual;
+;;20/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,50;Débito em conta; -  -  / 45611 - MARCILENE DA SILVA SOUSA - GO - Deputado Estadual;
+;;30/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,50;Débito em conta; -  -  / 45611 - MARCILENE DA SILVA SOUSA - GO - Deputado Estadual;
+;;27/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,50;Débito em conta; -  -  / 45611 - MARCILENE DA SILVA SOUSA - GO - Deputado Estadual;

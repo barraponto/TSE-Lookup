@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;04.160.131/0001-97;23/09/2010;19000009229;R$ 945,00;Cheque;LUIZ CARLOS LOPES DA SILVA;19677;Deputado Estadual;PTN;AM;
-Diretório Estadual/Distrital;04.160.131/0001-97;30/09/2010;19000009230;R$ 200,00;Estimado;LUIZ CARLOS LOPES DA SILVA;19677;Deputado Estadual;PTN;AM;
-Diretório Estadual/Distrital;04.160.131/0001-97;13/08/2010;19000009228;R$ 300,00;Estimado;LUIZ CARLOS LOPES DA SILVA;19677;Deputado Estadual;PTN;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;04.160.131/0001-97;13/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Direção Estadual/Distrital - PMDB -  / 19677 - LUIZ CARLOS LOPES DA SILVA - AM - Deputado Estadual;
+Diretório Estadual/Distrital;04.160.131/0001-97;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;Direção Estadual/Distrital - PMDB -  / 19677 - LUIZ CARLOS LOPES DA SILVA - AM - Deputado Estadual;
+GRAFISA GARFICA E EDITORA LTDA;03.633.502/0001-48;25/08/2010;       Publicidade por materiais impressos;R$ 945,00;Cheque; -  -  / 19677 - LUIZ CARLOS LOPES DA SILVA - AM - Deputado Estadual;

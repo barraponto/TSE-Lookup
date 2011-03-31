@@ -1,3 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.335/0001-25;20/09/2010;28000423000;R$ 65,59;Estimado;MANOEL MACHADO DA ROCHA;28105;Deputado Estadual;PRTB;AC;
-MANOEL MACHADO DA ROCHA;020.451.762-15;07/12/2010;28000422801;R$ 50,00;Depósito em espécie;MANOEL MACHADO DA ROCHA;28105;Deputado Estadual;PRTB;AC;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.335/0001-25;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 65,59;Estimado;Comitê Financeiro Único - PRTB -  / 28105 - MANOEL MACHADO DA ROCHA - AC - Deputado Estadual;
+GILMAR PISMEL ALMEIDA;390.907.792-72;08/12/2010;       Despesas com pessoal;R$ 30,75;Cheque; -  -  / 28105 - MANOEL MACHADO DA ROCHA - AC - Deputado Estadual;
+;;07/12/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 28105 - MANOEL MACHADO DA ROCHA - AC - Deputado Estadual;
+;;07/12/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 28105 - MANOEL MACHADO DA ROCHA - AC - Deputado Estadual;
+;;07/12/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 28105 - MANOEL MACHADO DA ROCHA - AC - Deputado Estadual;
+;;07/12/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 28105 - MANOEL MACHADO DA ROCHA - AC - Deputado Estadual;
+;;07/12/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 28105 - MANOEL MACHADO DA ROCHA - AC - Deputado Estadual;
+;;07/12/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 28105 - MANOEL MACHADO DA ROCHA - AC - Deputado Estadual;

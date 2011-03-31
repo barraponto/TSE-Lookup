@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.221.869/0001-45;17/08/2010;70000181511;R$ 1.557,50;Estimado;LUIZ CARLOS DA SILVA;70456;Deputado Estadual;PT do B;PI;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.221.869/0001-45;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.557,50;Estimado;Comitê Financeiro Único - PT do B -  / 70456 - LUIZ CARLOS DA SILVA - PI - Deputado Estadual;

@@ -1,7 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-APARECIDO FERRAZ;412.156.489-87;13/09/2010;10000046206;R$ 900,00;Estimado;GILSON PEREIRA DOS SANTOS;10600;Deputado Estadual;PRB;PR;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;18/08/2010;10000046202;R$ 3.150,00;Estimado;GILSON PEREIRA DOS SANTOS;10600;Deputado Estadual;PRB;PR;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;14/09/2010;10000046201;R$ 2.500,00;Estimado;GILSON PEREIRA DOS SANTOS;10600;Deputado Estadual;PRB;PR;
-GILSON PEREIRA DOS SANTOS;457.870.779-20;30/11/2010;10000046204;R$ 1,40;Depósito em espécie;GILSON PEREIRA DOS SANTOS;10600;Deputado Estadual;PRB;PR;
-KLABIN S.A;89.637.490/0001-45;10/09/2010;10000046203;R$ 5.000,00;Transferência eletrônica;GILSON PEREIRA DOS SANTOS;10600;Deputado Estadual;PRB;PR;
-SANDRO ALEX C. DE OLIVEIRA;12.180.389/0001-83;10/08/2010;10000046205;R$ 500,00;Estimado;GILSON PEREIRA DOS SANTOS;10600;Deputado Estadual;PRB;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+APARECIDO FERRAZ;412.156.489-87;13/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 900,00;Estimado; -  -  / 10600 - GILSON PEREIRA DOS SANTOS - PR - Deputado Estadual;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.500,00;Estimado;45 -  - PSDB -  - Governador / 10600 - GILSON PEREIRA DOS SANTOS - PR - Deputado Estadual;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.150,00;Estimado;45 -  - PSDB -  - Governador / 10600 - GILSON PEREIRA DOS SANTOS - PR - Deputado Estadual;
+COMERCIO DE COMBUSTIVEIS CHANCELLER LTDA;03.595.059/0001-68;15/09/2010;       Combustíveis e lubrificantes;R$ 470,00;Cheque; -  -  / 10600 - GILSON PEREIRA DOS SANTOS - PR - Deputado Estadual;
+GRAFICA EXECUTIVA LTDA;02.426.701/0001-12;13/09/2010;       Publicidade por materiais impressos;R$ 2.400,00;Cheque; -  -  / 10600 - GILSON PEREIRA DOS SANTOS - PR - Deputado Estadual;
+GRAFICA EXECUTIVA LTDA;02.426.701/0001-12;13/09/2010;       Publicidade por placas, estandartes e faixas;R$ 900,00;Cheque; -  -  / 10600 - GILSON PEREIRA DOS SANTOS - PR - Deputado Estadual;
+RAFAEL E. MEDEIROS & CIA LTDA;07.488.405/0001-60;13/09/2010;       Publicidade por placas, estandartes e faixas;R$ 990,00;Cheque; -  -  / 10600 - GILSON PEREIRA DOS SANTOS - PR - Deputado Estadual;
+RAFAEL E. MEDEIROS & CIA LTDA;07.488.405/0001-60;13/09/2010;       Publicidade por placas, estandartes e faixas;R$ 240,00;Cheque; -  -  / 10600 - GILSON PEREIRA DOS SANTOS - PR - Deputado Estadual;
+SANDRO ALEX C. DE OLIVEIRA;12.180.389/0001-83;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;2323 -  - PPS -  - Deputado Federal / 10600 - GILSON PEREIRA DOS SANTOS - PR - Deputado Estadual;
+;;30/11/2010;       Encargos financeiros e taxas bancárias;R$ 1,40;Débito em conta; -  -  / 10600 - GILSON PEREIRA DOS SANTOS - PR - Deputado Estadual;

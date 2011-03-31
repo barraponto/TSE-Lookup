@@ -1,3 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MARIA DA CONCEIÇÃO FURTADO MARTINS;235.223.303-82;31/08/2010;20000675741;R$ 150,00;Estimado;MARIA DA CONCEICAO FURTADO MARTINS;2054;Deputado Federal;PSC;RJ;
-NISVAL DE MAGALHÃES;108.354.587-68;10/09/2010;20000675742;R$ 129,95;Estimado;MARIA DA CONCEICAO FURTADO MARTINS;2054;Deputado Federal;PSC;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+COMÉRCIO E SERVIÇOS DE PAINÉIS PUBLICITÁRIOS LTDª.;08.379.705/0001-73;10/09/2010;       Publicidade por placas, estandartes e faixas;R$ 129,95;Não informado; -  -  / 2054 - MARIA DA CONCEICAO FURTADO MARTINS - RJ - Deputado Federal;
+MARIA DA CONCEIÇÃO FURTADO MARTINS;235.223.303-82;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado; -  -  / 2054 - MARIA DA CONCEICAO FURTADO MARTINS - RJ - Deputado Federal;
+NISVAL DE MAGALHÃES;108.354.587-68;31/08/2010;       Materiais de expediente;R$ 150,00;Não informado; -  -  / 2054 - MARIA DA CONCEICAO FURTADO MARTINS - RJ - Deputado Federal;
+NISVAL DE MAGALHÃES;108.354.587-68;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 129,95;Estimado; -  -  / 2054 - MARIA DA CONCEICAO FURTADO MARTINS - RJ - Deputado Federal;

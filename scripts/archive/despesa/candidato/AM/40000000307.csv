@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;04.160.131/0001-97;23/09/2010;25000595847;R$ 435,00;Cheque;DARLENE PEREIRA NEVES;2522;Deputado Federal;DEM;AM;
-Diretório Estadual/Distrital;04.160.131/0001-97;13/08/2010;25000595848;R$ 300,00;Estimado;DARLENE PEREIRA NEVES;2522;Deputado Federal;DEM;AM;
-TAMARA JESSICA NEVES FERREIRA;981.173.602-25;17/09/2010;25000595849;R$ 1.600,00;Depósito em espécie;DARLENE PEREIRA NEVES;2522;Deputado Federal;DEM;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;04.160.131/0001-97;13/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Direção Estadual/Distrital - PMDB -  / 2522 - DARLENE PEREIRA NEVES - AM - Deputado Federal;
+LC COMERCIO E SERVIÇOS;03.079.926/0001-02;16/09/2010;       Publicidade por materiais impressos;R$ 435,00;Cheque; -  -  / 2522 - DARLENE PEREIRA NEVES - AM - Deputado Federal;
+LC COMERCIO E SERVIÇOS;03.079.926/0001-02;14/09/2010;       Publicidade por materiais impressos;R$ 1.600,00;Cheque; -  -  / 2522 - DARLENE PEREIRA NEVES - AM - Deputado Federal;

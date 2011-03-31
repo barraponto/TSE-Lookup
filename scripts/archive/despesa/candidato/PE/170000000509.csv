@@ -1,6 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;05.055.973/0001-41;28/09/2010;36000064576;R$ 40,00;Estimado;JEZER ALVES DA SILVA;3635;Deputado Federal;PTC;PE;
-Diretório Estadual/Distrital;05.055.973/0001-41;29/09/2010;36000064575;R$ 7.000,00;Cheque;JEZER ALVES DA SILVA;3635;Deputado Federal;PTC;PE;
-Diretório Estadual/Distrital;05.055.973/0001-41;24/09/2010;36000064580;R$ 700,00;Estimado;JEZER ALVES DA SILVA;3635;Deputado Federal;PTC;PE;
-Diretório Estadual/Distrital;05.055.973/0001-41;27/09/2010;36000064578;R$ 1.455,00;Estimado;JEZER ALVES DA SILVA;3635;Deputado Federal;PTC;PE;
-JEZER ALVES DA SILVA;025.813.244-22;04/10/2010;36000064571;R$ 13,50;Depósito em espécie;JEZER ALVES DA SILVA;3635;Deputado Federal;PTC;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;05.055.973/0001-41;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.455,00;Estimado;Direção Estadual/Distrital - PTC -  / 3635 - JEZER ALVES DA SILVA - PE - Deputado Federal;
+Diretório Estadual/Distrital;05.055.973/0001-41;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 40,00;Estimado;Direção Estadual/Distrital - PTC -  / 3635 - JEZER ALVES DA SILVA - PE - Deputado Federal;
+Diretório Estadual/Distrital;05.055.973/0001-41;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 700,00;Estimado;Direção Estadual/Distrital - PTC -  / 3635 - JEZER ALVES DA SILVA - PE - Deputado Federal;
+JAIME BATISTA DA SILVA;032.870.564-09;04/10/2010;       Despesas com pessoal;R$ 1.000,00;Transferência eletrônica; -  -  / 3635 - JEZER ALVES DA SILVA - PE - Deputado Federal;
+JEDIAEL ALVES DA SILVA;008.077.214-50;04/10/2010;       Cessão ou Locação de Veículos;R$ 1.000,00;Transferência eletrônica; -  -  / 3635 - JEZER ALVES DA SILVA - PE - Deputado Federal;
+JERSON FRANCISCO DE SENA;870.006.524-20;04/10/2010;       Despesas com pessoal;R$ 1.000,00;Transferência eletrônica; -  -  / 3635 - JEZER ALVES DA SILVA - PE - Deputado Federal;
+JOSÉ CARLOS BENEDITO DA SILVA;460.544.564-15;04/10/2010;       Despesas com pessoal;R$ 1.000,00;Transferência eletrônica; -  -  / 3635 - JEZER ALVES DA SILVA - PE - Deputado Federal;
+SEBASTIÃO MOURA MARTINS NETO;933.783.274-72;04/10/2010;       Despesas com pessoal;R$ 1.000,00;Transferência eletrônica; -  -  / 3635 - JEZER ALVES DA SILVA - PE - Deputado Federal;
+SILVIO RONALDO S. SANTOS;775.314.934-20;04/10/2010;       Despesas com pessoal;R$ 1.000,00;Transferência eletrônica; -  -  / 3635 - JEZER ALVES DA SILVA - PE - Deputado Federal;
+WILTON RODRIGUES FELIX;300.193.894-34;04/10/2010;       Despesas com pessoal;R$ 1.000,00;Transferência eletrônica; -  -  / 3635 - JEZER ALVES DA SILVA - PE - Deputado Federal;
+;;04/10/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Débito em conta; -  -  / 3635 - JEZER ALVES DA SILVA - PE - Deputado Federal;

@@ -1,2 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.114/0001-64;21/09/2010;25000457951;R$ 5.000,00;Cheque;JOSÉ DANIEL TORRES PINTO;25077;Deputado Estadual;DEM;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANA PAULA DA SILVA;033.144.094-60;28/09/2010;       Despesas com pessoal;R$ 1.500,00;Cheque; -  -  / 25077 - JOSÉ DANIEL TORRES PINTO - AL - Deputado Estadual;
+DAIANE KARLA BONFIM;098.112.994-39;26/09/2010;       Despesas com pessoal;R$ 1.500,00;Cheque; -  -  / 25077 - JOSÉ DANIEL TORRES PINTO - AL - Deputado Estadual;
+JULIO DA SILVA CORIS;777.550.814-00;28/09/2010;       Despesas com pessoal;R$ 1.600,00;Cheque; -  -  / 25077 - JOSÉ DANIEL TORRES PINTO - AL - Deputado Estadual;
+ROSENILDA VALDEVINO DOS SANTOS ME;07.707.071/0001-78;28/09/2010;       Diversas a especificar;R$ 400,00;Cheque; -  -  / 25077 - JOSÉ DANIEL TORRES PINTO - AL - Deputado Estadual;

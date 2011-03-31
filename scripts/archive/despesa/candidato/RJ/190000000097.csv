@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;11000006423;R$ 150,00;Estimado;MARCO AURELIO SOUZA SIQUEIRA;11114;Deputado Estadual;PP;RJ;
-Comitê Financeiro Único;12.200.097/0001-65;02/10/2010;11000006422;R$ 3.592,00;Estimado;MARCO AURELIO SOUZA SIQUEIRA;11114;Deputado Estadual;PP;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;28/07/2010;11000006421;R$ 150,00;Estimado;MARCO AURELIO SOUZA SIQUEIRA;11114;Deputado Estadual;PP;RJ;
-JORGE SAYED PICCIANI;12.176.626/0001-32;01/10/2010;11000006426;R$ 15,75;Estimado;MARCO AURELIO SOUZA SIQUEIRA;11114;Deputado Estadual;PP;RJ;
-JORGE SAYED PICCIANI;12.176.626/0001-32;01/10/2010;11000006425;R$ 13,86;Estimado;MARCO AURELIO SOUZA SIQUEIRA;11114;Deputado Estadual;PP;RJ;
-JORGE SAYED PICCIANI;12.176.626/0001-32;01/10/2010;11000006424;R$ 17,00;Estimado;MARCO AURELIO SOUZA SIQUEIRA;11114;Deputado Estadual;PP;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.097/0001-65;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.592,00;Estimado;Comitê Financeiro Único - PP -  / 11114 - MARCO AURELIO SOUZA SIQUEIRA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 11114 - MARCO AURELIO SOUZA SIQUEIRA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;28/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 11114 - MARCO AURELIO SOUZA SIQUEIRA - RJ - Deputado Estadual;
+JORGE SAYED PICCIANI;12.176.626/0001-32;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 15,75;Estimado;155 -  - PMDB -  - Senador / 11114 - MARCO AURELIO SOUZA SIQUEIRA - RJ - Deputado Estadual;
+JORGE SAYED PICCIANI;12.176.626/0001-32;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 13,86;Estimado;155 -  - PMDB -  - Senador / 11114 - MARCO AURELIO SOUZA SIQUEIRA - RJ - Deputado Estadual;
+JORGE SAYED PICCIANI;12.176.626/0001-32;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 11114 - MARCO AURELIO SOUZA SIQUEIRA - RJ - Deputado Estadual;

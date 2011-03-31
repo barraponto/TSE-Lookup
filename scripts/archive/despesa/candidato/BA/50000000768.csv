@@ -1,2 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-GRAÇA MARIA MASCARENHAS;056.715.235-91;01/09/2010;20000075001;R$ 3.000,00;Depósito em espécie;GRACA MARIA MASCARENHAS;2077;Deputado Federal;PSC;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA SANTA ROSA LTDA;01.071.207/0001-10;15/09/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 2077 - GRACA MARIA MASCARENHAS - BA - Deputado Federal;
+IRANILDA DA SILVA BOMFIM;576.644.395-15;04/09/2010;       Serviços prestados por terceiros;R$ 1.000,00;Cheque; -  -  / 2077 - GRACA MARIA MASCARENHAS - BA - Deputado Federal;
+NEYDE CARIBÉ BACELAR ME;02.996.580/0001-44;22/09/2010;       Publicidade por placas, estandartes e faixas;R$ 1.000,00;Cheque; -  -  / 2077 - GRACA MARIA MASCARENHAS - BA - Deputado Federal;

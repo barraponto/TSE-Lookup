@@ -1,3 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-PAULO CÉSAR PEIXOTO;641.868.576-87;23/09/2010;50000232952;R$ 120,00;Transferência eletrônica;PAULO CESAR PEIXOTO;5050;Deputado Federal;PSOL;MG;
-PAULO CÉSAR PEIXOTO;641.868.576-87;26/07/2010;50000232951;R$ 750,00;Transferência eletrônica;PAULO CESAR PEIXOTO;5050;Deputado Federal;PSOL;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA DO GAUCHO;10.582.159/0001-15;22/09/2010;       Publicidade por materiais impressos;R$ 120,00;Cheque; -  -  / 5050 - PAULO CESAR PEIXOTO - MG - Deputado Federal;
+GRAFICA DO GAUCHO;10.582.159/0001-15;23/07/2010;       Publicidade por materiais impressos;R$ 440,00;Cheque; -  -  / 5050 - PAULO CESAR PEIXOTO - MG - Deputado Federal;
+PAPELFORM EDITORA LTDA;05.539.072/0001-25;24/07/2010;       Publicidade por materiais impressos;R$ 225,00;Cheque; -  -  / 5050 - PAULO CESAR PEIXOTO - MG - Deputado Federal;
+POSTO JUATUBA LTDA;65.378.242/0001-69;04/10/2010;       Combustíveis e lubrificantes;R$ 85,00;Cheque; -  -  / 5050 - PAULO CESAR PEIXOTO - MG - Deputado Federal;

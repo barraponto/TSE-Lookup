@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELVINO BON GASS;12.171.595/0001-27;30/08/2010;13000950506;R$ 700,00;Transferência eletrônica;REILY RODRIGUES RUIZ;13009;Deputado Estadual;PT;RS;
-ELVINO BON GASS;12.171.595/0001-27;20/09/2010;13000950505;R$ 82,97;Estimado;REILY RODRIGUES RUIZ;13009;Deputado Estadual;PT;RS;
-IRTON JOSE BONI;243.641.000-30;23/08/2010;13000950504;R$ 2.000,00;Cheque;REILY RODRIGUES RUIZ;13009;Deputado Estadual;PT;RS;
-RANIR N. KELLER;91.764.233/0001-16;29/07/2010;13000950503;R$ 480,00;Cheque;REILY RODRIGUES RUIZ;13009;Deputado Estadual;PT;RS;
-REILY RODRIGUES RUIZ;316.549.750-87;01/11/2010;13000950507;R$ 702,13;Depósito em espécie;REILY RODRIGUES RUIZ;13009;Deputado Estadual;PT;RS;
-REILY RODRIGUES RUIZ;316.549.750-87;15/07/2010;13000950501;R$ 50,00;Depósito em espécie;REILY RODRIGUES RUIZ;13009;Deputado Estadual;PT;RS;
-SILVONIR BARRETO DE OLIVEIRA;444.428.150-20;26/07/2010;13000950502;R$ 500,00;Depósito em espécie;REILY RODRIGUES RUIZ;13009;Deputado Estadual;PT;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AES SUL;02.016.440/0001-62;13/10/2010;       Energia elétrica;R$ 44,37;Cheque; -  -  / 13009 - REILY RODRIGUES RUIZ - RS - Deputado Estadual;
+AES SUL;02.016.440/0001-62;14/09/2010;       Energia elétrica;R$ 36,65;Cheque; -  -  / 13009 - REILY RODRIGUES RUIZ - RS - Deputado Estadual;
+AES SUL;02.016.440/0001-62;26/10/2010;       Energia elétrica;R$ 22,61;Cheque; -  -  / 13009 - REILY RODRIGUES RUIZ - RS - Deputado Estadual;
+CLITCHE;09.198.166/0001-39;04/08/2010;       Publicidade por materiais impressos;R$ 2.200,00;Cheque; -  -  / 13009 - REILY RODRIGUES RUIZ - RS - Deputado Estadual;
+DALMINA PAIM E CIA LTDA;06.186.785/0001-15;22/07/2010;       Publicidade por materiais impressos;R$ 1.602,78;Cheque; -  -  / 13009 - REILY RODRIGUES RUIZ - RS - Deputado Estadual;
+EDITORA IBIÁ LTDA;88.649.991/0001-89;22/07/2010;       Publicidade por materiais impressos;R$ 677,00;Cheque; -  -  / 13009 - REILY RODRIGUES RUIZ - RS - Deputado Estadual;
+ELVINO BON GASS;12.171.595/0001-27;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 82,97;Estimado;1320 -  - PT -  - Deputado Federal / 13009 - REILY RODRIGUES RUIZ - RS - Deputado Estadual;

@@ -1,5 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.221/0001-85;16/08/2010;22000059591;R$ 1.400,00;Estimado;JORGE JULIO BOTELHO;22222;Deputado Estadual;PR;RO;
-JORGE JULIO BOTELHO;543.692.749-15;10/09/2010;22000059594;R$ 150,00;Estimado;JORGE JULIO BOTELHO;22222;Deputado Estadual;PR;RO;
-JORGE JULIO BOTELHO;543.692.749-15;16/08/2010;22000059592;R$ 4.500,00;Depósito em espécie;JORGE JULIO BOTELHO;22222;Deputado Estadual;PR;RO;
-JORGE JULIO BOTELHO;543.692.749-15;30/09/2010;22000059593;R$ 1.200,00;Estimado;JORGE JULIO BOTELHO;22222;Deputado Estadual;PR;RO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO MIRIAN II;06.228.348/0001-17;01/10/2010;       Combustíveis e lubrificantes;R$ 403,98;Cheque; -  -  / 22222 - JORGE JULIO BOTELHO - RO - Deputado Estadual;
+CAMPOS E BURRATI LTDA;11.773.245/0001-78;29/09/2010;       Publicidade por materiais impressos;R$ 530,00;Cheque; -  -  / 22222 - JORGE JULIO BOTELHO - RO - Deputado Estadual;
+Comitê Financeiro Único;12.205.221/0001-85;16/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.400,00;Estimado;Comitê Financeiro Único - PSDB -  / 22222 - JORGE JULIO BOTELHO - RO - Deputado Estadual;
+COOPERATIVA DE ELETRO ELETRONICOS TEL INFORMATICA DE RM;07.862.772/0001-81;09/09/2010;       Publicidade por materiais impressos;R$ 650,00;Cheque; -  -  / 22222 - JORGE JULIO BOTELHO - RO - Deputado Estadual;
+COOPERATIVA DE ELETRO ELETRONICOS TEL INFORMATICA DE RM;07.862.772/0001-81;13/09/2010;       Publicidade por materiais impressos;R$ 1.680,00;Cheque; -  -  / 22222 - JORGE JULIO BOTELHO - RO - Deputado Estadual;
+EDITORA E GRAFICA KL LTDA ME;07.179.654/0001-73;01/10/2010;       Publicidade por materiais impressos;R$ 11,02;Cheque; -  -  / 22222 - JORGE JULIO BOTELHO - RO - Deputado Estadual;
+EDITORA E GRAFICA KL LTDA ME;07.179.654/0001-73;31/08/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 22222 - JORGE JULIO BOTELHO - RO - Deputado Estadual;
+EDITORA E GRAFICA KL LTDA ME;07.179.654/0001-73;01/10/2010;       Publicidade por materiais impressos;R$ 225,00;Cheque; -  -  / 22222 - JORGE JULIO BOTELHO - RO - Deputado Estadual;
+JORGE JULIO BOTELHO;543.692.749-15;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado; -  -  / 22222 - JORGE JULIO BOTELHO - RO - Deputado Estadual;
+JORGE JULIO BOTELHO;543.692.749-15;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.200,00;Estimado; -  -  / 22222 - JORGE JULIO BOTELHO - RO - Deputado Estadual;

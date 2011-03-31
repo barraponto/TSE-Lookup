@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO FONTANA;188.888.607-20;17/08/2010;22000163355;R$ 1.000,00;Cheque;GERALDA FREIRE MARQUES;2278;Deputado Federal;PR;RJ;
-BELMIRO SEVERINO;063.089.967-34;11/08/2010;22000163351;R$ 2.000,00;Cheque;GERALDA FREIRE MARQUES;2278;Deputado Federal;PR;RJ;
-Comitê Financeiro Único;12.217.557/0001-68;30/09/2010;22000170251;R$ 2.272,72;Estimado;GERALDA FREIRE MARQUES;2278;Deputado Federal;PR;RJ;
-PROFESSORA GERALDA MARQUES;212.916.407-20;02/09/2010;22000163356;R$ 1.855,00;Depósito em espécie;GERALDA FREIRE MARQUES;2278;Deputado Federal;PR;RJ;
-ZAILE BOUCINHA RIBEIRO DA ROCHA;472.348.657-72;12/08/2010;22000163352;R$ 1.000,00;Cheque;GERALDA FREIRE MARQUES;2278;Deputado Federal;PR;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.217.557/0001-68;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.272,72;Estimado;Comitê Financeiro Único - PR -  / 2278 - GERALDA FREIRE MARQUES - RJ - Deputado Federal;
+MIDIA COMUNICAÇÃO LTDA ME;10.694.973/0001-21;02/09/2010;       Publicidade por placas, estandartes e faixas;R$ 2.900,00;Cheque; -  -  / 2278 - GERALDA FREIRE MARQUES - RJ - Deputado Federal;
+O.G.G. TAVARES COPIADORE ME;03.485.751/0001-33;18/08/2010;       Publicidade por materiais impressos;R$ 1.300,00;Cheque; -  -  / 2278 - GERALDA FREIRE MARQUES - RJ - Deputado Federal;
+O.G.G. TAVARES COPIADORE ME;03.485.751/0001-33;18/08/2010;       Publicidade por materiais impressos;R$ 1.650,00;Cheque; -  -  / 2278 - GERALDA FREIRE MARQUES - RJ - Deputado Federal;
+;;04/10/2010;       Encargos financeiros e taxas bancárias;R$ 4,50;Débito em conta; -  -  / 2278 - GERALDA FREIRE MARQUES - RJ - Deputado Federal;

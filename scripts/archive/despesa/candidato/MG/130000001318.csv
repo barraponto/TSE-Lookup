@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.154.851/0001-78;06/08/2010;70000189326;R$ 590,00;Estimado;PEDRO HENRIQUE HIGINO ROCHA;70245;Deputado Estadual;PT do B;MG;
-Comitê Financeiro Único;12.154.851/0001-78;05/09/2010;70000189327;R$ 590,00;Estimado;PEDRO HENRIQUE HIGINO ROCHA;70245;Deputado Estadual;PT do B;MG;
-Comitê Financeiro Único;12.154.851/0001-78;20/09/2010;70000189328;R$ 177,00;Estimado;PEDRO HENRIQUE HIGINO ROCHA;70245;Deputado Estadual;PT do B;MG;
-Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;70000189329;R$ 300,00;Estimado;PEDRO HENRIQUE HIGINO ROCHA;70245;Deputado Estadual;PT do B;MG;
-SILVANO RODRIGUES DE ARAUJO;12.203.848/0001-05;30/08/2010;70000189330;R$ 175,00;Estimado;PEDRO HENRIQUE HIGINO ROCHA;70245;Deputado Estadual;PT do B;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.154.851/0001-78;06/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 590,00;Estimado;Comitê Financeiro Único - PT do B -  / 70245 - PEDRO HENRIQUE HIGINO ROCHA - MG - Deputado Estadual;
+Comitê Financeiro Único;12.154.851/0001-78;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 590,00;Estimado;Comitê Financeiro Único - PT do B -  / 70245 - PEDRO HENRIQUE HIGINO ROCHA - MG - Deputado Estadual;
+Comitê Financeiro Único;12.154.851/0001-78;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 177,00;Estimado;Comitê Financeiro Único - PT do B -  / 70245 - PEDRO HENRIQUE HIGINO ROCHA - MG - Deputado Estadual;
+Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PT do B -  / 70245 - PEDRO HENRIQUE HIGINO ROCHA - MG - Deputado Estadual;
+SILVANO RODRIGUES DE ARAUJO;12.203.848/0001-05;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 175,00;Estimado;7070 -  - PT do B -  - Deputado Federal / 70245 - PEDRO HENRIQUE HIGINO ROCHA - MG - Deputado Estadual;

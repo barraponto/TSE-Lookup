@@ -1,5 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 CLAIR DA FLORA MARTINS;12.172.378/0001-51;29/07/2010;43001766601;R$ 1.467,00;Estimado;ELIANE KRETZER;43077;Deputado Estadual;PV;PR;
-ELIANE KRETZER;470.195.819-00;09/09/2010;43001766604;R$ 200,00;Depósito em espécie;ELIANE KRETZER;43077;Deputado Estadual;PV;PR;
-GERSON PEREIRA LIMA;194.352.828-49;01/09/2010;43001766602;R$ 540,00;Transferência eletrônica;ELIANE KRETZER;43077;Deputado Estadual;PV;PR;
-GERSON PEREIRA LIMA;194.352.828-49;06/09/2010;43001766603;R$ 250,00;Transferência eletrônica;ELIANE KRETZER;43077;Deputado Estadual;PV;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CWB PUBLICIDADE LEGAL;06.122.593/0001-45;09/09/2010;       Publicidade por jornais e revistas;R$ 200,00;Cheque; -  -  / 43077 - ELIANE KRETZER - PR - Deputado Estadual;
+ELEIÇÃO 2010 CLAIR DA FLORA MARTINS;12.172.378/0001-51;29/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.467,00;Estimado;4399 -  - PV -  - Deputado Federal / 43077 - ELIANE KRETZER - PR - Deputado Estadual;
+ONDA PROVEDOR DE SERVIÇOS S.A.;03.493.366/0001-38;01/09/2010;       Criação e inclusão de páginas na internet;R$ 163,20;Cheque; -  -  / 43077 - ELIANE KRETZER - PR - Deputado Estadual;
+PINHAL DIGITAL SIGNS GRAPHCS;10.503.587/0001-05;03/09/2010;       Publicidade por placas, estandartes e faixas;R$ 300,00;Cheque; -  -  / 43077 - ELIANE KRETZER - PR - Deputado Estadual;
+PINHAL GRAPH;82.666.884/0001-82;03/09/2010;       Publicidade por placas, estandartes e faixas;R$ 280,00;Cheque; -  -  / 43077 - ELIANE KRETZER - PR - Deputado Estadual;
+;;23/09/2010;       Encargos financeiros e taxas bancárias;R$ 3,84;Débito em conta; -  -  / 43077 - ELIANE KRETZER - PR - Deputado Estadual;
+;;01/09/2010;       Encargos financeiros e taxas bancárias;R$ 6,60;Débito em conta; -  -  / 43077 - ELIANE KRETZER - PR - Deputado Estadual;
+;;10/09/2010;       Encargos financeiros e taxas bancárias;R$ 3,18;Débito em conta; -  -  / 43077 - ELIANE KRETZER - PR - Deputado Estadual;
+;;09/09/2010;       Encargos financeiros e taxas bancárias;R$ 1,59;Débito em conta; -  -  / 43077 - ELIANE KRETZER - PR - Deputado Estadual;
+;;23/09/2010;       Encargos financeiros e taxas bancárias;R$ 1,59;Débito em conta; -  -  / 43077 - ELIANE KRETZER - PR - Deputado Estadual;

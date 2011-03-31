@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSE REINALDO DE LIMA;12.173.656/0001-95;30/09/2010;43001705503;R$ 95,00;Estimado;ISABEL DA SILVA IRSIGLER;43246;Deputado Estadual;PV;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JOSE REINALDO DE LIMA;12.173.656/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 95,00;Estimado;4309 -  - PV -  - Deputado Federal / 43246 - ISABEL DA SILVA IRSIGLER - MG - Deputado Estadual;

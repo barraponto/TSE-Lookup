@@ -1,3 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Senador da República;12.173.906/0001-97;30/09/2010;23000204152;R$ 1.955,00;Estimado;CICERO JOSE DE ALMEIDA CASTRO;23120;Deputado Estadual;PPS;PE;
-Comitê Financeiro Estadual/Distrital para Senador da República;12.173.906/0001-97;02/10/2010;23000204151;R$ 2.000,00;Cheque;CICERO JOSE DE ALMEIDA CASTRO;23120;Deputado Estadual;PPS;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CICERO  JOSE DE ALMEIDA CASTRO;440.161.584-00;30/09/2010;       Alimentação;R$ 32,00;Transferência eletrônica; -  -  / 23120 - CICERO JOSE DE ALMEIDA CASTRO - PE - Deputado Estadual;
+Comitê Financeiro Estadual/Distrital para Senador da República;12.173.906/0001-97;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.955,00;Estimado;Comitê Financeiro Distrital/Estadual para Senador da República - PPS -  / 23120 - CICERO JOSE DE ALMEIDA CASTRO - PE - Deputado Estadual;
+GIVANILDO DE MACEDO SILVA;594.501.264-53;29/09/2010;       Eventos de promoção da candidatura;R$ 750,00;Cheque; -  -  / 23120 - CICERO JOSE DE ALMEIDA CASTRO - PE - Deputado Estadual;
+LOUIZ  HENRIQUE CARNEIRO MENDES;023.391.184-76;29/09/2010;       Eventos de promoção da candidatura;R$ 1.200,00;Cheque; -  -  / 23120 - CICERO JOSE DE ALMEIDA CASTRO - PE - Deputado Estadual;
+;;21/09/2010;       Encargos financeiros e taxas bancárias;R$ 17,85;Débito em conta; -  -  / 23120 - CICERO JOSE DE ALMEIDA CASTRO - PE - Deputado Estadual;
+;;12/11/2010;       Encargos financeiros e taxas bancárias;R$ 0,15;Transferência eletrônica; -  -  / 23120 - CICERO JOSE DE ALMEIDA CASTRO - PE - Deputado Estadual;

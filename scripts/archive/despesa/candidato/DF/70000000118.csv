@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-HELDER DE CARVALHO MATOS;226.348.601-10;14/09/2010;12001522412;R$ 300,00;Depósito em espécie;HELDER DE CARVALHO MATOS;12111;Deputado Distrital;PDT;DF;
-HELDER DE CARVALHO MATOS;226.348.601-10;04/08/2010;12001522411;R$ 1.000,00;Depósito em espécie;HELDER DE CARVALHO MATOS;12111;Deputado Distrital;PDT;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA RAPIDA;09.290.075/0001-29;31/07/2010;       Publicidade por materiais impressos;R$ 650,00;Cheque; -  -  / 12111 - HELDER DE CARVALHO MATOS - DF - Deputado Distrital;
+GRAFICA RAPIDA;09.290.075/0001-29;30/07/2010;       Publicidade por materiais impressos;R$ 250,00;Cheque; -  -  / 12111 - HELDER DE CARVALHO MATOS - DF - Deputado Distrital;
+GRAFICA RAPIDA;09.290.075/0001-29;23/08/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 12111 - HELDER DE CARVALHO MATOS - DF - Deputado Distrital;

@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.221.869/0001-45;12/08/2010;70000181322;R$ 1.719,80;Estimado;ANA PAULA DOS SANTOS COSTA;7000;Deputado Federal;PT do B;PI;
-Comitê Financeiro Único;12.221.869/0001-45;01/10/2010;70000181323;R$ 1.740,00;Estimado;ANA PAULA DOS SANTOS COSTA;7000;Deputado Federal;PT do B;PI;
-ELEIÇÃO 2010 ELIAS XIMENES DO PRADO;12.168.018/0001-86;23/07/2010;70000181321;R$ 270,00;Estimado;ANA PAULA DOS SANTOS COSTA;7000;Deputado Federal;PT do B;PI;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.221.869/0001-45;12/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.719,80;Estimado;Comitê Financeiro Único - PT do B -  / 7000 - ANA PAULA DOS SANTOS COSTA - PI - Deputado Federal;
+Comitê Financeiro Único;12.221.869/0001-45;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.740,00;Estimado;Comitê Financeiro Único - PT do B -  / 7000 - ANA PAULA DOS SANTOS COSTA - PI - Deputado Federal;
+ELEIÇÃO 2010 ELIAS XIMENES DO PRADO;12.168.018/0001-86;23/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 270,00;Estimado;70123 -  - PT do B -  - Deputado Estadual / 7000 - ANA PAULA DOS SANTOS COSTA - PI - Deputado Federal;

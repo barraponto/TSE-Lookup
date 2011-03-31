@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-QRICARDO VIEIRA COUTINHO;12.173.462/0001-90;30/09/2010;43001915227;R$ 1.192,50;Estimado;GERSON BATISTA DE VASCONCELOS;43456;Deputado Estadual;PV;PB;
-RICARDO VIEIRA COUTINHO;12.173.462/0001-90;30/09/2010;43001915226;R$ 48,00;Estimado;GERSON BATISTA DE VASCONCELOS;43456;Deputado Estadual;PV;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+QRICARDO VIEIRA COUTINHO;12.173.462/0001-90;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.192,50;Estimado;40 -  - PSB -  - Governador / 43456 - GERSON BATISTA DE VASCONCELOS - PB - Deputado Estadual;
+RICARDO VIEIRA COUTINHO;12.173.462/0001-90;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 48,00;Estimado;40 -  - PSB -  - Governador / 43456 - GERSON BATISTA DE VASCONCELOS - PB - Deputado Estadual;

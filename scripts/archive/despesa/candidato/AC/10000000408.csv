@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.221.841/0001-08;06/09/2010;23000029121;R$ 541,50;Estimado;FRANCISCA SHEILA DE SÁ COSTA;23147;Deputado Estadual;PPS;AC;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.221.841/0001-08;06/09/2010;23000029122;R$ 709,74;Estimado;FRANCISCA SHEILA DE SÁ COSTA;23147;Deputado Estadual;PPS;AC;
-FRANCISCA SHEILA DE SA COSTA;216.096.162-00;01/09/2010;23000029123;R$ 1.000,00;Estimado;FRANCISCA SHEILA DE SÁ COSTA;23147;Deputado Estadual;PPS;AC;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.221.841/0001-08;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 709,74;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual - PPS -  / 23147 - FRANCISCA SHEILA DE SÁ COSTA - AC - Deputado Estadual;
+Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.221.841/0001-08;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 541,50;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual - PPS -  / 23147 - FRANCISCA SHEILA DE SÁ COSTA - AC - Deputado Estadual;
+FRANCISCA SHEILA DE SA COSTA;216.096.162-00;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 23147 - FRANCISCA SHEILA DE SÁ COSTA - AC - Deputado Estadual;

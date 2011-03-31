@@ -1,6 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.372.871/0001-15;31/08/2010;12001546751;R$ 1.320,00;Estimado;RAFAEL RIBEIRO TEIXEIRA;1250;Deputado Federal;PDT;MG;
-Comitê Financeiro Único;12.372.871/0001-15;29/07/2010;12001546752;R$ 1.197,84;Estimado;RAFAEL RIBEIRO TEIXEIRA;1250;Deputado Federal;PDT;MG;
-Comitê Financeiro Único;12.372.871/0001-15;30/09/2010;12001546753;R$ 27,95;Estimado;RAFAEL RIBEIRO TEIXEIRA;1250;Deputado Federal;PDT;MG;
-DR. RAFAEL TEIXEIRA;274.154.146-91;07/09/2010;12001546754;R$ 350,00;Transferência eletrônica;RAFAEL RIBEIRO TEIXEIRA;1250;Deputado Federal;PDT;MG;
-DR. RAFAEL TEIXEIRA;274.154.146-91;24/09/2010;12001546755;R$ 350,00;Transferência eletrônica;RAFAEL RIBEIRO TEIXEIRA;1250;Deputado Federal;PDT;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.372.871/0001-15;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 27,95;Estimado;Comitê Financeiro Único - PDT -  / 1250 - RAFAEL RIBEIRO TEIXEIRA - MG - Deputado Federal;
+Comitê Financeiro Único;12.372.871/0001-15;29/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.197,84;Estimado;Comitê Financeiro Único - PDT -  / 1250 - RAFAEL RIBEIRO TEIXEIRA - MG - Deputado Federal;
+Comitê Financeiro Único;12.372.871/0001-15;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.320,00;Estimado;Comitê Financeiro Único - PDT -  / 1250 - RAFAEL RIBEIRO TEIXEIRA - MG - Deputado Federal;
+GAZETA DE MINAS GRÁFICA E EDITORA LTDA - ME;22.596.308/0001-84;24/09/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 1250 - RAFAEL RIBEIRO TEIXEIRA - MG - Deputado Federal;
+IMPACKTO - PATRICK DUARTE FEREIRA 01533997675;12.065.151/0001-07;06/09/2010;       Publicidade por materiais impressos;R$ 260,00;Cheque; -  -  / 1250 - RAFAEL RIBEIRO TEIXEIRA - MG - Deputado Federal;
+;;08/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,50;Débito em conta; -  -  / 1250 - RAFAEL RIBEIRO TEIXEIRA - MG - Deputado Federal;
+;;26/10/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Débito em conta; -  -  / 1250 - RAFAEL RIBEIRO TEIXEIRA - MG - Deputado Federal;
+;;04/10/2010;       Encargos financeiros e taxas bancárias;R$ 21,00;Débito em conta; -  -  / 1250 - RAFAEL RIBEIRO TEIXEIRA - MG - Deputado Federal;
+;;08/09/2010;       Encargos financeiros e taxas bancárias;R$ 21,00;Débito em conta; -  -  / 1250 - RAFAEL RIBEIRO TEIXEIRA - MG - Deputado Federal;

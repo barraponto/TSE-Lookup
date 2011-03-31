@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;36000080673;R$ 1.526,40;Estimado;JOSELICIO BONINA COSTA;36100;Deputado Estadual;PTC;BA;
-GEDDEL QUADROS VIEIRA LIMA;12.173.503/0001-48;31/08/2010;36000080672;R$ 204,00;Estimado;JOSELICIO BONINA COSTA;36100;Deputado Estadual;PTC;BA;
-GRAFICA E EDITORA DIMENSÃO;08.584.283/0001-78;10/09/2010;36000080691;R$ 300,00;Estimado;JOSELICIO BONINA COSTA;36100;Deputado Estadual;PTC;BA;
-JOSELICIO BONINA COSTA;099.929.955-72;08/10/2010;36000080692;R$ 1.600,00;Depósito em espécie;JOSELICIO BONINA COSTA;36100;Deputado Estadual;PTC;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.526,40;Estimado;Comitê Financeiro Único - PMDB -  / 36100 - JOSELICIO BONINA COSTA - BA - Deputado Estadual;
+GEDDEL QUADROS VIEIRA LIMA;12.173.503/0001-48;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 204,00;Estimado;15 -  - PMDB -  - Governador / 36100 - JOSELICIO BONINA COSTA - BA - Deputado Estadual;
+GRAFICA E EDITORA DIMENSÃO;08.584.283/0001-78;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 36100 - JOSELICIO BONINA COSTA - BA - Deputado Estadual;
+LEILA DOS SANTOS SILVA;975.690.545-04;30/09/2010;       Publicidade por carros de som;R$ 1.600,00;Cheque; -  -  / 36100 - JOSELICIO BONINA COSTA - BA - Deputado Estadual;

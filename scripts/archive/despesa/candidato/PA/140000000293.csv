@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANA JULIA;12.171.430/0001-55;02/10/2010;10000061717;R$ 500,00;Estimado;JOSE GALVÃO DE ARAUJO;10200;Deputado Estadual;PRB;PA;
-ANA JULIA;12.171.430/0001-55;07/09/2010;10000061712;R$ 300,00;Estimado;JOSE GALVÃO DE ARAUJO;10200;Deputado Estadual;PRB;PA;
-ANA JULIA;12.171.430/0001-55;02/10/2010;10000061710;R$ 500,00;Estimado;JOSE GALVÃO DE ARAUJO;10200;Deputado Estadual;PRB;PA;
-RAUL BATISTA;12.214.212/0001-50;06/09/2010;10000061708;R$ 52,40;Estimado;JOSE GALVÃO DE ARAUJO;10200;Deputado Estadual;PRB;PA;
-RAUL BATISTA;12.214.212/0001-50;04/09/2010;10000061709;R$ 104,00;Estimado;JOSE GALVÃO DE ARAUJO;10200;Deputado Estadual;PRB;PA;
-RAUL BATISTA;12.214.212/0001-50;04/09/2010;10000061707;R$ 105,00;Estimado;JOSE GALVÃO DE ARAUJO;10200;Deputado Estadual;PRB;PA;
-RAUL BATISTA;12.214.212/0001-50;02/10/2010;10000061716;R$ 97,50;Estimado;JOSE GALVÃO DE ARAUJO;10200;Deputado Estadual;PRB;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANA JULIA;12.171.430/0001-55;07/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;13 -  - PT -  - Governador / 10200 - JOSE GALVÃO DE ARAUJO - PA - Deputado Estadual;
+ANA JULIA;12.171.430/0001-55;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;13 -  - PT -  - Governador / 10200 - JOSE GALVÃO DE ARAUJO - PA - Deputado Estadual;
+ANA JULIA;12.171.430/0001-55;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;13 -  - PT -  - Governador / 10200 - JOSE GALVÃO DE ARAUJO - PA - Deputado Estadual;
+RAUL BATISTA;12.214.212/0001-50;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 97,50;Estimado;1010 -  - PRB -  - Deputado Federal / 10200 - JOSE GALVÃO DE ARAUJO - PA - Deputado Estadual;
+RAUL BATISTA;12.214.212/0001-50;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 104,00;Estimado;1010 -  - PRB -  - Deputado Federal / 10200 - JOSE GALVÃO DE ARAUJO - PA - Deputado Estadual;
+RAUL BATISTA;12.214.212/0001-50;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 105,00;Estimado;1010 -  - PRB -  - Deputado Federal / 10200 - JOSE GALVÃO DE ARAUJO - PA - Deputado Estadual;
+RAUL BATISTA;12.214.212/0001-50;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 52,40;Estimado;1010 -  - PRB -  - Deputado Federal / 10200 - JOSE GALVÃO DE ARAUJO - PA - Deputado Estadual;

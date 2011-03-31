@@ -1,7 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANA JULIA DE VASCONCELOS CAREPA;12.171.430/0001-55;28/09/2010;12001838356;R$ 1.050,00;Estimado;PAULO SANDRO DE LIMA OLIVEIRA;12200;Deputado Estadual;PDT;PA;
-ANA JULIA DE VASCONCELOS CAREPA;12.171.430/0001-55;28/09/2010;12001838355;R$ 500,00;Estimado;PAULO SANDRO DE LIMA OLIVEIRA;12200;Deputado Estadual;PDT;PA;
-Diretório Estadual/Distrital;03.870.364/0001-10;17/09/2010;12001838351;R$ 3.000,00;Cheque;PAULO SANDRO DE LIMA OLIVEIRA;12200;Deputado Estadual;PDT;PA;
-GIOVANNI QUEIROZ;12.168.982/0001-04;31/08/2010;12001838352;R$ 456,00;Estimado;PAULO SANDRO DE LIMA OLIVEIRA;12200;Deputado Estadual;PDT;PA;
-PAULO SANDRO DE LIMA OLIVEIRA;586.457.722-72;26/07/2010;12001838358;R$ 230,00;Estimado;PAULO SANDRO DE LIMA OLIVEIRA;12200;Deputado Estadual;PDT;PA;
-PAULO SANDRO DE LIMA OLIVEIRA;586.457.722-72;01/10/2010;12001838357;R$ 110,00;Estimado;PAULO SANDRO DE LIMA OLIVEIRA;12200;Deputado Estadual;PDT;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANA JULIA DE VASCONCELOS CAREPA;12.171.430/0001-55;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.050,00;Estimado;13 -  - PT -  - Governador / 12200 - PAULO SANDRO DE LIMA OLIVEIRA - PA - Deputado Estadual;
+ANA JULIA DE VASCONCELOS CAREPA;12.171.430/0001-55;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;13 -  - PT -  - Governador / 12200 - PAULO SANDRO DE LIMA OLIVEIRA - PA - Deputado Estadual;
+DOUGLAS VIEIRA SOARES;802.484.542-34;28/09/2010;       Publicidade por carros de som;R$ 2.000,00;Cheque; -  -  / 12200 - PAULO SANDRO DE LIMA OLIVEIRA - PA - Deputado Estadual;
+EDER SOUSA E SILVA;753.865.852-15;28/09/2010;       Serviços prestados por terceiros;R$ 1.000,00;Cheque; -  -  / 12200 - PAULO SANDRO DE LIMA OLIVEIRA - PA - Deputado Estadual;
+GIOVANNI QUEIROZ;12.168.982/0001-04;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 456,00;Estimado;1212 -  - PDT -  - Deputado Federal / 12200 - PAULO SANDRO DE LIMA OLIVEIRA - PA - Deputado Estadual;
+PAULO SANDRO DE LIMA OLIVEIRA;586.457.722-72;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 110,00;Estimado; -  -  / 12200 - PAULO SANDRO DE LIMA OLIVEIRA - PA - Deputado Estadual;
+PAULO SANDRO DE LIMA OLIVEIRA;586.457.722-72;26/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 230,00;Estimado; -  -  / 12200 - PAULO SANDRO DE LIMA OLIVEIRA - PA - Deputado Estadual;

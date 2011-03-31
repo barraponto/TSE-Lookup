@@ -1,6 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FELIPE LOYOLA MANTILLA;322.572.378-97;03/09/2010;43001512756;R$ 7.325,00;Depósito em espécie;SERGIO ALEXANDRE CUNHA CAMARGO;4324;Deputado Federal;PV;RJ;
-SERGIO ALEXANDRE CUNHA CAMARGO;019.421.267-00;26/08/2010;43001512755;R$ 10,00;Depósito em espécie;SERGIO ALEXANDRE CUNHA CAMARGO;4324;Deputado Federal;PV;RJ;
-SERGIO ALEXANDRE CUNHA CAMARGO;019.421.267-00;20/08/2010;43001512757;R$ 710,00;Depósito em espécie;SERGIO ALEXANDRE CUNHA CAMARGO;4324;Deputado Federal;PV;RJ;
-SERGIO ALEXANDRE CUNHA CAMARGO;019.421.267-00;17/08/2010;43001512752;R$ 420,00;Depósito em espécie;SERGIO ALEXANDRE CUNHA CAMARGO;4324;Deputado Federal;PV;RJ;
-SERGIO ALEXANDRE CUNHA CAMARGO;019.421.267-00;20/08/2010;43001512754;R$ 110,00;Depósito em espécie;SERGIO ALEXANDRE CUNHA CAMARGO;4324;Deputado Federal;PV;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANA LUCIA DANTAS DA SILVA;949.674.747-72;15/09/2010;       Despesas com pessoal;R$ 1.200,00;Cheque; -  -  / 4324 - SERGIO ALEXANDRE CUNHA CAMARGO - RJ - Deputado Federal;
+BANCO DO BRASIL S.A.;00.000.000/0000-00;02/09/2010;       Diversas a especificar;R$ 0,35;Transferência eletrônica; -  -  / 4324 - SERGIO ALEXANDRE CUNHA CAMARGO - RJ - Deputado Federal;
+JANE DELUC;000.000.000-00;09/09/2010;       Despesas com pessoal;R$ 734,00;Cheque; -  -  / 4324 - SERGIO ALEXANDRE CUNHA CAMARGO - RJ - Deputado Federal;
+MARCUS AURÉLIO DA SILVA;084.811.407-83;06/09/2010;       Despesas com pessoal;R$ 900,00;Cheque; -  -  / 4324 - SERGIO ALEXANDRE CUNHA CAMARGO - RJ - Deputado Federal;
+PAES GRÁFICA LTDA;29.353.224/0001-69;24/08/2010;       Publicidade por materiais impressos;R$ 1.042,00;Cheque; -  -  / 4324 - SERGIO ALEXANDRE CUNHA CAMARGO - RJ - Deputado Federal;
+PAES GRÁFICA LTDA;29.353.224/0001-69;13/08/2010;       Publicidade por materiais impressos;R$ 420,00;Cheque; -  -  / 4324 - SERGIO ALEXANDRE CUNHA CAMARGO - RJ - Deputado Federal;
+PAES GRÁFICA LTDA;29.353.224/0001-69;17/08/2010;       Publicidade por materiais impressos;R$ 825,00;Cheque; -  -  / 4324 - SERGIO ALEXANDRE CUNHA CAMARGO - RJ - Deputado Federal;
+PARTIDO VERDE;00.000.000/0000-00;21/10/2010;       Diversas a especificar;R$ 3,65;Cheque; -  -  / 4324 - SERGIO ALEXANDRE CUNHA CAMARGO - RJ - Deputado Federal;
+VICTOR BARECELLOS LEAL MORSCH;113.309.447-39;20/09/2010;       Despesas com pessoal;R$ 3.450,00;Cheque; -  -  / 4324 - SERGIO ALEXANDRE CUNHA CAMARGO - RJ - Deputado Federal;

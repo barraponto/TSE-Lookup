@@ -1,3 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CAROLINE SIMONI SALGUEIRO;007.881.730-73;21/10/2010;13000971063;R$ 153,20;Depósito em espécie;CAROLINE SIMONI SALGUEIRO;13688;Deputado Estadual;PT;RS;
-RONALDO ZULKE;12.172.729/0001-24;09/09/2010;13000971061;R$ 1.000,00;Cheque;CAROLINE SIMONI SALGUEIRO;13688;Deputado Estadual;PT;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+COMÉRCIO DE COMBUSTIVEIS DO IVAN LTDA.;86.914.942/0002-81;14/09/2010;       Combustíveis e lubrificantes;R$ 102,00;Cheque; -  -  / 13688 - CAROLINE SIMONI SALGUEIRO - RS - Deputado Estadual;
+COMÉRCIO DE COMBUSTIVEIS DO IVAN LTDA.;86.914.942/0002-81;28/09/2010;       Combustíveis e lubrificantes;R$ 111,00;Cheque; -  -  / 13688 - CAROLINE SIMONI SALGUEIRO - RS - Deputado Estadual;
+F F COM. VAREJISTA DE COMB. E LUBRIFICANTES LTDA.;05.141.517/0001-14;29/09/2010;       Combustíveis e lubrificantes;R$ 135,00;Cheque; -  -  / 13688 - CAROLINE SIMONI SALGUEIRO - RS - Deputado Estadual;
+POSTO DE SERVIÇOS ROGLEN LTDA.;91.182.527/0001-30;14/09/2010;       Combustíveis e lubrificantes;R$ 112,00;Cheque; -  -  / 13688 - CAROLINE SIMONI SALGUEIRO - RS - Deputado Estadual;
+POSTO DE SERVIÇOS ROGLEN LTDA.;91.182.527/0001-30;14/09/2010;       Combustíveis e lubrificantes;R$ 500,00;Cheque; -  -  / 13688 - CAROLINE SIMONI SALGUEIRO - RS - Deputado Estadual;
+POSTO DE SERVIÇOS ROGLEN LTDA.;91.182.527/0001-30;01/10/2010;       Combustíveis e lubrificantes;R$ 151,00;Cheque; -  -  / 13688 - CAROLINE SIMONI SALGUEIRO - RS - Deputado Estadual;
+;;18/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 13688 - CAROLINE SIMONI SALGUEIRO - RS - Deputado Estadual;
+;;25/10/2010;       Encargos financeiros e taxas bancárias;R$ 24,00;Débito em conta; -  -  / 13688 - CAROLINE SIMONI SALGUEIRO - RS - Deputado Estadual;
+;;06/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 13688 - CAROLINE SIMONI SALGUEIRO - RS - Deputado Estadual;
+;;13/10/2010;       Encargos financeiros e taxas bancárias;R$ 4,50;Débito em conta; -  -  / 13688 - CAROLINE SIMONI SALGUEIRO - RS - Deputado Estadual;

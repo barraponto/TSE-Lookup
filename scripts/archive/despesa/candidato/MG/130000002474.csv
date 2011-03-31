@@ -1,3 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO EPAMINONDAS DE ARAUJO;965.102.348-15;15/10/2010;20000000002;R$ 1.200,00;Estimado;ANTONIO EPAMINONDAS DE ARAUJO;2080;Deputado Federal;PSC;MG;
-ANTONIO EPAMINONDAS DE ARAUJO;965.102.348-15;24/08/2010;20000000001;R$ 120,95;Estimado;ANTONIO EPAMINONDAS DE ARAUJO;2080;Deputado Federal;PSC;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO EPAMINONDAS DE ARAUJO;965.102.348-15;15/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.200,00;Estimado; -  -  / 2080 - ANTONIO EPAMINONDAS DE ARAUJO - MG - Deputado Federal;
+ANTONIO EPAMINONDAS DE ARAUJO;965.102.348-15;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 120,95;Estimado; -  -  / 2080 - ANTONIO EPAMINONDAS DE ARAUJO - MG - Deputado Federal;
+CELSO RIBEIRO;198.151.076-15;15/10/2010;       Despesas com transporte ou deslocamento;R$ 1.200,00;Não informado; -  -  / 2080 - ANTONIO EPAMINONDAS DE ARAUJO - MG - Deputado Federal;
+VIACAO MOTTA LTDA.;55.340.921/0021-39;24/08/2010;       Diversas a especificar;R$ 120,95;Não informado; -  -  / 2080 - ANTONIO EPAMINONDAS DE ARAUJO - MG - Deputado Federal;

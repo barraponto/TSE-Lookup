@@ -1,4 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-RONALDO JOSE CUSTODIO;032.836.638-23;27/08/2010;19000023501;R$ 1.600,00;Depósito em espécie;RONALDO JOSE CUSTODIO;1990;Deputado Federal;PTN;MG;
-RONALDO JOSE CUSTODIO;032.836.638-23;30/09/2010;19000023503;R$ 100,00;Depósito em espécie;RONALDO JOSE CUSTODIO;1990;Deputado Federal;PTN;MG;
-RONALDO JOSE CUSTODIO;032.836.638-23;01/10/2010;19000023502;R$ 98,30;Depósito em espécie;RONALDO JOSE CUSTODIO;1990;Deputado Federal;PTN;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO RODOVIARIO E TRANSPORTES PARATY LTDA;12.168.826/0001-43;09/09/2010;       Combustíveis e lubrificantes;R$ 180,00;Cheque; -  -  / 1990 - RONALDO JOSE CUSTODIO - MG - Deputado Federal;
+FABIO JANUARIO CAMARA ME;07.379.848/0001-12;09/09/2010;       Publicidade por carros de som;R$ 160,00;Cheque; -  -  / 1990 - RONALDO JOSE CUSTODIO - MG - Deputado Federal;
+MADEIREIRA BRASIL;05.854.355/0001-61;28/08/2010;       Publicidade por placas, estandartes e faixas;R$ 32,00;Cheque; -  -  / 1990 - RONALDO JOSE CUSTODIO - MG - Deputado Federal;
+PEDRO PAULO FERREIRA CABANDA E CIA LTDA;08.297.428/0001-50;28/09/2010;       Publicidade por materiais impressos;R$ 120,80;Cheque; -  -  / 1990 - RONALDO JOSE CUSTODIO - MG - Deputado Federal;
+PEDRO PAULO FERREIRA CABANDA E CIA LTDA;08.297.428/0001-50;03/09/2010;       Publicidade por materiais impressos;R$ 932,00;Cheque; -  -  / 1990 - RONALDO JOSE CUSTODIO - MG - Deputado Federal;
+PEFEITURA MUNICIPAL DE SAO SEBASTIAO DO PARAISO DIVISAO DE RENDAS MOBILIARIAS;18.241.349/0001-80;13/09/2010;       Publicidade por materiais impressos;R$ 40,00;Cheque; -  -  / 1990 - RONALDO JOSE CUSTODIO - MG - Deputado Federal;
+POSTO DO COLEGA SOCIEDADE LTDA;24.902.363/0001-80;15/09/2010;       Combustíveis e lubrificantes;R$ 91,00;Cheque; -  -  / 1990 - RONALDO JOSE CUSTODIO - MG - Deputado Federal;
+POSTO DO COLEGA SOCIEDADE LTDA;24.902.363/0001-80;29/09/2010;       Combustíveis e lubrificantes;R$ 152,50;Cheque; -  -  / 1990 - RONALDO JOSE CUSTODIO - MG - Deputado Federal;
+POSTO DO COLEGA SOCIEDADE LTDA;24.902.363/0001-80;21/09/2010;       Combustíveis e lubrificantes;R$ 90,00;Cheque; -  -  / 1990 - RONALDO JOSE CUSTODIO - MG - Deputado Federal;

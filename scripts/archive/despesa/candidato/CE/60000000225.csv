@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.205.262/0001-71;18/09/2010;25000536401;R$ 345,00;Estimado;OLIVIA ARAUJO DA SILVA;25999;Deputado Estadual;DEM;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.205.262/0001-71;18/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 345,00;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual - DEM -  / 25999 - OLIVIA ARAUJO DA SILVA - CE - Deputado Estadual;

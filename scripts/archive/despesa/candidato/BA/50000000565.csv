@@ -1,6 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;23000063901;R$ 954,00;Estimado;SORAIA CORDEIRO MATOS MARTINS;23007;Deputado Estadual;PPS;BA;
-TEREZINHA CORDEIRO VIEIRA;624.994.835-04;20/09/2010;23000063903;R$ 550,00;Depósito em espécie;SORAIA CORDEIRO MATOS MARTINS;23007;Deputado Estadual;PPS;BA;
-TEREZINHA CORDEIRO VIEIRA;624.994.835-04;03/10/2010;23000063905;R$ 294,00;Depósito em espécie;SORAIA CORDEIRO MATOS MARTINS;23007;Deputado Estadual;PPS;BA;
-TEREZINHA CORDEIRO VIEIRA;624.994.835-04;13/09/2010;23000063902;R$ 2.220,00;Depósito em espécie;SORAIA CORDEIRO MATOS MARTINS;23007;Deputado Estadual;PPS;BA;
-TEREZINHA CORDEIRO VIEIRA;624.994.835-04;27/09/2010;23000063904;R$ 2.600,00;Depósito em espécie;SORAIA CORDEIRO MATOS MARTINS;23007;Deputado Estadual;PPS;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARTOGRAF GRÁFICA E EDITORA LTDA;34.136.598/0001-62;03/10/2010;       Publicidade por materiais impressos;R$ 194,00;Cheque; -  -  / 23007 - SORAIA CORDEIRO MATOS MARTINS - BA - Deputado Estadual;
+Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 954,00;Estimado;Comitê Financeiro Único - PMDB -  / 23007 - SORAIA CORDEIRO MATOS MARTINS - BA - Deputado Estadual;
+ESCRITA COMÉRCIO E SERVIÇOS LTDA;16.306.870/0001-23;03/10/2010;       Publicidade por materiais impressos;R$ 120,00;Cheque; -  -  / 23007 - SORAIA CORDEIRO MATOS MARTINS - BA - Deputado Estadual;
+GRÁFICA NOVA GERAÇÃO;07.272.853/0001-21;20/09/2010;       Publicidade por materiais impressos;R$ 2.650,00;Cheque; -  -  / 23007 - SORAIA CORDEIRO MATOS MARTINS - BA - Deputado Estadual;
+PSIU SERVIÇOS GRÁFICOS LTDA - ME;11.122.126/0001-55;13/09/2010;       Publicidade por materiais impressos;R$ 2.200,00;Cheque; -  -  / 23007 - SORAIA CORDEIRO MATOS MARTINS - BA - Deputado Estadual;
+PSIU SERVIÇOS GRÁFICOS LTDA - ME;11.122.126/0001-55;21/09/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 23007 - SORAIA CORDEIRO MATOS MARTINS - BA - Deputado Estadual;

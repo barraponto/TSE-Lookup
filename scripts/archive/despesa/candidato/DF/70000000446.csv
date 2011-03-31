@@ -1,4 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADA LANUZA SOUTO MORAES;460.761.824-15;16/07/2010;70000134605;R$ 1.500,00;Cheque;SEVERINO MARCELINO DE MORAES;70224;Deputado Distrital;PT do B;DF;
-ELEIÇAO 2010 SEVERINO MARCELINO DE MORAES DEPUTADO DISTRITAL;238.176.074-15;16/07/2010;70000134603;R$ 1.500,00;Estimado;SEVERINO MARCELINO DE MORAES;70224;Deputado Distrital;PT do B;DF;
-ELEIÇAO 2010 SEVERINO MARCELINO DE MORAES DEPUTADO DISTRITAL;238.176.074-15;16/07/2010;70000134604;R$ 600,00;Depósito em espécie;SEVERINO MARCELINO DE MORAES;70224;Deputado Distrital;PT do B;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BANCO REGIONAL DE BRASILIA - BRB;00.000.208/0073-85;16/07/2010;       Serviços prestados por terceiros;R$ 510,00;Cheque; -  -  / 70224 - SEVERINO MARCELINO DE MORAES - DF - Deputado Distrital;
+BANCO REGIONAL DE BRASILIA - BRB;00.000.208/0073-85;21/07/2010;       Serviços prestados por terceiros;R$ 500,00;Cheque; -  -  / 70224 - SEVERINO MARCELINO DE MORAES - DF - Deputado Distrital;
+BANCO REGIONAL DE BRASILIA - BRB;00.000.208/0073-85;21/07/2010;       Publicidade por materiais impressos;R$ 286,00;Cheque; -  -  / 70224 - SEVERINO MARCELINO DE MORAES - DF - Deputado Distrital;
+BANCO REGIONAL DE BRASILIA - BRB;00.000.208/0073-85;21/07/2010;       Publicidade por materiais impressos;R$ 800,00;Cheque; -  -  / 70224 - SEVERINO MARCELINO DE MORAES - DF - Deputado Distrital;
+ELEIÇAO 2010 SEVERINO MARCELINO DE MORAES DEPUTADO DISTRITAL;238.176.074-15;16/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado; -  -  / 70224 - SEVERINO MARCELINO DE MORAES - DF - Deputado Distrital;
+;;16/07/2010;       Encargos financeiros e taxas bancárias;R$ 4,00;Débito em conta; -  -  / 70224 - SEVERINO MARCELINO DE MORAES - DF - Deputado Distrital;

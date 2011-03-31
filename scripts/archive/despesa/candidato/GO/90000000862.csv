@@ -1,6 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.504/0001-15;15/10/2010;45000105301;R$ 35,00;Estimado;MIRIAN DOS REIS AGUIAR;45800;Deputado Estadual;PSDB;GO;
-Comitê Financeiro Único;12.191.504/0001-15;15/10/2010;45000105302;R$ 35,00;Estimado;MIRIAN DOS REIS AGUIAR;45800;Deputado Estadual;PSDB;GO;
-Comitê Financeiro Único;12.191.504/0001-15;15/10/2010;45000105305;R$ 1.200,00;Estimado;MIRIAN DOS REIS AGUIAR;45800;Deputado Estadual;PSDB;GO;
-MIRIAN DOS REIS AGUIAR;575.364.731-68;01/10/2010;45000105306;R$ 600,00;Depósito em espécie;MIRIAN DOS REIS AGUIAR;45800;Deputado Estadual;PSDB;GO;
-RAUL JOTA DOS SANTOS;019.364.501-78;30/09/2010;45000105307;R$ 510,00;Estimado;MIRIAN DOS REIS AGUIAR;45800;Deputado Estadual;PSDB;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.504/0001-15;15/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.200,00;Estimado;Comitê Financeiro Único - PSDB -  / 45800 - MIRIAN DOS REIS AGUIAR - GO - Deputado Estadual;
+Comitê Financeiro Único;12.191.504/0001-15;15/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 35,00;Estimado;Comitê Financeiro Único - PSDB -  / 45800 - MIRIAN DOS REIS AGUIAR - GO - Deputado Estadual;
+Comitê Financeiro Único;12.191.504/0001-15;15/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 35,00;Estimado;Comitê Financeiro Único - PSDB -  / 45800 - MIRIAN DOS REIS AGUIAR - GO - Deputado Estadual;
+HELENITA DOS SANTOS LIMA;401.542.382-87;03/09/2010;       Despesas com pessoal;R$ 280,00;Cheque; -  -  / 45800 - MIRIAN DOS REIS AGUIAR - GO - Deputado Estadual;
+MARIA DA LUZ RODRIGUES DA SILVA;485.668.701-82;03/09/2010;       Despesas com pessoal;R$ 280,00;Cheque; -  -  / 45800 - MIRIAN DOS REIS AGUIAR - GO - Deputado Estadual;
+MARIA DA LUZ RODRIGUES DA SILVA;485.668.701-82;30/09/2010;       Despesas com pessoal;R$ 20,00;Transferência eletrônica; -  -  / 45800 - MIRIAN DOS REIS AGUIAR - GO - Deputado Estadual;
+RAUL JOTA DOS SANTOS;019.364.501-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 510,00;Estimado; -  -  / 45800 - MIRIAN DOS REIS AGUIAR - GO - Deputado Estadual;
+;;01/10/2010;       Encargos financeiros e taxas bancárias;R$ 10,50;Débito em conta; -  -  / 45800 - MIRIAN DOS REIS AGUIAR - GO - Deputado Estadual;
+;;03/10/2010;       Encargos financeiros e taxas bancárias;R$ 9,50;Débito em conta; -  -  / 45800 - MIRIAN DOS REIS AGUIAR - GO - Deputado Estadual;

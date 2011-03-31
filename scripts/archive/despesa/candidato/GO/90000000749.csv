@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALEX NEVES DE AZEVEDO;066.328.741-34;04/09/2010;43001798761;R$ 2.103,50;Estimado;JACQUELINE VIEIRA DA SILVA;43143;Deputado Estadual;PV;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALEX NEVES DE AZEVEDO;066.328.741-34;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.103,50;Estimado; -  -  / 43143 - JACQUELINE VIEIRA DA SILVA - GO - Deputado Estadual;

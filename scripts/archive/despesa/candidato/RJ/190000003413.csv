@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ATILA NUNES PEREIRA NETO;12.214.072/0001-10;27/09/2010;28000182918;R$ 140,00;Estimado;JORGE LUIZ DA ROCHA CARRA;28033;Deputado Estadual;PRTB;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;27/08/2010;28000182916;R$ 150,00;Estimado;JORGE LUIZ DA ROCHA CARRA;28033;Deputado Estadual;PRTB;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;28000182919;R$ 150,00;Estimado;JORGE LUIZ DA ROCHA CARRA;28033;Deputado Estadual;PRTB;RJ;
-JORGE LUIZ DA ROCHA CARRA;757.665.907-68;20/10/2010;28000182920;R$ 100,00;Estimado;JORGE LUIZ DA ROCHA CARRA;28033;Deputado Estadual;PRTB;RJ;
-JORGE SAYED PICCIANI;12.176.626/0001-32;27/08/2010;28000182917;R$ 17,00;Estimado;JORGE LUIZ DA ROCHA CARRA;28033;Deputado Estadual;PRTB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ATILA NUNES PEREIRA NETO;12.214.072/0001-10;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 140,00;Estimado;1717 -  - PSL -  - Deputado Federal / 28033 - JORGE LUIZ DA ROCHA CARRA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 28033 - JORGE LUIZ DA ROCHA CARRA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 28033 - JORGE LUIZ DA ROCHA CARRA - RJ - Deputado Estadual;
+JORGE LUIZ DA ROCHA CARRA;757.665.907-68;20/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado; -  -  / 28033 - JORGE LUIZ DA ROCHA CARRA - RJ - Deputado Estadual;
+JORGE SAYED PICCIANI;12.176.626/0001-32;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 28033 - JORGE LUIZ DA ROCHA CARRA - RJ - Deputado Estadual;

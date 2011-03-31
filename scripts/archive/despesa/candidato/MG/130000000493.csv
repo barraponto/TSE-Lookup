@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.147.821/0001-34;19/08/2010;17000059601;R$ 508,00;Estimado;VALTER TEIXEIRA DE SOUZA;1723;Deputado Federal;PSL;MG;
-Comitê Financeiro Único;12.147.821/0001-34;22/09/2010;17000059604;R$ 45,00;Estimado;VALTER TEIXEIRA DE SOUZA;1723;Deputado Federal;PSL;MG;
-Comitê Financeiro Único;12.147.821/0001-34;19/08/2010;17000059602;R$ 1.197,84;Estimado;VALTER TEIXEIRA DE SOUZA;1723;Deputado Federal;PSL;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.147.821/0001-34;19/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.197,84;Estimado;Comitê Financeiro Único - PSL -  / 1723 - VALTER TEIXEIRA DE SOUZA - MG - Deputado Federal;
+Comitê Financeiro Único;12.147.821/0001-34;19/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 508,00;Estimado;Comitê Financeiro Único - PSL -  / 1723 - VALTER TEIXEIRA DE SOUZA - MG - Deputado Federal;
+Comitê Financeiro Único;12.147.821/0001-34;22/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 45,00;Estimado;Comitê Financeiro Único - PSL -  / 1723 - VALTER TEIXEIRA DE SOUZA - MG - Deputado Federal;

@@ -1,2 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-VERA MARIA BLANES NABUCO DOS SANTOS;931.822.017-00;12/08/2010;70000151061;R$ 20.000,00;Cheque;RICARDO NABUCO RODRIGUES DOS SANTOS;7080;Deputado Federal;PT do B;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EDITORA  FOLHA DIRIGIDA LTDA;31.944.762/0001-70;18/08/2010;       Publicidade por jornais e revistas;R$ 2.000,00;Cheque; -  -  / 7080 - RICARDO NABUCO RODRIGUES DOS SANTOS - RJ - Deputado Federal;
+EDITORA  FOLHA DIRIGIDA LTDA;31.944.762/0001-70;24/09/2010;       Publicidade por jornais e revistas;R$ 4.800,00;Cheque; -  -  / 7080 - RICARDO NABUCO RODRIGUES DOS SANTOS - RJ - Deputado Federal;
+EDITORA  FOLHA DIRIGIDA LTDA;31.944.762/0001-70;09/09/2010;       Publicidade por jornais e revistas;R$ 2.500,00;Cheque; -  -  / 7080 - RICARDO NABUCO RODRIGUES DOS SANTOS - RJ - Deputado Federal;
+ETHI'S GRAPHIC GRÁFICA E EDITORA LTDA;10.417.882/0001-49;21/09/2010;       Publicidade por materiais impressos;R$ 364,00;Cheque; -  -  / 7080 - RICARDO NABUCO RODRIGUES DOS SANTOS - RJ - Deputado Federal;
+ETHI'S GRAPHIC GRÁFICA E EDITORA LTDA;10.417.882/0001-49;07/09/2010;       Publicidade por placas, estandartes e faixas;R$ 480,00;Cheque; -  -  / 7080 - RICARDO NABUCO RODRIGUES DOS SANTOS - RJ - Deputado Federal;
+ETHI'S GRAPHIC GRÁFICA E EDITORA LTDA;10.417.882/0001-49;07/09/2010;       Publicidade por materiais impressos;R$ 3.640,00;Cheque; -  -  / 7080 - RICARDO NABUCO RODRIGUES DOS SANTOS - RJ - Deputado Federal;
+GRÁFICA ALVES LTDA;34.058.354/0001-09;27/08/2010;       Publicidade por materiais impressos;R$ 840,00;Cheque; -  -  / 7080 - RICARDO NABUCO RODRIGUES DOS SANTOS - RJ - Deputado Federal;
+GRÁFICA ALVES LTDA;34.058.354/0001-09;13/08/2010;       Publicidade por materiais impressos;R$ 1.620,00;Cheque; -  -  / 7080 - RICARDO NABUCO RODRIGUES DOS SANTOS - RJ - Deputado Federal;
+JOSE MAURÍCIO TEYMENY DA SILVA;078.373.677-07;30/09/2010;       Serviços prestados por terceiros;R$ 2.700,00;Cheque; -  -  / 7080 - RICARDO NABUCO RODRIGUES DOS SANTOS - RJ - Deputado Federal;
+JOSE MAURÍCIO TEYMENY DA SILVA;078.373.677-07;27/08/2010;       Serviços prestados por terceiros;R$ 1.000,00;Cheque; -  -  / 7080 - RICARDO NABUCO RODRIGUES DOS SANTOS - RJ - Deputado Federal;

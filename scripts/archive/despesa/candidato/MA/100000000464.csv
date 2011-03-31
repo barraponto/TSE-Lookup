@@ -1,2 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FERNANDO ANTONIO DE JESUS LOUZEIRO;177.204.782-15;27/09/2010;10000072908;R$ 520,00;Depósito em espécie;FERNANDO ANTONIO DE JESUS LOUZEIRO;10800;Deputado Estadual;PRB;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BENEDITA CRISTINA SILVA ARAUJO;281.844.403-91;24/09/2010;       Cessão ou Locação de Veículos;R$ 515,00;Cheque; -  -  / 10800 - FERNANDO ANTONIO DE JESUS LOUZEIRO - MA - Deputado Estadual;
+RAFAEL PAIXÃO SEGUINES LOUZEIRO;326.959.658-85;25/09/2010;       Reembolsos de gastos realizados por eleitores;R$ 4,65;Cheque; -  -  / 10800 - FERNANDO ANTONIO DE JESUS LOUZEIRO - MA - Deputado Estadual;
+;;27/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 10800 - FERNANDO ANTONIO DE JESUS LOUZEIRO - MA - Deputado Estadual;

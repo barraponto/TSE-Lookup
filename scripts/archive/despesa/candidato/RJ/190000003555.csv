@@ -1,6 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ARTDERM RIO FARMÁCIA DE MANIPULAÇÃO LTDA.;00.883.555/0001-29;29/07/2010;44000027901;R$ 300,00;Depósito em espécie;MARCELO DOS SANTOS MARQUES;44012;Deputado Estadual;PRP;RJ;
-Comitê Financeiro Único;12.205.254/0001-25;25/10/2010;44000027908;R$ 1.000,00;Estimado;MARCELO DOS SANTOS MARQUES;44012;Deputado Estadual;PRP;RJ;
-ELEIÇÃO 2010 NELSON ROBERTO BORNIER DE OLIVEIRA DEPUTADO FEDERAL;12.171.022/0001-01;01/08/2010;44000027903;R$ 4.250,00;Estimado;MARCELO DOS SANTOS MARQUES;44012;Deputado Estadual;PRP;RJ;
-ELEMENTO BASE FARMÁCIA DE MANIPULAÇÃO LTDA.-ME;00.090.709/0001-25;09/08/2010;44000027904;R$ 360,00;Cheque;MARCELO DOS SANTOS MARQUES;44012;Deputado Estadual;PRP;RJ;
-ESTER DE ABREU S. PEREIRA CONFECÇÃO E BORDADOS;08.627.850/0001-26;04/09/2010;44000027905;R$ 290,00;Estimado;MARCELO DOS SANTOS MARQUES;44012;Deputado Estadual;PRP;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.254/0001-25;25/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;Comitê Financeiro Único - PRP -  / 44012 - MARCELO DOS SANTOS MARQUES - RJ - Deputado Estadual;
+ELEIÇÃO 2010 NELSON ROBERTO BORNIER DE OLIVEIRA DEPUTADO FEDERAL;12.171.022/0001-01;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.250,00;Estimado;1500 -  - PMDB -  - Deputado Federal / 44012 - MARCELO DOS SANTOS MARQUES - RJ - Deputado Estadual;
+ESTER DE ABREU S. PEREIRA CONFECÇÃO E BORDADOS;08.627.850/0001-26;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 290,00;Estimado; -  -  / 44012 - MARCELO DOS SANTOS MARQUES - RJ - Deputado Estadual;
+UNIVERSO DIGITAL COM. E SERVIÇOS DE PAINÉIS PUBLICITÁRIOS LTDA;08.379.705/0001-73;29/07/2010;       Publicidade por materiais impressos;R$ 225,00;Transferência eletrônica; -  -  / 44012 - MARCELO DOS SANTOS MARQUES - RJ - Deputado Estadual;
+WANDERSON GONÇALVES DIAS BRIGIDO;07.262.092/0001-27;29/07/2010;       Publicidade por materiais impressos;R$ 60,00;Transferência eletrônica; -  -  / 44012 - MARCELO DOS SANTOS MARQUES - RJ - Deputado Estadual;
+WANDERSON GONÇALVES DIAS BRIGIDO;07.262.092/0001-27;12/08/2010;       Publicidade por materiais impressos;R$ 360,00;Transferência eletrônica; -  -  / 44012 - MARCELO DOS SANTOS MARQUES - RJ - Deputado Estadual;
+;;29/07/2010;       Encargos financeiros e taxas bancárias;R$ 3,00;Débito em conta; -  -  / 44012 - MARCELO DOS SANTOS MARQUES - RJ - Deputado Estadual;
+;;30/07/2010;       Encargos financeiros e taxas bancárias;R$ 3,00;Débito em conta; -  -  / 44012 - MARCELO DOS SANTOS MARQUES - RJ - Deputado Estadual;
+;;30/07/2010;       Encargos financeiros e taxas bancárias;R$ 3,00;Débito em conta; -  -  / 44012 - MARCELO DOS SANTOS MARQUES - RJ - Deputado Estadual;
+;;12/08/2010;       Encargos financeiros e taxas bancárias;R$ 3,00;Débito em conta; -  -  / 44012 - MARCELO DOS SANTOS MARQUES - RJ - Deputado Estadual;

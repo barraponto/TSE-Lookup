@@ -1,4 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CAPITAL IND. COM. DE PROD. RECICLAVEIS LTDA;06.096.335/0001-31;03/09/2010;13001261921;R$ 2.000,00;Cheque;PAULO BATISTA DOS SANTOS;13130;Deputado Distrital;PT;DF;
-Comitê Financeiro Estadual/Distrital para Deputado Distrital;12.217.601/0001-30;17/09/2010;13001261923;R$ 7.000,00;Cheque;PAULO BATISTA DOS SANTOS;13130;Deputado Distrital;PT;DF;
-FERNANDO ANTONIO DE OLIVEIRA;442.728.041-20;06/08/2010;13001261922;R$ 400,00;Transferência eletrônica;PAULO BATISTA DOS SANTOS;13130;Deputado Distrital;PT;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AG COMERCIAL DE ALIMENTOS;08.916.897/0001-00;25/10/2010;       Alimentação;R$ 1.800,00;Não informado; -  -  / 13130 - PAULO BATISTA DOS SANTOS - DF - Deputado Distrital;
+AG COMERCIAL DE ALIMENTOS;08.916.897/0001-00;27/10/2010;       Alimentação;R$ 1.960,00;Não informado; -  -  / 13130 - PAULO BATISTA DOS SANTOS - DF - Deputado Distrital;
+AG COMERCIAL DE ALIMENTOS;08.916.897/0001-00;30/10/2010;       Alimentação;R$ 1.780,00;Não informado; -  -  / 13130 - PAULO BATISTA DOS SANTOS - DF - Deputado Distrital;
+COOPERATIVA DE PROD. ARTESANAL E IND. DO DF;10.940.124/0001-00;08/11/2010;       Eventos de promoção da candidatura;R$ 2.040,00;Não informado; -  -  / 13130 - PAULO BATISTA DOS SANTOS - DF - Deputado Distrital;
+IDEALL COMUNICAÇÃO VISUAL;12.156.455/0001-80;09/09/2010;       Eventos de promoção da candidatura;R$ 650,00;Não informado; -  -  / 13130 - PAULO BATISTA DOS SANTOS - DF - Deputado Distrital;
+IDEALL COMUNICAÇÃO VISUAL;12.156.455/0001-80;09/11/2010;       Eventos de promoção da candidatura;R$ 2.309,50;Não informado; -  -  / 13130 - PAULO BATISTA DOS SANTOS - DF - Deputado Distrital;
+POOL EDITORA LTDA;33.516.311/0001-67;28/09/2010;       Eventos de promoção da candidatura;R$ 504,00;Não informado; -  -  / 13130 - PAULO BATISTA DOS SANTOS - DF - Deputado Distrital;

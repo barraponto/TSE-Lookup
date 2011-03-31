@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.228/0001-05;29/10/2010;15000257951;R$ 1.518,32;Estimado;LUIZ AUGUSTO SIQUEIRA BITTENCOURT;15666;Deputado Distrital;PMDB;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.228/0001-05;29/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.518,32;Estimado;Comitê Financeiro Único - PMDB -  / 15666 - LUIZ AUGUSTO SIQUEIRA BITTENCOURT - DF - Deputado Distrital;

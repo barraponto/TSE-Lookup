@@ -1,2 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FRANCISCO ELOY DA SILVA NETO;409.642.133-20;22/07/2010;12001010032;R$ 500,00;Depósito em espécie;FRANCISCO ELOY DA SILVA NETO;12800;Deputado Estadual;PDT;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+FRANCISCA LEILIANE FERNANDES SILVA;021.588.493-04;27/08/2010;       Serviços prestados por terceiros;R$ 90,00;Cheque; -  -  / 12800 - FRANCISCO ELOY DA SILVA NETO - CE - Deputado Estadual;
+PRINTCOLOR GRAFICA E EDITORA LTDA;02.824.298/0001-80;22/07/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 12800 - FRANCISCO ELOY DA SILVA NETO - CE - Deputado Estadual;

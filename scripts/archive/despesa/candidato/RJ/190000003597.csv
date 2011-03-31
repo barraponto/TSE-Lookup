@@ -1,5 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALMIR PORTO DE OLIVEIRA;049.224.257-72;03/08/2010;50000391786;R$ 10.000,00;Cheque;ALMIR PORTO DE OLIVEIRA;5033;Deputado Federal;PSOL;RJ;
-Comitê Financeiro Único;12.154.856/0001-09;18/08/2010;50000391783;R$ 125,43;Estimado;ALMIR PORTO DE OLIVEIRA;5033;Deputado Federal;PSOL;RJ;
-Comitê Financeiro Único;12.154.856/0001-09;29/09/2010;50000391784;R$ 125,00;Estimado;ALMIR PORTO DE OLIVEIRA;5033;Deputado Federal;PSOL;RJ;
-Comitê Financeiro Único;12.154.856/0001-09;18/08/2010;50000391782;R$ 125,43;Estimado;ALMIR PORTO DE OLIVEIRA;5033;Deputado Federal;PSOL;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.154.856/0001-09;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 125,43;Estimado;Comitê Financeiro Único - PSOL -  / 5033 - ALMIR PORTO DE OLIVEIRA - RJ - Deputado Federal;
+Comitê Financeiro Único;12.154.856/0001-09;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 125,43;Estimado;Comitê Financeiro Único - PSOL -  / 5033 - ALMIR PORTO DE OLIVEIRA - RJ - Deputado Federal;
+Comitê Financeiro Único;12.154.856/0001-09;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 125,00;Estimado;Comitê Financeiro Único - PSOL -  / 5033 - ALMIR PORTO DE OLIVEIRA - RJ - Deputado Federal;
+E.. DA SILVA - PRODUÇOES;10.311.655/0001-34;19/08/2010;       Publicidade por materiais impressos;R$ 2.350,00;Cheque; -  -  / 5033 - ALMIR PORTO DE OLIVEIRA - RJ - Deputado Federal;
+E.. DA SILVA - PRODUÇOES;10.311.655/0001-34;03/08/2010;       Publicidade por materiais impressos;R$ 650,00;Cheque; -  -  / 5033 - ALMIR PORTO DE OLIVEIRA - RJ - Deputado Federal;
+PLENA EDITORA GRAFICA LTDA;29.679.081/0001-80;19/08/2010;       Publicidade por placas, estandartes e faixas;R$ 400,00;Cheque; -  -  / 5033 - ALMIR PORTO DE OLIVEIRA - RJ - Deputado Federal;
+PLENA EDITORA GRAFICA LTDA;29.679.081/0001-80;15/09/2010;       Publicidade por jornais e revistas;R$ 6.530,00;Cheque; -  -  / 5033 - ALMIR PORTO DE OLIVEIRA - RJ - Deputado Federal;

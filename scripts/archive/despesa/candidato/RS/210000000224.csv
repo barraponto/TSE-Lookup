@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.127.661/0001-61;10/09/2010;65000022004;R$ 29,00;Estimado;ERONI FERREIRA DA SILVA CERVEIRA;65678;Deputado Estadual;PC do B;RS;
-Comitê Financeiro Único;12.127.661/0001-61;06/08/2010;65000022003;R$ 1.000,00;Estimado;ERONI FERREIRA DA SILVA CERVEIRA;65678;Deputado Estadual;PC do B;RS;
-ELEIÇÃO 2010 MANUELA P.V. D'AVILA;12.156.255/0001-27;27/08/2010;65000022001;R$ 35,50;Estimado;ERONI FERREIRA DA SILVA CERVEIRA;65678;Deputado Estadual;PC do B;RS;
-ELEIÇÃO 2010 MANUELA P.V. D'AVILA;12.156.255/0001-27;30/08/2010;65000022002;R$ 27,80;Estimado;ERONI FERREIRA DA SILVA CERVEIRA;65678;Deputado Estadual;PC do B;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.127.661/0001-61;06/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;Comitê Financeiro Único - PC do B -  / 65678 - ERONI FERREIRA DA SILVA CERVEIRA - RS - Deputado Estadual;
+Comitê Financeiro Único;12.127.661/0001-61;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 29,00;Estimado;Comitê Financeiro Único - PC do B -  / 65678 - ERONI FERREIRA DA SILVA CERVEIRA - RS - Deputado Estadual;
+ELEIÇÃO 2010 MANUELA P.V. D'AVILA;12.156.255/0001-27;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 35,50;Estimado;6565 -  - PC do B -  - Deputado Federal / 65678 - ERONI FERREIRA DA SILVA CERVEIRA - RS - Deputado Estadual;
+ELEIÇÃO 2010 MANUELA P.V. D'AVILA;12.156.255/0001-27;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 27,80;Estimado;6565 -  - PC do B -  - Deputado Federal / 65678 - ERONI FERREIRA DA SILVA CERVEIRA - RS - Deputado Estadual;

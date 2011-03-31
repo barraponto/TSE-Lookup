@@ -1,4 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.221.863/0001-78;16/08/2010;43001905595;R$ 1.000,00;Transferência eletrônica;MARCIA DE SOUZA CARDOSO;43669;Deputado Estadual;PV;MT;
-Comitê Financeiro Único;12.221.863/0001-78;24/09/2010;43001905597;R$ 2.000,00;Transferência eletrônica;MARCIA DE SOUZA CARDOSO;43669;Deputado Estadual;PV;MT;
-Comitê Financeiro Único;12.221.863/0001-78;25/08/2010;43001905596;R$ 2.300,00;Transferência eletrônica;MARCIA DE SOUZA CARDOSO;43669;Deputado Estadual;PV;MT;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+FUNDAÇÃO HERBERT  DANIEL;09.085.931/0001-04;01/11/2010;       Diversas a especificar;R$ 14,30;Transferência eletrônica; -  -  / 43669 - MARCIA DE SOUZA CARDOSO - MT - Deputado Estadual;
+NILO FRANCISCO DE OLIVEIRA JUNIOR;005.678.671-96;27/09/2010;       Despesas com pessoal;R$ 1.285,00;Transferência eletrônica; -  -  / 43669 - MARCIA DE SOUZA CARDOSO - MT - Deputado Estadual;
+REVERTON BARBOSA DE REZENDE;992.916.141-49;27/09/2010;       Despesas com pessoal;R$ 2.000,00;Cheque; -  -  / 43669 - MARCIA DE SOUZA CARDOSO - MT - Deputado Estadual;
+REVERTON BARBOSA DE REZENDE;992.916.141-49;25/08/2010;       Despesas com pessoal;R$ 2.000,00;Cheque; -  -  / 43669 - MARCIA DE SOUZA CARDOSO - MT - Deputado Estadual;
+;;11/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 43669 - MARCIA DE SOUZA CARDOSO - MT - Deputado Estadual;
+;;06/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 43669 - MARCIA DE SOUZA CARDOSO - MT - Deputado Estadual;

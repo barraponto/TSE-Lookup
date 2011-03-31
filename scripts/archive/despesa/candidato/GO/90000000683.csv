@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELISVANIA MARTINS VALERIANO;532.935.091-34;16/07/2010;15000091201;R$ 1.150,00;Estimado;ELISVANIA MARTINS VALERIANO;15331;Deputado Estadual;PMDB;GO;
-ELISVANIA MARTINS VALERIANO;532.935.091-34;02/08/2010;15000091202;R$ 1.100,00;Estimado;ELISVANIA MARTINS VALERIANO;15331;Deputado Estadual;PMDB;GO;
-IRIS DE ARAUJO R. MACHADO;12.175.815/0001-90;09/08/2010;15000091203;R$ 2.200,00;Estimado;ELISVANIA MARTINS VALERIANO;15331;Deputado Estadual;PMDB;GO;
-IRIS REZENDE MACHADO;12.167.313/0001-18;02/10/2010;15000091205;R$ 1.612,90;Estimado;ELISVANIA MARTINS VALERIANO;15331;Deputado Estadual;PMDB;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELISVANIA MARTINS VALERIANO;532.935.091-34;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.100,00;Estimado; -  -  / 15331 - ELISVANIA MARTINS VALERIANO - GO - Deputado Estadual;
+ELISVANIA MARTINS VALERIANO;532.935.091-34;16/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.150,00;Estimado; -  -  / 15331 - ELISVANIA MARTINS VALERIANO - GO - Deputado Estadual;
+IRIS DE ARAUJO R. MACHADO;12.175.815/0001-90;09/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.200,00;Estimado;1515 -  - PMDB -  - Deputado Federal / 15331 - ELISVANIA MARTINS VALERIANO - GO - Deputado Estadual;
+IRIS REZENDE MACHADO;12.167.313/0001-18;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.612,90;Estimado;15 -  - PMDB -  - Governador / 15331 - ELISVANIA MARTINS VALERIANO - GO - Deputado Estadual;

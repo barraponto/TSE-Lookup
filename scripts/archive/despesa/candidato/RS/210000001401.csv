@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADILSON TROCA;12.175.087/0001-17;13/08/2010;45000099001;R$ 473,57;Estimado;PAULO ANTÃO AZAMBUJA BAPTISTA;4521;Deputado Federal;PSDB;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADILSON TROCA;12.175.087/0001-17;13/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 473,57;Estimado;45123 -  - PSDB -  - Deputado Estadual / 4521 - PAULO ANTÃO AZAMBUJA BAPTISTA - RS - Deputado Federal;

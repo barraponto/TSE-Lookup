@@ -1,7 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANDRÉ LAZARONI;12.203.812/0001-13;06/09/2010;14000130561;R$ 6.140,00;Cheque;CLAUDIO HENRIQUE DOS ANJOS;1401;Deputado Federal;PTB;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;24/09/2010;14000130383;R$ 150,00;Estimado;CLAUDIO HENRIQUE DOS ANJOS;1401;Deputado Federal;PTB;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;24/09/2010;14000130384;R$ 150,00;Estimado;CLAUDIO HENRIQUE DOS ANJOS;1401;Deputado Federal;PTB;RJ;
-GRÁFICA E EDITORA FORMATO3 LTDA . ME;11.226.821/0001-67;27/08/2010;14000130382;R$ 4.990,00;Estimado;CLAUDIO HENRIQUE DOS ANJOS;1401;Deputado Federal;PTB;RJ;
-JORGE SAYED PICCIANI;12.176.626/0001-32;24/08/2010;14000130381;R$ 17,00;Estimado;CLAUDIO HENRIQUE DOS ANJOS;1401;Deputado Federal;PTB;RJ;
-JOSÉ LUIZ NERVAL DA SILVA;715.517.357-68;24/09/2010;14000130562;R$ 15.000,00;Transferência eletrônica;CLAUDIO HENRIQUE DOS ANJOS;1401;Deputado Federal;PTB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 1401 - CLAUDIO HENRIQUE DOS ANJOS - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 1401 - CLAUDIO HENRIQUE DOS ANJOS - RJ - Deputado Federal;
+EDITORA O DIA S.A.;33.216.797/0001-18;27/09/2010;       Publicidade por jornais e revistas;R$ 8.861,40;Cheque; -  -  / 1401 - CLAUDIO HENRIQUE DOS ANJOS - RJ - Deputado Federal;
+GRÁFICA E EDITORA FORMATO3 LTDA . ME;11.226.821/0001-67;27/08/2010;       Publicidade por materiais impressos;R$ 6.100,00;Transferência eletrônica; -  -  / 1401 - CLAUDIO HENRIQUE DOS ANJOS - RJ - Deputado Federal;
+GRÁFICA E EDITORA FORMATO3 LTDA . ME;11.226.821/0001-67;24/09/2010;       Publicidade por materiais impressos;R$ 6.100,00;Transferência eletrônica; -  -  / 1401 - CLAUDIO HENRIQUE DOS ANJOS - RJ - Deputado Federal;
+GRÁFICA E EDITORA FORMATO3 LTDA . ME;11.226.821/0001-67;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.990,00;Estimado; -  -  / 1401 - CLAUDIO HENRIQUE DOS ANJOS - RJ - Deputado Federal;
+JORGE SAYED PICCIANI;12.176.626/0001-32;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 1401 - CLAUDIO HENRIQUE DOS ANJOS - RJ - Deputado Federal;
+PARTIDO TRABALHISTA BRASILEIRO;03.518.656/0001-99;29/10/2010;       Diversas a especificar;R$ 51,60;Cheque; -  -  / 1401 - CLAUDIO HENRIQUE DOS ANJOS - RJ - Deputado Federal;
+;;09/09/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Débito em conta; -  -  / 1401 - CLAUDIO HENRIQUE DOS ANJOS - RJ - Deputado Federal;
+;;24/09/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Débito em conta; -  -  / 1401 - CLAUDIO HENRIQUE DOS ANJOS - RJ - Deputado Federal;

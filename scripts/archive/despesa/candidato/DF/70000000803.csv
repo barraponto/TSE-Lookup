@@ -1,8 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.229.927/0001-87;10/08/2010;28000689301;R$ 360,00;Outros títulos de crédito;ROBERTO CARLOS DA SILVA;28123;Deputado Distrital;PRTB;DF;
-Diretório Estadual/Distrital;12.229.927/0001-87;23/08/2010;28000689303;R$ 360,00;Outros títulos de crédito;ROBERTO CARLOS DA SILVA;28123;Deputado Distrital;PRTB;DF;
-Diretório Estadual/Distrital;12.229.927/0001-87;16/08/2010;28000689302;R$ 360,00;Outros títulos de crédito;ROBERTO CARLOS DA SILVA;28123;Deputado Distrital;PRTB;DF;
-Diretório Estadual/Distrital;12.229.927/0001-87;31/08/2010;28000689304;R$ 360,00;Outros títulos de crédito;ROBERTO CARLOS DA SILVA;28123;Deputado Distrital;PRTB;DF;
-KRIART GRAFICA LTDA;12.053.366/0001-08;03/09/2010;28000689306;R$ 250,00;Estimado;ROBERTO CARLOS DA SILVA;28123;Deputado Distrital;PRTB;DF;
-PAULO CESAR SOARES JUNIOR;696.066.501-97;03/09/2010;28000689305;R$ 1.380,00;Estimado;ROBERTO CARLOS DA SILVA;28123;Deputado Distrital;PRTB;DF;
-ROBERTO CARLOS DA SILVA;098.079.548-60;24/09/2010;28000689307;R$ 1.050,00;Transferência eletrônica;ROBERTO CARLOS DA SILVA;28123;Deputado Distrital;PRTB;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CLEBE MATOS DE FARIAS;327.211.021-68;24/09/2010;       Locação/cessão de bens imóveis;R$ 1.050,00;Cheque; -  -  / 28123 - ROBERTO CARLOS DA SILVA - DF - Deputado Distrital;
+KRIART GRAFICA LTDA;12.053.366/0001-08;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado; -  -  / 28123 - ROBERTO CARLOS DA SILVA - DF - Deputado Distrital;
+PAULO CESAR SOARES JUNIOR;696.066.501-97;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.380,00;Estimado; -  -  / 28123 - ROBERTO CARLOS DA SILVA - DF - Deputado Distrital;

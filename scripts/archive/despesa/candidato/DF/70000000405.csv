@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.217.556/0001-13;09/08/2010;70000132702;R$ 360,00;Estimado;EVILASIO RODRIGUES CARRAJOLA;70177;Deputado Distrital;PT do B;DF;
-Comitê Financeiro Único;12.217.556/0001-13;24/08/2010;70000132705;R$ 360,00;Estimado;EVILASIO RODRIGUES CARRAJOLA;70177;Deputado Distrital;PT do B;DF;
-Comitê Financeiro Único;12.217.556/0001-13;16/08/2010;70000132704;R$ 360,00;Estimado;EVILASIO RODRIGUES CARRAJOLA;70177;Deputado Distrital;PT do B;DF;
-ELEIÇÃO 2010 EVILASIO RODRIGUES CARRAJOLA DEPUTADO DISTRITAL;461.246.591-15;24/07/2010;70000132701;R$ 1.500,00;Estimado;EVILASIO RODRIGUES CARRAJOLA;70177;Deputado Distrital;PT do B;DF;
-LUIZ PEREIRA DA COSTA;305.085.761-72;19/08/2010;70000132708;R$ 520,00;Depósito em espécie;EVILASIO RODRIGUES CARRAJOLA;70177;Deputado Distrital;PT do B;DF;
-LUIZ PEREIRA DA COSTA;305.085.761-72;15/09/2010;70000132709;R$ 545,00;Depósito em espécie;EVILASIO RODRIGUES CARRAJOLA;70177;Deputado Distrital;PT do B;DF;
-REGINALDO RODRIGUES CARRAJOLA;461.768.291-00;09/08/2010;70000132707;R$ 1.500,00;Estimado;EVILASIO RODRIGUES CARRAJOLA;70177;Deputado Distrital;PT do B;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.217.556/0001-13;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Único - PT do B -  / 70177 - EVILASIO RODRIGUES CARRAJOLA - DF - Deputado Distrital;
+Comitê Financeiro Único;12.217.556/0001-13;16/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Único - PT do B -  / 70177 - EVILASIO RODRIGUES CARRAJOLA - DF - Deputado Distrital;
+Comitê Financeiro Único;12.217.556/0001-13;09/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Único - PT do B -  / 70177 - EVILASIO RODRIGUES CARRAJOLA - DF - Deputado Distrital;
+ELEIÇÃO 2010 EVILASIO RODRIGUES CARRAJOLA DEPUTADO DISTRITAL;461.246.591-15;24/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado; -  -  / 70177 - EVILASIO RODRIGUES CARRAJOLA - DF - Deputado Distrital;
+REGINALDO RODRIGUES CARRAJOLA;461.768.291-00;09/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado; -  -  / 70177 - EVILASIO RODRIGUES CARRAJOLA - DF - Deputado Distrital;
+WENDELL OLIVEIRA CONTABILIDADE CONSULTORIA E COBRANÇA;08.912.497/0001-26;19/08/2010;       Serviços prestados por terceiros;R$ 520,00;Cheque; -  -  / 70177 - EVILASIO RODRIGUES CARRAJOLA - DF - Deputado Distrital;
+WENDELL OLIVEIRA CONTABILIDADE CONSULTORIA E COBRANÇA;08.912.497/0001-26;15/09/2010;       Serviços prestados por terceiros;R$ 545,00;Cheque; -  -  / 70177 - EVILASIO RODRIGUES CARRAJOLA - DF - Deputado Distrital;

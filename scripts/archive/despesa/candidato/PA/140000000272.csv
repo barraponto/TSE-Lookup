@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ROSA MARIA REIS FERREIRA;181.707.222-68;16/07/2010;40002345542;R$ 112,50;Estimado;ROSA MARIA REIS FERREIRA;40348;Deputado Estadual;PSB;PA;
-ROSA MARIA REIS FERREIRA;181.707.222-68;16/07/2010;40002345541;R$ 500,00;Estimado;ROSA MARIA REIS FERREIRA;40348;Deputado Estadual;PSB;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ROSA MARIA REIS FERREIRA;181.707.222-68;16/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 112,50;Estimado; -  -  / 40348 - ROSA MARIA REIS FERREIRA - PA - Deputado Estadual;
+ROSA MARIA REIS FERREIRA;181.707.222-68;16/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 40348 - ROSA MARIA REIS FERREIRA - PA - Deputado Estadual;

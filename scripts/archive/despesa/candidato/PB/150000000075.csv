@@ -1,9 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CRISELIA DE FATIMA VIEIRA DUTRA;185.577.324-49;28/10/2010;17000010602;R$ 5.000,00;Depósito em espécie;ROBSON DUTRA DA SILVA;17789;Deputado Estadual;PSL;PB;
-ELEICAO 2010 - OZANILDA GONDIM VITAL DO REGO;12.200.007/0001-36;17/08/2010;17000010601;R$ 272,50;Estimado;ROBSON DUTRA DA SILVA;17789;Deputado Estadual;PSL;PB;
-ELEIÇÃO 2010 VITAL DO REGO FILHO - SENADOR;12.199.234/0001-99;30/09/2010;17000010606;R$ 960,00;Estimado;ROBSON DUTRA DA SILVA;17789;Deputado Estadual;PSL;PB;
-ENRIQUEMAR DUTRA DA SILVA;108.897.284-53;28/10/2010;17000010603;R$ 4.000,00;Depósito em espécie;ROBSON DUTRA DA SILVA;17789;Deputado Estadual;PSL;PB;
-PEDRO CHRISTIANO TITO ALVES PROCOPIO SILVA;839.668.704-87;28/10/2010;17000010607;R$ 3.000,00;Depósito em espécie;ROBSON DUTRA DA SILVA;17789;Deputado Estadual;PSL;PB;
-ROBSON DUTRA DA SILVA;136.303.344-15;20/09/2010;17000010605;R$ 7.850,00;Depósito em espécie;ROBSON DUTRA DA SILVA;17789;Deputado Estadual;PSL;PB;
-ROBSON DUTRA DA SILVA;136.303.344-15;01/11/2010;17000010608;R$ 2.708,00;Depósito em espécie;ROBSON DUTRA DA SILVA;17789;Deputado Estadual;PSL;PB;
-ROSEMBERG DUTRA DINIZ;397.836.344-53;28/10/2010;17000010604;R$ 3.000,00;Depósito em espécie;ROBSON DUTRA DA SILVA;17789;Deputado Estadual;PSL;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEICAO 2010 - OZANILDA GONDIM VITAL DO REGO;12.200.007/0001-36;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 272,50;Estimado;1510 -  - PMDB -  - Deputado Federal / 17789 - ROBSON DUTRA DA SILVA - PB - Deputado Estadual;
+ELEIÇÃO 2010 VITAL DO REGO FILHO - SENADOR;12.199.234/0001-99;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 960,00;Estimado;155 -  - PMDB -  - Senador / 17789 - ROBSON DUTRA DA SILVA - PB - Deputado Estadual;
+ELIAS ASSIS DA SILVA JUNIOR;040.611.484-60;24/09/2010;       Locação/cessão de bens móveis;R$ 1.500,00;Cheque; -  -  / 17789 - ROBSON DUTRA DA SILVA - PB - Deputado Estadual;
+GRAFICA E EDITORA AGENDA LTDA;00.676.136/0001-16;01/10/2010;       Publicidade por materiais impressos;R$ 3.420,00;Cheque; -  -  / 17789 - ROBSON DUTRA DA SILVA - PB - Deputado Estadual;
+GRAFICA E EDITORA AGENDA LTDA;00.676.136/0001-16;29/07/2010;       Publicidade por materiais impressos;R$ 5.388,00;Cheque; -  -  / 17789 - ROBSON DUTRA DA SILVA - PB - Deputado Estadual;
+GRAFICA E EDITORA AGENDA LTDA;00.676.136/0001-16;03/08/2010;       Publicidade por materiais impressos;R$ 8.900,00;Cheque; -  -  / 17789 - ROBSON DUTRA DA SILVA - PB - Deputado Estadual;
+GRAFICA E EDITORA AGENDA LTDA;00.676.136/0001-16;27/09/2010;       Publicidade por materiais impressos;R$ 6.200,00;Cheque; -  -  / 17789 - ROBSON DUTRA DA SILVA - PB - Deputado Estadual;

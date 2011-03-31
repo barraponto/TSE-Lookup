@@ -1,6 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.206.658/0001-33;08/09/2010;11000061783;R$ 78.145,00;Estimado;ORLANDO MATIAS DO NASCIMENTO;1123;Deputado Federal;PP;PI;
-Comitê Financeiro Único;12.206.658/0001-33;22/07/2010;11000061782;R$ 853,57;Estimado;ORLANDO MATIAS DO NASCIMENTO;1123;Deputado Federal;PP;PI;
-Comitê Financeiro Único;12.206.658/0001-33;01/10/2010;11000061785;R$ 1.800,00;Estimado;ORLANDO MATIAS DO NASCIMENTO;1123;Deputado Federal;PP;PI;
-Comitê Financeiro Único;12.206.658/0001-33;09/09/2010;11000061784;R$ 2.809,04;Estimado;ORLANDO MATIAS DO NASCIMENTO;1123;Deputado Federal;PP;PI;
-ORLANDO MATIAS DO NASCIMENTO;286.253.233-91;28/07/2010;11000061781;R$ 100,00;Depósito em espécie;ORLANDO MATIAS DO NASCIMENTO;1123;Deputado Federal;PP;PI;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.206.658/0001-33;22/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 853,57;Estimado;Comitê Financeiro Único - PP -  / 1123 - ORLANDO MATIAS DO NASCIMENTO - PI - Deputado Federal;
+Comitê Financeiro Único;12.206.658/0001-33;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.800,00;Estimado;Comitê Financeiro Único - PP -  / 1123 - ORLANDO MATIAS DO NASCIMENTO - PI - Deputado Federal;
+Comitê Financeiro Único;12.206.658/0001-33;08/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 78.145,00;Estimado;Comitê Financeiro Único - PP -  / 1123 - ORLANDO MATIAS DO NASCIMENTO - PI - Deputado Federal;
+Comitê Financeiro Único;12.206.658/0001-33;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.809,04;Estimado;Comitê Financeiro Único - PP -  / 1123 - ORLANDO MATIAS DO NASCIMENTO - PI - Deputado Federal;

@@ -1,5 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-GUTEMBERG MOREIRA ANDRADE;203.176.703-87;02/08/2010;50000101841;R$ 1.000,00;Transferência eletrônica;GUTEMBERG MOREIRA ANDRADE;50200;Deputado Estadual;PSOL;CE;
-GUTEMBERG MOREIRA ANDRADE;203.176.703-87;06/10/2010;50000101843;R$ 28,75;Depósito em espécie;GUTEMBERG MOREIRA ANDRADE;50200;Deputado Estadual;PSOL;CE;
-GUTEMBERG MOREIRA ANDRADE;203.176.703-87;01/09/2010;50000101842;R$ 1.500,00;Depósito em espécie;GUTEMBERG MOREIRA ANDRADE;50200;Deputado Estadual;PSOL;CE;
-GUTEMBERG MOREIRA ANDRADE;203.176.703-87;31/08/2010;50000101844;R$ 1.000,00;Estimado;GUTEMBERG MOREIRA ANDRADE;50200;Deputado Estadual;PSOL;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRÁFICA ENCAIXE;35.216.498/0001-09;30/08/2010;       Publicidade por materiais impressos;R$ 950,00;Cheque; -  -  / 50200 - GUTEMBERG MOREIRA ANDRADE - CE - Deputado Estadual;
+GRÁFICA ENCAIXE LTDA;35.216.498/0001-09;15/09/2010;       Publicidade por materiais impressos;R$ 280,00;Cheque; -  -  / 50200 - GUTEMBERG MOREIRA ANDRADE - CE - Deputado Estadual;
+GUTEMBERG MOREIRA ANDRADE;203.176.703-87;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 50200 - GUTEMBERG MOREIRA ANDRADE - CE - Deputado Estadual;
+POSTO SALINAS II (COMERCIAL DE PETROLEO TABULEIRO LTDA);08.285.240/0001-91;30/09/2010;       Combustíveis e lubrificantes;R$ 654,01;Cheque; -  -  / 50200 - GUTEMBERG MOREIRA ANDRADE - CE - Deputado Estadual;
+POSTO TABULEIRO (MAURICIO COMERCIO DE PETROLEO LDTA);05.062.652/0001-74;06/10/2010;       Combustíveis e lubrificantes;R$ 210,00;Cheque; -  -  / 50200 - GUTEMBERG MOREIRA ANDRADE - CE - Deputado Estadual;
+POSTOS SALINAS II;08.285.240/0001-91;31/08/2010;       Combustíveis e lubrificantes;R$ 434,74;Cheque; -  -  / 50200 - GUTEMBERG MOREIRA ANDRADE - CE - Deputado Estadual;

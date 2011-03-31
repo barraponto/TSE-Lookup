@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CLEOMAR BARRETO TORRES;650.806.533-53;20/08/2010;50000210101;R$ 150,00;Depósito em espécie;HELIOMAR BARRETO TORRES;50550;Deputado Estadual;PSOL;MA;
-Comitê Financeiro Único;12.221.879/0001-80;17/08/2010;50000210102;R$ 500,00;Estimado;HELIOMAR BARRETO TORRES;50550;Deputado Estadual;PSOL;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.221.879/0001-80;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;Comitê Financeiro Único - PSOL -  / 50550 - HELIOMAR BARRETO TORRES - MA - Deputado Estadual;
+P.P.S. ROCHA-ME;07.531.389/0001-40;24/08/2010;       Publicidade por materiais impressos;R$ 150,00;Cheque; -  -  / 50550 - HELIOMAR BARRETO TORRES - MA - Deputado Estadual;

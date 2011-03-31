@@ -1,6 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 CLAIR DA FLORA MARTINS;12.172.378/0001-51;06/08/2010;43001764805;R$ 960,00;Estimado;CARLOS HUGO REYES;43014;Deputado Estadual;PV;PR;
-ELEICOES 2010 CLEUSA ROSANE RIBAS FERREIRA DEP FED;12.178.049/0001-18;29/07/2010;43001764801;R$ 251,00;Estimado;CARLOS HUGO REYES;43014;Deputado Estadual;PV;PR;
-GONGRA COM DE VEÍCULOS LTDA;01.623.440/0001-68;22/07/2010;43001764803;R$ 100,00;Depósito em espécie;CARLOS HUGO REYES;43014;Deputado Estadual;PV;PR;
-SERGIO DA COSTA RIEKES;317.786.319-91;29/07/2010;43001764804;R$ 100,00;Depósito em espécie;CARLOS HUGO REYES;43014;Deputado Estadual;PV;PR;
-STARCK SPORTS CENTER LTDA;00.088.683/0001-80;29/07/2010;43001764802;R$ 300,00;Depósito em espécie;CARLOS HUGO REYES;43014;Deputado Estadual;PV;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO SOBERANO LTDA;08.715.323/0001-73;29/08/2010;       Combustíveis e lubrificantes;R$ 50,00;Cheque; -  -  / 43014 - CARLOS HUGO REYES - PR - Deputado Estadual;
+CABANA DI BELLA PRODUTOS E ARTESANATOS LTDA.;04.206.087/0001-09;29/08/2010;       Alimentação;R$ 40,00;Cheque; -  -  / 43014 - CARLOS HUGO REYES - PR - Deputado Estadual;
+COM DE FERRAMENTAS E REPRESENTAÇÕES LTDA MATIVAN;77.763.076/0001-01;23/08/2010;       Despesas com transporte ou deslocamento;R$ 130,00;Cheque; -  -  / 43014 - CARLOS HUGO REYES - PR - Deputado Estadual;
+ELEIÇÃO 2010 CLAIR DA FLORA MARTINS;12.172.378/0001-51;06/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 960,00;Estimado;4399 -  - PV -  - Deputado Federal / 43014 - CARLOS HUGO REYES - PR - Deputado Estadual;
+ELEICOES 2010 CLEUSA ROSANE RIBAS FERREIRA DEP FED;12.178.049/0001-18;29/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 251,00;Estimado;4343 -  - PV -  - Deputado Federal / 43014 - CARLOS HUGO REYES - PR - Deputado Estadual;
+ESMERALDA PAPELARIA;76.743.723/0001-42;28/08/2010;       Publicidade por materiais impressos;R$ 20,00;Cheque; -  -  / 43014 - CARLOS HUGO REYES - PR - Deputado Estadual;
+OK ART PINTURAS E DECORAÇÕES LTDA;03.055.926/0001-72;01/09/2010;       Publicidade por placas, estandartes e faixas;R$ 100,00;Cheque; -  -  / 43014 - CARLOS HUGO REYES - PR - Deputado Estadual;
+OK ART PINTURAS E DECORAÇÕES LTDA;03.055.926/0001-72;14/09/2010;       Publicidade por placas, estandartes e faixas;R$ 135,00;Cheque; -  -  / 43014 - CARLOS HUGO REYES - PR - Deputado Estadual;
+;;03/10/2010;       Encargos financeiros e taxas bancárias;R$ 25,00;Débito em conta; -  -  / 43014 - CARLOS HUGO REYES - PR - Deputado Estadual;

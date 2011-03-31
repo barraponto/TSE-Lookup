@@ -1,5 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-GILMAR DA ROSA SOBRINHO;752.382.337-87;26/08/2010;17000008855;R$ 800,00;Depósito em espécie;GILMAR DA ROSA SOBRINHO;17333;Deputado Estadual;PSL;ES;
-GILMAR DA ROSA SOBRINHO;752.382.337-87;14/10/2010;17000008856;R$ 150,00;Depósito em espécie;GILMAR DA ROSA SOBRINHO;17333;Deputado Estadual;PSL;ES;
-GRAFICA AQUARIUS LTDA;27.065.614/0001-08;09/09/2010;17000008851;R$ 555,00;Estimado;GILMAR DA ROSA SOBRINHO;17333;Deputado Estadual;PSL;ES;
-GRAFIK GRAFICA E EDITORA LTDA ME;08.071.423/0001-04;15/08/2010;17000008853;R$ 280,00;Estimado;GILMAR DA ROSA SOBRINHO;17333;Deputado Estadual;PSL;ES;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CHUVISCO CONFECÇÕES LTDA;39.805.189/0001-25;27/08/2010;       Publicidade por placas, estandartes e faixas;R$ 300,00;Cheque; -  -  / 17333 - GILMAR DA ROSA SOBRINHO - ES - Deputado Estadual;
+EQUIPE INFO COMUNICAÇÃO VISUAL LTDA ME;11.959.758/0001-78;21/10/2010;       Publicidade por materiais impressos;R$ 100,00;Cheque; -  -  / 17333 - GILMAR DA ROSA SOBRINHO - ES - Deputado Estadual;
+GRAFICA  ESPIRITO SANTO LTDA;30.955.538/0001-10;28/09/2010;       Publicidade por materiais impressos;R$ 50,00;Cheque; -  -  / 17333 - GILMAR DA ROSA SOBRINHO - ES - Deputado Estadual;
+GRAFICA AQUARIUS LTDA;27.065.614/0001-08;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 555,00;Estimado; -  -  / 17333 - GILMAR DA ROSA SOBRINHO - ES - Deputado Estadual;
+GRAFIK GRAFICA E EDITORA LTDA ME;08.071.423/0001-04;15/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 280,00;Estimado; -  -  / 17333 - GILMAR DA ROSA SOBRINHO - ES - Deputado Estadual;
+NELSON GUIMARAES ME;31.476.310/0001-00;01/09/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 17333 - GILMAR DA ROSA SOBRINHO - ES - Deputado Estadual;

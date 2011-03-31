@@ -1,5 +1,13 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LUIZ MANOEL NAVARRO;006.939.602-72;19/08/2010;21000014502;R$ 2.500,00;Depósito em espécie;LUIZ MANOEL NAVARRO;21;Governador;PCB;AM;
-LUIZ MANOEL NAVARRO;006.939.602-72;26/10/2010;21000014505;R$ 47,58;Outros títulos de crédito;LUIZ MANOEL NAVARRO;21;Governador;PCB;AM;
-MARIA SELMA DA SILVA;12.176.063/0001-82;13/10/2010;21000014504;R$ 199,96;Cheque;LUIZ MANOEL NAVARRO;21;Governador;PCB;AM;
-TESSA MÍDIA TOTAL;10.366.686/0001-92;02/10/2010;21000014503;R$ 4.000,00;Estimado;LUIZ MANOEL NAVARRO;21;Governador;PCB;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALLEGRO;04.063.146/0001-37;29/08/2010;       Alimentação;R$ 74,80;Cheque; -  -  / 21 - LUIZ MANOEL NAVARRO - AM - Governador;
+GRAFICA E EDITORA OMARGRAF LTDA;84.464.148/0001-77;06/08/2010;       Publicidade por materiais impressos;R$ 1.448,00;Cheque; -  -  / 21 - LUIZ MANOEL NAVARRO - AM - Governador;
+INKMART;06.752.491/0001-03;18/10/2010;       Materiais de expediente;R$ 26,63;Não informado; -  -  / 21 - LUIZ MANOEL NAVARRO - AM - Governador;
+INKMART;06.752.491/0001-03;18/10/2010;       Materiais de expediente;R$ 38,33;Cheque; -  -  / 21 - LUIZ MANOEL NAVARRO - AM - Governador;
+TESSA MÍDIA TOTAL;10.366.686/0001-92;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.000,00;Estimado; -  -  / 21 - LUIZ MANOEL NAVARRO - AM - Governador;
+TRAIRI COM. DE DERIVADOS DE PETROLEO LTDA;04.811.052/0001-07;01/10/2010;       Combustíveis e lubrificantes;R$ 130,00;Cheque; -  -  / 21 - LUIZ MANOEL NAVARRO - AM - Governador;
+TRAIRI COM. DE DERIVADOS DE PETROLEO LTDA;04.811.052/0001-07;02/09/2010;       Combustíveis e lubrificantes;R$ 113,52;Cheque; -  -  / 21 - LUIZ MANOEL NAVARRO - AM - Governador;
+TRAIRI COM. DE DERIVADOS DE PETROLEO LTDA;04.811.052/0001-07;24/08/2010;       Combustíveis e lubrificantes;R$ 100,00;Cheque; -  -  / 21 - LUIZ MANOEL NAVARRO - AM - Governador;
+TRAIRI COM. DE DERIVADOS DE PETROLEO LTDA;04.811.052/0001-07;03/09/2010;       Combustíveis e lubrificantes;R$ 185,91;Cheque; -  -  / 21 - LUIZ MANOEL NAVARRO - AM - Governador;
+21 - LUIZ MANOEL NAVARRO - GOVERNADOR;12.167.598/0001-97;27/08/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 500,00;Cheque;211 - MARIA SELMA DA SILVA - PCB - AM - 1º Suplente Senador / 21 - LUIZ MANOEL NAVARRO - AM - Governador;
+;;13/10/2010;       Encargos financeiros e taxas bancárias;R$ 130,00;Cheque; -  -  / 21 - LUIZ MANOEL NAVARRO - AM - Governador;
+;;13/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 21 - LUIZ MANOEL NAVARRO - AM - Governador;

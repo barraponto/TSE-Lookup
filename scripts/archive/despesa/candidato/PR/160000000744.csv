@@ -1,6 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Governador;12.190.887/0001-07;18/08/2010;33000000240;R$ 630,00;Estimado;JUCIMERY MARINHO;33733;Deputado Estadual;PMN;PR;
-Comitê Financeiro Único;29.549.433/0001-82;20/09/2010;33000000250;R$ 250,00;Estimado;JUCIMERY MARINHO;33733;Deputado Estadual;PMN;PR;
-Comitê Financeiro Único;12.134.176/0001-15;20/09/2010;33000000244;R$ 250,00;Estimado;JUCIMERY MARINHO;33733;Deputado Estadual;PMN;PR;
-ELEIÇÕES 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;27/09/2010;33000000241;R$ 1.680,00;Transferência eletrônica;JUCIMERY MARINHO;33733;Deputado Estadual;PMN;PR;
-ELEIÇÕES 2010 RICARDO JOSÉ M. BARROS;12.190.665/0001-94;23/09/2010;33000000243;R$ 450,00;Estimado;JUCIMERY MARINHO;33733;Deputado Estadual;PMN;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Governador;12.190.887/0001-07;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 630,00;Estimado;Comitê Financeiro Distrital/Estadual para Governador - PSDC -  / 33733 - JUCIMERY MARINHO - PR - Deputado Estadual;
+Comitê Financeiro Único;12.134.176/0001-15;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;Comitê Financeiro Único - PMN -  / 33733 - JUCIMERY MARINHO - PR - Deputado Estadual;
+Comitê Financeiro Único;29.549.433/0001-82;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;Comitê Financeiro Único - PMN -  / 33733 - JUCIMERY MARINHO - PR - Deputado Estadual;
+EDMILSON MARINHO;569.397.879-68;28/09/2010;       Despesas com pessoal;R$ 560,00;Cheque; -  -  / 33733 - JUCIMERY MARINHO - PR - Deputado Estadual;
+ELEIÇÕES 2010 RICARDO JOSÉ M. BARROS;12.190.665/0001-94;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 450,00;Estimado;111 -  - PP -  - Senador / 33733 - JUCIMERY MARINHO - PR - Deputado Estadual;
+FATIMA ELISABETE MARINHO;491.972.589-20;28/09/2010;       Despesas com pessoal;R$ 560,00;Cheque; -  -  / 33733 - JUCIMERY MARINHO - PR - Deputado Estadual;
+IVO WENDT JUNIOR;403.686.539-00;28/09/2010;       Despesas com pessoal;R$ 560,00;Cheque; -  -  / 33733 - JUCIMERY MARINHO - PR - Deputado Estadual;

@@ -1,3 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ODUVALDO QUEIROZ DA SILVA;107.347.165-91;03/09/2010;50000086982;R$ 698,50;Transferência eletrônica;ODUVALDO QUEIROZ DA SILVA;50999;Deputado Estadual;PSOL;BA;
-ODUVALDO QUEIROZ DA SILVA;107.347.165-91;24/07/2010;50000086981;R$ 3.000,00;Transferência eletrônica;ODUVALDO QUEIROZ DA SILVA;50999;Deputado Estadual;PSOL;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ECONOMIZE VISUAL LTDA ME;11.851.476/0001-52;03/08/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 50999 - ODUVALDO QUEIROZ DA SILVA - BA - Deputado Estadual;
+SUPERGRAF - GRAFICA COMERCIO E SERVIÇOS LTDA;06.006.137/0001-30;03/09/2010;       Publicidade por materiais impressos;R$ 1.450,00;Cheque; -  -  / 50999 - ODUVALDO QUEIROZ DA SILVA - BA - Deputado Estadual;
+50999 - ODUVALDO QUEIROZ DA SILVA - DEPUTADO ESTADUAL;12.171.190/0001-99;30/07/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 1.235,00;Transferência eletrônica;Comitê Financeiro Único - PSOL - BA / 50999 - ODUVALDO QUEIROZ DA SILVA - BA - Deputado Estadual;
+;;30/07/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Débito em conta; -  -  / 50999 - ODUVALDO QUEIROZ DA SILVA - BA - Deputado Estadual;

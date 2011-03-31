@@ -1,8 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELTON CRUVINEL BORGES;107.477.456-68;20/09/2010;50000234604;R$ 20,00;Depósito em espécie;ELTON CRUVINEL BORGES;5090;Deputado Federal;PSOL;MG;
-ELTON CRUVINEL BORGES;107.477.456-68;30/08/2010;50000234601;R$ 350,00;Depósito em espécie;ELTON CRUVINEL BORGES;5090;Deputado Federal;PSOL;MG;
-ELTON CRUVINEL BORGES;107.477.456-68;10/09/2010;50000234603;R$ 90,00;Depósito em espécie;ELTON CRUVINEL BORGES;5090;Deputado Federal;PSOL;MG;
-ELTON CRUVINEL BORGES;107.477.456-68;29/10/2010;50000234607;R$ 150,00;Depósito em espécie;ELTON CRUVINEL BORGES;5090;Deputado Federal;PSOL;MG;
-ELTON CRUVINEL BORGES;107.477.456-68;22/09/2010;50000234605;R$ 20,00;Depósito em espécie;ELTON CRUVINEL BORGES;5090;Deputado Federal;PSOL;MG;
-ELTON CRUVINEL BORGES;107.477.456-68;30/09/2010;50000234606;R$ 150,00;Depósito em espécie;ELTON CRUVINEL BORGES;5090;Deputado Federal;PSOL;MG;
-GERALDO ANTONIO SOUSA;239.008.906-25;01/09/2010;50000234602;R$ 50,00;Depósito em espécie;ELTON CRUVINEL BORGES;5090;Deputado Federal;PSOL;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+COOP AGROPECUARIA DO VALE PARACATU;23.153.943/0008-26;22/09/2010;       Combustíveis e lubrificantes;R$ 19,98;Cheque; -  -  / 5090 - ELTON CRUVINEL BORGES - MG - Deputado Federal;
+COOP AGROPECUARIA DO VALE PARACATU LTDA;23.153.943/0023-65;22/09/2010;       Combustíveis e lubrificantes;R$ 139,57;Cheque; -  -  / 5090 - ELTON CRUVINEL BORGES - MG - Deputado Federal;
+GRAFICA E EDITORA MORRO DO OURO LTDA;70.969.415/0001-53;31/08/2010;       Publicidade por materiais impressos;R$ 160,00;Cheque; -  -  / 5090 - ELTON CRUVINEL BORGES - MG - Deputado Federal;
+GRAFICA E EDITORA MORRO DO OURO LTDA;70.969.415/0001-53;29/10/2010;       Publicidade por materiais impressos;R$ 150,00;Cheque; -  -  / 5090 - ELTON CRUVINEL BORGES - MG - Deputado Federal;
+MARIO PEREIRA MUNDIM;22.409.288/0001-45;10/09/2010;       Publicidade por carros de som;R$ 100,00;Cheque; -  -  / 5090 - ELTON CRUVINEL BORGES - MG - Deputado Federal;
+PARTIDO SOCIALISMO E LIBERDADE ( P-SOL);06.954.942/0006-08;27/10/2010;       Diversas a especificar;R$ 10,43;Transferência eletrônica; -  -  / 5090 - ELTON CRUVINEL BORGES - MG - Deputado Federal;
+POSTO PORTAL DE MINAS II LTDA;08.133.511/0001-93;20/09/2010;       Combustíveis e lubrificantes;R$ 20,00;Cheque; -  -  / 5090 - ELTON CRUVINEL BORGES - MG - Deputado Federal;
+RAFAEL CARVALHO ANDRE ME;03.442.909/0001-98;30/08/2010;       Publicidade por materiais impressos;R$ 230,00;Cheque; -  -  / 5090 - ELTON CRUVINEL BORGES - MG - Deputado Federal;

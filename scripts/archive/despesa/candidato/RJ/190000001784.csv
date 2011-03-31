@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.181.923/0001-76;14/09/2010;28000183119;R$ 150,00;Estimado;FRANCINÉLIO DA FONTE VIEIRA;2808;Deputado Federal;PRTB;RJ;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.181.923/0001-76;30/09/2010;28000183121;R$ 150,00;Estimado;FRANCINÉLIO DA FONTE VIEIRA;2808;Deputado Federal;PRTB;RJ;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.181.923/0001-76;02/09/2010;28000183118;R$ 150,00;Estimado;FRANCINÉLIO DA FONTE VIEIRA;2808;Deputado Federal;PRTB;RJ;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.181.923/0001-76;23/09/2010;28000183120;R$ 150,00;Estimado;FRANCINÉLIO DA FONTE VIEIRA;2808;Deputado Federal;PRTB;RJ;
-PRISCILLA CARLA SIMÕES DA FONTE VIEIRA;107.299.067-95;28/07/2010;28000183117;R$ 580,00;Estimado;FRANCINÉLIO DA FONTE VIEIRA;2808;Deputado Federal;PRTB;RJ;
-VALESKA SIMÕES DA FONTE VIEIRA;299.246.838-03;27/07/2010;28000183116;R$ 723,00;Estimado;FRANCINÉLIO DA FONTE VIEIRA;2808;Deputado Federal;PRTB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual - PMDB -  / 2808 - FRANCINÉLIO DA FONTE VIEIRA - RJ - Deputado Federal;
+Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.181.923/0001-76;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual - PMDB -  / 2808 - FRANCINÉLIO DA FONTE VIEIRA - RJ - Deputado Federal;
+Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.181.923/0001-76;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual - PMDB -  / 2808 - FRANCINÉLIO DA FONTE VIEIRA - RJ - Deputado Federal;
+Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.181.923/0001-76;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual - PMDB -  / 2808 - FRANCINÉLIO DA FONTE VIEIRA - RJ - Deputado Federal;
+PRISCILLA CARLA SIMÕES DA FONTE VIEIRA;107.299.067-95;28/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 580,00;Estimado; -  -  / 2808 - FRANCINÉLIO DA FONTE VIEIRA - RJ - Deputado Federal;
+VALESKA SIMÕES DA FONTE VIEIRA;299.246.838-03;27/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 723,00;Estimado; -  -  / 2808 - FRANCINÉLIO DA FONTE VIEIRA - RJ - Deputado Federal;

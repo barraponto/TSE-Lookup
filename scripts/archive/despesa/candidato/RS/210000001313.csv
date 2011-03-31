@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELIANE CARMANIM LIMA;461.471.010-72;16/07/2010;43001823876;R$ 10,00;Transferência eletrônica;ELIANE CARMANIM LIMA;4319;Deputado Federal;PV;RS;
-ELIANE CARMANIM LIMA;461.471.010-72;05/08/2010;43001823877;R$ 450,00;Depósito em espécie;ELIANE CARMANIM LIMA;4319;Deputado Federal;PV;RS;
-ELIANE CARMANIM LIMA;461.471.010-72;20/10/2010;43001823880;R$ 0,85;Transferência eletrônica;ELIANE CARMANIM LIMA;4319;Deputado Federal;PV;RS;
-HELOISA NEUJAHR;639.324.310-49;22/09/2010;43001823879;R$ 200,00;Transferência eletrônica;ELIANE CARMANIM LIMA;4319;Deputado Federal;PV;RS;
-ODILA CARMANIM LIMA;008.937.650-15;25/08/2010;43001823878;R$ 600,00;Transferência eletrônica;ELIANE CARMANIM LIMA;4319;Deputado Federal;PV;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CLAUDIA REGINA GOMES;554.062.200-63;01/10/2010;       Despesas com pessoal;R$ 335,00;Cheque; -  -  / 4319 - ELIANE CARMANIM LIMA - RS - Deputado Federal;
+GRÁFICA E EDITORA RELÂMPAGO LTDA;02.507.787/0001-08;20/08/2010;       Publicidade por materiais impressos;R$ 465,50;Cheque; -  -  / 4319 - ELIANE CARMANIM LIMA - RS - Deputado Federal;
+GRÁFICA E EDITORA RELÂMPAGO LTDA;02.507.787/0001-08;10/08/2010;       Publicidade por materiais impressos;R$ 390,00;Cheque; -  -  / 4319 - ELIANE CARMANIM LIMA - RS - Deputado Federal;
+PAULO SILVA;615.601.030-00;27/09/2010;       Despesas com transporte ou deslocamento;R$ 70,00;Cheque; -  -  / 4319 - ELIANE CARMANIM LIMA - RS - Deputado Federal;
+;;05/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 4319 - ELIANE CARMANIM LIMA - RS - Deputado Federal;

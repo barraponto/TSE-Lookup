@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.217.585/0001-85;10/09/2010;22000050202;R$ 965,50;Estimado;ANTONIA OLIVEIRA DOS SANTOS;22258;Deputado Estadual;PR;MT;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.217.585/0001-85;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 965,50;Estimado;Comitê Financeiro Único - PR -  / 22258 - ANTONIA OLIVEIRA DOS SANTOS - MT - Deputado Estadual;

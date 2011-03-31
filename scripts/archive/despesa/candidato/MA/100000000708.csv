@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.334/0001-80;09/09/2010;23000119602;R$ 1.500,00;Estimado;JOSE LUIS TEIXEIRA DO LAGO NETO;2333;Deputado Federal;PPS;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.334/0001-80;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado;Comitê Financeiro Único - PPS -  / 2333 - JOSE LUIS TEIXEIRA DO LAGO NETO - MA - Deputado Federal;

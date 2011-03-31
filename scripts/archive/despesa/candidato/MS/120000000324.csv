@@ -1,7 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.221.832/0001-17;10/09/2010;11000156944;R$ 2.434,30;Estimado;RICARDO PASTOR FRANCO;11000;Deputado Estadual;PP;MS;
-Comitê Financeiro Único;12.221.832/0001-17;10/09/2010;11000156943;R$ 627,00;Estimado;RICARDO PASTOR FRANCO;11000;Deputado Estadual;PP;MS;
-DELCIDIO DO AMARAL GOMES;12.167.861/0001-48;03/09/2010;11000156942;R$ 160,00;Estimado;RICARDO PASTOR FRANCO;11000;Deputado Estadual;PP;MS;
-RAIMUNDO NONATO DE CARVALHO;12.203.971/0001-18;23/09/2010;11000156946;R$ 2.000,00;Cheque;RICARDO PASTOR FRANCO;11000;Deputado Estadual;PP;MS;
-RICARDO PASTOR FRANCO;250.847.551-34;20/08/2010;11000156941;R$ 800,00;Depósito em espécie;RICARDO PASTOR FRANCO;11000;Deputado Estadual;PP;MS;
-ROZEMIRA LOPES;029.782.021-49;13/09/2010;11000156945;R$ 200,00;Estimado;RICARDO PASTOR FRANCO;11000;Deputado Estadual;PP;MS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+APARECIDA FERREIRA DE SOUSA;367.228.121-20;28/09/2010;       Despesas com pessoal;R$ 700,00;Cheque; -  -  / 11000 - RICARDO PASTOR FRANCO - MS - Deputado Estadual;
+Comitê Financeiro Único;12.221.832/0001-17;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.434,30;Estimado;Comitê Financeiro Único - PP -  / 11000 - RICARDO PASTOR FRANCO - MS - Deputado Estadual;
+Comitê Financeiro Único;12.221.832/0001-17;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 627,00;Estimado;Comitê Financeiro Único - PP -  / 11000 - RICARDO PASTOR FRANCO - MS - Deputado Estadual;
+DELCIDIO DO AMARAL GOMES;12.167.861/0001-48;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 160,00;Estimado;138 -  - PT -  - Senador / 11000 - RICARDO PASTOR FRANCO - MS - Deputado Estadual;
+LUCIMEIRE CATELAN TEIXEIRA;600.382.331-34;28/09/2010;       Despesas com pessoal;R$ 600,00;Cheque; -  -  / 11000 - RICARDO PASTOR FRANCO - MS - Deputado Estadual;
+LUCIMEIRE CATELAN TEIXEIRA;600.382.331-34;23/08/2010;       Despesas com pessoal;R$ 600,00;Não informado; -  -  / 11000 - RICARDO PASTOR FRANCO - MS - Deputado Estadual;
+MARIA RONDON;592.397.351-00;28/09/2010;       Despesas com pessoal;R$ 700,00;Cheque; -  -  / 11000 - RICARDO PASTOR FRANCO - MS - Deputado Estadual;
+NOEL MARTINS;004.141.661-91;23/08/2010;       Serviços prestados por terceiros;R$ 200,00;Não informado; -  -  / 11000 - RICARDO PASTOR FRANCO - MS - Deputado Estadual;
+ROZEMIRA LOPES;029.782.021-49;13/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado; -  -  / 11000 - RICARDO PASTOR FRANCO - MS - Deputado Estadual;

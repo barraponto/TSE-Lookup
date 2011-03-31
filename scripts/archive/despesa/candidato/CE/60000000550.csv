@@ -1,2 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FRANCISCO RODRIGUES FILHO;212.220.373-00;30/07/2010;14000217451;R$ 10.000,00;Depósito em espécie;FRANCISCO RODRIGUES FILHO;14563;Deputado Estadual;PTB;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO JOSE ALEXANDRA DE MENEZES;792.059.173-20;12/08/2010;       Publicidade por placas, estandartes e faixas;R$ 1.000,00;Cheque; -  -  / 14563 - FRANCISCO RODRIGUES FILHO - CE - Deputado Estadual;
+CRISTIANO SANTIAGO COSTA;04.512.233/0001-24;12/08/2010;       Publicidade por placas, estandartes e faixas;R$ 270,00;Cheque; -  -  / 14563 - FRANCISCO RODRIGUES FILHO - CE - Deputado Estadual;
+CUTMIDIA COMUNICAÇÃO VISUAL;04.232.383/0001-84;03/08/2010;       Publicidade por materiais impressos;R$ 2.490,00;Cheque; -  -  / 14563 - FRANCISCO RODRIGUES FILHO - CE - Deputado Estadual;
+DIEGO NOGUEIRA MORAIS;815.137.553-15;05/08/2010;       Serviços prestados por terceiros;R$ 560,00;Cheque; -  -  / 14563 - FRANCISCO RODRIGUES FILHO - CE - Deputado Estadual;
+F. P. PETRÓLEOLTDA;05.024.078/0001-60;20/09/2010;       Despesas com transporte ou deslocamento;R$ 2.000,00;Cheque; -  -  / 14563 - FRANCISCO RODRIGUES FILHO - CE - Deputado Estadual;
+MOTA ADVOGADOS ASSOCIADOS;04.234.598/0001-34;09/08/2010;       Serviços prestados por terceiros;R$ 1.500,00;Cheque; -  -  / 14563 - FRANCISCO RODRIGUES FILHO - CE - Deputado Estadual;
+PAULO RUFINO DA SILVA;014.985.683-00;27/09/2010;       Serviços prestados por terceiros;R$ 980,00;Cheque; -  -  / 14563 - FRANCISCO RODRIGUES FILHO - CE - Deputado Estadual;
+TECNO INDUSTRIA E COMERCIO DE COMPUTADORES LTDA;07.272.825/0003-76;05/08/2010;       Diversas a especificar;R$ 1.200,00;Cheque; -  -  / 14563 - FRANCISCO RODRIGUES FILHO - CE - Deputado Estadual;

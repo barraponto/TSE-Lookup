@@ -1,4 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JORGE DOS REIS PINHEIRO;12.178.516/0001-00;09/08/2010;10000053853;R$ 173,53;Estimado;OTACILIO FERREIRA LOPO;10787;Deputado Estadual;PRB;GO;
-OTACILIO FERREIRA LOPO;215.151.741-15;09/08/2010;10000053851;R$ 400,00;Depósito em espécie;OTACILIO FERREIRA LOPO;10787;Deputado Estadual;PRB;GO;
-OTACILIO FERREIRA LOPO;215.151.741-15;09/08/2010;10000053852;R$ 3.250,00;Estimado;OTACILIO FERREIRA LOPO;10787;Deputado Estadual;PRB;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO MECANICA MAGALHAES LTDA;02.840.576/0001-92;16/09/2010;       Serviços prestados por terceiros;R$ 160,00;Cheque; -  -  / 10787 - OTACILIO FERREIRA LOPO - GO - Deputado Estadual;
+JORGE DOS REIS PINHEIRO;12.178.516/0001-00;09/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 173,53;Estimado;1010 -  - PRB -  - Deputado Federal / 10787 - OTACILIO FERREIRA LOPO - GO - Deputado Estadual;
+OTACILIO FERREIRA LOPO;215.151.741-15;09/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.250,00;Estimado; -  -  / 10787 - OTACILIO FERREIRA LOPO - GO - Deputado Estadual;
+POSTO MADRI LTDA;04.710.930/0001-90;17/08/2010;       Combustíveis e lubrificantes;R$ 121,51;Cheque; -  -  / 10787 - OTACILIO FERREIRA LOPO - GO - Deputado Estadual;
+POSTO MADRI LTDA;04.710.930/0001-90;27/09/2010;       Combustíveis e lubrificantes;R$ 30,80;Cheque; -  -  / 10787 - OTACILIO FERREIRA LOPO - GO - Deputado Estadual;
+POSTO MADRI LTDA;04.710.930/0001-90;12/08/2010;       Combustíveis e lubrificantes;R$ 68,69;Cheque; -  -  / 10787 - OTACILIO FERREIRA LOPO - GO - Deputado Estadual;
+;;09/08/2010;       Encargos financeiros e taxas bancárias;R$ 19,00;Débito em conta; -  -  / 10787 - OTACILIO FERREIRA LOPO - GO - Deputado Estadual;

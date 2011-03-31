@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.217.560/0001-81;02/08/2010;23000051853;R$ 1.800,00;Estimado;DANIEL SALES DA COSTA;23654;Deputado Estadual;PPS;AM;
-Comitê Financeiro Único;12.217.560/0001-81;02/08/2010;23000051854;R$ 3.180,00;Estimado;DANIEL SALES DA COSTA;23654;Deputado Estadual;PPS;AM;
-DEYVISON COLARES BARRETO;760.715.532-53;12/08/2010;23000051852;R$ 1.000,00;Estimado;DANIEL SALES DA COSTA;23654;Deputado Estadual;PPS;AM;
-FRANCISCO DE JESUS BATISTA CABRAL;229.582.402-82;12/08/2010;23000051851;R$ 1.000,00;Estimado;DANIEL SALES DA COSTA;23654;Deputado Estadual;PPS;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.217.560/0001-81;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.180,00;Estimado;Comitê Financeiro Único - PPS -  / 23654 - DANIEL SALES DA COSTA - AM - Deputado Estadual;
+Comitê Financeiro Único;12.217.560/0001-81;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.800,00;Estimado;Comitê Financeiro Único - PPS -  / 23654 - DANIEL SALES DA COSTA - AM - Deputado Estadual;
+DEYVISON COLARES BARRETO;760.715.532-53;12/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 23654 - DANIEL SALES DA COSTA - AM - Deputado Estadual;
+FRANCISCO DE JESUS BATISTA CABRAL;229.582.402-82;12/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 23654 - DANIEL SALES DA COSTA - AM - Deputado Estadual;

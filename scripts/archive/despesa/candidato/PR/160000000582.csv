@@ -1,6 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;11/08/2010;10000046953;R$ 1.575,00;Estimado;LUCIA ROSA BECKER DOS SANTOS;1012;Deputado Federal;PRB;PR;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;24/09/2010;10000046960;R$ 1.680,00;Transferência eletrônica;LUCIA ROSA BECKER DOS SANTOS;1012;Deputado Federal;PRB;PR;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;16/09/2010;10000046951;R$ 1.250,00;Estimado;LUCIA ROSA BECKER DOS SANTOS;1012;Deputado Federal;PRB;PR;
-CLEUSA REGINA MARTINS;687.598.359-15;13/08/2010;10000046959;R$ 1.000,00;Depósito em espécie;LUCIA ROSA BECKER DOS SANTOS;1012;Deputado Federal;PRB;PR;
-EDSON DA SILVA PRACZYK;12.170.712/0001-38;11/08/2010;10000046952;R$ 645,00;Estimado;LUCIA ROSA BECKER DOS SANTOS;1012;Deputado Federal;PRB;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADAO VICENTE TERNOSKI;588.116.309-59;23/09/2010;       Serviços prestados por terceiros;R$ 162,06;Cheque; -  -  / 1012 - LUCIA ROSA BECKER DOS SANTOS - PR - Deputado Federal;
+APS COM E DISTRIBUIDORA DE COMBUSTIVEIS;06.893.750/0001-16;18/09/2010;       Combustíveis e lubrificantes;R$ 40,00;Cheque; -  -  / 1012 - LUCIA ROSA BECKER DOS SANTOS - PR - Deputado Federal;
+BRASIL TELECOM SA;76.535.764/0001-43;20/09/2010;       Publicidade por telemarketing;R$ 1.000,00;Cheque; -  -  / 1012 - LUCIA ROSA BECKER DOS SANTOS - PR - Deputado Federal;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;11/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.575,00;Estimado;45 -  - PSDB -  - Governador / 1012 - LUCIA ROSA BECKER DOS SANTOS - PR - Deputado Federal;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;16/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.250,00;Estimado;45 -  - PSDB -  - Governador / 1012 - LUCIA ROSA BECKER DOS SANTOS - PR - Deputado Federal;
+EDSON DA SILVA PRACZYK;12.170.712/0001-38;11/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 645,00;Estimado;10123 -  - PRB -  - Deputado Estadual / 1012 - LUCIA ROSA BECKER DOS SANTOS - PR - Deputado Federal;
+LUIZ CARLOS DOS AMARAL;257.918.349-34;30/09/2010;       Serviços prestados por terceiros;R$ 363,00;Cheque; -  -  / 1012 - LUCIA ROSA BECKER DOS SANTOS - PR - Deputado Federal;
+MOACIR JOSE B DOS SANTOS;464.972.699-91;03/09/2010;       Serviços prestados por terceiros;R$ 70,00;Cheque; -  -  / 1012 - LUCIA ROSA BECKER DOS SANTOS - PR - Deputado Federal;
+NILDA ROSA DOS SANTOS RODRIGUES;859.231.769-04;20/09/2010;       Serviços prestados por terceiros;R$ 40,00;Cheque; -  -  / 1012 - LUCIA ROSA BECKER DOS SANTOS - PR - Deputado Federal;
+PAULO ROBERTO SOARES PINTO;015.470.639-63;15/08/2010;       Serviços prestados por terceiros;R$ 1.000,00;Cheque; -  -  / 1012 - LUCIA ROSA BECKER DOS SANTOS - PR - Deputado Federal;
+;;02/10/2010;       Encargos financeiros e taxas bancárias;R$ 4,94;Débito em conta; -  -  / 1012 - LUCIA ROSA BECKER DOS SANTOS - PR - Deputado Federal;

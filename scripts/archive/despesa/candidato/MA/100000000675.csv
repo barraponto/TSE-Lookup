@@ -1,6 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÕES 2010 FLÁVIO DINO DE CASTRO E COSTA GOVERNADOR;12.176.183/0001-80;02/10/2010;65000208255;R$ 675,00;Estimado;REGINALDO NASCIMENTO BATISTA;65900;Deputado Estadual;PC do B;MA;
-REGINALDO NASCIMENTO BATISTA;281.542.583-15;23/09/2010;65000208252;R$ 1.000,00;Depósito em espécie;REGINALDO NASCIMENTO BATISTA;65900;Deputado Estadual;PC do B;MA;
-REGINALDO NASCIMENTO BATISTA;281.542.583-15;28/10/2010;65000208254;R$ 21,60;Transferência eletrônica;REGINALDO NASCIMENTO BATISTA;65900;Deputado Estadual;PC do B;MA;
-REGINALDO NASCIMENTO BATISTA;281.542.583-15;04/08/2010;65000208251;R$ 2.700,00;Depósito em espécie;REGINALDO NASCIMENTO BATISTA;65900;Deputado Estadual;PC do B;MA;
-REGINALDO NASCIMENTO BATISTA;281.542.583-15;24/09/2010;65000208253;R$ 2.400,00;Depósito em espécie;REGINALDO NASCIMENTO BATISTA;65900;Deputado Estadual;PC do B;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALEXANDRE WOUB MOREIRA DOS SANTOS;625.991.433-49;30/09/2010;       Serviços prestados por terceiros;R$ 100,00;Cheque; -  -  / 65900 - REGINALDO NASCIMENTO BATISTA - MA - Deputado Estadual;
+ELEIÇÕES 2010 FLÁVIO DINO DE CASTRO E COSTA GOVERNADOR;12.176.183/0001-80;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 675,00;Estimado;65 -  - PC do B -  - Governador / 65900 - REGINALDO NASCIMENTO BATISTA - MA - Deputado Estadual;
+G. CARLOS NUNES;04.496.308/0001-20;18/09/2010;       Publicidade por materiais impressos;R$ 2.100,00;Cheque; -  -  / 65900 - REGINALDO NASCIMENTO BATISTA - MA - Deputado Estadual;
+M P C DE OLIVEIRA ARTES GRAFICA;07.267.788/0001-46;04/08/2010;       Publicidade por materiais impressos;R$ 1.600,00;Cheque; -  -  / 65900 - REGINALDO NASCIMENTO BATISTA - MA - Deputado Estadual;
+M P C DE OLIVEIRA ARTES GRAFICA;07.267.788/0001-46;29/09/2010;       Publicidade por materiais impressos;R$ 1.500,00;Cheque; -  -  / 65900 - REGINALDO NASCIMENTO BATISTA - MA - Deputado Estadual;
+NILMAR BONFIM PEREIRA;344.621.393-72;10/08/2010;       Produção de jingles, vinhetas e slogans;R$ 810,00;Cheque; -  -  / 65900 - REGINALDO NASCIMENTO BATISTA - MA - Deputado Estadual;
+;;20/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 65900 - REGINALDO NASCIMENTO BATISTA - MA - Deputado Estadual;
+;;06/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 65900 - REGINALDO NASCIMENTO BATISTA - MA - Deputado Estadual;
+;;27/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 65900 - REGINALDO NASCIMENTO BATISTA - MA - Deputado Estadual;
+;;28/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 65900 - REGINALDO NASCIMENTO BATISTA - MA - Deputado Estadual;

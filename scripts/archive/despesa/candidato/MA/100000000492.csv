@@ -1,6 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CLEBER MELO ARAUJO;707.665.333-87;08/09/2010;33000120854;R$ 1.000,00;Depósito em espécie;LUIZ CARLOS TORRES GOMES;33433;Deputado Estadual;PMN;MA;
-DISMABEL DISTRIBUIDORA DE SOROS LTDA;63.571.095/0001-13;12/08/2010;33000120851;R$ 2.500,00;Depósito em espécie;LUIZ CARLOS TORRES GOMES;33433;Deputado Estadual;PMN;MA;
-DISMABEL DISTRIBUIDORA DE SOROS LTDA;63.571.095/0001-13;10/08/2010;33000120853;R$ 500,00;Depósito em espécie;LUIZ CARLOS TORRES GOMES;33433;Deputado Estadual;PMN;MA;
-LUIZ CARLOS TORRES GOMES;346.072.347-53;22/09/2010;33000120856;R$ 2.500,00;Depósito em espécie;LUIZ CARLOS TORRES GOMES;33433;Deputado Estadual;PMN;MA;
-LUIZ CARLOS TORRES GOMES;346.072.347-53;17/09/2010;33000120855;R$ 200,00;Depósito em espécie;LUIZ CARLOS TORRES GOMES;33433;Deputado Estadual;PMN;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+C RIBEIRO DOS REIS;04.015.121/0001-68;30/09/2010;       Combustíveis e lubrificantes;R$ 987,22;Cheque; -  -  / 33433 - LUIZ CARLOS TORRES GOMES - MA - Deputado Estadual;
+C RIBEIRO DOS REIS;04.015.121/0001-68;08/09/2010;       Publicidade por carros de som;R$ 963,43;Cheque; -  -  / 33433 - LUIZ CARLOS TORRES GOMES - MA - Deputado Estadual;
+DAYLONCAR PECAS E ACESSORIOS LTDA;04.934.326/0001-47;31/07/2010;       Combustíveis e lubrificantes;R$ 914,00;Cheque; -  -  / 33433 - LUIZ CARLOS TORRES GOMES - MA - Deputado Estadual;
+ESTER KAMILA COSTA;035.573.943-79;24/09/2010;       Despesas com pessoal;R$ 1.585,00;Cheque; -  -  / 33433 - LUIZ CARLOS TORRES GOMES - MA - Deputado Estadual;
+FILADELF COMERCIO VAREJISTA DE PAPELARIA LTDA;08.306.343/0001-90;12/08/2010;       Publicidade por materiais impressos;R$ 2.250,00;Cheque; -  -  / 33433 - LUIZ CARLOS TORRES GOMES - MA - Deputado Estadual;
+;;14/09/2010;       Impostos, contribuições e taxas;R$ 0,35;Débito em conta; -  -  / 33433 - LUIZ CARLOS TORRES GOMES - MA - Deputado Estadual;

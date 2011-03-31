@@ -1,3 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.205.213/0001-39;28/09/2010;40000207652;R$ 5.000,00;Cheque;FABIO SOSSUR;4020;Deputado Federal;PSB;MG;
-Diretório Estadual/Distrital;12.205.213/0001-39;15/09/2010;40000207651;R$ 3.800,00;Cheque;FABIO SOSSUR;4020;Deputado Federal;PSB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO E TRANSPORTE ALFENENSE LTDA;03.787.578/0001-28;27/09/2010;       Combustíveis e lubrificantes;R$ 500,00;Cheque; -  -  / 4020 - FABIO SOSSUR - MG - Deputado Federal;
+FR ASSESSORIA E CONSULTORIA LTDA;11.706.361/0001-74;28/10/2010;       Serviços prestados por terceiros;R$ 50,00;Cheque; -  -  / 4020 - FABIO SOSSUR - MG - Deputado Federal;
+JANIO CARLOS DE SOUZA CRUZ;25.544.370/0001-10;27/09/2010;       Publicidade por materiais impressos;R$ 1.500,00;Cheque; -  -  / 4020 - FABIO SOSSUR - MG - Deputado Federal;
+JR. PROMOSON LTDA ME;04.190.422/0001-28;30/09/2010;       Publicidade por carros de som;R$ 2.450,00;Cheque; -  -  / 4020 - FABIO SOSSUR - MG - Deputado Federal;
+NEW COMERCIAL SINALIZAÇÃO LTDA;03.663.646/0001-47;27/09/2010;       Publicidade por placas, estandartes e faixas;R$ 1.800,00;Cheque; -  -  / 4020 - FABIO SOSSUR - MG - Deputado Federal;
+PLUG EMPRESA ALFENENSE DE COMUNICAÇÃO LTDA;08.187.506/0001-63;29/09/2010;       Publicidade por placas, estandartes e faixas;R$ 2.500,00;Cheque; -  -  / 4020 - FABIO SOSSUR - MG - Deputado Federal;

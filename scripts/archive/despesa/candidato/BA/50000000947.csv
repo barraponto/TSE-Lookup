@@ -1,8 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADRIANO CARDOSO CAIRES;021.199.695-58;23/09/2010;36000079740;R$ 1.300,00;Depósito em espécie;JOAO ALCIDES REIS DE FREITAS;3600;Deputado Federal;PTC;BA;
-JEAN COSTA RAMALHO;978.054.085-72;22/09/2010;36000079739;R$ 300,00;Depósito em espécie;JOAO ALCIDES REIS DE FREITAS;3600;Deputado Federal;PTC;BA;
-JEAN COSTA RAMALHO;978.054.085-72;23/09/2010;36000079737;R$ 1.000,00;Depósito em espécie;JOAO ALCIDES REIS DE FREITAS;3600;Deputado Federal;PTC;BA;
-JOSÉ DE OLIVEIRA MELO;066.325.485-04;13/09/2010;36000079733;R$ 1.000,00;Depósito em espécie;JOAO ALCIDES REIS DE FREITAS;3600;Deputado Federal;PTC;BA;
-LUCIANA SILVA ANDRADE;024.170.665-30;22/09/2010;36000079735;R$ 700,00;Depósito em espécie;JOAO ALCIDES REIS DE FREITAS;3600;Deputado Federal;PTC;BA;
-LUCIANA SILVA ANDRADE;024.170.665-30;22/09/2010;36000079734;R$ 500,00;Depósito em espécie;JOAO ALCIDES REIS DE FREITAS;3600;Deputado Federal;PTC;BA;
-LUCIANA SILVA ANDRADE;024.170.665-30;22/09/2010;36000079736;R$ 100,00;Depósito em espécie;JOAO ALCIDES REIS DE FREITAS;3600;Deputado Federal;PTC;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+FRUCTUOZO DE OLIVEIRA REIS;647.573.318-00;20/08/2010;       Publicidade por carros de som;R$ 1.000,00;Cheque; -  -  / 3600 - JOAO ALCIDES REIS DE FREITAS - BA - Deputado Federal;
+GIDEVAL DO AMPARO CERQUEIRA;708.090.895-72;03/08/2010;       Serviços prestados por terceiros;R$ 822,61;Cheque; -  -  / 3600 - JOAO ALCIDES REIS DE FREITAS - BA - Deputado Federal;
+JOALDO SANTOS  OLIVEIRA;011.033.815-47;03/09/2010;       Publicidade por placas, estandartes e faixas;R$ 300,00;Cheque; -  -  / 3600 - JOAO ALCIDES REIS DE FREITAS - BA - Deputado Federal;
+NIRACILDES SOUZA MENDES DE CARVALHO;716.160.475-34;16/08/2010;       Publicidade por carros de som;R$ 1.000,00;Cheque; -  -  / 3600 - JOAO ALCIDES REIS DE FREITAS - BA - Deputado Federal;
+WILSON BATISTA DE OLIVEIRA;279.265.915-72;20/08/2010;       Despesas com pessoal;R$ 1.775,29;Cheque; -  -  / 3600 - JOAO ALCIDES REIS DE FREITAS - BA - Deputado Federal;
+;;06/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 3600 - JOAO ALCIDES REIS DE FREITAS - BA - Deputado Federal;
+;;05/10/2010;       Encargos financeiros e taxas bancárias;R$ 1,40;Débito em conta; -  -  / 3600 - JOAO ALCIDES REIS DE FREITAS - BA - Deputado Federal;
+;;07/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 3600 - JOAO ALCIDES REIS DE FREITAS - BA - Deputado Federal;

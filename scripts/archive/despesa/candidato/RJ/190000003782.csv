@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DR LENIN;284.860.727-00;10/08/2010;27000025447;R$ 1.000,00;Cheque;LENIN VALLLIN JACOBINA;27050;Deputado Estadual;PSDC;RJ;
-DR LENIN;284.860.727-00;27/09/2010;27000025450;R$ 20,00;Depósito em espécie;LENIN VALLLIN JACOBINA;27050;Deputado Estadual;PSDC;RJ;
-WASHINGTON REIS;12.189.416/0001-89;20/09/2010;27000025448;R$ 200,00;Estimado;LENIN VALLLIN JACOBINA;27050;Deputado Estadual;PSDC;RJ;
-WASHINGTON REIS;12.189.416/0001-89;20/09/2010;27000025449;R$ 200,00;Estimado;LENIN VALLLIN JACOBINA;27050;Deputado Estadual;PSDC;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ECT EMP. BRAS. CORREIOS E TELEGRAFOS;40.424.608/0001-68;27/09/2010;       Despesas postais;R$ 268,00;Cheque; -  -  / 27050 - LENIN VALLLIN JACOBINA - RJ - Deputado Estadual;
+HIGH FLEX DO BRASIL LTDA;02.781.882/0001-03;10/08/2010;       Publicidade por materiais impressos;R$ 750,00;Cheque; -  -  / 27050 - LENIN VALLLIN JACOBINA - RJ - Deputado Estadual;
+WASHINGTON REIS;12.189.416/0001-89;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;1516 -  - PMDB -  - Deputado Federal / 27050 - LENIN VALLLIN JACOBINA - RJ - Deputado Estadual;
+WASHINGTON REIS;12.189.416/0001-89;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;1516 -  - PMDB -  - Deputado Federal / 27050 - LENIN VALLLIN JACOBINA - RJ - Deputado Estadual;

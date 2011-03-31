@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-WALNEY DA ROCHA CARVALHO;12.178.580/0001-90;27/08/2010;14000130551;R$ 3.250,00;Estimado;DOUGLAS DE POVOA JORDAO;14604;Deputado Estadual;PTB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+WALNEY DA ROCHA CARVALHO;12.178.580/0001-90;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.250,00;Estimado;1400 -  - PTB -  - Deputado Federal / 14604 - DOUGLAS DE POVOA JORDAO - RJ - Deputado Estadual;

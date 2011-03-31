@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANDERSON MAMEDES BRITO;051.837.527-70;26/07/2010;50000390292;R$ 120,00;Estimado;SOLANGE DOS SANTOS PACHECO;5077;Deputado Federal;PSOL;RJ;
-ANDERSON MAMEDES BRITO;051.837.527-70;26/07/2010;50000390293;R$ 1.000,00;Estimado;SOLANGE DOS SANTOS PACHECO;5077;Deputado Federal;PSOL;RJ;
-Comitê Financeiro Único;12.154.856/0001-09;30/10/2010;50000390295;R$ 125,00;Estimado;SOLANGE DOS SANTOS PACHECO;5077;Deputado Federal;PSOL;RJ;
-Comitê Financeiro Único;12.154.856/0001-09;23/07/2010;50000390291;R$ 250,85;Estimado;SOLANGE DOS SANTOS PACHECO;5077;Deputado Federal;PSOL;RJ;
-EDUARDO GOMES DA SILVA;085.054.177-80;30/07/2010;50000390296;R$ 100,00;Estimado;SOLANGE DOS SANTOS PACHECO;5077;Deputado Federal;PSOL;RJ;
-JORGE MILTON TEMER;12.168.390/0001-92;30/09/2010;50000390294;R$ 135,10;Estimado;SOLANGE DOS SANTOS PACHECO;5077;Deputado Federal;PSOL;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANDERSON MAMEDES BRITO;051.837.527-70;26/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 120,00;Estimado; -  -  / 5077 - SOLANGE DOS SANTOS PACHECO - RJ - Deputado Federal;
+ANDERSON MAMEDES BRITO;051.837.527-70;26/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 5077 - SOLANGE DOS SANTOS PACHECO - RJ - Deputado Federal;
+Comitê Financeiro Único;12.154.856/0001-09;30/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 125,00;Estimado;Comitê Financeiro Único - PSOL -  / 5077 - SOLANGE DOS SANTOS PACHECO - RJ - Deputado Federal;
+Comitê Financeiro Único;12.154.856/0001-09;23/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,85;Estimado;Comitê Financeiro Único - PSOL -  / 5077 - SOLANGE DOS SANTOS PACHECO - RJ - Deputado Federal;
+EDUARDO GOMES DA SILVA;085.054.177-80;30/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado; -  -  / 5077 - SOLANGE DOS SANTOS PACHECO - RJ - Deputado Federal;
+JORGE MILTON TEMER;12.168.390/0001-92;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 135,10;Estimado;500 -  - PSOL -  - Senador / 5077 - SOLANGE DOS SANTOS PACHECO - RJ - Deputado Federal;

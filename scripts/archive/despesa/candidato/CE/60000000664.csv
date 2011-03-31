@@ -1,8 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.270.066/0001-80;17/08/2010;21000013206;R$ 500,00;Estimado;MARIA DA NATIVIDADE PINHO BELEM ROCHA;21;Governador;PCB;CE;
-Comitê Financeiro Único;12.270.066/0001-80;28/09/2010;21000013207;R$ 460,00;Estimado;MARIA DA NATIVIDADE PINHO BELEM ROCHA;21;Governador;PCB;CE;
-Comitê Financeiro Único;12.270.066/0001-80;17/08/2010;21000013205;R$ 400,00;Estimado;MARIA DA NATIVIDADE PINHO BELEM ROCHA;21;Governador;PCB;CE;
-Diretório Nacional;01.585.552/0001-71;17/08/2010;21000013204;R$ 266,76;Estimado;MARIA DA NATIVIDADE PINHO BELEM ROCHA;21;Governador;PCB;CE;
-Diretório Nacional;01.585.552/0001-71;20/08/2010;21000013203;R$ 1.420,80;Estimado;MARIA DA NATIVIDADE PINHO BELEM ROCHA;21;Governador;PCB;CE;
-IVAN PINHEIRO;12.198.076/0001-52;22/08/2010;21000013202;R$ 1.420,80;Estimado;MARIA DA NATIVIDADE PINHO BELEM ROCHA;21;Governador;PCB;CE;
-MARIA DA NATIVIDADE PINHO BELÉM ROCHA;051.186.113-34;02/08/2010;21000013201;R$ 300,00;Depósito em espécie;MARIA DA NATIVIDADE PINHO BELEM ROCHA;21;Governador;PCB;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.270.066/0001-80;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;Comitê Financeiro Único - PCB -  / 21 - MARIA DA NATIVIDADE PINHO BELEM ROCHA - CE - Governador;
+Comitê Financeiro Único;12.270.066/0001-80;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 460,00;Estimado;Comitê Financeiro Único - PCB -  / 21 - MARIA DA NATIVIDADE PINHO BELEM ROCHA - CE - Governador;
+Comitê Financeiro Único;12.270.066/0001-80;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado;Comitê Financeiro Único - PCB -  / 21 - MARIA DA NATIVIDADE PINHO BELEM ROCHA - CE - Governador;
+Diretório Nacional;01.585.552/0001-71;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.420,80;Estimado;Direção Nacional - PCB -  / 21 - MARIA DA NATIVIDADE PINHO BELEM ROCHA - CE - Governador;
+Diretório Nacional;01.585.552/0001-71;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 266,76;Estimado;Direção Nacional - PCB -  / 21 - MARIA DA NATIVIDADE PINHO BELEM ROCHA - CE - Governador;
+ELETRIZANTE SERVIÇOS E MANUTENÇÃO;07.749.837/0001-87;28/09/2010;       Produção de jingles, vinhetas e slogans;R$ 20,00;Cheque; -  -  / 21 - MARIA DA NATIVIDADE PINHO BELEM ROCHA - CE - Governador;
+IVAN PINHEIRO;12.198.076/0001-52;22/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.420,80;Estimado;21 -  - PCB -  - Presidente / 21 - MARIA DA NATIVIDADE PINHO BELEM ROCHA - CE - Governador;
+LEITE BASTOS PETRÓLEO LIMITADA;23.533.631/0001-71;02/08/2010;       Combustíveis e lubrificantes;R$ 280,00;Cheque; -  -  / 21 - MARIA DA NATIVIDADE PINHO BELEM ROCHA - CE - Governador;

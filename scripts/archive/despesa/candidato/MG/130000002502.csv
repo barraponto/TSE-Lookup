@@ -1,4 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CLAUDIO PEREIRA SANTOS;006.247.976-86;20/08/2010;43001706753;R$ 900,00;Depósito em espécie;CLÁUDIO PEREIRA SANTOS;43432;Deputado Estadual;PV;MG;
-JOSE FERNANDO APARECIDO DE OLIVEIRA;12.168.802/0001-94;21/09/2010;43001706752;R$ 3.000,00;Transferência eletrônica;CLÁUDIO PEREIRA SANTOS;43432;Deputado Estadual;PV;MG;
-JOSE REINALDO DE LIMA;12.173.656/0001-95;21/09/2010;43001706751;R$ 95,00;Estimado;CLÁUDIO PEREIRA SANTOS;43432;Deputado Estadual;PV;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BOG SERINGRAFIA E GRAFICA LTDA;25.704.610/0001-05;27/09/2010;       Publicidade por materiais impressos;R$ 290,00;Cheque; -  -  / 43432 - CLÁUDIO PEREIRA SANTOS - MG - Deputado Estadual;
+EDOTORA E PAPELARIA TRINDADE LTDA;07.780.689/0001-63;27/08/2010;       Publicidade por materiais impressos;R$ 900,00;Cheque; -  -  / 43432 - CLÁUDIO PEREIRA SANTOS - MG - Deputado Estadual;
+GLAYCIELE MARIA DA SILVA;073.878.626-80;21/09/2010;       Serviços prestados por terceiros;R$ 700,00;Cheque; -  -  / 43432 - CLÁUDIO PEREIRA SANTOS - MG - Deputado Estadual;
+GLAYCIELE MARIA DA SILVA;073.878.626-80;01/10/2010;       Serviços prestados por terceiros;R$ 271,00;Cheque; -  -  / 43432 - CLÁUDIO PEREIRA SANTOS - MG - Deputado Estadual;
+JOSE REINALDO DE LIMA;12.173.656/0001-95;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 95,00;Estimado;4309 -  - PV -  - Deputado Federal / 43432 - CLÁUDIO PEREIRA SANTOS - MG - Deputado Estadual;
+KERLEN MARA GONÇALVES COTA;039.659.346-19;21/09/2010;       Serviços prestados por terceiros;R$ 700,00;Cheque; -  -  / 43432 - CLÁUDIO PEREIRA SANTOS - MG - Deputado Estadual;
+KERLEN MARA GONÇALVES COTA;039.659.346-19;01/10/2010;       Serviços prestados por terceiros;R$ 1.000,00;Cheque; -  -  / 43432 - CLÁUDIO PEREIRA SANTOS - MG - Deputado Estadual;

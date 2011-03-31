@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO CARLOS COTTAS;877.798.467-68;13/08/2010;50000391542;R$ 100,00;Depósito em espécie;ANTONIO CARLOS COTTAS;5030;Deputado Federal;PSOL;RJ;
-ANTONIO CARLOS COTTAS;877.798.467-68;20/08/2010;50000391543;R$ 400,00;Depósito em espécie;ANTONIO CARLOS COTTAS;5030;Deputado Federal;PSOL;RJ;
-ANTONIO CARLOS COTTAS;877.798.467-68;24/08/2010;50000391544;R$ 500,00;Depósito em espécie;ANTONIO CARLOS COTTAS;5030;Deputado Federal;PSOL;RJ;
-ANTONIO CARLOS COTTAS;877.798.467-68;15/09/2010;50000391545;R$ 200,00;Depósito em espécie;ANTONIO CARLOS COTTAS;5030;Deputado Federal;PSOL;RJ;
-Comitê Financeiro Único;12.154.856/0001-09;28/07/2010;50000391541;R$ 60,00;Estimado;ANTONIO CARLOS COTTAS;5030;Deputado Federal;PSOL;RJ;
-Comitê Financeiro Único;12.154.856/0001-09;29/09/2010;50000391546;R$ 62,50;Estimado;ANTONIO CARLOS COTTAS;5030;Deputado Federal;PSOL;RJ;
-JORGE MILTON TEMER;12.168.390/0001-92;30/09/2010;50000391547;R$ 270,20;Estimado;ANTONIO CARLOS COTTAS;5030;Deputado Federal;PSOL;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALL MAX SERVICE LTDA;03.283.301/0001-68;01/09/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 5030 - ANTONIO CARLOS COTTAS - RJ - Deputado Federal;
+ALL MAX SERVICE LTDA;03.283.301/0001-68;31/08/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 5030 - ANTONIO CARLOS COTTAS - RJ - Deputado Federal;
+Comitê Financeiro Único;12.154.856/0001-09;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 62,50;Estimado;Comitê Financeiro Único - PSOL -  / 5030 - ANTONIO CARLOS COTTAS - RJ - Deputado Federal;
+Comitê Financeiro Único;12.154.856/0001-09;28/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 60,00;Estimado;Comitê Financeiro Único - PSOL -  / 5030 - ANTONIO CARLOS COTTAS - RJ - Deputado Federal;
+JORGE MILTON TEMER;12.168.390/0001-92;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 270,20;Estimado;500 -  - PSOL -  - Senador / 5030 - ANTONIO CARLOS COTTAS - RJ - Deputado Federal;
+SHAOVAN GRÁFICA LTDA;28.040.277/0001-67;26/08/2010;       Publicidade por materiais impressos;R$ 220,00;Cheque; -  -  / 5030 - ANTONIO CARLOS COTTAS - RJ - Deputado Federal;
+SHAOVAN GRÁFICA LTDA;28.040.277/0001-67;17/09/2010;       Publicidade por materiais impressos;R$ 98,00;Cheque; -  -  / 5030 - ANTONIO CARLOS COTTAS - RJ - Deputado Federal;

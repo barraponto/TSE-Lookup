@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANGELO MARCIO DE BRITO GARCIA;036.569.017-16;16/08/2010;12000063511;R$ 2.000,00;Cheque;MARIA LEIDE DE OLIVEIRA;12610;Deputado Estadual;PDT;RJ;
-Comitê Financeiro Estadual/Distrital para Governador;12.181.923/0001-76;14/09/2010;12000063512;R$ 150,00;Estimado;MARIA LEIDE DE OLIVEIRA;12610;Deputado Estadual;PDT;RJ;
-Comitê Financeiro Estadual/Distrital para Governador;12.181.923/0001-76;30/09/2010;12000063515;R$ 300,00;Estimado;MARIA LEIDE DE OLIVEIRA;12610;Deputado Estadual;PDT;RJ;
-MARIA LEIDE DE OLIVEIRA;12.198.353/0001-27;08/09/2010;12000063514;R$ 3.000,00;Estimado;MARIA LEIDE DE OLIVEIRA;12610;Deputado Estadual;PDT;RJ;
-;;23/08/2010;;R$ 1.780,00;Não informado;MARIA LEIDE DE OLIVEIRA;12610;Deputado Estadual;PDT;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Governador;12.181.923/0001-76;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Distrital/Estadual para Governador - PMDB -  / 12610 - MARIA LEIDE DE OLIVEIRA - RJ - Deputado Estadual;
+Comitê Financeiro Estadual/Distrital para Governador;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Distrital/Estadual para Governador - PMDB -  / 12610 - MARIA LEIDE DE OLIVEIRA - RJ - Deputado Estadual;
+IMAGEM COMUNICAÇÃO VISUAL LTDA.;05.694.586/0001-55;23/08/2010;       Publicidade por materiais impressos;R$ 1.780,00;Cheque; -  -  / 12610 - MARIA LEIDE DE OLIVEIRA - RJ - Deputado Estadual;
+JORGE ALBERTO PASTORE DE OLVEIRA;530.014.947-00;29/09/2010;       Despesas com transporte ou deslocamento;R$ 220,00;Cheque; -  -  / 12610 - MARIA LEIDE DE OLIVEIRA - RJ - Deputado Estadual;
+MARIA LEIDE DE OLIVEIRA;12.198.353/0001-27;08/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.000,00;Estimado;21610 -  - PCB -  - Deputado Estadual / 12610 - MARIA LEIDE DE OLIVEIRA - RJ - Deputado Estadual;

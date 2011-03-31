@@ -1,9 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.159/0001-39;18/08/2010;14000124953;R$ 761,54;Estimado;LUIS FERNANDO DE MOURA FORTUNATO;14207;Deputado Estadual;PTB;RS;
-Comitê Financeiro Único;12.200.159/0001-39;16/09/2010;14000124958;R$ 138,75;Estimado;LUIS FERNANDO DE MOURA FORTUNATO;14207;Deputado Estadual;PTB;RS;
-Comitê Financeiro Único;12.200.159/0001-39;02/08/2010;14000123420;R$ 562,50;Estimado;LUIS FERNANDO DE MOURA FORTUNATO;14207;Deputado Estadual;PTB;RS;
-Comitê Financeiro Único;12.200.159/0001-39;30/09/2010;14000124959;R$ 126,00;Estimado;LUIS FERNANDO DE MOURA FORTUNATO;14207;Deputado Estadual;PTB;RS;
-Comitê Financeiro Único;12.200.159/0001-39;20/08/2010;14000124955;R$ 180,00;Estimado;LUIS FERNANDO DE MOURA FORTUNATO;14207;Deputado Estadual;PTB;RS;
-Comitê Financeiro Único;12.200.159/0001-39;23/08/2010;14000124954;R$ 292,95;Estimado;LUIS FERNANDO DE MOURA FORTUNATO;14207;Deputado Estadual;PTB;RS;
-LUIS FERNANDO DE MOURA FORTUNATO;423.627.920-72;31/08/2010;14000124956;R$ 300,00;Transferência eletrônica;LUIS FERNANDO DE MOURA FORTUNATO;14207;Deputado Estadual;PTB;RS;
-LUIS FERNANDO DE MOURA FORTUNATO;423.627.920-72;31/08/2010;14000124952;R$ 200,00;Estimado;LUIS FERNANDO DE MOURA FORTUNATO;14207;Deputado Estadual;PTB;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.159/0001-39;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 562,50;Estimado;Comitê Financeiro Único - PTB -  / 14207 - LUIS FERNANDO DE MOURA FORTUNATO - RS - Deputado Estadual;
+Comitê Financeiro Único;12.200.159/0001-39;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 126,00;Estimado;Comitê Financeiro Único - PTB -  / 14207 - LUIS FERNANDO DE MOURA FORTUNATO - RS - Deputado Estadual;
+Comitê Financeiro Único;12.200.159/0001-39;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 180,00;Estimado;Comitê Financeiro Único - PTB -  / 14207 - LUIS FERNANDO DE MOURA FORTUNATO - RS - Deputado Estadual;
+Comitê Financeiro Único;12.200.159/0001-39;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 761,54;Estimado;Comitê Financeiro Único - PTB -  / 14207 - LUIS FERNANDO DE MOURA FORTUNATO - RS - Deputado Estadual;
+Comitê Financeiro Único;12.200.159/0001-39;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 292,95;Estimado;Comitê Financeiro Único - PTB -  / 14207 - LUIS FERNANDO DE MOURA FORTUNATO - RS - Deputado Estadual;
+Comitê Financeiro Único;12.200.159/0001-39;16/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 138,75;Estimado;Comitê Financeiro Único - PTB -  / 14207 - LUIS FERNANDO DE MOURA FORTUNATO - RS - Deputado Estadual;
+FERRAGEM E MATERIAIS DE CONSTRUÇÃO NUNCIO LTDA;07.625.696/0001-90;31/08/2010;       Publicidade por placas, estandartes e faixas;R$ 300,00;Cheque; -  -  / 14207 - LUIS FERNANDO DE MOURA FORTUNATO - RS - Deputado Estadual;
+LUIS FERNANDO DE MOURA FORTUNATO;423.627.920-72;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado; -  -  / 14207 - LUIS FERNANDO DE MOURA FORTUNATO - RS - Deputado Estadual;

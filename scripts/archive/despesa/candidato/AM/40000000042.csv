@@ -1,5 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALFREDO PEREIRA DO NASCIMENTO;12.169.771/0001-96;30/07/2010;12001006946;R$ 2.000,00;Cheque;MADALENA DE SOUZA SILVA;12130;Deputado Estadual;PDT;AM;
-ALFREDO PEREIRA DO NASCIMENTO;12.169.771/0001-96;09/09/2010;12001006948;R$ 2.000,00;Cheque;MADALENA DE SOUZA SILVA;12130;Deputado Estadual;PDT;AM;
-Comitê Financeiro Único;12.156.263/0001-73;21/07/2010;12001006949;R$ 250,00;Estimado;MADALENA DE SOUZA SILVA;12130;Deputado Estadual;PDT;AM;
-JEFFERSON PRAIA BEZERRA;12.171.818/0001-56;23/08/2010;12001006947;R$ 291,20;Estimado;MADALENA DE SOUZA SILVA;12130;Deputado Estadual;PDT;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANDERLEY NUNES TRINADADE;899.232.782-04;13/09/2010;       Locação/cessão de bens móveis;R$ 2.000,00;Cheque; -  -  / 12130 - MADALENA DE SOUZA SILVA - AM - Deputado Estadual;
+Comitê Financeiro Único;12.156.263/0001-73;21/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;Comitê Financeiro Único - PDT -  / 12130 - MADALENA DE SOUZA SILVA - AM - Deputado Estadual;
+CRISTIANO CARRIL DE LIMA;475.721.592-49;13/08/2010;       Publicidade por carros de som;R$ 800,00;Cheque; -  -  / 12130 - MADALENA DE SOUZA SILVA - AM - Deputado Estadual;
+CRISTIANO CARRIL DE LIMA;475.721.592-49;06/08/2010;       Publicidade por carros de som;R$ 600,00;Cheque; -  -  / 12130 - MADALENA DE SOUZA SILVA - AM - Deputado Estadual;
+IDARIO CARLOS SOUZA DA SILVA;647.560.502-63;18/08/2010;       Serviços prestados por terceiros;R$ 100,00;Cheque; -  -  / 12130 - MADALENA DE SOUZA SILVA - AM - Deputado Estadual;
+JEFFERSON PRAIA BEZERRA;12.171.818/0001-56;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 291,20;Estimado;123 -  - PDT -  - Senador / 12130 - MADALENA DE SOUZA SILVA - AM - Deputado Estadual;
+JOÃO LUIZ PINA ESTEVES;259.441.505-72;03/08/2010;       Serviços prestados por terceiros;R$ 500,00;Cheque; -  -  / 12130 - MADALENA DE SOUZA SILVA - AM - Deputado Estadual;

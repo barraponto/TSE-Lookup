@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.372.871/0001-15;31/08/2010;12001701102;R$ 1.320,00;Estimado;OSWALDO DIOMAR;12125;Deputado Estadual;PDT;MG;
-Comitê Financeiro Único;12.372.871/0001-15;21/09/2010;12001701104;R$ 500,00;Cheque;OSWALDO DIOMAR;12125;Deputado Estadual;PDT;MG;
-Comitê Financeiro Único;12.372.871/0001-15;29/07/2010;12001701103;R$ 1.197,84;Estimado;OSWALDO DIOMAR;12125;Deputado Estadual;PDT;MG;
-OSWALDO DIOMAR;007.129.816-91;06/08/2010;12001701101;R$ 280,00;Depósito em espécie;OSWALDO DIOMAR;12125;Deputado Estadual;PDT;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANA PAULA SOUZA SANTOS;995.969.116-00;22/09/2010;       Serviços prestados por terceiros;R$ 500,00;Cheque; -  -  / 12125 - OSWALDO DIOMAR - MG - Deputado Estadual;
+Comitê Financeiro Único;12.372.871/0001-15;29/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.197,84;Estimado;Comitê Financeiro Único - PDT -  / 12125 - OSWALDO DIOMAR - MG - Deputado Estadual;
+Comitê Financeiro Único;12.372.871/0001-15;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.320,00;Estimado;Comitê Financeiro Único - PDT -  / 12125 - OSWALDO DIOMAR - MG - Deputado Estadual;
+GRÁFICA SIDIL LTDA;17.483.587/0001-30;09/08/2010;       Publicidade por materiais impressos;R$ 280,00;Cheque; -  -  / 12125 - OSWALDO DIOMAR - MG - Deputado Estadual;

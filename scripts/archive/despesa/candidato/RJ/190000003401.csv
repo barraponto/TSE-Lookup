@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.147.818/0001-10;01/10/2010;43001510901;R$ 247,55;Estimado;CATIA SOARES ROSADO;43017;Deputado Estadual;PV;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.147.818/0001-10;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 247,55;Estimado;Comitê Financeiro Único - PV -  / 43017 - CATIA SOARES ROSADO - RJ - Deputado Estadual;

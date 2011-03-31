@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.235.327/0001-21;30/09/2010;14000180504;R$ 668,95;Estimado;WILMA MAGALHÃES SOARES;14001;Deputado Distrital;PTB;DF;
-Comitê Financeiro Único;12.235.327/0001-21;22/09/2010;14000180505;R$ 901,00;Estimado;WILMA MAGALHÃES SOARES;14001;Deputado Distrital;PTB;DF;
-Comitê Financeiro Único;12.235.327/0001-21;04/09/2010;14000180503;R$ 591,80;Estimado;WILMA MAGALHÃES SOARES;14001;Deputado Distrital;PTB;DF;
-Comitê Financeiro Único;12.235.327/0001-21;02/09/2010;14000180502;R$ 731,00;Estimado;WILMA MAGALHÃES SOARES;14001;Deputado Distrital;PTB;DF;
-Comitê Financeiro Único;12.235.327/0001-21;23/08/2010;14000180501;R$ 591,80;Estimado;WILMA MAGALHÃES SOARES;14001;Deputado Distrital;PTB;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.235.327/0001-21;22/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 901,00;Estimado;Comitê Financeiro Único - PTB -  / 14001 - WILMA MAGALHÃES SOARES - DF - Deputado Distrital;
+Comitê Financeiro Único;12.235.327/0001-21;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 668,95;Estimado;Comitê Financeiro Único - PTB -  / 14001 - WILMA MAGALHÃES SOARES - DF - Deputado Distrital;
+Comitê Financeiro Único;12.235.327/0001-21;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 591,80;Estimado;Comitê Financeiro Único - PTB -  / 14001 - WILMA MAGALHÃES SOARES - DF - Deputado Distrital;
+Comitê Financeiro Único;12.235.327/0001-21;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 731,00;Estimado;Comitê Financeiro Único - PTB -  / 14001 - WILMA MAGALHÃES SOARES - DF - Deputado Distrital;
+Comitê Financeiro Único;12.235.327/0001-21;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 591,80;Estimado;Comitê Financeiro Único - PTB -  / 14001 - WILMA MAGALHÃES SOARES - DF - Deputado Distrital;

@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;71.585.376/0001-53;09/09/2010;65000207690;R$ 1.500,00;Estimado;JOSÉ ORLANDO MELÔNIO DA SILVA;65054;Deputado Estadual;PC do B;MA;
-FLAVIO DINO CASTRO E COSTA;12.176.183/0001-80;30/09/2010;65000207666;R$ 1.277,00;Estimado;JOSÉ ORLANDO MELÔNIO DA SILVA;65054;Deputado Estadual;PC do B;MA;
-FLAVIO DINO DE CASTRO E COSTA;12.176.183/0001-80;23/09/2010;65000207663;R$ 870,00;Estimado;JOSÉ ORLANDO MELÔNIO DA SILVA;65054;Deputado Estadual;PC do B;MA;
-FLAVIO DINO DE CASTRO E COSTA;12.176.183/0001-80;15/07/2010;65000207667;R$ 1.000,00;Estimado;JOSÉ ORLANDO MELÔNIO DA SILVA;65054;Deputado Estadual;PC do B;MA;
-JOSÉ ORLANDO MELÔNIO DA SILVA;009.770.783-02;15/07/2010;65000207668;R$ 1.000,00;Depósito em espécie;JOSÉ ORLANDO MELÔNIO DA SILVA;65054;Deputado Estadual;PC do B;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;71.585.376/0001-53;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado;Direção Estadual/Distrital - PC do B -  / 65054 - JOSÉ ORLANDO MELÔNIO DA SILVA - MA - Deputado Estadual;
+FLAVIO DINO CASTRO E COSTA;12.176.183/0001-80;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.277,00;Estimado;65 -  - PC do B -  - Governador / 65054 - JOSÉ ORLANDO MELÔNIO DA SILVA - MA - Deputado Estadual;
+FLAVIO DINO DE CASTRO E COSTA;12.176.183/0001-80;15/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;65 -  - PC do B -  - Governador / 65054 - JOSÉ ORLANDO MELÔNIO DA SILVA - MA - Deputado Estadual;
+FLAVIO DINO DE CASTRO E COSTA;12.176.183/0001-80;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 870,00;Estimado;65 -  - PC do B -  - Governador / 65054 - JOSÉ ORLANDO MELÔNIO DA SILVA - MA - Deputado Estadual;
+LUCIVALDO BARROS DA SILVA;601.773.973-57;20/09/2010;       Serviços prestados por terceiros;R$ 1.000,00;Cheque; -  -  / 65054 - JOSÉ ORLANDO MELÔNIO DA SILVA - MA - Deputado Estadual;

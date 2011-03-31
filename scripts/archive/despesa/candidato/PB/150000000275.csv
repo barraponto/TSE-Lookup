@@ -1,7 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.221.889/0001-16;30/08/2010;13000776405;R$ 160,00;Estimado;MARIA LICOR LIRA;13555;Deputado Estadual;PT;PB;
-ELEIÇÃO 2010 JOSÉ TARGINO MARANHÃO GOVERNADOR;12.189.345/0001-14;31/08/2010;13000776406;R$ 523,56;Estimado;MARIA LICOR LIRA;13555;Deputado Estadual;PT;PB;
-ELEIÇÃO 2010 LUIZ ALBUQUERQUE COUTO DEPUTADO FEDERAL;12.189.459/0001-64;23/08/2010;13000776403;R$ 465,00;Estimado;MARIA LICOR LIRA;13555;Deputado Estadual;PT;PB;
-MARIA LICOR LIRA;027.377.874-91;18/08/2010;13000776402;R$ 1.200,00;Depósito em espécie;MARIA LICOR LIRA;13555;Deputado Estadual;PT;PB;
-MARIA LICOR LIRA;027.377.874-91;21/07/2010;13000776401;R$ 300,00;Depósito em espécie;MARIA LICOR LIRA;13555;Deputado Estadual;PT;PB;
-MARIA LICOR LIRA;027.377.874-91;31/08/2010;13000776404;R$ 200,00;Depósito em espécie;MARIA LICOR LIRA;13555;Deputado Estadual;PT;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.221.889/0001-16;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 160,00;Estimado;Comitê Financeiro Único - PT -  / 13555 - MARIA LICOR LIRA - PB - Deputado Estadual;
+ELEIÇÃO 2010 JOSÉ TARGINO MARANHÃO GOVERNADOR;12.189.345/0001-14;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 523,56;Estimado;15 -  - PMDB -  - Governador / 13555 - MARIA LICOR LIRA - PB - Deputado Estadual;
+ELEIÇÃO 2010 LUIZ ALBUQUERQUE COUTO DEPUTADO FEDERAL;12.189.459/0001-64;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 465,00;Estimado;1345 -  - PT -  - Deputado Federal / 13555 - MARIA LICOR LIRA - PB - Deputado Estadual;
+JOSILENE DA SILVA TEIXEIRA;030.678.534-07;03/09/2010;       Serviços prestados por terceiros;R$ 200,00;Cheque; -  -  / 13555 - MARIA LICOR LIRA - PB - Deputado Estadual;
+SCANNER STUDIO GRÁFICO LTDA-ME;00.324.614/0001-29;24/08/2010;       Publicidade por materiais impressos;R$ 1.500,00;Cheque; -  -  / 13555 - MARIA LICOR LIRA - PB - Deputado Estadual;

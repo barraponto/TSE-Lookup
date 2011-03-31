@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;21/09/2010;23000181451;R$ 1.250,00;Estimado;FRANCISCO LOPES CAROLINA;23056;Deputado Estadual;PPS;PR;
-ELEIÇÃO 2010 RUBENS BUENO;12.172.903/0001-39;20/09/2010;23000181458;R$ 57,20;Estimado;FRANCISCO LOPES CAROLINA;23056;Deputado Estadual;PPS;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.250,00;Estimado;45 -  - PSDB -  - Governador / 23056 - FRANCISCO LOPES CAROLINA - PR - Deputado Estadual;
+ELEIÇÃO 2010 RUBENS BUENO;12.172.903/0001-39;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 57,20;Estimado;2300 -  - PPS -  - Deputado Federal / 23056 - FRANCISCO LOPES CAROLINA - PR - Deputado Estadual;

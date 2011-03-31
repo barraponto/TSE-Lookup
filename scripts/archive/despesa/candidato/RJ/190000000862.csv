@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;02/10/2010;12001063665;R$ 300,00;Estimado;LEONARDO SERRI RAMOS;1280;Deputado Federal;PDT;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;02/09/2010;12001063661;R$ 150,00;Estimado;LEONARDO SERRI RAMOS;1280;Deputado Federal;PDT;RJ;
-Comitê Financeiro Único;12.205.322/0001-56;30/09/2010;12001063664;R$ 3.639,86;Estimado;LEONARDO SERRI RAMOS;1280;Deputado Federal;PDT;RJ;
-JORGE SAYED PICCIANI;12.176.626/0001-32;02/09/2010;12001063670;R$ 618,00;Estimado;LEONARDO SERRI RAMOS;1280;Deputado Federal;PDT;RJ;
-JORGE SAYED PICCIANI;12.176.626/0001-32;02/09/2010;12001063662;R$ 1.333,33;Estimado;LEONARDO SERRI RAMOS;1280;Deputado Federal;PDT;RJ;
-JORGE SAYED PICCIANI;12.176.626/0001-32;02/09/2010;12001063663;R$ 17,00;Estimado;LEONARDO SERRI RAMOS;1280;Deputado Federal;PDT;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.322/0001-56;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.639,86;Estimado;Comitê Financeiro Único - PDT -  / 1280 - LEONARDO SERRI RAMOS - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 1280 - LEONARDO SERRI RAMOS - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 1280 - LEONARDO SERRI RAMOS - RJ - Deputado Federal;
+JORGE SAYED PICCIANI;12.176.626/0001-32;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.333,33;Estimado;155 -  - PMDB -  - Senador / 1280 - LEONARDO SERRI RAMOS - RJ - Deputado Federal;
+JORGE SAYED PICCIANI;12.176.626/0001-32;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 1280 - LEONARDO SERRI RAMOS - RJ - Deputado Federal;
+JORGE SAYED PICCIANI;12.176.626/0001-32;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 618,00;Estimado;155 -  - PMDB -  - Senador / 1280 - LEONARDO SERRI RAMOS - RJ - Deputado Federal;

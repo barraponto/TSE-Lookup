@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÕES 2010 ANA JULIA DE VASCONCELOS CAREPA GOVERNADOR;12.171.430/0001-55;30/09/2010;10000058988;R$ 500,00;Estimado;SILVIA BRITO BARBOSA;10500;Deputado Estadual;PRB;PA;
-ELEIÇÕES 2010 ANA JULIA DE VASCONCELOS CAREPA GOVERNADOR;12.171.430/0001-55;30/09/2010;10000058989;R$ 500,00;Estimado;SILVIA BRITO BARBOSA;10500;Deputado Estadual;PRB;PA;
-RAUL BATISTA DE SOUZA;12.214.212/0001-50;02/08/2010;10000058986;R$ 105,00;Estimado;SILVIA BRITO BARBOSA;10500;Deputado Estadual;PRB;PA;
-RAUL BATISTA DE SOUZA;12.214.212/0001-50;02/08/2010;10000058987;R$ 150,00;Estimado;SILVIA BRITO BARBOSA;10500;Deputado Estadual;PRB;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÕES 2010 ANA JULIA DE VASCONCELOS CAREPA GOVERNADOR;12.171.430/0001-55;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;13 -  - PT -  - Governador / 10500 - SILVIA BRITO BARBOSA - PA - Deputado Estadual;
+ELEIÇÕES 2010 ANA JULIA DE VASCONCELOS CAREPA GOVERNADOR;12.171.430/0001-55;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;13 -  - PT -  - Governador / 10500 - SILVIA BRITO BARBOSA - PA - Deputado Estadual;
+RAUL BATISTA DE SOUZA;12.214.212/0001-50;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 105,00;Estimado;1010 -  - PRB -  - Deputado Federal / 10500 - SILVIA BRITO BARBOSA - PA - Deputado Estadual;
+RAUL BATISTA DE SOUZA;12.214.212/0001-50;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;1010 -  - PRB -  - Deputado Federal / 10500 - SILVIA BRITO BARBOSA - PA - Deputado Estadual;

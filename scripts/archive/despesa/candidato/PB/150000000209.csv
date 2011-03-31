@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSE TARGINO MARANHAO;12.189.345/0001-14;24/08/2010;65000236201;R$ 600,00;Estimado;ALEXANDRE CRUZ MESQUITA;65222;Deputado Estadual;PC do B;PB;
-JOSE TARGINO MARANHÃO;12.189.345/0001-14;31/08/2010;65000236202;R$ 523,57;Estimado;ALEXANDRE CRUZ MESQUITA;65222;Deputado Estadual;PC do B;PB;
-MANOEL ALVES DA S JUNIOR;12.190.627/0001-31;06/09/2010;65000236203;R$ 375,00;Estimado;ALEXANDRE CRUZ MESQUITA;65222;Deputado Estadual;PC do B;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JOSE TARGINO MARANHAO;12.189.345/0001-14;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado;15 -  - PMDB -  - Governador / 65222 - ALEXANDRE CRUZ MESQUITA - PB - Deputado Estadual;
+JOSE TARGINO MARANHÃO;12.189.345/0001-14;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 523,57;Estimado;15 -  - PMDB -  - Governador / 65222 - ALEXANDRE CRUZ MESQUITA - PB - Deputado Estadual;
+MANOEL ALVES DA S JUNIOR;12.190.627/0001-31;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 375,00;Estimado;1515 -  - PMDB -  - Deputado Federal / 65222 - ALEXANDRE CRUZ MESQUITA - PB - Deputado Estadual;

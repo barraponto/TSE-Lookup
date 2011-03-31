@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CLOVIS LOPES;337.931.904-04;31/08/2010;10000014802;R$ 275,00;Cheque;CLOVIS LOPES;10222;Deputado Estadual;PRB;PB;
-JOSÉ TARGINO MARANHÃO;12.189.345/0001-14;23/09/2010;10000014804;R$ 523,50;Estimado;CLOVIS LOPES;10222;Deputado Estadual;PRB;PB;
-JOSÉ TARGINO MARANHÃO;12.189.345/0001-14;24/08/2010;10000014801;R$ 150,00;Estimado;CLOVIS LOPES;10222;Deputado Estadual;PRB;PB;
-JUTAY MENESES GOMES;12.190.841/0001-98;14/09/2010;10000014803;R$ 180,00;Estimado;CLOVIS LOPES;10222;Deputado Estadual;PRB;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARIOCA AUTO PEÇAS E ACESSÓRIOS;08.510.811/0001-44;10/08/2010;       Diversas a especificar;R$ 275,00;Cheque; -  -  / 10222 - CLOVIS LOPES - PB - Deputado Estadual;
+JOSÉ TARGINO MARANHÃO;12.189.345/0001-14;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;15 -  - PMDB -  - Governador / 10222 - CLOVIS LOPES - PB - Deputado Estadual;
+JOSÉ TARGINO MARANHÃO;12.189.345/0001-14;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 523,50;Estimado;15 -  - PMDB -  - Governador / 10222 - CLOVIS LOPES - PB - Deputado Estadual;
+JUTAY MENESES GOMES;12.190.841/0001-98;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 180,00;Estimado;10123 -  - PRB -  - Deputado Estadual / 10222 - CLOVIS LOPES - PB - Deputado Estadual;

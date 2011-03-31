@@ -1,7 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-NELSON MARCHEZAN JUNIOR;12.179.253/0001-53;30/09/2010;45000330255;R$ 475,00;Estimado;PAULO FERNANDO BICCA GUIMARÃES;45250;Deputado Estadual;PSDB;RS;
-NELSON MARCHEZAN JUNIOR;12.179.253/0001-53;02/10/2010;45000330254;R$ 3.200,00;Estimado;PAULO FERNANDO BICCA GUIMARÃES;45250;Deputado Estadual;PSDB;RS;
-PAULO FERNANDO BICCA GUIMARAES;240.151.990-49;05/10/2010;45000330251;R$ 1.000,00;Depósito em espécie;PAULO FERNANDO BICCA GUIMARÃES;45250;Deputado Estadual;PSDB;RS;
-PAULO FERNANDO BICCA GUIMARAES;240.151.990-49;07/10/2010;45000330253;R$ 1.500,00;Depósito em espécie;PAULO FERNANDO BICCA GUIMARÃES;45250;Deputado Estadual;PSDB;RS;
-PAULO FERNANDO BICCA GUIMARAES;240.151.990-49;05/10/2010;45000330252;R$ 1.000,00;Depósito em espécie;PAULO FERNANDO BICCA GUIMARÃES;45250;Deputado Estadual;PSDB;RS;
-PAULO FERNANDO BICCA GUIMARAES;240.151.990-49;01/11/2010;45000330256;R$ 477,35;Depósito em espécie;PAULO FERNANDO BICCA GUIMARÃES;45250;Deputado Estadual;PSDB;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ASTERCOIN ASSESSORIA E TERCEIRIZACAO CONTABIL S/S LTDA ME;03.259.593/0001-01;30/09/2010;       Serviços prestados por terceiros;R$ 500,00;Transferência eletrônica; -  -  / 45250 - PAULO FERNANDO BICCA GUIMARÃES - RS - Deputado Estadual;
+BANG IMPRESSAO E PROGRAMACAO VISUAL LTDA;05.454.055/0001-95;09/09/2010;       Publicidade por materiais impressos;R$ 661,00;Cheque; -  -  / 45250 - PAULO FERNANDO BICCA GUIMARÃES - RS - Deputado Estadual;
+GRAFICA SCHUCH LTDA;89.054.613/0001-15;22/09/2010;       Publicidade por materiais impressos;R$ 2.000,00;Cheque; -  -  / 45250 - PAULO FERNANDO BICCA GUIMARÃES - RS - Deputado Estadual;
+NELSON MARCHEZAN JUNIOR;12.179.253/0001-53;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.200,00;Estimado;4545 -  - PSDB -  - Deputado Federal / 45250 - PAULO FERNANDO BICCA GUIMARÃES - RS - Deputado Estadual;
+NELSON MARCHEZAN JUNIOR;12.179.253/0001-53;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 475,00;Estimado;4545 -  - PSDB -  - Deputado Federal / 45250 - PAULO FERNANDO BICCA GUIMARÃES - RS - Deputado Estadual;
+TEMPO GRAFICA LTDA;05.576.187/0001-90;24/09/2010;       Publicidade por materiais impressos;R$ 750,00;Cheque; -  -  / 45250 - PAULO FERNANDO BICCA GUIMARÃES - RS - Deputado Estadual;
+;;30/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 45250 - PAULO FERNANDO BICCA GUIMARÃES - RS - Deputado Estadual;
+;;05/10/2010;       Encargos financeiros e taxas bancárias;R$ 20,50;Débito em conta; -  -  / 45250 - PAULO FERNANDO BICCA GUIMARÃES - RS - Deputado Estadual;
+;;05/10/2010;       Encargos financeiros e taxas bancárias;R$ 20,50;Débito em conta; -  -  / 45250 - PAULO FERNANDO BICCA GUIMARÃES - RS - Deputado Estadual;
+;;01/11/2010;       Encargos financeiros e taxas bancárias;R$ 15,00;Débito em conta; -  -  / 45250 - PAULO FERNANDO BICCA GUIMARÃES - RS - Deputado Estadual;

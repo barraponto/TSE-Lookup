@@ -1,4 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.217.580/0001-52;20/09/2010;44000043051;R$ 1.500,00;Cheque;LUIZA CANDIDA GARCIA LEAL;44300;Deputado Estadual;PRP;MS;
-Comitê Financeiro Único;12.217.580/0001-52;08/09/2010;44000043053;R$ 360,00;Estimado;LUIZA CANDIDA GARCIA LEAL;44300;Deputado Estadual;PRP;MS;
-Comitê Financeiro Único;12.217.580/0001-52;10/09/2010;44000043052;R$ 227,50;Estimado;LUIZA CANDIDA GARCIA LEAL;44300;Deputado Estadual;PRP;MS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.217.580/0001-52;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 227,50;Estimado;Comitê Financeiro Único - PRP -  / 44300 - LUIZA CANDIDA GARCIA LEAL - MS - Deputado Estadual;
+Comitê Financeiro Único;12.217.580/0001-52;08/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Único - PRP -  / 44300 - LUIZA CANDIDA GARCIA LEAL - MS - Deputado Estadual;
+MARLENE VIEIRA SANTOS;338.393.601-53;30/09/2010;       Despesas com pessoal;R$ 400,00;Cheque; -  -  / 44300 - LUIZA CANDIDA GARCIA LEAL - MS - Deputado Estadual;
+MATILDE MARTINS SIQUEIRA;164.769.481-72;30/09/2010;       Despesas com pessoal;R$ 350,00;Cheque; -  -  / 44300 - LUIZA CANDIDA GARCIA LEAL - MS - Deputado Estadual;
+MATILDE MARTINS SIQUEIRA;164.769.481-72;30/09/2010;       Despesas com pessoal;R$ 400,00;Cheque; -  -  / 44300 - LUIZA CANDIDA GARCIA LEAL - MS - Deputado Estadual;
+MAYKEL DOUGLAS VIEIRA MELO;027.959.231-06;30/09/2010;       Despesas com pessoal;R$ 350,00;Cheque; -  -  / 44300 - LUIZA CANDIDA GARCIA LEAL - MS - Deputado Estadual;

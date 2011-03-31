@@ -1,2 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MARIO  CEPA LOPES;825.345.277-20;23/08/2010;44000032381;R$ 750,00;Depósito em espécie;MARIO CEPA LOPES;4410;Deputado Federal;PRP;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADRIANA DE ALBYQUERQUE;055.654.377-76;02/10/2010;       Despesas com pessoal;R$ 32,65;Cheque; -  -  / 4410 - MARIO CEPA LOPES - RJ - Deputado Federal;
+ALEXPELAES SERVIÇOS GRÁFICOS LTDA ME;06.036.887/0001-54;22/09/2010;       Despesas com pessoal;R$ 717,00;Cheque; -  -  / 4410 - MARIO CEPA LOPES - RJ - Deputado Federal;
+;;26/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 4410 - MARIO CEPA LOPES - RJ - Deputado Federal;

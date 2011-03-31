@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 ISRAEL FERNANDES PEREIRA;457.167.494-53;05/08/2010;36000092511;R$ 300,00;Depósito em espécie;ISRAEL FERNANDES PEREIRA;3669;Deputado Federal;PTC;RN;
-ELEIÇÃO 2010 ISRAEL FERNANDES PEREIRA;457.167.494-53;10/09/2010;36000092514;R$ 1.500,00;Estimado;ISRAEL FERNANDES PEREIRA;3669;Deputado Federal;PTC;RN;
-ELEIÇÃO 2010 ISRAEL FERNANDES PEREIRA;457.167.494-53;09/09/2010;36000092512;R$ 800,00;Depósito em espécie;ISRAEL FERNANDES PEREIRA;3669;Deputado Federal;PTC;RN;
-ROSEMBERG CABRAL DE SOUZA;553.428.414-53;10/08/2010;36000092513;R$ 300,00;Estimado;ISRAEL FERNANDES PEREIRA;3669;Deputado Federal;PTC;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CICERO BERNARDINO DE SENA NETO;12.313.762/0001-27;23/08/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 3669 - ISRAEL FERNANDES PEREIRA - RN - Deputado Federal;
+ELEIÇÃO 2010 ISRAEL FERNANDES PEREIRA;457.167.494-53;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado; -  -  / 3669 - ISRAEL FERNANDES PEREIRA - RN - Deputado Federal;
+J P ASSESSORIA E CONSULTORIA CONTABIL;10.457.211/0001-01;30/09/2010;       Serviços prestados por terceiros;R$ 100,00;Cheque; -  -  / 3669 - ISRAEL FERNANDES PEREIRA - RN - Deputado Federal;
+JACIO MOREIRA DE SOUZA ME;24.193.609/0001-92;09/09/2010;       Publicidade por materiais impressos;R$ 800,00;Cheque; -  -  / 3669 - ISRAEL FERNANDES PEREIRA - RN - Deputado Federal;
+ROSEMBERG CABRAL DE SOUZA;553.428.414-53;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 3669 - ISRAEL FERNANDES PEREIRA - RN - Deputado Federal;

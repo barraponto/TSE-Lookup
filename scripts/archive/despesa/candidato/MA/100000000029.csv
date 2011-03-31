@@ -1,6 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO VINICIO AMORIM ARAUJO;564.754.111-91;25/08/2010;36000060753;R$ 2.000,00;Depósito em espécie;JOANICIO AMORIM ARAUJO;3690;Deputado Federal;PTC;MA;
-IVANILDE DE ARAUJO RODRIGUES;401.703.733-04;03/08/2010;36000060751;R$ 2.100,00;Depósito em espécie;JOANICIO AMORIM ARAUJO;3690;Deputado Federal;PTC;MA;
-J. DE A. RODRIGUES;10.731.603/0001-17;10/08/2010;36000060752;R$ 8.500,00;Depósito em espécie;JOANICIO AMORIM ARAUJO;3690;Deputado Federal;PTC;MA;
-JACKSON KEPLER LAGO;12.167.170/0001-44;15/09/2010;36000060755;R$ 2.698,80;Estimado;JOANICIO AMORIM ARAUJO;3690;Deputado Federal;PTC;MA;
-JOANICIO A. ARAUJO;05.664.656/0001-22;25/08/2010;36000060754;R$ 3.000,00;Estimado;JOANICIO AMORIM ARAUJO;3690;Deputado Federal;PTC;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+J. F. MAFRA;07.046.472/0001-24;20/08/2010;       Publicidade por materiais impressos;R$ 2.250,00;Cheque; -  -  / 3690 - JOANICIO AMORIM ARAUJO - MA - Deputado Federal;
+JACKSON KEPLER LAGO;12.167.170/0001-44;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.698,80;Estimado;12 -  - PDT -  - Governador / 3690 - JOANICIO AMORIM ARAUJO - MA - Deputado Federal;
+JOANICIO A. ARAUJO;05.664.656/0001-22;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.000,00;Estimado; -  -  / 3690 - JOANICIO AMORIM ARAUJO - MA - Deputado Federal;
+JOSE ANCHIETA E SILVA SANTOS;005.688.633-05;10/08/2010;       Publicidade por carros de som;R$ 3.000,00;Cheque; -  -  / 3690 - JOANICIO AMORIM ARAUJO - MA - Deputado Federal;
+LOGOMAX SERVIÇOS GRAFICOS LTDA-ME;03.659.082/0002-50;27/07/2010;       Publicidade por materiais impressos;R$ 1.105,00;Cheque; -  -  / 3690 - JOANICIO AMORIM ARAUJO - MA - Deputado Federal;
+RAIMUNDO WENDEL DOS SANTOS SANDES;504.732.633-00;10/08/2010;       Publicidade por carros de som;R$ 3.000,00;Cheque; -  -  / 3690 - JOANICIO AMORIM ARAUJO - MA - Deputado Federal;
+ROBERTO N. SANTOS (POSTO DIZZO);04.663.897/0001-94;02/10/2010;       Combustíveis e lubrificantes;R$ 245,00;Cheque; -  -  / 3690 - JOANICIO AMORIM ARAUJO - MA - Deputado Federal;
+VALTERVI SILVA GALVÃO;334.111.153-00;10/08/2010;       Publicidade por carros de som;R$ 3.000,00;Cheque; -  -  / 3690 - JOANICIO AMORIM ARAUJO - MA - Deputado Federal;

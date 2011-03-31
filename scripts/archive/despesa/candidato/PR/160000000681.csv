@@ -1,7 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.134.176/0001-15;20/09/2010;33000000472;R$ 250,00;Estimado;MARIA APARECIDA LEONEL;3325;Deputado Federal;PMN;PR;
-Comitê Financeiro Único;29.549.433/0001-82;20/09/2010;33000000481;R$ 250,00;Estimado;MARIA APARECIDA LEONEL;3325;Deputado Federal;PMN;PR;
-ELEIÇAO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;17/09/2010;33000000475;R$ 630,00;Estimado;MARIA APARECIDA LEONEL;3325;Deputado Federal;PMN;PR;
-ELEIÇAO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;14/09/2010;33000000473;R$ 500,00;Estimado;MARIA APARECIDA LEONEL;3325;Deputado Federal;PMN;PR;
-ELEIÇAO 2010 RICARDO JOSE MAGALHAES BARROS;12.190.665/0001-94;27/09/2010;33000000476;R$ 450,00;Estimado;MARIA APARECIDA LEONEL;3325;Deputado Federal;PMN;PR;
-ELEIÇAO2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;14/10/2010;33000000477;R$ 1.680,00;Transferência eletrônica;MARIA APARECIDA LEONEL;3325;Deputado Federal;PMN;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADEMIR DE OLIVEIRA;043.503.868-07;27/09/2010;       Despesas com pessoal;R$ 320,00;Cheque; -  -  / 3325 - MARIA APARECIDA LEONEL - PR - Deputado Federal;
+Comitê Financeiro Único;29.549.433/0001-82;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;Comitê Financeiro Único - PMN -  / 3325 - MARIA APARECIDA LEONEL - PR - Deputado Federal;
+Comitê Financeiro Único;12.134.176/0001-15;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;Comitê Financeiro Único - PMN -  / 3325 - MARIA APARECIDA LEONEL - PR - Deputado Federal;
+ELEIÇAO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;45 -  - PSDB -  - Governador / 3325 - MARIA APARECIDA LEONEL - PR - Deputado Federal;
+ELEIÇAO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;17/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 630,00;Estimado;45 -  - PSDB -  - Governador / 3325 - MARIA APARECIDA LEONEL - PR - Deputado Federal;
+ELEIÇAO 2010 RICARDO JOSE MAGALHAES BARROS;12.190.665/0001-94;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 450,00;Estimado;111 -  - PP -  - Senador / 3325 - MARIA APARECIDA LEONEL - PR - Deputado Federal;
+GISLAINE APARECIDA BERTUCCI DE SUOZA;071.023.319-16;28/09/2010;       Despesas com pessoal;R$ 320,00;Cheque; -  -  / 3325 - MARIA APARECIDA LEONEL - PR - Deputado Federal;
+RFS GRAFICA EDITORA;07.812.678/0001-18;27/09/2010;       Publicidade por materiais impressos;R$ 600,00;Transferência eletrônica; -  -  / 3325 - MARIA APARECIDA LEONEL - PR - Deputado Federal;
+ROSIMERI BERTUCCI;090.620.488-70;28/09/2010;       Despesas com pessoal;R$ 300,00;Cheque; -  -  / 3325 - MARIA APARECIDA LEONEL - PR - Deputado Federal;
+3D PRINT LTDA;11.868.547/0001-20;24/09/2010;       Publicidade por materiais impressos;R$ 132,00;Cheque; -  -  / 3325 - MARIA APARECIDA LEONEL - PR - Deputado Federal;

@@ -1,4 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.229.922/0001-54;10/08/2010;20000140401;R$ 360,00;Outros títulos de crédito;MARCO ANTONIO ALVES DA SILVA;20025;Deputado Distrital;PSC;DF;
-Diretório Estadual/Distrital;12.229.922/0001-54;16/08/2010;20000140402;R$ 360,00;Outros títulos de crédito;MARCO ANTONIO ALVES DA SILVA;20025;Deputado Distrital;PSC;DF;
-MARLENE ALVES DA SILVA;373.270.201-44;02/08/2010;20000140404;R$ 250,00;Estimado;MARCO ANTONIO ALVES DA SILVA;20025;Deputado Distrital;PSC;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+MARLENE ALVES DA SILVA;373.270.201-44;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado; -  -  / 20025 - MARCO ANTONIO ALVES DA SILVA - DF - Deputado Distrital;

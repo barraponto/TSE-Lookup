@@ -1,3 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-PERICLES JOSE ELECTO JUNIOR;074.868.537-52;13/09/2010;17000064642;R$ 1.350,00;Depósito em espécie;PERICLES JOSE ELECTO JUNIOR;17890;Deputado Estadual;PSL;RJ;
-PERICLES JOSE ELECTO JUNIOR;074.868.537-52;03/09/2010;17000064641;R$ 1.050,00;Depósito em espécie;PERICLES JOSE ELECTO JUNIOR;17890;Deputado Estadual;PSL;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EDDITORA JORNALISTA ALBERTO S/A;05.844.447/0001-60;03/09/2010;       Publicidade por jornais e revistas;R$ 1.027,00;Transferência eletrônica; -  -  / 17890 - PERICLES JOSE ELECTO JUNIOR - RJ - Deputado Estadual;
+FUNDAÇÃO UNIVERSO;04.027.046/0001-55;13/09/2010;       Publicidade por jornais e revistas;R$ 1.310,40;Transferência eletrônica; -  -  / 17890 - PERICLES JOSE ELECTO JUNIOR - RJ - Deputado Estadual;
+;;03/09/2010;       Encargos financeiros e taxas bancárias;R$ 6,00;Débito em conta; -  -  / 17890 - PERICLES JOSE ELECTO JUNIOR - RJ - Deputado Estadual;
+;;13/09/2010;       Impostos, contribuições e taxas;R$ 13,50;Débito em conta; -  -  / 17890 - PERICLES JOSE ELECTO JUNIOR - RJ - Deputado Estadual;
+;;13/09/2010;       Encargos financeiros e taxas bancárias;R$ 3,00;Débito em conta; -  -  / 17890 - PERICLES JOSE ELECTO JUNIOR - RJ - Deputado Estadual;
+;;03/09/2010;       Impostos, contribuições e taxas;R$ 13,50;Débito em conta; -  -  / 17890 - PERICLES JOSE ELECTO JUNIOR - RJ - Deputado Estadual;

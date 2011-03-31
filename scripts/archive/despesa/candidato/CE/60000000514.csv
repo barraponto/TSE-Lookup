@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.217.614/0001-09;06/09/2010;19000001593;R$ 292,96;Estimado;JESONI GRUSKA BENEVIDES;19200;Deputado Estadual;PTN;CE;
-DANIELE GRUSKA BENEVIDES PRATA;828.101.843-72;01/09/2010;19000001594;R$ 200,00;Estimado;JESONI GRUSKA BENEVIDES;19200;Deputado Estadual;PTN;CE;
-JESONI GRUSKA BENEVIDES;260.997.133-87;29/07/2010;19000001592;R$ 500,00;Depósito em espécie;JESONI GRUSKA BENEVIDES;19200;Deputado Estadual;PTN;CE;
-MARCOGRAF GRAFICA LTDA;02.963.095/0001-74;20/08/2010;19000001591;R$ 172,00;Estimado;JESONI GRUSKA BENEVIDES;19200;Deputado Estadual;PTN;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.217.614/0001-09;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 292,96;Estimado;Comitê Financeiro Único - PTN -  / 19200 - JESONI GRUSKA BENEVIDES - CE - Deputado Estadual;
+DANIELE GRUSKA BENEVIDES PRATA;828.101.843-72;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado; -  -  / 19200 - JESONI GRUSKA BENEVIDES - CE - Deputado Estadual;
+MARCOGRAF GRAFICA LTDA;02.963.095/0001-74;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 172,00;Estimado; -  -  / 19200 - JESONI GRUSKA BENEVIDES - CE - Deputado Estadual;
+MOREIRA E HOLANDA LTDA;41.580.473/0001-92;27/09/2010;       Combustíveis e lubrificantes;R$ 500,00;Cheque; -  -  / 19200 - JESONI GRUSKA BENEVIDES - CE - Deputado Estadual;

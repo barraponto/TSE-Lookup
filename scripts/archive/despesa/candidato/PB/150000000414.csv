@@ -1,7 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.096/0001-10;02/09/2010;33000107088;R$ 250,00;Estimado;DJALMA VARELA BEZERRA;3315;Deputado Federal;PMN;PB;
-DAVIDSON LINS BEZERRA;054.747.064-99;30/09/2010;33000107086;R$ 157,57;Transferência eletrônica;DJALMA VARELA BEZERRA;3315;Deputado Federal;PMN;PB;
-Diretório Nacional;29.549.433/0001-82;24/08/2010;33000107082;R$ 75,00;Estimado;DJALMA VARELA BEZERRA;3315;Deputado Federal;PMN;PB;
-Diretório Nacional;29.549.433/0001-82;24/08/2010;33000107081;R$ 125,00;Estimado;DJALMA VARELA BEZERRA;3315;Deputado Federal;PMN;PB;
-DJALMA VARELA BEZERRA;229.829.574-34;10/09/2010;33000107087;R$ 157,00;Depósito em espécie;DJALMA VARELA BEZERRA;3315;Deputado Federal;PMN;PB;
-JOSE TARGINO MARANHÃO;12.189.345/0001-14;23/09/2010;33000107083;R$ 523,56;Estimado;DJALMA VARELA BEZERRA;3315;Deputado Federal;PMN;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.096/0001-10;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;Comitê Financeiro Único - PMN -  / 3315 - DJALMA VARELA BEZERRA - PB - Deputado Federal;
+Diretório Nacional;29.549.433/0001-82;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 75,00;Estimado;Direção Nacional - PMN -  / 3315 - DJALMA VARELA BEZERRA - PB - Deputado Federal;
+Diretório Nacional;29.549.433/0001-82;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 125,00;Estimado;Direção Nacional - PMN -  / 3315 - DJALMA VARELA BEZERRA - PB - Deputado Federal;
+GIOVANA MIRANDA TEJO DI PACE;010.946.464-82;29/07/2010;       Serviços prestados por terceiros;R$ 307,00;Cheque; -  -  / 3315 - DJALMA VARELA BEZERRA - PB - Deputado Federal;
+JOSE TARGINO MARANHÃO;12.189.345/0001-14;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 523,56;Estimado;15 -  - PMDB -  - Governador / 3315 - DJALMA VARELA BEZERRA - PB - Deputado Federal;

@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FERNANDO ANTONIO MARTINS CARNEIRO;12.198.699/0001-25;28/09/2010;50000288503;R$ 200,00;Estimado;NORMACI BARRETO DURÃES;5012;Deputado Federal;PSOL;PA;
-FERNANDO ANTONIO MARTINS CARNEIRO;12.198.699/0001-25;28/09/2010;50000288504;R$ 100,00;Estimado;NORMACI BARRETO DURÃES;5012;Deputado Federal;PSOL;PA;
-MELO SERVIÇOS DE ARTES GRÁFICAS LTDA;07.143.730/0001-90;02/09/2010;50000288501;R$ 276,00;Estimado;NORMACI BARRETO DURÃES;5012;Deputado Federal;PSOL;PA;
-MELO SERVIÇOS DE ARTES GRÁFICAS LTDA;07.143.730/0001-90;02/09/2010;50000288502;R$ 276,00;Estimado;NORMACI BARRETO DURÃES;5012;Deputado Federal;PSOL;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+FERNANDO ANTONIO MARTINS CARNEIRO;12.198.699/0001-25;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado;50 -  - PSOL -  - Governador / 5012 - NORMACI BARRETO DURÃES - PA - Deputado Federal;
+FERNANDO ANTONIO MARTINS CARNEIRO;12.198.699/0001-25;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;50 -  - PSOL -  - Governador / 5012 - NORMACI BARRETO DURÃES - PA - Deputado Federal;
+MELO SERVIÇOS DE ARTES GRÁFICAS LTDA;07.143.730/0001-90;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 276,00;Estimado; -  -  / 5012 - NORMACI BARRETO DURÃES - PA - Deputado Federal;
+MELO SERVIÇOS DE ARTES GRÁFICAS LTDA;07.143.730/0001-90;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 276,00;Estimado; -  -  / 5012 - NORMACI BARRETO DURÃES - PA - Deputado Federal;

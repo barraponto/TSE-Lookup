@@ -1,7 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.110/0001-86;28/09/2010;12001009147;R$ 5.000,00;Cheque;TEREZINHA DE JESUS NASCIMENTO;12533;Deputado Estadual;PDT;BA;
-JAQUES WAGNER;12.174.245/0001-14;20/09/2010;12001009142;R$ 1.200,00;Estimado;TEREZINHA DE JESUS NASCIMENTO;12533;Deputado Estadual;PDT;BA;
-JAQUES WAGNER;12.174.245/0001-14;20/09/2010;12001009143;R$ 875,00;Estimado;TEREZINHA DE JESUS NASCIMENTO;12533;Deputado Estadual;PDT;BA;
-JAQUES WAGNER;12.174.245/0001-14;20/09/2010;12001009145;R$ 550,00;Estimado;TEREZINHA DE JESUS NASCIMENTO;12533;Deputado Estadual;PDT;BA;
-JAQUES WAGNER;12.174.245/0001-14;20/09/2010;12001009144;R$ 875,00;Estimado;TEREZINHA DE JESUS NASCIMENTO;12533;Deputado Estadual;PDT;BA;
-TEREZINHA DE JESUS NASCIMENTO;287.651.845-72;19/10/2010;12001009148;R$ 3,00;Depósito em espécie;TEREZINHA DE JESUS NASCIMENTO;12533;Deputado Estadual;PDT;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+A.LEMOS  VIAGENS E TURISMO LTDA;01.087.895/0001-06;01/10/2010;       Cessão ou Locação de Veículos;R$ 5.000,00;Cheque; -  -  / 12533 - TEREZINHA DE JESUS NASCIMENTO - BA - Deputado Estadual;
+JAQUES WAGNER;12.174.245/0001-14;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 550,00;Estimado;13 -  - PT -  - Governador / 12533 - TEREZINHA DE JESUS NASCIMENTO - BA - Deputado Estadual;
+JAQUES WAGNER;12.174.245/0001-14;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 875,00;Estimado;13 -  - PT -  - Governador / 12533 - TEREZINHA DE JESUS NASCIMENTO - BA - Deputado Estadual;
+JAQUES WAGNER;12.174.245/0001-14;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.200,00;Estimado;13 -  - PT -  - Governador / 12533 - TEREZINHA DE JESUS NASCIMENTO - BA - Deputado Estadual;
+JAQUES WAGNER;12.174.245/0001-14;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 875,00;Estimado;13 -  - PT -  - Governador / 12533 - TEREZINHA DE JESUS NASCIMENTO - BA - Deputado Estadual;

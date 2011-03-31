@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 ROSALBA CIARLINI ROSADO GOVERNADOR;12.190.097/0001-21;24/09/2010;45000288081;R$ 10.000,00;Estimado;MARCOS MARTINS DE SOUZA;45000;Deputado Estadual;PSDB;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 ROSALBA CIARLINI ROSADO GOVERNADOR;12.190.097/0001-21;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 10.000,00;Estimado;25 -  - DEM -  - Governador / 45000 - MARCOS MARTINS DE SOUZA - RN - Deputado Estadual;

@@ -1,2 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ARNALDO JORDY FIGUEIREDO;12.173.289/0001-20;24/09/2010;23000169721;R$ 2.000,00;Cheque;JAIRO ANTONIO CASTRO NASCIMENTO;23777;Deputado Estadual;PPS;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+COMPUTER STORE COM LTDA;83.383.950/0001-70;29/09/2010;       Materiais de expediente;R$ 15,50;Transferência eletrônica; -  -  / 23777 - JAIRO ANTONIO CASTRO NASCIMENTO - PA - Deputado Estadual;
+FRANCINETE MARIA CABRAL PIRES SOUZA;244.904.902-91;30/09/2010;       Serviços prestados por terceiros;R$ 500,00;Transferência eletrônica; -  -  / 23777 - JAIRO ANTONIO CASTRO NASCIMENTO - PA - Deputado Estadual;
+GIVALDO MIRANDA PASTANA;940.874.282-00;29/09/2010;       Serviços prestados por terceiros;R$ 200,00;Transferência eletrônica; -  -  / 23777 - JAIRO ANTONIO CASTRO NASCIMENTO - PA - Deputado Estadual;
+ICS SILVA;01.047.655/0001-88;01/11/2010;       Materiais de expediente;R$ 8,50;Transferência eletrônica; -  -  / 23777 - JAIRO ANTONIO CASTRO NASCIMENTO - PA - Deputado Estadual;
+J K SERVIÇOS E COM VISUAL LTDA;04.106.122/0001-18;30/09/2010;       Publicidade por materiais impressos;R$ 324,50;Transferência eletrônica; -  -  / 23777 - JAIRO ANTONIO CASTRO NASCIMENTO - PA - Deputado Estadual;
+KATIA REGINA BRITO BORGES;573.739.652-53;29/09/2010;       Serviços prestados por terceiros;R$ 380,00;Transferência eletrônica; -  -  / 23777 - JAIRO ANTONIO CASTRO NASCIMENTO - PA - Deputado Estadual;
+MARCOS SANTOS DE SOUZA;425.396.332-34;28/09/2010;       Serviços prestados por terceiros;R$ 300,00;Transferência eletrônica; -  -  / 23777 - JAIRO ANTONIO CASTRO NASCIMENTO - PA - Deputado Estadual;
+PARA FERROS PROD. METALURGICOS LTDA;00.911.696/0001-08;29/09/2010;       Diversas a especificar;R$ 20,00;Transferência eletrônica; -  -  / 23777 - JAIRO ANTONIO CASTRO NASCIMENTO - PA - Deputado Estadual;
+RUI AUGUSTO FAVACHO TEIXEIRA;319.422.532-49;28/09/2010;       Serviços prestados por terceiros;R$ 250,00;Transferência eletrônica; -  -  / 23777 - JAIRO ANTONIO CASTRO NASCIMENTO - PA - Deputado Estadual;
+;;30/09/2010;       Encargos financeiros e taxas bancárias;R$ 1,50;Débito em conta; -  -  / 23777 - JAIRO ANTONIO CASTRO NASCIMENTO - PA - Deputado Estadual;

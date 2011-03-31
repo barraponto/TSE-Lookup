@@ -1,4 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADAIR FERREIRA;343.513.456-91;20/09/2010;20000000732;R$ 1.200,00;Estimado;UAGLA BELMONT ALVES;2012;Deputado Federal;PSC;AC;
-Comitê Financeiro Único;12.221.849/0001-74;02/08/2010;20000000731;R$ 1.200,00;Cheque;UAGLA BELMONT ALVES;2012;Deputado Federal;PSC;AC;
-VILA ENGENHARIA LTDA;84.490.309/0001-05;20/09/2010;20000000041;R$ 5.000,00;Depósito em espécie;UAGLA BELMONT ALVES;2012;Deputado Federal;PSC;AC;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADAIR FERREIRA;343.513.456-91;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.200,00;Estimado; -  -  / 2012 - UAGLA BELMONT ALVES - AC - Deputado Federal;
+E.N.SANTOS;01.575.860/0001-16;27/09/2010;       Combustíveis e lubrificantes;R$ 500,00;Cheque; -  -  / 2012 - UAGLA BELMONT ALVES - AC - Deputado Federal;
+MAQ SOLLO COM. E REPR. IMP. E EXP. LTDA;00.302.347/0001-99;27/09/2010;       Publicidade por materiais impressos;R$ 3.200,00;Cheque; -  -  / 2012 - UAGLA BELMONT ALVES - AC - Deputado Federal;
+MAQ SOLLO COM. E REPR. IMP. E EXP. LTDA;00.302.347/0001-99;03/08/2010;       Publicidade por materiais impressos;R$ 1.200,00;Cheque; -  -  / 2012 - UAGLA BELMONT ALVES - AC - Deputado Federal;
+MAQ SOLLO COM. E REPR. IMP. E EXP. LTDA;00.302.347/0001-99;10/09/2010;       Publicidade por materiais impressos;R$ 800,00;Cheque; -  -  / 2012 - UAGLA BELMONT ALVES - AC - Deputado Federal;
+MAQ SOLLO COM. E REPR. IMP. E EXP. LTDA;00.302.347/0001-99;25/09/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 2012 - UAGLA BELMONT ALVES - AC - Deputado Federal;

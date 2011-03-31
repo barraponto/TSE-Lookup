@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.229.903/0001-28;28/09/2010;50000246001;R$ 1.000,00;Estimado;NEI BRAGA FERREIRA DA CRUZ;50;Governador;PSOL;MS;
-Diretório Estadual/Distrital;12.229.903/0001-28;28/09/2010;50000246003;R$ 400,00;Estimado;NEI BRAGA FERREIRA DA CRUZ;50;Governador;PSOL;MS;
-Diretório Estadual/Distrital;12.229.903/0001-28;28/09/2010;50000246002;R$ 300,00;Estimado;NEI BRAGA FERREIRA DA CRUZ;50;Governador;PSOL;MS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.229.903/0001-28;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado;Direção Estadual/Distrital - PSOL -  / 50 - NEI BRAGA FERREIRA DA CRUZ - MS - Governador;
+Diretório Estadual/Distrital;12.229.903/0001-28;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;Direção Estadual/Distrital - PSOL -  / 50 - NEI BRAGA FERREIRA DA CRUZ - MS - Governador;
+Diretório Estadual/Distrital;12.229.903/0001-28;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Direção Estadual/Distrital - PSOL -  / 50 - NEI BRAGA FERREIRA DA CRUZ - MS - Governador;

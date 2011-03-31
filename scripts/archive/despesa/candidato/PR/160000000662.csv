@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;01/10/2010;36000072842;R$ 1.680,00;Transferência eletrônica;ELIZEU RIBEIRO DA SILVA;3612;Deputado Federal;PTC;PR;
-ELEIÇÃO 2010 CARLOS ALBERTO RICHAG;12.190.887/0001-07;10/08/2010;36000072841;R$ 630,00;Estimado;ELIZEU RIBEIRO DA SILVA;3612;Deputado Federal;PTC;PR;
-ELEIÇÃO 2010 GUSTAVO BONATO FRUET;12.179.221/0001-58;29/09/2010;36000072844;R$ 20,00;Estimado;ELIZEU RIBEIRO DA SILVA;3612;Deputado Federal;PTC;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 CARLOS ALBERTO RICHAG;12.190.887/0001-07;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 630,00;Estimado;45 -  - PSDB -  - Governador / 3612 - ELIZEU RIBEIRO DA SILVA - PR - Deputado Federal;
+ELEIÇÃO 2010 GUSTAVO BONATO FRUET;12.179.221/0001-58;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 20,00;Estimado;456 -  - PSDB -  - Senador / 3612 - ELIZEU RIBEIRO DA SILVA - PR - Deputado Federal;
+ELIZEU RIBEIROS DA SILVA;545.726.229-49;01/10/2010;       Despesas com pessoal;R$ 1.680,00;Transferência eletrônica; -  -  / 3612 - ELIZEU RIBEIRO DA SILVA - PR - Deputado Federal;

@@ -1,4 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FABRICIO FARIAS CORREA;778.427.400-97;12/08/2010;19000053403;R$ 220,00;Depósito em espécie;FABRÍCIO FARIAS CORRÊA;19000;Deputado Estadual;PTN;RS;
-GISLAINE LEITE LIMA;007.084.890-44;10/08/2010;19000053401;R$ 600,00;Depósito em espécie;FABRÍCIO FARIAS CORRÊA;19000;Deputado Estadual;PTN;RS;
-GISLAINE LEITE LIMA;007.084.890-44;11/08/2010;19000053402;R$ 200,00;Depósito em espécie;FABRÍCIO FARIAS CORRÊA;19000;Deputado Estadual;PTN;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA GRABELLIS;05.373.723/0001-50;19/08/2010;       Publicidade por materiais impressos;R$ 370,00;Não informado; -  -  / 19000 - FABRÍCIO FARIAS CORRÊA - RS - Deputado Estadual;
+PJ-IMPRESSÕES SERIGRÁFICAS;97.056.923/0001-05;16/08/2010;       Publicidade por materiais impressos;R$ 650,00;Não informado; -  -  / 19000 - FABRÍCIO FARIAS CORRÊA - RS - Deputado Estadual;

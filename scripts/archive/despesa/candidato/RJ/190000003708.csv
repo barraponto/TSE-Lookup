@@ -1,6 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MARLUZIA OLIVEIRA DE CASTRO;423.138.057-00;01/09/2010;14000130195;R$ 600,00;Estimado;ADENOR DE CASTRO VIEIRA;14660;Deputado Estadual;PTB;RJ;
-MARLUZIA OLIVEIRA DE CASTRO;423.138.057-00;01/09/2010;14000130196;R$ 500,00;Estimado;ADENOR DE CASTRO VIEIRA;14660;Deputado Estadual;PTB;RJ;
-MARLUZIA OLIVEIRA DE CASTRO;423.138.057-00;27/09/2010;14000130199;R$ 800,00;Cheque;ADENOR DE CASTRO VIEIRA;14660;Deputado Estadual;PTB;RJ;
-MARLUZIA OLIVEIRA DE CASTRO;423.138.057-00;01/09/2010;14000130197;R$ 300,00;Estimado;ADENOR DE CASTRO VIEIRA;14660;Deputado Estadual;PTB;RJ;
-PATRICIA RIBEIRO DA SILVA LEMOS;718.848.237-34;05/09/2010;14000130198;R$ 250,00;Estimado;ADENOR DE CASTRO VIEIRA;14660;Deputado Estadual;PTB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+A. SILVEIRA LETREIROS E TOLDOS - ME;03.417.266/0001-22;29/09/2010;       Publicidade por placas, estandartes e faixas;R$ 300,00;Cheque; -  -  / 14660 - ADENOR DE CASTRO VIEIRA - RJ - Deputado Estadual;
+MARLUZIA OLIVEIRA DE CASTRO;423.138.057-00;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 14660 - ADENOR DE CASTRO VIEIRA - RJ - Deputado Estadual;
+MARLUZIA OLIVEIRA DE CASTRO;423.138.057-00;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 14660 - ADENOR DE CASTRO VIEIRA - RJ - Deputado Estadual;
+MARLUZIA OLIVEIRA DE CASTRO;423.138.057-00;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado; -  -  / 14660 - ADENOR DE CASTRO VIEIRA - RJ - Deputado Estadual;
+NB DE ARARUAMA SERVIÇOS DE ESTAMPARIA LTDA;09.545.656/0001-64;29/09/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 14660 - ADENOR DE CASTRO VIEIRA - RJ - Deputado Estadual;
+PATRICIA RIBEIRO DA SILVA LEMOS;718.848.237-34;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado; -  -  / 14660 - ADENOR DE CASTRO VIEIRA - RJ - Deputado Estadual;

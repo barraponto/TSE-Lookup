@@ -1,9 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTERO PAES DE BARROS NETO;12.189.840/0001-23;04/09/2010;27000045933;R$ 500,00;Estimado;JOSANE MARIA DIAS NASCIMENTO;27027;Deputado Estadual;PSDC;MT;
-Comitê Financeiro Único;12.200.154/0001-06;10/09/2010;27000045932;R$ 1.500,00;Depósito em espécie;JOSANE MARIA DIAS NASCIMENTO;27027;Deputado Estadual;PSDC;MT;
-Comitê Financeiro Único;12.182.454/0001-00;02/10/2010;27000045938;R$ 471,68;Estimado;JOSANE MARIA DIAS NASCIMENTO;27027;Deputado Estadual;PSDC;MT;
-Comitê Financeiro Único;12.200.154/0001-06;25/08/2010;27000045935;R$ 200,00;Estimado;JOSANE MARIA DIAS NASCIMENTO;27027;Deputado Estadual;PSDC;MT;
-Comitê Financeiro Único;12.200.154/0001-06;30/09/2010;27000045936;R$ 420,00;Estimado;JOSANE MARIA DIAS NASCIMENTO;27027;Deputado Estadual;PSDC;MT;
-Comitê Financeiro Único;12.182.454/0001-00;01/10/2010;27000045937;R$ 314,45;Estimado;JOSANE MARIA DIAS NASCIMENTO;27027;Deputado Estadual;PSDC;MT;
-Comitê Financeiro Único;12.205.224/0001-19;30/07/2010;27000045931;R$ 237,50;Estimado;JOSANE MARIA DIAS NASCIMENTO;27027;Deputado Estadual;PSDC;MT;
-Comitê Financeiro Único;12.200.154/0001-06;16/09/2010;27000045934;R$ 1.000,00;Depósito em espécie;JOSANE MARIA DIAS NASCIMENTO;27027;Deputado Estadual;PSDC;MT;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTERO PAES DE BARROS NETO;12.189.840/0001-23;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;455 -  - PSDB -  - Senador / 27027 - JOSANE MARIA DIAS NASCIMENTO - MT - Deputado Estadual;
+Comitê Financeiro Único;12.182.454/0001-00;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 471,68;Estimado;Comitê Financeiro Único - PSDB -  / 27027 - JOSANE MARIA DIAS NASCIMENTO - MT - Deputado Estadual;
+Comitê Financeiro Único;12.182.454/0001-00;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 314,45;Estimado;Comitê Financeiro Único - PSDB -  / 27027 - JOSANE MARIA DIAS NASCIMENTO - MT - Deputado Estadual;
+Comitê Financeiro Único;12.200.154/0001-06;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;Comitê Financeiro Único - PTB -  / 27027 - JOSANE MARIA DIAS NASCIMENTO - MT - Deputado Estadual;
+Comitê Financeiro Único;12.200.154/0001-06;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 420,00;Estimado;Comitê Financeiro Único - PTB -  / 27027 - JOSANE MARIA DIAS NASCIMENTO - MT - Deputado Estadual;
+Comitê Financeiro Único;12.205.224/0001-19;30/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 237,50;Estimado;Comitê Financeiro Único - PSDC -  / 27027 - JOSANE MARIA DIAS NASCIMENTO - MT - Deputado Estadual;
+WELTON DIAS DE SOUZA;474.750.721-34;03/08/2010;       Despesas com pessoal;R$ 2.500,00;Cheque; -  -  / 27027 - JOSANE MARIA DIAS NASCIMENTO - MT - Deputado Estadual;

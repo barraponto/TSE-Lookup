@@ -1,5 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JEFFERSON DA SILVA FRAGA;937.911.000-68;10/09/2010;50000480354;R$ 200,00;Depósito em espécie;JEFFERSON FRAGA DA SILVA;5005;Deputado Federal;PSOL;RS;
-JOSE ALVARO MACIEL GUTERRES;289.783.150-20;31/08/2010;50000480351;R$ 300,00;Cheque;JEFFERSON FRAGA DA SILVA;5005;Deputado Federal;PSOL;RS;
-LUIZ CARLOS ALVES MOREIRA;214.270.030-68;10/09/2010;50000480352;R$ 500,00;Cheque;JEFFERSON FRAGA DA SILVA;5005;Deputado Federal;PSOL;RS;
-MICHELANGELO PETRUZZELLIS;352.769.910-49;30/08/2010;50000480353;R$ 400,00;Cheque;JEFFERSON FRAGA DA SILVA;5005;Deputado Federal;PSOL;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DAUGE MATERIAIS DE CONSTRUÇÃO ZONA SUL LTDA;02.447.162/0001-06;08/09/2010;       Diversas a especificar;R$ 281,30;Cheque; -  -  / 5005 - JEFFERSON FRAGA DA SILVA - RS - Deputado Federal;
+GIOVANNY FRAGA DA SILVA;09.498.534/0001-64;21/09/2010;       Publicidade por materiais impressos;R$ 890,00;Cheque; -  -  / 5005 - JEFFERSON FRAGA DA SILVA - RS - Deputado Federal;
+WOLNEY GOMES;815.766.920-00;28/09/2010;       Publicidade por carros de som;R$ 220,00;Cheque; -  -  / 5005 - JEFFERSON FRAGA DA SILVA - RS - Deputado Federal;

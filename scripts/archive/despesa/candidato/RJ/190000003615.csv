@@ -1,9 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALGUSTO MARTINS FERREIRA NETO;307.408.007-87;01/08/2010;50000390201;R$ 80,00;Estimado;CRISTOVAO GONCALVES FREIRE;50134;Deputado Estadual;PSOL;RJ;
-Comitê Financeiro Único;12.154.856/0001-09;29/09/2010;50000390206;R$ 62,50;Estimado;CRISTOVAO GONCALVES FREIRE;50134;Deputado Estadual;PSOL;RJ;
-Comitê Financeiro Único;12.154.856/0001-09;03/08/2010;50000390205;R$ 125,43;Estimado;CRISTOVAO GONCALVES FREIRE;50134;Deputado Estadual;PSOL;RJ;
-CRISTOVÃO GONÇALVES FREIRE;422.767.307-06;12/08/2010;50000390203;R$ 700,00;Depósito em espécie;CRISTOVAO GONCALVES FREIRE;50134;Deputado Estadual;PSOL;RJ;
-CRISTOVÃO GONÇALVES FREIRE;422.767.307-06;14/10/2010;50000390208;R$ 123,50;Depósito em espécie;CRISTOVAO GONCALVES FREIRE;50134;Deputado Estadual;PSOL;RJ;
-LEDA GONÇALVES DA SILVA;504.286.837-20;23/09/2010;50000390207;R$ 800,00;Depósito em espécie;CRISTOVAO GONCALVES FREIRE;50134;Deputado Estadual;PSOL;RJ;
-RIO GRAPH;02.054.520/0001-02;23/07/2010;50000390202;R$ 435,00;Estimado;CRISTOVAO GONCALVES FREIRE;50134;Deputado Estadual;PSOL;RJ;
-SANDRA HELENA CORREIA FELIX DA SILVA;987.076.557-20;30/08/2010;50000390204;R$ 100,00;Estimado;CRISTOVAO GONCALVES FREIRE;50134;Deputado Estadual;PSOL;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALGUSTO MARTINS FERREIRA NETO;307.408.007-87;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 80,00;Estimado; -  -  / 50134 - CRISTOVAO GONCALVES FREIRE - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.154.856/0001-09;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 62,50;Estimado;Comitê Financeiro Único - PSOL -  / 50134 - CRISTOVAO GONCALVES FREIRE - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.154.856/0001-09;03/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 125,43;Estimado;Comitê Financeiro Único - PSOL -  / 50134 - CRISTOVAO GONCALVES FREIRE - RJ - Deputado Estadual;
+EMPRESA BRASILEIRA DE CORREIS E TELEGRAFOS;32.201.568/0001-67;12/08/2010;       Despesas postais;R$ 56,00;Transferência eletrônica; -  -  / 50134 - CRISTOVAO GONCALVES FREIRE - RJ - Deputado Estadual;
+PROJET DIGITAL IMPRESSÕES E SERVIÇOS LTDA;09.088.046/0001-89;17/09/2010;       Publicidade por materiais impressos;R$ 262,50;Transferência eletrônica; -  -  / 50134 - CRISTOVAO GONCALVES FREIRE - RJ - Deputado Estadual;
+RIO GRAPH;02.054.520/0001-02;23/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 435,00;Estimado; -  -  / 50134 - CRISTOVAO GONCALVES FREIRE - RJ - Deputado Estadual;
+RIO GRAPH;02.054.520/0001-02;30/09/2010;       Publicidade por materiais impressos;R$ 1.305,00;Transferência eletrônica; -  -  / 50134 - CRISTOVAO GONCALVES FREIRE - RJ - Deputado Estadual;
+SANDRA HELENA CORREIA FELIX DA SILVA;987.076.557-20;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado; -  -  / 50134 - CRISTOVAO GONCALVES FREIRE - RJ - Deputado Estadual;

@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.154.856/0001-09;21/07/2010;50000391411;R$ 180,00;Estimado;MOISES VITORINO NEVES DA SILVA;50128;Deputado Estadual;PSOL;RJ;
-Comitê Financeiro Único;12.154.856/0001-09;29/09/2010;50000391414;R$ 62,50;Estimado;MOISES VITORINO NEVES DA SILVA;50128;Deputado Estadual;PSOL;RJ;
-MOISES VITORINO NEVES DA SILVA;081.169.637-59;30/08/2010;50000391412;R$ 500,00;Cheque;MOISES VITORINO NEVES DA SILVA;50128;Deputado Estadual;PSOL;RJ;
-MOISES VITORINO NEVES DA SILVA;081.169.637-59;20/09/2010;50000391413;R$ 250,00;Depósito em espécie;MOISES VITORINO NEVES DA SILVA;50128;Deputado Estadual;PSOL;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.154.856/0001-09;21/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 180,00;Estimado;Comitê Financeiro Único - PSOL -  / 50128 - MOISES VITORINO NEVES DA SILVA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.154.856/0001-09;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 62,50;Estimado;Comitê Financeiro Único - PSTU -  / 50128 - MOISES VITORINO NEVES DA SILVA - RJ - Deputado Estadual;
+GRAFICA ANAMAR LTDA;03.312.935/0001-00;30/08/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 50128 - MOISES VITORINO NEVES DA SILVA - RJ - Deputado Estadual;
+GRAFICA ANAMAR LTDA;03.312.935/0001-00;21/09/2010;       Publicidade por materiais impressos;R$ 250,00;Cheque; -  -  / 50128 - MOISES VITORINO NEVES DA SILVA - RJ - Deputado Estadual;

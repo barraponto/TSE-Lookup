@@ -1,8 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADONILSON LIMA;676.757.603-44;28/10/2010;65000200027;R$ 100,70;Depósito em espécie;ADONILSON LIMA;651;Senador;PC do B;MA;
-ADONILSON LIMA;676.757.603-44;14/10/2010;65000200026;R$ 950,00;Depósito em espécie;ADONILSON LIMA;651;Senador;PC do B;MA;
-ADONILSON LIMA;676.757.603-44;03/08/2010;65000200021;R$ 130,00;Depósito em espécie;ADONILSON LIMA;651;Senador;PC do B;MA;
-Diretório Estadual/Distrital;71.585.376/0001-53;09/09/2010;65000200024;R$ 6.750,00;Estimado;ADONILSON LIMA;651;Senador;PC do B;MA;
-MARIA DO CARMO DA SILVA BARBOSA LIMA;403.090.533-15;09/09/2010;65000200023;R$ 1.060,00;Depósito em espécie;ADONILSON LIMA;651;Senador;PC do B;MA;
-MARIA DO CARMO DA SILVA BARBOSA LIMA;403.090.533-15;23/08/2010;65000200022;R$ 300,00;Depósito em espécie;ADONILSON LIMA;651;Senador;PC do B;MA;
-MARIA DO CARMO DA SILVA BARBOSA LIMA;403.090.533-15;14/09/2010;65000200025;R$ 160,00;Depósito em espécie;ADONILSON LIMA;651;Senador;PC do B;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;71.585.376/0001-53;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 6.750,00;Estimado;Direção Estadual/Distrital - PC do B -  / 651 - ADONILSON LIMA - MA - Senador;
+GRAFICA E EDITORA MALEI LTDA;23.429.806/0001-03;09/09/2010;       Publicidade por materiais impressos;R$ 1.090,00;Cheque; -  -  / 651 - ADONILSON LIMA - MA - Senador;
+GRAFICA E EDITORA MALEI LTDA;23.429.806/0001-03;04/10/2010;       Publicidade por materiais impressos;R$ 1.090,00;Cheque; -  -  / 651 - ADONILSON LIMA - MA - Senador;
+M P C DE OLIVEIRA ARTES GRÁFICA;07.267.788/0001-46;22/08/2010;       Publicidade por materiais impressos;R$ 240,00;Cheque; -  -  / 651 - ADONILSON LIMA - MA - Senador;
+M P C DE OLIVEIRA ARTES GRÁFICA;07.267.788/0001-46;03/08/2010;       Publicidade por materiais impressos;R$ 130,00;Cheque; -  -  / 651 - ADONILSON LIMA - MA - Senador;
+M P C DE OLIVEIRA ARTES GRÁFICA;07.267.788/0001-46;14/09/2010;       Publicidade por materiais impressos;R$ 150,00;Cheque; -  -  / 651 - ADONILSON LIMA - MA - Senador;
+;;22/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 651 - ADONILSON LIMA - MA - Senador;
+;;04/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 651 - ADONILSON LIMA - MA - Senador;

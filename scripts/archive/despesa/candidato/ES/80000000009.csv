@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ARILDO ELEZIARIO;845.837.387-49;15/09/2010;11000167761;R$ 30,00;Depósito em espécie;ARILDO ELEZIÁRIO;11122;Deputado Estadual;PP;ES;
-ELEIÇÃO 2010 JOSE REANTO CSAGRANDE GOVERNADOR;12.179.825/0001-02;01/10/2010;11000167765;R$ 225,00;Estimado;ARILDO ELEZIÁRIO;11122;Deputado Estadual;PP;ES;
-ELEIÇÃO 2010 JOSE REANTO CSAGRANDE GOVERNADOR;12.179.825/0001-02;01/10/2010;11000167764;R$ 131,22;Estimado;ARILDO ELEZIÁRIO;11122;Deputado Estadual;PP;ES;
-ELEIÇÃO 2010 JOSE REANTO CSAGRANDE GOVERNADOR;12.179.825/0001-02;01/10/2010;11000167762;R$ 330,03;Estimado;ARILDO ELEZIÁRIO;11122;Deputado Estadual;PP;ES;
-ELEIÇÃO 2010 JOSE REANTO CSAGRANDE GOVERNADOR;12.179.825/0001-02;01/10/2010;11000167766;R$ 146,23;Estimado;ARILDO ELEZIÁRIO;11122;Deputado Estadual;PP;ES;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 JOSE REANTO CSAGRANDE GOVERNADOR;12.179.825/0001-02;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 225,00;Estimado;40 -  - PSB -  - Governador / 11122 - ARILDO ELEZIÁRIO - ES - Deputado Estadual;
+ELEIÇÃO 2010 JOSE REANTO CSAGRANDE GOVERNADOR;12.179.825/0001-02;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 330,03;Estimado;40 -  - PSB -  - Governador / 11122 - ARILDO ELEZIÁRIO - ES - Deputado Estadual;
+ELEIÇÃO 2010 JOSE REANTO CSAGRANDE GOVERNADOR;12.179.825/0001-02;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 131,22;Estimado;40 -  - PSB -  - Governador / 11122 - ARILDO ELEZIÁRIO - ES - Deputado Estadual;
+ELEIÇÃO 2010 JOSE REANTO CSAGRANDE GOVERNADOR;12.179.825/0001-02;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 146,23;Estimado;40 -  - PSB -  - Governador / 11122 - ARILDO ELEZIÁRIO - ES - Deputado Estadual;
+GRAFICA SANTO ANTONIO LTDA;28.156.297/0001-06;15/09/2010;       Publicidade por materiais impressos;R$ 30,00;Cheque; -  -  / 11122 - ARILDO ELEZIÁRIO - ES - Deputado Estadual;

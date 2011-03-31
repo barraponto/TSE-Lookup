@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-EVA ELIANA RAMOS GOUVEIA;12.204.838/0001-86;02/09/2010;45000433140;R$ 1.440,00;Estimado;RÔMULO JOSÉ DE GOUVEIA;40;Vice-Governador;PSDB;PB;
-EVA ELIANA RAMOS GOUVEIA;12.204.838/0001-86;29/07/2010;45000433139;R$ 3.620,00;Estimado;RÔMULO JOSÉ DE GOUVEIA;40;Vice-Governador;PSDB;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EVA ELIANA RAMOS GOUVEIA;12.204.838/0001-86;29/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.620,00;Estimado;19789 -  - PTN -  - Deputado Estadual / 40 - RÔMULO JOSÉ DE GOUVEIA - PB - Vice-Governador;
+EVA ELIANA RAMOS GOUVEIA;12.204.838/0001-86;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.440,00;Estimado;19789 -  - PTN -  - Deputado Estadual / 40 - RÔMULO JOSÉ DE GOUVEIA - PB - Vice-Governador;

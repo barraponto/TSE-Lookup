@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 COMITE FINANCEIRO UNICO PMDB;12.181.923/0001-76;25/08/2010;31000025125;R$ 150,00;Estimado;MARCO ANTONIO OLIVEIRA SILVA;31015;Deputado Estadual;PHS;RJ;
-ELEIÇÃO 2010 JORGE SAYED PICCIANI;12.176.626/0001-32;01/10/2010;31000025126;R$ 89,20;Estimado;MARCO ANTONIO OLIVEIRA SILVA;31015;Deputado Estadual;PHS;RJ;
-ELEIÇAO 2010 JORGE SAYED PICCIANI SENADOR;12.176.626/0001-32;01/09/2010;31000025124;R$ 17,00;Estimado;MARCO ANTONIO OLIVEIRA SILVA;31015;Deputado Estadual;PHS;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 COMITE FINANCEIRO UNICO PMDB;12.181.923/0001-76;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;15 -  - PMDB -  - Governador / 31015 - MARCO ANTONIO OLIVEIRA SILVA - RJ - Deputado Estadual;
+ELEIÇÃO 2010 JORGE SAYED PICCIANI;12.176.626/0001-32;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 89,20;Estimado;155 -  - PMDB -  - Senador / 31015 - MARCO ANTONIO OLIVEIRA SILVA - RJ - Deputado Estadual;
+ELEIÇAO 2010 JORGE SAYED PICCIANI SENADOR;12.176.626/0001-32;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 31015 - MARCO ANTONIO OLIVEIRA SILVA - RJ - Deputado Estadual;

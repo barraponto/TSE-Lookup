@@ -1,6 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-EDIMILSON SANTOS VIANA;457.814.606-59;01/09/2010;43001713051;R$ 400,00;Depósito em espécie;EDIMILSON SANTOS VIANA;4356;Deputado Federal;PV;MG;
-EDIMILSON SANTOS VIANA;457.814.606-59;28/09/2010;43001713052;R$ 300,00;Depósito em espécie;EDIMILSON SANTOS VIANA;4356;Deputado Federal;PV;MG;
-EDIMILSON SANTOS VIANA;457.814.606-59;03/10/2010;43001713055;R$ 50,00;Depósito em espécie;EDIMILSON SANTOS VIANA;4356;Deputado Federal;PV;MG;
-EDIMILSON SANTOS VIANA;457.814.606-59;03/10/2010;43001713054;R$ 250,00;Depósito em espécie;EDIMILSON SANTOS VIANA;4356;Deputado Federal;PV;MG;
-EDIMILSON SANTOS VIANA;457.814.606-59;03/10/2010;43001713053;R$ 200,00;Depósito em espécie;EDIMILSON SANTOS VIANA;4356;Deputado Federal;PV;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARTES GRÁFICAS ZAMPIER LTDA. ME;00.346.261/0001-68;02/09/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 4356 - EDIMILSON SANTOS VIANA - MG - Deputado Federal;
+COSTA REIS PLACAS E LETREIROS LTDA. - ME;10.464.438/0001-84;01/10/2010;       Publicidade por placas, estandartes e faixas;R$ 100,00;Cheque; -  -  / 4356 - EDIMILSON SANTOS VIANA - MG - Deputado Federal;
+TUPÃ COMUNICAÇÕES E MARKETING LTDA. - ME;11.828.652/0001-35;21/10/2010;       Publicidade por jornais e revistas;R$ 700,00;Cheque; -  -  / 4356 - EDIMILSON SANTOS VIANA - MG - Deputado Federal;

@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.262.844/0001-90;29/09/2010;31000047982;R$ 1.500,00;Estimado;IZABEL CRISTINE DANTAS;31987;Deputado Estadual;PHS;RN;
-Comitê Financeiro Único;12.200.151/0001-72;01/10/2010;31000047984;R$ 100,00;Estimado;IZABEL CRISTINE DANTAS;31987;Deputado Estadual;PHS;RN;
-Comitê Financeiro Único;12.200.151/0001-72;30/09/2010;31000047983;R$ 500,00;Estimado;IZABEL CRISTINE DANTAS;31987;Deputado Estadual;PHS;RN;
-IZABEL CRISTINE DANTAS;052.062.014-30;28/10/2010;31000047981;R$ 350,00;Depósito em espécie;IZABEL CRISTINE DANTAS;31987;Deputado Estadual;PHS;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ABDIAS DANTAS NETO ME;70.159.272/0001-14;30/09/2010;       Publicidade por materiais impressos;R$ 350,00;Transferência eletrônica; -  -  / 31987 - IZABEL CRISTINE DANTAS - RN - Deputado Estadual;
+Comitê Financeiro Único;12.200.151/0001-72;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;Comitê Financeiro Único - PHS -  / 31987 - IZABEL CRISTINE DANTAS - RN - Deputado Estadual;
+Comitê Financeiro Único;12.262.844/0001-90;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado;Comitê Financeiro Único - PSB -  / 31987 - IZABEL CRISTINE DANTAS - RN - Deputado Estadual;
+Comitê Financeiro Único;12.200.151/0001-72;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado;Comitê Financeiro Único - PHS -  / 31987 - IZABEL CRISTINE DANTAS - RN - Deputado Estadual;

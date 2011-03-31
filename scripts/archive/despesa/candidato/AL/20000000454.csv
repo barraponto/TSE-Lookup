@@ -1,3 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Senador da República;12.205.253/0001-80;29/07/2010;15000191751;R$ 25.000,00;Cheque;FRANCISCO DE SOUZA IRMAO;15333;Deputado Estadual;PMDB;AL;
-Comitê Financeiro Único;12.205.253/0001-80;06/09/2010;15000191752;R$ 25.000,00;Cheque;FRANCISCO DE SOUZA IRMAO;15333;Deputado Estadual;PMDB;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO SÃO FRANCISCO LTDA;12.706.529/0001-04;09/09/2010;       Combustíveis e lubrificantes;R$ 5.441,21;Cheque; -  -  / 15333 - FRANCISCO DE SOUZA IRMAO - AL - Deputado Estadual;
+AUTO POSTO SÃO FRANCISCO LTDA;12.706.529/0001-04;05/08/2010;       Combustíveis e lubrificantes;R$ 2.200,00;Cheque; -  -  / 15333 - FRANCISCO DE SOUZA IRMAO - AL - Deputado Estadual;
+DAVI DE OLIVEIRA RIOS;041.226.594-00;12/08/2010;       Serviços prestados por terceiros;R$ 3.000,00;Cheque; -  -  / 15333 - FRANCISCO DE SOUZA IRMAO - AL - Deputado Estadual;
+IDEIA EDITORA GRÁFICA E EMBALAGENS LTDA;00.631.480/0001-99;20/09/2010;       Publicidade por materiais impressos;R$ 1.700,00;Cheque; -  -  / 15333 - FRANCISCO DE SOUZA IRMAO - AL - Deputado Estadual;
+IDEIA EDITORA GRÁFICA E EMBALAGENS LTDA;00.631.480/0001-99;05/08/2010;       Publicidade por materiais impressos;R$ 7.560,00;Cheque; -  -  / 15333 - FRANCISCO DE SOUZA IRMAO - AL - Deputado Estadual;
+LEMOS E LEMOS LTDA ME;01.878.084/0001-23;08/09/2010;       Publicidade por carros de som;R$ 15.000,00;Cheque; -  -  / 15333 - FRANCISCO DE SOUZA IRMAO - AL - Deputado Estadual;
+LEMOS E LEMOS LTDA ME;01.878.084/0001-23;04/08/2010;       Publicidade por carros de som;R$ 15.000,00;Cheque; -  -  / 15333 - FRANCISCO DE SOUZA IRMAO - AL - Deputado Estadual;

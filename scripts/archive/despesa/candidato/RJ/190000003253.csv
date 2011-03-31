@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-BRUNO JOSE LUCIO ROCHA;079.967.947-07;17/09/2010;65000150904;R$ 150,00;Estimado;VALDECI LEMOS CRESPO;65660;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;27/09/2010;65000150903;R$ 150,00;Estimado;VALDECI LEMOS CRESPO;65660;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;27/09/2010;65000150902;R$ 150,00;Estimado;VALDECI LEMOS CRESPO;65660;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.191.555/0001-47;30/09/2010;65000150905;R$ 200,00;Estimado;VALDECI LEMOS CRESPO;65660;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.191.555/0001-47;01/09/2010;65000150906;R$ 1.365,65;Estimado;VALDECI LEMOS CRESPO;65660;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.191.555/0001-47;06/09/2010;65000150907;R$ 893,75;Estimado;VALDECI LEMOS CRESPO;65660;Deputado Estadual;PC do B;RJ;
-JORGE SAYED PICCIANI;12.176.626/0001-32;01/09/2010;65000150901;R$ 17,00;Estimado;VALDECI LEMOS CRESPO;65660;Deputado Estadual;PC do B;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BRUNO JOSE LUCIO ROCHA;079.967.947-07;17/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado; -  -  / 65660 - VALDECI LEMOS CRESPO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 65660 - VALDECI LEMOS CRESPO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.191.555/0001-47;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;Comitê Financeiro Único - PC do B -  / 65660 - VALDECI LEMOS CRESPO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.191.555/0001-47;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.365,65;Estimado;Comitê Financeiro Único - PC do B -  / 65660 - VALDECI LEMOS CRESPO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 65660 - VALDECI LEMOS CRESPO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.191.555/0001-47;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 893,75;Estimado;Comitê Financeiro Único - PC do B -  / 65660 - VALDECI LEMOS CRESPO - RJ - Deputado Estadual;
+JORGE SAYED PICCIANI;12.176.626/0001-32;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 65660 - VALDECI LEMOS CRESPO - RJ - Deputado Estadual;

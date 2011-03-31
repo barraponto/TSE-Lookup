@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Deputado Federal;12.205.317/0001-43;25/08/2010;13000701862;R$ 1.000,00;Estimado;EUSTÁQUIO JOSÉ DE OLIVEIRA;1389;Deputado Federal;PT;MG;
-Comitê Financeiro Estadual/Distrital para Deputado Federal;12.205.317/0001-43;06/10/2010;13000701865;R$ 1.000,00;Estimado;EUSTÁQUIO JOSÉ DE OLIVEIRA;1389;Deputado Federal;PT;MG;
-Comitê Financeiro Estadual/Distrital para Deputado Federal;12.205.317/0001-43;06/10/2010;13000701866;R$ 600,00;Estimado;EUSTÁQUIO JOSÉ DE OLIVEIRA;1389;Deputado Federal;PT;MG;
-ELEIÇÃO 2010 - FERNANDO DAMATA PIMENTEL - SENADOR;12.189.933/0001-58;21/10/2010;13000701867;R$ 1.863,00;Estimado;EUSTÁQUIO JOSÉ DE OLIVEIRA;1389;Deputado Federal;PT;MG;
-ELEIÇÃO 2010 - HELIO CALIXTO COSTA - GOVERNADOR;12.189.609/0001-30;04/08/2010;13000701861;R$ 300,00;Estimado;EUSTÁQUIO JOSÉ DE OLIVEIRA;1389;Deputado Federal;PT;MG;
-ELEIÇÃO 2010 - HELIO CALIXTO DA COSTA - GOVERNADOR;12.189.609/0001-30;10/09/2010;13000701863;R$ 68,40;Estimado;EUSTÁQUIO JOSÉ DE OLIVEIRA;1389;Deputado Federal;PT;MG;
-3N COPIADORA LTDA;05.389.030/0001-55;30/09/2010;13000701864;R$ 300,00;Estimado;EUSTÁQUIO JOSÉ DE OLIVEIRA;1389;Deputado Federal;PT;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Deputado Federal;12.205.317/0001-43;06/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Federal - PT -  / 1389 - EUSTÁQUIO JOSÉ DE OLIVEIRA - MG - Deputado Federal;
+Comitê Financeiro Estadual/Distrital para Deputado Federal;12.205.317/0001-43;06/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Federal - PT -  / 1389 - EUSTÁQUIO JOSÉ DE OLIVEIRA - MG - Deputado Federal;
+Comitê Financeiro Estadual/Distrital para Deputado Federal;12.205.317/0001-43;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Federal - PT -  / 1389 - EUSTÁQUIO JOSÉ DE OLIVEIRA - MG - Deputado Federal;
+ELEIÇÃO 2010 - FERNANDO DAMATA PIMENTEL - SENADOR;12.189.933/0001-58;21/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.863,00;Estimado;131 -  - PT -  - Senador / 1389 - EUSTÁQUIO JOSÉ DE OLIVEIRA - MG - Deputado Federal;
+ELEIÇÃO 2010 - HELIO CALIXTO COSTA - GOVERNADOR;12.189.609/0001-30;04/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;15 -  - PMDB -  - Governador / 1389 - EUSTÁQUIO JOSÉ DE OLIVEIRA - MG - Deputado Federal;
+ELEIÇÃO 2010 - HELIO CALIXTO DA COSTA - GOVERNADOR;12.189.609/0001-30;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 68,40;Estimado;15 -  - PMDB -  - Governador / 1389 - EUSTÁQUIO JOSÉ DE OLIVEIRA - MG - Deputado Federal;
+3N COPIADORA LTDA;05.389.030/0001-55;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 1389 - EUSTÁQUIO JOSÉ DE OLIVEIRA - MG - Deputado Federal;

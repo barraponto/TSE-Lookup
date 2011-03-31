@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.570/0001-95;01/08/2010;44000007621;R$ 192,00;Estimado;EUDORICO ALVES BATISTA;44123;Deputado Estadual;PRP;BA;
-Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;44000007642;R$ 1.869,84;Estimado;EUDORICO ALVES BATISTA;44123;Deputado Estadual;PRP;BA;
-Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;44000007641;R$ 564,00;Estimado;EUDORICO ALVES BATISTA;44123;Deputado Estadual;PRP;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.570/0001-95;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 192,00;Estimado;Comitê Financeiro Único - PMDB -  / 44123 - EUDORICO ALVES BATISTA - BA - Deputado Estadual;
+Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 564,00;Estimado;Comitê Financeiro Único - PMDB -  / 44123 - EUDORICO ALVES BATISTA - BA - Deputado Estadual;
+Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.869,84;Estimado;Comitê Financeiro Único - PMDB -  / 44123 - EUDORICO ALVES BATISTA - BA - Deputado Estadual;

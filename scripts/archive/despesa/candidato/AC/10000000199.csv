@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.221.841/0001-08;17/09/2010;23000029152;R$ 493,00;Estimado;FRANCISCO ALVES VIEIRA;2323;Deputado Federal;PPS;AC;
-Comitê Financeiro Único;12.221.841/0001-08;06/09/2010;23000029153;R$ 709,74;Estimado;FRANCISCO ALVES VIEIRA;2323;Deputado Federal;PPS;AC;
-ELY ALVES VIEIRA;197.112.122-34;27/08/2010;23000029151;R$ 1.000,00;Estimado;FRANCISCO ALVES VIEIRA;2323;Deputado Federal;PPS;AC;
-ELY ALVES VIEIRA;197.112.122-34;21/07/2010;23000029150;R$ 1.010,00;Depósito em espécie;FRANCISCO ALVES VIEIRA;2323;Deputado Federal;PPS;AC;
-FRANCISCO ALVES VIEIRA;090.995.732-00;12/07/2010;23000029154;R$ 1.500,00;Estimado;FRANCISCO ALVES VIEIRA;2323;Deputado Federal;PPS;AC;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.221.841/0001-08;17/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 493,00;Estimado;Comitê Financeiro Único - PPS -  / 2323 - FRANCISCO ALVES VIEIRA - AC - Deputado Federal;
+Comitê Financeiro Único;12.221.841/0001-08;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 709,74;Estimado;Comitê Financeiro Único - PPS -  / 2323 - FRANCISCO ALVES VIEIRA - AC - Deputado Federal;
+ELY ALVES VIEIRA;197.112.122-34;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 2323 - FRANCISCO ALVES VIEIRA - AC - Deputado Federal;
+FRANCISCO ALVES VIEIRA;090.995.732-00;12/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado; -  -  / 2323 - FRANCISCO ALVES VIEIRA - AC - Deputado Federal;
+G S SILVEIRA ME;84.313.923/0001-93;29/07/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 2323 - FRANCISCO ALVES VIEIRA - AC - Deputado Federal;

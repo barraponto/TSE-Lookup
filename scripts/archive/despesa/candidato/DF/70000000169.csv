@@ -1,3 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CRISTOVAN ALVARES CABRAL;136.572.401-87;09/09/2010;17000027602;R$ 5.000,00;Depósito em espécie;CRISTOVAN ALVARES CABRAL;17234;Deputado Distrital;PSL;DF;
-CRISTOVAN ALVARES CABRAL;136.572.401-87;09/08/2010;17000027601;R$ 5.000,00;Depósito em espécie;CRISTOVAN ALVARES CABRAL;17234;Deputado Distrital;PSL;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+IMPRESSO DIGITAL COMUNICAO VISUAL LTDA ME;11.401.894/0001-48;10/08/2010;       Publicidade por materiais impressos;R$ 3.800,00;Cheque; -  -  / 17234 - CRISTOVAN ALVARES CABRAL - DF - Deputado Distrital;
+PETRO RIOS COMERCIO DERIVADO DE PETROLEO LTDA;38.074.571/0001-43;01/10/2010;       Combustíveis e lubrificantes;R$ 140,00;Cheque; -  -  / 17234 - CRISTOVAN ALVARES CABRAL - DF - Deputado Distrital;
+SENA MATERIAIS PARA CONSTRUÇÃO;03.271.989/0001-66;11/08/2010;       Diversas a especificar;R$ 264,00;Cheque; -  -  / 17234 - CRISTOVAN ALVARES CABRAL - DF - Deputado Distrital;
+SIGMA SERVIÇOS GRAFICOS LTDA ME;09.234.473/0001-28;15/09/2010;       Publicidade por materiais impressos;R$ 5.460,00;Cheque; -  -  / 17234 - CRISTOVAN ALVARES CABRAL - DF - Deputado Distrital;
+VCI FESTAS E EVENTOS LTDA;06.091.495/0001-98;02/09/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 17234 - CRISTOVAN ALVARES CABRAL - DF - Deputado Distrital;
+VCI FESTAS E EVENTOS LTDA;06.091.495/0001-98;25/08/2010;       Publicidade por materiais impressos;R$ 110,00;Cheque; -  -  / 17234 - CRISTOVAN ALVARES CABRAL - DF - Deputado Distrital;
+;;09/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,00;Débito em conta; -  -  / 17234 - CRISTOVAN ALVARES CABRAL - DF - Deputado Distrital;
+;;30/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,00;Débito em conta; -  -  / 17234 - CRISTOVAN ALVARES CABRAL - DF - Deputado Distrital;
+;;20/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,00;Débito em conta; -  -  / 17234 - CRISTOVAN ALVARES CABRAL - DF - Deputado Distrital;
+;;09/08/2010;       Encargos financeiros e taxas bancárias;R$ 14,00;Débito em conta; -  -  / 17234 - CRISTOVAN ALVARES CABRAL - DF - Deputado Distrital;

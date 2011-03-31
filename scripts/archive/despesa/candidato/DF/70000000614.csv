@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DANIEL CARVALHO DE MENDONÇA;636.173.901-53;03/09/2010;31000004352;R$ 700,00;Depósito em espécie;MARCUS VINICIUS MENDES RODRIGUES;31051;Deputado Distrital;PHS;DF;
-Diretório Estadual/Distrital;01.770.770/0001-86;01/10/2010;31000004354;R$ 3.000,00;Cheque;MARCUS VINICIUS MENDES RODRIGUES;31051;Deputado Distrital;PHS;DF;
-Diretório Estadual/Distrital;01.770.770/0001-86;23/09/2010;31000004353;R$ 3.200,00;Cheque;MARCUS VINICIUS MENDES RODRIGUES;31051;Deputado Distrital;PHS;DF;
-MARCUS VINICIUS MENDES RODRIGUES;602.937.801-53;20/08/2010;31000004351;R$ 1.300,00;Depósito em espécie;MARCUS VINICIUS MENDES RODRIGUES;31051;Deputado Distrital;PHS;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA ABRAÃO LTDA;10.668.905/0001-98;03/09/2010;       Publicidade por materiais impressos;R$ 700,00;Cheque; -  -  / 31051 - MARCUS VINICIUS MENDES RODRIGUES - DF - Deputado Distrital;
+GRAFICA THESAURUS LTDA;00.504.084/0001-09;20/08/2010;       Publicidade por materiais impressos;R$ 1.300,00;Cheque; -  -  / 31051 - MARCUS VINICIUS MENDES RODRIGUES - DF - Deputado Distrital;
+LM DE BARROS GRAFICA ME;05.864.801/0001-19;01/10/2010;       Diversas a especificar;R$ 3.000,00;Cheque; -  -  / 31051 - MARCUS VINICIUS MENDES RODRIGUES - DF - Deputado Distrital;
+LM DE BARROS GRAFICA ME;05.864.801/0001-19;25/09/2010;       Diversas a especificar;R$ 3.200,00;Cheque; -  -  / 31051 - MARCUS VINICIUS MENDES RODRIGUES - DF - Deputado Distrital;

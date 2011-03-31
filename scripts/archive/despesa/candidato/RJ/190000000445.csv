@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DANIEL SAMPAIO TOURINHO;12.172.794/0001-50;18/08/2010;36000051852;R$ 700,00;Estimado;ALEX DOS SANTOS TEIXEIRA;36366;Deputado Estadual;PTC;RJ;
-DANIEL SAMPAIO TOURINHO;12.172.794/0001-50;06/08/2010;36000051851;R$ 160,00;Estimado;ALEX DOS SANTOS TEIXEIRA;36366;Deputado Estadual;PTC;RJ;
-JORGE SAYED PICCIANI SENADOR;12.176.626/0001-32;01/10/2010;36000051853;R$ 47,18;Estimado;ALEX DOS SANTOS TEIXEIRA;36366;Deputado Estadual;PTC;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DANIEL SAMPAIO TOURINHO;12.172.794/0001-50;06/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 160,00;Estimado;3636 -  - PTC -  - Deputado Federal / 36366 - ALEX DOS SANTOS TEIXEIRA - RJ - Deputado Estadual;
+DANIEL SAMPAIO TOURINHO;12.172.794/0001-50;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 700,00;Estimado;3636 -  - PTC -  - Deputado Federal / 36366 - ALEX DOS SANTOS TEIXEIRA - RJ - Deputado Estadual;
+JORGE SAYED PICCIANI SENADOR;12.176.626/0001-32;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 47,18;Estimado;155 -  - PMDB -  - Senador / 36366 - ALEX DOS SANTOS TEIXEIRA - RJ - Deputado Estadual;

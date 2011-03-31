@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-AIRTON ARAUJO DA COSTA;027.470.223-15;05/08/2010;22000045901;R$ 300,00;Estimado;WASHINGTHON LUIZ DE FREITAS;2212;Deputado Federal;PR;MA;
-Comitê Financeiro Único;12.205.257/0001-69;01/08/2010;22000045904;R$ 641,00;Estimado;WASHINGTHON LUIZ DE FREITAS;2212;Deputado Federal;PR;MA;
-L E S MACEDO VALE;41.477.001/0001-09;10/08/2010;22000045902;R$ 100,00;Estimado;WASHINGTHON LUIZ DE FREITAS;2212;Deputado Federal;PR;MA;
-WASHINGTHON LUIZ DE FREITAS;032.143.033-68;15/08/2010;22000045903;R$ 1.600,00;Estimado;WASHINGTHON LUIZ DE FREITAS;2212;Deputado Federal;PR;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AIRTON ARAUJO DA COSTA;027.470.223-15;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 2212 - WASHINGTHON LUIZ DE FREITAS - MA - Deputado Federal;
+Comitê Financeiro Único;12.205.257/0001-69;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 641,00;Estimado;Comitê Financeiro Único - PR -  / 2212 - WASHINGTHON LUIZ DE FREITAS - MA - Deputado Federal;
+L E S MACEDO VALE;41.477.001/0001-09;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado; -  -  / 2212 - WASHINGTHON LUIZ DE FREITAS - MA - Deputado Federal;
+WASHINGTHON LUIZ DE FREITAS;032.143.033-68;15/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.600,00;Estimado; -  -  / 2212 - WASHINGTHON LUIZ DE FREITAS - MA - Deputado Federal;

@@ -1,3 +1,13 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.318.997/0001-01;18/10/2010;44000060456;R$ 363,87;Estimado;EVANDRO PEREIRA DA SILVA;44500;Deputado Distrital;PRP;DF;
-Comitê Financeiro Único;12.318.997/0001-01;23/09/2010;44000060452;R$ 2.900,00;Transferência eletrônica;EVANDRO PEREIRA DA SILVA;44500;Deputado Distrital;PRP;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO NERES;156.630.783-04;18/10/2010;       Despesas com pessoal;R$ 533,00;Cheque; -  -  / 44500 - EVANDRO PEREIRA DA SILVA - DF - Deputado Distrital;
+ARNALDO MARTINS MELO;433.497.226-87;13/10/2010;       Despesas com pessoal;R$ 40,00;Cheque; -  -  / 44500 - EVANDRO PEREIRA DA SILVA - DF - Deputado Distrital;
+Comitê Financeiro Único;12.318.997/0001-01;18/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 363,87;Estimado;Comitê Financeiro Único - PRP -  / 44500 - EVANDRO PEREIRA DA SILVA - DF - Deputado Distrital;
+GILBERTO ARRUDA DA SILVA;483.052.861-34;04/10/2010;       Despesas com pessoal;R$ 270,00;Cheque; -  -  / 44500 - EVANDRO PEREIRA DA SILVA - DF - Deputado Distrital;
+GILBERTO ARRUDA DA SILVA;483.052.861-34;13/10/2010;       Despesas com pessoal;R$ 150,00;Cheque; -  -  / 44500 - EVANDRO PEREIRA DA SILVA - DF - Deputado Distrital;
+HUDSON QUINTANA;480.448.901-06;24/09/2010;       Despesas com pessoal;R$ 665,00;Cheque; -  -  / 44500 - EVANDRO PEREIRA DA SILVA - DF - Deputado Distrital;
+LEONARDO GOMES;034.098.596-83;06/10/2010;       Despesas com pessoal;R$ 61,50;Cheque; -  -  / 44500 - EVANDRO PEREIRA DA SILVA - DF - Deputado Distrital;
+MARIA AMBROZINA DE SOUZA;385.622.511-00;14/10/2010;       Despesas com pessoal;R$ 50,00;Cheque; -  -  / 44500 - EVANDRO PEREIRA DA SILVA - DF - Deputado Distrital;
+MARIA DAS DORES OLIVEIRA;336.080.833-91;28/09/2010;       Despesas com pessoal;R$ 130,00;Cheque; -  -  / 44500 - EVANDRO PEREIRA DA SILVA - DF - Deputado Distrital;
+WALISSON JOSE DOS SANTOS;721.540.631-87;23/09/2010;       Despesas com pessoal;R$ 1.000,00;Cheque; -  -  / 44500 - EVANDRO PEREIRA DA SILVA - DF - Deputado Distrital;
+;;26/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,15;Débito em conta; -  -  / 44500 - EVANDRO PEREIRA DA SILVA - DF - Deputado Distrital;
+;;23/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 44500 - EVANDRO PEREIRA DA SILVA - DF - Deputado Distrital;

@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.134.176/0001-15;20/09/2010;33000000990;R$ 250,00;Estimado;ROSANGELA PUPO FERREIRA BORGES;33002;Deputado Estadual;PMN;PR;
-ELEIÇAÕ 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;13/08/2010;33000000988;R$ 630,00;Estimado;ROSANGELA PUPO FERREIRA BORGES;33002;Deputado Estadual;PMN;PR;
-ELEIÇÃO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;28/09/2010;33000000989;R$ 1.680,00;Transferência eletrônica;ROSANGELA PUPO FERREIRA BORGES;33002;Deputado Estadual;PMN;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.134.176/0001-15;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;Comitê Financeiro Único - PMN -  / 33002 - ROSANGELA PUPO FERREIRA BORGES - PR - Deputado Estadual;
+ELEIÇAÕ 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;13/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 630,00;Estimado;45 -  - PSDB -  - Governador / 33002 - ROSANGELA PUPO FERREIRA BORGES - PR - Deputado Estadual;
+ROSANGELA PUPO FERREIRA BORGES;356.832.959-04;30/09/2010;       Diversas a especificar;R$ 1.680,00;Transferência eletrônica; -  -  / 33002 - ROSANGELA PUPO FERREIRA BORGES - PR - Deputado Estadual;

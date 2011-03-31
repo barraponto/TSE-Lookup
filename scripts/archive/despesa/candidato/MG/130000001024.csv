@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Deputado Federal;24.059.610/0001-29;30/07/2010;45000253251;R$ 2.002,70;Estimado;WALTER FERREIRA DE ARAUJO;4533;Deputado Federal;PSDB;MG;
-Comitê Financeiro Estadual/Distrital para Governador;24.059.610/0001-29;21/09/2010;45000253252;R$ 45,00;Estimado;WALTER FERREIRA DE ARAUJO;4533;Deputado Federal;PSDB;MG;
-Diretório Estadual/Distrital;24.059.610/0001-29;24/08/2010;45000253253;R$ 1.197,84;Estimado;WALTER FERREIRA DE ARAUJO;4533;Deputado Federal;PSDB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Deputado Federal;24.059.610/0001-29;30/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.002,70;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Federal - PSDB -  / 4533 - WALTER FERREIRA DE ARAUJO - MG - Deputado Federal;
+Comitê Financeiro Estadual/Distrital para Governador;24.059.610/0001-29;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 45,00;Estimado;Comitê Financeiro Distrital/Estadual para Governador - PSDB -  / 4533 - WALTER FERREIRA DE ARAUJO - MG - Deputado Federal;
+Diretório Estadual/Distrital;24.059.610/0001-29;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.197,84;Estimado;Direção Estadual/Distrital - PSDB -  / 4533 - WALTER FERREIRA DE ARAUJO - MG - Deputado Federal;

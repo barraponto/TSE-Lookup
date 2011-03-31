@@ -1,3 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ABIMAEL GRIPP;004.381.381-04;20/08/2010;50000139321;R$ 600,00;Depósito em espécie;ALEXANDRE TEIXEIRA GRIPP;5012;Deputado Federal;PSOL;DF;
-ALEXANDRE TEIXEIRA GRIPP;635.330.301-72;23/09/2010;50000139322;R$ 300,00;Transferência eletrônica;ALEXANDRE TEIXEIRA GRIPP;5012;Deputado Federal;PSOL;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GX INTERNET;10.558.721/0001-75;26/08/2010;       Criação e inclusão de páginas na internet;R$ 37,87;Transferência eletrônica; -  -  / 5012 - ALEXANDRE TEIXEIRA GRIPP - DF - Deputado Federal;
+JM CAPITAL GRÁFICA E FOTOLITO LTDA ME;10.813.208/0001-83;25/08/2010;       Publicidade por materiais impressos;R$ 425,00;Cheque; -  -  / 5012 - ALEXANDRE TEIXEIRA GRIPP - DF - Deputado Federal;
+POSTO PETROMINAS LTDA;09.205.835/0001-52;03/09/2010;       Combustíveis e lubrificantes;R$ 60,00;Não informado; -  -  / 5012 - ALEXANDRE TEIXEIRA GRIPP - DF - Deputado Federal;
+POSTO PETROMINAS LTDA;09.205.835/0001-52;06/09/2010;       Combustíveis e lubrificantes;R$ 50,00;Não informado; -  -  / 5012 - ALEXANDRE TEIXEIRA GRIPP - DF - Deputado Federal;
+POSTO PETROMINAS LTDA;09.205.835/0001-52;02/10/2010;       Combustíveis e lubrificantes;R$ 122,54;Transferência eletrônica; -  -  / 5012 - ALEXANDRE TEIXEIRA GRIPP - DF - Deputado Federal;
+POSTO PETROMINAS LTDA;09.205.835/0001-52;23/09/2010;       Combustíveis e lubrificantes;R$ 100,00;Transferência eletrônica; -  -  / 5012 - ALEXANDRE TEIXEIRA GRIPP - DF - Deputado Federal;
+POSTO PETROMINAS LTDA;09.205.835/0001-52;01/10/2010;       Combustíveis e lubrificantes;R$ 50,00;Transferência eletrônica; -  -  / 5012 - ALEXANDRE TEIXEIRA GRIPP - DF - Deputado Federal;
+POSTO PETROMINAS LTDA;09.205.835/0001-52;31/08/2010;       Combustíveis e lubrificantes;R$ 50,00;Não informado; -  -  / 5012 - ALEXANDRE TEIXEIRA GRIPP - DF - Deputado Federal;
+;;05/10/2010;       Encargos financeiros e taxas bancárias;R$ 4,50;Débito em conta; -  -  / 5012 - ALEXANDRE TEIXEIRA GRIPP - DF - Deputado Federal;
+;;27/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,09;Débito em conta; -  -  / 5012 - ALEXANDRE TEIXEIRA GRIPP - DF - Deputado Federal;

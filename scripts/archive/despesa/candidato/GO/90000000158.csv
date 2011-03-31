@@ -1,3 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 ADEIRSON FELICIO RIBEIRO DEPUTADO ESTADUAL;168.347.981-53;01/08/2010;17000037076;R$ 1.280,00;Estimado;ADEIRSON FELICIO RIBEIRO;17700;Deputado Estadual;PSL;GO;
-ELEIÇÃO 2010 DARIO ALVES PAIVA NETO;12.175.369/0001-14;26/08/2010;17000049551;R$ 700,00;Cheque;ADEIRSON FELICIO RIBEIRO;17700;Deputado Estadual;PSL;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO ATENEU LTDA;37.652.708/0001-37;09/09/2010;       Combustíveis e lubrificantes;R$ 80,00;Cheque; -  -  / 17700 - ADEIRSON FELICIO RIBEIRO - GO - Deputado Estadual;
+AUTO POSTO ATENEU LTDA;37.652.708/0001-37;16/09/2010;       Combustíveis e lubrificantes;R$ 100,00;Cheque; -  -  / 17700 - ADEIRSON FELICIO RIBEIRO - GO - Deputado Estadual;
+AUTO POSTO ATLANTA;01.581.189/0001-16;02/10/2010;       Combustíveis e lubrificantes;R$ 75,00;Cheque; -  -  / 17700 - ADEIRSON FELICIO RIBEIRO - GO - Deputado Estadual;
+AUTO POSTO ATLANTA;01.581.189/0001-16;20/09/2010;       Combustíveis e lubrificantes;R$ 220,00;Cheque; -  -  / 17700 - ADEIRSON FELICIO RIBEIRO - GO - Deputado Estadual;
+CENTRO AUTOMOTIVO BANDEIRANTE LTDA;05.658.776/0001-17;02/09/2010;       Combustíveis e lubrificantes;R$ 62,00;Cheque; -  -  / 17700 - ADEIRSON FELICIO RIBEIRO - GO - Deputado Estadual;
+CENTRO AUTOMOTIVO BANDEIRANTE LTDA;05.658.776/0001-17;03/09/2010;       Combustíveis e lubrificantes;R$ 120,00;Cheque; -  -  / 17700 - ADEIRSON FELICIO RIBEIRO - GO - Deputado Estadual;
+ELEIÇÃO 2010 ADEIRSON FELICIO RIBEIRO DEPUTADO ESTADUAL;168.347.981-53;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.280,00;Estimado; -  -  / 17700 - ADEIRSON FELICIO RIBEIRO - GO - Deputado Estadual;
+;;02/09/2010;       Encargos financeiros e taxas bancárias;R$ 21,00;Débito em conta; -  -  / 17700 - ADEIRSON FELICIO RIBEIRO - GO - Deputado Estadual;
+;;04/10/2010;       Encargos financeiros e taxas bancárias;R$ 21,00;Débito em conta; -  -  / 17700 - ADEIRSON FELICIO RIBEIRO - GO - Deputado Estadual;

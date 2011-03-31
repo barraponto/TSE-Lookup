@@ -1,8 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;11000006508;R$ 150,00;Outros títulos de crédito;NESTOR MANUEL BORDINI RODRIGUES;11206;Deputado Estadual;PP;RJ;
-Comitê Financeiro Único;12.200.097/0001-65;02/10/2010;11000006510;R$ 3.592,00;Outros títulos de crédito;NESTOR MANUEL BORDINI RODRIGUES;11206;Deputado Estadual;PP;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;11000006507;R$ 150,00;Outros títulos de crédito;NESTOR MANUEL BORDINI RODRIGUES;11206;Deputado Estadual;PP;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;11000006511;R$ 825,00;Outros títulos de crédito;NESTOR MANUEL BORDINI RODRIGUES;11206;Deputado Estadual;PP;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;11000006509;R$ 600,00;Outros títulos de crédito;NESTOR MANUEL BORDINI RODRIGUES;11206;Deputado Estadual;PP;RJ;
-DIONISIO DE SOUZA LINS;12.155.979/0001-56;14/09/2010;11000006505;R$ 5.000,00;Cheque;NESTOR MANUEL BORDINI RODRIGUES;11206;Deputado Estadual;PP;RJ;
-JORGE SAYED PICCIANI;12.176.626/0001-32;24/09/2010;11000006506;R$ 31,50;Outros títulos de crédito;NESTOR MANUEL BORDINI RODRIGUES;11206;Deputado Estadual;PP;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BRASILGRAF SERVICOS GRAFICOS LTDA;08.077.403/0001-40;27/04/2010;       Publicidade por materiais impressos;R$ 114,30;Cheque; -  -  / 11206 - NESTOR MANUEL BORDINI RODRIGUES - RJ - Deputado Estadual;
+DEYVESMENDES PARAGUASSU;088.221.487-03;02/10/2010;       Publicidade por carros de som;R$ 104,35;Cheque; -  -  / 11206 - NESTOR MANUEL BORDINI RODRIGUES - RJ - Deputado Estadual;
+EDINALDO GOMES DE FARIAS;710.806.437-53;27/09/2010;       Serviços prestados por terceiros;R$ 2.730,00;Cheque; -  -  / 11206 - NESTOR MANUEL BORDINI RODRIGUES - RJ - Deputado Estadual;
+EDITORA O DIA SA;33.216.797/0001-18;22/09/2010;       Publicidade por jornais e revistas;R$ 1.092,00;Cheque; -  -  / 11206 - NESTOR MANUEL BORDINI RODRIGUES - RJ - Deputado Estadual;
+ELETROMARTE EQUIPAMETNOS LTDA;34.022.806/0001-00;24/09/2010;       Materiais de expediente;R$ 241,50;Cheque; -  -  / 11206 - NESTOR MANUEL BORDINI RODRIGUES - RJ - Deputado Estadual;
+FABIO LEONARDO SOARES DAS NEVES;101.770.257-86;01/10/2010;       Publicidade por carros de som;R$ 250,00;Cheque; -  -  / 11206 - NESTOR MANUEL BORDINI RODRIGUES - RJ - Deputado Estadual;
+WHELINTON MAGALHAGÃES;042.696.127-70;02/10/2010;       Criação e inclusão de páginas na internet;R$ 450,00;Cheque; -  -  / 11206 - NESTOR MANUEL BORDINI RODRIGUES - RJ - Deputado Estadual;
+;;19/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 11206 - NESTOR MANUEL BORDINI RODRIGUES - RJ - Deputado Estadual;
+;;19/10/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 11206 - NESTOR MANUEL BORDINI RODRIGUES - RJ - Deputado Estadual;

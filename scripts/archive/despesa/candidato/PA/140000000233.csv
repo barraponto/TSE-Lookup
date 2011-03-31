@@ -1,5 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DOMINGOS JUVENIL NUNES DE SOUZA;12.167.826/0001-29;02/10/2010;15000049753;R$ 670,74;Estimado;SAPHIRA MAIRA SIQUEIRA DA SILVA NETO;15777;Deputado Estadual;PMDB;PA;
-DOMINGOS JUVENIL NUNES DE SOUZA;12.167.826/0001-29;22/09/2010;15000049754;R$ 833,34;Estimado;SAPHIRA MAIRA SIQUEIRA DA SILVA NETO;15777;Deputado Estadual;PMDB;PA;
-ELCIONE ZAHLUTH BARBALHO;12.167.554/0001-67;23/09/2010;15000049751;R$ 150,00;Estimado;SAPHIRA MAIRA SIQUEIRA DA SILVA NETO;15777;Deputado Estadual;PMDB;PA;
-SAPHIRA MAIRA SIQUEIRA DA SILVA NETO;225.185.368-50;20/08/2010;15000049752;R$ 2.000,00;Depósito em espécie;SAPHIRA MAIRA SIQUEIRA DA SILVA NETO;15777;Deputado Estadual;PMDB;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DOMINGOS JUVENIL NUNES DE SOUZA;12.167.826/0001-29;22/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 833,34;Estimado;15 -  - PMDB -  - Governador / 15777 - SAPHIRA MAIRA SIQUEIRA DA SILVA NETO - PA - Deputado Estadual;
+DOMINGOS JUVENIL NUNES DE SOUZA;12.167.826/0001-29;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 670,74;Estimado;15 -  - PMDB -  - Governador / 15777 - SAPHIRA MAIRA SIQUEIRA DA SILVA NETO - PA - Deputado Estadual;
+ELCIONE ZAHLUTH BARBALHO;12.167.554/0001-67;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;1515 -  - PMDB -  - Deputado Federal / 15777 - SAPHIRA MAIRA SIQUEIRA DA SILVA NETO - PA - Deputado Estadual;
+ELIZABETH FIGUEIREDO DE LIMA;380.011.012-15;30/09/2010;       Serviços prestados por terceiros;R$ 686,30;Cheque; -  -  / 15777 - SAPHIRA MAIRA SIQUEIRA DA SILVA NETO - PA - Deputado Estadual;
+IMAGEM COMUNICAÇÃO VISUAL LTDA;05.962.803/0001-40;30/09/2010;       Publicidade por placas, estandartes e faixas;R$ 553,70;Cheque; -  -  / 15777 - SAPHIRA MAIRA SIQUEIRA DA SILVA NETO - PA - Deputado Estadual;
+IMAGEM COMUNICAÇÃO VISUAL LTDA;05.962.803/0001-40;09/09/2010;       Publicidade por placas, estandartes e faixas;R$ 760,00;Cheque; -  -  / 15777 - SAPHIRA MAIRA SIQUEIRA DA SILVA NETO - PA - Deputado Estadual;

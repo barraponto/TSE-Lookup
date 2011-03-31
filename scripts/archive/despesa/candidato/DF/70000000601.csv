@@ -1,4 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Nacional;01.770.770/0001-86;01/10/2010;31000003203;R$ 3.000,00;Cheque;JOSE LUIS DA SILVA ALVARES;31300;Deputado Distrital;PHS;DF;
-Diretório Nacional;01.770.770/0001-86;21/09/2010;31000003202;R$ 3.200,00;Cheque;JOSE LUIS DA SILVA ALVARES;31300;Deputado Distrital;PHS;DF;
-LUZINETE DO CARMO PEREIRA;309.913.151-20;25/08/2010;31000003201;R$ 1.200,00;Cheque;JOSE LUIS DA SILVA ALVARES;31300;Deputado Distrital;PHS;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DJANIRA ALVES FERREIRA;416.183.511-68;29/10/2010;       Locação/cessão de bens imóveis;R$ 41,00;Transferência eletrônica; -  -  / 31300 - JOSE LUIS DA SILVA ALVARES - DF - Deputado Distrital;
+DJANIRA ALVES FERREIRA;416.183.511-68;16/09/2010;       Locação/cessão de bens imóveis;R$ 250,00;Cheque; -  -  / 31300 - JOSE LUIS DA SILVA ALVARES - DF - Deputado Distrital;
+DJANIRA ALVES FERREIRA;416.183.511-68;19/10/2010;       Locação/cessão de bens imóveis;R$ 250,00;Cheque; -  -  / 31300 - JOSE LUIS DA SILVA ALVARES - DF - Deputado Distrital;
+GN GRAFICA NICODEMOS;11.850.861/0001-85;27/09/2010;       Publicidade por materiais impressos;R$ 370,00;Cheque; -  -  / 31300 - JOSE LUIS DA SILVA ALVARES - DF - Deputado Distrital;
+L M DE BARROS GRAFICA ME;05.864.801/0001-19;26/09/2010;       Publicidade por materiais impressos;R$ 3.190,00;Cheque; -  -  / 31300 - JOSE LUIS DA SILVA ALVARES - DF - Deputado Distrital;
+L M DE BARROS GRAFICA ME;05.864.801/0001-19;09/09/2010;       Publicidade por materiais impressos;R$ 650,00;Cheque; -  -  / 31300 - JOSE LUIS DA SILVA ALVARES - DF - Deputado Distrital;
+L M DE BARROS GRAFICA ME;05.864.801/0001-19;25/09/2010;       Publicidade por materiais impressos;R$ 1.850,00;Cheque; -  -  / 31300 - JOSE LUIS DA SILVA ALVARES - DF - Deputado Distrital;
+L M DE BARROS GRAFICA ME;05.864.801/0001-19;28/10/2010;       Publicidade por materiais impressos;R$ 790,00;Cheque; -  -  / 31300 - JOSE LUIS DA SILVA ALVARES - DF - Deputado Distrital;
+;;08/09/2010;       Encargos financeiros e taxas bancárias;R$ 4,50;Débito em conta; -  -  / 31300 - JOSE LUIS DA SILVA ALVARES - DF - Deputado Distrital;
+;;06/10/2010;       Encargos financeiros e taxas bancárias;R$ 4,50;Débito em conta; -  -  / 31300 - JOSE LUIS DA SILVA ALVARES - DF - Deputado Distrital;

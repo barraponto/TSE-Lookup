@@ -1,4 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;09.057.316/0001-94;03/09/2010;25000543647;R$ 4.000,00;Depósito em espécie;GILVAN LUIS DA SILVA;25458;Deputado Estadual;DEM;PE;
-Diretório Estadual/Distrital;09.057.316/0001-94;27/09/2010;25000543648;R$ 4.000,00;Depósito em espécie;GILVAN LUIS DA SILVA;25458;Deputado Estadual;DEM;PE;
-JOSÉ MENDONÇA BEZERRA FILHO;12.176.573/0001-50;10/08/2010;25000543646;R$ 4.000,00;Depósito em espécie;GILVAN LUIS DA SILVA;25458;Deputado Estadual;DEM;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ART'S VARIEDADES LTDA;08.873.512/0001-74;01/10/2010;       Publicidade por materiais impressos;R$ 990,00;Cheque; -  -  / 25458 - GILVAN LUIS DA SILVA - PE - Deputado Estadual;
+ART'S VARIEDADES LTDA;08.873.512/0001-74;23/08/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 25458 - GILVAN LUIS DA SILVA - PE - Deputado Estadual;
+ART'S VARIEDADES LTDA;08.873.512/0001-74;28/09/2010;       Publicidade por placas, estandartes e faixas;R$ 2.000,00;Cheque; -  -  / 25458 - GILVAN LUIS DA SILVA - PE - Deputado Estadual;
+ART'S VARIEDADES LTDA;08.873.512/0001-74;30/09/2010;       Publicidade por placas, estandartes e faixas;R$ 1.000,00;Cheque; -  -  / 25458 - GILVAN LUIS DA SILVA - PE - Deputado Estadual;
+ART'S VARIEDADES LTDA;08.873.512/0001-74;11/08/2010;       Publicidade por placas, estandartes e faixas;R$ 3.000,00;Cheque; -  -  / 25458 - GILVAN LUIS DA SILVA - PE - Deputado Estadual;
+ART'S VARIEDADES LTDA;08.873.512/0001-74;10/09/2010;       Publicidade por placas, estandartes e faixas;R$ 2.000,00;Cheque; -  -  / 25458 - GILVAN LUIS DA SILVA - PE - Deputado Estadual;
+R. S. ANDRADE LTDA;11.434.347/0001-69;09/09/2010;       Diversas a especificar;R$ 1.000,00;Cheque; -  -  / 25458 - GILVAN LUIS DA SILVA - PE - Deputado Estadual;
+R. S. ANDRADE LTDA;11.434.347/0001-69;06/09/2010;       Diversas a especificar;R$ 1.000,00;Cheque; -  -  / 25458 - GILVAN LUIS DA SILVA - PE - Deputado Estadual;
+;;27/09/2010;       Encargos financeiros e taxas bancárias;R$ 4,50;Débito em conta; -  -  / 25458 - GILVAN LUIS DA SILVA - PE - Deputado Estadual;
+;;19/10/2010;       Encargos financeiros e taxas bancárias;R$ 4,50;Débito em conta; -  -  / 25458 - GILVAN LUIS DA SILVA - PE - Deputado Estadual;

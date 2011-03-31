@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;28/09/2010;31000025735;R$ 150,00;Estimado;KATIA REGINA DA SILVA VIEIRA;3138;Deputado Federal;PHS;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/08/2010;31000025731;R$ 150,00;Estimado;KATIA REGINA DA SILVA VIEIRA;3138;Deputado Federal;PHS;RJ;
-Comitê Financeiro Único;12.191.494/0001-18;30/09/2010;31000025736;R$ 250,00;Estimado;KATIA REGINA DA SILVA VIEIRA;3138;Deputado Federal;PHS;RJ;
-ELEIÇÃO 2010 ADILSON DOS REIS VIEIRA;12.178.399/0001-84;30/08/2010;31000025732;R$ 61,50;Estimado;KATIA REGINA DA SILVA VIEIRA;3138;Deputado Federal;PHS;RJ;
-ELEIÇÃO 2010 ADILSON DOS REIS VIEIRA DEP. EST.;12.178.399/0001-84;30/08/2010;31000025733;R$ 69,04;Estimado;KATIA REGINA DA SILVA VIEIRA;3138;Deputado Federal;PHS;RJ;
-JORGE SAYED PICCIANI;12.176.626/0001-32;27/09/2010;31000025734;R$ 17,00;Estimado;KATIA REGINA DA SILVA VIEIRA;3138;Deputado Federal;PHS;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 3138 - KATIA REGINA DA SILVA VIEIRA - RJ - Deputado Federal;
+Comitê Financeiro Único;12.191.494/0001-18;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;Comitê Financeiro Único - PHS -  / 3138 - KATIA REGINA DA SILVA VIEIRA - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 3138 - KATIA REGINA DA SILVA VIEIRA - RJ - Deputado Federal;
+ELEIÇÃO 2010 ADILSON DOS REIS VIEIRA;12.178.399/0001-84;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 61,50;Estimado;31952 -  - PHS -  - Deputado Estadual / 3138 - KATIA REGINA DA SILVA VIEIRA - RJ - Deputado Federal;
+ELEIÇÃO 2010 ADILSON DOS REIS VIEIRA DEP. EST.;12.178.399/0001-84;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 69,04;Estimado;31952 -  - PHS -  - Deputado Estadual / 3138 - KATIA REGINA DA SILVA VIEIRA - RJ - Deputado Federal;
+JORGE SAYED PICCIANI;12.176.626/0001-32;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 3138 - KATIA REGINA DA SILVA VIEIRA - RJ - Deputado Federal;

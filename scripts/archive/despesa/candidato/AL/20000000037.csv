@@ -1,4 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JURACY COSTA BRAZ;153.634.904-63;23/07/2010;50000010251;R$ 1.300,00;Depósito em espécie;JURACY COSTA BRAZ;50501;Deputado Estadual;PSOL;AL;
-JURACY COSTA BRAZ;153.634.904-63;21/09/2010;50000010253;R$ 300,00;Depósito em espécie;JURACY COSTA BRAZ;50501;Deputado Estadual;PSOL;AL;
-JURACY COSTA BRAZ;153.634.904-63;28/07/2010;50000010252;R$ 2.000,00;Depósito em espécie;JURACY COSTA BRAZ;50501;Deputado Estadual;PSOL;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFPEL IND. GRÁFICA LTDA ME.;01.301.040/0001-36;31/07/2010;       Publicidade por materiais impressos;R$ 1.300,00;Cheque; -  -  / 50501 - JURACY COSTA BRAZ - AL - Deputado Estadual;
+GRAFPEL IND. GRÁFICA LTDA ME.;01.301.040/0001-36;31/07/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 50501 - JURACY COSTA BRAZ - AL - Deputado Estadual;
+GRAFPEL IND. GRÁFICA LTDA ME.;01.301.040/0001-36;20/09/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 50501 - JURACY COSTA BRAZ - AL - Deputado Estadual;
+LOURIVAL PEREIRA DOS SANTOS;11.609.957/0001-56;30/07/2010;       Publicidade por materiais impressos;R$ 900,00;Cheque; -  -  / 50501 - JURACY COSTA BRAZ - AL - Deputado Estadual;

@@ -1,5 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-KLEBER SILVA DE MIRANDA;345.076.803-44;09/08/2010;40000801431;R$ 5.100,00;Cheque;KLEBER SILVA DE MIRANDA;4001;Deputado Federal;PSB;MA;
-KLEBER SILVA DE MIRANDA;345.076.803-44;08/09/2010;40000801433;R$ 1.000,00;Cheque;KLEBER SILVA DE MIRANDA;4001;Deputado Federal;PSB;MA;
-KLEBER SILVA DE MIRANDA;345.076.803-44;02/09/2010;40000801432;R$ 3.000,00;Estimado;KLEBER SILVA DE MIRANDA;4001;Deputado Federal;PSB;MA;
-KLEBER SILVA DE MIRANDA;345.076.803-44;22/08/2010;40000801434;R$ 3.400,00;Cheque;KLEBER SILVA DE MIRANDA;4001;Deputado Federal;PSB;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANIZIO VITORINO DE ASSUNÇÃO JUNIOR;344.908.763-00;17/09/2010;       Despesas com pessoal;R$ 905,00;Cheque; -  -  / 4001 - KLEBER SILVA DE MIRANDA - MA - Deputado Federal;
+AUTO POSTO GONZAÇÃO LTDA;05.052.987/0001-01;15/09/2010;       Combustíveis e lubrificantes;R$ 150,00;Cheque; -  -  / 4001 - KLEBER SILVA DE MIRANDA - MA - Deputado Federal;
+AUTO POSTO GONZAÇÃO LTDA;05.052.987/0001-01;02/09/2010;       Combustíveis e lubrificantes;R$ 150,00;Cheque; -  -  / 4001 - KLEBER SILVA DE MIRANDA - MA - Deputado Federal;
+AUTO POSTO GONZAÇÃO LTDA;05.052.987/0001-01;27/09/2010;       Combustíveis e lubrificantes;R$ 150,00;Cheque; -  -  / 4001 - KLEBER SILVA DE MIRANDA - MA - Deputado Federal;
+G. CARLOS NUNES;04.496.308/0001-20;13/09/2010;       Publicidade por materiais impressos;R$ 1.650,00;Cheque; -  -  / 4001 - KLEBER SILVA DE MIRANDA - MA - Deputado Federal;
+KLEBER SILVA DE MIRANDA;345.076.803-44;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.000,00;Estimado; -  -  / 4001 - KLEBER SILVA DE MIRANDA - MA - Deputado Federal;
+M.P.C. DE OLIVEIRA ARTES GRAFICA;07.267.788/0001-46;25/09/2010;       Publicidade por materiais impressos;R$ 1.445,00;Cheque; -  -  / 4001 - KLEBER SILVA DE MIRANDA - MA - Deputado Federal;
+M.P.C. DE OLIVEIRA ARTES GRAFICA;07.267.788/0001-46;31/07/2010;       Publicidade por materiais impressos;R$ 5.050,00;Cheque; -  -  / 4001 - KLEBER SILVA DE MIRANDA - MA - Deputado Federal;

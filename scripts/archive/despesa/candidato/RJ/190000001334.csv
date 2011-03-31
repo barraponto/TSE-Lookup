@@ -1,4 +1,13 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS ALBERTO SOBRAL FRANCO;042.113.911-00;24/08/2010;45000439541;R$ 1.000,00;Depósito em espécie;MERY JANE DE ANDRADE FRANCO;45607;Deputado Estadual;PSDB;RJ;
-MARY JANE DE ANDRADE FRANCO;126.980.437-50;24/09/2010;45000439543;R$ 4.675,65;Depósito em espécie;MERY JANE DE ANDRADE FRANCO;45607;Deputado Estadual;PSDB;RJ;
-MARY JANE DE ANDRADE FRANCO;126.980.437-50;24/08/2010;45000439542;R$ 1.000,00;Depósito em espécie;MERY JANE DE ANDRADE FRANCO;45607;Deputado Estadual;PSDB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AG~ENCIA DE CORREIOS ARAPOGI V.M. SERVIÇÕES POSTAIS E TEGRÁFICOS LTDA;40.357.642/0001-67;24/09/2010;       Despesas postais;R$ 4.675,65;Cheque; -  -  / 45607 - MERY JANE DE ANDRADE FRANCO - RJ - Deputado Estadual;
+CARLOS ALBERTO SOBRAL FRANCO;042.113.911-00;01/10/2010;       Serviços prestados por terceiros;R$ 40,00;Transferência eletrônica; -  -  / 45607 - MERY JANE DE ANDRADE FRANCO - RJ - Deputado Estadual;
+CARLOS VICTOR ANDRADE FRANCO;126.960.387-67;01/10/2010;       Serviços prestados por terceiros;R$ 100,00;Transferência eletrônica; -  -  / 45607 - MERY JANE DE ANDRADE FRANCO - RJ - Deputado Estadual;
+FABRICIO DE SOUZA GENTILE;138.073.227-10;31/08/2010;       Serviços prestados por terceiros;R$ 40,00;Cheque; -  -  / 45607 - MERY JANE DE ANDRADE FRANCO - RJ - Deputado Estadual;
+KASHIMIR STUDIO GRÁFICO LTDA.;07.002.644/0001-68;24/08/2010;       Publicidade por materiais impressos;R$ 450,00;Cheque; -  -  / 45607 - MERY JANE DE ANDRADE FRANCO - RJ - Deputado Estadual;
+KASHIMIR STUDIO GRÁFICO LTDA.;07.002.644/0001-68;29/09/2010;       Publicidade por materiais impressos;R$ 680,00;Cheque; -  -  / 45607 - MERY JANE DE ANDRADE FRANCO - RJ - Deputado Estadual;
+KASHIMIR STUDIO GRÁFICO LTDA.;07.002.644/0001-68;26/08/2010;       Publicidade por materiais impressos;R$ 450,00;Cheque; -  -  / 45607 - MERY JANE DE ANDRADE FRANCO - RJ - Deputado Estadual;
+MICHAELA DE JESUS NUNES;103.676.657-86;31/08/2010;       Serviços prestados por terceiros;R$ 40,00;Cheque; -  -  / 45607 - MERY JANE DE ANDRADE FRANCO - RJ - Deputado Estadual;
+PATRICIA RODRIGUES DA SILVA;084.170.587-96;01/10/2010;       Serviços prestados por terceiros;R$ 40,00;Transferência eletrônica; -  -  / 45607 - MERY JANE DE ANDRADE FRANCO - RJ - Deputado Estadual;
+POSTO DE GASOLINA BRACARENSE LTDA;73.522.070/0001-83;01/10/2010;       Combustíveis e lubrificantes;R$ 110,00;Transferência eletrônica; -  -  / 45607 - MERY JANE DE ANDRADE FRANCO - RJ - Deputado Estadual;
+POSTO DE GASOLINA BRACARENSE LTDA;73.522.070/0001-83;01/10/2010;       Combustíveis e lubrificantes;R$ 10,00;Transferência eletrônica; -  -  / 45607 - MERY JANE DE ANDRADE FRANCO - RJ - Deputado Estadual;
+THAMYRIS HELENA SAMPAIO SILVA;098.538.727-06;31/08/2010;       Serviços prestados por terceiros;R$ 40,00;Cheque; -  -  / 45607 - MERY JANE DE ANDRADE FRANCO - RJ - Deputado Estadual;

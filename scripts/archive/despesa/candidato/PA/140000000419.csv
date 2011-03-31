@@ -1,2 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FERNANDO DE SOUZA FLEXA RIBEIRO;12.167.217/0001-70;06/08/2010;33000124771;R$ 5.000,00;Cheque;RAIMUNDO ABDON DA SILVA;33321;Deputado Estadual;PMN;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BENEDITO DE SOUZA PESSOA;037.510.232-91;30/08/2010;       Eventos de promoção da candidatura;R$ 4.500,00;Não informado; -  -  / 33321 - RAIMUNDO ABDON DA SILVA - PA - Deputado Estadual;
+JOSÉ RAIMUNDO ALMEIDA DA SILVA;279.103.182-00;30/09/2010;       Cessão ou Locação de Veículos;R$ 500,00;Não informado; -  -  / 33321 - RAIMUNDO ABDON DA SILVA - PA - Deputado Estadual;

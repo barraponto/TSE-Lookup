@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS FERNANDO DE AGUIAR PALACIO;12.171.410/0001-84;27/08/2010;17000039902;R$ 842,20;Estimado;JOSE AUGUSTO RIBEIRO DE SOUSA;17189;Deputado Estadual;PSL;MA;
-JOSE AUGUSTO RIBEIRO DE SOUSA;376.636.313-15;23/07/2010;17000039903;R$ 610,00;Depósito em espécie;JOSE AUGUSTO RIBEIRO DE SOUSA;17189;Deputado Estadual;PSL;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS FERNANDO DE AGUIAR PALACIO;12.171.410/0001-84;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 842,20;Estimado;1745 -  - PSL -  - Deputado Federal / 17189 - JOSE AUGUSTO RIBEIRO DE SOUSA - MA - Deputado Estadual;
+DIOGO SEREJO DE ASSIS;841.248.303-00;23/07/2010;       Locação/cessão de bens imóveis;R$ 600,00;Cheque; -  -  / 17189 - JOSE AUGUSTO RIBEIRO DE SOUSA - MA - Deputado Estadual;
+;;18/10/2010;       Encargos financeiros e taxas bancárias;R$ 1,40;Débito em conta; -  -  / 17189 - JOSE AUGUSTO RIBEIRO DE SOUSA - MA - Deputado Estadual;

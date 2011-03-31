@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MARCIO DE SOUZA PAES;110.686.467-05;18/08/2010;43001510001;R$ 180,00;Estimado;CARLOS AUGUSTO DE MIRANDA PAES;43323;Deputado Estadual;PV;RJ;
-MARCIO DE SOUZA PAES;110.686.467-05;31/08/2010;43001510003;R$ 120,00;Estimado;CARLOS AUGUSTO DE MIRANDA PAES;43323;Deputado Estadual;PV;RJ;
-MARCIO DE SOUZA PAES;110.686.467-05;18/09/2010;43001510005;R$ 360,00;Estimado;CARLOS AUGUSTO DE MIRANDA PAES;43323;Deputado Estadual;PV;RJ;
-MARCIO DE SOUZA PAES;110.686.467-05;18/08/2010;43001510002;R$ 130,00;Estimado;CARLOS AUGUSTO DE MIRANDA PAES;43323;Deputado Estadual;PV;RJ;
-MARCIO DE SOUZA PAES;110.686.467-05;02/09/2010;43001510004;R$ 180,00;Estimado;CARLOS AUGUSTO DE MIRANDA PAES;43323;Deputado Estadual;PV;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+MARCIO DE SOUZA PAES;110.686.467-05;18/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado; -  -  / 43323 - CARLOS AUGUSTO DE MIRANDA PAES - RJ - Deputado Estadual;
+MARCIO DE SOUZA PAES;110.686.467-05;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 130,00;Estimado; -  -  / 43323 - CARLOS AUGUSTO DE MIRANDA PAES - RJ - Deputado Estadual;
+MARCIO DE SOUZA PAES;110.686.467-05;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 180,00;Estimado; -  -  / 43323 - CARLOS AUGUSTO DE MIRANDA PAES - RJ - Deputado Estadual;
+MARCIO DE SOUZA PAES;110.686.467-05;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 120,00;Estimado; -  -  / 43323 - CARLOS AUGUSTO DE MIRANDA PAES - RJ - Deputado Estadual;
+MARCIO DE SOUZA PAES;110.686.467-05;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 180,00;Estimado; -  -  / 43323 - CARLOS AUGUSTO DE MIRANDA PAES - RJ - Deputado Estadual;

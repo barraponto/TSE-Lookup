@@ -1,8 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO RICARDO BARBOSA;037.904.163-47;20/08/2010;16000027405;R$ 410,00;Estimado;FRANCISCO AUGUSTO SILVA NOBRE;16000;Deputado Estadual;PSTU;CE;
-Comitê Financeiro Único;12.235.314/0001-52;08/09/2010;16000027407;R$ 600,00;Estimado;FRANCISCO AUGUSTO SILVA NOBRE;16000;Deputado Estadual;PSTU;CE;
-ELKA PRISCYLA MIRANDA BRITO;093.317.794-10;20/08/2010;16000027404;R$ 410,00;Estimado;FRANCISCO AUGUSTO SILVA NOBRE;16000;Deputado Estadual;PSTU;CE;
-JOSE GONÇALVES DE ARAUJO FILHO;442.188.504-53;20/08/2010;16000027402;R$ 385,00;Depósito em espécie;FRANCISCO AUGUSTO SILVA NOBRE;16000;Deputado Estadual;PSTU;CE;
-JOSE GONÇALVES DE ARAUJO FILHO;442.188.504-53;20/09/2010;16000027403;R$ 316,00;Depósito em espécie;FRANCISCO AUGUSTO SILVA NOBRE;16000;Deputado Estadual;PSTU;CE;
-LUAN AZEVEDO CHAVES;035.678.253-05;20/08/2010;16000027406;R$ 410,00;Estimado;FRANCISCO AUGUSTO SILVA NOBRE;16000;Deputado Estadual;PSTU;CE;
-MARIA IOLANDA DE OLIVEIRA;737.614.433-15;05/08/2010;16000027401;R$ 100,00;Depósito em espécie;FRANCISCO AUGUSTO SILVA NOBRE;16000;Deputado Estadual;PSTU;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO RICARDO BARBOSA;037.904.163-47;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 410,00;Estimado; -  -  / 16000 - FRANCISCO AUGUSTO SILVA NOBRE - CE - Deputado Estadual;
+Comitê Financeiro Único;12.235.314/0001-52;08/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado;Comitê Financeiro Único - PSTU -  / 16000 - FRANCISCO AUGUSTO SILVA NOBRE - CE - Deputado Estadual;
+ELKA PRISCYLA MIRANDA BRITO;093.317.794-10;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 410,00;Estimado; -  -  / 16000 - FRANCISCO AUGUSTO SILVA NOBRE - CE - Deputado Estadual;
+HUDSON JORGE DA SILVA ME;10.762.945/0001-02;21/09/2010;       Publicidade por materiais impressos;R$ 320,00;Cheque; -  -  / 16000 - FRANCISCO AUGUSTO SILVA NOBRE - CE - Deputado Estadual;
+HUDSON JORGE DA SILVA ME;10.762.945/0001-02;25/08/2010;       Publicidade por materiais impressos;R$ 480,00;Cheque; -  -  / 16000 - FRANCISCO AUGUSTO SILVA NOBRE - CE - Deputado Estadual;
+LUAN AZEVEDO CHAVES;035.678.253-05;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 410,00;Estimado; -  -  / 16000 - FRANCISCO AUGUSTO SILVA NOBRE - CE - Deputado Estadual;

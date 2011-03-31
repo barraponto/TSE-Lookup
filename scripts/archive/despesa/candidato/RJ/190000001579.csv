@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;16/06/2010;31000025567;R$ 150,00;Estimado;JANAINA BARBARA SOARES DE SOUZA;31070;Deputado Estadual;PHS;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;16/09/2010;31000025568;R$ 150,00;Estimado;JANAINA BARBARA SOARES DE SOUZA;31070;Deputado Estadual;PHS;RJ;
-ELEIÇÃO 2010 NELSON ROBERTO BORNIER DE OLIVEIRA DEPUTADO FEDERAL;12.171.022/0001-01;24/08/2010;31000025566;R$ 75,00;Estimado;JANAINA BARBARA SOARES DE SOUZA;31070;Deputado Estadual;PHS;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;16/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 31070 - JANAINA BARBARA SOARES DE SOUZA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;16/06/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 31070 - JANAINA BARBARA SOARES DE SOUZA - RJ - Deputado Estadual;
+ELEIÇÃO 2010 NELSON ROBERTO BORNIER DE OLIVEIRA DEPUTADO FEDERAL;12.171.022/0001-01;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 75,00;Estimado;1500 -  - PMDB -  - Deputado Federal / 31070 - JANAINA BARBARA SOARES DE SOUZA - RJ - Deputado Estadual;

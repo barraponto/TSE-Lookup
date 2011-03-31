@@ -1,4 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-NATALIA COTRIM;477.862.481-53;17/09/2010;19000013901;R$ 2.500,00;Depósito em espécie;NATALINA DE JESUS COTRIM;19123;Deputado Distrital;PTN;DF;
-NATALIA COTRIM;477.862.481-53;24/09/2010;19000013902;R$ 1.600,00;Depósito em espécie;NATALINA DE JESUS COTRIM;19123;Deputado Distrital;PTN;DF;
-RILDO EMIDIO SOUSA SILVA;005.507.591-66;01/10/2010;19000013903;R$ 120,00;Transferência eletrônica;NATALINA DE JESUS COTRIM;19123;Deputado Distrital;PTN;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CELSO ALONSO DE ARAUJO;690.748.101-44;28/09/2010;       Produção de jingles, vinhetas e slogans;R$ 200,00;Cheque; -  -  / 19123 - NATALINA DE JESUS COTRIM - DF - Deputado Distrital;
+D & D GRAFICA E EDITORA LTDA ME;03.664.504/0001-02;25/09/2010;       Publicidade por materiais impressos;R$ 3.000,00;Cheque; -  -  / 19123 - NATALINA DE JESUS COTRIM - DF - Deputado Distrital;
+DANIEL LOPES DOS SANTOS;150.868.101-59;30/09/2010;       Despesas com pessoal;R$ 70,00;Cheque; -  -  / 19123 - NATALINA DE JESUS COTRIM - DF - Deputado Distrital;
+FERNANDO FERREIRA  FREITAS;013.301.211-55;30/09/2010;       Despesas com pessoal;R$ 391,00;Cheque; -  -  / 19123 - NATALINA DE JESUS COTRIM - DF - Deputado Distrital;
+PINCEL PLACAS E LETREIROS LTDA ME;10.864.315/0001-30;21/09/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 19123 - NATALINA DE JESUS COTRIM - DF - Deputado Distrital;
+VALMIR COSTA BEZERRA;982.606.771-72;30/09/2010;       Despesas com pessoal;R$ 238,00;Cheque; -  -  / 19123 - NATALINA DE JESUS COTRIM - DF - Deputado Distrital;
+;;01/10/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 19123 - NATALINA DE JESUS COTRIM - DF - Deputado Distrital;
+;;01/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 19123 - NATALINA DE JESUS COTRIM - DF - Deputado Distrital;

@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LIDICE DA MATA E SOUZA SENA;12.172.092/0001-76;17/09/2010;40000006642;R$ 1.000,00;Transferência eletrônica;MOZART DE ALMEIDA ARAUJO;40666;Deputado Estadual;PSB;BA;
-MOZART DE ALMEIDA ARAUJO;068.786.104-78;08/09/2010;40000006641;R$ 6.000,00;Depósito em espécie;MOZART DE ALMEIDA ARAUJO;40666;Deputado Estadual;PSB;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CASSIA CRISTINA SANTOS FAHNING CASTRO;024.555.055-02;08/09/2010;       Despesas com pessoal;R$ 2.998,00;Cheque; -  -  / 40666 - MOZART DE ALMEIDA ARAUJO - BA - Deputado Estadual;
+CASSIA CRISTINA SANTOS FAHNING CASTRO;024.555.055-02;13/09/2010;       Despesas com pessoal;R$ 2.890,00;Cheque; -  -  / 40666 - MOZART DE ALMEIDA ARAUJO - BA - Deputado Estadual;
+MAURICIO DAMASCENO DOS SANTOS;052.305.025-92;20/09/2010;       Combustíveis e lubrificantes;R$ 988,00;Cheque; -  -  / 40666 - MOZART DE ALMEIDA ARAUJO - BA - Deputado Estadual;

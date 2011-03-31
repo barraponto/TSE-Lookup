@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.515/0001-03;30/09/2010;33000083203;R$ 300,00;Estimado;DAMASCO SILVA MEDEIROS;3330;Deputado Federal;PMN;AL;
-Diretório Nacional;29.549.433/0001-82;22/09/2010;33000083201;R$ 5.000,00;Estimado;DAMASCO SILVA MEDEIROS;3330;Deputado Federal;PMN;AL;
-ELEIÇÕES 2010 FERNANDO AFFONSO COLLOR DE MELO;12.168.659/0001-30;29/09/2010;33000083202;R$ 3.906,25;Estimado;DAMASCO SILVA MEDEIROS;3330;Deputado Federal;PMN;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.515/0001-03;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMN -  / 3330 - DAMASCO SILVA MEDEIROS - AL - Deputado Federal;
+Diretório Nacional;29.549.433/0001-82;22/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 5.000,00;Estimado;Direção Nacional - PMN -  / 3330 - DAMASCO SILVA MEDEIROS - AL - Deputado Federal;
+ELEIÇÕES 2010 FERNANDO AFFONSO COLLOR DE MELO;12.168.659/0001-30;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.906,25;Estimado;14 -  - PTB -  - Governador / 3330 - DAMASCO SILVA MEDEIROS - AL - Deputado Federal;

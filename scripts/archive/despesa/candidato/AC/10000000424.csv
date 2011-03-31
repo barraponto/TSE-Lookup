@@ -1,5 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALBANIR DE FREITAS MOREIRA;233.288.602-82;03/09/2010;70000115101;R$ 1.950,00;Depósito em espécie;JOSE MARIA DE FREITAS MOREIRA;70000;Deputado Estadual;PT do B;AC;
-ALBANIR DE FREITAS MOREIRA;233.288.602-82;10/09/2010;70000115104;R$ 500,00;Estimado;JOSE MARIA DE FREITAS MOREIRA;70000;Deputado Estadual;PT do B;AC;
-EDIANA FEITOSA DA SILVA MIRANDA;004.509.671-66;01/09/2010;70000115105;R$ 600,00;Estimado;JOSE MARIA DE FREITAS MOREIRA;70000;Deputado Estadual;PT do B;AC;
-WILIAN PEREIRA DE SOUZA;443.968.302-97;27/09/2010;70000115102;R$ 1.050,00;Depósito em espécie;JOSE MARIA DE FREITAS MOREIRA;70000;Deputado Estadual;PT do B;AC;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ACRE PUBLICIDADE LTDA;02.787.053/0001-20;11/09/2010;       Publicidade por materiais impressos;R$ 460,00;Cheque; -  -  / 70000 - JOSE MARIA DE FREITAS MOREIRA - AC - Deputado Estadual;
+ALBANIR DE FREITAS MOREIRA;233.288.602-82;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 70000 - JOSE MARIA DE FREITAS MOREIRA - AC - Deputado Estadual;
+AUTO POSTO AEROPORTO;14.294.227/0001-00;03/09/2010;       Combustíveis e lubrificantes;R$ 602,37;Cheque; -  -  / 70000 - JOSE MARIA DE FREITAS MOREIRA - AC - Deputado Estadual;
+COPGRAF CRIATIVA;09.009.822/0001-08;03/09/2010;       Publicidade por placas, estandartes e faixas;R$ 270,00;Cheque; -  -  / 70000 - JOSE MARIA DE FREITAS MOREIRA - AC - Deputado Estadual;
+COPGRAF CRIATIVA;09.009.822/0001-08;16/09/2010;       Publicidade por placas, estandartes e faixas;R$ 175,00;Cheque; -  -  / 70000 - JOSE MARIA DE FREITAS MOREIRA - AC - Deputado Estadual;
+EDIANA FEITOSA DA SILVA MIRANDA;004.509.671-66;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado; -  -  / 70000 - JOSE MARIA DE FREITAS MOREIRA - AC - Deputado Estadual;
+GRAFICA E EDITORA SOUZA;12.224.477/0001-30;27/09/2010;       Publicidade por materiais impressos;R$ 92,63;Cheque; -  -  / 70000 - JOSE MARIA DE FREITAS MOREIRA - AC - Deputado Estadual;
+GRAFICA E EDITORA SOUZA;12.224.477/0001-30;24/09/2010;       Publicidade por materiais impressos;R$ 1.400,00;Cheque; -  -  / 70000 - JOSE MARIA DE FREITAS MOREIRA - AC - Deputado Estadual;

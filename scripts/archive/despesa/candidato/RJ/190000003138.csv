@@ -1,10 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CLAUDIA FREITAS BARRETO;003.387.077-27;22/09/2010;10000026789;R$ 200,00;Depósito em espécie;ROGERIO DOS SANTOS BARRETO;10281;Deputado Estadual;PRB;RJ;
-CLAUDIA FREITAS BARRETO;003.387.077-27;25/08/2010;10000026782;R$ 200,00;Depósito em espécie;ROGERIO DOS SANTOS BARRETO;10281;Deputado Estadual;PRB;RJ;
-Comitê Financeiro Único;12.200.167/0001-85;13/09/2010;10000026785;R$ 300,00;Estimado;ROGERIO DOS SANTOS BARRETO;10281;Deputado Estadual;PRB;RJ;
-Comitê Financeiro Único;12.200.167/0001-85;04/08/2010;10000026781;R$ 1.633,00;Estimado;ROGERIO DOS SANTOS BARRETO;10281;Deputado Estadual;PRB;RJ;
-Comitê Financeiro Único;12.200.167/0001-85;20/09/2010;10000026786;R$ 230,00;Estimado;ROGERIO DOS SANTOS BARRETO;10281;Deputado Estadual;PRB;RJ;
-LENILSON DE OLIVEIRA VARGAS;004.904.727-29;25/08/2010;10000026784;R$ 500,00;Depósito em espécie;ROGERIO DOS SANTOS BARRETO;10281;Deputado Estadual;PRB;RJ;
-LENILSON DE OLIVEIRA VARGAS;004.904.727-29;14/09/2010;10000026788;R$ 1.000,00;Depósito em espécie;ROGERIO DOS SANTOS BARRETO;10281;Deputado Estadual;PRB;RJ;
-ROGÉRIO DOS SANTOS BARRETO;920.631.527-72;25/08/2010;10000026783;R$ 442,00;Depósito em espécie;ROGERIO DOS SANTOS BARRETO;10281;Deputado Estadual;PRB;RJ;
-ROGÉRIO DOS SANTOS BARRETO;920.631.527-72;22/09/2010;10000026790;R$ 246,00;Depósito em espécie;ROGERIO DOS SANTOS BARRETO;10281;Deputado Estadual;PRB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.167/0001-85;13/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PRB -  / 10281 - ROGERIO DOS SANTOS BARRETO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.200.167/0001-85;04/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.633,00;Estimado;Comitê Financeiro Único - PRB -  / 10281 - ROGERIO DOS SANTOS BARRETO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.200.167/0001-85;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 230,00;Estimado;Comitê Financeiro Único - PRB -  / 10281 - ROGERIO DOS SANTOS BARRETO - RJ - Deputado Estadual;
+INFOGLOBO COMUNICACÃO E PARTICIPAÇÕES S/A;60.452.752/0001-15;24/09/2010;       Publicidade por jornais e revistas;R$ 446,00;Cheque; -  -  / 10281 - ROGERIO DOS SANTOS BARRETO - RJ - Deputado Estadual;
+SILPIN COMÉRCIO E IMPRESSOS LTDA;04.171.605/0001-04;15/09/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 10281 - ROGERIO DOS SANTOS BARRETO - RJ - Deputado Estadual;
+SILPIN COMÉRCIO E IMPRESSOS LTDA;04.171.605/0001-04;26/08/2010;       Publicidade por placas, estandartes e faixas;R$ 442,00;Cheque; -  -  / 10281 - ROGERIO DOS SANTOS BARRETO - RJ - Deputado Estadual;
+SILPIN COMÉRCIO E IMPRESSOS LTDA;04.171.605/0001-04;26/08/2010;       Publicidade por materiais impressos;R$ 700,00;Cheque; -  -  / 10281 - ROGERIO DOS SANTOS BARRETO - RJ - Deputado Estadual;

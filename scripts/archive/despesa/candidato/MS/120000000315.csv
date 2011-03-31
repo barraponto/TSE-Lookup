@@ -1,6 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.221.832/0001-17;15/09/2010;11000157143;R$ 627,00;Estimado;MARINETE APARECIDA DA SILVA MOREIRA;11222;Deputado Estadual;PP;MS;
-Comitê Financeiro Único;12.221.832/0001-17;15/09/2010;11000157144;R$ 2.434,30;Estimado;MARINETE APARECIDA DA SILVA MOREIRA;11222;Deputado Estadual;PP;MS;
-MARINETE APARECIDA DA SILVA MOREIRA;390.312.171-15;31/08/2010;11000157142;R$ 200,00;Depósito em espécie;MARINETE APARECIDA DA SILVA MOREIRA;11222;Deputado Estadual;PP;MS;
-MARINETE APARECIDA DA SILVA MOREIRA;390.312.171-15;29/07/2010;11000157141;R$ 200,00;Cheque;MARINETE APARECIDA DA SILVA MOREIRA;11222;Deputado Estadual;PP;MS;
-RAIMUNDO NONATO DE CARVALHO;12.203.971/0001-18;23/09/2010;11000157145;R$ 2.000,00;Cheque;MARINETE APARECIDA DA SILVA MOREIRA;11222;Deputado Estadual;PP;MS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARIOVALDO DA SILVA;102.974.561-72;30/09/2010;       Despesas com pessoal;R$ 900,00;Cheque; -  -  / 11222 - MARINETE APARECIDA DA SILVA MOREIRA - MS - Deputado Estadual;
+Comitê Financeiro Único;12.221.832/0001-17;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 627,00;Estimado;Comitê Financeiro Único - PP -  / 11222 - MARINETE APARECIDA DA SILVA MOREIRA - MS - Deputado Estadual;
+Comitê Financeiro Único;12.221.832/0001-17;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.434,30;Estimado;Comitê Financeiro Único - PP -  / 11222 - MARINETE APARECIDA DA SILVA MOREIRA - MS - Deputado Estadual;
+GILBERTO BATISTA DE OLIVEIRA;199.715.911-20;30/09/2010;       Locação/cessão de bens imóveis;R$ 900,00;Cheque; -  -  / 11222 - MARINETE APARECIDA DA SILVA MOREIRA - MS - Deputado Estadual;
+NOEL MARTINS;004.141.661-91;21/10/2010;       Serviços prestados por terceiros;R$ 200,00;Cheque; -  -  / 11222 - MARINETE APARECIDA DA SILVA MOREIRA - MS - Deputado Estadual;
+NOEL MARTINS;004.141.661-91;31/08/2010;       Serviços prestados por terceiros;R$ 200,00;Cheque; -  -  / 11222 - MARINETE APARECIDA DA SILVA MOREIRA - MS - Deputado Estadual;
+NOEL MARTINS;004.141.661-91;29/07/2010;       Serviços prestados por terceiros;R$ 200,00;Cheque; -  -  / 11222 - MARINETE APARECIDA DA SILVA MOREIRA - MS - Deputado Estadual;

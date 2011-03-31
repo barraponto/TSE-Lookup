@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADEMIR GALVÃO ANDRADE;12.189.621/0001-44;20/08/2010;40002344941;R$ 4.000,00;Cheque;RAIMUNDO VIEIRA FILHO;40333;Deputado Estadual;PSB;PA;
-ADEMIR GALVÃO ANDRADE;12.189.621/0001-44;10/09/2010;40002344942;R$ 4.000,00;Cheque;RAIMUNDO VIEIRA FILHO;40333;Deputado Estadual;PSB;PA;
-ADEMIR GALVÃO ANDRADE;12.189.621/0001-44;30/09/2010;40002344943;R$ 1.000,00;Estimado;RAIMUNDO VIEIRA FILHO;40333;Deputado Estadual;PSB;PA;
-ADEMIR GALVÃO ANDRADE;12.189.621/0001-44;04/09/2010;40002344947;R$ 300,00;Estimado;RAIMUNDO VIEIRA FILHO;40333;Deputado Estadual;PSB;PA;
-ADEMIR GALVÃO ANDRADE;12.189.621/0001-44;05/09/2010;40002344945;R$ 395,00;Estimado;RAIMUNDO VIEIRA FILHO;40333;Deputado Estadual;PSB;PA;
-ADEMIR GALVÃO ANDRADE;12.189.621/0001-44;04/09/2010;40002344946;R$ 425,00;Estimado;RAIMUNDO VIEIRA FILHO;40333;Deputado Estadual;PSB;PA;
-ADEMIR GALVÃO ANDRADE;12.189.621/0001-44;29/09/2010;40002344944;R$ 2.000,00;Estimado;RAIMUNDO VIEIRA FILHO;40333;Deputado Estadual;PSB;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADEMIR GALVÃO ANDRADE;12.189.621/0001-44;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;4040 -  - PSB -  - Deputado Federal / 40333 - RAIMUNDO VIEIRA FILHO - PA - Deputado Estadual;
+ADEMIR GALVÃO ANDRADE;12.189.621/0001-44;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;4040 -  - PSB -  - Deputado Federal / 40333 - RAIMUNDO VIEIRA FILHO - PA - Deputado Estadual;
+ADEMIR GALVÃO ANDRADE;12.189.621/0001-44;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 425,00;Estimado;4040 -  - PSB -  - Deputado Federal / 40333 - RAIMUNDO VIEIRA FILHO - PA - Deputado Estadual;
+ADEMIR GALVÃO ANDRADE;12.189.621/0001-44;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado;4040 -  - PSB -  - Deputado Federal / 40333 - RAIMUNDO VIEIRA FILHO - PA - Deputado Estadual;
+ADEMIR GALVÃO ANDRADE;12.189.621/0001-44;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 395,00;Estimado;4040 -  - PSB -  - Deputado Federal / 40333 - RAIMUNDO VIEIRA FILHO - PA - Deputado Estadual;
+MARIA RAIMUNDA VIEIRA TANIMOTO;236.371.022-34;30/08/2010;       Publicidade por carros de som;R$ 4.000,00;Cheque; -  -  / 40333 - RAIMUNDO VIEIRA FILHO - PA - Deputado Estadual;
+MARIA RAIMUNDA VIEIRA TANIMOTO;236.371.022-34;14/09/2010;       Publicidade por carros de som;R$ 4.000,00;Cheque; -  -  / 40333 - RAIMUNDO VIEIRA FILHO - PA - Deputado Estadual;

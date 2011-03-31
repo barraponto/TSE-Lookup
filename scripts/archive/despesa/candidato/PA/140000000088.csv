@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JORGE L. G. PANZERA;12.204.180/0001-02;14/09/2010;65000228409;R$ 240,00;Estimado;MARCOS CARMO DE ALMEIDA;65012;Deputado Estadual;PC do B;PA;
-JORGE L. G. PANZERA;12.204.180/0001-02;14/09/2010;65000228410;R$ 161,00;Estimado;MARCOS CARMO DE ALMEIDA;65012;Deputado Estadual;PC do B;PA;
-JORGE L. G. PANZERA;12.204.180/0001-02;29/09/2010;65000228414;R$ 100,00;Estimado;MARCOS CARMO DE ALMEIDA;65012;Deputado Estadual;PC do B;PA;
-JORGE L. G. PANZERA;12.204.180/0001-02;14/09/2010;65000228412;R$ 30,00;Estimado;MARCOS CARMO DE ALMEIDA;65012;Deputado Estadual;PC do B;PA;
-JORGE L. G. PANZERA;12.204.180/0001-02;29/09/2010;65000228413;R$ 1.000,00;Cheque;MARCOS CARMO DE ALMEIDA;65012;Deputado Estadual;PC do B;PA;
-JORGE L. G. PANZERA;12.204.180/0001-02;14/09/2010;65000228411;R$ 100,00;Estimado;MARCOS CARMO DE ALMEIDA;65012;Deputado Estadual;PC do B;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+HERLAINE FREIRE DA SILVA;826.577.692-68;14/10/2010;       Cessão ou Locação de Veículos;R$ 1.000,00;Cheque; -  -  / 65012 - MARCOS CARMO DE ALMEIDA - PA - Deputado Estadual;
+JORGE L. G. PANZERA;12.204.180/0001-02;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 240,00;Estimado; -  -  / 65012 - MARCOS CARMO DE ALMEIDA - PA - Deputado Estadual;
+JORGE L. G. PANZERA;12.204.180/0001-02;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 30,00;Estimado; -  -  / 65012 - MARCOS CARMO DE ALMEIDA - PA - Deputado Estadual;
+JORGE L. G. PANZERA;12.204.180/0001-02;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado; -  -  / 65012 - MARCOS CARMO DE ALMEIDA - PA - Deputado Estadual;
+JORGE L. G. PANZERA;12.204.180/0001-02;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 161,00;Estimado; -  -  / 65012 - MARCOS CARMO DE ALMEIDA - PA - Deputado Estadual;
+JORGE L. G. PANZERA;12.204.180/0001-02;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado; -  -  / 65012 - MARCOS CARMO DE ALMEIDA - PA - Deputado Estadual;

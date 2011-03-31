@@ -1,2 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CELSO CLAUDIO ROBERTO;348.508.646-00;10/08/2010;70000146401;R$ 100,00;Estimado;GILDENICE ROCHA CAMPOS;7012;Deputado Federal;PT do B;ES;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CELSO CLAUDIO ROBERTO;348.508.646-00;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado; -  -  / 7012 - GILDENICE ROCHA CAMPOS - ES - Deputado Federal;
+GRAFICA E EDITORA JEP LTDA.;27.252.147/0001-25;04/08/2010;       Publicidade por materiais impressos;R$ 32,50;Cheque; -  -  / 7012 - GILDENICE ROCHA CAMPOS - ES - Deputado Federal;
+GSA - GRAFICA E EDITORA LTDA.;28.156.297/0001-06;01/09/2010;       Publicidade por materiais impressos;R$ 90,00;Cheque; -  -  / 7012 - GILDENICE ROCHA CAMPOS - ES - Deputado Federal;

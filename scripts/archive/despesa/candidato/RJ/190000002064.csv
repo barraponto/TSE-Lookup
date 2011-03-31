@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CELMA GOMES SANTOS;810.781.457-68;25/08/2010;20000676303;R$ 1.200,00;Estimado;MOACIR JOSÉ RODRIGUES;20162;Deputado Estadual;PSC;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;29/09/2010;20000676305;R$ 150,00;Estimado;MOACIR JOSÉ RODRIGUES;20162;Deputado Estadual;PSC;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;18/08/2010;20000676301;R$ 150,00;Estimado;MOACIR JOSÉ RODRIGUES;20162;Deputado Estadual;PSC;RJ;
-FABIANA COELHO PAIVA;080.703.387-17;25/08/2010;20000676302;R$ 1.200,00;Estimado;MOACIR JOSÉ RODRIGUES;20162;Deputado Estadual;PSC;RJ;
-LÍDIA NILCÉA DA SILVA SELANO;372.014.417-87;26/08/2010;20000676304;R$ 1.200,00;Estimado;MOACIR JOSÉ RODRIGUES;20162;Deputado Estadual;PSC;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CELMA GOMES SANTOS;810.781.457-68;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.200,00;Estimado; -  -  / 20162 - MOACIR JOSÉ RODRIGUES - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 20162 - MOACIR JOSÉ RODRIGUES - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 20162 - MOACIR JOSÉ RODRIGUES - RJ - Deputado Estadual;
+FABIANA COELHO PAIVA;080.703.387-17;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.200,00;Estimado; -  -  / 20162 - MOACIR JOSÉ RODRIGUES - RJ - Deputado Estadual;
+LÍDIA NILCÉA DA SILVA SELANO;372.014.417-87;26/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.200,00;Estimado; -  -  / 20162 - MOACIR JOSÉ RODRIGUES - RJ - Deputado Estadual;

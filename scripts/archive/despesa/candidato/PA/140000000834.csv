@@ -1,6 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-AGREUSE AMARAL DE ALMEIDA LIMA;118.470.058-37;24/09/2010;43001884925;R$ 300,00;Outros títulos de crédito;JOSE BATISTA DE LIMA;43455;Deputado Estadual;PV;PA;
-JOSE BATISTA DE LIMA;148.469.342-68;23/08/2010;43001884921;R$ 2.000,00;Depósito em espécie;JOSE BATISTA DE LIMA;43455;Deputado Estadual;PV;PA;
-JOSE BATISTA DE LIMA;148.469.342-68;24/08/2010;43001884922;R$ 1.000,00;Transferência eletrônica;JOSE BATISTA DE LIMA;43455;Deputado Estadual;PV;PA;
-SMART MONEY IND. COM. IMP. EXP. DE PRODUTOS AGRO;02.010.135/0002-44;24/09/2010;43001884923;R$ 1.000,00;Depósito em espécie;JOSE BATISTA DE LIMA;43455;Deputado Estadual;PV;PA;
-WALTER ANTONIO MATIAS LOBO;412.930.371-68;24/09/2010;43001884924;R$ 5.000,00;Estimado;JOSE BATISTA DE LIMA;43455;Deputado Estadual;PV;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GESSE DA SILVA;624.626.602-91;27/09/2010;       Publicidade por carros de som;R$ 1.000,00;Cheque; -  -  / 43455 - JOSE BATISTA DE LIMA - PA - Deputado Estadual;
+JOSE BATISTA DE LIMA DEPUTADO EST.;05.835.740/0001-61;27/10/2010;       Diversas a especificar;R$ 17,90;Transferência eletrônica; -  -  / 43455 - JOSE BATISTA DE LIMA - PA - Deputado Estadual;
+LEANDRO NICOLODI;785.903.612-68;22/08/2010;       Publicidade por carros de som;R$ 2.185,00;Cheque; -  -  / 43455 - JOSE BATISTA DE LIMA - PA - Deputado Estadual;
+MANUEL MARIA CANDIDO DE SOUZA;558.026.722-34;02/09/2010;       Publicidade por placas, estandartes e faixas;R$ 358,00;Cheque; -  -  / 43455 - JOSE BATISTA DE LIMA - PA - Deputado Estadual;
+OCEMIR DA SILVA AMORIM;510.955.802-72;24/09/2010;       Publicidade por carros de som;R$ 300,00;Não informado; -  -  / 43455 - JOSE BATISTA DE LIMA - PA - Deputado Estadual;
+VALDILENE N BARROS;06.218.109/0001-86;26/08/2010;       Materiais de expediente;R$ 438,75;Cheque; -  -  / 43455 - JOSE BATISTA DE LIMA - PA - Deputado Estadual;
+WALTER ANTONIO MATIAS LOBO;412.930.371-68;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 5.000,00;Estimado; -  -  / 43455 - JOSE BATISTA DE LIMA - PA - Deputado Estadual;
+;;16/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 43455 - JOSE BATISTA DE LIMA - PA - Deputado Estadual;

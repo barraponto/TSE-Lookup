@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANA JULIA DE VASCONCELOS CAREPA;12.171.430/0001-55;16/10/2010;22000063505;R$ 500,00;Estimado;FRANCISCO FURTADO RIBEIRO;22522;Deputado Estadual;PR;PA;
-Comitê Financeiro Único;12.249.219/0001-08;25/08/2010;22000063504;R$ 480,00;Estimado;FRANCISCO FURTADO RIBEIRO;22522;Deputado Estadual;PR;PA;
-FRANCISCO FURTADO RIBEIRO;465.847.067-53;30/07/2010;22000063501;R$ 250,00;Estimado;FRANCISCO FURTADO RIBEIRO;22522;Deputado Estadual;PR;PA;
-FRANCISCO FURTADO RIBEIRO;465.847.067-53;30/07/2010;22000063502;R$ 20,00;Estimado;FRANCISCO FURTADO RIBEIRO;22522;Deputado Estadual;PR;PA;
-LUCIO DUTRA VALE;12.175.288/0001-14;02/10/2010;22000063506;R$ 1.368,42;Estimado;FRANCISCO FURTADO RIBEIRO;22522;Deputado Estadual;PR;PA;
-LUCIO DUTRA VALE;12.175.288/0001-14;01/10/2010;22000063503;R$ 120,00;Estimado;FRANCISCO FURTADO RIBEIRO;22522;Deputado Estadual;PR;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANA JULIA DE VASCONCELOS CAREPA;12.171.430/0001-55;16/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;13 -  - PT -  - Governador / 22522 - FRANCISCO FURTADO RIBEIRO - PA - Deputado Estadual;
+Comitê Financeiro Único;12.249.219/0001-08;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 480,00;Estimado;Comitê Financeiro Único - PR -  / 22522 - FRANCISCO FURTADO RIBEIRO - PA - Deputado Estadual;
+FRANCISCO FURTADO RIBEIRO;465.847.067-53;30/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado; -  -  / 22522 - FRANCISCO FURTADO RIBEIRO - PA - Deputado Estadual;
+FRANCISCO FURTADO RIBEIRO;465.847.067-53;30/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 20,00;Estimado; -  -  / 22522 - FRANCISCO FURTADO RIBEIRO - PA - Deputado Estadual;
+LUCIO DUTRA VALE;12.175.288/0001-14;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 120,00;Estimado;2222 -  - PR -  - Deputado Federal / 22522 - FRANCISCO FURTADO RIBEIRO - PA - Deputado Estadual;
+LUCIO DUTRA VALE;12.175.288/0001-14;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.368,42;Estimado;2222 -  - PR -  - Deputado Federal / 22522 - FRANCISCO FURTADO RIBEIRO - PA - Deputado Estadual;

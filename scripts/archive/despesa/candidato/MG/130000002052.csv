@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS MAGNO RIBEIRO COSTA;12.177.696/0001-05;12/10/2010;13000700565;R$ 27,50;Estimado;CLEBERSON DE JESUS MATOS;1345;Deputado Federal;PT;MG;
-CARLOS MAGNO RIBEIRO COSTA;12.177.696/0001-05;12/10/2010;13000700564;R$ 71,15;Estimado;CLEBERSON DE JESUS MATOS;1345;Deputado Federal;PT;MG;
-Comitê Financeiro Estadual/Distrital para Deputado Federal;12.205.317/0001-43;11/10/2010;13000700562;R$ 600,00;Estimado;CLEBERSON DE JESUS MATOS;1345;Deputado Federal;PT;MG;
-FERNANDO DAMATA PIMENTEL;12.189.933/0001-58;20/09/2010;13000700563;R$ 711,39;Estimado;CLEBERSON DE JESUS MATOS;1345;Deputado Federal;PT;MG;
-HELIO CALIXTO COSTA;12.189.609/0001-30;05/08/2010;13000700561;R$ 300,00;Estimado;CLEBERSON DE JESUS MATOS;1345;Deputado Federal;PT;MG;
-HÉLIO CALIXTO DA COSTA;12.189.609/0001-30;01/10/2010;13000700566;R$ 300,00;Estimado;CLEBERSON DE JESUS MATOS;1345;Deputado Federal;PT;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS MAGNO RIBEIRO COSTA;12.177.696/0001-05;12/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 27,50;Estimado;13450 -  - PT -  - Deputado Estadual / 1345 - CLEBERSON DE JESUS MATOS - MG - Deputado Federal;
+CARLOS MAGNO RIBEIRO COSTA;12.177.696/0001-05;12/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 71,15;Estimado;13450 -  - PT -  - Deputado Estadual / 1345 - CLEBERSON DE JESUS MATOS - MG - Deputado Federal;
+Comitê Financeiro Estadual/Distrital para Deputado Federal;12.205.317/0001-43;11/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Federal - PT -  / 1345 - CLEBERSON DE JESUS MATOS - MG - Deputado Federal;
+FERNANDO DAMATA PIMENTEL;12.189.933/0001-58;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 711,39;Estimado;133 -  - PT -  - Senador / 1345 - CLEBERSON DE JESUS MATOS - MG - Deputado Federal;
+HELIO CALIXTO COSTA;12.189.609/0001-30;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;15 -  - PMDB -  - Governador / 1345 - CLEBERSON DE JESUS MATOS - MG - Deputado Federal;
+HÉLIO CALIXTO DA COSTA;12.189.609/0001-30;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;15 -  - PMDB -  - Governador / 1345 - CLEBERSON DE JESUS MATOS - MG - Deputado Federal;

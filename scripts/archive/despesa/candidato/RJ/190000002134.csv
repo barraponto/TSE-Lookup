@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DOMINGOS BRAZÃO;12.199.922/0001-59;01/10/2010;14000130391;R$ 112,50;Estimado;JOAO FRANCISCO DE OLIVEIRA;1422;Deputado Federal;PTB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DOMINGOS BRAZÃO;12.199.922/0001-59;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 112,50;Estimado;15501 -  - PMDB -  - Deputado Estadual / 1422 - JOAO FRANCISCO DE OLIVEIRA - RJ - Deputado Federal;

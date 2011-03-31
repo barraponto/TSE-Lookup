@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-GERUSA DA SILVA AMORAS;066.733.252-91;30/09/2010;44000041553;R$ 1.800,00;Depósito em espécie;JOSE ELIZALDO SILVA SANTOS;4444;Deputado Federal;PRP;AP;
-MAURA PANTOJA PACHECO;098.451.512-72;30/09/2010;44000041554;R$ 1.200,00;Depósito em espécie;JOSE ELIZALDO SILVA SANTOS;4444;Deputado Federal;PRP;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARVALHO & AGRA LTDA;02.452.603/0001-50;01/10/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 4444 - JOSE ELIZALDO SILVA SANTOS - AP - Deputado Federal;
+FOTO E OTICA TOQUE ESPECIAL LTDA EPP;04.624.792/0003-98;27/09/2010;       Publicidade por materiais impressos;R$ 1.770,00;Cheque; -  -  / 4444 - JOSE ELIZALDO SILVA SANTOS - AP - Deputado Federal;
+R M R DE ALMEIDA ME;02.747.184/0001-83;01/10/2010;       Publicidade por materiais impressos;R$ 630,00;Cheque; -  -  / 4444 - JOSE ELIZALDO SILVA SANTOS - AP - Deputado Federal;

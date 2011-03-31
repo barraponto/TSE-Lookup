@@ -1,6 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.235.322/0001-07;10/10/2010;16000035554;R$ 600,00;Estimado;UBIRAJARA QUEIROZ DE OLIVEIRA;1666;Deputado Federal;PSTU;RN;
-Comitê Financeiro Único;12.235.322/0001-07;22/10/2010;16000035555;R$ 200,00;Estimado;UBIRAJARA QUEIROZ DE OLIVEIRA;1666;Deputado Federal;PSTU;RN;
-Comitê Financeiro Único;12.235.322/0001-07;24/09/2010;16000035552;R$ 400,00;Depósito em espécie;UBIRAJARA QUEIROZ DE OLIVEIRA;1666;Deputado Federal;PSTU;RN;
-LUCIANA LIMA DA SILVA;12.199.743/0001-11;24/09/2010;16000035556;R$ 45,00;Estimado;UBIRAJARA QUEIROZ DE OLIVEIRA;1666;Deputado Federal;PSTU;RN;
-WILSON DA SILVA BARBOSA;061.549.894-90;10/10/2010;16000035553;R$ 400,00;Estimado;UBIRAJARA QUEIROZ DE OLIVEIRA;1666;Deputado Federal;PSTU;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.235.322/0001-07;22/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;Comitê Financeiro Único - PSTU -  / 1666 - UBIRAJARA QUEIROZ DE OLIVEIRA - RN - Deputado Federal;
+Comitê Financeiro Único;12.235.322/0001-07;10/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado;Comitê Financeiro Único - PSTU -  / 1666 - UBIRAJARA QUEIROZ DE OLIVEIRA - RN - Deputado Federal;
+GRAFICA SUL & EDITORA LTDA;06.948.614/0001-86;18/10/2010;       Publicidade por materiais impressos;R$ 142,00;Cheque; -  -  / 1666 - UBIRAJARA QUEIROZ DE OLIVEIRA - RN - Deputado Federal;
+GRAFIPEL SERVIÇOS GRAFICOS E REPROGRAFICOS LTDA;03.239.088/0001-97;28/09/2010;       Publicidade por materiais impressos;R$ 150,00;Cheque; -  -  / 1666 - UBIRAJARA QUEIROZ DE OLIVEIRA - RN - Deputado Federal;
+LUCIANA LIMA DA SILVA;12.199.743/0001-11;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 45,00;Estimado;16123 -  - PSTU -  - Deputado Estadual / 1666 - UBIRAJARA QUEIROZ DE OLIVEIRA - RN - Deputado Federal;
+WILSON DA SILVA BARBOSA;061.549.894-90;10/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado; -  -  / 1666 - UBIRAJARA QUEIROZ DE OLIVEIRA - RN - Deputado Federal;

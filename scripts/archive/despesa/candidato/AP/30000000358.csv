@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.241.703/0001-90;08/08/2010;11000173221;R$ 400,00;Estimado;ELZA MARIA NOGUEIRA BLANCO;11357;Deputado Estadual;PP;AP;
-Comitê Financeiro Único;12.241.703/0001-90;14/08/2010;11000173222;R$ 1.100,00;Estimado;ELZA MARIA NOGUEIRA BLANCO;11357;Deputado Estadual;PP;AP;
-Comitê Financeiro Único;12.241.703/0001-90;01/10/2010;11000173225;R$ 550,00;Estimado;ELZA MARIA NOGUEIRA BLANCO;11357;Deputado Estadual;PP;AP;
-Comitê Financeiro Único;12.241.703/0001-90;28/09/2010;11000173224;R$ 625,00;Estimado;ELZA MARIA NOGUEIRA BLANCO;11357;Deputado Estadual;PP;AP;
-Comitê Financeiro Único;12.256.162/0001-74;21/08/2010;11000173223;R$ 240,00;Estimado;ELZA MARIA NOGUEIRA BLANCO;11357;Deputado Estadual;PP;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.256.162/0001-74;21/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 240,00;Estimado;Comitê Financeiro Único - PDT -  / 11357 - ELZA MARIA NOGUEIRA BLANCO - AP - Deputado Estadual;
+Comitê Financeiro Único;12.241.703/0001-90;08/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado;Comitê Financeiro Único - PP -  / 11357 - ELZA MARIA NOGUEIRA BLANCO - AP - Deputado Estadual;
+Comitê Financeiro Único;12.241.703/0001-90;14/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.100,00;Estimado;Comitê Financeiro Único - PP -  / 11357 - ELZA MARIA NOGUEIRA BLANCO - AP - Deputado Estadual;
+Comitê Financeiro Único;12.241.703/0001-90;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 550,00;Estimado;Comitê Financeiro Único - PP -  / 11357 - ELZA MARIA NOGUEIRA BLANCO - AP - Deputado Estadual;
+Comitê Financeiro Único;12.241.703/0001-90;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 625,00;Estimado;Comitê Financeiro Único - PP -  / 11357 - ELZA MARIA NOGUEIRA BLANCO - AP - Deputado Estadual;

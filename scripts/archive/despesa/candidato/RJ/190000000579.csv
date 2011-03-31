@@ -1,4 +1,14 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FRANCISCO JOSE DANGELO PINTO;12.190.759/0001-63;10/08/2010;13000871222;R$ 5.000,00;Cheque;JAIRO EDUARDO BEZERRA PASSOS;13513;Deputado Estadual;PT;RJ;
-FRANCISCO JOSE DANGELO PINTO;12.190.759/0001-63;16/09/2010;13000871223;R$ 5.000,00;Cheque;JAIRO EDUARDO BEZERRA PASSOS;13513;Deputado Estadual;PT;RJ;
-JORGE RICARDO BITTAR;12.174.323/0001-80;30/08/2010;13000871221;R$ 10.000,00;Cheque;JAIRO EDUARDO BEZERRA PASSOS;13513;Deputado Estadual;PT;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JAIRO EDUARDO BEZERRA PASSOS;782.298.717-87;30/08/2010;       Despesas com pessoal;R$ 2.000,00;Cheque; -  -  / 13513 - JAIRO EDUARDO BEZERRA PASSOS - RJ - Deputado Estadual;
+JAIRO EDUARDO BEZERRA PASSOS;782.298.717-87;03/09/2010;       Despesas com pessoal;R$ 2.000,00;Cheque; -  -  / 13513 - JAIRO EDUARDO BEZERRA PASSOS - RJ - Deputado Estadual;
+JAIRO EDUARDO BEZERRA PASSOS;782.298.717-87;24/08/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / 13513 - JAIRO EDUARDO BEZERRA PASSOS - RJ - Deputado Estadual;
+JAIRO EDUARDO BEZERRA PASSOS;782.298.717-87;01/09/2010;       Despesas com pessoal;R$ 5.000,00;Cheque; -  -  / 13513 - JAIRO EDUARDO BEZERRA PASSOS - RJ - Deputado Estadual;
+JAIRO EDUARDO BEZERRA PASSOS;782.298.717-87;31/08/2010;       Despesas com pessoal;R$ 750,00;Cheque; -  -  / 13513 - JAIRO EDUARDO BEZERRA PASSOS - RJ - Deputado Estadual;
+JAIRO EDUARDO BEZERRA PASSOS;782.298.717-87;17/08/2010;       Despesas com pessoal;R$ 2.000,00;Cheque; -  -  / 13513 - JAIRO EDUARDO BEZERRA PASSOS - RJ - Deputado Estadual;
+JAIRO EDUARDO BEZERRA PASSOS;782.298.717-87;31/08/2010;       Despesas com pessoal;R$ 2.000,00;Cheque; -  -  / 13513 - JAIRO EDUARDO BEZERRA PASSOS - RJ - Deputado Estadual;
+JAIRO EDUARDO BEZERRA PASSOS;782.298.717-87;16/08/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / 13513 - JAIRO EDUARDO BEZERRA PASSOS - RJ - Deputado Estadual;
+JAIRO EDUARDO BEZERRA PASSOS;782.298.717-87;27/09/2010;       Despesas com pessoal;R$ 1.100,00;Cheque; -  -  / 13513 - JAIRO EDUARDO BEZERRA PASSOS - RJ - Deputado Estadual;
+JAIRO EDUARDO BEZERRA PASSOS;782.298.717-87;20/09/2010;       Despesas com pessoal;R$ 4.000,00;Cheque; -  -  / 13513 - JAIRO EDUARDO BEZERRA PASSOS - RJ - Deputado Estadual;
+;;01/09/2010;       Encargos financeiros e taxas bancárias;R$ 25,00;Débito em conta; -  -  / 13513 - JAIRO EDUARDO BEZERRA PASSOS - RJ - Deputado Estadual;
+;;17/08/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 13513 - JAIRO EDUARDO BEZERRA PASSOS - RJ - Deputado Estadual;
+;;01/09/2010;       Encargos financeiros e taxas bancárias;R$ 10,50;Débito em conta; -  -  / 13513 - JAIRO EDUARDO BEZERRA PASSOS - RJ - Deputado Estadual;

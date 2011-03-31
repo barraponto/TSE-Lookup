@@ -1,3 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-BRUNO CÉSAR DESCHAMPS MEIRINHO;030.392.439-00;30/07/2010;50000389662;R$ 204,80;Depósito em espécie;BRUNO CÉSAR DESCHAMPS MEIRINHO;5005;Deputado Federal;PSOL;PR;
-JOSEFA MARIA DE OLIVEIRA POCH;652.059.289-72;15/09/2010;50000389691;R$ 100,00;Depósito em espécie;BRUNO CÉSAR DESCHAMPS MEIRINHO;5005;Deputado Federal;PSOL;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+FELIPE RIGON SPACK;065.158.219-99;01/10/2010;       Serviços prestados por terceiros;R$ 304,80;Cheque; -  -  / 5005 - BRUNO CÉSAR DESCHAMPS MEIRINHO - PR - Deputado Federal;

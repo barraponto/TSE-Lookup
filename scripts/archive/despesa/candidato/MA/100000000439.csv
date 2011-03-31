@@ -1,2 +1,14 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;01.387.080/0001-42;28/09/2010;11000098161;R$ 10.000,00;Cheque;SIRLAN SILVA SOUSA;11113;Deputado Estadual;PP;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALLAN R DE S ALBUQUERQUE;010.904.333-28;15/09/2010;       Serviços prestados por terceiros;R$ 400,00;Cheque; -  -  / 11113 - SIRLAN SILVA SOUSA - MA - Deputado Estadual;
+AURICEIA SANTOS SOARES;509.013.383-20;15/09/2010;       Serviços prestados por terceiros;R$ 1.200,00;Cheque; -  -  / 11113 - SIRLAN SILVA SOUSA - MA - Deputado Estadual;
+BERENILDE SOCORRO B. PEREIRA;126.093.153-68;25/09/2010;       Serviços prestados por terceiros;R$ 250,00;Cheque; -  -  / 11113 - SIRLAN SILVA SOUSA - MA - Deputado Estadual;
+CLEITON ROBERTO DE SOUSA;492.849.753-87;15/09/2010;       Serviços prestados por terceiros;R$ 1.500,00;Cheque; -  -  / 11113 - SIRLAN SILVA SOUSA - MA - Deputado Estadual;
+EKSANDRO NORBERTO DE ANDRADE SILVA;488.181.433-87;09/09/2010;       Serviços prestados por terceiros;R$ 300,00;Cheque; -  -  / 11113 - SIRLAN SILVA SOUSA - MA - Deputado Estadual;
+ELCINHO SOARES MELO;051.581.773-25;15/09/2010;       Serviços prestados por terceiros;R$ 1.000,00;Cheque; -  -  / 11113 - SIRLAN SILVA SOUSA - MA - Deputado Estadual;
+ELIZONETE MATEUS SOARES RAMOS;989.083.323-91;15/09/2010;       Serviços prestados por terceiros;R$ 2.100,00;Cheque; -  -  / 11113 - SIRLAN SILVA SOUSA - MA - Deputado Estadual;
+IGOR CASSIO MATOS COSTA DE SOUSA;024.766.783-84;15/09/2010;       Serviços prestados por terceiros;R$ 2.000,00;Cheque; -  -  / 11113 - SIRLAN SILVA SOUSA - MA - Deputado Estadual;
+KASSIA KRIS SOUSA DA SILVA;052.423.913-40;15/09/2010;       Serviços prestados por terceiros;R$ 300,00;Cheque; -  -  / 11113 - SIRLAN SILVA SOUSA - MA - Deputado Estadual;
+LUIS GOMES DE LIMA JUNIOR;827.831.953-72;15/09/2010;       Serviços prestados por terceiros;R$ 200,00;Cheque; -  -  / 11113 - SIRLAN SILVA SOUSA - MA - Deputado Estadual;
+MARIA INACIA COSTA FERREIRA;253.219.943-15;09/09/2010;       Serviços prestados por terceiros;R$ 300,00;Cheque; -  -  / 11113 - SIRLAN SILVA SOUSA - MA - Deputado Estadual;
+MARIA RITA ALVES MUNIZ;641.743.793-00;15/09/2010;       Serviços prestados por terceiros;R$ 300,00;Cheque; -  -  / 11113 - SIRLAN SILVA SOUSA - MA - Deputado Estadual;
+SIRLEY SOUSA TOMAS PEREIRA;403.128.953-72;15/09/2010;       Serviços prestados por terceiros;R$ 150,00;Cheque; -  -  / 11113 - SIRLAN SILVA SOUSA - MA - Deputado Estadual;

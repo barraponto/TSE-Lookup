@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.556/0001-91;30/09/2010;16000037701;R$ 620,00;Estimado;HERBERT AMAZONAS MASSULO;16;Governador;PSTU;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.556/0001-91;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 620,00;Estimado;Comitê Financeiro Único - PSTU -  / 16 - HERBERT AMAZONAS MASSULO - AM - Governador;

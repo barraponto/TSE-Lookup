@@ -1,2 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALEXANDRE LEAL DE CAMPOS;468.943.220-15;10/09/2010;36000095491;R$ 235,00;Depósito em espécie;ALEXANDRE LEAL DE CAMPOS;3636;Deputado Federal;PTC;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALINE DIAS MARQUES ME;07.752.195/0001-75;06/09/2010;       Publicidade por materiais impressos;R$ 199,00;Transferência eletrônica; -  -  / 3636 - ALEXANDRE LEAL DE CAMPOS - RS - Deputado Federal;
+CARREFOUR COMERCIO E INDUSTRIA LTDA;45.543.915/0106-59;30/08/2010;       Telefone;R$ 6,00;Transferência eletrônica; -  -  / 3636 - ALEXANDRE LEAL DE CAMPOS - RS - Deputado Federal;
+NUCLEO DE INFORMAÇÃO E COORDENAÇÃO DO PONTO BR-NIC.BR;05.506.560/0001-36;06/08/2010;       Criação e inclusão de páginas na internet;R$ 30,00;Transferência eletrônica; -  -  / 3636 - ALEXANDRE LEAL DE CAMPOS - RS - Deputado Federal;

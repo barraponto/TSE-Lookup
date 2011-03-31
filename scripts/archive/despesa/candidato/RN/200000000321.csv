@@ -1,5 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ARAO OLIVEIRA DE FARIA;271.408.307-20;05/08/2010;31000048301;R$ 500,00;Depósito em espécie;ARAO OLIVEIRA DE FARIA;31777;Deputado Estadual;PHS;RN;
-Comitê Financeiro Único;12.200.151/0001-72;30/09/2010;31000048303;R$ 500,00;Estimado;ARAO OLIVEIRA DE FARIA;31777;Deputado Estadual;PHS;RN;
-Comitê Financeiro Único;12.200.151/0001-72;01/10/2010;31000048304;R$ 100,00;Estimado;ARAO OLIVEIRA DE FARIA;31777;Deputado Estadual;PHS;RN;
-Comitê Financeiro Único;12.262.844/0001-90;29/09/2010;31000048302;R$ 1.500,00;Estimado;ARAO OLIVEIRA DE FARIA;31777;Deputado Estadual;PHS;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.151/0001-72;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;Comitê Financeiro Único - PHS -  / 31777 - ARAO OLIVEIRA DE FARIA - RN - Deputado Estadual;
+Comitê Financeiro Único;12.200.151/0001-72;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado;Comitê Financeiro Único - PHS -  / 31777 - ARAO OLIVEIRA DE FARIA - RN - Deputado Estadual;
+Comitê Financeiro Único;12.262.844/0001-90;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado;Comitê Financeiro Único - PSB -  / 31777 - ARAO OLIVEIRA DE FARIA - RN - Deputado Estadual;
+MARIA DO SOCORRO MEDEIROS GONDIM;40.804.791/0001-27;29/09/2010;       Combustíveis e lubrificantes;R$ 80,00;Cheque; -  -  / 31777 - ARAO OLIVEIRA DE FARIA - RN - Deputado Estadual;
+SIDNEY SANTOS MACIEL GRAFICA & EDITORA;03.057.968/0001-42;05/08/2010;       Publicidade por materiais impressos;R$ 80,19;Cheque; -  -  / 31777 - ARAO OLIVEIRA DE FARIA - RN - Deputado Estadual;
+SIDNEY SANTOS MACIEL GRAFICA & EDITORA;03.057.968/0001-42;05/08/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 31777 - ARAO OLIVEIRA DE FARIA - RN - Deputado Estadual;
+;;19/10/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Débito em conta; -  -  / 31777 - ARAO OLIVEIRA DE FARIA - RN - Deputado Estadual;

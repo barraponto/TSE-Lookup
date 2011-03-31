@@ -1,5 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-BENEDITO AUGUSTO DOMINGOS;12.203.737/0001-90;12/08/2010;11000094921;R$ 360,00;Estimado;JAIRSON GRAZZIOTTI DE SOUZA;11134;Deputado Distrital;PP;DF;
-BENEDITO AUGUSTO DOMINGOS;12.203.737/0001-90;16/08/2010;11000094922;R$ 360,00;Estimado;JAIRSON GRAZZIOTTI DE SOUZA;11134;Deputado Distrital;PP;DF;
-JAIRSON GRAZZIOTTI DE SOUZA;313.780.561-91;02/08/2010;11000094923;R$ 500,00;Depósito em espécie;JAIRSON GRAZZIOTTI DE SOUZA;11134;Deputado Distrital;PP;DF;
-JAIRSON GRAZZIOTTI DE SOUZA;313.780.561-91;24/08/2010;11000094924;R$ 150,00;Depósito em espécie;JAIRSON GRAZZIOTTI DE SOUZA;11134;Deputado Distrital;PP;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUGUSTO FELIPE S. SILVA;047.299.361-59;02/10/2010;       Despesas com pessoal;R$ 30,00;Cheque; -  -  / 11134 - JAIRSON GRAZZIOTTI DE SOUZA - DF - Deputado Distrital;
+BENEDITO AUGUSTO DOMINGOS;12.203.737/0001-90;16/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;11234 -  - PP -  - Deputado Distrital / 11134 - JAIRSON GRAZZIOTTI DE SOUZA - DF - Deputado Distrital;
+BENEDITO AUGUSTO DOMINGOS;12.203.737/0001-90;12/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;11234 -  - PP -  - Deputado Distrital / 11134 - JAIRSON GRAZZIOTTI DE SOUZA - DF - Deputado Distrital;
+CRIARTE SERIGRAFIA LTDA -ME;01.609.197/0001-23;20/08/2010;       Materiais de expediente;R$ 150,00;Cheque; -  -  / 11134 - JAIRSON GRAZZIOTTI DE SOUZA - DF - Deputado Distrital;
+DIGITAL SIGN COMERCIO E SERVIÇOS DE SINALIZAÇÃO LTDA EPP;01.679.084/0001-02;06/08/2010;       Publicidade por placas, estandartes e faixas;R$ 100,00;Cheque; -  -  / 11134 - JAIRSON GRAZZIOTTI DE SOUZA - DF - Deputado Distrital;
+DIGITAL SIGN COMERCIO E SERVIÇOS DE SINALIZAÇÃO LTDA EPP;01.679.084/0001-02;03/08/2010;       Publicidade por placas, estandartes e faixas;R$ 120,00;Cheque; -  -  / 11134 - JAIRSON GRAZZIOTTI DE SOUZA - DF - Deputado Distrital;
+DIGITAL SIGN COMERCIO E SERVIÇOS DE SINALIZAÇÃO LTDA EPP;01.679.084/0001-02;13/08/2010;       Publicidade por placas, estandartes e faixas;R$ 250,00;Cheque; -  -  / 11134 - JAIRSON GRAZZIOTTI DE SOUZA - DF - Deputado Distrital;

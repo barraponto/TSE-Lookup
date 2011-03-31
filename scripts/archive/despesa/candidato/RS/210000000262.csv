@@ -1,4 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ROBERTO NACHTIGALL;444.903.640-91;20/07/2010;40000922301;R$ 150,00;Transferência eletrônica;ROBERTO NACHTIGALL;40222;Deputado Estadual;PSB;RS;
-ROBERTO NACHTIGALL;444.903.640-91;28/07/2010;40000922303;R$ 100,00;Transferência eletrônica;ROBERTO NACHTIGALL;40222;Deputado Estadual;PSB;RS;
-ROBERTO NACHTIGALL;444.903.640-91;22/07/2010;40000922302;R$ 450,00;Transferência eletrônica;ROBERTO NACHTIGALL;40222;Deputado Estadual;PSB;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+POSTO DO IVAN;86.914.942/0001-09;30/09/2010;       Combustíveis e lubrificantes;R$ 42,00;Cheque; -  -  / 40222 - ROBERTO NACHTIGALL - RS - Deputado Estadual;
+SHAMPION;00.725.637/0001-45;27/07/2010;       Publicidade por placas, estandartes e faixas;R$ 52,82;Cheque; -  -  / 40222 - ROBERTO NACHTIGALL - RS - Deputado Estadual;
+SHAMPION;00.725.637/0001-45;21/07/2010;       Publicidade por placas, estandartes e faixas;R$ 317,00;Cheque; -  -  / 40222 - ROBERTO NACHTIGALL - RS - Deputado Estadual;
+SHAMPION;00.725.637/0001-45;04/08/2010;       Publicidade por materiais impressos;R$ 42,50;Cheque; -  -  / 40222 - ROBERTO NACHTIGALL - RS - Deputado Estadual;
+SHAMPION;00.725.637/0001-45;21/07/2010;       Publicidade por placas, estandartes e faixas;R$ 107,80;Cheque; -  -  / 40222 - ROBERTO NACHTIGALL - RS - Deputado Estadual;
+SUL BRASIL GRÁFICA;09.223.989/0001-77;19/07/2010;       Publicidade por materiais impressos;R$ 135,00;Cheque; -  -  / 40222 - ROBERTO NACHTIGALL - RS - Deputado Estadual;

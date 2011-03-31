@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;11/08/2010;31000052008;R$ 630,00;Estimado;ELIO MOREIRA SANTOS;3113;Deputado Federal;PHS;PR;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;21/09/2010;31000052036;R$ 500,00;Estimado;ELIO MOREIRA SANTOS;3113;Deputado Federal;PHS;PR;
-RICARDO JOSE MAGALHAES BARROS;12.190.665/0001-94;21/09/2010;31000051751;R$ 450,00;Estimado;ELIO MOREIRA SANTOS;3113;Deputado Federal;PHS;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;11/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 630,00;Estimado;45 -  - PSDB -  - Governador / 3113 - ELIO MOREIRA SANTOS - PR - Deputado Federal;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;45 -  - PSDB -  - Governador / 3113 - ELIO MOREIRA SANTOS - PR - Deputado Federal;
+RICARDO JOSE MAGALHAES BARROS;12.190.665/0001-94;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 450,00;Estimado;111 -  - PP -  - Senador / 3113 - ELIO MOREIRA SANTOS - PR - Deputado Federal;

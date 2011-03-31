@@ -1,6 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALCIDES JOSE KRONENBERGER;009.260.431-53;30/07/2010;13001261122;R$ 200,00;Cheque;ANTONIO DE PADUA LEMOS;13053;Deputado Distrital;PT;DF;
-ANA GRASIELA FALCÃO FREIRE KRONENBERGER;149.521.301-34;09/08/2010;13001261124;R$ 1.000,00;Depósito em espécie;ANTONIO DE PADUA LEMOS;13053;Deputado Distrital;PT;DF;
-Diretório Estadual/Distrital;12.217.601/0001-30;17/09/2010;13001261125;R$ 7.000,00;Cheque;ANTONIO DE PADUA LEMOS;13053;Deputado Distrital;PT;DF;
-MARCELO HENRIQUE KRONENBERGER;281.692.801-25;30/07/2010;13001261121;R$ 500,00;Cheque;ANTONIO DE PADUA LEMOS;13053;Deputado Distrital;PT;DF;
-MARCOS ANTÔNIO RODRIGUES;072.650.341-04;02/08/2010;13001261123;R$ 400,00;Depósito em espécie;ANTONIO DE PADUA LEMOS;13053;Deputado Distrital;PT;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DREAMS GRÁFICA E EDITORA LTDA;01.794.594/0001-12;21/07/2010;       Publicidade por materiais impressos;R$ 2.013,50;Transferência eletrônica; -  -  / 13053 - ANTONIO DE PADUA LEMOS - DF - Deputado Distrital;
+DREAMS GRÁFICA E EDITORA LTDA;01.794.594/0001-12;21/07/2010;       Publicidade por materiais impressos;R$ 3.913,50;Transferência eletrônica; -  -  / 13053 - ANTONIO DE PADUA LEMOS - DF - Deputado Distrital;
+FRANCISCO BERNARDINO DO NASCIMENTO;101.836.041-27;30/09/2010;       Alimentação;R$ 1.148,00;Transferência eletrônica; -  -  / 13053 - ANTONIO DE PADUA LEMOS - DF - Deputado Distrital;
+MARCOS ROBERTO MENDES DA SILVA;016.036.461-24;30/09/2010;       Alimentação;R$ 610,00;Transferência eletrônica; -  -  / 13053 - ANTONIO DE PADUA LEMOS - DF - Deputado Distrital;
+PARTIDO DOS TRABALHADORES;01.633.890/0001-31;01/10/2010;       Diversas a especificar;R$ 713,00;Transferência eletrônica; -  -  / 13053 - ANTONIO DE PADUA LEMOS - DF - Deputado Distrital;
+TIAGO LEMOS DE ARAÚJO;024.464.818-59;30/09/2010;       Alimentação;R$ 610,00;Transferência eletrônica; -  -  / 13053 - ANTONIO DE PADUA LEMOS - DF - Deputado Distrital;

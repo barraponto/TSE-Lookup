@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.221.870/0001-70;27/09/2010;40002453601;R$ 750,00;Cheque;CLARITO NUNES DE MORAIS JUNIOR;40140;Deputado Estadual;PSB;MT;
-ELEICAO 2010 JOSÉ PEDRO GONÇALVES TAQUES;12.199.293/0001-67;01/10/2010;40002453602;R$ 350,00;Estimado;CLARITO NUNES DE MORAIS JUNIOR;40140;Deputado Estadual;PSB;MT;
-ELEICAO 2010 MAURO MENDES FERREIRA GOVERNADOR;12.199.024/0001-09;01/10/2010;40002453603;R$ 1.255,77;Estimado;CLARITO NUNES DE MORAIS JUNIOR;40140;Deputado Estadual;PSB;MT;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEICAO 2010 JOSÉ PEDRO GONÇALVES TAQUES;12.199.293/0001-67;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 350,00;Estimado;123 -  - PDT -  - Senador / 40140 - CLARITO NUNES DE MORAIS JUNIOR - MT - Deputado Estadual;
+ELEICAO 2010 MAURO MENDES FERREIRA GOVERNADOR;12.199.024/0001-09;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.255,77;Estimado;40 -  - PSB -  - Governador / 40140 - CLARITO NUNES DE MORAIS JUNIOR - MT - Deputado Estadual;
+METROPOLITANO COMERCIO DE COMBUSTIVEIS E DERIVADOS LTDA;07.094.917/0001-41;27/09/2010;       Combustíveis e lubrificantes;R$ 750,00;Cheque; -  -  / 40140 - CLARITO NUNES DE MORAIS JUNIOR - MT - Deputado Estadual;

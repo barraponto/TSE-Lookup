@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.560/0001-50;26/07/2010;65000093601;R$ 146,34;Estimado;GILÊNIO RODRIGUES DOS SANTOS;65800;Deputado Estadual;PC do B;MG;
-Comitê Financeiro Único;12.191.560/0001-50;07/09/2010;65000093602;R$ 162,00;Estimado;GILÊNIO RODRIGUES DOS SANTOS;65800;Deputado Estadual;PC do B;MG;
-Comitê Financeiro Único;12.191.560/0001-50;07/09/2010;65000093603;R$ 483,60;Estimado;GILÊNIO RODRIGUES DOS SANTOS;65800;Deputado Estadual;PC do B;MG;
-Comitê Financeiro Único;12.191.560/0001-50;21/09/2010;65000093605;R$ 67,90;Estimado;GILÊNIO RODRIGUES DOS SANTOS;65800;Deputado Estadual;PC do B;MG;
-Comitê Financeiro Único;12.191.560/0001-50;03/10/2010;65000093604;R$ 143,84;Estimado;GILÊNIO RODRIGUES DOS SANTOS;65800;Deputado Estadual;PC do B;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.560/0001-50;26/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 146,34;Estimado;Comitê Financeiro Único - PC do B -  / 65800 - GILÊNIO RODRIGUES DOS SANTOS - MG - Deputado Estadual;
+Comitê Financeiro Único;12.191.560/0001-50;07/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 162,00;Estimado;Comitê Financeiro Único - PC do B -  / 65800 - GILÊNIO RODRIGUES DOS SANTOS - MG - Deputado Estadual;
+Comitê Financeiro Único;12.191.560/0001-50;03/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 143,84;Estimado;Comitê Financeiro Único - PC do B -  / 65800 - GILÊNIO RODRIGUES DOS SANTOS - MG - Deputado Estadual;
+Comitê Financeiro Único;12.191.560/0001-50;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 67,90;Estimado;Comitê Financeiro Único - PC do B -  / 65800 - GILÊNIO RODRIGUES DOS SANTOS - MG - Deputado Estadual;
+Comitê Financeiro Único;12.191.560/0001-50;07/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 483,60;Estimado;Comitê Financeiro Único - PC do B -  / 65800 - GILÊNIO RODRIGUES DOS SANTOS - MG - Deputado Estadual;

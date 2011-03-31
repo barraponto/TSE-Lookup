@@ -1,5 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO LEITE RUAS NETO;221.336.230-00;16/09/2010;50000477642;R$ 20,00;Depósito em espécie;ANTONIO LEITE RUAS NETO;5001;Deputado Federal;PSOL;RS;
-ANTONIO LEITE RUAS NETO;221.336.230-00;28/09/2010;50000477643;R$ 220,00;Depósito em espécie;ANTONIO LEITE RUAS NETO;5001;Deputado Federal;PSOL;RS;
-ANTONIO LEITE RUAS NETO;221.336.230-00;02/09/2010;50000477644;R$ 1.060,00;Cheque;ANTONIO LEITE RUAS NETO;5001;Deputado Federal;PSOL;RS;
-SANDRA LUIZA FELTRIN;446.845.410-53;27/07/2010;50000477641;R$ 1.055,00;Depósito em espécie;ANTONIO LEITE RUAS NETO;5001;Deputado Federal;PSOL;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFISUL;87.527.792/0001-35;28/07/2010;       Publicidade por materiais impressos;R$ 2.120,00;Cheque; -  -  / 5001 - ANTONIO LEITE RUAS NETO - RS - Deputado Federal;
+RONALDO DOS SANTOS TAPIA;05.590.715/0001-65;01/10/2010;       Publicidade por placas, estandartes e faixas;R$ 220,00;Cheque; -  -  / 5001 - ANTONIO LEITE RUAS NETO - RS - Deputado Federal;
+;;03/09/2010;       Impostos, contribuições e taxas;R$ 4,50;Débito em conta; -  -  / 5001 - ANTONIO LEITE RUAS NETO - RS - Deputado Federal;
+;;06/10/2010;       Impostos, contribuições e taxas;R$ 4,50;Débito em conta; -  -  / 5001 - ANTONIO LEITE RUAS NETO - RS - Deputado Federal;
+;;14/09/2010;       Impostos, contribuições e taxas;R$ 0,35;Débito em conta; -  -  / 5001 - ANTONIO LEITE RUAS NETO - RS - Deputado Federal;
+;;04/11/2010;       Impostos, contribuições e taxas;R$ 4,50;Débito em conta; -  -  / 5001 - ANTONIO LEITE RUAS NETO - RS - Deputado Federal;
+;;29/12/2010;       Impostos, contribuições e taxas;R$ 1,65;Débito em conta; -  -  / 5001 - ANTONIO LEITE RUAS NETO - RS - Deputado Federal;
+;;03/12/2010;       Impostos, contribuições e taxas;R$ 4,50;Débito em conta; -  -  / 5001 - ANTONIO LEITE RUAS NETO - RS - Deputado Federal;

@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-VALDEMIR LIMA FERNANDES;198.071.630-72;30/08/2010;43001829728;R$ 500,00;Transferência eletrônica;VALDEMIR LIMA FERNANDES;4399;Deputado Federal;PV;RS;
-VALDEMIR LIMA FERNANDES;198.071.630-72;24/08/2010;43001829727;R$ 200,00;Transferência eletrônica;VALDEMIR LIMA FERNANDES;4399;Deputado Federal;PV;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+METALARTE - ARTHUR DA SILVA GRAVAÇÕES;06.007.569/0001-65;24/08/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 4399 - VALDEMIR LIMA FERNANDES - RS - Deputado Federal;
+METALARTE - ARTHUR DA SILVA GRAVAÇÕES;06.007.569/0001-65;15/09/2010;       Publicidade por materiais impressos;R$ 100,00;Cheque; -  -  / 4399 - VALDEMIR LIMA FERNANDES - RS - Deputado Federal;
+RENATA FERNANDES DE AGUIAR;762.411.810-68;30/09/2010;       Despesas com pessoal;R$ 400,00;Cheque; -  -  / 4399 - VALDEMIR LIMA FERNANDES - RS - Deputado Federal;

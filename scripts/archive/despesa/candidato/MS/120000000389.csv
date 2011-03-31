@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.217.580/0001-52;30/08/2010;44000043152;R$ 413,08;Estimado;LUIZ CARLOS FONSECA VIEIRA;44567;Deputado Estadual;PRP;MS;
-Comitê Financeiro Único;12.217.580/0001-52;27/09/2010;44000043157;R$ 1.500,00;Cheque;LUIZ CARLOS FONSECA VIEIRA;44567;Deputado Estadual;PRP;MS;
-Comitê Financeiro Único;12.217.580/0001-52;15/09/2010;44000043154;R$ 264,00;Estimado;LUIZ CARLOS FONSECA VIEIRA;44567;Deputado Estadual;PRP;MS;
-Comitê Financeiro Único;12.217.580/0001-52;10/09/2010;44000043153;R$ 227,50;Estimado;LUIZ CARLOS FONSECA VIEIRA;44567;Deputado Estadual;PRP;MS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO PAIAGUAS LTDA;05.266.950/0001-86;27/09/2010;       Combustíveis e lubrificantes;R$ 1.500,00;Cheque; -  -  / 44567 - LUIZ CARLOS FONSECA VIEIRA - MS - Deputado Estadual;
+Comitê Financeiro Único;12.217.580/0001-52;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 227,50;Estimado;Comitê Financeiro Único - PRP -  / 44567 - LUIZ CARLOS FONSECA VIEIRA - MS - Deputado Estadual;
+Comitê Financeiro Único;12.217.580/0001-52;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 413,08;Estimado;Comitê Financeiro Único - PRP -  / 44567 - LUIZ CARLOS FONSECA VIEIRA - MS - Deputado Estadual;
+Comitê Financeiro Único;12.217.580/0001-52;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 264,00;Estimado;Comitê Financeiro Único - PRP -  / 44567 - LUIZ CARLOS FONSECA VIEIRA - MS - Deputado Estadual;

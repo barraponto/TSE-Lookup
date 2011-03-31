@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADORALDO GONÇALVES DA SILVA;178.571.631-04;14/09/2010;44000043001;R$ 50,00;Depósito em espécie;JOSÉ MARCELINO ALVES;44777;Deputado Estadual;PRP;MS;
-Comitê Financeiro Único;12.217.580/0001-52;20/09/2010;44000043005;R$ 1.500,00;Cheque;JOSÉ MARCELINO ALVES;44777;Deputado Estadual;PRP;MS;
-Comitê Financeiro Único;12.217.580/0001-52;30/08/2010;44000043003;R$ 413,08;Estimado;JOSÉ MARCELINO ALVES;44777;Deputado Estadual;PRP;MS;
-JOSE MARCELINO ALVES;322.280.151-72;06/09/2010;44000043004;R$ 700,00;Depósito em espécie;JOSÉ MARCELINO ALVES;44777;Deputado Estadual;PRP;MS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.217.580/0001-52;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 413,08;Estimado;Comitê Financeiro Único - PRP -  / 44777 - JOSÉ MARCELINO ALVES - MS - Deputado Estadual;
+MARCOS ANTONIO CLAUDINO DIAS;023.749.611-92;14/09/2010;       Diversas a especificar;R$ 600,00;Cheque; -  -  / 44777 - JOSÉ MARCELINO ALVES - MS - Deputado Estadual;
+MARIO MARCIO FRANCISCO DA SILVA;017.055.161-06;22/09/2010;       Diversas a especificar;R$ 1.500,00;Cheque; -  -  / 44777 - JOSÉ MARCELINO ALVES - MS - Deputado Estadual;
+VILMA SOUZA DA SILVA;464.754.001-49;07/09/2010;       Diversas a especificar;R$ 150,00;Cheque; -  -  / 44777 - JOSÉ MARCELINO ALVES - MS - Deputado Estadual;

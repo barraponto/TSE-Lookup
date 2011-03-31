@@ -1,5 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS FELISBERTO GARCIA MARTINS;624.864.540-04;28/07/2010;40000920401;R$ 1.512,00;Depósito em espécie;GILDO ANTONIO DA SILVA;40567;Deputado Estadual;PSB;RS;
-ELEIÇÕES 2010 LUIZ ROBERTO DE ALBUQUERQUE;12.156.040/0001-06;01/10/2010;40000920404;R$ 5.000,00;Cheque;GILDO ANTONIO DA SILVA;40567;Deputado Estadual;PSB;RS;
-GILDO ANTONIO DA SILVA;535.398.770-53;21/09/2010;40000920403;R$ 100,00;Depósito em espécie;GILDO ANTONIO DA SILVA;40567;Deputado Estadual;PSB;RS;
-GILDO ANTONIO DA SILVA;535.398.770-53;19/08/2010;40000920402;R$ 560,00;Depósito em espécie;GILDO ANTONIO DA SILVA;40567;Deputado Estadual;PSB;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALEXANDRE DOS SANTOS WOLOSKI;018.425.120-64;18/10/2010;       Serviços prestados por terceiros;R$ 20,00;Cheque; -  -  / 40567 - GILDO ANTONIO DA SILVA - RS - Deputado Estadual;
+CARLOS FELISBERTO GARCIA MARTINS;624.864.540-04;02/10/2010;       Serviços prestados por terceiros;R$ 250,00;Cheque; -  -  / 40567 - GILDO ANTONIO DA SILVA - RS - Deputado Estadual;
+DIANE DA SILVA RODRIGUES;919.751.230-34;02/10/2010;       Serviços prestados por terceiros;R$ 1.500,00;Cheque; -  -  / 40567 - GILDO ANTONIO DA SILVA - RS - Deputado Estadual;
+ELIANE AVILA DA CUNHA RIBEIRO;002.307.540-66;02/10/2010;       Serviços prestados por terceiros;R$ 1.500,00;Cheque; -  -  / 40567 - GILDO ANTONIO DA SILVA - RS - Deputado Estadual;
+FREEOIL COML. DE COMBUSTIVEIS LTDA;03.875.571/0003-20;25/09/2010;       Combustíveis e lubrificantes;R$ 50,00;Cheque; -  -  / 40567 - GILDO ANTONIO DA SILVA - RS - Deputado Estadual;
+FREEOIL COML. DE COMBUSTIVEIS LTDA;03.875.571/0003-20;22/09/2010;       Combustíveis e lubrificantes;R$ 50,00;Cheque; -  -  / 40567 - GILDO ANTONIO DA SILVA - RS - Deputado Estadual;
+GSA GRAFICA E EDITORA LTDA;04.894.427/0001-31;31/07/2010;       Publicidade por placas, estandartes e faixas;R$ 970,00;Cheque; -  -  / 40567 - GILDO ANTONIO DA SILVA - RS - Deputado Estadual;
+MONICA DA SILVA;911.883.850-20;02/10/2010;       Serviços prestados por terceiros;R$ 1.500,00;Cheque; -  -  / 40567 - GILDO ANTONIO DA SILVA - RS - Deputado Estadual;
+PAPERGRAF INDUSTRIA GRÁFICA LTDA;04.381.030/0001-46;02/08/2010;       Publicidade por materiais impressos;R$ 532,00;Cheque; -  -  / 40567 - GILDO ANTONIO DA SILVA - RS - Deputado Estadual;
+PAPERGRAF INDUSTRIA GRÁFICA LTDA;04.381.030/0001-46;23/08/2010;       Publicidade por materiais impressos;R$ 560,00;Cheque; -  -  / 40567 - GILDO ANTONIO DA SILVA - RS - Deputado Estadual;
+UBEL RODRIGUES DE FREITAS JUNIOR;243.039.090-68;05/10/2010;       Despesas com pessoal;R$ 240,00;Cheque; -  -  / 40567 - GILDO ANTONIO DA SILVA - RS - Deputado Estadual;

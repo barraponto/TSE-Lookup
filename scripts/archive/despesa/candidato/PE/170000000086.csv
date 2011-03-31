@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Nacional;29.549.433/0001-82;18/08/2010;33000113151;R$ 500,00;Estimado;JOAO BATISTA JANUARIO DO NASCIMENTO;33133;Deputado Estadual;PMN;PE;
-Diretório Nacional;29.549.433/0001-82;30/09/2010;33000113153;R$ 2.690,48;Estimado;JOAO BATISTA JANUARIO DO NASCIMENTO;33133;Deputado Estadual;PMN;PE;
-Diretório Nacional;29.549.433/0001-82;20/08/2010;33000113152;R$ 75,00;Estimado;JOAO BATISTA JANUARIO DO NASCIMENTO;33133;Deputado Estadual;PMN;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Nacional;29.549.433/0001-82;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 75,00;Estimado;Direção Nacional - PMN -  / 33133 - JOAO BATISTA JANUARIO DO NASCIMENTO - PE - Deputado Estadual;
+Diretório Nacional;29.549.433/0001-82;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.690,48;Estimado;Direção Nacional - PMN -  / 33133 - JOAO BATISTA JANUARIO DO NASCIMENTO - PE - Deputado Estadual;
+Diretório Nacional;29.549.433/0001-82;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;Direção Nacional - PMN -  / 33133 - JOAO BATISTA JANUARIO DO NASCIMENTO - PE - Deputado Estadual;

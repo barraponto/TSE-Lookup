@@ -1,6 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CHRISTINO AUREO;12.199.802/0001-51;29/09/2010;13000879386;R$ 34,50;Estimado;ODALI DIAS CARDOSO;1304;Deputado Federal;PT;RJ;
-CHRISTINO AUREO DA SILVA;12.199.802/0001-51;24/09/2010;13000879385;R$ 34,50;Estimado;ODALI DIAS CARDOSO;1304;Deputado Federal;PT;RJ;
-Comitê Financeiro Único;12.200.171/0001-43;30/09/2010;13000879381;R$ 750,00;Estimado;ODALI DIAS CARDOSO;1304;Deputado Federal;PT;RJ;
-ODALI DIAS CARDOSO;024.716.982-04;14/09/2010;13000879382;R$ 5.000,00;Transferência eletrônica;ODALI DIAS CARDOSO;1304;Deputado Federal;PT;RJ;
-ODALI DIAS CARDOSO;024.716.982-04;23/09/2010;13000879383;R$ 14.700,00;Transferência eletrônica;ODALI DIAS CARDOSO;1304;Deputado Federal;PT;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ACF  MARRECAS - DR COMERCIAL LTDA;40.423.808/0001-04;18/10/2010;       Despesas postais;R$ 894,60;Cheque; -  -  / 1304 - ODALI DIAS CARDOSO - RJ - Deputado Federal;
+ACF  MARRECAS - DR COMERCIAL LTDA;40.423.808/0001-04;21/09/2010;       Despesas postais;R$ 14.700,00;Cheque; -  -  / 1304 - ODALI DIAS CARDOSO - RJ - Deputado Federal;
+CHRISTINO AUREO;12.199.802/0001-51;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 34,50;Estimado;33233 -  - PMN -  - Deputado Estadual / 1304 - ODALI DIAS CARDOSO - RJ - Deputado Federal;
+CHRISTINO AUREO DA SILVA;12.199.802/0001-51;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 34,50;Estimado;33233 -  - PMN -  - Deputado Estadual / 1304 - ODALI DIAS CARDOSO - RJ - Deputado Federal;
+Comitê Financeiro Único;12.200.171/0001-43;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 750,00;Estimado;Comitê Financeiro Único - PT -  / 1304 - ODALI DIAS CARDOSO - RJ - Deputado Federal;
+EMPRESA JORNALISTICA POSTO SEIS EDITORA LTDA;02.728.575/0001-50;16/09/2010;       Publicidade por jornais e revistas;R$ 180,00;Cheque; -  -  / 1304 - ODALI DIAS CARDOSO - RJ - Deputado Federal;
+INFOGLOBO COMUNICAÇÃO E PARTICIPAÇÕES S/A;60.452.752/0001-15;16/09/2010;       Publicidade por jornais e revistas;R$ 3.150,00;Cheque; -  -  / 1304 - ODALI DIAS CARDOSO - RJ - Deputado Federal;
+ODALI DIAS CARDOSO;024.716.982-04;22/11/2010;       Reembolsos de gastos realizados por eleitores;R$ 775,40;Cheque; -  -  / 1304 - ODALI DIAS CARDOSO - RJ - Deputado Federal;

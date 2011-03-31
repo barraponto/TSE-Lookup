@@ -1,6 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DAVIDSON LINS BEZERRA;054.747.064-99;30/09/2010;33000106804;R$ 157,00;Transferência eletrônica;DAVIDSON LINS BEZERRA;33123;Deputado Estadual;PMN;PB;
-Diretório Nacional;29.549.433/0001-82;24/08/2010;33000106802;R$ 125,00;Estimado;DAVIDSON LINS BEZERRA;33123;Deputado Estadual;PMN;PB;
-Diretório Nacional;29.549.433/0001-82;24/08/2010;33000106801;R$ 37,50;Estimado;DAVIDSON LINS BEZERRA;33123;Deputado Estadual;PMN;PB;
-JOSE TARGINO MARANHAO;12.189.345/0001-14;23/09/2010;33000106803;R$ 523,56;Estimado;DAVIDSON LINS BEZERRA;33123;Deputado Estadual;PMN;PB;
-LIDIA DE MOURA SILVA CRONEMBERGER;358.428.901-78;10/09/2010;33000106812;R$ 160,00;Depósito em espécie;DAVIDSON LINS BEZERRA;33123;Deputado Estadual;PMN;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Nacional;29.549.433/0001-82;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 37,50;Estimado;Direção Nacional - PMN -  / 33123 - DAVIDSON LINS BEZERRA - PB - Deputado Estadual;
+Diretório Nacional;29.549.433/0001-82;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 125,00;Estimado;Direção Nacional - PMN -  / 33123 - DAVIDSON LINS BEZERRA - PB - Deputado Estadual;
+GIOVANA MIRANDA TEJO DI PACE;010.946.464-82;29/07/2010;       Serviços prestados por terceiros;R$ 307,00;Cheque; -  -  / 33123 - DAVIDSON LINS BEZERRA - PB - Deputado Estadual;
+JOSE TARGINO MARANHAO;12.189.345/0001-14;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 523,56;Estimado;15 -  - PMDB -  - Governador / 33123 - DAVIDSON LINS BEZERRA - PB - Deputado Estadual;

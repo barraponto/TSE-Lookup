@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-GUSTAVO OLÍMPIO SIQUEIRA ROCHA;031.017.986-63;28/10/2010;16000024904;R$ 13,50;Transferência eletrônica;GUSTAVO OLIMPIO SIQUEIRA ROCHA;16161;Deputado Estadual;PSTU;MG;
-LUIZ ROBERTO REZENDE MARTINS;891.930.406-87;09/08/2010;16000024901;R$ 100,00;Estimado;GUSTAVO OLIMPIO SIQUEIRA ROCHA;16161;Deputado Estadual;PSTU;MG;
-LUIZ ROBERTO REZENDE MARTINS;891.930.406-87;09/08/2010;16000024902;R$ 200,00;Estimado;GUSTAVO OLIMPIO SIQUEIRA ROCHA;16161;Deputado Estadual;PSTU;MG;
-RAFAEL GERALDO DE QUEIROZ SOUSA;056.368.116-08;28/10/2010;16000024903;R$ 500,00;Depósito em espécie;GUSTAVO OLIMPIO SIQUEIRA ROCHA;16161;Deputado Estadual;PSTU;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+LUIZ ROBERTO REZENDE MARTINS;891.930.406-87;09/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado; -  -  / 16161 - GUSTAVO OLIMPIO SIQUEIRA ROCHA - MG - Deputado Estadual;
+LUIZ ROBERTO REZENDE MARTINS;891.930.406-87;09/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado; -  -  / 16161 - GUSTAVO OLIMPIO SIQUEIRA ROCHA - MG - Deputado Estadual;
+REFLEXO GRAFICA E EDITORA LTDA;04.188.691/0001-50;07/09/2010;       Publicidade por materiais impressos;R$ 500,00;Transferência eletrônica; -  -  / 16161 - GUSTAVO OLIMPIO SIQUEIRA ROCHA - MG - Deputado Estadual;
+;;28/10/2010;       Impostos, contribuições e taxas;R$ 13,50;Transferência eletrônica; -  -  / 16161 - GUSTAVO OLIMPIO SIQUEIRA ROCHA - MG - Deputado Estadual;

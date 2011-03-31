@@ -1,6 +1,4 @@
-Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual - PSB;12.200.095/0001-76;15/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 100.000,00;Cheque;40789 - VINICIUS ALMEIDA CAMARINHA - PSB - SP - Deputado Estadual / Comitê Financeiro Distrital/Estadual para Deputado Estadual - PSB - SP;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual - PSB;12.200.095/0001-76;19/08/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 49.986,50;Transferência eletrônica;40640 - IVANILDO FREIRE DE SANTANA - PSB - SP - Deputado Estadual / Comitê Financeiro Distrital/Estadual para Deputado Estadual - PSB - SP;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual - PSB;12.200.095/0001-76;18/08/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 12.986,50;Transferência eletrônica;40899 - FRANCISCO FERREIRA CAVALCANTE - PSB - SP - Deputado Estadual / Comitê Financeiro Distrital/Estadual para Deputado Estadual - PSB - SP;
-;;18/08/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Débito em conta; -  -  / Comitê Financeiro Distrital/Estadual para Deputado Estadual - PSB - SP;
-;;19/08/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Débito em conta; -  -  / Comitê Financeiro Distrital/Estadual para Deputado Estadual - PSB - SP;
+Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
+BANCO ALVORADA S/A;33.870.163/0001-84;10/09/2010;40001571503;R$ 100.000,00;Transferência eletrônica;Comitê Financeiro Distrital/Estadual para Deputado Estadual;PSB;SP;
+Diretório Estadual/Distrital;56.275.696/0001-13;18/08/2010;40001571502;R$ 13.000,00;Transferência eletrônica;Comitê Financeiro Distrital/Estadual para Deputado Estadual;PSB;SP;
+Diretório Estadual/Distrital;56.275.696/0001-13;18/08/2010;40001571501;R$ 50.000,00;Transferência eletrônica;Comitê Financeiro Distrital/Estadual para Deputado Estadual;PSB;SP;

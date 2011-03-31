@@ -1,4 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADIVANIL PONTES DE ANDRADE;875.303.924-68;03/08/2010;50000445011;R$ 400,00;Depósito em espécie;ADIVANIL PONTES DE ANDRADE;5050;Deputado Federal;PSOL;RN;
-ADIVANIL PONTES DE ANDRADE;875.303.924-68;18/08/2010;50000445013;R$ 750,00;Depósito em espécie;ADIVANIL PONTES DE ANDRADE;5050;Deputado Federal;PSOL;RN;
-ADIVANIL PONTES DE ANDRADE;875.303.924-68;05/08/2010;50000445012;R$ 1.600,00;Depósito em espécie;ADIVANIL PONTES DE ANDRADE;5050;Deputado Federal;PSOL;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+LM-SERVGRAFICA E COPIADORA LTDA;07.805.649/0001-29;06/08/2010;       Publicidade por materiais impressos;R$ 830,00;Cheque; -  -  / 5050 - ADIVANIL PONTES DE ANDRADE - RN - Deputado Federal;
+LM-SERVGRAFICA E COPIADORA LTDA;07.805.649/0001-29;04/08/2010;       Publicidade por materiais impressos;R$ 375,00;Cheque; -  -  / 5050 - ADIVANIL PONTES DE ANDRADE - RN - Deputado Federal;
+5050 - ADIVANIL PONTES DE ANDRADE - DEPUTADO FEDERAL;12.181.201/0001-11;17/08/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 1.500,00;Cheque;Comitê Financeiro Único - PSOL - RN / 5050 - ADIVANIL PONTES DE ANDRADE - RN - Deputado Federal;
+;;18/08/2010;       Impostos, contribuições e taxas;R$ 0,35;Débito em conta; -  -  / 5050 - ADIVANIL PONTES DE ANDRADE - RN - Deputado Federal;
+;;05/08/2010;       Impostos, contribuições e taxas;R$ 0,35;Débito em conta; -  -  / 5050 - ADIVANIL PONTES DE ANDRADE - RN - Deputado Federal;

@@ -1,5 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.217.556/0001-13;17/08/2010;70000133251;R$ 360,00;Outros títulos de crédito;LENICE AUGUSTA DOS SANTOS;70026;Deputado Distrital;PT do B;DF;
-Diretório Estadual/Distrital;12.217.556/0001-13;23/08/2010;70000133255;R$ 360,00;Outros títulos de crédito;LENICE AUGUSTA DOS SANTOS;70026;Deputado Distrital;PT do B;DF;
-LENICE AUGUSTA DOS SANTOS;402.179.147-72;16/08/2010;70000133252;R$ 2.000,00;Transferência eletrônica;LENICE AUGUSTA DOS SANTOS;70026;Deputado Distrital;PT do B;DF;
-LENICE AUGUSTA DOS SANTOS;402.179.147-72;23/08/2010;70000133254;R$ 500,00;Transferência eletrônica;LENICE AUGUSTA DOS SANTOS;70026;Deputado Distrital;PT do B;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CASCOL;00.306.597/0006-01;21/09/2010;       Combustíveis e lubrificantes;R$ 120,00;Não informado; -  -  / 70026 - LENICE AUGUSTA DOS SANTOS - DF - Deputado Distrital;
+GASOL;00.603.738/0002-24;10/09/2010;       Combustíveis e lubrificantes;R$ 120,00;Não informado; -  -  / 70026 - LENICE AUGUSTA DOS SANTOS - DF - Deputado Distrital;
+GASOL;00.603.738/0002-24;30/09/2010;       Combustíveis e lubrificantes;R$ 120,00;Não informado; -  -  / 70026 - LENICE AUGUSTA DOS SANTOS - DF - Deputado Distrital;
+GASOL;00.603.738/0002-24;06/09/2010;       Combustíveis e lubrificantes;R$ 120,00;Não informado; -  -  / 70026 - LENICE AUGUSTA DOS SANTOS - DF - Deputado Distrital;
+GASOL;00.603.738/0002-24;27/08/2010;       Combustíveis e lubrificantes;R$ 120,00;Não informado; -  -  / 70026 - LENICE AUGUSTA DOS SANTOS - DF - Deputado Distrital;
+GASOL;00.603.738/0002-24;31/08/2010;       Combustíveis e lubrificantes;R$ 120,00;Não informado; -  -  / 70026 - LENICE AUGUSTA DOS SANTOS - DF - Deputado Distrital;
+JOSÉ LUIZ GONÇALVES FERREIRA;553.951.807-10;15/09/2010;       Serviços prestados por terceiros;R$ 175,00;Transferência eletrônica; -  -  / 70026 - LENICE AUGUSTA DOS SANTOS - DF - Deputado Distrital;
+MARCELO EDUARDO CABRERA;619.524.511-91;01/10/2010;       Criação e inclusão de páginas na internet;R$ 500,00;Cheque; -  -  / 70026 - LENICE AUGUSTA DOS SANTOS - DF - Deputado Distrital;
+RNASTUTAPE;00.412.130/0001-31;25/08/2010;       Publicidade por placas, estandartes e faixas;R$ 245,00;Cheque; -  -  / 70026 - LENICE AUGUSTA DOS SANTOS - DF - Deputado Distrital;
+RNASTUTAPE;00.412.130/0001-31;18/08/2010;       Publicidade por placas, estandartes e faixas;R$ 580,00;Cheque; -  -  / 70026 - LENICE AUGUSTA DOS SANTOS - DF - Deputado Distrital;
+TELEGRAFICA;26.437.855/0001-78;23/08/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 70026 - LENICE AUGUSTA DOS SANTOS - DF - Deputado Distrital;

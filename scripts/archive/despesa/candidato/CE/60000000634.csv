@@ -1,4 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Governador;12.181.912/0001-96;02/09/2010;36000078402;R$ 800,00;Estimado;SANDY FRAGOSO VIEIRA;36555;Deputado Estadual;PTC;CE;
-MARCOGRAF LTDA;02.963.095/0001-74;02/09/2010;36000078401;R$ 56,00;Estimado;SANDY FRAGOSO VIEIRA;36555;Deputado Estadual;PTC;CE;
-SANDY FRAGOSO VIEIRA;081.313.093-04;03/09/2010;36000078403;R$ 4.950,00;Depósito em espécie;SANDY FRAGOSO VIEIRA;36555;Deputado Estadual;PTC;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Governador;12.181.912/0001-96;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 800,00;Estimado;Comitê Financeiro Distrital/Estadual para Governador - PSB -  / 36555 - SANDY FRAGOSO VIEIRA - CE - Deputado Estadual;
+IVAN MARQUES FARIAS;072.126.663-00;16/09/2010;       Serviços prestados por terceiros;R$ 141,30;Transferência eletrônica; -  -  / 36555 - SANDY FRAGOSO VIEIRA - CE - Deputado Estadual;
+IVAN MARQUES FARIAS;072.126.663-00;08/09/2010;       Serviços prestados por terceiros;R$ 2.500,00;Não informado; -  -  / 36555 - SANDY FRAGOSO VIEIRA - CE - Deputado Estadual;
+JOSÉ IVANIR FARIAS;057.253.723-91;08/09/2010;       Serviços prestados por terceiros;R$ 2.000,00;Não informado; -  -  / 36555 - SANDY FRAGOSO VIEIRA - CE - Deputado Estadual;
+MARCOGRAF LTDA;02.963.095/0001-74;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 56,00;Estimado; -  -  / 36555 - SANDY FRAGOSO VIEIRA - CE - Deputado Estadual;
+UBIRATAN FEITOZA DANTAS;190.748.593-72;14/09/2010;       Serviços prestados por terceiros;R$ 300,00;Não informado; -  -  / 36555 - SANDY FRAGOSO VIEIRA - CE - Deputado Estadual;
+;;08/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 36555 - SANDY FRAGOSO VIEIRA - CE - Deputado Estadual;
+;;16/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 36555 - SANDY FRAGOSO VIEIRA - CE - Deputado Estadual;
+;;10/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 36555 - SANDY FRAGOSO VIEIRA - CE - Deputado Estadual;

@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.217.614/0001-09;06/09/2010;19000001994;R$ 292,96;Estimado;JOSE MARIA DO NASCIMENTO;19019;Deputado Estadual;PTN;CE;
-Comitê Financeiro Único;12.217.614/0001-09;06/09/2010;19000001993;R$ 80,65;Estimado;JOSE MARIA DO NASCIMENTO;19019;Deputado Estadual;PTN;CE;
-JOSE MARIA DO NASCIMENTO;663.756.734-53;02/08/2010;19000001991;R$ 630,00;Depósito em espécie;JOSE MARIA DO NASCIMENTO;19019;Deputado Estadual;PTN;CE;
-MARCOGRAF GRAFICA LTDA;02.963.095/0001-74;20/08/2010;19000001992;R$ 172,00;Estimado;JOSE MARIA DO NASCIMENTO;19019;Deputado Estadual;PTN;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.217.614/0001-09;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 80,65;Estimado;Comitê Financeiro Único - PTN -  / 19019 - JOSE MARIA DO NASCIMENTO - CE - Deputado Estadual;
+Comitê Financeiro Único;12.217.614/0001-09;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 292,96;Estimado;Comitê Financeiro Único - PTN -  / 19019 - JOSE MARIA DO NASCIMENTO - CE - Deputado Estadual;
+GRAFICA APOLO;04.000.951/0001-11;04/08/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 19019 - JOSE MARIA DO NASCIMENTO - CE - Deputado Estadual;
+MARCOGRAF GRAFICA LTDA;02.963.095/0001-74;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 172,00;Estimado; -  -  / 19019 - JOSE MARIA DO NASCIMENTO - CE - Deputado Estadual;
+19019 - JOSE MARIA DO NASCIMENTO - DEPUTADO ESTADUAL;12.191.087/0001-00;01/11/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 30,00;Depósito em espécie;Direção Nacional - PTN - BR / 19019 - JOSE MARIA DO NASCIMENTO - CE - Deputado Estadual;

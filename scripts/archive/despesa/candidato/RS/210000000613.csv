@@ -1,3 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.200.140/0001-92;18/08/2010;15000195651;R$ 139,00;Estimado;MÁRCIO DIOGO RAMOS PIMENTEL;15300;Deputado Estadual;PMDB;RS;
-MARCIO PIMENTEL;320.975.060-20;25/08/2010;15000195652;R$ 1.000,00;Transferência eletrônica;MÁRCIO DIOGO RAMOS PIMENTEL;15300;Deputado Estadual;PMDB;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.200.140/0001-92;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 139,00;Estimado;Direção Estadual/Distrital - PMDB -  / 15300 - MÁRCIO DIOGO RAMOS PIMENTEL - RS - Deputado Estadual;
+ORITON P MACIEL ME;92.143.270/0001-70;27/08/2010;       Diversas a especificar;R$ 470,00;Transferência eletrônica; -  -  / 15300 - MÁRCIO DIOGO RAMOS PIMENTEL - RS - Deputado Estadual;
+SANTO E VIAL IMPRESSAO;10.654.761/0001-10;27/08/2010;       Diversas a especificar;R$ 500,00;Transferência eletrônica; -  -  / 15300 - MÁRCIO DIOGO RAMOS PIMENTEL - RS - Deputado Estadual;
+SICREDI;01.181.521/0010-46;28/08/2010;       Diversas a especificar;R$ 16,00;Transferência eletrônica; -  -  / 15300 - MÁRCIO DIOGO RAMOS PIMENTEL - RS - Deputado Estadual;

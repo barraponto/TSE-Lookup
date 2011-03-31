@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CAIO LÚCIO DA ROCHA PASCOAL;308.023.424-34;10/08/2010;65000246901;R$ 500,00;Depósito em espécie;MANOEL MARQUES DANTAS;6512;Deputado Federal;PC do B;RN;
-FRANCISCA MARQUES DANTAS;423.564.234-00;01/09/2010;65000246905;R$ 1.000,00;Depósito em espécie;MANOEL MARQUES DANTAS;6512;Deputado Federal;PC do B;RN;
-MANOEL MARQUES;108.451.434-68;01/09/2010;65000246903;R$ 1.000,00;Depósito em espécie;MANOEL MARQUES DANTAS;6512;Deputado Federal;PC do B;RN;
-MÁRCIO GEORGE MARQUES DANTAS;201.837.204-15;01/09/2010;65000246904;R$ 1.000,00;Depósito em espécie;MANOEL MARQUES DANTAS;6512;Deputado Federal;PC do B;RN;
-THENGE ENGENHARIA LTDA;24.272.643/0001-52;25/08/2010;65000246902;R$ 1.000,00;Depósito em espécie;MANOEL MARQUES DANTAS;6512;Deputado Federal;PC do B;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ATUAL IMPRESSÕES COM. E SERV. LTDA;02.428.207/0001-97;02/09/2010;       Publicidade por materiais impressos;R$ 2.000,00;Cheque; -  -  / 6512 - MANOEL MARQUES DANTAS - RN - Deputado Federal;
+LUIZ FLOR E FILHOS LTDA;08.693.517/0002-04;15/09/2010;       Combustíveis e lubrificantes;R$ 89,68;Cheque; -  -  / 6512 - MANOEL MARQUES DANTAS - RN - Deputado Federal;
+MAGNUN MARQUES TAVARES DA FONSEDA;050.814.054-42;02/09/2010;       Produção de jingles, vinhetas e slogans;R$ 800,00;Cheque; -  -  / 6512 - MANOEL MARQUES DANTAS - RN - Deputado Federal;
+6512 - MANOEL MARQUES - DEPUTADO FEDERAL;12.171.216/0001-07;20/08/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 475,00;Cheque;Comitê Financeiro Único - PC do B - RN / 6512 - MANOEL MARQUES DANTAS - RN - Deputado Federal;
+6512 - MANOEL MARQUES - DEPUTADO FEDERAL;12.171.216/0001-07;30/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 790,00;Cheque;65123 - GEORGE CÂMARA - PC do B - RN - Deputado Estadual / 6512 - MANOEL MARQUES DANTAS - RN - Deputado Federal;

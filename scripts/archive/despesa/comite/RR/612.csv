@@ -1,2 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
-ORISMAN FIRMINO DE ALBUQUERQUE;071.143.033-00;19/07/2010;36000063251;R$ 300,00;Depósito em espécie;Comitê Financeiro Único;PTC;RR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+INDUSTRIA ECOMERCIO IORIS LTDA;84.041.011/0001-00;26/07/2010;       Diversas a especificar;R$ 200,00;Cheque; -  -  / Comitê Financeiro Único - PTC - RR;
+;;02/09/2010;       Encargos financeiros e taxas bancárias;R$ 20,00;Débito em conta; -  -  / Comitê Financeiro Único - PTC - RR;
+;;03/08/2010;       Encargos financeiros e taxas bancárias;R$ 20,00;Débito em conta; -  -  / Comitê Financeiro Único - PTC - RR;

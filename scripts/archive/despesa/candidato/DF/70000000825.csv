@@ -1,2 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTÚLIO RIBEIRO GONÇALVES;266.380.961-68;24/08/2010;43061789751;R$ 1.000,00;Depósito em espécie;ANTULIO RIBEIRO GONÇALVES;43443;Deputado Distrital;PV;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTÚLIO RIBEIRO GONÇALVES;266.380.961-68;04/10/2010;       Reembolsos de gastos realizados por eleitores;R$ 13,89;Não informado; -  -  / 43443 - ANTULIO RIBEIRO GONÇALVES - DF - Deputado Distrital;
+DIMENSÃO LETREIROS E PLACAS LTDA - ME;38.068.847/0001-80;03/09/2010;       Publicidade por materiais impressos;R$ 934,00;Cheque; -  -  / 43443 - ANTULIO RIBEIRO GONÇALVES - DF - Deputado Distrital;
+;;01/10/2010;       Encargos financeiros e taxas bancárias;R$ 29,50;Débito em conta; -  -  / 43443 - ANTULIO RIBEIRO GONÇALVES - DF - Deputado Distrital;
+;;01/09/2010;       Encargos financeiros e taxas bancárias;R$ 22,61;Débito em conta; -  -  / 43443 - ANTULIO RIBEIRO GONÇALVES - DF - Deputado Distrital;

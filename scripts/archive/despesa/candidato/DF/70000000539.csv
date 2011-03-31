@@ -1,4 +1,13 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.205.228/0001-05;20/08/2010;15000257906;R$ 3.400,00;Transferência eletrônica;SEVERINO SANTOS DE MENESES;15667;Deputado Distrital;PMDB;DF;
-Diretório Estadual/Distrital;12.205.228/0001-05;23/09/2010;15000257907;R$ 3.400,00;Transferência eletrônica;SEVERINO SANTOS DE MENESES;15667;Deputado Distrital;PMDB;DF;
-Diretório Estadual/Distrital;12.205.228/0001-05;10/09/2010;15000257905;R$ 3.400,00;Transferência eletrônica;SEVERINO SANTOS DE MENESES;15667;Deputado Distrital;PMDB;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO CHAVES;00.746.278/0001-02;01/08/2010;       Combustíveis e lubrificantes;R$ 1.000,00;Transferência eletrônica; -  -  / 15667 - SEVERINO SANTOS DE MENESES - DF - Deputado Distrital;
+CARMELITA SOUZA DE MENEZES;030.627.941-00;02/09/2010;       Despesas com pessoal;R$ 1.000,00;Transferência eletrônica; -  -  / 15667 - SEVERINO SANTOS DE MENESES - DF - Deputado Distrital;
+DOUGLAS ALVES DA SILVA;005.212.701-03;02/09/2010;       Despesas com pessoal;R$ 1.000,00;Transferência eletrônica; -  -  / 15667 - SEVERINO SANTOS DE MENESES - DF - Deputado Distrital;
+ELEVADOR LACARDA;04.301.026/0001-20;29/09/2010;       Materiais de expediente;R$ 683,00;Transferência eletrônica; -  -  / 15667 - SEVERINO SANTOS DE MENESES - DF - Deputado Distrital;
+IRANILDA DE JESUS SOUZA;552.833.571-04;02/09/2010;       Despesas com pessoal;R$ 1.000,00;Transferência eletrônica; -  -  / 15667 - SEVERINO SANTOS DE MENESES - DF - Deputado Distrital;
+JOSE WISSON GOMES;376.689.431-53;03/10/2010;       Despesas com pessoal;R$ 1.500,00;Transferência eletrônica; -  -  / 15667 - SEVERINO SANTOS DE MENESES - DF - Deputado Distrital;
+JOSE WISSON GOMES;376.689.431-53;02/09/2010;       Despesas com pessoal;R$ 1.500,00;Transferência eletrônica; -  -  / 15667 - SEVERINO SANTOS DE MENESES - DF - Deputado Distrital;
+MAX PERTO;10.234.511/0001-21;25/08/2010;       Combustíveis e lubrificantes;R$ 497,00;Transferência eletrônica; -  -  / 15667 - SEVERINO SANTOS DE MENESES - DF - Deputado Distrital;
+SUELI PEREIRA ALVES DA SILVA;411.053.541-72;03/10/2010;       Despesas com pessoal;R$ 500,00;Transferência eletrônica; -  -  / 15667 - SEVERINO SANTOS DE MENESES - DF - Deputado Distrital;
+TERRA AZUL;96.355.946/0014-64;03/09/2010;       Alimentação;R$ 20,00;Transferência eletrônica; -  -  / 15667 - SEVERINO SANTOS DE MENESES - DF - Deputado Distrital;
+VANIR ANTONIO DE SOUZA NETO;015.640.821-05;02/10/2010;       Despesas com pessoal;R$ 1.000,00;Transferência eletrônica; -  -  / 15667 - SEVERINO SANTOS DE MENESES - DF - Deputado Distrital;
+VANIR ANTONIO DE SOUZA NETO;015.640.821-05;02/09/2010;       Despesas com pessoal;R$ 500,00;Transferência eletrônica; -  -  / 15667 - SEVERINO SANTOS DE MENESES - DF - Deputado Distrital;

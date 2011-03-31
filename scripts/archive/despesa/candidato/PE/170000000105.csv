@@ -1,6 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALISSON LUIZ FELIX DE LIMA;072.096.684-11;28/09/2010;15000176679;R$ 100,00;Depósito em espécie;SERGIO SOARES DE VASCONCELOS;15025;Deputado Estadual;PMDB;PE;
-SERGIO SOARES DE VASCONCELOS;717.633.254-15;30/07/2010;15000176677;R$ 5,00;Depósito em espécie;SERGIO SOARES DE VASCONCELOS;15025;Deputado Estadual;PMDB;PE;
-SERGIO SOARES DE VASCONCELOS;717.633.254-15;02/11/2010;15000176680;R$ 33,62;Depósito em espécie;SERGIO SOARES DE VASCONCELOS;15025;Deputado Estadual;PMDB;PE;
-SERGIO SOARES DE VASCONCELOS;717.633.254-15;27/07/2010;15000176676;R$ 5,00;Depósito em espécie;SERGIO SOARES DE VASCONCELOS;15025;Deputado Estadual;PMDB;PE;
-SERGIO SOARES DE VASCONCELOS;717.633.254-15;02/08/2010;15000176678;R$ 11,60;Depósito em espécie;SERGIO SOARES DE VASCONCELOS;15025;Deputado Estadual;PMDB;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANA PAULA INACIO DE LIRA;077.464.094-40;27/09/2010;       Serviços prestados por terceiros;R$ 100,00;Cheque; -  -  / 15025 - SERGIO SOARES DE VASCONCELOS - PE - Deputado Estadual;
+;;19/08/2010;       Encargos financeiros e taxas bancárias;R$ 6,00;Débito em conta; -  -  / 15025 - SERGIO SOARES DE VASCONCELOS - PE - Deputado Estadual;
+;;30/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 15025 - SERGIO SOARES DE VASCONCELOS - PE - Deputado Estadual;
+;;05/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,18;Débito em conta; -  -  / 15025 - SERGIO SOARES DE VASCONCELOS - PE - Deputado Estadual;
+;;05/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,72;Débito em conta; -  -  / 15025 - SERGIO SOARES DE VASCONCELOS - PE - Deputado Estadual;
+;;04/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 15025 - SERGIO SOARES DE VASCONCELOS - PE - Deputado Estadual;
+;;04/11/2010;       Encargos financeiros e taxas bancárias;R$ 33,62;Débito em conta; -  -  / 15025 - SERGIO SOARES DE VASCONCELOS - PE - Deputado Estadual;
+;;03/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 15025 - SERGIO SOARES DE VASCONCELOS - PE - Deputado Estadual;
+;;02/08/2010;       Encargos financeiros e taxas bancárias;R$ 6,00;Débito em conta; -  -  / 15025 - SERGIO SOARES DE VASCONCELOS - PE - Deputado Estadual;

@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADILSON TROCA;12.175.087/0001-17;03/09/2010;45000098703;R$ 473,57;Estimado;NILSA TEREZINHA CAPIEM DE FIGUEIREDO;4588;Deputado Federal;PSDB;RS;
-ASTERCON ASSESSORIA E TERCEIRIZACAO CONTABIL S/S LTDA - ME;03.259.593/0001-01;30/09/2010;45000098705;R$ 100,00;Estimado;NILSA TEREZINHA CAPIEM DE FIGUEIREDO;4588;Deputado Federal;PSDB;RS;
-NILSA TEREZINHA CAPIEM DE FIGUEIREDO;404.894.180-15;02/10/2010;45000098702;R$ 450,00;Transferência eletrônica;NILSA TEREZINHA CAPIEM DE FIGUEIREDO;4588;Deputado Federal;PSDB;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADILSON TROCA;12.175.087/0001-17;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 473,57;Estimado;45123 -  - PSDB -  - Deputado Estadual / 4588 - NILSA TEREZINHA CAPIEM DE FIGUEIREDO - RS - Deputado Federal;
+ASTERCON ASSESSORIA E TERCEIRIZACAO CONTABIL S/S LTDA - ME;03.259.593/0001-01;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado; -  -  / 4588 - NILSA TEREZINHA CAPIEM DE FIGUEIREDO - RS - Deputado Federal;
+RN BONORINO;07.586.454/0001-35;02/09/2010;       Publicidade por materiais impressos;R$ 450,00;Cheque; -  -  / 4588 - NILSA TEREZINHA CAPIEM DE FIGUEIREDO - RS - Deputado Federal;

@@ -1,7 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-HANS BAUMANN;000.432.490-00;23/08/2010;21000014608;R$ 1.000,00;Cheque;NUBEM AIRTON CABRAL MEDEIROS;21;Vice-Governador;PCB;RS;
-MARIA GORETTI LIMA GROSSI;280.588.440-04;19/08/2010;21000014607;R$ 60,00;Cheque;NUBEM AIRTON CABRAL MEDEIROS;21;Vice-Governador;PCB;RS;
-NUBEM AIRTON CABRAL MEDEIROS;013.346.030-49;18/08/2010;21000014605;R$ 1.000,00;Depósito em espécie;NUBEM AIRTON CABRAL MEDEIROS;21;Vice-Governador;PCB;RS;
-NUBEM AIRTON CABRAL MEDEIROS;013.346.030-49;26/08/2010;21000014609;R$ 1.000,00;Depósito em espécie;NUBEM AIRTON CABRAL MEDEIROS;21;Vice-Governador;PCB;RS;
-OLGA REJANE CUNHA HAAG;168.743.150-72;19/08/2010;21000014606;R$ 230,00;Cheque;NUBEM AIRTON CABRAL MEDEIROS;21;Vice-Governador;PCB;RS;
-WALDEMAR SEVERO MARQUES;166.548.110-20;09/08/2010;21000014604;R$ 1.000,00;Cheque;NUBEM AIRTON CABRAL MEDEIROS;21;Vice-Governador;PCB;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO PICORAL CAINA - ME;02.820.831/0001-35;24/08/2010;       Publicidade por materiais impressos;R$ 850,00;Cheque; -  -  / 21 - NUBEM AIRTON CABRAL MEDEIROS - RS - Vice-Governador;
+JOSÉ LUIZ LEGG BANDEIRA;221.289.050-87;24/08/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 800,00;Cheque; -  -  / 21 - NUBEM AIRTON CABRAL MEDEIROS - RS - Vice-Governador;
+LACE LOPES CIRNE;316.766.340-53;09/08/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 800,00;Cheque; -  -  / 21 - NUBEM AIRTON CABRAL MEDEIROS - RS - Vice-Governador;
+RBS PARTICIPAÇÕES;68.737.857/0002-03;18/08/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 200,00;Cheque; -  -  / 21 - NUBEM AIRTON CABRAL MEDEIROS - RS - Vice-Governador;
+VEPPO & CIA LTDA;92.660.760/0001-43;26/08/2010;       Despesas postais;R$ 34,63;Cheque; -  -  / 21 - NUBEM AIRTON CABRAL MEDEIROS - RS - Vice-Governador;
+VEPPO & CIA LTDA;92.660.760/0001-43;24/08/2010;       Despesas postais;R$ 97,24;Cheque; -  -  / 21 - NUBEM AIRTON CABRAL MEDEIROS - RS - Vice-Governador;
+21 - NUBEM AIRTON CABRAL MEDEIROS - VICE-GOVERNADOR;12.167.972/0001-54;03/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 1.508,13;Cheque;Comitê Financeiro Único - PCB - RS / 21 - NUBEM AIRTON CABRAL MEDEIROS - RS - Vice-Governador;

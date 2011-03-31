@@ -1,9 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADRIANA NDREOTTI DA SILVA;986.753.621-53;02/08/2010;25000483301;R$ 600,00;Estimado;ILDA MARGARIDA DE CAMPOS;25369;Deputado Estadual;DEM;MT;
-ANTERO;12.189.840/0001-23;02/09/2010;25000483304;R$ 800,00;Depósito em espécie;ILDA MARGARIDA DE CAMPOS;25369;Deputado Estadual;DEM;MT;
-ANTERO SENADOR;12.189.840/0001-23;01/09/2010;25000483303;R$ 500,00;Estimado;ILDA MARGARIDA DE CAMPOS;25369;Deputado Estadual;DEM;MT;
-Comitê Financeiro Único;12.182.454/0001-00;02/08/2010;25000483307;R$ 237,50;Estimado;ILDA MARGARIDA DE CAMPOS;25369;Deputado Estadual;DEM;MT;
-Comitê Financeiro Único;12.182.454/0001-00;02/08/2010;25000483308;R$ 245,40;Estimado;ILDA MARGARIDA DE CAMPOS;25369;Deputado Estadual;DEM;MT;
-Comitê Financeiro Único;12.182.454/0001-00;25/09/2010;25000483309;R$ 471,69;Estimado;ILDA MARGARIDA DE CAMPOS;25369;Deputado Estadual;DEM;MT;
-FABIO JUNIOR DA COSTA;907.726.011-00;02/08/2010;25000483302;R$ 600,00;Estimado;ILDA MARGARIDA DE CAMPOS;25369;Deputado Estadual;DEM;MT;
-JULIO JOSE DE CAMPOS;12.189.464/0001-77;04/09/2010;25000483310;R$ 50,00;Estimado;ILDA MARGARIDA DE CAMPOS;25369;Deputado Estadual;DEM;MT;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADRIANA NDREOTTI DA SILVA;986.753.621-53;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado; -  -  / 25369 - ILDA MARGARIDA DE CAMPOS - MT - Deputado Estadual;
+ANTERO SENADOR;12.189.840/0001-23;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;455 -  - PSDB -  - Senador / 25369 - ILDA MARGARIDA DE CAMPOS - MT - Deputado Estadual;
+APLIC COMUNICAÇAO VISUAL;08.172.367/0001-02;11/08/2010;       Publicidade por materiais impressos;R$ 800,00;Cheque; -  -  / 25369 - ILDA MARGARIDA DE CAMPOS - MT - Deputado Estadual;
+Comitê Financeiro Único;12.182.454/0001-00;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 245,40;Estimado;Comitê Financeiro Único - PSDB -  / 25369 - ILDA MARGARIDA DE CAMPOS - MT - Deputado Estadual;
+Comitê Financeiro Único;12.182.454/0001-00;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 237,50;Estimado;Comitê Financeiro Único - PSDB -  / 25369 - ILDA MARGARIDA DE CAMPOS - MT - Deputado Estadual;
+Comitê Financeiro Único;12.182.454/0001-00;25/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 471,69;Estimado;Comitê Financeiro Único - PSDB -  / 25369 - ILDA MARGARIDA DE CAMPOS - MT - Deputado Estadual;
+FABIO JUNIOR DA COSTA;907.726.011-00;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado; -  -  / 25369 - ILDA MARGARIDA DE CAMPOS - MT - Deputado Estadual;
+JULIO JOSE DE CAMPOS;12.189.464/0001-77;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 50,00;Estimado;2525 -  - DEM -  - Deputado Federal / 25369 - ILDA MARGARIDA DE CAMPOS - MT - Deputado Estadual;

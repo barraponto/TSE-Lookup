@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.217.567/0001-01;23/09/2010;33000095880;R$ 391,50;Depósito em espécie;MANOEL FRANCISCO PINTO DE LIMA;33033;Deputado Estadual;PMN;AC;
-JAN CARLOS FREIRE DO VALE;495.121.702-30;20/07/2010;33000095871;R$ 1.000,00;Estimado;MANOEL FRANCISCO PINTO DE LIMA;33033;Deputado Estadual;PMN;AC;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO SÃO FRANCISCO;04.068.342/0001-02;23/09/2010;       Combustíveis e lubrificantes;R$ 391,00;Cheque; -  -  / 33033 - MANOEL FRANCISCO PINTO DE LIMA - AC - Deputado Estadual;
+JAN CARLOS FREIRE DO VALE;495.121.702-30;20/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 33033 - MANOEL FRANCISCO PINTO DE LIMA - AC - Deputado Estadual;

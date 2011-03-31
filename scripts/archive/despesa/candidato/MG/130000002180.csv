@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.560/0001-50;27/07/2010;65000100501;R$ 73,17;Estimado;VANDERLEY FIDELIS;65345;Deputado Estadual;PC do B;MG;
-MARIA DO SOCORRO JO MORAES;12.199.511/0001-63;30/09/2010;65000100505;R$ 3.000,00;Cheque;VANDERLEY FIDELIS;65345;Deputado Estadual;PC do B;MG;
-MARIA DO SOCORRO JO MORAES;12.199.511/0001-63;02/08/2010;65000100502;R$ 3.000,00;Cheque;VANDERLEY FIDELIS;65345;Deputado Estadual;PC do B;MG;
-MARIA DO SOCORRO JO MORAES;12.199.511/0001-63;31/08/2010;65000100503;R$ 3.000,00;Cheque;VANDERLEY FIDELIS;65345;Deputado Estadual;PC do B;MG;
-MARIA DO SOCORRO JO MORAES;12.199.511/0001-63;15/09/2010;65000100507;R$ 114,29;Estimado;VANDERLEY FIDELIS;65345;Deputado Estadual;PC do B;MG;
-MARIA DO SOCORRO JO MORAES;12.199.511/0001-63;30/09/2010;65000100506;R$ 236,25;Estimado;VANDERLEY FIDELIS;65345;Deputado Estadual;PC do B;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.560/0001-50;27/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 73,17;Estimado;Comitê Financeiro Único - PC do B -  / 65345 - VANDERLEY FIDELIS - MG - Deputado Estadual;
+ERNANI DA SILVA RAMOS;808.495.396-68;30/09/2010;       Serviços prestados por terceiros;R$ 3.000,00;Cheque; -  -  / 65345 - VANDERLEY FIDELIS - MG - Deputado Estadual;
+JOSE FERREIRA DINIZ;056.090.116-04;30/09/2010;       Serviços prestados por terceiros;R$ 3.000,00;Cheque; -  -  / 65345 - VANDERLEY FIDELIS - MG - Deputado Estadual;
+MARIA DO SOCORRO JO MORAES;12.199.511/0001-63;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 114,29;Estimado;6565 -  - PC do B -  - Deputado Federal / 65345 - VANDERLEY FIDELIS - MG - Deputado Estadual;
+MARIA DO SOCORRO JO MORAES;12.199.511/0001-63;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 236,25;Estimado;6565 -  - PC do B -  - Deputado Federal / 65345 - VANDERLEY FIDELIS - MG - Deputado Estadual;
+PATRICIA GONÇALVES DO CARMO LIMA;034.602.126-08;30/09/2010;       Serviços prestados por terceiros;R$ 3.000,00;Cheque; -  -  / 65345 - VANDERLEY FIDELIS - MG - Deputado Estadual;

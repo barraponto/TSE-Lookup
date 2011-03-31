@@ -1,4 +1,4 @@
-Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
-GRÁFICA FRANCARLOS;14.339.543/0001-42;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado; -  -  / Comitê Financeiro Único - PRTB - AC;
-S.A JANUÁRIO;63.608.301/0001-12;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / Comitê Financeiro Único - PRTB - AC;
-S.A JANUÁRIO;63.608.301/0001-12;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado; -  -  / Comitê Financeiro Único - PRTB - AC;
+Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
+GRÁFICA FRANCARLOS;14.339.543/0001-42;01/09/2010;28000425901;R$ 600,00;Estimado;Comitê Financeiro Único;PRTB;AC;
+S.A JANUÁRIO;63.608.301/0001-12;20/09/2010;28000425903;R$ 1.000,00;Estimado;Comitê Financeiro Único;PRTB;AC;
+S.A JANUÁRIO;63.608.301/0001-12;20/09/2010;28000425902;R$ 2.000,00;Estimado;Comitê Financeiro Único;PRTB;AC;

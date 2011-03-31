@@ -1,9 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANDRÉ QUINTÃO SILVA;12.176.837/0001-75;29/10/2010;13000700308;R$ 95,00;Estimado;IZAQUIAS PEREIRA DA COSTA;1351;Deputado Federal;PT;MG;
-Comitê Financeiro Estadual/Distrital para Deputado Federal;12.205.317/0001-43;01/10/2010;13000700306;R$ 600,00;Estimado;IZAQUIAS PEREIRA DA COSTA;1351;Deputado Federal;PT;MG;
-Comitê Financeiro Estadual/Distrital para Deputado Federal;12.205.317/0001-43;28/09/2010;13000700305;R$ 1.000,00;Estimado;IZAQUIAS PEREIRA DA COSTA;1351;Deputado Federal;PT;MG;
-FERNANDO DA MATA PIMENTEL;12.189.933/0001-58;27/09/2010;13000700302;R$ 550,00;Estimado;IZAQUIAS PEREIRA DA COSTA;1351;Deputado Federal;PT;MG;
-FERNANDO DA MATA PIMENTEL;12.189.933/0001-58;27/09/2010;13000700303;R$ 1.065,75;Estimado;IZAQUIAS PEREIRA DA COSTA;1351;Deputado Federal;PT;MG;
-HELIO CALIXTO DA COSTA;12.189.609/0001-30;28/09/2010;13000700304;R$ 57,00;Estimado;IZAQUIAS PEREIRA DA COSTA;1351;Deputado Federal;PT;MG;
-HELIO CALIXTO DA COSTA;12.189.609/0001-30;05/10/2010;13000700307;R$ 300,00;Estimado;IZAQUIAS PEREIRA DA COSTA;1351;Deputado Federal;PT;MG;
-HELIO COSTA;12.189.609/0001-30;06/08/2010;13000700301;R$ 300,00;Estimado;IZAQUIAS PEREIRA DA COSTA;1351;Deputado Federal;PT;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANDRÉ QUINTÃO SILVA;12.176.837/0001-75;29/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 95,00;Estimado;13555 -  - PT -  - Deputado Estadual / 1351 - IZAQUIAS PEREIRA DA COSTA - MG - Deputado Federal;
+Comitê Financeiro Estadual/Distrital para Deputado Federal;12.205.317/0001-43;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Federal - PT -  / 1351 - IZAQUIAS PEREIRA DA COSTA - MG - Deputado Federal;
+Comitê Financeiro Estadual/Distrital para Deputado Federal;12.205.317/0001-43;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Federal - PT -  / 1351 - IZAQUIAS PEREIRA DA COSTA - MG - Deputado Federal;
+FERNANDO DA MATA PIMENTEL;12.189.933/0001-58;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 550,00;Estimado;133 -  - PT -  - Senador / 1351 - IZAQUIAS PEREIRA DA COSTA - MG - Deputado Federal;
+FERNANDO DA MATA PIMENTEL;12.189.933/0001-58;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.065,75;Estimado;133 -  - PT -  - Senador / 1351 - IZAQUIAS PEREIRA DA COSTA - MG - Deputado Federal;
+HELIO CALIXTO DA COSTA;12.189.609/0001-30;05/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;15 -  - PMDB -  - Governador / 1351 - IZAQUIAS PEREIRA DA COSTA - MG - Deputado Federal;
+HELIO CALIXTO DA COSTA;12.189.609/0001-30;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 57,00;Estimado;15 -  - PMDB -  - Governador / 1351 - IZAQUIAS PEREIRA DA COSTA - MG - Deputado Federal;
+HELIO COSTA;12.189.609/0001-30;06/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;15 -  - PMDB -  - Governador / 1351 - IZAQUIAS PEREIRA DA COSTA - MG - Deputado Federal;

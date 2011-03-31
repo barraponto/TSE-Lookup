@@ -1,5 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANDREIA ALMEIDA ZITO DOS SANTOS;12.203.895/0001-40;06/09/2010;45000439424;R$ 1.545,00;Estimado;PAULO ROBERTO BOMFIM;45577;Deputado Estadual;PSDB;RJ;
-EVANDRO RIMULO GONÇALVES;876.789.347-34;27/08/2010;45000439422;R$ 1.500,00;Estimado;PAULO ROBERTO BOMFIM;45577;Deputado Estadual;PSDB;RJ;
-GILBERT DA ROCHA CANDIDO;108.345.827-24;06/09/2010;45000439423;R$ 1.500,00;Depósito em espécie;PAULO ROBERTO BOMFIM;45577;Deputado Estadual;PSDB;RJ;
-PAULO ROBERTO BOMFIM;377.306.737-20;03/08/2010;45000439421;R$ 1.500,00;Depósito em espécie;PAULO ROBERTO BOMFIM;45577;Deputado Estadual;PSDB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANDREIA ALMEIDA ZITO DOS SANTOS;12.203.895/0001-40;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.545,00;Estimado;4545 -  - PSDB -  - Deputado Federal / 45577 - PAULO ROBERTO BOMFIM - RJ - Deputado Estadual;
+AUTO POSTO ALTERNATIVO LTDA;04.368.639/0001-85;30/09/2010;       Combustíveis e lubrificantes;R$ 348,94;Cheque; -  -  / 45577 - PAULO ROBERTO BOMFIM - RJ - Deputado Estadual;
+AUTO POSTO ALTERNATIVO LTDA;04.368.639/0001-85;27/08/2010;       Combustíveis e lubrificantes;R$ 266,28;Cheque; -  -  / 45577 - PAULO ROBERTO BOMFIM - RJ - Deputado Estadual;
+AUTO POSTO ALTERNATIVO LTDA;04.368.639/0001-85;15/09/2010;       Combustíveis e lubrificantes;R$ 176,29;Cheque; -  -  / 45577 - PAULO ROBERTO BOMFIM - RJ - Deputado Estadual;
+BEATRIZ FRANCISCA COSTA DE PAULA;112.069.217-22;04/10/2010;       Despesas com pessoal;R$ 508,49;Cheque; -  -  / 45577 - PAULO ROBERTO BOMFIM - RJ - Deputado Estadual;
+BEATRIZ FRANCISCA COSTA DE PAULA;112.069.217-22;07/09/2010;       Despesas com pessoal;R$ 400,00;Cheque; -  -  / 45577 - PAULO ROBERTO BOMFIM - RJ - Deputado Estadual;
+EDSON LUIZ INACIO BARBOSA;11.894.726/0001-31;05/08/2010;       Publicidade por placas, estandartes e faixas;R$ 500,00;Cheque; -  -  / 45577 - PAULO ROBERTO BOMFIM - RJ - Deputado Estadual;
+EVANDRO RIMULO GONÇALVES;876.789.347-34;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado; -  -  / 45577 - PAULO ROBERTO BOMFIM - RJ - Deputado Estadual;
+FERNANDA BOMFIM;090.563.677-57;07/09/2010;       Despesas com pessoal;R$ 400,00;Cheque; -  -  / 45577 - PAULO ROBERTO BOMFIM - RJ - Deputado Estadual;
+REMAQ SERVIÇOS DE IMPRESSÃO DIGITAL LTDA;11.140.903/0001-94;04/08/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 45577 - PAULO ROBERTO BOMFIM - RJ - Deputado Estadual;

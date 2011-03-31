@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.127.661/0001-61;24/08/2010;65000024801;R$ 1.364,00;Estimado;CARMEN REGINA DE LIMA ABRAHAO;6513;Deputado Federal;PC do B;RS;
-Comitê Financeiro Único;12.127.661/0001-61;03/09/2010;65000024803;R$ 925,00;Estimado;CARMEN REGINA DE LIMA ABRAHAO;6513;Deputado Federal;PC do B;RS;
-Comitê Financeiro Único;12.127.661/0001-61;10/09/2010;65000024802;R$ 262,00;Estimado;CARMEN REGINA DE LIMA ABRAHAO;6513;Deputado Federal;PC do B;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.127.661/0001-61;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.364,00;Estimado;Comitê Financeiro Único - PC do B -  / 6513 - CARMEN REGINA DE LIMA ABRAHAO - RS - Deputado Federal;
+Comitê Financeiro Único;12.127.661/0001-61;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 925,00;Estimado;Comitê Financeiro Único - PC do B -  / 6513 - CARMEN REGINA DE LIMA ABRAHAO - RS - Deputado Federal;
+Comitê Financeiro Único;12.127.661/0001-61;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 262,00;Estimado;Comitê Financeiro Único - PC do B -  / 6513 - CARMEN REGINA DE LIMA ABRAHAO - RS - Deputado Federal;

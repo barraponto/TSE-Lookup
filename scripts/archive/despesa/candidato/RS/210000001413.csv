@@ -1,4 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.229.931/0001-45;21/09/2010;23000242003;R$ 5.000,00;Depósito em espécie;WILSON PORTINHO FILHO;2345;Deputado Federal;PPS;RS;
-WILSON PORTINHO FILHO;281.164.880-15;16/08/2010;23000242001;R$ 2.000,00;Transferência eletrônica;WILSON PORTINHO FILHO;2345;Deputado Federal;PPS;RS;
-WILSON PORTINHO FILHO;281.164.880-15;23/08/2010;23000242002;R$ 550,00;Transferência eletrônica;WILSON PORTINHO FILHO;2345;Deputado Federal;PPS;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALOYSIO CRISTIANO DE CASTRO TROLLER;08.966.545/0001-69;23/09/2010;       Publicidade por materiais impressos;R$ 1.300,00;Cheque; -  -  / 2345 - WILSON PORTINHO FILHO - RS - Deputado Federal;
+ASSOCIAÇÃO DOS FREIS CAPUCHINHOS DO RS;10.436.934/0004-77;16/08/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 2345 - WILSON PORTINHO FILHO - RS - Deputado Federal;
+ASSOCIAÇÃO DOS FREIS CAPUCHINHOS DO RS;10.436.934/0004-77;20/08/2010;       Publicidade por materiais impressos;R$ 450,00;Cheque; -  -  / 2345 - WILSON PORTINHO FILHO - RS - Deputado Federal;
+ASSOCIAÇÃO DOS FREIS CAPUCHINHOS DO RS;10.436.934/0004-77;20/08/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 2345 - WILSON PORTINHO FILHO - RS - Deputado Federal;
+BERNADETE CHAGAS;462.783.620-15;29/09/2010;       Serviços prestados por terceiros;R$ 900,00;Cheque; -  -  / 2345 - WILSON PORTINHO FILHO - RS - Deputado Federal;
+BERNADETE CHAGAS;462.783.620-15;22/09/2010;       Serviços prestados por terceiros;R$ 900,00;Cheque; -  -  / 2345 - WILSON PORTINHO FILHO - RS - Deputado Federal;
+EMILIO PEREIRA JUNIOR;345.405.200-91;29/09/2010;       Serviços prestados por terceiros;R$ 2.000,00;Cheque; -  -  / 2345 - WILSON PORTINHO FILHO - RS - Deputado Federal;

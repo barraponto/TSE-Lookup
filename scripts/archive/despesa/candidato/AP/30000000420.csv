@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.241.703/0001-90;14/08/2010;31000066701;R$ 1.100,00;Estimado;CLEYDSON SOUSA DO NASCIMENTO;3131;Deputado Federal;PHS;AP;
-Comitê Financeiro Único;12.256.162/0001-74;24/08/2010;31000066703;R$ 240,00;Estimado;CLEYDSON SOUSA DO NASCIMENTO;3131;Deputado Federal;PHS;AP;
-Comitê Financeiro Único;12.241.703/0001-90;08/08/2010;31000066702;R$ 400,00;Estimado;CLEYDSON SOUSA DO NASCIMENTO;3131;Deputado Federal;PHS;AP;
-RENILDE FERNANDES LOBATO;388.698.612-87;14/08/2010;31000066704;R$ 3.000,00;Estimado;CLEYDSON SOUSA DO NASCIMENTO;3131;Deputado Federal;PHS;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.241.703/0001-90;08/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado;Comitê Financeiro Único - PP -  / 3131 - CLEYDSON SOUSA DO NASCIMENTO - AP - Deputado Federal;
+Comitê Financeiro Único;12.256.162/0001-74;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 240,00;Estimado;Comitê Financeiro Único - PDT -  / 3131 - CLEYDSON SOUSA DO NASCIMENTO - AP - Deputado Federal;
+Comitê Financeiro Único;12.241.703/0001-90;14/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.100,00;Estimado;Comitê Financeiro Único - PP -  / 3131 - CLEYDSON SOUSA DO NASCIMENTO - AP - Deputado Federal;
+RENILDE FERNANDES LOBATO;388.698.612-87;14/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.000,00;Estimado; -  -  / 3131 - CLEYDSON SOUSA DO NASCIMENTO - AP - Deputado Federal;

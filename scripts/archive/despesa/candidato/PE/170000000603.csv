@@ -1,5 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;05.055.973/0001-41;28/09/2010;36000064223;R$ 574,00;Estimado;ROSA MARIA DOS SANTOS MARQUES;36566;Deputado Estadual;PTC;PE;
-Diretório Estadual/Distrital;05.055.973/0001-41;24/09/2010;36000064222;R$ 200,00;Estimado;ROSA MARIA DOS SANTOS MARQUES;36566;Deputado Estadual;PTC;PE;
-ROSA MARIA DOS SANTOS MARQUES;456.043.634-72;23/07/2010;36000064221;R$ 450,00;Depósito em espécie;ROSA MARIA DOS SANTOS MARQUES;36566;Deputado Estadual;PTC;PE;
-ROSA MARIA DOS SANTOS MARQUES;456.043.634-72;26/08/2010;36000064224;R$ 120,00;Depósito em espécie;ROSA MARIA DOS SANTOS MARQUES;36566;Deputado Estadual;PTC;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CAMPEL COMUNICAÇÃO & ARTE LTDA - ME;10.484.983/0001-32;27/08/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 36566 - ROSA MARIA DOS SANTOS MARQUES - PE - Deputado Estadual;
+CAMPEL COMUNICAÇÃO & ARTE LTDA - ME;10.484.983/0001-32;06/08/2010;       Publicidade por materiais impressos;R$ 350,00;Cheque; -  -  / 36566 - ROSA MARIA DOS SANTOS MARQUES - PE - Deputado Estadual;
+Diretório Estadual/Distrital;05.055.973/0001-41;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 574,00;Estimado;Direção Estadual/Distrital - PTC -  / 36566 - ROSA MARIA DOS SANTOS MARQUES - PE - Deputado Estadual;
+Diretório Estadual/Distrital;05.055.973/0001-41;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;Direção Estadual/Distrital - PTC -  / 36566 - ROSA MARIA DOS SANTOS MARQUES - PE - Deputado Estadual;
+;;27/07/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 36566 - ROSA MARIA DOS SANTOS MARQUES - PE - Deputado Estadual;
+;;30/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 36566 - ROSA MARIA DOS SANTOS MARQUES - PE - Deputado Estadual;

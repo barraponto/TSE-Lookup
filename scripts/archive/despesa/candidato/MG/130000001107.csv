@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANDRE DOS SANTOS ALMEIDA;036.729.446-02;27/10/2010;16000025253;R$ 500,00;Depósito em espécie;JOSÉ JOÃO DA SILVA;161;Senador;PSTU;MG;
-JOSÉ JOÃO DA SILVA;307.195.776-91;27/10/2010;16000025254;R$ 13,50;Depósito em espécie;JOSÉ JOÃO DA SILVA;161;Senador;PSTU;MG;
-LUIZ ROBERTO REZENDE MARTINS;891.930.406-87;09/08/2010;16000025251;R$ 100,00;Estimado;JOSÉ JOÃO DA SILVA;161;Senador;PSTU;MG;
-LUIZ ROBERTO REZENDE MARTINS;891.930.406-87;09/08/2010;16000025252;R$ 200,00;Estimado;JOSÉ JOÃO DA SILVA;161;Senador;PSTU;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+LUIZ ROBERTO REZENDE MARTINS;891.930.406-87;09/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado; -  -  / 161 - JOSÉ JOÃO DA SILVA - MG - Senador;
+LUIZ ROBERTO REZENDE MARTINS;891.930.406-87;09/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado; -  -  / 161 - JOSÉ JOÃO DA SILVA - MG - Senador;
+REFLEXO GRAFICA E EDITORA LTDA.;04.188.691/0001-50;07/09/2010;       Publicidade por materiais impressos;R$ 500,00;Transferência eletrônica; -  -  / 161 - JOSÉ JOÃO DA SILVA - MG - Senador;
+;;27/10/2010;       Impostos, contribuições e taxas;R$ 13,50;Débito em conta; -  -  / 161 - JOSÉ JOÃO DA SILVA - MG - Senador;

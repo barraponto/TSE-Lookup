@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.147.818/0001-10;20/09/2010;43001505455;R$ 876,41;Estimado;ERALDO FERNANDES;43121;Deputado Estadual;PV;RJ;
-ELEIÇÃO 2010 ERALDO FERNANDES DEPUTADO ESTADUAL;464.181.137-72;13/08/2010;43001505452;R$ 200,00;Transferência eletrônica;ERALDO FERNANDES;43121;Deputado Estadual;PV;RJ;
-ELEIÇÃO 2010 ERALDO FERNANDES DEPUTADO ESTADUAL;464.181.137-72;17/09/2010;43001505454;R$ 115,00;Transferência eletrônica;ERALDO FERNANDES;43121;Deputado Estadual;PV;RJ;
-ELEIÇÃO 2010 ERALDO FERNANDES DEPUTADO ESTADUAL;464.181.137-72;29/07/2010;43001505451;R$ 500,00;Depósito em espécie;ERALDO FERNANDES;43121;Deputado Estadual;PV;RJ;
-ELEIÇÃO 2010 ERALDO FERNANDES DEPUTADO ESTADUAL;464.181.137-72;17/08/2010;43001505453;R$ 300,00;Transferência eletrônica;ERALDO FERNANDES;43121;Deputado Estadual;PV;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.147.818/0001-10;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 876,41;Estimado;Comitê Financeiro Único - PV -  / 43121 - ERALDO FERNANDES - RJ - Deputado Estadual;
+PET COPIADORA LTDA;00.603.178/0001-27;13/08/2010;       Materiais de expediente;R$ 20,00;Cheque; -  -  / 43121 - ERALDO FERNANDES - RJ - Deputado Estadual;
+TOCA DA PROPAGANDA LTDA,.M.E.;11.211.052/0001-23;03/08/2010;       Publicidade por materiais impressos;R$ 250,00;Transferência eletrônica; -  -  / 43121 - ERALDO FERNANDES - RJ - Deputado Estadual;
+TOCA DA PROPAGANDA LTDA,.M.E.;11.211.052/0001-23;17/09/2010;       Publicidade por materiais impressos;R$ 350,00;Cheque; -  -  / 43121 - ERALDO FERNANDES - RJ - Deputado Estadual;
+TOCA DA PROPAGANDA LTDA,.M.E.;11.211.052/0001-23;16/08/2010;       Publicidade por materiais impressos;R$ 495,00;Cheque; -  -  / 43121 - ERALDO FERNANDES - RJ - Deputado Estadual;

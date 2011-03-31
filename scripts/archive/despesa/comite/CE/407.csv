@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
-Diretório Estadual/Distrital;06.167.481/0001-00;23/09/2010;44000051442;R$ 5.000,00;Cheque;Comitê Financeiro Único;PRP;CE;
-FRANCISCO MOREIRA LEITAO;058.152.823-91;30/09/2010;44000051450;R$ 30,00;Estimado;Comitê Financeiro Único;PRP;CE;
-FRANCISCO MOREIRA LEITAO;058.152.823-91;30/09/2010;44000051448;R$ 300,00;Estimado;Comitê Financeiro Único;PRP;CE;
-FRANCISCO MOREIRA LEITAO;058.152.823-91;30/09/2010;44000051449;R$ 30,00;Estimado;Comitê Financeiro Único;PRP;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+FRANCISCO MOREIRA LEITAO;058.152.823-91;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 30,00;Estimado; -  -  / Comitê Financeiro Único - PRP - CE;
+FRANCISCO MOREIRA LEITAO;058.152.823-91;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / Comitê Financeiro Único - PRP - CE;
+FRANCISCO MOREIRA LEITAO;058.152.823-91;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 30,00;Estimado; -  -  / Comitê Financeiro Único - PRP - CE;
+JOSÉ CARLOS MOREIRA DE OLIVEIRA-ME;41.594.565/0001-21;28/09/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 3.000,00;Cheque; -  -  / Comitê Financeiro Único - PRP - CE;
+JOSÉ CARLOS MOREIRA DE OLIVEIRA-ME;41.594.565/0001-21;30/09/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 2.000,00;Cheque; -  -  / Comitê Financeiro Único - PRP - CE;

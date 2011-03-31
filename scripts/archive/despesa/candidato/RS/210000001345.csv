@@ -1,4 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JAIRO RICARDO ALVARES CANABARRO;549.247.580-00;05/08/2010;43001824778;R$ 1.000,00;Transferência eletrônica;JAIRO RICARDO ALVARES CANABARRO;43007;Deputado Estadual;PV;RS;
-JAIRO RICARDO ALVARES CANABARRO;549.247.580-00;25/08/2010;43001824779;R$ 4.000,00;Transferência eletrônica;JAIRO RICARDO ALVARES CANABARRO;43007;Deputado Estadual;PV;RS;
-MARINEZ RAUPP MONTEIRO;671.398.090-20;09/09/2010;43001824780;R$ 1.000,00;Depósito em espécie;JAIRO RICARDO ALVARES CANABARRO;43007;Deputado Estadual;PV;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DREAL EMBALAGENS E ALIMENTOS LTDA;04.249.444/0001-16;09/09/2010;       Publicidade por placas, estandartes e faixas;R$ 95,00;Cheque; -  -  / 43007 - JAIRO RICARDO ALVARES CANABARRO - RS - Deputado Estadual;
+DREAL EMBALAGENS E ALIMENTOS LTDA;04.249.444/0001-16;22/09/2010;       Publicidade por placas, estandartes e faixas;R$ 95,00;Cheque; -  -  / 43007 - JAIRO RICARDO ALVARES CANABARRO - RS - Deputado Estadual;
+JAIRO RICARDO ALVARES CANABARRO;549.247.580-00;13/10/2010;       Diversas a especificar;R$ 0,65;Cheque; -  -  / 43007 - JAIRO RICARDO ALVARES CANABARRO - RS - Deputado Estadual;
+POSTO VERA CRUZ - J. CEMIM & FILHOS LTDA;03.574.671/0001-54;26/08/2010;       Combustíveis e lubrificantes;R$ 1.000,00;Cheque; -  -  / 43007 - JAIRO RICARDO ALVARES CANABARRO - RS - Deputado Estadual;
+SIMONE FABIANE DE BORBA;06.250.776/0001-46;10/08/2010;       Publicidade por placas, estandartes e faixas;R$ 320,00;Cheque; -  -  / 43007 - JAIRO RICARDO ALVARES CANABARRO - RS - Deputado Estadual;
+SIMONE FABIANE DE BORBA - KIKO PLACAS E PAINÉIS;06.250.776/0001-46;02/09/2010;       Publicidade por placas, estandartes e faixas;R$ 550,00;Cheque; -  -  / 43007 - JAIRO RICARDO ALVARES CANABARRO - RS - Deputado Estadual;
+SMART INDÚSTRIA GRÁFICA E EDITORA LTDA;09.138.591/0001-32;06/08/2010;       Publicidade por materiais impressos;R$ 1.330,00;Cheque; -  -  / 43007 - JAIRO RICARDO ALVARES CANABARRO - RS - Deputado Estadual;
+SMART INDÚSTRIA GRÁFICA E EDITORA LTDA;09.138.591/0001-32;09/09/2010;       Publicidade por materiais impressos;R$ 2.150,00;Cheque; -  -  / 43007 - JAIRO RICARDO ALVARES CANABARRO - RS - Deputado Estadual;
+TAUAN NARCIZO MAIER;026.005.020-25;21/09/2010;       Diversas a especificar;R$ 130,00;Cheque; -  -  / 43007 - JAIRO RICARDO ALVARES CANABARRO - RS - Deputado Estadual;
+VNS GRAPHICS;07.025.780/0001-73;14/09/2010;       Publicidade por placas, estandartes e faixas;R$ 329,00;Cheque; -  -  / 43007 - JAIRO RICARDO ALVARES CANABARRO - RS - Deputado Estadual;
+;;05/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 43007 - JAIRO RICARDO ALVARES CANABARRO - RS - Deputado Estadual;

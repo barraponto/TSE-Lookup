@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.159/0001-39;18/08/2010;14000125576;R$ 761,54;Estimado;PAULO SÉRGIO MOREIRA;14147;Deputado Estadual;PTB;RS;
-Comitê Financeiro Único;12.200.159/0001-39;23/08/2010;14000125577;R$ 292,95;Estimado;PAULO SÉRGIO MOREIRA;14147;Deputado Estadual;PTB;RS;
-Comitê Financeiro Único;12.200.159/0001-39;16/09/2010;14000125580;R$ 145,00;Estimado;PAULO SÉRGIO MOREIRA;14147;Deputado Estadual;PTB;RS;
-Comitê Financeiro Único;12.200.159/0001-39;30/07/2010;14000125579;R$ 180,00;Estimado;PAULO SÉRGIO MOREIRA;14147;Deputado Estadual;PTB;RS;
-Comitê Financeiro Único;12.200.159/0001-39;02/08/2010;14000125578;R$ 750,00;Estimado;PAULO SÉRGIO MOREIRA;14147;Deputado Estadual;PTB;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.159/0001-39;16/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 145,00;Estimado;Comitê Financeiro Único - PTB -  / 14147 - PAULO SÉRGIO MOREIRA - RS - Deputado Estadual;
+Comitê Financeiro Único;12.200.159/0001-39;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 750,00;Estimado;Comitê Financeiro Único - PTB -  / 14147 - PAULO SÉRGIO MOREIRA - RS - Deputado Estadual;
+Comitê Financeiro Único;12.200.159/0001-39;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 761,54;Estimado;Comitê Financeiro Único - PTB -  / 14147 - PAULO SÉRGIO MOREIRA - RS - Deputado Estadual;
+Comitê Financeiro Único;12.200.159/0001-39;30/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 180,00;Estimado;Comitê Financeiro Único - PTB -  / 14147 - PAULO SÉRGIO MOREIRA - RS - Deputado Estadual;
+Comitê Financeiro Único;12.200.159/0001-39;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 292,95;Estimado;Comitê Financeiro Único - PTB -  / 14147 - PAULO SÉRGIO MOREIRA - RS - Deputado Estadual;

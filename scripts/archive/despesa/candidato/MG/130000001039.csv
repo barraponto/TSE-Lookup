@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FABIO LUCIO RODRIGUES AVELAR;12.170.717/0001-60;29/10/2010;70000100163;R$ 1.125,00;Estimado;CLAUDIO CELIO CUNHA DEFENSOR;7077;Deputado Federal;PT do B;MG;
-JOAO VITOR XAVIER FAUSTINO;12.198.239/0001-05;29/09/2010;70000100164;R$ 247,50;Estimado;CLAUDIO CELIO CUNHA DEFENSOR;7077;Deputado Federal;PT do B;MG;
-TARCISIO PIMENTEL DA SILVA;306.748.676-53;16/08/2010;70000100161;R$ 50,00;Depósito em espécie;CLAUDIO CELIO CUNHA DEFENSOR;7077;Deputado Federal;PT do B;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CAMILO REIS DUARTE;072.888.026-12;16/08/2010;       Serviços prestados por terceiros;R$ 40,00;Cheque; -  -  / 7077 - CLAUDIO CELIO CUNHA DEFENSOR - MG - Deputado Federal;
+FABIO LUCIO RODRIGUES AVELAR;12.170.717/0001-60;29/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.125,00;Estimado;20250 -  - PSC -  - Deputado Estadual / 7077 - CLAUDIO CELIO CUNHA DEFENSOR - MG - Deputado Federal;
+JOAO VITOR XAVIER FAUSTINO;12.198.239/0001-05;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 247,50;Estimado;44200 -  - PRP -  - Deputado Estadual / 7077 - CLAUDIO CELIO CUNHA DEFENSOR - MG - Deputado Federal;

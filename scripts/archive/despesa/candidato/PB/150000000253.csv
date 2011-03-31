@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ASTRONADC PEREIRA DE MORAES;839.786.744-91;19/08/2010;13000777380;R$ 200,00;Depósito em espécie;ASTRONADC PEREIRA DE MORAIS;13190;Deputado Estadual;PT;PB;
-Comitê Financeiro Único;12.221.889/0001-16;30/08/2010;13000777381;R$ 160,00;Estimado;ASTRONADC PEREIRA DE MORAIS;13190;Deputado Estadual;PT;PB;
-JOSÉ TARGINO MARANHÃO;12.189.345/0001-14;31/08/2010;13000777382;R$ 523,56;Estimado;ASTRONADC PEREIRA DE MORAIS;13190;Deputado Estadual;PT;PB;
-LUIZ ALBUQUERQUE COUTO;12.189.459/0001-64;23/08/2010;13000777363;R$ 1.395,00;Estimado;ASTRONADC PEREIRA DE MORAIS;13190;Deputado Estadual;PT;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.221.889/0001-16;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 160,00;Estimado;Comitê Financeiro Único - PT -  / 13190 - ASTRONADC PEREIRA DE MORAIS - PB - Deputado Estadual;
+JOSÉ TARGINO MARANHÃO;12.189.345/0001-14;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 523,56;Estimado;15 -  - PMDB -  - Governador / 13190 - ASTRONADC PEREIRA DE MORAIS - PB - Deputado Estadual;
+LUIZ ALBUQUERQUE COUTO;12.189.459/0001-64;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.395,00;Estimado;1345 -  - PT -  - Deputado Federal / 13190 - ASTRONADC PEREIRA DE MORAIS - PB - Deputado Estadual;
+RS RECORTE E IMPRESSÃO SERIGRÁFICA LTDA;09.339.057/0001-94;18/08/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 13190 - ASTRONADC PEREIRA DE MORAIS - PB - Deputado Estadual;

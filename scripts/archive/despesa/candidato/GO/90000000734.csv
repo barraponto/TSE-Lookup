@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADILSON GOMES DE SOUZA;00.421.981/0001-40;24/08/2010;23000100903;R$ 80,00;Estimado;VALDIVINO RODRIGUES BARBOSA;23450;Deputado Estadual;PPS;GO;
-CENTER GRAFF LTDA;07.047.042/0001-27;16/09/2010;23000100905;R$ 120,00;Estimado;VALDIVINO RODRIGUES BARBOSA;23450;Deputado Estadual;PPS;GO;
-CENTER GRAFF LTDA;07.047.042/0001-27;29/09/2010;23000100906;R$ 270,00;Estimado;VALDIVINO RODRIGUES BARBOSA;23450;Deputado Estadual;PPS;GO;
-CENTER GRAFF LTDA;07.047.042/0001-27;24/08/2010;23000100904;R$ 100,00;Estimado;VALDIVINO RODRIGUES BARBOSA;23450;Deputado Estadual;PPS;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADILSON GOMES DE SOUZA;00.421.981/0001-40;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 80,00;Estimado; -  -  / 23450 - VALDIVINO RODRIGUES BARBOSA - GO - Deputado Estadual;
+CENTER GRAFF LTDA;07.047.042/0001-27;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 270,00;Estimado; -  -  / 23450 - VALDIVINO RODRIGUES BARBOSA - GO - Deputado Estadual;
+CENTER GRAFF LTDA;07.047.042/0001-27;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado; -  -  / 23450 - VALDIVINO RODRIGUES BARBOSA - GO - Deputado Estadual;
+CENTER GRAFF LTDA;07.047.042/0001-27;16/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 120,00;Estimado; -  -  / 23450 - VALDIVINO RODRIGUES BARBOSA - GO - Deputado Estadual;

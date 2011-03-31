@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;40001007701;R$ 150,00;Estimado;MAURO CESAR VERAS;40733;Deputado Estadual;PSB;RJ;
-Comitê Financeiro Único;12.339.086/0001-60;29/09/2010;40001007703;R$ 392,15;Estimado;MAURO CESAR VERAS;40733;Deputado Estadual;PSB;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;40001007702;R$ 150,00;Estimado;MAURO CESAR VERAS;40733;Deputado Estadual;PSB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 40733 - MAURO CESAR VERAS - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 40733 - MAURO CESAR VERAS - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.339.086/0001-60;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 392,15;Estimado;Comitê Financeiro Único - PSB -  / 40733 - MAURO CESAR VERAS - RJ - Deputado Estadual;

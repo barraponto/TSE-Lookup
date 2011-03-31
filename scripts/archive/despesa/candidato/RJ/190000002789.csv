@@ -1,2 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-SANDRO DA SILVA CRUZ;034.315.157-03;24/08/2010;43001511451;R$ 5.000,00;Depósito em espécie;SANDRO DA SILVA CRUZ;4334;Deputado Federal;PV;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+A PARAVIDINE CONSERTO DE MOVEIS E CANA DA INDIA;31.600.869/0001-09;23/08/2010;       Publicidade por placas, estandartes e faixas;R$ 2.000,00;Cheque; -  -  / 4334 - SANDRO DA SILVA CRUZ - RJ - Deputado Federal;
+BORZAN INDUSTRIA GRAFICA E EDITORA LTDA;08.599.652/0001-04;25/08/2010;       Publicidade por materiais impressos;R$ 2.000,00;Cheque; -  -  / 4334 - SANDRO DA SILVA CRUZ - RJ - Deputado Federal;
+MAVILLA GRAFICA & EDITOTA LTDA;05.598.377/0001-08;20/09/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 4334 - SANDRO DA SILVA CRUZ - RJ - Deputado Federal;

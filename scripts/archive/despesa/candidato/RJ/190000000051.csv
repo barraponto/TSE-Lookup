@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.097/0001-65;02/10/2010;11000005087;R$ 3.592,00;Estimado;ANTONIO MARCOS DA SILVA;11200;Deputado Estadual;PP;RJ;
-JORGE SAYED PICCIANI;12.176.626/0001-32;27/08/2010;11000005083;R$ 17,00;Estimado;ANTONIO MARCOS DA SILVA;11200;Deputado Estadual;PP;RJ;
-JORGE SAYED PICCIANI;12.176.626/0001-32;27/08/2010;11000005084;R$ 13,86;Estimado;ANTONIO MARCOS DA SILVA;11200;Deputado Estadual;PP;RJ;
-SERIO CABRAL;12.181.923/0001-76;28/09/2010;11000005086;R$ 300,00;Estimado;ANTONIO MARCOS DA SILVA;11200;Deputado Estadual;PP;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.097/0001-65;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.592,00;Estimado;Comitê Financeiro Único - PP -  / 11200 - ANTONIO MARCOS DA SILVA - RJ - Deputado Estadual;
+JORGE SAYED PICCIANI;12.176.626/0001-32;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 11200 - ANTONIO MARCOS DA SILVA - RJ - Deputado Estadual;
+JORGE SAYED PICCIANI;12.176.626/0001-32;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 13,86;Estimado;155 -  - PMDB -  - Senador / 11200 - ANTONIO MARCOS DA SILVA - RJ - Deputado Estadual;
+SERIO CABRAL;12.181.923/0001-76;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;15 -  - PMDB -  - Governador / 11200 - ANTONIO MARCOS DA SILVA - RJ - Deputado Estadual;

@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ARTES GRAFICAS MONTESINAY LTDA;06.271.491/0001-91;31/08/2010;50000391222;R$ 200,00;Estimado;FRANCISCO LIMA FILHO;50111;Deputado Estadual;PSOL;RJ;
-Comitê Financeiro Único;12.154.856/0001-09;18/08/2010;50000391221;R$ 125,43;Estimado;FRANCISCO LIMA FILHO;50111;Deputado Estadual;PSOL;RJ;
-Comitê Financeiro Único;12.154.856/0001-09;29/09/2010;50000391223;R$ 62,50;Estimado;FRANCISCO LIMA FILHO;50111;Deputado Estadual;PSOL;RJ;
-JORGE MILTON TEMER;12.168.390/0001-92;30/09/2010;50000391224;R$ 135,10;Estimado;FRANCISCO LIMA FILHO;50111;Deputado Estadual;PSOL;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARTES GRAFICAS MONTESINAY LTDA;06.271.491/0001-91;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado; -  -  / 50111 - FRANCISCO LIMA FILHO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.154.856/0001-09;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 62,50;Estimado;Comitê Financeiro Único - PSOL -  / 50111 - FRANCISCO LIMA FILHO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.154.856/0001-09;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 125,43;Estimado;Comitê Financeiro Único - PSOL -  / 50111 - FRANCISCO LIMA FILHO - RJ - Deputado Estadual;
+JORGE MILTON TEMER;12.168.390/0001-92;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 135,10;Estimado;500 -  - PSOL -  - Senador / 50111 - FRANCISCO LIMA FILHO - RJ - Deputado Estadual;

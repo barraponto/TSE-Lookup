@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Governador;12.154.857/0001-45;03/09/2010;45000032552;R$ 200.000,00;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Federal;PSDB;SP;
-Comitê Financeiro Estadual/Distrital para Governador;12.154.857/0001-45;03/09/2010;45000032551;R$ 35.000,00;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Federal;PSDB;SP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Governador;12.154.857/0001-45;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 35.000,00;Estimado;Comitê Financeiro Distrital/Estadual para Governador - PSDB -  / Comitê Financeiro Distrital/Estadual para Deputado Federal - PSDB - SP;
+Comitê Financeiro Estadual/Distrital para Governador;12.154.857/0001-45;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200.000,00;Estimado;Comitê Financeiro Distrital/Estadual para Governador - PSDB -  / Comitê Financeiro Distrital/Estadual para Deputado Federal - PSDB - SP;

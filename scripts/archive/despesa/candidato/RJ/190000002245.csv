@@ -1,5 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALBERTO LOPES CANTALICE;12.191.428/0001-48;24/09/2010;70000150384;R$ 25,00;Estimado;MILTON VILARINO JUNIOR;7003;Deputado Federal;PT do B;RJ;
-ALBERTO LOPES CANTALICE;12.191.428/0001-48;30/09/2010;70000150386;R$ 125,00;Estimado;MILTON VILARINO JUNIOR;7003;Deputado Federal;PT do B;RJ;
-ALBERTO LOPES CANTALICE;12.191.428/0001-48;24/09/2010;70000150385;R$ 175,00;Estimado;MILTON VILARINO JUNIOR;7003;Deputado Federal;PT do B;RJ;
-JACQUELINE DE SOUZA COSTA;076.048.127-08;03/09/2010;70000150383;R$ 60,00;Estimado;MILTON VILARINO JUNIOR;7003;Deputado Federal;PT do B;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALBERTO LOPES CANTALICE;12.191.428/0001-48;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 175,00;Estimado;13667 -  - PT -  - Deputado Estadual / 7003 - MILTON VILARINO JUNIOR - RJ - Deputado Federal;
+ALBERTO LOPES CANTALICE;12.191.428/0001-48;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 25,00;Estimado;13667 -  - PT -  - Deputado Estadual / 7003 - MILTON VILARINO JUNIOR - RJ - Deputado Federal;
+ALBERTO LOPES CANTALICE;12.191.428/0001-48;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 125,00;Estimado;13667 -  - PT -  - Deputado Estadual / 7003 - MILTON VILARINO JUNIOR - RJ - Deputado Federal;
+EDIR JORDÃO;604.314.157-49;28/10/2010;       Despesas com pessoal;R$ 58,00;Cheque; -  -  / 7003 - MILTON VILARINO JUNIOR - RJ - Deputado Federal;
+JACQUELINE DE SOUZA COSTA;076.048.127-08;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 60,00;Estimado; -  -  / 7003 - MILTON VILARINO JUNIOR - RJ - Deputado Federal;
+MAXIMILIANO NOGUEIRA LIMA BRINDES ME;01.191.466/0001-84;03/09/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 7003 - MILTON VILARINO JUNIOR - RJ - Deputado Federal;
+NOVA LETRA GRÁFICA E EDITORA LTDA;39.932.702/0001-49;09/09/2010;       Publicidade por materiais impressos;R$ 1.145,00;Cheque; -  -  / 7003 - MILTON VILARINO JUNIOR - RJ - Deputado Federal;
+VICTOR BRUNO DA SILVA BÓLICO;055.793.367-64;06/09/2010;       Despesas com pessoal;R$ 1.500,00;Cheque; -  -  / 7003 - MILTON VILARINO JUNIOR - RJ - Deputado Federal;

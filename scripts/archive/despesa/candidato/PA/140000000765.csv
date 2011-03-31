@@ -1,9 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALBERTO MENASSEH ZAGURY;067.929.952-15;02/08/2010;11000171301;R$ 1.246,90;Depósito em espécie;ALBERTO MENASSEH ZAGURY;11011;Deputado Estadual;PP;PA;
-ALBERTO MENASSEH ZAGURY;067.929.952-15;08/09/2010;11000171302;R$ 600,00;Transferência eletrônica;ALBERTO MENASSEH ZAGURY;11011;Deputado Estadual;PP;PA;
-ALBERTO MENASSEH ZAGURY;067.929.952-15;22/09/2010;11000171303;R$ 20,35;Transferência eletrônica;ALBERTO MENASSEH ZAGURY;11011;Deputado Estadual;PP;PA;
-ANA JÚLIA DE VASCONCELOS CAREPA;12.171.430/0001-55;08/10/2010;11000171308;R$ 500,00;Estimado;ALBERTO MENASSEH ZAGURY;11011;Deputado Estadual;PP;PA;
-ANA JÚLIA DE VASCONCELOS CAREPA;12.171.430/0001-55;19/07/2010;11000171305;R$ 2.500,00;Estimado;ALBERTO MENASSEH ZAGURY;11011;Deputado Estadual;PP;PA;
-ANA JÚLIA DE VASCONCELOS CAREPA;12.171.430/0001-55;16/10/2010;11000171306;R$ 1.200,00;Estimado;ALBERTO MENASSEH ZAGURY;11011;Deputado Estadual;PP;PA;
-ANA JÚLIA DE VASCONCELOS CAREPA;12.171.430/0001-55;21/10/2010;11000171307;R$ 500,00;Estimado;ALBERTO MENASSEH ZAGURY;11011;Deputado Estadual;PP;PA;
-GERSON DOS SANTOS PERES;12.167.168/0001-75;06/09/2010;11000171304;R$ 150,00;Estimado;ALBERTO MENASSEH ZAGURY;11011;Deputado Estadual;PP;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AMAZÔNIA FORMULÁRIOS GRÁFICOS COMÉRCIO E REPRESENTAÇÕES LTDA-ME;05.054.052/0001-64;08/09/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 11011 - ALBERTO MENASSEH ZAGURY - PA - Deputado Estadual;
+ANA JÚLIA DE VASCONCELOS CAREPA;12.171.430/0001-55;19/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.500,00;Estimado;13 -  - PT -  - Governador / 11011 - ALBERTO MENASSEH ZAGURY - PA - Deputado Estadual;
+ANA JÚLIA DE VASCONCELOS CAREPA;12.171.430/0001-55;21/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;13 -  - PT -  - Governador / 11011 - ALBERTO MENASSEH ZAGURY - PA - Deputado Estadual;
+ANA JÚLIA DE VASCONCELOS CAREPA;12.171.430/0001-55;16/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.200,00;Estimado;13 -  - PT -  - Governador / 11011 - ALBERTO MENASSEH ZAGURY - PA - Deputado Estadual;
+ANA JÚLIA DE VASCONCELOS CAREPA;12.171.430/0001-55;08/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;13 -  - PT -  - Governador / 11011 - ALBERTO MENASSEH ZAGURY - PA - Deputado Estadual;
+GERSON DOS SANTOS PERES;12.167.168/0001-75;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;1115 -  - PP -  - Deputado Federal / 11011 - ALBERTO MENASSEH ZAGURY - PA - Deputado Estadual;
+M V B MARTINS;08.240.885/0001-08;03/08/2010;       Publicidade por placas, estandartes e faixas;R$ 1.246,90;Transferência eletrônica; -  -  / 11011 - ALBERTO MENASSEH ZAGURY - PA - Deputado Estadual;
+;;22/09/2010;       Encargos financeiros e taxas bancárias;R$ 20,35;Transferência eletrônica; -  -  / 11011 - ALBERTO MENASSEH ZAGURY - PA - Deputado Estadual;

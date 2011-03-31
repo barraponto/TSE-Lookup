@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALEXANDRE AUGUSTO VIANNA COSTA;12.181.163/0001-05;15/09/2010;36000011702;R$ 350,00;Estimado;JOSE JORGE VIEIRA;3653;Deputado Federal;PTC;MG;
-Diretório Estadual/Distrital;12.154.851/0001-78;15/09/2010;36000011704;R$ 1.180,00;Estimado;JOSE JORGE VIEIRA;3653;Deputado Federal;PTC;MG;
-Diretório Estadual/Distrital;12.154.851/0001-78;30/09/2010;36000011703;R$ 300,00;Estimado;JOSE JORGE VIEIRA;3653;Deputado Federal;PTC;MG;
-WATSON LEMOS DA SILVA;370.223.346-68;05/08/2010;36000011701;R$ 700,00;Estimado;JOSE JORGE VIEIRA;3653;Deputado Federal;PTC;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALEXANDRE AUGUSTO VIANNA COSTA;12.181.163/0001-05;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 350,00;Estimado;36987 -  - PTC -  - Deputado Estadual / 3653 - JOSE JORGE VIEIRA - MG - Deputado Federal;
+Diretório Estadual/Distrital;12.154.851/0001-78;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.180,00;Estimado;Direção Estadual/Distrital - PT do B -  / 3653 - JOSE JORGE VIEIRA - MG - Deputado Federal;
+Diretório Estadual/Distrital;12.154.851/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Direção Estadual/Distrital - PT do B -  / 3653 - JOSE JORGE VIEIRA - MG - Deputado Federal;
+WATSON LEMOS DA SILVA;370.223.346-68;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 700,00;Estimado; -  -  / 3653 - JOSE JORGE VIEIRA - MG - Deputado Federal;

@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;10/08/2010;45000000045;R$ 1.575,00;Estimado;TEREZINHA ANTUNES FUTSUKI;4544;Deputado Federal;PSDB;PR;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;27/10/2010;45000000004;R$ 1.250,00;Estimado;TEREZINHA ANTUNES FUTSUKI;4544;Deputado Federal;PSDB;PR;
-GUSTAVO BONATO FRUET;12.179.221/0001-58;31/08/2010;45000000002;R$ 680,00;Estimado;TEREZINHA ANTUNES FUTSUKI;4544;Deputado Federal;PSDB;PR;
-GUSTAVO BONATO FRUET;12.179.221/0001-58;29/09/2010;45000000001;R$ 470,00;Estimado;TEREZINHA ANTUNES FUTSUKI;4544;Deputado Federal;PSDB;PR;
-RICARDO JOSE MAGALHAES BARROS;12.190.665/0001-94;27/09/2010;45000000003;R$ 562,50;Estimado;TEREZINHA ANTUNES FUTSUKI;4544;Deputado Federal;PSDB;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.575,00;Estimado;45 -  - PSDB -  - Governador / 4544 - TEREZINHA ANTUNES FUTSUKI - PR - Deputado Federal;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;27/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.250,00;Estimado;45 -  - PSDB -  - Governador / 4544 - TEREZINHA ANTUNES FUTSUKI - PR - Deputado Federal;
+GUSTAVO BONATO FRUET;12.179.221/0001-58;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 470,00;Estimado;256 -  - DEM -  - Senador / 4544 - TEREZINHA ANTUNES FUTSUKI - PR - Deputado Federal;
+GUSTAVO BONATO FRUET;12.179.221/0001-58;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 680,00;Estimado;456 -  - PSDB -  - Senador / 4544 - TEREZINHA ANTUNES FUTSUKI - PR - Deputado Federal;
+RICARDO JOSE MAGALHAES BARROS;12.190.665/0001-94;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 562,50;Estimado;111 -  - PP -  - Senador / 4544 - TEREZINHA ANTUNES FUTSUKI - PR - Deputado Federal;

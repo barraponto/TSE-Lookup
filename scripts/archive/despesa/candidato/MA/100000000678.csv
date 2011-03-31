@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CELSO DE JESUS MORAES ALVES;418.354.683-49;16/08/2010;65000208311;R$ 600,00;Depósito em espécie;RÔMULO DE JESUS SILVA PESTANA;65022;Deputado Estadual;PC do B;MA;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;71.585.376/0001-53;09/09/2010;65000208340;R$ 750,00;Estimado;RÔMULO DE JESUS SILVA PESTANA;65022;Deputado Estadual;PC do B;MA;
-FLAVIO DINO DE CASTRO;12.176.183/0001-80;06/09/2010;65000208313;R$ 860,74;Estimado;RÔMULO DE JESUS SILVA PESTANA;65022;Deputado Estadual;PC do B;MA;
-FLAVIO DINO DE CASTRO COSTA;12.176.183/0001-80;23/09/2010;65000208315;R$ 870,00;Estimado;RÔMULO DE JESUS SILVA PESTANA;65022;Deputado Estadual;PC do B;MA;
-RICARDO LUCS BASTOS MACHADO;854.483.973-87;02/09/2010;65000208316;R$ 100,00;Depósito em espécie;RÔMULO DE JESUS SILVA PESTANA;65022;Deputado Estadual;PC do B;MA;
-;;25/08/2010;;R$ 600,00;Não informado;RÔMULO DE JESUS SILVA PESTANA;65022;Deputado Estadual;PC do B;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Deputado Estadual;71.585.376/0001-53;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 750,00;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual - PC do B -  / 65022 - RÔMULO DE JESUS SILVA PESTANA - MA - Deputado Estadual;
+FLAVIO DINO DE CASTRO;12.176.183/0001-80;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 860,74;Estimado;65 -  - PC do B -  - Governador / 65022 - RÔMULO DE JESUS SILVA PESTANA - MA - Deputado Estadual;
+FLAVIO DINO DE CASTRO COSTA;12.176.183/0001-80;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 870,00;Estimado;65 -  - PC do B -  - Governador / 65022 - RÔMULO DE JESUS SILVA PESTANA - MA - Deputado Estadual;
+GRAFCA E EDITORA FORTE LTDA;63.408.017/0001-00;03/09/2010;       Publicidade por materiais impressos;R$ 100,00;Cheque; -  -  / 65022 - RÔMULO DE JESUS SILVA PESTANA - MA - Deputado Estadual;
+GRAFCA E EDITORA FORTE LTDA;63.408.017/0001-00;16/08/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 65022 - RÔMULO DE JESUS SILVA PESTANA - MA - Deputado Estadual;
+GRAFCA E EDITORA FORTE LTDA;63.408.017/0001-00;20/08/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 65022 - RÔMULO DE JESUS SILVA PESTANA - MA - Deputado Estadual;

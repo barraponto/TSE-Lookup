@@ -1,7 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO MARQUES DA SILVA FILHO;226.349.327-15;04/08/2010;31000025921;R$ 1.000,00;Transferência eletrônica;ANTONIO MARQUES DA SILVA FILHO;31789;Deputado Estadual;PHS;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;29/09/2010;31000025922;R$ 150,00;Estimado;ANTONIO MARQUES DA SILVA FILHO;31789;Deputado Estadual;PHS;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;29/09/2010;31000025923;R$ 150,00;Estimado;ANTONIO MARQUES DA SILVA FILHO;31789;Deputado Estadual;PHS;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;29/09/2010;31000025924;R$ 300,00;Estimado;ANTONIO MARQUES DA SILVA FILHO;31789;Deputado Estadual;PHS;RJ;
-Comitê Financeiro Único;12.191.494/0001-18;25/09/2010;31000025926;R$ 250,00;Estimado;ANTONIO MARQUES DA SILVA FILHO;31789;Deputado Estadual;PHS;RJ;
-ELEIÇÃO 2010 JORGE SAYED PICCIANI SENADOR;12.176.626/0001-32;30/09/2010;31000025927;R$ 17,00;Estimado;ANTONIO MARQUES DA SILVA FILHO;31789;Deputado Estadual;PHS;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.494/0001-18;25/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;Comitê Financeiro Único - PHS -  / 31789 - ANTONIO MARQUES DA SILVA FILHO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 31789 - ANTONIO MARQUES DA SILVA FILHO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 31789 - ANTONIO MARQUES DA SILVA FILHO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 31789 - ANTONIO MARQUES DA SILVA FILHO - RJ - Deputado Estadual;
+DAINA DE MORAES AZARA;125.568.717-76;13/08/2010;       Serviços prestados por terceiros;R$ 260,00;Cheque; -  -  / 31789 - ANTONIO MARQUES DA SILVA FILHO - RJ - Deputado Estadual;
+ELEIÇÃO 2010 JORGE SAYED PICCIANI SENADOR;12.176.626/0001-32;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 31789 - ANTONIO MARQUES DA SILVA FILHO - RJ - Deputado Estadual;
+MAGDA CRISTINA DOS SANTOS;081.713.627-45;30/09/2010;       Serviços prestados por terceiros;R$ 140,00;Cheque; -  -  / 31789 - ANTONIO MARQUES DA SILVA FILHO - RJ - Deputado Estadual;
+UNIVERSO DIGITAL COMÉRCIO E SERVIÇOS DE PAINÉIS PUBLICITÁRIOS LTDA.;08.379.705/0001-73;26/08/2010;       Publicidade por placas, estandartes e faixas;R$ 600,00;Cheque; -  -  / 31789 - ANTONIO MARQUES DA SILVA FILHO - RJ - Deputado Estadual;

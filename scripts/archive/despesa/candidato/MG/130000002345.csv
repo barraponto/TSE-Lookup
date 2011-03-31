@@ -1,6 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.154.851/0001-78;15/09/2010;44000038952;R$ 157,20;Outros títulos de crédito;CARLOS ANTONIO DE JESUS CESÁRIO;44109;Deputado Estadual;PRP;MG;
-Diretório Estadual/Distrital;12.154.851/0001-78;15/09/2010;44000038951;R$ 1.180,00;Outros títulos de crédito;CARLOS ANTONIO DE JESUS CESÁRIO;44109;Deputado Estadual;PRP;MG;
-Diretório Estadual/Distrital;12.154.851/0001-78;30/09/2010;44000038954;R$ 300,00;Outros títulos de crédito;CARLOS ANTONIO DE JESUS CESÁRIO;44109;Deputado Estadual;PRP;MG;
-Diretório Estadual/Distrital;12.154.851/0001-78;15/09/2010;44000038953;R$ 108,00;Outros títulos de crédito;CARLOS ANTONIO DE JESUS CESÁRIO;44109;Deputado Estadual;PRP;MG;
-NELO SANTOS TOLENTINO ME;00.857.448/0001-26;30/09/2010;44000038956;R$ 200,00;Estimado;CARLOS ANTONIO DE JESUS CESÁRIO;44109;Deputado Estadual;PRP;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+NELO SANTOS TOLENTINO ME;00.857.448/0001-26;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado; -  -  / 44109 - CARLOS ANTONIO DE JESUS CESÁRIO - MG - Deputado Estadual;

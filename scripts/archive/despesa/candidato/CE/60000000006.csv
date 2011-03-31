@@ -1,3 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇAO 2010 ADLER PRIMEIRO DAMASCENO GIRÃO DEPUTADO FEDERAL;444.046.543-91;02/10/2010;22000033622;R$ 2.190,35;Depósito em espécie;ADLER PRIMEIRO DAMASCENO GIRAO;2222;Deputado Federal;PR;CE;
-ELEIÇAO 2010 ADLER PRIMEIRO DAMASCENO GIRÃO DEPUTADO FEDERAL;444.046.543-91;10/08/2010;22000033621;R$ 21.000,00;Depósito em espécie;ADLER PRIMEIRO DAMASCENO GIRAO;2222;Deputado Federal;PR;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADESIVA SIGN SINALIZAÇAO E COMEUNICAÇÃO VISUAL LTDA;03.259.497/0001-55;10/08/2010;       Publicidade por materiais impressos;R$ 10.120,00;Cheque; -  -  / 2222 - ADLER PRIMEIRO DAMASCENO GIRAO - CE - Deputado Federal;
+GENTIL BARREIRA - EPP;07.766.488/0001-01;01/10/2010;       Serviços prestados por terceiros;R$ 2.550,00;Cheque; -  -  / 2222 - ADLER PRIMEIRO DAMASCENO GIRAO - CE - Deputado Federal;
+LEANDRO ARAUJO PEREIRA - ME;08.375.034/0001-72;13/08/2010;       Publicidade por materiais impressos;R$ 720,00;Cheque; -  -  / 2222 - ADLER PRIMEIRO DAMASCENO GIRAO - CE - Deputado Federal;
+NOGUEIRA & CORDEIRO LTDA;07.342.343/0001-83;17/08/2010;       Publicidade por materiais impressos;R$ 9.800,00;Cheque; -  -  / 2222 - ADLER PRIMEIRO DAMASCENO GIRAO - CE - Deputado Federal;
+;;30/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 2222 - ADLER PRIMEIRO DAMASCENO GIRAO - CE - Deputado Federal;

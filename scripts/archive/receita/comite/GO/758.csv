@@ -1,4 +1,2 @@
-Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
-MERLIN SERVIÇOS GRÁFICOS LTDA;10.670.417/0001-15;02/09/2010;       Publicidade por materiais impressos;R$ 46.000,00;Cheque; -  -  / Comitê Financeiro Distrital/Estadual para Deputado Federal - PTC - GO;
-MERLIN SERVIÇOS GRÁFICOS LTDA;10.670.417/0001-15;06/09/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / Comitê Financeiro Distrital/Estadual para Deputado Federal - PTC - GO;
-MERLIN SERVIÇOS GRÁFICOS LTDA;10.670.417/0001-15;01/09/2010;       Publicidade por materiais impressos;R$ 53.600,00;Cheque; -  -  / Comitê Financeiro Distrital/Estadual para Deputado Federal - PTC - GO;
+Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
+CIA HERING;78.876.950/0001-71;31/08/2010;36000090131;R$ 100.000,00;Transferência eletrônica;Comitê Financeiro Distrital/Estadual para Deputado Federal;PTC;GO;

@@ -1,5 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOAO AUGUSTO FIGUEIREDO DE OLIVEIRA;001.385.252-34;01/09/2010;50000282751;R$ 1.850,00;Depósito em espécie;JOÃO AUGUSTO FIGUEIREDO DE OLIVEIRA;501;Senador;PSOL;PA;
-JOAO AUGUSTO FIGUEIREDO DE OLIVEIRA;001.385.252-34;16/09/2010;50000282752;R$ 1.000,00;Depósito em espécie;JOÃO AUGUSTO FIGUEIREDO DE OLIVEIRA;501;Senador;PSOL;PA;
-MARCELO AUGUSTO V OLIVEIRA;319.350.522-68;24/09/2010;50000282753;R$ 2.000,00;Depósito em espécie;JOÃO AUGUSTO FIGUEIREDO DE OLIVEIRA;501;Senador;PSOL;PA;
-MARIA AUGUSTA DE CARVALHO VIEIRA;036.283.882-87;27/09/2010;50000282754;R$ 1.100,00;Depósito em espécie;JOÃO AUGUSTO FIGUEIREDO DE OLIVEIRA;501;Senador;PSOL;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BRUNO PEREIRA LOBATO ME;09.304.263/0001-69;24/09/2010;       Publicidade por materiais impressos;R$ 324,00;Cheque; -  -  / 501 - JOÃO AUGUSTO FIGUEIREDO DE OLIVEIRA - PA - Senador;
+FRANCYGRAF INDUSTRIA E COMÉRCIO LTDA;22.978.746/0001-07;29/09/2010;       Publicidade por materiais impressos;R$ 880,00;Cheque; -  -  / 501 - JOÃO AUGUSTO FIGUEIREDO DE OLIVEIRA - PA - Senador;
+FRANCYGRAF INDUSTRIA E COMÉRCIO LTDA;22.978.746/0001-07;28/09/2010;       Publicidade por placas, estandartes e faixas;R$ 2.390,00;Cheque; -  -  / 501 - JOÃO AUGUSTO FIGUEIREDO DE OLIVEIRA - PA - Senador;
+FRANCYGRAF INDUSTRIA E COMÉRCIO LTDA;22.978.746/0001-07;02/09/2010;       Publicidade por materiais impressos;R$ 1.800,00;Cheque; -  -  / 501 - JOÃO AUGUSTO FIGUEIREDO DE OLIVEIRA - PA - Senador;
+MVB MARTINS;08.240.885/0001-08;22/09/2010;       Publicidade por placas, estandartes e faixas;R$ 154,00;Cheque; -  -  / 501 - JOÃO AUGUSTO FIGUEIREDO DE OLIVEIRA - PA - Senador;
+MVB MARTINS;08.240.885/0001-08;18/09/2010;       Publicidade por materiais impressos;R$ 180,00;Cheque; -  -  / 501 - JOÃO AUGUSTO FIGUEIREDO DE OLIVEIRA - PA - Senador;
+MVB MARTINS;08.240.885/0001-08;24/09/2010;       Publicidade por placas, estandartes e faixas;R$ 214,00;Cheque; -  -  / 501 - JOÃO AUGUSTO FIGUEIREDO DE OLIVEIRA - PA - Senador;

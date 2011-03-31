@@ -1,4 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO QUIRINO;376.616.984-04;11/08/2010;27000016610;R$ 2.000,00;Depósito em espécie;ANTONIO QUIRINO;27777;Deputado Estadual;PSDC;PE;
-ANTONIO QUIRINO;376.616.984-04;21/10/2010;27000016612;R$ 1.000,00;Depósito em espécie;ANTONIO QUIRINO;27777;Deputado Estadual;PSDC;PE;
-ANTONIO QUIRINO;376.616.984-04;13/09/2010;27000016611;R$ 3.000,00;Depósito em espécie;ANTONIO QUIRINO;27777;Deputado Estadual;PSDC;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARAÚJO MATERIAIS DE CONSTRUÇÕES;08.658.972/0001-80;13/08/2010;       Diversas a especificar;R$ 513,00;Cheque; -  -  / 27777 - ANTONIO QUIRINO - PE - Deputado Estadual;
+D.L. DOS SANTOS;07.584.724/0001-79;13/09/2010;       Diversas a especificar;R$ 216,00;Cheque; -  -  / 27777 - ANTONIO QUIRINO - PE - Deputado Estadual;
+EMPRESA DE CORREIOS E TELEGRAFOS - ACF RIACHUELO;70.214.192/0001-14;24/08/2010;       Despesas postais;R$ 399,70;Cheque; -  -  / 27777 - ANTONIO QUIRINO - PE - Deputado Estadual;
+JBF GRAFICA;08.187.172/0001-28;12/08/2010;       Publicidade por materiais impressos;R$ 180,00;Cheque; -  -  / 27777 - ANTONIO QUIRINO - PE - Deputado Estadual;
+KATIA SIMONE OLIVEIRA DOS SANTOS ME;10.546.429/0001-32;13/08/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 27777 - ANTONIO QUIRINO - PE - Deputado Estadual;
+KATIA SIMONE OLIVEIRA DOS SANTOS ME;10.546.429/0001-32;13/08/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 27777 - ANTONIO QUIRINO - PE - Deputado Estadual;
+POSTO SÃO FRANCISCO;24.093.908/0001-55;27/09/2010;       Combustíveis e lubrificantes;R$ 500,00;Cheque; -  -  / 27777 - ANTONIO QUIRINO - PE - Deputado Estadual;
+VEGETAL CONFECÇÕES;11.555.472/0001-27;23/09/2010;       Diversas a especificar;R$ 591,30;Cheque; -  -  / 27777 - ANTONIO QUIRINO - PE - Deputado Estadual;
+VEGETAL CONFECÇÕES;11.555.472/0001-27;15/09/2010;       Diversas a especificar;R$ 1.000,00;Cheque; -  -  / 27777 - ANTONIO QUIRINO - PE - Deputado Estadual;
+VEGETAL CONFECÇÕES;11.555.472/0001-27;23/08/2010;       Diversas a especificar;R$ 1.200,00;Cheque; -  -  / 27777 - ANTONIO QUIRINO - PE - Deputado Estadual;
+W.S BAHIA PRODUÇÕES E EVENTOS LTDA;08.586.634/0001-80;23/08/2010;       Produção de jingles, vinhetas e slogans;R$ 500,00;Cheque; -  -  / 27777 - ANTONIO QUIRINO - PE - Deputado Estadual;

@@ -1,6 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LUIZ PAULO VELLOZO LUCAS;12.179.441/0001-81;01/10/2010;14000002106;R$ 800,00;Estimado;WANDERLEI DE FREITAS SIQUEIRA;14300;Deputado Estadual;PTB;ES;
-LUIZ PAULO VELLOZO LUCAS;12.179.441/0001-81;01/10/2010;14000002105;R$ 1.800,00;Estimado;WANDERLEI DE FREITAS SIQUEIRA;14300;Deputado Estadual;PTB;ES;
-WANDERLEI DE FREITAS SIQUEIRA;015.471.597-23;26/07/2010;14000002102;R$ 2.500,00;Depósito em espécie;WANDERLEI DE FREITAS SIQUEIRA;14300;Deputado Estadual;PTB;ES;
-WANDERLEI DE FREITAS SIQUEIRA;015.471.597-23;15/07/2010;14000002101;R$ 470,00;Depósito em espécie;WANDERLEI DE FREITAS SIQUEIRA;14300;Deputado Estadual;PTB;ES;
-WANDERLEI DE FREITAS SIQUEIRA;015.471.597-23;27/08/2010;14000002103;R$ 1.600,00;Depósito em espécie;WANDERLEI DE FREITAS SIQUEIRA;14300;Deputado Estadual;PTB;ES;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANDRIÃO E BOTELHO LTDA ME;02.186.270/0001-64;15/08/2010;       Publicidade por placas, estandartes e faixas;R$ 735,00;Cheque; -  -  / 14300 - WANDERLEI DE FREITAS SIQUEIRA - ES - Deputado Estadual;
+COPY GLORIA LTDA ME;04.582.075/0001-89;15/07/2010;       Publicidade por materiais impressos;R$ 250,00;Cheque; -  -  / 14300 - WANDERLEI DE FREITAS SIQUEIRA - ES - Deputado Estadual;
+COPY GLORIA LTDA ME;04.582.075/0001-89;26/08/2010;       Publicidade por materiais impressos;R$ 2.300,00;Cheque; -  -  / 14300 - WANDERLEI DE FREITAS SIQUEIRA - ES - Deputado Estadual;
+COPY GLORIA LTDA ME;04.582.075/0001-89;02/10/2010;       Publicidade por materiais impressos;R$ 35,00;Cheque; -  -  / 14300 - WANDERLEI DE FREITAS SIQUEIRA - ES - Deputado Estadual;
+COPY GLORIA LTDA ME;04.582.075/0001-89;28/07/2010;       Publicidade por materiais impressos;R$ 1.080,00;Cheque; -  -  / 14300 - WANDERLEI DE FREITAS SIQUEIRA - ES - Deputado Estadual;
+DENILSON DE CARVALHO PAZ;39.286.661/0001-60;16/07/2010;       Serviços prestados por terceiros;R$ 170,00;Cheque; -  -  / 14300 - WANDERLEI DE FREITAS SIQUEIRA - ES - Deputado Estadual;
+LUIZ PAULO VELLOZO LUCAS;12.179.441/0001-81;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.800,00;Estimado;45 -  - PSDB -  - Governador / 14300 - WANDERLEI DE FREITAS SIQUEIRA - ES - Deputado Estadual;
+LUIZ PAULO VELLOZO LUCAS;12.179.441/0001-81;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 800,00;Estimado;45 -  - PSDB -  - Governador / 14300 - WANDERLEI DE FREITAS SIQUEIRA - ES - Deputado Estadual;

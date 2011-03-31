@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.229.907/0001-06;10/08/2010;25000062001;R$ 360,00;Outros títulos de crédito;PATRICIA VALERIA RODRIGUES DOS SANTOS;25005;Deputado Distrital;DEM;DF;
-Comitê Financeiro Único;12.229.907/0001-06;16/08/2010;25000062003;R$ 360,00;Outros títulos de crédito;PATRICIA VALERIA RODRIGUES DOS SANTOS;25005;Deputado Distrital;DEM;DF;
-ROBERTO GIFFONI;12.180.414/0001-29;20/09/2010;25000062004;R$ 700,00;Estimado;PATRICIA VALERIA RODRIGUES DOS SANTOS;25005;Deputado Distrital;DEM;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+MARIA APARECIDA DO NASCIMENTO SANTOS;480.426.171-00;10/08/2010;       Despesas com pessoal;R$ 360,00;Não informado; -  -  / 25005 - PATRICIA VALERIA RODRIGUES DOS SANTOS - DF - Deputado Distrital;
+MARIA APARECIDA DO NASCIMENTO SANTOS;480.426.171-00;16/08/2010;       Despesas com pessoal;R$ 360,00;Não informado; -  -  / 25005 - PATRICIA VALERIA RODRIGUES DOS SANTOS - DF - Deputado Distrital;
+ROBERTO GIFFONI;12.180.414/0001-29;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 700,00;Estimado;2577 -  - DEM -  - Deputado Federal / 25005 - PATRICIA VALERIA RODRIGUES DOS SANTOS - DF - Deputado Distrital;

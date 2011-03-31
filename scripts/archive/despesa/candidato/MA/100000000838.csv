@@ -1,4 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ZAQUEU SOARES BARROS;270.926.663-68;17/08/2010;11000098261;R$ 200,00;Depósito em espécie;ZAQUEU SOARES BARROS;11236;Deputado Estadual;PP;MA;
-ZAQUEU SOARES BARROS;270.926.663-68;01/09/2010;11000098263;R$ 1.550,00;Depósito em espécie;ZAQUEU SOARES BARROS;11236;Deputado Estadual;PP;MA;
-ZAQUEU SOARES BARROS;270.926.663-68;24/08/2010;11000098262;R$ 200,00;Depósito em espécie;ZAQUEU SOARES BARROS;11236;Deputado Estadual;PP;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+J F MAFRA;07.046.472/0001-24;24/08/2010;       Publicidade por materiais impressos;R$ 350,00;Cheque; -  -  / 11236 - ZAQUEU SOARES BARROS - MA - Deputado Estadual;
+J F MAFRA;07.046.472/0001-24;31/08/2010;       Publicidade por materiais impressos;R$ 1.550,00;Cheque; -  -  / 11236 - ZAQUEU SOARES BARROS - MA - Deputado Estadual;
+;;01/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 11236 - ZAQUEU SOARES BARROS - MA - Deputado Estadual;
+;;01/09/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 11236 - ZAQUEU SOARES BARROS - MA - Deputado Estadual;

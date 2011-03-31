@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.147.821/0001-34;19/08/2010;17000017752;R$ 508,00;Estimado;REINATO VIEIRA DE AZEVEDO;17973;Deputado Estadual;PSL;MG;
-Comitê Financeiro Único;12.147.821/0001-34;19/08/2010;17000017751;R$ 1.197,84;Estimado;REINATO VIEIRA DE AZEVEDO;17973;Deputado Estadual;PSL;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.147.821/0001-34;19/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 508,00;Estimado;Comitê Financeiro Único - PSL -  / 17973 - REINATO VIEIRA DE AZEVEDO - MG - Deputado Estadual;
+Comitê Financeiro Único;12.147.821/0001-34;19/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.197,84;Estimado;Comitê Financeiro Único - PSL -  / 17973 - REINATO VIEIRA DE AZEVEDO - MG - Deputado Estadual;

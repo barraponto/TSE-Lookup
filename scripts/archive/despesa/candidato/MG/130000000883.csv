@@ -1,7 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSÉ HUMBERTO SOARES;460.856.026-34;20/07/2010;31000011301;R$ 628,50;Depósito em espécie;JOSE HUMBERTO SOARES;3193;Deputado Federal;PHS;MG;
-JOSÉ HUMBERTO SOARES;460.856.026-34;09/08/2010;31000011302;R$ 91,50;Depósito em espécie;JOSE HUMBERTO SOARES;3193;Deputado Federal;PHS;MG;
-JOSÉ HUMBERTO SOARES;460.856.026-34;20/09/2010;31000011306;R$ 200,00;Depósito em espécie;JOSE HUMBERTO SOARES;3193;Deputado Federal;PHS;MG;
-JOSÉ HUMBERTO SOARES;460.856.026-34;27/08/2010;31000011304;R$ 1.100,00;Transferência eletrônica;JOSE HUMBERTO SOARES;3193;Deputado Federal;PHS;MG;
-JOSÉ HUMBERTO SOARES;460.856.026-34;31/08/2010;31000011305;R$ 505,00;Depósito em espécie;JOSE HUMBERTO SOARES;3193;Deputado Federal;PHS;MG;
-JOSÉ HUMBERTO SOARES;460.856.026-34;18/08/2010;31000011303;R$ 750,00;Depósito em espécie;JOSE HUMBERTO SOARES;3193;Deputado Federal;PHS;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARTES GRAFICAS PONTUAL LTDA;11.632.225/0001-87;30/08/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 3193 - JOSE HUMBERTO SOARES - MG - Deputado Federal;
+ARTES GRAFICAS PONTUAL LTDA;11.632.225/0001-87;19/08/2010;       Publicidade por materiais impressos;R$ 750,00;Cheque; -  -  / 3193 - JOSE HUMBERTO SOARES - MG - Deputado Federal;
+ARTES GRAFICAS PONTUAL LTDA;11.632.225/0001-87;02/08/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 3193 - JOSE HUMBERTO SOARES - MG - Deputado Federal;
+CEZÁRIO ANTÔNIO ALVES ME;18.806.216/0001-04;01/10/2010;       Materiais de expediente;R$ 71,00;Cheque; -  -  / 3193 - JOSE HUMBERTO SOARES - MG - Deputado Federal;
+EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS;34.028.316/1831-94;22/09/2010;       Despesas postais;R$ 30,20;Cheque; -  -  / 3193 - JOSE HUMBERTO SOARES - MG - Deputado Federal;
+EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS;34.028.316/1831-94;21/09/2010;       Despesas postais;R$ 42,00;Cheque; -  -  / 3193 - JOSE HUMBERTO SOARES - MG - Deputado Federal;
+IRMÃOS BRAGA ALVES LTDA;02.271.483/0001-94;20/09/2010;       Materiais de expediente;R$ 56,80;Cheque; -  -  / 3193 - JOSE HUMBERTO SOARES - MG - Deputado Federal;
+MARRA ARTES GRÁFICASLTDA - ME;07.339.921/0001-22;09/08/2010;       Publicidade por materiais impressos;R$ 120,00;Cheque; -  -  / 3193 - JOSE HUMBERTO SOARES - MG - Deputado Federal;
+SIGNO COMUNICAÇÃO VISUAL LTDA;11.890.213/0001-52;03/09/2010;       Publicidade por materiais impressos;R$ 105,00;Cheque; -  -  / 3193 - JOSE HUMBERTO SOARES - MG - Deputado Federal;
+STREET CAR COM. E MONTAGENS DE SOM E ACESS. AUTOMOTIVOS LTDA - ME;09.172.700/0001-38;27/08/2010;       Diversas a especificar;R$ 1.100,00;Cheque; -  -  / 3193 - JOSE HUMBERTO SOARES - MG - Deputado Federal;

@@ -1,4 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;36.010.999/0001-05;10/09/2010;20001200801;R$ 2.500,00;Depósito em espécie;EUNAPIO VIANA GOMES;20222;Deputado Estadual;PSC;ES;
-Diretório Estadual/Distrital;36.010.999/0001-05;25/09/2010;20001200803;R$ 1.070,00;Cheque;EUNAPIO VIANA GOMES;20222;Deputado Estadual;PSC;ES;
-Diretório Estadual/Distrital;36.010.999/0001-05;17/09/2010;20001200802;R$ 1.670,00;Cheque;EUNAPIO VIANA GOMES;20222;Deputado Estadual;PSC;ES;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA E EDITORA JEP LTDA;27.252.147/0001-25;24/09/2010;       Materiais de expediente;R$ 32,50;Cheque; -  -  / 20222 - EUNAPIO VIANA GOMES - ES - Deputado Estadual;
+GRAFITUSA S/A;05.461.408/0001-84;24/09/2010;       Materiais de expediente;R$ 60,00;Cheque; -  -  / 20222 - EUNAPIO VIANA GOMES - ES - Deputado Estadual;
+GRAFITUSA S/A;05.461.408/0001-84;24/09/2010;       Materiais de expediente;R$ 29,16;Cheque; -  -  / 20222 - EUNAPIO VIANA GOMES - ES - Deputado Estadual;
+GRAFITUSA S/A;05.461.408/0001-84;24/09/2010;       Materiais de expediente;R$ 60,00;Cheque; -  -  / 20222 - EUNAPIO VIANA GOMES - ES - Deputado Estadual;
+JOAQUIM ARNITO DE SOUZA AGUILAR;060.677.355-04;01/09/2010;       Cessão ou Locação de Veículos;R$ 1.700,00;Cheque; -  -  / 20222 - EUNAPIO VIANA GOMES - ES - Deputado Estadual;
+JOAQUIM ARNITO DE SOUZA AGUILAR;060.677.355-04;01/09/2010;       Publicidade por placas, estandartes e faixas;R$ 800,00;Cheque; -  -  / 20222 - EUNAPIO VIANA GOMES - ES - Deputado Estadual;
+JOAQUIM ARNITO DE SOUZA AGUILAR;060.677.355-04;20/09/2010;       Publicidade por placas, estandartes e faixas;R$ 740,00;Cheque; -  -  / 20222 - EUNAPIO VIANA GOMES - ES - Deputado Estadual;
+MARIO MARCIO SOUZA BONFIM;805.088.635-20;28/09/2010;       Publicidade por placas, estandartes e faixas;R$ 740,00;Cheque; -  -  / 20222 - EUNAPIO VIANA GOMES - ES - Deputado Estadual;
+MARIO MARCIO SOUZA BONFIM;805.088.635-20;01/09/2010;       Publicidade por placas, estandartes e faixas;R$ 740,00;Cheque; -  -  / 20222 - EUNAPIO VIANA GOMES - ES - Deputado Estadual;
+POSTO DA BARRA LTDA;02.772.373/0001-06;02/10/2010;       Combustíveis e lubrificantes;R$ 325,00;Cheque; -  -  / 20222 - EUNAPIO VIANA GOMES - ES - Deputado Estadual;

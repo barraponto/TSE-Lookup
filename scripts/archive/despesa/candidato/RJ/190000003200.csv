@@ -1,4 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.167/0001-85;10/09/2010;10000028103;R$ 230,00;Estimado;PEDRO PAULO DE ALMEIDA CHAGAS;1063;Deputado Federal;PRB;RJ;
-Comitê Financeiro Único;12.200.167/0001-85;10/08/2010;10000028101;R$ 4.980,00;Estimado;PEDRO PAULO DE ALMEIDA CHAGAS;1063;Deputado Federal;PRB;RJ;
-PEDRO PAULO DE ALMEIDA CHAGAS;872.394.937-68;13/08/2010;10000028102;R$ 50,00;Depósito em espécie;PEDRO PAULO DE ALMEIDA CHAGAS;1063;Deputado Federal;PRB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CLARO RJ/ES;872.394.937-68;13/08/2010;       Telefone;R$ 12,00;Cheque; -  -  / 1063 - PEDRO PAULO DE ALMEIDA CHAGAS - RJ - Deputado Federal;
+CLARO RJ/ES;872.394.937-68;01/09/2010;       Telefone;R$ 30,00;Cheque; -  -  / 1063 - PEDRO PAULO DE ALMEIDA CHAGAS - RJ - Deputado Federal;
+CLARO RJ/ES;872.394.937-68;15/10/2010;       Telefone;R$ 7,00;Cheque; -  -  / 1063 - PEDRO PAULO DE ALMEIDA CHAGAS - RJ - Deputado Federal;
+Comitê Financeiro Único;12.200.167/0001-85;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.980,00;Estimado;Comitê Financeiro Único - PRB -  / 1063 - PEDRO PAULO DE ALMEIDA CHAGAS - RJ - Deputado Federal;
+Comitê Financeiro Único;12.200.167/0001-85;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 230,00;Estimado;Comitê Financeiro Único - PRB -  / 1063 - PEDRO PAULO DE ALMEIDA CHAGAS - RJ - Deputado Federal;
+;;13/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,50;Débito em conta; -  -  / 1063 - PEDRO PAULO DE ALMEIDA CHAGAS - RJ - Deputado Federal;
+;;01/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,50;Débito em conta; -  -  / 1063 - PEDRO PAULO DE ALMEIDA CHAGAS - RJ - Deputado Federal;

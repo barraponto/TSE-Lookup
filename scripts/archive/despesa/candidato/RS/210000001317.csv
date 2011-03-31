@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CEDRO EDITORA E EMPRESA DE COMUNICAÇÃO;02.347.932/0001-30;23/08/2010;43001829176;R$ 400,00;Cheque;JORGE LUIS DOS SANTOS CASTRO;4302;Deputado Federal;PV;RS;
-JORGE LUIS DOS SANTOS CASTRO;292.604.500-04;10/08/2010;43001829178;R$ 327,00;Estimado;JORGE LUIS DOS SANTOS CASTRO;4302;Deputado Federal;PV;RS;
-JORGE LUIS DOS SANTOS CASTRO;292.604.500-04;17/08/2010;43001829179;R$ 200,00;Estimado;JORGE LUIS DOS SANTOS CASTRO;4302;Deputado Federal;PV;RS;
-JORGE LUIS DOS SANTOS CASTRO;292.604.500-04;23/08/2010;43001829177;R$ 400,00;Transferência eletrônica;JORGE LUIS DOS SANTOS CASTRO;4302;Deputado Federal;PV;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JORGE LUIS DOS ANTOS CASTRO;292.604.500-04;23/08/2010;       Publicidade por placas, estandartes e faixas;R$ 380,00;Cheque; -  -  / 4302 - JORGE LUIS DOS SANTOS CASTRO - RS - Deputado Federal;
+JORGE LUIS DOS SANTOS CASTRO;292.604.500-04;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado; -  -  / 4302 - JORGE LUIS DOS SANTOS CASTRO - RS - Deputado Federal;
+JORGE LUIS DOS SANTOS CASTRO;292.604.500-04;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 327,00;Estimado; -  -  / 4302 - JORGE LUIS DOS SANTOS CASTRO - RS - Deputado Federal;
+JORGE LUIS DOS SANTOS CASTRO;292.604.500-04;01/09/2010;       Publicidade por placas, estandartes e faixas;R$ 420,00;Cheque; -  -  / 4302 - JORGE LUIS DOS SANTOS CASTRO - RS - Deputado Federal;

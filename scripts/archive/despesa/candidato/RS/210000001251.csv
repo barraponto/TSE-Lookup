@@ -1,6 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.144/0001-70;22/09/2010;10000078501;R$ 1.000,00;Cheque;JOSÉ HOCH;10455;Deputado Estadual;PRB;RS;
-WALDIR CANAL;12.168.841/0001-91;01/10/2010;10000078504;R$ 168,00;Estimado;JOSÉ HOCH;10455;Deputado Estadual;PRB;RS;
-YEDA RORATO CRUSIUS;12.172.247/0001-74;01/10/2010;10000078505;R$ 1.408,45;Estimado;JOSÉ HOCH;10455;Deputado Estadual;PRB;RS;
-YEDA RORATO CRUSIUS;12.172.247/0001-74;01/10/2010;10000078502;R$ 600,00;Estimado;JOSÉ HOCH;10455;Deputado Estadual;PRB;RS;
-YEDA RORATO CRUSIUS;12.172.247/0001-74;01/10/2010;10000078503;R$ 600,00;Estimado;JOSÉ HOCH;10455;Deputado Estadual;PRB;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DINARTE RIZZON;92.929.611/0001-37;29/09/2010;       Combustíveis e lubrificantes;R$ 185,00;Cheque; -  -  / 10455 - JOSÉ HOCH - RS - Deputado Estadual;
+DINARTE RIZZON;92.929.611/0001-37;28/09/2010;       Combustíveis e lubrificantes;R$ 150,00;Cheque; -  -  / 10455 - JOSÉ HOCH - RS - Deputado Estadual;
+DINARTE RIZZON;92.929.611/0001-37;29/09/2010;       Combustíveis e lubrificantes;R$ 65,00;Cheque; -  -  / 10455 - JOSÉ HOCH - RS - Deputado Estadual;
+ORIOSVALDO DOS SANTOS ROQUE;805.885.900-10;01/09/2010;       Cessão ou Locação de Veículos;R$ 600,00;Cheque; -  -  / 10455 - JOSÉ HOCH - RS - Deputado Estadual;
+WALDIR CANAL;12.168.841/0001-91;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 168,00;Estimado;1010 -  - PRB -  - Deputado Federal / 10455 - JOSÉ HOCH - RS - Deputado Estadual;
+YEDA RORATO CRUSIUS;12.172.247/0001-74;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado;45 -  - PSDB -  - Governador / 10455 - JOSÉ HOCH - RS - Deputado Estadual;
+YEDA RORATO CRUSIUS;12.172.247/0001-74;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.408,45;Estimado;45 -  - PSDB -  - Governador / 10455 - JOSÉ HOCH - RS - Deputado Estadual;
+YEDA RORATO CRUSIUS;12.172.247/0001-74;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado;45 -  - PSDB -  - Governador / 10455 - JOSÉ HOCH - RS - Deputado Estadual;

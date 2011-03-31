@@ -1,5 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 WALDECIR MACHADO TAVEIRA DEPUTALDO ESTADUAL;478.691.786-91;14/10/2010;31000014022;R$ 510,00;Depósito em espécie;WALDECIR MACHADO TAVEIRA;31555;Deputado Estadual;PHS;MG;
-ELEIÇÃO 2010 WALDECIR MACHADO TAVEIRA DEPUTALDO ESTADUAL;478.691.786-91;18/10/2010;31000014025;R$ 960,00;Depósito em espécie;WALDECIR MACHADO TAVEIRA;31555;Deputado Estadual;PHS;MG;
-ELEIÇÃO 2010 WALDECIR MACHADO TAVEIRA DEPUTALDO ESTADUAL;478.691.786-91;15/10/2010;31000014023;R$ 650,00;Depósito em espécie;WALDECIR MACHADO TAVEIRA;31555;Deputado Estadual;PHS;MG;
-SEBASTIÃO MEDEIROS DE OLIVEIRA;773.376.386-04;15/10/2010;31000014021;R$ 100,00;Depósito em espécie;WALDECIR MACHADO TAVEIRA;31555;Deputado Estadual;PHS;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTÔNIO FELÍCIO BATISTA;751.247.776-72;30/09/2010;       Serviços prestados por terceiros;R$ 300,00;Cheque; -  -  / 31555 - WALDECIR MACHADO TAVEIRA - MG - Deputado Estadual;
+GRÁFICA CIRSOMANE;19.528.074/0002-04;30/09/2010;       Publicidade por materiais impressos;R$ 590,00;Cheque; -  -  / 31555 - WALDECIR MACHADO TAVEIRA - MG - Deputado Estadual;
+JF CATAGUASES EDITORA LTDA;09.630.384/0001-09;26/08/2010;       Publicidade por jornais e revistas;R$ 200,00;Cheque; -  -  / 31555 - WALDECIR MACHADO TAVEIRA - MG - Deputado Estadual;
+LARISSA MACHADO CÉZAR;082.046.466-07;30/09/2010;       Serviços prestados por terceiros;R$ 300,00;Cheque; -  -  / 31555 - WALDECIR MACHADO TAVEIRA - MG - Deputado Estadual;
+LUMINOSOS CATAGUASES;71.190.359/0001-17;30/09/2010;       Publicidade por materiais impressos;R$ 130,00;Cheque; -  -  / 31555 - WALDECIR MACHADO TAVEIRA - MG - Deputado Estadual;
+SANDRA APARECIDA GUIMARÃES;333.999.806-04;30/09/2010;       Serviços prestados por terceiros;R$ 300,00;Cheque; -  -  / 31555 - WALDECIR MACHADO TAVEIRA - MG - Deputado Estadual;
+WILSON MONTEIRO DA S NETO;087.014.336-01;30/09/2010;       Publicidade por carros de som;R$ 400,00;Cheque; -  -  / 31555 - WALDECIR MACHADO TAVEIRA - MG - Deputado Estadual;

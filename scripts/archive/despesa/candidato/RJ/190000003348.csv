@@ -1,6 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO VITALE;774.129.237-49;23/07/2010;43001511851;R$ 200,00;Transferência eletrônica;ANTONIO VITALE;43110;Deputado Estadual;PV;RJ;
-ANTONIO VITALE;774.129.237-49;01/09/2010;43001511852;R$ 500,00;Transferência eletrônica;ANTONIO VITALE;43110;Deputado Estadual;PV;RJ;
-ANTONIO VITALE;774.129.237-49;03/09/2010;43001511854;R$ 200,00;Transferência eletrônica;ANTONIO VITALE;43110;Deputado Estadual;PV;RJ;
-ANTONIO VITALE;774.129.237-49;15/09/2010;43001511855;R$ 400,00;Transferência eletrônica;ANTONIO VITALE;43110;Deputado Estadual;PV;RJ;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.147.818/0001-10;03/09/2010;43001511853;R$ 565,36;Estimado;ANTONIO VITALE;43110;Deputado Estadual;PV;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALESSANDRO NUNES MARTINS;082.601.737-19;15/09/2010;       Serviços prestados por terceiros;R$ 40,78;Cheque; -  -  / 43110 - ANTONIO VITALE - RJ - Deputado Estadual;
+ALESSANDRO NUNES MARTINS;082.601.737-19;31/08/2010;       Serviços prestados por terceiros;R$ 161,37;Cheque; -  -  / 43110 - ANTONIO VITALE - RJ - Deputado Estadual;
+Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.147.818/0001-10;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 565,36;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual - PV -  / 43110 - ANTONIO VITALE - RJ - Deputado Estadual;
+GRAFICA RUY NEVES LTDA;27.009.646/0001-96;15/09/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 43110 - ANTONIO VITALE - RJ - Deputado Estadual;
+GRAFICA RUY NEVES LTDA;27.009.646/0001-96;08/09/2010;       Publicidade por materiais impressos;R$ 680,00;Cheque; -  -  / 43110 - ANTONIO VITALE - RJ - Deputado Estadual;
+;;02/09/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 43110 - ANTONIO VITALE - RJ - Deputado Estadual;
+;;02/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 43110 - ANTONIO VITALE - RJ - Deputado Estadual;

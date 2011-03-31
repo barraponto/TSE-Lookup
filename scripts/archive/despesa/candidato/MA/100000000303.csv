@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-EDINANDO E.S. DE OLIVEIRA-ME;02.227.931/0001-52;28/09/2010;11000096862;R$ 600,00;Estimado;JOAS SILVA SANTOS;1122;Deputado Federal;PP;MA;
-JOÃO B.G. DA COSTA (POSTO JB);07.494.235/0001-26;27/09/2010;11000096861;R$ 558,00;Estimado;JOAS SILVA SANTOS;1122;Deputado Federal;PP;MA;
-JOAS SILVA SANTOS;331.441.333-53;28/09/2010;11000096863;R$ 3.000,00;Estimado;JOAS SILVA SANTOS;1122;Deputado Federal;PP;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EDINANDO E.S. DE OLIVEIRA-ME;02.227.931/0001-52;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado; -  -  / 1122 - JOAS SILVA SANTOS - MA - Deputado Federal;
+JOÃO B.G. DA COSTA (POSTO JB);07.494.235/0001-26;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 558,00;Estimado; -  -  / 1122 - JOAS SILVA SANTOS - MA - Deputado Federal;
+JOAS SILVA SANTOS;331.441.333-53;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.000,00;Estimado; -  -  / 1122 - JOAS SILVA SANTOS - MA - Deputado Federal;

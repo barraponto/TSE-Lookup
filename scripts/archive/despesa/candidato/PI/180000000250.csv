@@ -1,6 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSE OLIVEIRA DA SILVA;066.531.463-91;04/08/2010;36000067803;R$ 1.000,00;Cheque;PAULO HENRIQUE DIAS OLIVEIRA;3600;Deputado Federal;PTC;PI;
-JOSE OLIVEIRA DA SILVA;066.531.463-91;22/09/2010;36000067805;R$ 1.000,00;Depósito em espécie;PAULO HENRIQUE DIAS OLIVEIRA;3600;Deputado Federal;PTC;PI;
-LUCIANO SENA SALES;470.450.863-34;04/08/2010;36000067804;R$ 5.000,00;Depósito em espécie;PAULO HENRIQUE DIAS OLIVEIRA;3600;Deputado Federal;PTC;PI;
-PAULO HENRIQUE DIAS DE OLIVEIRA;474.506.733-04;31/07/2010;36000067802;R$ 34.000,00;Estimado;PAULO HENRIQUE DIAS OLIVEIRA;3600;Deputado Federal;PTC;PI;
-WALDIVIA DIAS OLIVEIRA;474.506.653-87;19/07/2010;36000067801;R$ 500,00;Depósito em espécie;PAULO HENRIQUE DIAS OLIVEIRA;3600;Deputado Federal;PTC;PI;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELIANE PEREIRA DA SILVA;12.005.140/0001-31;04/08/2010;       Locação/cessão de bens móveis;R$ 5.000,00;Cheque; -  -  / 3600 - PAULO HENRIQUE DIAS OLIVEIRA - PI - Deputado Federal;
+JOSE EDMILSON LOPES DE CARVALHO JUNIOR;07.593.781/0001-14;26/07/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 3600 - PAULO HENRIQUE DIAS OLIVEIRA - PI - Deputado Federal;
+PAULO HENRIQUE DIAS DE OLIVEIRA;474.506.733-04;31/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 34.000,00;Estimado; -  -  / 3600 - PAULO HENRIQUE DIAS OLIVEIRA - PI - Deputado Federal;
+PAULO MARCIO DE CASTRO ALEIXO ME;10.592.191/0001-81;11/09/2010;       Publicidade por materiais impressos;R$ 250,00;Cheque; -  -  / 3600 - PAULO HENRIQUE DIAS OLIVEIRA - PI - Deputado Federal;
+POSTO P DA SILV ALTDA;07.217.234/0001-34;24/09/2010;       Combustíveis e lubrificantes;R$ 517,71;Cheque; -  -  / 3600 - PAULO HENRIQUE DIAS OLIVEIRA - PI - Deputado Federal;
+POSTO SANTA LUZIA;06.773.030/0001-17;28/08/2010;       Combustíveis e lubrificantes;R$ 539,00;Cheque; -  -  / 3600 - PAULO HENRIQUE DIAS OLIVEIRA - PI - Deputado Federal;
+POSTO SANTA LUZIA;06.773.030/0001-17;02/10/2010;       Combustíveis e lubrificantes;R$ 693,29;Cheque; -  -  / 3600 - PAULO HENRIQUE DIAS OLIVEIRA - PI - Deputado Federal;

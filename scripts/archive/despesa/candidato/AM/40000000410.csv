@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;04.160.131/0001-97;13/08/2010;31000050301;R$ 300,00;Estimado;FRANCISCO CARLOS NASCIMENTO DE OLIVEIRA;31671;Deputado Estadual;PHS;AM;
-Diretório Estadual/Distrital;04.160.131/0001-97;30/09/2010;31000050303;R$ 700,00;Estimado;FRANCISCO CARLOS NASCIMENTO DE OLIVEIRA;31671;Deputado Estadual;PHS;AM;
-Diretório Estadual/Distrital;04.160.131/0001-97;23/09/2010;31000050302;R$ 363,00;Cheque;FRANCISCO CARLOS NASCIMENTO DE OLIVEIRA;31671;Deputado Estadual;PHS;AM;
-LUIZA LIMA DA SILVA;284.931.502-82;02/10/2010;31000050306;R$ 1.020,00;Estimado;FRANCISCO CARLOS NASCIMENTO DE OLIVEIRA;31671;Deputado Estadual;PHS;AM;
-MIRACARLA S. DE OLIVEIRA;735.803.502-00;02/10/2010;31000050304;R$ 1.020,00;Estimado;FRANCISCO CARLOS NASCIMENTO DE OLIVEIRA;31671;Deputado Estadual;PHS;AM;
-MIRACLEIDE SAMPAIO DA SILVA;150.258.882-04;02/10/2010;31000050305;R$ 1.020,00;Estimado;FRANCISCO CARLOS NASCIMENTO DE OLIVEIRA;31671;Deputado Estadual;PHS;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;04.160.131/0001-97;13/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Direção Estadual/Distrital - PMDB -  / 31671 - FRANCISCO CARLOS NASCIMENTO DE OLIVEIRA - AM - Deputado Estadual;
+Diretório Estadual/Distrital;04.160.131/0001-97;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 700,00;Estimado;Direção Estadual/Distrital - PMDB -  / 31671 - FRANCISCO CARLOS NASCIMENTO DE OLIVEIRA - AM - Deputado Estadual;
+GRAFISA - GRAFICA E EDITORA LTDA.;03.633.502/0001-48;25/08/2010;       Publicidade por materiais impressos;R$ 363,00;Cheque; -  -  / 31671 - FRANCISCO CARLOS NASCIMENTO DE OLIVEIRA - AM - Deputado Estadual;
+LUIZA LIMA DA SILVA;284.931.502-82;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.020,00;Estimado; -  -  / 31671 - FRANCISCO CARLOS NASCIMENTO DE OLIVEIRA - AM - Deputado Estadual;
+MIRACARLA S. DE OLIVEIRA;735.803.502-00;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.020,00;Estimado; -  -  / 31671 - FRANCISCO CARLOS NASCIMENTO DE OLIVEIRA - AM - Deputado Estadual;
+MIRACLEIDE SAMPAIO DA SILVA;150.258.882-04;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.020,00;Estimado; -  -  / 31671 - FRANCISCO CARLOS NASCIMENTO DE OLIVEIRA - AM - Deputado Estadual;

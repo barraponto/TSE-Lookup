@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-PATRICIA GOULART DA SILVA;013.598.580-32;25/09/2010;50000477102;R$ 30,00;Depósito em espécie;ERCI FELISBINO DA SILVA;50012;Deputado Estadual;PSOL;RS;
-PATRICIA GOULART DA SILVA;013.598.580-32;06/09/2010;50000477101;R$ 150,00;Depósito em espécie;ERCI FELISBINO DA SILVA;50012;Deputado Estadual;PSOL;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DALTRO E FILHOS LTDA;88.753.868/0001-03;16/09/2010;       Combustíveis e lubrificantes;R$ 95,00;Cheque; -  -  / 50012 - ERCI FELISBINO DA SILVA - RS - Deputado Estadual;
+DALTRO E FILHOS LTDA;88.753.868/0001-03;25/09/2010;       Combustíveis e lubrificantes;R$ 50,00;Cheque; -  -  / 50012 - ERCI FELISBINO DA SILVA - RS - Deputado Estadual;
+JOSE LAUREANO SALAZAR PEREIRA;537.400.090-04;01/10/2010;       Serviços prestados por terceiros;R$ 35,00;Cheque; -  -  / 50012 - ERCI FELISBINO DA SILVA - RS - Deputado Estadual;

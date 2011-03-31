@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-AMAURI DE SOUZA BARROS;330.657.482-15;03/08/2010;31000066607;R$ 3.540,00;Estimado;AMAURI DE SOUZA BARROS;31123;Deputado Estadual;PHS;AP;
-Comitê Financeiro Único;12.241.703/0001-90;14/08/2010;31000066601;R$ 1.100,00;Estimado;AMAURI DE SOUZA BARROS;31123;Deputado Estadual;PHS;AP;
-Comitê Financeiro Único;12.241.703/0001-90;28/09/2010;31000066604;R$ 577,00;Estimado;AMAURI DE SOUZA BARROS;31123;Deputado Estadual;PHS;AP;
-Comitê Financeiro Único;12.241.703/0001-90;28/09/2010;31000066605;R$ 625,00;Estimado;AMAURI DE SOUZA BARROS;31123;Deputado Estadual;PHS;AP;
-Comitê Financeiro Único;12.241.703/0001-90;01/10/2010;31000066606;R$ 550,00;Estimado;AMAURI DE SOUZA BARROS;31123;Deputado Estadual;PHS;AP;
-Comitê Financeiro Único;12.256.162/0001-74;24/08/2010;31000066603;R$ 240,00;Estimado;AMAURI DE SOUZA BARROS;31123;Deputado Estadual;PHS;AP;
-Comitê Financeiro Único;12.241.703/0001-90;08/08/2010;31000066602;R$ 400,00;Estimado;AMAURI DE SOUZA BARROS;31123;Deputado Estadual;PHS;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AMAURI DE SOUZA BARROS;330.657.482-15;03/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.540,00;Estimado; -  -  / 31123 - AMAURI DE SOUZA BARROS - AP - Deputado Estadual;
+Comitê Financeiro Único;12.241.703/0001-90;08/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado;Comitê Financeiro Único - PP -  / 31123 - AMAURI DE SOUZA BARROS - AP - Deputado Estadual;
+Comitê Financeiro Único;12.241.703/0001-90;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 577,00;Estimado;Comitê Financeiro Único - PP -  / 31123 - AMAURI DE SOUZA BARROS - AP - Deputado Estadual;
+Comitê Financeiro Único;12.241.703/0001-90;14/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.100,00;Estimado;Comitê Financeiro Único - PP -  / 31123 - AMAURI DE SOUZA BARROS - AP - Deputado Estadual;
+Comitê Financeiro Único;12.256.162/0001-74;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 240,00;Estimado;Comitê Financeiro Único - PDT -  / 31123 - AMAURI DE SOUZA BARROS - AP - Deputado Estadual;
+Comitê Financeiro Único;12.241.703/0001-90;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 625,00;Estimado;Comitê Financeiro Único - PP -  / 31123 - AMAURI DE SOUZA BARROS - AP - Deputado Estadual;
+Comitê Financeiro Único;12.241.703/0001-90;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 550,00;Estimado;Comitê Financeiro Único - PP -  / 31123 - AMAURI DE SOUZA BARROS - AP - Deputado Estadual;

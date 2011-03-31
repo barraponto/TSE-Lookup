@@ -1,7 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.494/0001-18;30/09/2010;31000025339;R$ 250,00;Estimado;VITOR PAULO CORREA BOTELHO;31700;Deputado Estadual;PHS;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;31000025337;R$ 825,00;Estimado;VITOR PAULO CORREA BOTELHO;31700;Deputado Estadual;PHS;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;31000025343;R$ 600,00;Estimado;VITOR PAULO CORREA BOTELHO;31700;Deputado Estadual;PHS;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;28/09/2010;31000025341;R$ 150,00;Estimado;VITOR PAULO CORREA BOTELHO;31700;Deputado Estadual;PHS;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;31000025342;R$ 150,00;Estimado;VITOR PAULO CORREA BOTELHO;31700;Deputado Estadual;PHS;RJ;
-VITOR PAULO CORREA BOTELHO;832.303.947-04;26/08/2010;31000025338;R$ 4.500,00;Depósito em espécie;VITOR PAULO CORREA BOTELHO;31700;Deputado Estadual;PHS;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+COM E SERV PAINEIS PUBLICITARIOS LTDA;08.379.705/0001-73;16/08/2010;       Despesas com transporte ou deslocamento;R$ 2.168,40;Cheque; -  -  / 31700 - VITOR PAULO CORREA BOTELHO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 825,00;Estimado;Comitê Financeiro Único - PMDB -  / 31700 - VITOR PAULO CORREA BOTELHO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 31700 - VITOR PAULO CORREA BOTELHO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.191.494/0001-18;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;Comitê Financeiro Único - PHS -  / 31700 - VITOR PAULO CORREA BOTELHO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado;Comitê Financeiro Único - PMDB -  / 31700 - VITOR PAULO CORREA BOTELHO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 31700 - VITOR PAULO CORREA BOTELHO - RJ - Deputado Estadual;
+CWV GRAFICA EDITORA E BAZAR LTDA - ME;73.668.675/0001-87;26/08/2010;       Produção de jingles, vinhetas e slogans;R$ 1.850,00;Cheque; -  -  / 31700 - VITOR PAULO CORREA BOTELHO - RJ - Deputado Estadual;
+UMA NOVA OPCAO ASSESSORIA DE MARKETING LTDA;10.915.263/0001-84;26/08/2010;       Publicidade por jornais e revistas;R$ 480,00;Cheque; -  -  / 31700 - VITOR PAULO CORREA BOTELHO - RJ - Deputado Estadual;
+31700 - VITOR PAULO CORREA BOTELHO - DEPUTADO ESTADUAL;12.180.904/0001-25;25/10/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 1,60;Cheque;Direção Estadual/Distrital - PHS - RJ / 31700 - VITOR PAULO CORREA BOTELHO - RJ - Deputado Estadual;

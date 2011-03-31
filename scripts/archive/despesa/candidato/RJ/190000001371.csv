@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;32.080.483/0001-78;30/09/2010;45000452623;R$ 3.875,00;Estimado;TERTULIANO SOARES E SILVA;45200;Deputado Estadual;PSDB;RJ;
-Diretório Estadual/Distrital;32.080.483/0001-78;30/09/2010;45000452624;R$ 166,67;Estimado;TERTULIANO SOARES E SILVA;45200;Deputado Estadual;PSDB;RJ;
-MARCELO ZATURANSKY NOGUEIRA ITAGIBA;12.204.972/0001-87;30/09/2010;45000452621;R$ 735,00;Estimado;TERTULIANO SOARES E SILVA;45200;Deputado Estadual;PSDB;RJ;
-MARCELO ZATURANSKY NOGUEIRA ITAGIBA;12.204.972/0001-87;30/09/2010;45000452622;R$ 735,00;Estimado;TERTULIANO SOARES E SILVA;45200;Deputado Estadual;PSDB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;32.080.483/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.875,00;Estimado;Direção Estadual/Distrital - PSDB -  / 45200 - TERTULIANO SOARES E SILVA - RJ - Deputado Estadual;
+Diretório Estadual/Distrital;32.080.483/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 166,67;Estimado;Direção Estadual/Distrital - PSDB -  / 45200 - TERTULIANO SOARES E SILVA - RJ - Deputado Estadual;
+MARCELO ZATURANSKY NOGUEIRA ITAGIBA;12.204.972/0001-87;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 735,00;Estimado;4518 -  - PSDB -  - Deputado Federal / 45200 - TERTULIANO SOARES E SILVA - RJ - Deputado Estadual;
+MARCELO ZATURANSKY NOGUEIRA ITAGIBA;12.204.972/0001-87;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 735,00;Estimado;4518 -  - PSDB -  - Deputado Federal / 45200 - TERTULIANO SOARES E SILVA - RJ - Deputado Estadual;

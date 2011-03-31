@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;04/08/2010;17000066251;R$ 150,00;Estimado;BARBARA DOS SANTOS;1790;Deputado Federal;PSL;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;17000066253;R$ 150,00;Estimado;BARBARA DOS SANTOS;1790;Deputado Federal;PSL;RJ;
-JORGE SAYED PICCIANI;12.176.626/0001-32;31/08/2010;17000066252;R$ 17,00;Estimado;BARBARA DOS SANTOS;1790;Deputado Federal;PSL;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;04/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 1790 - BARBARA DOS SANTOS - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 1790 - BARBARA DOS SANTOS - RJ - Deputado Federal;
+JORGE SAYED PICCIANI;12.176.626/0001-32;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 1790 - BARBARA DOS SANTOS - RJ - Deputado Federal;

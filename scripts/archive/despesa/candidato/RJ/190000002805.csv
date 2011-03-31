@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADRIANO TOSTES PINHEIRO;069.290.697-52;03/09/2010;43001505052;R$ 210,00;Estimado;IGNÁCIO PESSOA DA SILVA;43444;Deputado Estadual;PV;RJ;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.147.818/0001-10;03/09/2010;43001505053;R$ 1.485,32;Estimado;IGNÁCIO PESSOA DA SILVA;43444;Deputado Estadual;PV;RJ;
-PAULO ROBERTO SANTOS DE MIRANDA;625.237.837-20;03/09/2010;43001505051;R$ 200,00;Estimado;IGNÁCIO PESSOA DA SILVA;43444;Deputado Estadual;PV;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADRIANO TOSTES PINHEIRO;069.290.697-52;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 210,00;Estimado; -  -  / 43444 - IGNÁCIO PESSOA DA SILVA - RJ - Deputado Estadual;
+Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.147.818/0001-10;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.485,32;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual - PV -  / 43444 - IGNÁCIO PESSOA DA SILVA - RJ - Deputado Estadual;
+PAULO ROBERTO SANTOS DE MIRANDA;625.237.837-20;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado; -  -  / 43444 - IGNÁCIO PESSOA DA SILVA - RJ - Deputado Estadual;

@@ -1,8 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.213/0001-39;26/08/2010;40002202726;R$ 3.800,00;Cheque;MARCIO RODRIGUES CORDEIRO;4006;Deputado Federal;PSB;MG;
-Comitê Financeiro Único;12.205.213/0001-39;09/09/2010;40002202727;R$ 3.800,00;Cheque;MARCIO RODRIGUES CORDEIRO;4006;Deputado Federal;PSB;MG;
-Comitê Financeiro Único;12.205.213/0001-39;20/08/2010;40002202732;R$ 356,00;Estimado;MARCIO RODRIGUES CORDEIRO;4006;Deputado Federal;PSB;MG;
-Comitê Financeiro Único;12.205.213/0001-39;30/09/2010;40002202736;R$ 45,00;Estimado;MARCIO RODRIGUES CORDEIRO;4006;Deputado Federal;PSB;MG;
-Comitê Financeiro Único;12.205.213/0001-39;20/08/2010;40002202733;R$ 152,00;Estimado;MARCIO RODRIGUES CORDEIRO;4006;Deputado Federal;PSB;MG;
-Comitê Financeiro Único;12.205.213/0001-39;03/09/2010;40002202735;R$ 1.197,84;Estimado;MARCIO RODRIGUES CORDEIRO;4006;Deputado Federal;PSB;MG;
-WANDER JOSÉ GODDADAR BORGES;12.174.507/0001-40;25/09/2010;40002202731;R$ 240,00;Estimado;MARCIO RODRIGUES CORDEIRO;4006;Deputado Federal;PSB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.213/0001-39;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 45,00;Estimado;Comitê Financeiro Único - PSB -  / 4006 - MARCIO RODRIGUES CORDEIRO - MG - Deputado Federal;
+Comitê Financeiro Único;12.205.213/0001-39;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.197,84;Estimado;Comitê Financeiro Único - PSB -  / 4006 - MARCIO RODRIGUES CORDEIRO - MG - Deputado Federal;
+Comitê Financeiro Único;12.205.213/0001-39;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 356,00;Estimado;Comitê Financeiro Único - PSB -  / 4006 - MARCIO RODRIGUES CORDEIRO - MG - Deputado Federal;
+Comitê Financeiro Único;12.205.213/0001-39;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 152,00;Estimado;Comitê Financeiro Único - PSB -  / 4006 - MARCIO RODRIGUES CORDEIRO - MG - Deputado Federal;
+EDITORA GRÁFICA DALIANA LTDA.;05.581.027/0001-39;28/09/2010;       Publicidade por materiais impressos;R$ 3.786,50;Cheque; -  -  / 4006 - MARCIO RODRIGUES CORDEIRO - MG - Deputado Federal;
+EDITORA GRÁFICA DALIANA LTDA.;05.581.027/0001-39;03/09/2010;       Publicidade por materiais impressos;R$ 3.786,50;Cheque; -  -  / 4006 - MARCIO RODRIGUES CORDEIRO - MG - Deputado Federal;
+WANDER JOSÉ GODDADAR BORGES;12.174.507/0001-40;25/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 240,00;Estimado;40640 -  - PSB -  - Deputado Estadual / 4006 - MARCIO RODRIGUES CORDEIRO - MG - Deputado Federal;
+;;28/09/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Débito em conta; -  -  / 4006 - MARCIO RODRIGUES CORDEIRO - MG - Deputado Federal;
+;;14/09/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Débito em conta; -  -  / 4006 - MARCIO RODRIGUES CORDEIRO - MG - Deputado Federal;

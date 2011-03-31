@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANDRESON PEREIRA FERREIRA;744.681.032-72;15/09/2010;16000036953;R$ 190,00;Estimado;ADRIELI FERREIRA PORTO;16124;Deputado Estadual;PSTU;AP;
-Comitê Financeiro Único;12.205.321/0001-01;14/09/2010;16000036955;R$ 28,00;Estimado;ADRIELI FERREIRA PORTO;16124;Deputado Estadual;PSTU;AP;
-Diretório Estadual/Distrital;12.304.561/0001-63;03/08/2010;16000036952;R$ 87,00;Estimado;ADRIELI FERREIRA PORTO;16124;Deputado Estadual;PSTU;AP;
-MARIA DE JESUS FERREIRA PORTO;182.035.152-15;15/09/2010;16000036954;R$ 190,00;Estimado;ADRIELI FERREIRA PORTO;16124;Deputado Estadual;PSTU;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANDRESON PEREIRA FERREIRA;744.681.032-72;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 190,00;Estimado; -  -  / 16124 - ADRIELI FERREIRA PORTO - AP - Deputado Estadual;
+Comitê Financeiro Único;12.205.321/0001-01;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 28,00;Estimado;Comitê Financeiro Único - PSTU -  / 16124 - ADRIELI FERREIRA PORTO - AP - Deputado Estadual;
+Diretório Estadual/Distrital;12.304.561/0001-63;03/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 87,00;Estimado;Direção Estadual/Distrital - PSTU -  / 16124 - ADRIELI FERREIRA PORTO - AP - Deputado Estadual;
+MARIA DE JESUS FERREIRA PORTO;182.035.152-15;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 190,00;Estimado; -  -  / 16124 - ADRIELI FERREIRA PORTO - AP - Deputado Estadual;

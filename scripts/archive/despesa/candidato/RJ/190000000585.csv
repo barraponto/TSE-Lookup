@@ -1,5 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.171/0001-43;30/09/2010;13000879321;R$ 750,00;Estimado;LEONARDO BASTOS MENDES;13456;Deputado Estadual;PT;RJ;
-LUIZ MENDES DA SILVA JUNIOR;697.916.787-15;31/08/2010;13000879325;R$ 1.000,00;Depósito em espécie;LEONARDO BASTOS MENDES;13456;Deputado Estadual;PT;RJ;
-SAULO COELHO BASTOS;572.266.607-68;30/09/2010;13000879323;R$ 800,00;Depósito em espécie;LEONARDO BASTOS MENDES;13456;Deputado Estadual;PT;RJ;
-SINARA COELHO BASTOS;680.474.877-87;31/08/2010;13000879324;R$ 1.000,00;Depósito em espécie;LEONARDO BASTOS MENDES;13456;Deputado Estadual;PT;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO DE COMBUSTIVEL BENDENGO LTDA;06.104.644/0001-06;31/08/2010;       Combustíveis e lubrificantes;R$ 492,50;Cheque; -  -  / 13456 - LEONARDO BASTOS MENDES - RJ - Deputado Estadual;
+AUTO POSTO DE COMBUSTIVEL BENDENGO LTDA;06.104.644/0001-06;30/09/2010;       Combustíveis e lubrificantes;R$ 407,00;Cheque; -  -  / 13456 - LEONARDO BASTOS MENDES - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.200.171/0001-43;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 750,00;Estimado;Comitê Financeiro Único - PT -  / 13456 - LEONARDO BASTOS MENDES - RJ - Deputado Estadual;
+GRAFICA E EDITORA HOFFMAN LTDA;29.638.426/0001-57;01/10/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 13456 - LEONARDO BASTOS MENDES - RJ - Deputado Estadual;
+MARCINA FREITAS MARQUES;655.622.597-53;30/09/2010;       Locação/cessão de bens imóveis;R$ 250,00;Cheque; -  -  / 13456 - LEONARDO BASTOS MENDES - RJ - Deputado Estadual;
+PIO E GONÇALVES LTDA;06.065.770/0001-07;30/09/2010;       Publicidade por jornais e revistas;R$ 50,00;Cheque; -  -  / 13456 - LEONARDO BASTOS MENDES - RJ - Deputado Estadual;
+ROBSON DA SILVA COELHO;056.242.657-43;30/09/2010;       Publicidade por carros de som;R$ 150,00;Cheque; -  -  / 13456 - LEONARDO BASTOS MENDES - RJ - Deputado Estadual;

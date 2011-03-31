@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;16/09/2010;14000130252;R$ 150,00;Estimado;BENEDITO MENDES BRANDAO;14154;Deputado Estadual;PTB;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;11/08/2010;14000130251;R$ 150,00;Estimado;BENEDITO MENDES BRANDAO;14154;Deputado Estadual;PTB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;11/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 14154 - BENEDITO MENDES BRANDAO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;16/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 14154 - BENEDITO MENDES BRANDAO - RJ - Deputado Estadual;

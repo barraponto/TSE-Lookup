@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.489/0001-05;18/08/2010;16000034052;R$ 86,00;Estimado;JOSÉ MARIANO DE MACEDO;16162;Deputado Estadual;PSTU;PE;
-Comitê Financeiro Único;12.191.489/0001-05;18/08/2010;16000034051;R$ 93,00;Estimado;JOSÉ MARIANO DE MACEDO;16162;Deputado Estadual;PSTU;PE;
-Comitê Financeiro Único;12.191.489/0001-05;21/09/2010;16000034056;R$ 200,00;Estimado;JOSÉ MARIANO DE MACEDO;16162;Deputado Estadual;PSTU;PE;
-Comitê Financeiro Único;12.191.489/0001-05;27/08/2010;16000034053;R$ 169,75;Estimado;JOSÉ MARIANO DE MACEDO;16162;Deputado Estadual;PSTU;PE;
-Comitê Financeiro Único;12.191.489/0001-05;27/09/2010;16000034055;R$ 250,00;Estimado;JOSÉ MARIANO DE MACEDO;16162;Deputado Estadual;PSTU;PE;
-Comitê Financeiro Único;12.191.489/0001-05;13/09/2010;16000034054;R$ 97,00;Estimado;JOSÉ MARIANO DE MACEDO;16162;Deputado Estadual;PSTU;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.489/0001-05;13/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 97,00;Estimado;Comitê Financeiro Único - PSTU -  / 16162 - JOSÉ MARIANO DE MACEDO - PE - Deputado Estadual;
+Comitê Financeiro Único;12.191.489/0001-05;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;Comitê Financeiro Único - PSTU -  / 16162 - JOSÉ MARIANO DE MACEDO - PE - Deputado Estadual;
+Comitê Financeiro Único;12.191.489/0001-05;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 93,00;Estimado;Comitê Financeiro Único - PSTU -  / 16162 - JOSÉ MARIANO DE MACEDO - PE - Deputado Estadual;
+Comitê Financeiro Único;12.191.489/0001-05;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 86,00;Estimado;Comitê Financeiro Único - PSTU -  / 16162 - JOSÉ MARIANO DE MACEDO - PE - Deputado Estadual;
+Comitê Financeiro Único;12.191.489/0001-05;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;Comitê Financeiro Único - PSTU -  / 16162 - JOSÉ MARIANO DE MACEDO - PE - Deputado Estadual;
+Comitê Financeiro Único;12.191.489/0001-05;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 169,75;Estimado;Comitê Financeiro Único - PSTU -  / 16162 - JOSÉ MARIANO DE MACEDO - PE - Deputado Estadual;

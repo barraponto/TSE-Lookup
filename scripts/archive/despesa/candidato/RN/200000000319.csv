@@ -1,4 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.151/0001-72;30/09/2010;31000048242;R$ 500,00;Estimado;REVIL ALVES DOS SANTOS;3113;Deputado Federal;PHS;RN;
-Comitê Financeiro Único;12.200.151/0001-72;01/10/2010;31000048243;R$ 100,00;Estimado;REVIL ALVES DOS SANTOS;3113;Deputado Federal;PHS;RN;
-REVIL ALVES DOS SANTOS;304.439.707-34;02/09/2010;31000048241;R$ 250,00;Depósito em espécie;REVIL ALVES DOS SANTOS;3113;Deputado Federal;PHS;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.151/0001-72;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;Comitê Financeiro Único - PHS -  / 3113 - REVIL ALVES DOS SANTOS - RN - Deputado Federal;
+Comitê Financeiro Único;12.200.151/0001-72;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado;Comitê Financeiro Único - PHS -  / 3113 - REVIL ALVES DOS SANTOS - RN - Deputado Federal;
+JUAREZ LOPES BARBOSA ME;10.721.975/0001-62;01/09/2010;       Diversas a especificar;R$ 44,00;Cheque; -  -  / 3113 - REVIL ALVES DOS SANTOS - RN - Deputado Federal;
+JVC COMERCIAL LTDA;35.298.330/0001-90;25/09/2010;       Combustíveis e lubrificantes;R$ 50,00;Cheque; -  -  / 3113 - REVIL ALVES DOS SANTOS - RN - Deputado Federal;
+M TERESINHA DE MEDEIROS ME;09.092.203/0001-20;02/09/2010;       Diversas a especificar;R$ 150,00;Cheque; -  -  / 3113 - REVIL ALVES DOS SANTOS - RN - Deputado Federal;

@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;19/08/2010;20000677421;R$ 150,00;Estimado;VERA LÚCIA DE OLIVEIRA FORTES ALVES;20670;Deputado Estadual;PSC;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;20000677423;R$ 150,00;Estimado;VERA LÚCIA DE OLIVEIRA FORTES ALVES;20670;Deputado Estadual;PSC;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;06/09/2010;20000677422;R$ 150,00;Estimado;VERA LÚCIA DE OLIVEIRA FORTES ALVES;20670;Deputado Estadual;PSC;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 20670 - VERA LÚCIA DE OLIVEIRA FORTES ALVES - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;19/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 20670 - VERA LÚCIA DE OLIVEIRA FORTES ALVES - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 20670 - VERA LÚCIA DE OLIVEIRA FORTES ALVES - RJ - Deputado Estadual;

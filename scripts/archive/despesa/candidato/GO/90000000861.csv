@@ -1,3 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LAURO DE NADAI DA SILVA;004.094.721-15;30/09/2010;15000091002;R$ 950,00;Depósito em espécie;LAURO DE NADAI DA SILVA;1551;Deputado Federal;PMDB;GO;
-LAURO DE NADAI DA SILVA;004.094.721-15;28/07/2010;15000091001;R$ 500,00;Depósito em espécie;LAURO DE NADAI DA SILVA;1551;Deputado Federal;PMDB;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+HONORATO E OLIVEIRA LTDA;05.905.027/0001-47;30/09/2010;       Publicidade por placas, estandartes e faixas;R$ 1.450,00;Cheque; -  -  / 1551 - LAURO DE NADAI DA SILVA - GO - Deputado Federal;

@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JORGE SAYED PICCIANI;12.176.626/0001-32;30/09/2010;36000051702;R$ 23,59;Estimado;FRANCISCO CARLOS ACCIOLY NERY;3600;Deputado Federal;PTC;RJ;
-JORGE SAYED PICCIANI;12.176.626/0001-32;21/09/2010;36000051701;R$ 23,59;Estimado;FRANCISCO CARLOS ACCIOLY NERY;3600;Deputado Federal;PTC;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JORGE SAYED PICCIANI;12.176.626/0001-32;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 23,59;Estimado;155 -  - PMDB -  - Senador / 3600 - FRANCISCO CARLOS ACCIOLY NERY - RJ - Deputado Federal;
+JORGE SAYED PICCIANI;12.176.626/0001-32;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 23,59;Estimado;155 -  - PMDB -  - Senador / 3600 - FRANCISCO CARLOS ACCIOLY NERY - RJ - Deputado Federal;

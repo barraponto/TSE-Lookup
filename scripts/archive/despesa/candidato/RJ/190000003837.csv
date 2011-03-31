@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;19/08/2010;14000130361;R$ 150,00;Estimado;TELMA RANGEL BARROSO CORREA;14789;Deputado Estadual;PTB;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;24/09/2010;14000130364;R$ 150,00;Estimado;TELMA RANGEL BARROSO CORREA;14789;Deputado Estadual;PTB;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;24/09/2010;14000130365;R$ 150,00;Estimado;TELMA RANGEL BARROSO CORREA;14789;Deputado Estadual;PTB;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;13/09/2010;14000130363;R$ 300,00;Estimado;TELMA RANGEL BARROSO CORREA;14789;Deputado Estadual;PTB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;19/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 14789 - TELMA RANGEL BARROSO CORREA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 14789 - TELMA RANGEL BARROSO CORREA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 14789 - TELMA RANGEL BARROSO CORREA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;13/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 14789 - TELMA RANGEL BARROSO CORREA - RJ - Deputado Estadual;

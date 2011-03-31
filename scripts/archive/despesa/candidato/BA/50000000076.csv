@@ -1,6 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO CARLOS SOARES;337.992.617-53;15/09/2010;45000052506;R$ 2.000,00;Estimado;TEREZA CRISTINA GIFFONI VIEIRA;4511;Deputado Federal;PSDB;BA;
-Comitê Financeiro Único;12.181.941/0001-58;03/09/2010;45000052504;R$ 10.000,00;Cheque;TEREZA CRISTINA GIFFONI VIEIRA;4511;Deputado Federal;PSDB;BA;
-JULIO DA CONCEICAO DE CAMAÇARI;03.168.646/0001-70;22/07/2010;45000052502;R$ 250,00;Estimado;TEREZA CRISTINA GIFFONI VIEIRA;4511;Deputado Federal;PSDB;BA;
-RAIMUNDO LOPES DE CARVALHO;671.059.555-20;15/07/2010;45000052503;R$ 2.000,00;Estimado;TEREZA CRISTINA GIFFONI VIEIRA;4511;Deputado Federal;PSDB;BA;
-XEROGRAPHI;00.620.592/0002-25;02/09/2010;45000052505;R$ 250,00;Estimado;TEREZA CRISTINA GIFFONI VIEIRA;4511;Deputado Federal;PSDB;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO CARLOS SOARES;337.992.617-53;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado; -  -  / 4511 - TEREZA CRISTINA GIFFONI VIEIRA - BA - Deputado Federal;
+ANTONIO CARLOS SOARES;337.992.617-53;08/09/2010;       Serviços prestados por terceiros;R$ 5.000,00;Cheque; -  -  / 4511 - TEREZA CRISTINA GIFFONI VIEIRA - BA - Deputado Federal;
+ANTONIO CARLOS SOARES JUNOR;016.039.025-70;08/09/2010;       Serviços prestados por terceiros;R$ 4.986,50;Transferência eletrônica; -  -  / 4511 - TEREZA CRISTINA GIFFONI VIEIRA - BA - Deputado Federal;
+JULIO DA CONCEICAO DE CAMAÇARI;03.168.646/0001-70;22/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado; -  -  / 4511 - TEREZA CRISTINA GIFFONI VIEIRA - BA - Deputado Federal;
+RAIMUNDO LOPES DE CARVALHO;671.059.555-20;15/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado; -  -  / 4511 - TEREZA CRISTINA GIFFONI VIEIRA - BA - Deputado Federal;
+XEROGRAPHI;00.620.592/0002-25;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado; -  -  / 4511 - TEREZA CRISTINA GIFFONI VIEIRA - BA - Deputado Federal;
+;;08/09/2010;       Impostos, contribuições e taxas;R$ 13,50;Transferência eletrônica; -  -  / 4511 - TEREZA CRISTINA GIFFONI VIEIRA - BA - Deputado Federal;

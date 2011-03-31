@@ -1,6 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALCIR BORGES MOREIRA;260.187.481-34;21/07/2010;13000625463;R$ 200,00;Depósito em espécie;ALCIR BORGES MOREIRA;13456;Deputado Distrital;PT;DF;
-ALCIR BORGES MOREIRA;260.187.481-34;02/08/2010;13000625465;R$ 500,00;Depósito em espécie;ALCIR BORGES MOREIRA;13456;Deputado Distrital;PT;DF;
-ERIKA KOKAY;12.173.566/0001-02;01/09/2010;13000625461;R$ 1.200,00;Estimado;ALCIR BORGES MOREIRA;13456;Deputado Distrital;PT;DF;
-GERALDO MAGELA;12.173.303/0001-95;30/07/2010;13000625481;R$ 620,00;Estimado;ALCIR BORGES MOREIRA;13456;Deputado Distrital;PT;DF;
-REGINO SOARES NOGUEIRA;182.861.351-72;19/08/2010;13000625462;R$ 400,00;Depósito em espécie;ALCIR BORGES MOREIRA;13456;Deputado Distrital;PT;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AOP BRASIL REPRESENTAÇÕES COMERCIAIS LTDA;03.628.961/0001-33;20/08/2010;       Publicidade por materiais impressos;R$ 450,00;Cheque; -  -  / 13456 - ALCIR BORGES MOREIRA - DF - Deputado Distrital;
+EPIMPRESS GRÁFICA E EDITORA LTDA - ME;12.207.229/0001-80;02/08/2010;       Publicidade por materiais impressos;R$ 250,00;Cheque; -  -  / 13456 - ALCIR BORGES MOREIRA - DF - Deputado Distrital;
+EPIMPRESS GRÁFICA E EDITORA LTDA ME;05.241.970/0001-00;23/07/2010;       Publicidade por materiais impressos;R$ 250,00;Cheque; -  -  / 13456 - ALCIR BORGES MOREIRA - DF - Deputado Distrital;
+ERIKA KOKAY;12.173.566/0001-02;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.200,00;Estimado;1331 -  - PT -  - Deputado Federal / 13456 - ALCIR BORGES MOREIRA - DF - Deputado Distrital;
+GERALDO MAGELA;12.173.303/0001-95;30/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 620,00;Estimado;1313 -  - PT -  - Deputado Federal / 13456 - ALCIR BORGES MOREIRA - DF - Deputado Distrital;
+GIOVANI MANOEL DA SILVA ME;10.680.236/0001-70;10/09/2010;       Publicidade por materiais impressos;R$ 650,00;Cheque; -  -  / 13456 - ALCIR BORGES MOREIRA - DF - Deputado Distrital;
+HUMBERTO DE FREITAS ME;10.526.217/0001-93;10/09/2010;       Publicidade por materiais impressos;R$ 289,00;Cheque; -  -  / 13456 - ALCIR BORGES MOREIRA - DF - Deputado Distrital;

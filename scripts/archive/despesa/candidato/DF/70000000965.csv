@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JAQUELINE MARIA RORIZ;12.198.906/0001-41;01/09/2010;33000107909;R$ 360,00;Estimado;MARIA APARECIDA SANTANA;33987;Deputado Distrital;PMN;DF;
-JAQUELINE MARIA RORIZ;12.198.906/0001-41;25/08/2010;33000107908;R$ 360,00;Estimado;MARIA APARECIDA SANTANA;33987;Deputado Distrital;PMN;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JAQUELINE MARIA RORIZ;12.198.906/0001-41;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;3320 -  - PMN -  - Deputado Federal / 33987 - MARIA APARECIDA SANTANA - DF - Deputado Distrital;
+JAQUELINE MARIA RORIZ;12.198.906/0001-41;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;3320 -  - PMN -  - Deputado Federal / 33987 - MARIA APARECIDA SANTANA - DF - Deputado Distrital;

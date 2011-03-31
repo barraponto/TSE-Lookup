@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS FERNANDO D'AGUIAR S. PALACIO;12.171.410/0001-84;24/09/2010;17000052403;R$ 225,00;Estimado;JOSE EDUARDO SILVA PINHEIRO HOMEM;17404;Deputado Estadual;PSL;MA;
-Comitê Financeiro Único;12.205.310/0001-21;02/08/2010;17000052401;R$ 166,65;Estimado;JOSE EDUARDO SILVA PINHEIRO HOMEM;17404;Deputado Estadual;PSL;MA;
-Comitê Financeiro Único;12.205.310/0001-21;02/09/2010;17000052407;R$ 641,00;Estimado;JOSE EDUARDO SILVA PINHEIRO HOMEM;17404;Deputado Estadual;PSL;MA;
-JOSE EDUARDO SILVA PINHEIRO HOMEM;178.620.513-00;03/09/2010;17000052404;R$ 1.500,00;Estimado;JOSE EDUARDO SILVA PINHEIRO HOMEM;17404;Deputado Estadual;PSL;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS FERNANDO D'AGUIAR S. PALACIO;12.171.410/0001-84;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 225,00;Estimado;1745 -  - PSL -  - Deputado Federal / 17404 - JOSE EDUARDO SILVA PINHEIRO HOMEM - MA - Deputado Estadual;
+Comitê Financeiro Único;12.205.310/0001-21;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 166,65;Estimado;Comitê Financeiro Único - PSL -  / 17404 - JOSE EDUARDO SILVA PINHEIRO HOMEM - MA - Deputado Estadual;
+Comitê Financeiro Único;12.205.310/0001-21;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 641,00;Estimado;Comitê Financeiro Único - PSL -  / 17404 - JOSE EDUARDO SILVA PINHEIRO HOMEM - MA - Deputado Estadual;
+JOSE EDUARDO SILVA PINHEIRO HOMEM;178.620.513-00;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado; -  -  / 17404 - JOSE EDUARDO SILVA PINHEIRO HOMEM - MA - Deputado Estadual;

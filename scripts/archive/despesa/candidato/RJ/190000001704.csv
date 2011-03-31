@@ -1,9 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALTINEU CORTES FREITAS COUTINHO;12.166.412/0001-85;02/10/2010;20000673384;R$ 143,75;Estimado;ISAC FARIAS NASCIMENTO;2069;Deputado Federal;PSC;RJ;
-ALTINEU CORTES FREITAS COUTINHO;12.166.412/0001-85;02/10/2010;20000673387;R$ 73,50;Estimado;ISAC FARIAS NASCIMENTO;2069;Deputado Federal;PSC;RJ;
-ALTINEU CORTES FREITAS COUTINHO;12.166.412/0001-85;02/10/2010;20000673386;R$ 162,50;Estimado;ISAC FARIAS NASCIMENTO;2069;Deputado Federal;PSC;RJ;
-ALTINEU CORTES FREITAS COUTINHO;12.166.412/0001-85;02/10/2010;20000673388;R$ 500,00;Estimado;ISAC FARIAS NASCIMENTO;2069;Deputado Federal;PSC;RJ;
-ALTINEU CORTES FREITAS COUTINHO;12.166.412/0001-85;02/10/2010;20000673385;R$ 500,00;Estimado;ISAC FARIAS NASCIMENTO;2069;Deputado Federal;PSC;RJ;
-CARLOS AUGUSTO DOS SANTOS;095.295.857-05;25/09/2010;20000673381;R$ 600,00;Estimado;ISAC FARIAS NASCIMENTO;2069;Deputado Federal;PSC;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;25/09/2010;20000673383;R$ 150,00;Estimado;ISAC FARIAS NASCIMENTO;2069;Deputado Federal;PSC;RJ;
-LEANDRO DAS CHAGAS ARAUJO;096.899.557-80;25/09/2010;20000673382;R$ 600,00;Estimado;ISAC FARIAS NASCIMENTO;2069;Deputado Federal;PSC;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALTINEU CORTES FREITAS COUTINHO;12.166.412/0001-85;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 143,75;Estimado;22369 -  - PR -  - Deputado Estadual / 2069 - ISAC FARIAS NASCIMENTO - RJ - Deputado Federal;
+ALTINEU CORTES FREITAS COUTINHO;12.166.412/0001-85;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;22369 -  - PR -  - Deputado Estadual / 2069 - ISAC FARIAS NASCIMENTO - RJ - Deputado Federal;
+ALTINEU CORTES FREITAS COUTINHO;12.166.412/0001-85;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 73,50;Estimado;22369 -  - PR -  - Deputado Estadual / 2069 - ISAC FARIAS NASCIMENTO - RJ - Deputado Federal;
+ALTINEU CORTES FREITAS COUTINHO;12.166.412/0001-85;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 162,50;Estimado;22369 -  - PR -  - Deputado Estadual / 2069 - ISAC FARIAS NASCIMENTO - RJ - Deputado Federal;
+ALTINEU CORTES FREITAS COUTINHO;12.166.412/0001-85;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;22369 -  - PR -  - Deputado Estadual / 2069 - ISAC FARIAS NASCIMENTO - RJ - Deputado Federal;
+CARLOS AUGUSTO DOS SANTOS;095.295.857-05;25/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado; -  -  / 2069 - ISAC FARIAS NASCIMENTO - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;25/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 2069 - ISAC FARIAS NASCIMENTO - RJ - Deputado Federal;
+LEANDRO DAS CHAGAS ARAUJO;096.899.557-80;25/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado; -  -  / 2069 - ISAC FARIAS NASCIMENTO - RJ - Deputado Federal;

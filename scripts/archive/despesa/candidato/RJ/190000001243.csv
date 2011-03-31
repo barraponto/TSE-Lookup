@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;32.080.483/0001-78;30/09/2010;45000439794;R$ 166,67;Estimado;ALEXANDRO MALVAO;45367;Deputado Estadual;PSDB;RJ;
-Diretório Estadual/Distrital;32.080.483/0001-78;30/09/2010;45000439793;R$ 3.875,00;Estimado;ALEXANDRO MALVAO;45367;Deputado Estadual;PSDB;RJ;
-ELEIÇAO 2010 ANDREIA ALMEIDA ZITO DOS SANTOS;12.203.895/0001-40;02/09/2010;45000439791;R$ 1.545,00;Estimado;ALEXANDRO MALVAO;45367;Deputado Estadual;PSDB;RJ;
-ELEIÇÃO 2010 ANDREIA ALMEIDA ZITO DOS SANTOS;12.203.895/0001-40;02/09/2010;45000439792;R$ 120,00;Estimado;ALEXANDRO MALVAO;45367;Deputado Estadual;PSDB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;32.080.483/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.875,00;Estimado;Direção Estadual/Distrital - PSDB -  / 45367 - ALEXANDRO MALVAO - RJ - Deputado Estadual;
+Diretório Estadual/Distrital;32.080.483/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 166,67;Estimado;Direção Estadual/Distrital - PSDB -  / 45367 - ALEXANDRO MALVAO - RJ - Deputado Estadual;
+ELEIÇAO 2010 ANDREIA ALMEIDA ZITO DOS SANTOS;12.203.895/0001-40;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.545,00;Estimado;4545 -  - PSDB -  - Deputado Federal / 45367 - ALEXANDRO MALVAO - RJ - Deputado Estadual;
+ELEIÇÃO 2010 ANDREIA ALMEIDA ZITO DOS SANTOS;12.203.895/0001-40;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 120,00;Estimado;4545 -  - PSDB -  - Deputado Federal / 45367 - ALEXANDRO MALVAO - RJ - Deputado Estadual;

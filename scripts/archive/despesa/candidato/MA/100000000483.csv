@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS F D S PALACIO;12.171.410/0001-84;23/09/2010;17000039553;R$ 450,00;Estimado;JOSÉ DOMINGOS SALES;17333;Deputado Estadual;PSL;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS F D S PALACIO;12.171.410/0001-84;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 450,00;Estimado;1745 -  - PSL -  - Deputado Federal / 17333 - JOSÉ DOMINGOS SALES - MA - Deputado Estadual;

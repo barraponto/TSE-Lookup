@@ -1,6 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-BENEDITO AUGUSTO DOMINGOS;12.203.737/0001-90;16/08/2010;11000096102;R$ 360,00;Estimado;VANILDO GUARNIER LIMA;11432;Deputado Distrital;PP;DF;
-BENEDITO AUGUSTO DOMINGOS;12.203.737/0001-90;11/08/2010;11000096101;R$ 360,00;Estimado;VANILDO GUARNIER LIMA;11432;Deputado Distrital;PP;DF;
-Comitê Financeiro Único;12.205.256/0001-14;05/10/2010;11000096108;R$ 1.530,00;Cheque;VANILDO GUARNIER LIMA;11432;Deputado Distrital;PP;DF;
-Comitê Financeiro Único;12.205.256/0001-14;05/10/2010;11000096107;R$ 1.530,00;Cheque;VANILDO GUARNIER LIMA;11432;Deputado Distrital;PP;DF;
-VANILDO GUARNIER LIMA;183.560.361-00;26/08/2010;11000096105;R$ 10,00;Depósito em espécie;VANILDO GUARNIER LIMA;11432;Deputado Distrital;PP;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BENEDITO AUGUSTO DOMINGOS;12.203.737/0001-90;11/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;11234 -  - PP -  - Deputado Distrital / 11432 - VANILDO GUARNIER LIMA - DF - Deputado Distrital;
+BENEDITO AUGUSTO DOMINGOS;12.203.737/0001-90;16/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;11234 -  - PP -  - Deputado Distrital / 11432 - VANILDO GUARNIER LIMA - DF - Deputado Distrital;
+MÁRCIO DA SILVA BRANCO;334.824.111-15;01/08/2010;       Despesas com pessoal;R$ 508,00;Transferência eletrônica; -  -  / 11432 - VANILDO GUARNIER LIMA - DF - Deputado Distrital;
+MÁRCIO DA SILVA BRANCO;334.824.111-15;01/09/2010;       Despesas com pessoal;R$ 510,00;Transferência eletrônica; -  -  / 11432 - VANILDO GUARNIER LIMA - DF - Deputado Distrital;
+RICARDO DIOGO SANTOS;008.063.031-66;30/09/2010;       Despesas com pessoal;R$ 508,00;Transferência eletrônica; -  -  / 11432 - VANILDO GUARNIER LIMA - DF - Deputado Distrital;
+RICARDO DIOGO SANTOS;008.063.031-66;30/08/2010;       Despesas com pessoal;R$ 510,00;Cheque; -  -  / 11432 - VANILDO GUARNIER LIMA - DF - Deputado Distrital;
+WILKER MARTINS MARANHÃO;693.785.331-91;30/09/2010;       Despesas com pessoal;R$ 508,00;Transferência eletrônica; -  -  / 11432 - VANILDO GUARNIER LIMA - DF - Deputado Distrital;
+WILKER MARTINS MARANHÃO;693.785.331-91;30/09/2010;       Despesas com pessoal;R$ 510,00;Cheque; -  -  / 11432 - VANILDO GUARNIER LIMA - DF - Deputado Distrital;
+;;30/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,00;Débito em conta; -  -  / 11432 - VANILDO GUARNIER LIMA - DF - Deputado Distrital;
+;;06/10/2010;       Encargos financeiros e taxas bancárias;R$ 14,00;Débito em conta; -  -  / 11432 - VANILDO GUARNIER LIMA - DF - Deputado Distrital;

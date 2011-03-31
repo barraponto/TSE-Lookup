@@ -1,2 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOÃO CARLOS CHAVES DE OLIVEIRA;809.843.711-68;30/08/2010;19000035081;R$ 610,00;Depósito em espécie;JOAO CARLOS CHAVES DE OLIVEIRA;19123;Deputado Estadual;PTN;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO SANTA FÉ LTDA;83.322.412/0001-75;27/08/2010;       Combustíveis e lubrificantes;R$ 603,00;Cheque; -  -  / 19123 - JOAO CARLOS CHAVES DE OLIVEIRA - PA - Deputado Estadual;
+RONIGLEY SILVA MARANHAO ALVES;686.154.422-15;28/09/2010;       Serviços prestados por terceiros;R$ 6,30;Cheque; -  -  / 19123 - JOAO CARLOS CHAVES DE OLIVEIRA - PA - Deputado Estadual;
+;;23/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 19123 - JOAO CARLOS CHAVES DE OLIVEIRA - PA - Deputado Estadual;
+;;29/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 19123 - JOAO CARLOS CHAVES DE OLIVEIRA - PA - Deputado Estadual;

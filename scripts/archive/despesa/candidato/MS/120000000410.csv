@@ -1,6 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.578/0001-51;19/08/2010;43001890953;R$ 627,00;Estimado;SILVIA BONTEMPO;43013;Deputado Estadual;PV;MS;
-Comitê Financeiro Único;12.191.578/0001-51;19/08/2010;43001890954;R$ 413,08;Estimado;SILVIA BONTEMPO;43013;Deputado Estadual;PV;MS;
-Comitê Financeiro Único;12.191.578/0001-51;19/08/2010;43001890955;R$ 130,00;Estimado;SILVIA BONTEMPO;43013;Deputado Estadual;PV;MS;
-DELCIDIO DO AMARAL GOMES;12.167.861/0001-48;09/09/2010;43001890951;R$ 160,00;Estimado;SILVIA BONTEMPO;43013;Deputado Estadual;PV;MS;
-JOSE ORCIRIO MIRANDA DOS SANTOS;12.189.573/0001-94;21/09/2010;43001890952;R$ 4.000,00;Cheque;SILVIA BONTEMPO;43013;Deputado Estadual;PV;MS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.578/0001-51;19/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 130,00;Estimado;Comitê Financeiro Único - PT -  / 43013 - SILVIA BONTEMPO - MS - Deputado Estadual;
+Comitê Financeiro Único;12.191.578/0001-51;19/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 627,00;Estimado;Comitê Financeiro Único - PT -  / 43013 - SILVIA BONTEMPO - MS - Deputado Estadual;
+Comitê Financeiro Único;12.191.578/0001-51;19/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 413,08;Estimado;Comitê Financeiro Único - PT -  / 43013 - SILVIA BONTEMPO - MS - Deputado Estadual;
+DELCIDIO DO AMARAL GOMES;12.167.861/0001-48;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 160,00;Estimado;138 -  - PT -  - Senador / 43013 - SILVIA BONTEMPO - MS - Deputado Estadual;
+LUIS CARLOS MULLER P. DE AZEVEDO;250.198.641-53;27/09/2010;       Despesas com pessoal;R$ 2.000,00;Cheque; -  -  / 43013 - SILVIA BONTEMPO - MS - Deputado Estadual;
+LUSENY ALVES DOS SANTOS;356.537.791-72;27/09/2010;       Despesas com pessoal;R$ 2.000,00;Cheque; -  -  / 43013 - SILVIA BONTEMPO - MS - Deputado Estadual;

@@ -1,7 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO RAFAEL DA SILVA JUNIOR;698.124.541-87;01/10/2010;11000095287;R$ 600,00;Estimado;LUCILENE MARQUES FERREIRA DA SILVA;11415;Deputado Distrital;PP;DF;
-BENEDITO AUGUSTO DOMINGOS;12.203.737/0001-90;09/08/2010;11000095281;R$ 360,00;Estimado;LUCILENE MARQUES FERREIRA DA SILVA;11415;Deputado Distrital;PP;DF;
-BENEDITO AUGUSTO DOMINGOS;12.203.737/0001-90;16/08/2010;11000095282;R$ 360,00;Estimado;LUCILENE MARQUES FERREIRA DA SILVA;11415;Deputado Distrital;PP;DF;
-Comitê Financeiro Único;12.205.256/0001-14;10/09/2010;11000095285;R$ 1.530,00;Transferência eletrônica;LUCILENE MARQUES FERREIRA DA SILVA;11415;Deputado Distrital;PP;DF;
-Comitê Financeiro Único;12.205.256/0001-14;04/10/2010;11000095286;R$ 1.530,00;Cheque;LUCILENE MARQUES FERREIRA DA SILVA;11415;Deputado Distrital;PP;DF;
-FLÁVIO MARQUES FERREIRA;351.439.081-91;01/10/2010;11000095288;R$ 500,00;Estimado;LUCILENE MARQUES FERREIRA DA SILVA;11415;Deputado Distrital;PP;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO RAFAEL DA SILVA JUNIOR;698.124.541-87;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado; -  -  / 11415 - LUCILENE MARQUES FERREIRA DA SILVA - DF - Deputado Distrital;
+BENEDITO AUGUSTO DOMINGOS;12.203.737/0001-90;09/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;11234 -  - PP -  - Deputado Distrital / 11415 - LUCILENE MARQUES FERREIRA DA SILVA - DF - Deputado Distrital;
+BENEDITO AUGUSTO DOMINGOS;12.203.737/0001-90;16/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;11234 -  - PP -  - Deputado Distrital / 11415 - LUCILENE MARQUES FERREIRA DA SILVA - DF - Deputado Distrital;
+DAIANE GOMES DE SIQUEIRA;015.326.071-80;01/10/2010;       Despesas com pessoal;R$ 960,23;Cheque; -  -  / 11415 - LUCILENE MARQUES FERREIRA DA SILVA - DF - Deputado Distrital;
+FLÁVIO MARQUES FERREIRA;351.439.081-91;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 11415 - LUCILENE MARQUES FERREIRA DA SILVA - DF - Deputado Distrital;
+GLOBAL VILLAGE TELECOM LTDA;03.420.926/0011-04;23/09/2010;       Telefone;R$ 571,77;Cheque; -  -  / 11415 - LUCILENE MARQUES FERREIRA DA SILVA - DF - Deputado Distrital;
+PM DE ARAUJO INFORMATICA PAPELARIA IMP E EXP LTDA;08.476.317/0001-00;13/09/2010;       Publicidade por placas, estandartes e faixas;R$ 1.500,00;Cheque; -  -  / 11415 - LUCILENE MARQUES FERREIRA DA SILVA - DF - Deputado Distrital;
+;;10/09/2010;       Encargos financeiros e taxas bancárias;R$ 28,00;Débito em conta; -  -  / 11415 - LUCILENE MARQUES FERREIRA DA SILVA - DF - Deputado Distrital;

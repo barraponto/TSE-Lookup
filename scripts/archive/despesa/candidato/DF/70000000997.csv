@@ -1,4 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 RODRIGO ROLLEMBERG SENADOR;12.173.922/0001-80;20/09/2010;40002142103;R$ 2.000,00;Cheque;MARIA ANGELICA BRITO MACHADO SANTOS;4040;Deputado Federal;PSB;DF;
-RODRIGO ROLLEMBERG;12.173.922/0001-80;05/08/2010;40002142101;R$ 850,00;Estimado;MARIA ANGELICA BRITO MACHADO SANTOS;4040;Deputado Federal;PSB;DF;
-ROLLLEMBERG;12.173.922/0001-80;30/09/2010;40002143000;R$ 422,44;Estimado;MARIA ANGELICA BRITO MACHADO SANTOS;4040;Deputado Federal;PSB;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA ALÊ;00.571.343/0001-06;28/09/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 4040 - MARIA ANGELICA BRITO MACHADO SANTOS - DF - Deputado Federal;
+GRAFICA ALÊ;00.571.343/0001-06;25/09/2010;       Publicidade por materiais impressos;R$ 1.800,00;Cheque; -  -  / 4040 - MARIA ANGELICA BRITO MACHADO SANTOS - DF - Deputado Federal;
+RODRIGO ROLLEMBERG;12.173.922/0001-80;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 850,00;Estimado;400 -  - PSB -  - Senador / 4040 - MARIA ANGELICA BRITO MACHADO SANTOS - DF - Deputado Federal;
+ROLLLEMBERG;12.173.922/0001-80;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 422,44;Estimado;400 -  - PSB -  - Senador / 4040 - MARIA ANGELICA BRITO MACHADO SANTOS - DF - Deputado Federal;

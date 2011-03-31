@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSÉ MARANHÃO;12.189.345/0001-14;30/08/2010;17000010576;R$ 300,00;Estimado;GEUDE OLIVEIRA DO NASCIMENTO;1711;Deputado Federal;PSL;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JOSÉ MARANHÃO;12.189.345/0001-14;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;15 -  - PMDB -  - Governador / 1711 - GEUDE OLIVEIRA DO NASCIMENTO - PB - Deputado Federal;

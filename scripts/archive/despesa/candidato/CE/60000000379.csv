@@ -1,4 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Deputado Federal;12.200.080/0001-08;25/08/2010;45000195353;R$ 1.200,00;Estimado;JOÃO BATISTA GOMES MOTA;4512;Deputado Federal;PSDB;CE;
-JOAO BATISTA GOMES MOTA;391.417.483-87;30/09/2010;45000195352;R$ 2.200,00;Depósito em espécie;JOÃO BATISTA GOMES MOTA;4512;Deputado Federal;PSDB;CE;
-JOAO BATISTA GOMES MOTA;391.417.483-87;22/09/2010;45000195351;R$ 490,00;Depósito em espécie;JOÃO BATISTA GOMES MOTA;4512;Deputado Federal;PSDB;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANA AMELIA DE ALENCAR MACEDO;07.519.445/0001-21;26/09/2010;       Publicidade por materiais impressos;R$ 1.200,00;Cheque; -  -  / 4512 - JOÃO BATISTA GOMES MOTA - CE - Deputado Federal;
+ANA AMELIA DE ALENCAR MACEDO;07.519.445/0001-21;21/09/2010;       Publicidade por materiais impressos;R$ 480,00;Cheque; -  -  / 4512 - JOÃO BATISTA GOMES MOTA - CE - Deputado Federal;
+Comitê Financeiro Estadual/Distrital para Deputado Federal;12.200.080/0001-08;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.200,00;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Federal - PSDB -  / 4512 - JOÃO BATISTA GOMES MOTA - CE - Deputado Federal;
+ORGANICAÇAO MELO INDUSTRIA DE ESQUADRIAS;08.160.320/0001-10;15/09/2010;       Publicidade por placas, estandartes e faixas;R$ 962,70;Cheque; -  -  / 4512 - JOÃO BATISTA GOMES MOTA - CE - Deputado Federal;
+;;24/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 4512 - JOÃO BATISTA GOMES MOTA - CE - Deputado Federal;
+;;04/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 4512 - JOÃO BATISTA GOMES MOTA - CE - Deputado Federal;
+;;05/10/2010;       Encargos financeiros e taxas bancárias;R$ 37,45;Débito em conta; -  -  / 4512 - JOÃO BATISTA GOMES MOTA - CE - Deputado Federal;
+;;20/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 4512 - JOÃO BATISTA GOMES MOTA - CE - Deputado Federal;

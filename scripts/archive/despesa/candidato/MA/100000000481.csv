@@ -1,4 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSE LEONALDO DA SILVA;024.337.604-96;16/08/2010;10000073818;R$ 600,00;Depósito em espécie;JOSE LEONALDO DA SILVA;10234;Deputado Estadual;PRB;MA;
-JOSE LEONALDO DA SILVA;024.337.604-96;12/09/2010;10000073820;R$ 500,00;Estimado;JOSE LEONALDO DA SILVA;10234;Deputado Estadual;PRB;MA;
-JOSE LEONALDO DA SILVA;024.337.604-96;17/08/2010;10000073819;R$ 100,00;Depósito em espécie;JOSE LEONALDO DA SILVA;10234;Deputado Estadual;PRB;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA SANTA CLARA LTDA-ME;11.783.446/0001-56;18/08/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 10234 - JOSE LEONALDO DA SILVA - MA - Deputado Estadual;
+JOSE LEONALDO DA SILVA;024.337.604-96;12/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 10234 - JOSE LEONALDO DA SILVA - MA - Deputado Estadual;
+POSTO AMERICANO LTDA;23.706.245/0001-34;13/09/2010;       Combustíveis e lubrificantes;R$ 290,00;Cheque; -  -  / 10234 - JOSE LEONALDO DA SILVA - MA - Deputado Estadual;
+;;28/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 10234 - JOSE LEONALDO DA SILVA - MA - Deputado Estadual;
+;;29/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 10234 - JOSE LEONALDO DA SILVA - MA - Deputado Estadual;

@@ -1,4 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.154.851/0001-78;15/09/2010;36000006502;R$ 1.180,00;Estimado;RAIMUNDO INÁCIO MOREIRA;36007;Deputado Estadual;PTC;MG;
-DIOGENES GONÇALVES FANTINI;12.173.197/0001-40;10/09/2010;36000006501;R$ 2.000,00;Cheque;RAIMUNDO INÁCIO MOREIRA;36007;Deputado Estadual;PTC;MG;
-PABLO CESAR DE SOUZA;12.189.587/0001-08;28/09/2010;36000006503;R$ 225,00;Estimado;RAIMUNDO INÁCIO MOREIRA;36007;Deputado Estadual;PTC;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADRIANA ROBERTO DA SILVA;030.399.816-41;20/09/2010;       Serviços prestados por terceiros;R$ 300,00;Não informado; -  -  / 36007 - RAIMUNDO INÁCIO MOREIRA - MG - Deputado Estadual;
+ANA PAULA DE LINS;030.901.946-00;20/09/2010;       Serviços prestados por terceiros;R$ 300,00;Não informado; -  -  / 36007 - RAIMUNDO INÁCIO MOREIRA - MG - Deputado Estadual;
+ANA PAULO D NEVES;015.860.156-48;20/09/2010;       Serviços prestados por terceiros;R$ 300,00;Não informado; -  -  / 36007 - RAIMUNDO INÁCIO MOREIRA - MG - Deputado Estadual;
+Comitê Financeiro Único;12.154.851/0001-78;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.180,00;Estimado;Comitê Financeiro Único - PT do B -  / 36007 - RAIMUNDO INÁCIO MOREIRA - MG - Deputado Estadual;
+JOSE CLAUDIO DA SILVA;031.579.736-30;20/09/2010;       Publicidade por carros de som;R$ 703,00;Não informado; -  -  / 36007 - RAIMUNDO INÁCIO MOREIRA - MG - Deputado Estadual;
+MC EDITORACAO COMUNICACAO E IMPRESSOS DIGITAIS LTDA - ME;05.942.795/0001-70;21/09/2010;       Produção de jingles, vinhetas e slogans;R$ 30,00;Não informado; -  -  / 36007 - RAIMUNDO INÁCIO MOREIRA - MG - Deputado Estadual;
+MC EDITORACAO COMUNICACAO E IMPRESSOS DIGITAIS LTDA - ME;05.942.795/0001-70;18/09/2010;       Produção de jingles, vinhetas e slogans;R$ 130,00;Não informado; -  -  / 36007 - RAIMUNDO INÁCIO MOREIRA - MG - Deputado Estadual;
+MG GRAF LTDA ME;08.855.644/0001-73;21/09/2010;       Publicidade por materiais impressos;R$ 230,00;Não informado; -  -  / 36007 - RAIMUNDO INÁCIO MOREIRA - MG - Deputado Estadual;
+PABLO CESAR DE SOUZA;12.189.587/0001-08;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 225,00;Estimado;3600 -  - PTC -  - Deputado Federal / 36007 - RAIMUNDO INÁCIO MOREIRA - MG - Deputado Estadual;

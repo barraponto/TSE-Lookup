@@ -1,4 +1,14 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DELCIDIO DO AMARAL GOMES;12.167.861/0001-48;08/09/2010;43000090901;R$ 160,00;Estimado;JOÃO ANTONIO RIBEIRO;43431;Deputado Estadual;PV;MS;
-JOSE ORCIRIO M SANTOS;12.189.573/0001-94;01/10/2010;43000090904;R$ 2.000,00;Cheque;JOÃO ANTONIO RIBEIRO;43431;Deputado Estadual;PV;MS;
-JOSE ORCIRIO M.SANTOS;12.189.573/0001-94;20/09/2010;43000090903;R$ 4.000,00;Cheque;JOÃO ANTONIO RIBEIRO;43431;Deputado Estadual;PV;MS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO JAIME CORREA - ME;11.593.190/0001-14;22/09/2010;       Publicidade por materiais impressos;R$ 597,45;Cheque; -  -  / 43431 - JOÃO ANTONIO RIBEIRO - MS - Deputado Estadual;
+CLAUDIA FERRAZ DO AMARAL;475.323.601-30;01/10/2010;       Despesas com pessoal;R$ 2.000,00;Cheque; -  -  / 43431 - JOÃO ANTONIO RIBEIRO - MS - Deputado Estadual;
+CLAUDIA FERRAZ DO AMARAL;475.323.601-30;22/09/2010;       Cessão ou Locação de Veículos;R$ 2.800,00;Cheque; -  -  / 43431 - JOÃO ANTONIO RIBEIRO - MS - Deputado Estadual;
+CORVALAN & PADOVANI LTDA - ME;08.374.561/0001-62;20/08/2010;       Publicidade por materiais impressos;R$ 130,00;Cheque; -  -  / 43431 - JOÃO ANTONIO RIBEIRO - MS - Deputado Estadual;
+CORVALAN & PADOVANI LTDA - ME;08.374.561/0001-62;25/08/2010;       Publicidade por materiais impressos;R$ 100,00;Cheque; -  -  / 43431 - JOÃO ANTONIO RIBEIRO - MS - Deputado Estadual;
+DELCIDIO DO AMARAL GOMES;12.167.861/0001-48;08/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 160,00;Estimado;138 -  - PT -  - Senador / 43431 - JOÃO ANTONIO RIBEIRO - MS - Deputado Estadual;
+POSTO FRANCA LTDA;03.762.574/0001-95;17/09/2010;       Combustíveis e lubrificantes;R$ 58,51;Cheque; -  -  / 43431 - JOÃO ANTONIO RIBEIRO - MS - Deputado Estadual;
+POSTO FRANCA LTDA;03.762.574/0001-95;12/08/2010;       Combustíveis e lubrificantes;R$ 50,01;Cheque; -  -  / 43431 - JOÃO ANTONIO RIBEIRO - MS - Deputado Estadual;
+POSTO FRANCA LTDA;03.762.574/0001-95;26/09/2010;       Combustíveis e lubrificantes;R$ 68,02;Cheque; -  -  / 43431 - JOÃO ANTONIO RIBEIRO - MS - Deputado Estadual;
+POSTO FRANCA LTDA;03.762.574/0001-95;24/09/2010;       Combustíveis e lubrificantes;R$ 41,06;Cheque; -  -  / 43431 - JOÃO ANTONIO RIBEIRO - MS - Deputado Estadual;
+POSTO LIBERDADE LOCATELLI LTDA;02.394.473/0001-46;25/08/2010;       Combustíveis e lubrificantes;R$ 59,02;Cheque; -  -  / 43431 - JOÃO ANTONIO RIBEIRO - MS - Deputado Estadual;
+POSTO LIBERDADE LOCATELLI LTDA;02.394.473/0001-46;29/07/2010;       Combustíveis e lubrificantes;R$ 47,00;Cheque; -  -  / 43431 - JOÃO ANTONIO RIBEIRO - MS - Deputado Estadual;
+POSTO LIBERDADE LOCATELLI LTDA;02.394.473/0001-46;05/09/2010;       Combustíveis e lubrificantes;R$ 48,93;Cheque; -  -  / 43431 - JOÃO ANTONIO RIBEIRO - MS - Deputado Estadual;

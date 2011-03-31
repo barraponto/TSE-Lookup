@@ -1,4 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FERNANDO ANTÔNIO MARTINS CARNEIRO;12.198.699/0001-25;28/09/2010;50000287253;R$ 200,00;Estimado;JOSÉ JUNATAS DA COSTA;5056;Deputado Federal;PSOL;PA;
-JOSÉ JUNATAS DA COSTA;395.294.014-34;18/08/2010;50000287251;R$ 100,00;Depósito em espécie;JOSÉ JUNATAS DA COSTA;5056;Deputado Federal;PSOL;PA;
-JOSÉ JUNATAS DA COSTA;395.294.014-34;02/09/2010;50000287252;R$ 200,00;Depósito em espécie;JOSÉ JUNATAS DA COSTA;5056;Deputado Federal;PSOL;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+C. K. ART BANNER SERVIÇOS E COMÉRCIOS LTDA;06.227.304/0001-72;20/08/2010;       Publicidade por materiais impressos;R$ 50,00;Cheque; -  -  / 5056 - JOSÉ JUNATAS DA COSTA - PA - Deputado Federal;
+C. K. ART BANNER SERVIÇOS E COMÉRCIOS LTDA;06.227.304/0001-72;05/09/2010;       Publicidade por materiais impressos;R$ 40,00;Cheque; -  -  / 5056 - JOSÉ JUNATAS DA COSTA - PA - Deputado Federal;
+FERNANDO ANTÔNIO MARTINS CARNEIRO;12.198.699/0001-25;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;50 -  - PSOL -  - Governador / 5056 - JOSÉ JUNATAS DA COSTA - PA - Deputado Federal;
+GRÁFICA E EDITORA LUANNY;631.490.602-49;05/09/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 5056 - JOSÉ JUNATAS DA COSTA - PA - Deputado Federal;

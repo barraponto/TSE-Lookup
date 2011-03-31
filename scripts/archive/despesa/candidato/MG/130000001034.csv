@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOAO VITOR XAVIER FAUSTINO;12.198.239/0001-05;29/09/2010;28000604802;R$ 98,50;Estimado;CARLOS EUSTAQUIO MOREIRA FERNANDES;2899;Deputado Federal;PRTB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JOAO VITOR XAVIER FAUSTINO;12.198.239/0001-05;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 98,50;Estimado;44200 -  - PRP -  - Deputado Estadual / 2899 - CARLOS EUSTAQUIO MOREIRA FERNANDES - MG - Deputado Federal;

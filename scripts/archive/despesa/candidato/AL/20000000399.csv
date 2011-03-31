@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.235.330/0001-45;18/08/2010;43001903722;R$ 484,00;Estimado;LUCIANA FONSECA OLIVEIRA;43555;Deputado Estadual;PV;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.235.330/0001-45;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 484,00;Estimado;Comitê Financeiro Único - PV -  / 43555 - LUCIANA FONSECA OLIVEIRA - AL - Deputado Estadual;

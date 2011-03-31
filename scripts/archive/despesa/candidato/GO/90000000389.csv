@@ -1,6 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ATACADISTA DE MOVEIS BRASIL LTDA;03.746.163/0001-06;02/08/2010;43001798571;R$ 1.000,00;Depósito em espécie;PEDRO SILVERIO PEREIRA;4300;Deputado Federal;PV;GO;
-ATACADISTA DE MOVEIS BRASIL LTDA;03.746.163/0001-06;06/08/2010;43001798574;R$ 3.000,00;Depósito em espécie;PEDRO SILVERIO PEREIRA;4300;Deputado Federal;PV;GO;
-ATACADISTA DE MOVEIS BRASIL LTDA;03.746.163/0001-06;02/09/2010;43001798575;R$ 5.000,00;Depósito em espécie;PEDRO SILVERIO PEREIRA;4300;Deputado Federal;PV;GO;
-PEDRO A. SILVEIRA LOBOMENDONÇA;014.627.141-61;30/09/2010;43001798576;R$ 4.600,00;Estimado;PEDRO SILVERIO PEREIRA;4300;Deputado Federal;PV;GO;
-VANDERLAN VIEIRA CARDOSO;12.198.568/0001-48;10/08/2010;43001798573;R$ 500,00;Estimado;PEDRO SILVERIO PEREIRA;4300;Deputado Federal;PV;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALANO ARAUJO LACERDA FILHO;375.196.701-04;01/08/2010;       Publicidade por carros de som;R$ 2.125,00;Cheque; -  -  / 4300 - PEDRO SILVERIO PEREIRA - GO - Deputado Federal;
+ASA EDITORA GRAFICA LTDA;04.291.883/0001-97;22/09/2010;       Publicidade por materiais impressos;R$ 800,00;Cheque; -  -  / 4300 - PEDRO SILVERIO PEREIRA - GO - Deputado Federal;
+GAM - GRAFICA E EDITORA LTDA;07.452.026/0001-10;30/07/2010;       Publicidade por materiais impressos;R$ 700,00;Cheque; -  -  / 4300 - PEDRO SILVERIO PEREIRA - GO - Deputado Federal;
+GAM - GRAFICA E EDITORA LTDA;07.452.026/0001-10;30/07/2010;       Publicidade por materiais impressos;R$ 700,00;Cheque; -  -  / 4300 - PEDRO SILVERIO PEREIRA - GO - Deputado Federal;
+GEOZAFA PROCOPIO DOS SANTOS;261.846.641-15;21/09/2010;       Despesas com pessoal;R$ 1.390,00;Cheque; -  -  / 4300 - PEDRO SILVERIO PEREIRA - GO - Deputado Federal;
+GOMES E MARINHO COMERCIAL LTDA;09.599.666/0001-82;30/09/2010;       Diversas a especificar;R$ 0,90;Cheque; -  -  / 4300 - PEDRO SILVERIO PEREIRA - GO - Deputado Federal;
+PEDRO A. SILVEIRA LOBOMENDONÇA;014.627.141-61;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.600,00;Estimado; -  -  / 4300 - PEDRO SILVERIO PEREIRA - GO - Deputado Federal;
+PINTA CORES LTDA;08.254.752/0001-90;02/09/2010;       Publicidade por materiais impressos;R$ 872,50;Cheque; -  -  / 4300 - PEDRO SILVERIO PEREIRA - GO - Deputado Federal;
+VANDERLAN VIEIRA CARDOSO;12.198.568/0001-48;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;22 -  - PR -  - Governador / 4300 - PEDRO SILVERIO PEREIRA - GO - Deputado Federal;
+WELLINGTON VIEIRA ALVES;002.085.481-14;21/09/2010;       Despesas com pessoal;R$ 2.400,00;Cheque; -  -  / 4300 - PEDRO SILVERIO PEREIRA - GO - Deputado Federal;
+;;20/10/2010;       Encargos financeiros e taxas bancárias;R$ 11,60;Débito em conta; -  -  / 4300 - PEDRO SILVERIO PEREIRA - GO - Deputado Federal;

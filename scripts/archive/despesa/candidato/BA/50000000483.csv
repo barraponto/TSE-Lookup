@@ -1,5 +1,13 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO MOREIRA DE MATOS;129.607.305-00;02/08/2010;44000006601;R$ 300,00;Depósito em espécie;ANTONIO MOREIRA DE MATOS;44540;Deputado Estadual;PRP;BA;
-ANTONIO MOREIRA DE MATOS;129.607.305-00;02/09/2010;44000006605;R$ 420,00;Depósito em espécie;ANTONIO MOREIRA DE MATOS;44540;Deputado Estadual;PRP;BA;
-ANTONIO MOREIRA DE MATOS;129.607.305-00;23/08/2010;44000006603;R$ 550,00;Depósito em espécie;ANTONIO MOREIRA DE MATOS;44540;Deputado Estadual;PRP;BA;
-ANTONIO MOREIRA DE MATOS;129.607.305-00;12/08/2010;44000006602;R$ 10,00;Depósito em espécie;ANTONIO MOREIRA DE MATOS;44540;Deputado Estadual;PRP;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CLERISTON FIAIS DOS SANTOS;01.876.818/0001-35;02/09/2010;       Serviços prestados por terceiros;R$ 400,00;Cheque; -  -  / 44540 - ANTONIO MOREIRA DE MATOS - BA - Deputado Estadual;
+CLERISTON FIAIS DOS SANTOS;01.876.818/0001-35;23/08/2010;       Publicidade por carros de som;R$ 250,00;Cheque; -  -  / 44540 - ANTONIO MOREIRA DE MATOS - BA - Deputado Estadual;
+TRACO 2 IMPRESSÔES LTDA;08.826.330/0001-42;12/08/2010;       Publicidade por carros de som;R$ 574,00;Cheque; -  -  / 44540 - ANTONIO MOREIRA DE MATOS - BA - Deputado Estadual;
+;;04/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 44540 - ANTONIO MOREIRA DE MATOS - BA - Deputado Estadual;
+;;09/08/2010;       Encargos financeiros e taxas bancárias;R$ 6,00;Débito em conta; -  -  / 44540 - ANTONIO MOREIRA DE MATOS - BA - Deputado Estadual;
+;;14/09/2010;       Impostos, contribuições e taxas;R$ 0,35;Débito em conta; -  -  / 44540 - ANTONIO MOREIRA DE MATOS - BA - Deputado Estadual;
+;;16/08/2010;       Encargos financeiros e taxas bancárias;R$ 1,10;Débito em conta; -  -  / 44540 - ANTONIO MOREIRA DE MATOS - BA - Deputado Estadual;
+;;26/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 44540 - ANTONIO MOREIRA DE MATOS - BA - Deputado Estadual;
+;;30/08/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 44540 - ANTONIO MOREIRA DE MATOS - BA - Deputado Estadual;
+;;25/08/2010;       Encargos financeiros e taxas bancárias;R$ 5,80;Débito em conta; -  -  / 44540 - ANTONIO MOREIRA DE MATOS - BA - Deputado Estadual;
+;;02/09/2010;       Impostos, contribuições e taxas;R$ 25,00;Débito em conta; -  -  / 44540 - ANTONIO MOREIRA DE MATOS - BA - Deputado Estadual;
+;;23/08/2010;       Encargos financeiros e taxas bancárias;R$ 1,80;Débito em conta; -  -  / 44540 - ANTONIO MOREIRA DE MATOS - BA - Deputado Estadual;

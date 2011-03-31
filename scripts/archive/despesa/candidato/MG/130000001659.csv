@@ -1,7 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALEXANDER NASARIO MORAES;043.814.806-19;19/07/2010;13000686546;R$ 10,00;Depósito em espécie;ALEXANDER NASARIO MORAES;13580;Deputado Estadual;PT;MG;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.205.318/0001-98;07/10/2010;13000686545;R$ 600,00;Estimado;ALEXANDER NASARIO MORAES;13580;Deputado Estadual;PT;MG;
-HELIO CALIXTO COSTA;12.189.609/0001-30;17/09/2010;13000686544;R$ 143,10;Estimado;ALEXANDER NASARIO MORAES;13580;Deputado Estadual;PT;MG;
-HÉLIO CALIXTO COSTA;12.189.609/0001-30;10/08/2010;13000686542;R$ 300,00;Estimado;ALEXANDER NASARIO MORAES;13580;Deputado Estadual;PT;MG;
-HÉLIO CALIXTO DA COSTA;12.189.609/0001-30;17/09/2010;13000686543;R$ 68,40;Estimado;ALEXANDER NASARIO MORAES;13580;Deputado Estadual;PT;MG;
-MAURO DO PRADO GUIMARÃES;316.311.696-53;10/08/2010;13000686541;R$ 300,00;Estimado;ALEXANDER NASARIO MORAES;13580;Deputado Estadual;PT;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.205.318/0001-98;07/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual - PT -  / 13580 - ALEXANDER NASARIO MORAES - MG - Deputado Estadual;
+HELIO CALIXTO COSTA;12.189.609/0001-30;17/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 143,10;Estimado;15 -  - PMDB -  - Governador / 13580 - ALEXANDER NASARIO MORAES - MG - Deputado Estadual;
+HÉLIO CALIXTO COSTA;12.189.609/0001-30;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;15 -  - PMDB -  - Governador / 13580 - ALEXANDER NASARIO MORAES - MG - Deputado Estadual;
+HÉLIO CALIXTO DA COSTA;12.189.609/0001-30;17/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 68,40;Estimado;15 -  - PMDB -  - Governador / 13580 - ALEXANDER NASARIO MORAES - MG - Deputado Estadual;
+MAURO DO PRADO GUIMARÃES;316.311.696-53;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 13580 - ALEXANDER NASARIO MORAES - MG - Deputado Estadual;

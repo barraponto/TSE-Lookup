@@ -1,3 +1,14 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CELSO AGRAS;761.319.558-91;19/08/2010;13000871902;R$ 5.900,00;Transferência eletrônica;CELSO AGRA;13959;Deputado Estadual;PT;RJ;
-Comitê Financeiro Único;12.200.171/0001-43;30/09/2010;13000871901;R$ 750,00;Estimado;CELSO AGRA;13959;Deputado Estadual;PT;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ASNITT ASSOCIAÇÃO NITEROIENSE DE TÁXI;08.586.399/0001-46;26/09/2010;       Serviços prestados por terceiros;R$ 280,00;Cheque; -  -  / 13959 - CELSO AGRA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.200.171/0001-43;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 750,00;Estimado;Comitê Financeiro Único - PT -  / 13959 - CELSO AGRA - RJ - Deputado Estadual;
+FLAVIO AUGUSTO;093.257.427-05;27/09/2010;       Despesas com pessoal;R$ 1.600,00;Cheque; -  -  / 13959 - CELSO AGRA - RJ - Deputado Estadual;
+NITEROIENSE COPIADORA LTDA ME;07.116.101/0001-71;24/09/2010;       Diversas a especificar;R$ 140,00;Cheque; -  -  / 13959 - CELSO AGRA - RJ - Deputado Estadual;
+NITEROIENSE COPIADORA LTDA ME;07.116.101/0001-71;01/10/2010;       Diversas a especificar;R$ 140,00;Cheque; -  -  / 13959 - CELSO AGRA - RJ - Deputado Estadual;
+NITEROIENSE COPIADORA LTDA ME;07.116.101/0001-71;29/09/2010;       Diversas a especificar;R$ 140,00;Cheque; -  -  / 13959 - CELSO AGRA - RJ - Deputado Estadual;
+NITEROIENSE COPIADORA LTDA ME;07.116.101/0001-71;20/09/2010;       Diversas a especificar;R$ 280,00;Cheque; -  -  / 13959 - CELSO AGRA - RJ - Deputado Estadual;
+NITEROIENSE COPIADORA LTDA ME;07.116.101/0001-71;18/09/2010;       Diversas a especificar;R$ 280,00;Cheque; -  -  / 13959 - CELSO AGRA - RJ - Deputado Estadual;
+NITEROIENSE COPIADORA LTDA ME;07.116.101/0001-71;01/10/2010;       Diversas a especificar;R$ 175,00;Cheque; -  -  / 13959 - CELSO AGRA - RJ - Deputado Estadual;
+NITEROIENSE COPIADORA LTDA ME;07.116.101/0001-71;27/08/2010;       Diversas a especificar;R$ 450,00;Cheque; -  -  / 13959 - CELSO AGRA - RJ - Deputado Estadual;
+PASSAKI BAR E LANCHONETE LTDA;09.124.803/0001-22;27/08/2010;       Alimentação;R$ 63,00;Cheque; -  -  / 13959 - CELSO AGRA - RJ - Deputado Estadual;
+PEDRO PAULO;618.169.907-44;01/09/2010;       Despesas com pessoal;R$ 400,00;Cheque; -  -  / 13959 - CELSO AGRA - RJ - Deputado Estadual;
+VIVO S/A;02.449.992/0056-38;02/09/2010;       Telefone;R$ 370,69;Cheque; -  -  / 13959 - CELSO AGRA - RJ - Deputado Estadual;

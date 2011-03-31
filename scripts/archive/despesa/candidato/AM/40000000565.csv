@@ -1,9 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.172/0001-98;03/09/2010;43001903201;R$ 3.200,00;Estimado;OLINDA PEREIRA DE MATTOS;43603;Deputado Estadual;PV;AM;
-Comitê Financeiro Único;12.229.930/0001-09;01/09/2010;43001903197;R$ 258,70;Estimado;OLINDA PEREIRA DE MATTOS;43603;Deputado Estadual;PV;AM;
-Comitê Financeiro Único;12.229.930/0001-09;01/09/2010;43001903196;R$ 170,00;Estimado;OLINDA PEREIRA DE MATTOS;43603;Deputado Estadual;PV;AM;
-ISAAC PEREIRA DE MATTOS;417.865.052-15;01/09/2010;43001903202;R$ 510,00;Estimado;OLINDA PEREIRA DE MATTOS;43603;Deputado Estadual;PV;AM;
-LEA FERREIRA DE JESUS;343.709.432-72;01/09/2010;43001903199;R$ 510,00;Estimado;OLINDA PEREIRA DE MATTOS;43603;Deputado Estadual;PV;AM;
-PAULA REGINA DE MATTOS FERREIRA;573.267.972-34;01/09/2010;43001903203;R$ 510,00;Estimado;OLINDA PEREIRA DE MATTOS;43603;Deputado Estadual;PV;AM;
-SILMARA MARQUES DE CARVALHO;320.899.022-72;01/09/2010;43001903198;R$ 510,00;Estimado;OLINDA PEREIRA DE MATTOS;43603;Deputado Estadual;PV;AM;
-SILVANA FERREIRA DE JESUS;437.105.302-53;01/09/2010;43001903200;R$ 510,00;Estimado;OLINDA PEREIRA DE MATTOS;43603;Deputado Estadual;PV;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.229.930/0001-09;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 258,70;Estimado;Comitê Financeiro Único - PV -  / 43603 - OLINDA PEREIRA DE MATTOS - AM - Deputado Estadual;
+Comitê Financeiro Único;12.229.930/0001-09;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 170,00;Estimado;Comitê Financeiro Único - PV -  / 43603 - OLINDA PEREIRA DE MATTOS - AM - Deputado Estadual;
+Comitê Financeiro Único;12.200.172/0001-98;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.200,00;Estimado;Comitê Financeiro Único - PSDB -  / 43603 - OLINDA PEREIRA DE MATTOS - AM - Deputado Estadual;
+ISAAC PEREIRA DE MATTOS;417.865.052-15;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 510,00;Estimado; -  -  / 43603 - OLINDA PEREIRA DE MATTOS - AM - Deputado Estadual;
+LEA FERREIRA DE JESUS;343.709.432-72;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 510,00;Estimado; -  -  / 43603 - OLINDA PEREIRA DE MATTOS - AM - Deputado Estadual;
+PAULA REGINA DE MATTOS FERREIRA;573.267.972-34;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 510,00;Estimado; -  -  / 43603 - OLINDA PEREIRA DE MATTOS - AM - Deputado Estadual;
+SILMARA MARQUES DE CARVALHO;320.899.022-72;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 510,00;Estimado; -  -  / 43603 - OLINDA PEREIRA DE MATTOS - AM - Deputado Estadual;
+SILVANA FERREIRA DE JESUS;437.105.302-53;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 510,00;Estimado; -  -  / 43603 - OLINDA PEREIRA DE MATTOS - AM - Deputado Estadual;

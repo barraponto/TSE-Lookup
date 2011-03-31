@@ -1,6 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.154.851/0001-78;01/09/2010;44000038702;R$ 590,00;Estimado;RUBENS SOARES DA ROCHA;4444;Deputado Federal;PRP;MG;
-Comitê Financeiro Único;12.154.851/0001-78;05/08/2010;44000038701;R$ 590,00;Estimado;RUBENS SOARES DA ROCHA;4444;Deputado Federal;PRP;MG;
-Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;44000038707;R$ 300,00;Estimado;RUBENS SOARES DA ROCHA;4444;Deputado Federal;PRP;MG;
-Comitê Financeiro Único;12.154.851/0001-78;01/09/2010;44000038703;R$ 180,00;Estimado;RUBENS SOARES DA ROCHA;4444;Deputado Federal;PRP;MG;
-RUBENS SOARES DA ROCHA;592.996.736-91;30/09/2010;44000038708;R$ 500,00;Depósito em espécie;RUBENS SOARES DA ROCHA;4444;Deputado Federal;PRP;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PT do B -  / 4444 - RUBENS SOARES DA ROCHA - MG - Deputado Federal;
+Comitê Financeiro Único;12.154.851/0001-78;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 590,00;Estimado;Comitê Financeiro Único - PT do B -  / 4444 - RUBENS SOARES DA ROCHA - MG - Deputado Federal;
+Comitê Financeiro Único;12.154.851/0001-78;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 180,00;Estimado;Comitê Financeiro Único - PT do B -  / 4444 - RUBENS SOARES DA ROCHA - MG - Deputado Federal;
+Comitê Financeiro Único;12.154.851/0001-78;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 590,00;Estimado;Comitê Financeiro Único - PT do B -  / 4444 - RUBENS SOARES DA ROCHA - MG - Deputado Federal;
+GRAFICA E EDITORA UNIDOS LTDA;00.817.191/0001-89;01/10/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 4444 - RUBENS SOARES DA ROCHA - MG - Deputado Federal;
+SILK & PLASTICOS LTDA;20.627.303/0001-46;23/09/2010;       Diversas a especificar;R$ 196,90;Cheque; -  -  / 4444 - RUBENS SOARES DA ROCHA - MG - Deputado Federal;

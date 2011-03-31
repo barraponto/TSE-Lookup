@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FRANCISCO EDVANDO FERREIRA;210.523.103-97;13/08/2010;28000000001;R$ 6.000,00;Depósito em espécie;FRANCISCO EDVANDO FERREIRA;28999;Deputado Estadual;PRTB;CE;
-FRANCISCO JOSUE GONÇALVES;415.601.163-15;09/09/2010;28000000003;R$ 1.000,00;Depósito em espécie;FRANCISCO EDVANDO FERREIRA;28999;Deputado Estadual;PRTB;CE;
-MARCOGRAF LTDA;02.963.095/0001-74;09/09/2010;28000000002;R$ 56,00;Estimado;FRANCISCO EDVANDO FERREIRA;28999;Deputado Estadual;PRTB;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EDITORA PREMIUS LTDA;06.067.027/0001-88;13/08/2010;       Publicidade por materiais impressos;R$ 5.896,00;Cheque; -  -  / 28999 - FRANCISCO EDVANDO FERREIRA - CE - Deputado Estadual;
+M L TARGINO;03.383.102/0001-21;06/09/2010;       Publicidade por materiais impressos;R$ 975,00;Cheque; -  -  / 28999 - FRANCISCO EDVANDO FERREIRA - CE - Deputado Estadual;
+MARCOGRAF LTDA;02.963.095/0001-74;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 56,00;Estimado; -  -  / 28999 - FRANCISCO EDVANDO FERREIRA - CE - Deputado Estadual;

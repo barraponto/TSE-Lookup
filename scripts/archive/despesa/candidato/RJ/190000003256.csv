@@ -1,8 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;12/08/2010;17000064351;R$ 300,00;Estimado;CARLOS HENRIQUE RODRIGUES DA SILVA;17185;Deputado Estadual;PSL;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;17000064354;R$ 150,00;Estimado;CARLOS HENRIQUE RODRIGUES DA SILVA;17185;Deputado Estadual;PSL;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;23/08/2010;17000064353;R$ 300,00;Estimado;CARLOS HENRIQUE RODRIGUES DA SILVA;17185;Deputado Estadual;PSL;RJ;
-JORGE SAYED PICCIANI;12.176.626/0001-32;24/08/2010;17000064352;R$ 17,00;Estimado;CARLOS HENRIQUE RODRIGUES DA SILVA;17185;Deputado Estadual;PSL;RJ;
-SERGIO GOMES DA SILVA;748.688.027-04;22/09/2010;17000064357;R$ 40,00;Depósito em espécie;CARLOS HENRIQUE RODRIGUES DA SILVA;17185;Deputado Estadual;PSL;RJ;
-SERGIO GOMES DA SILVA;748.688.027-04;15/09/2010;17000064355;R$ 450,00;Depósito em espécie;CARLOS HENRIQUE RODRIGUES DA SILVA;17185;Deputado Estadual;PSL;RJ;
-SERGIO GOMES DA SILVA;748.688.027-04;21/09/2010;17000064356;R$ 430,00;Depósito em espécie;CARLOS HENRIQUE RODRIGUES DA SILVA;17185;Deputado Estadual;PSL;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;12/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 17185 - CARLOS HENRIQUE RODRIGUES DA SILVA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 17185 - CARLOS HENRIQUE RODRIGUES DA SILVA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 17185 - CARLOS HENRIQUE RODRIGUES DA SILVA - RJ - Deputado Estadual;
+JORGE SAYED PICCIANI;12.176.626/0001-32;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 17185 - CARLOS HENRIQUE RODRIGUES DA SILVA - RJ - Deputado Estadual;
+WANDERLEY ARTE PUBLICIDADE LTDA - ME;10.212.846/0001-49;24/09/2010;       Publicidade por materiais impressos;R$ 450,00;Cheque; -  -  / 17185 - CARLOS HENRIQUE RODRIGUES DA SILVA - RJ - Deputado Estadual;
+WANDERLEY ARTE PUBLICIDADE LTDA - ME;10.212.846/0001-49;15/09/2010;       Publicidade por materiais impressos;R$ 450,00;Cheque; -  -  / 17185 - CARLOS HENRIQUE RODRIGUES DA SILVA - RJ - Deputado Estadual;

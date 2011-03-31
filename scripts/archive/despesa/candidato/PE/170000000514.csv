@@ -1,7 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;05.055.973/0001-41;24/09/2010;36000064932;R$ 700,00;Estimado;MARCOS ARMANDO DE BRITO;3633;Deputado Federal;PTC;PE;
-Diretório Estadual/Distrital;05.055.973/0001-41;28/09/2010;36000064931;R$ 2.000,00;Cheque;MARCOS ARMANDO DE BRITO;3633;Deputado Federal;PTC;PE;
-Diretório Estadual/Distrital;05.055.973/0001-41;27/09/2010;36000064935;R$ 444,00;Estimado;MARCOS ARMANDO DE BRITO;3633;Deputado Federal;PTC;PE;
-Diretório Estadual/Distrital;05.055.973/0001-41;28/09/2010;36000064933;R$ 40,00;Estimado;MARCOS ARMANDO DE BRITO;3633;Deputado Federal;PTC;PE;
-Diretório Estadual/Distrital;05.055.973/0001-41;01/10/2010;36000064934;R$ 105,00;Estimado;MARCOS ARMANDO DE BRITO;3633;Deputado Federal;PTC;PE;
-JOSE ERIBERTO MEDEIROS DE OLIVEIRA;12.177.701/0001-80;25/08/2010;36000064936;R$ 70,00;Estimado;MARCOS ARMANDO DE BRITO;3633;Deputado Federal;PTC;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;05.055.973/0001-41;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 700,00;Estimado;Direção Estadual/Distrital - PTC -  / 3633 - MARCOS ARMANDO DE BRITO - PE - Deputado Federal;
+Diretório Estadual/Distrital;05.055.973/0001-41;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 444,00;Estimado;Direção Estadual/Distrital - PTC -  / 3633 - MARCOS ARMANDO DE BRITO - PE - Deputado Federal;
+Diretório Estadual/Distrital;05.055.973/0001-41;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 105,00;Estimado;Direção Estadual/Distrital - PTC -  / 3633 - MARCOS ARMANDO DE BRITO - PE - Deputado Federal;
+Diretório Estadual/Distrital;05.055.973/0001-41;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 40,00;Estimado;Direção Estadual/Distrital - PTC -  / 3633 - MARCOS ARMANDO DE BRITO - PE - Deputado Federal;
+JOSE ERIBERTO MEDEIROS DE OLIVEIRA;12.177.701/0001-80;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 70,00;Estimado;36111 -  - PTC -  - Deputado Estadual / 3633 - MARCOS ARMANDO DE BRITO - PE - Deputado Federal;
+MARIA DE FATIMA GOMES DO NASCIMENTO;038.185.854-58;01/10/2010;       Diversas a especificar;R$ 600,00;Cheque; -  -  / 3633 - MARCOS ARMANDO DE BRITO - PE - Deputado Federal;
+MARIA GICELIA DE LIMA DOS SANTOS;694.482.054-49;01/10/2010;       Diversas a especificar;R$ 700,00;Cheque; -  -  / 3633 - MARCOS ARMANDO DE BRITO - PE - Deputado Federal;
+MICHAEL GOMES DA SILVA;064.905.004-50;01/10/2010;       Diversas a especificar;R$ 210,00;Cheque; -  -  / 3633 - MARCOS ARMANDO DE BRITO - PE - Deputado Federal;
+REGINALDO MIGUEL DA SILVA;021.361.034-58;01/10/2010;       Diversas a especificar;R$ 490,00;Cheque; -  -  / 3633 - MARCOS ARMANDO DE BRITO - PE - Deputado Federal;

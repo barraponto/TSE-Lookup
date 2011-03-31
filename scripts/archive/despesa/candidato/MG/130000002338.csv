@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;09.019.713/0001-71;04/09/2010;25000303001;R$ 1.114,36;Estimado;OSVALDO LOPES DE OLIVEIRA JÚNIOR;25111;Deputado Estadual;DEM;MG;
-Diretório Estadual/Distrital;09.019.713/0001-71;04/09/2010;25000303002;R$ 1.197,84;Estimado;OSVALDO LOPES DE OLIVEIRA JÚNIOR;25111;Deputado Estadual;DEM;MG;
-PATRICIA REIS DE SOUSA;071.086.376-42;26/09/2010;25000303500;R$ 250,00;Estimado;OSVALDO LOPES DE OLIVEIRA JÚNIOR;25111;Deputado Estadual;DEM;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;09.019.713/0001-71;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.114,36;Estimado;Direção Estadual/Distrital - DEM -  / 25111 - OSVALDO LOPES DE OLIVEIRA JÚNIOR - MG - Deputado Estadual;
+Diretório Estadual/Distrital;09.019.713/0001-71;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.197,84;Estimado;Direção Estadual/Distrital - DEM -  / 25111 - OSVALDO LOPES DE OLIVEIRA JÚNIOR - MG - Deputado Estadual;
+PATRICIA REIS DE SOUSA;071.086.376-42;26/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado; -  -  / 25111 - OSVALDO LOPES DE OLIVEIRA JÚNIOR - MG - Deputado Estadual;

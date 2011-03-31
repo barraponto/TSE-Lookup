@@ -1,6 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-BENILDES DOS SANTOS SILVA;077.097.815-00;15/10/2010;44000026785;R$ 510,00;Depósito em espécie;BENILDES DOS SANTOS SILVA;44160;Deputado Estadual;PRP;AM;
-BENILDES DOS SANTOS SILVA;077.097.815-00;19/08/2010;44000026783;R$ 50,00;Depósito em espécie;BENILDES DOS SANTOS SILVA;44160;Deputado Estadual;PRP;AM;
-Diretório Estadual/Distrital;04.160.131/0001-97;13/08/2010;44000026782;R$ 300,00;Estimado;BENILDES DOS SANTOS SILVA;44160;Deputado Estadual;PRP;AM;
-Diretório Estadual/Distrital;04.160.131/0001-97;30/09/2010;44000026784;R$ 200,00;Estimado;BENILDES DOS SANTOS SILVA;44160;Deputado Estadual;PRP;AM;
-Diretório Estadual/Distrital;04.160.131/0001-97;01/10/2010;44000026781;R$ 435,00;Cheque;BENILDES DOS SANTOS SILVA;44160;Deputado Estadual;PRP;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DANIEL DE SOUZA LEAL;975.292.492-15;30/09/2010;       Serviços prestados por terceiros;R$ 560,00;Cheque; -  -  / 44160 - BENILDES DOS SANTOS SILVA - AM - Deputado Estadual;
+Diretório Estadual/Distrital;04.160.131/0001-97;13/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Direção Estadual/Distrital - PMDB -  / 44160 - BENILDES DOS SANTOS SILVA - AM - Deputado Estadual;
+Diretório Estadual/Distrital;04.160.131/0001-97;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;Direção Estadual/Distrital - PMDB -  / 44160 - BENILDES DOS SANTOS SILVA - AM - Deputado Estadual;
+L P DE ANDRADE COMERCIAL;02.765.976/0001-80;18/09/2010;       Publicidade por materiais impressos;R$ 435,00;Cheque; -  -  / 44160 - BENILDES DOS SANTOS SILVA - AM - Deputado Estadual;

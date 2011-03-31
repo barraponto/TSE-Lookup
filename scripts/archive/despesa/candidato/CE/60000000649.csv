@@ -1,5 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.230/0001-76;30/09/2010;17000033002;R$ 910,71;Estimado;RAIMUNDO FREIRE DE BRITO;1777;Deputado Federal;PSL;CE;
-EDITORA CELIGRAFICA FOTOLITO LTDA;07.646.938/0001-22;18/08/2010;17000033001;R$ 2.695,00;Estimado;RAIMUNDO FREIRE DE BRITO;1777;Deputado Federal;PSL;CE;
-FERNANDO LIMA ALVES;321.150.833-34;02/09/2010;17000033004;R$ 180,00;Estimado;RAIMUNDO FREIRE DE BRITO;1777;Deputado Federal;PSL;CE;
-RAIMUNDO FREIRE DE BRITO;379.611.523-34;06/09/2010;17000033003;R$ 1.700,00;Depósito em espécie;RAIMUNDO FREIRE DE BRITO;1777;Deputado Federal;PSL;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.230/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 910,71;Estimado;Comitê Financeiro Único - PHS -  / 1777 - RAIMUNDO FREIRE DE BRITO - CE - Deputado Federal;
+DANIELE DE ALMEIDA CARNEIRO;803.555.603-72;06/09/2010;       Serviços prestados por terceiros;R$ 350,00;Cheque; -  -  / 1777 - RAIMUNDO FREIRE DE BRITO - CE - Deputado Federal;
+DANIELE DE ALMEIDA CARNEIRO;803.555.603-72;06/09/2010;       Serviços prestados por terceiros;R$ 350,00;Cheque; -  -  / 1777 - RAIMUNDO FREIRE DE BRITO - CE - Deputado Federal;
+DANIELE DE ALMEIDA CARNEIRO;803.555.603-72;06/09/2010;       Serviços prestados por terceiros;R$ 350,00;Cheque; -  -  / 1777 - RAIMUNDO FREIRE DE BRITO - CE - Deputado Federal;
+DANIELE DE ALMEIDA CARNEIRO;803.555.603-72;06/09/2010;       Serviços prestados por terceiros;R$ 250,00;Cheque; -  -  / 1777 - RAIMUNDO FREIRE DE BRITO - CE - Deputado Federal;
+DANIELE DE ALMEIDA CARNEIRO;803.555.603-72;06/09/2010;       Serviços prestados por terceiros;R$ 350,00;Cheque; -  -  / 1777 - RAIMUNDO FREIRE DE BRITO - CE - Deputado Federal;
+EDITORA CELIGRAFICA FOTOLITO LTDA;07.646.938/0001-22;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.695,00;Estimado; -  -  / 1777 - RAIMUNDO FREIRE DE BRITO - CE - Deputado Federal;
+FERNANDO LIMA ALVES;321.150.833-34;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 180,00;Estimado; -  -  / 1777 - RAIMUNDO FREIRE DE BRITO - CE - Deputado Federal;
+;;20/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 1777 - RAIMUNDO FREIRE DE BRITO - CE - Deputado Federal;
+;;28/10/2010;       Impostos, contribuições e taxas;R$ 44,20;Débito em conta; -  -  / 1777 - RAIMUNDO FREIRE DE BRITO - CE - Deputado Federal;
+;;09/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 1777 - RAIMUNDO FREIRE DE BRITO - CE - Deputado Federal;

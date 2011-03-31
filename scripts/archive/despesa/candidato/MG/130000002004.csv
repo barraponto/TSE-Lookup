@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.154.851/0001-78;15/09/2010;36000012301;R$ 1.180,00;Estimado;LINCOLN ALVES TEIXEIRA;3690;Deputado Federal;PTC;MG;
-Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;36000012302;R$ 300,00;Estimado;LINCOLN ALVES TEIXEIRA;3690;Deputado Federal;PTC;MG;
-FREDERICO BORGES DA COSTA;12.168.463/0001-46;01/09/2010;36000012304;R$ 400,00;Estimado;LINCOLN ALVES TEIXEIRA;3690;Deputado Federal;PTC;MG;
-OSMAN MIRANDA DE SALES;12.173.123/0001-03;20/09/2010;36000012305;R$ 350,00;Estimado;LINCOLN ALVES TEIXEIRA;3690;Deputado Federal;PTC;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PT do B -  / 3690 - LINCOLN ALVES TEIXEIRA - MG - Deputado Federal;
+Comitê Financeiro Único;12.154.851/0001-78;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.180,00;Estimado;Comitê Financeiro Único - PT do B -  / 3690 - LINCOLN ALVES TEIXEIRA - MG - Deputado Federal;
+FREDERICO BORGES DA COSTA;12.168.463/0001-46;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado;31333 -  - PHS -  - Deputado Estadual / 3690 - LINCOLN ALVES TEIXEIRA - MG - Deputado Federal;
+OSMAN MIRANDA DE SALES;12.173.123/0001-03;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 350,00;Estimado;36800 -  - PTC -  - Deputado Estadual / 3690 - LINCOLN ALVES TEIXEIRA - MG - Deputado Federal;

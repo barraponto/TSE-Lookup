@@ -1,4 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALFREDO PEREIRA DO NASCIMENTO;12.169.771/0001-96;10/08/2010;13000599821;R$ 3.000,00;Cheque;MARIA DA GLORIA MARQUES ASSIS;13613;Deputado Estadual;PT;AM;
-ALFREDO PEREIRA DO NASCIMENTO;12.169.771/0001-96;09/08/2010;13000599822;R$ 2.000,00;Cheque;MARIA DA GLORIA MARQUES ASSIS;13613;Deputado Estadual;PT;AM;
-Comitê Financeiro Único;12.191.488/0001-60;28/10/2010;13000599823;R$ 375,00;Estimado;MARIA DA GLORIA MARQUES ASSIS;13613;Deputado Estadual;PT;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLES WALDEMAR CORRA DOS SANTOS;645.931.692-91;27/09/2010;       Combustíveis e lubrificantes;R$ 100,00;Cheque; -  -  / 13613 - MARIA DA GLORIA MARQUES ASSIS - AM - Deputado Estadual;
+CARLES WALDEMAR CORREA DOS SANTOS;645.931.692-91;23/09/2010;       Cessão ou Locação de Veículos;R$ 1.700,00;Cheque; -  -  / 13613 - MARIA DA GLORIA MARQUES ASSIS - AM - Deputado Estadual;
+Comitê Financeiro Único;12.191.488/0001-60;28/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 375,00;Estimado;Comitê Financeiro Único - PT -  / 13613 - MARIA DA GLORIA MARQUES ASSIS - AM - Deputado Estadual;
+EDNALDO PASSOS DE OLIVEIRA;434.672.535-04;19/08/2010;       Cessão ou Locação de Veículos;R$ 1.800,00;Cheque; -  -  / 13613 - MARIA DA GLORIA MARQUES ASSIS - AM - Deputado Estadual;
+EDNALDO PASSOS DE OLIVEIRA;434.672.535-04;02/09/2010;       Combustíveis e lubrificantes;R$ 100,00;Cheque; -  -  / 13613 - MARIA DA GLORIA MARQUES ASSIS - AM - Deputado Estadual;
+M. E. E. DO NASCIMENTO;04.288.618/0001-50;17/08/2010;       Combustíveis e lubrificantes;R$ 1.000,00;Cheque; -  -  / 13613 - MARIA DA GLORIA MARQUES ASSIS - AM - Deputado Estadual;
+RB DA SILVA RESTAURANTE;00.311.387/0001-05;17/08/2010;       Alimentação;R$ 82,00;Cheque; -  -  / 13613 - MARIA DA GLORIA MARQUES ASSIS - AM - Deputado Estadual;

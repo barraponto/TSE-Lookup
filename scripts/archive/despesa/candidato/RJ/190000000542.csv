@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DANIEL TOURINHO;12.172.794/0001-50;22/08/2010;36000054203;R$ 700,00;Estimado;VANILDO TEIXEIRA VIEIRA;36117;Deputado Estadual;PTC;RJ;
-VANILDO TEIXEIRA VIEIRA;255.324.567-04;14/09/2010;36000054204;R$ 18,00;Depósito em espécie;VANILDO TEIXEIRA VIEIRA;36117;Deputado Estadual;PTC;RJ;
-VANILDO TEIXEIRA VIEIRA;255.324.567-04;29/07/2010;36000054201;R$ 500,00;Depósito em espécie;VANILDO TEIXEIRA VIEIRA;36117;Deputado Estadual;PTC;RJ;
-VANILDO TEIXEIRA VIEIRA;255.324.567-04;29/07/2010;36000054202;R$ 500,00;Depósito em espécie;VANILDO TEIXEIRA VIEIRA;36117;Deputado Estadual;PTC;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO GUERENGUE MINISHOP LTDA;68.719.541/0001-08;23/08/2010;       Combustíveis e lubrificantes;R$ 100,00;Cheque; -  -  / 36117 - VANILDO TEIXEIRA VIEIRA - RJ - Deputado Estadual;
+CRAFT SERVIÇOS GRAFICOS LTDA ME;05.924.763/0001-42;15/09/2010;       Publicidade por materiais impressos;R$ 218,00;Cheque; -  -  / 36117 - VANILDO TEIXEIRA VIEIRA - RJ - Deputado Estadual;
+DANIEL TOURINHO;12.172.794/0001-50;22/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 700,00;Estimado;3636 -  - PTC -  - Deputado Federal / 36117 - VANILDO TEIXEIRA VIEIRA - RJ - Deputado Estadual;
+KASHIMIR STUDIO GRAFICO LTDA;07.002.644/0001-68;03/08/2010;       Publicidade por materiais impressos;R$ 660,00;Cheque; -  -  / 36117 - VANILDO TEIXEIRA VIEIRA - RJ - Deputado Estadual;
+VINILART 1547 ADESIVOS ESPECIAIS LTDA;05.959.864/0001-59;10/09/2010;       Publicidade por materiais impressos;R$ 40,00;Cheque; -  -  / 36117 - VANILDO TEIXEIRA VIEIRA - RJ - Deputado Estadual;

@@ -1,8 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADRIANA OLIVEIRA DE ARAUJO;012.143.266-17;21/09/2010;70000100924;R$ 1.000,00;Depósito em espécie;LUIZ ALBERTO MENEZES BARRETO;70007;Deputado Estadual;PT do B;MG;
-ALBERGUE BATUIRA DE ALMEIDA E SILVA;771.038.406-44;23/09/2010;70000100925;R$ 600,00;Depósito em espécie;LUIZ ALBERTO MENEZES BARRETO;70007;Deputado Estadual;PT do B;MG;
-Diretório Estadual/Distrital;12.154.851/0001-78;01/08/2010;70000100923;R$ 704,00;Estimado;LUIZ ALBERTO MENEZES BARRETO;70007;Deputado Estadual;PT do B;MG;
-Diretório Estadual/Distrital;12.154.851/0001-78;15/09/2010;70000100926;R$ 590,00;Estimado;LUIZ ALBERTO MENEZES BARRETO;70007;Deputado Estadual;PT do B;MG;
-Diretório Estadual/Distrital;12.154.851/0001-78;30/09/2010;70000100927;R$ 300,00;Estimado;LUIZ ALBERTO MENEZES BARRETO;70007;Deputado Estadual;PT do B;MG;
-Diretório Estadual/Distrital;12.154.851/0001-78;01/08/2010;70000100921;R$ 590,00;Estimado;LUIZ ALBERTO MENEZES BARRETO;70007;Deputado Estadual;PT do B;MG;
-Diretório Estadual/Distrital;12.154.851/0001-78;01/08/2010;70000100922;R$ 540,00;Estimado;LUIZ ALBERTO MENEZES BARRETO;70007;Deputado Estadual;PT do B;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.154.851/0001-78;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 540,00;Estimado;Direção Estadual/Distrital - PT do B -  / 70007 - LUIZ ALBERTO MENEZES BARRETO - MG - Deputado Estadual;
+Diretório Estadual/Distrital;12.154.851/0001-78;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 704,00;Estimado;Direção Estadual/Distrital - PT do B -  / 70007 - LUIZ ALBERTO MENEZES BARRETO - MG - Deputado Estadual;
+Diretório Estadual/Distrital;12.154.851/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Direção Estadual/Distrital - PT do B -  / 70007 - LUIZ ALBERTO MENEZES BARRETO - MG - Deputado Estadual;
+Diretório Estadual/Distrital;12.154.851/0001-78;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 590,00;Estimado;Direção Estadual/Distrital - PT do B -  / 70007 - LUIZ ALBERTO MENEZES BARRETO - MG - Deputado Estadual;
+Diretório Estadual/Distrital;12.154.851/0001-78;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 590,00;Estimado;Direção Estadual/Distrital - PT do B -  / 70007 - LUIZ ALBERTO MENEZES BARRETO - MG - Deputado Estadual;
+EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS;34.028.316/5965-10;23/09/2010;       Despesas postais;R$ 1.547,05;Cheque; -  -  / 70007 - LUIZ ALBERTO MENEZES BARRETO - MG - Deputado Estadual;

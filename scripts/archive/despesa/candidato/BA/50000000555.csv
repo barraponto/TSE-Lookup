@@ -1,7 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;27000017746;R$ 725,04;Estimado;RAIMUNDO PINTO DE CARVALHO;27123;Deputado Estadual;PSDC;BA;
-Diretório Estadual/Distrital;12.173.503/0001-48;30/09/2010;27000017745;R$ 204,00;Estimado;RAIMUNDO PINTO DE CARVALHO;27123;Deputado Estadual;PSDC;BA;
-RAIMUNDO PINTO DE CARVALHO;356.406.775-20;06/09/2010;27000017744;R$ 46,00;Depósito em espécie;RAIMUNDO PINTO DE CARVALHO;27123;Deputado Estadual;PSDC;BA;
-RAIMUNDO PINTO DE CARVALHO;356.406.775-20;02/08/2010;27000017742;R$ 200,00;Depósito em espécie;RAIMUNDO PINTO DE CARVALHO;27123;Deputado Estadual;PSDC;BA;
-RAIMUNDO PINTO DE CARVALHO;356.406.775-20;02/08/2010;27000017741;R$ 800,00;Depósito em espécie;RAIMUNDO PINTO DE CARVALHO;27123;Deputado Estadual;PSDC;BA;
-RAIMUNDO PINTO DE CARVALHO;356.406.775-20;05/08/2010;27000017743;R$ 1.000,00;Depósito em espécie;RAIMUNDO PINTO DE CARVALHO;27123;Deputado Estadual;PSDC;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 725,04;Estimado;Comitê Financeiro Único - PMDB -  / 27123 - RAIMUNDO PINTO DE CARVALHO - BA - Deputado Estadual;
+Diretório Estadual/Distrital;12.173.503/0001-48;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 204,00;Estimado;Direção Estadual/Distrital - PMDB -  / 27123 - RAIMUNDO PINTO DE CARVALHO - BA - Deputado Estadual;
+MARIA DOS ANJOS CAVALCANTI DE FIGUEIREDO;08.784.035/0001-70;07/08/2010;       Publicidade por materiais impressos;R$ 420,00;Cheque; -  -  / 27123 - RAIMUNDO PINTO DE CARVALHO - BA - Deputado Estadual;
+MARIA DOS ANJOS CAVALCANTI DE FIGUEIREDO;08.784.035/0001-70;05/08/2010;       Publicidade por materiais impressos;R$ 1.030,00;Cheque; -  -  / 27123 - RAIMUNDO PINTO DE CARVALHO - BA - Deputado Estadual;
+POSTO SOL LUA;06.062.801/0001-68;05/09/2010;       Combustíveis e lubrificantes;R$ 50,00;Cheque; -  -  / 27123 - RAIMUNDO PINTO DE CARVALHO - BA - Deputado Estadual;
+POSTO 4 ÁS;07.162.614/0001-19;05/08/2010;       Combustíveis e lubrificantes;R$ 113,00;Cheque; -  -  / 27123 - RAIMUNDO PINTO DE CARVALHO - BA - Deputado Estadual;
+POSTO 4 ÁS;07.162.614/0001-19;27/08/2010;       Combustíveis e lubrificantes;R$ 120,00;Cheque; -  -  / 27123 - RAIMUNDO PINTO DE CARVALHO - BA - Deputado Estadual;
+SONIA CONCEIÇÃO DOS SANTOS - COMUNICAÇÃO VISUAL;09.204.539/0001-37;29/07/2010;       Publicidade por materiais impressos;R$ 313,00;Cheque; -  -  / 27123 - RAIMUNDO PINTO DE CARVALHO - BA - Deputado Estadual;

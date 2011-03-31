@@ -1,6 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-AFONSO ANTUNES DA MOTTA;12.171.201/0001-30;08/09/2010;12000075103;R$ 1.800,00;Cheque;PAULO RICARDO ROSA DOS SANTOS;12193;Deputado Estadual;PDT;RS;
-AFONSO ANTUNES DA MOTTA;12.171.201/0001-30;10/09/2010;12000075104;R$ 535,00;Estimado;PAULO RICARDO ROSA DOS SANTOS;12193;Deputado Estadual;PDT;RS;
-AFONSO ANTUNES DA MOTTA;12.171.201/0001-30;23/08/2010;12000075101;R$ 431,25;Estimado;PAULO RICARDO ROSA DOS SANTOS;12193;Deputado Estadual;PDT;RS;
-Comitê Financeiro Único;12.205.178/0001-58;24/09/2010;12000075105;R$ 2.500,00;Transferência eletrônica;PAULO RICARDO ROSA DOS SANTOS;12193;Deputado Estadual;PDT;RS;
-GERDAU COMERCIAL DE AÇOS S/A;07.369.685/0001-97;09/09/2010;12000075102;R$ 5.000,00;Transferência eletrônica;PAULO RICARDO ROSA DOS SANTOS;12193;Deputado Estadual;PDT;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AFONSO ANTUNES DA MOTTA;12.171.201/0001-30;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 535,00;Estimado;1200 -  - PDT -  - Deputado Federal / 12193 - PAULO RICARDO ROSA DOS SANTOS - RS - Deputado Estadual;
+AFONSO ANTUNES DA MOTTA;12.171.201/0001-30;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 431,25;Estimado;1200 -  - PDT -  - Deputado Federal / 12193 - PAULO RICARDO ROSA DOS SANTOS - RS - Deputado Estadual;
+FABRICIO MANCIA RAMOS;000.108.880-71;30/09/2010;       Despesas com pessoal;R$ 1.420,00;Não informado; -  -  / 12193 - PAULO RICARDO ROSA DOS SANTOS - RS - Deputado Estadual;
+JENIFER SUELEN SANTOS MORAES;005.727.880-61;30/09/2010;       Despesas com pessoal;R$ 1.350,00;Não informado; -  -  / 12193 - PAULO RICARDO ROSA DOS SANTOS - RS - Deputado Estadual;
+JULIO CESAR DA ROSA GARCIA;813.815.490-04;30/09/2010;       Despesas com pessoal;R$ 1.400,00;Não informado; -  -  / 12193 - PAULO RICARDO ROSA DOS SANTOS - RS - Deputado Estadual;
+LUCIANO SALGADO RIBEIRO;808.752.540-04;30/09/2010;       Despesas com pessoal;R$ 1.740,00;Não informado; -  -  / 12193 - PAULO RICARDO ROSA DOS SANTOS - RS - Deputado Estadual;
+SOILA CIDADE;12.273.557/0001-85;27/09/2010;       Eventos de promoção da candidatura;R$ 1.890,00;Não informado; -  -  / 12193 - PAULO RICARDO ROSA DOS SANTOS - RS - Deputado Estadual;
+VANESSA ROSA DOS SANTOS;014.578.790-77;30/09/2010;       Despesas com pessoal;R$ 1.500,00;Não informado; -  -  / 12193 - PAULO RICARDO ROSA DOS SANTOS - RS - Deputado Estadual;

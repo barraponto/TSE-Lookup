@@ -1,4 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELIZA RODRIGUES DE QUEIROZ PONTES;765.064.873-72;28/07/2010;36000077602;R$ 2.000,00;Estimado;FRANCISCO JOSÉ CUNHA DE QUEIROZ;36222;Deputado Estadual;PTC;CE;
-FRANCISCO JOSÉ CUNHA DE QUEIROZ;023.161.533-72;13/08/2010;36000077601;R$ 12.000,00;Depósito em espécie;FRANCISCO JOSÉ CUNHA DE QUEIROZ;36222;Deputado Estadual;PTC;CE;
-MARCUS RODRIGUES DE QUEIROZ;926.947.303-10;28/07/2010;36000077603;R$ 2.500,00;Estimado;FRANCISCO JOSÉ CUNHA DE QUEIROZ;36222;Deputado Estadual;PTC;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELIZA RODRIGUES DE QUEIROZ PONTES;765.064.873-72;28/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado; -  -  / 36222 - FRANCISCO JOSÉ CUNHA DE QUEIROZ - CE - Deputado Estadual;
+M ALZENIR DA COSTA IMPRESSAO ME;11.506.556/0001-70;16/08/2010;       Publicidade por materiais impressos;R$ 4.600,00;Cheque; -  -  / 36222 - FRANCISCO JOSÉ CUNHA DE QUEIROZ - CE - Deputado Estadual;
+MARCUS RODRIGUES DE QUEIROZ;926.947.303-10;28/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.500,00;Estimado; -  -  / 36222 - FRANCISCO JOSÉ CUNHA DE QUEIROZ - CE - Deputado Estadual;
+NAYARA FALCAO LIMA ME;11.209.969/0001-93;25/08/2010;       Diversas a especificar;R$ 900,00;Cheque; -  -  / 36222 - FRANCISCO JOSÉ CUNHA DE QUEIROZ - CE - Deputado Estadual;
+RC & D COMERCIAL DE COMBUSTIVEL LTDA;09.198.028/0001-50;01/10/2010;       Combustíveis e lubrificantes;R$ 1.605,82;Cheque; -  -  / 36222 - FRANCISCO JOSÉ CUNHA DE QUEIROZ - CE - Deputado Estadual;
+RC & D COMERCIAL DE COMBUSTIVEL LTDA;09.198.028/0001-50;25/08/2010;       Combustíveis e lubrificantes;R$ 4.894,18;Cheque; -  -  / 36222 - FRANCISCO JOSÉ CUNHA DE QUEIROZ - CE - Deputado Estadual;

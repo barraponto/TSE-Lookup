@@ -1,4 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JORGE PISCCIANI;12.176.626/0001-32;16/09/2010;20000671503;R$ 17,00;Estimado;CARLOS ANTONIO JULIÃO DE ALMEIDA;20220;Deputado Estadual;PSC;RJ;
-SERGIO CABRAL;12.181.923/0001-76;10/09/2010;20000671501;R$ 150,00;Estimado;CARLOS ANTONIO JULIÃO DE ALMEIDA;20220;Deputado Estadual;PSC;RJ;
-SERGIO CABRAL;12.181.923/0001-76;10/09/2010;20000671502;R$ 150,00;Estimado;CARLOS ANTONIO JULIÃO DE ALMEIDA;20220;Deputado Estadual;PSC;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JORGE PISCCIANI;12.176.626/0001-32;16/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 20220 - CARLOS ANTONIO JULIÃO DE ALMEIDA - RJ - Deputado Estadual;
+PAPELARIA LEONEL GOUVEIA LTDA-ME;08.725.094/0001-78;23/09/2010;       Materiais de expediente;R$ 26,00;Cheque; -  -  / 20220 - CARLOS ANTONIO JULIÃO DE ALMEIDA - RJ - Deputado Estadual;
+SERGIO CABRAL;12.181.923/0001-76;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;15 -  - PMDB -  - Governador / 20220 - CARLOS ANTONIO JULIÃO DE ALMEIDA - RJ - Deputado Estadual;
+SERGIO CABRAL;12.181.923/0001-76;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;15 -  - PMDB -  - Governador / 20220 - CARLOS ANTONIO JULIÃO DE ALMEIDA - RJ - Deputado Estadual;

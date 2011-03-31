@@ -1,4 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ARNALDO JORDY;12.173.289/0001-20;25/08/2010;23000169131;R$ 283,00;Estimado;ALFREDO ANTONIO GOULART SADE;23555;Deputado Estadual;PPS;PA;
-ARNALDO JORDY;12.173.289/0001-20;24/09/2010;23000169133;R$ 1.000,00;Depósito em espécie;ALFREDO ANTONIO GOULART SADE;23555;Deputado Estadual;PPS;PA;
-SIMÃO JATENE;04.894.382/0001-03;28/08/2010;23000169132;R$ 1.250,00;Estimado;ALFREDO ANTONIO GOULART SADE;23555;Deputado Estadual;PPS;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALFREDO ANTONIO GOULART SADE;015.109.402-00;05/10/2010;       Despesas com transporte ou deslocamento;R$ 314,97;Cheque; -  -  / 23555 - ALFREDO ANTONIO GOULART SADE - PA - Deputado Estadual;
+ARNALDO JORDY;12.173.289/0001-20;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 283,00;Estimado;2323 -  - PPS -  - Deputado Federal / 23555 - ALFREDO ANTONIO GOULART SADE - PA - Deputado Estadual;
+AVIZ & EVANGELISTA LTDA;08.069.243/0001-98;10/10/2010;       Diversas a especificar;R$ 100,00;Cheque; -  -  / 23555 - ALFREDO ANTONIO GOULART SADE - PA - Deputado Estadual;
+CARLOS THIAGO CORREA DOS SANTOS;987.162.552-91;28/09/2010;       Despesas com pessoal;R$ 400,00;Cheque; -  -  / 23555 - ALFREDO ANTONIO GOULART SADE - PA - Deputado Estadual;
+RIVANILSON LEÃO XAVIER;798.006.292-20;30/09/2010;       Despesas com pessoal;R$ 160,00;Cheque; -  -  / 23555 - ALFREDO ANTONIO GOULART SADE - PA - Deputado Estadual;
+SIMÃO JATENE;04.894.382/0001-03;28/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.250,00;Estimado;45 -  - PSDB -  - Governador / 23555 - ALFREDO ANTONIO GOULART SADE - PA - Deputado Estadual;

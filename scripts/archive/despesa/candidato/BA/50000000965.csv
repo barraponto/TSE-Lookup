@@ -1,9 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO GILSON ALVES SILVA;389.074.615-20;30/07/2010;70000135502;R$ 480,00;Estimado;NOEL PEDREIRA DOS SANTOS;7078;Deputado Federal;PT do B;BA;
-Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;70000135504;R$ 1.500,21;Estimado;NOEL PEDREIRA DOS SANTOS;7078;Deputado Federal;PT do B;BA;
-EDILTON SANTANA SANTOS;647.540.735-68;30/07/2010;70000135501;R$ 300,00;Estimado;NOEL PEDREIRA DOS SANTOS;7078;Deputado Federal;PT do B;BA;
-ELTON NASCIMENTO DOS SANTOS;044.949.275-38;20/09/2010;70000135506;R$ 370,00;Estimado;NOEL PEDREIRA DOS SANTOS;7078;Deputado Federal;PT do B;BA;
-MANUEL LEONCIO DOS SANTOS FILHO;990.157.495-15;20/09/2010;70000135508;R$ 500,00;Estimado;NOEL PEDREIRA DOS SANTOS;7078;Deputado Federal;PT do B;BA;
-NOEL PEDREIRA DOS SANTOS;258.152.295-04;20/09/2010;70000135507;R$ 300,00;Estimado;NOEL PEDREIRA DOS SANTOS;7078;Deputado Federal;PT do B;BA;
-REGINA DA SILVA NASCIMENTO;892.707.115-87;20/09/2010;70000135505;R$ 1.050,00;Estimado;NOEL PEDREIRA DOS SANTOS;7078;Deputado Federal;PT do B;BA;
-ROSEANE NASCIMENTO DOS SANTOS;049.685.125-03;30/07/2010;70000135503;R$ 150,00;Estimado;NOEL PEDREIRA DOS SANTOS;7078;Deputado Federal;PT do B;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO GILSON ALVES SILVA;389.074.615-20;30/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 480,00;Estimado; -  -  / 7078 - NOEL PEDREIRA DOS SANTOS - BA - Deputado Federal;
+Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,21;Estimado;Comitê Financeiro Único - PMDB -  / 7078 - NOEL PEDREIRA DOS SANTOS - BA - Deputado Federal;
+EDILTON SANTANA SANTOS;647.540.735-68;30/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 7078 - NOEL PEDREIRA DOS SANTOS - BA - Deputado Federal;
+ELTON NASCIMENTO DOS SANTOS;044.949.275-38;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 370,00;Estimado; -  -  / 7078 - NOEL PEDREIRA DOS SANTOS - BA - Deputado Federal;
+MANUEL LEONCIO DOS SANTOS FILHO;990.157.495-15;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 7078 - NOEL PEDREIRA DOS SANTOS - BA - Deputado Federal;
+NOEL PEDREIRA DOS SANTOS;258.152.295-04;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 7078 - NOEL PEDREIRA DOS SANTOS - BA - Deputado Federal;
+REGINA DA SILVA NASCIMENTO;892.707.115-87;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.050,00;Estimado; -  -  / 7078 - NOEL PEDREIRA DOS SANTOS - BA - Deputado Federal;
+ROSEANE NASCIMENTO DOS SANTOS;049.685.125-03;30/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado; -  -  / 7078 - NOEL PEDREIRA DOS SANTOS - BA - Deputado Federal;

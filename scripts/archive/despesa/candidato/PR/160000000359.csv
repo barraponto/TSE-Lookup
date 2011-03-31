@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;02/09/2010;23000183051;R$ 3.150,00;Estimado;LUIZ DE MIRANDA;23789;Deputado Estadual;PPS;PR;
-ELEIÇÃO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;30/09/2010;23000183055;R$ 2.500,00;Estimado;LUIZ DE MIRANDA;23789;Deputado Estadual;PPS;PR;
-ELEIÇÃO 2010 RICARDO JOSE MAGALHÃES BARROS;12.190.665/0001-94;20/09/2010;23000183056;R$ 1.125,00;Estimado;LUIZ DE MIRANDA;23789;Deputado Estadual;PPS;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.500,00;Estimado;45 -  - PSDB -  - Governador / 23789 - LUIZ DE MIRANDA - PR - Deputado Estadual;
+ELEIÇÃO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.150,00;Estimado;45 -  - PSDB -  - Governador / 23789 - LUIZ DE MIRANDA - PR - Deputado Estadual;
+ELEIÇÃO 2010 RICARDO JOSE MAGALHÃES BARROS;12.190.665/0001-94;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.125,00;Estimado;111 -  - PP -  - Senador / 23789 - LUIZ DE MIRANDA - PR - Deputado Estadual;

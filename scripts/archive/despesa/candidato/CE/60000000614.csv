@@ -1,8 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO MAURICIO BEZERRA;228.966.433-20;28/07/2010;36000078301;R$ 1.250,00;Depósito em espécie;ANTONIO MAURICIO BEZERRA;36140;Deputado Estadual;PTC;CE;
-ANTONIO MAURICIO BEZERRA;228.966.433-20;16/08/2010;36000078302;R$ 1.400,00;Depósito em espécie;ANTONIO MAURICIO BEZERRA;36140;Deputado Estadual;PTC;CE;
-ANTONIO MAURICIO BEZERRA;228.966.433-20;06/09/2010;36000078303;R$ 1.850,00;Depósito em espécie;ANTONIO MAURICIO BEZERRA;36140;Deputado Estadual;PTC;CE;
-ANTONIO MAURICIO BEZERRA;228.966.433-20;02/09/2010;36000078306;R$ 600,00;Depósito em espécie;ANTONIO MAURICIO BEZERRA;36140;Deputado Estadual;PTC;CE;
-ANTONIO MAURICIO BEZERRA;228.966.433-20;01/08/2010;36000078307;R$ 2.000,00;Estimado;ANTONIO MAURICIO BEZERRA;36140;Deputado Estadual;PTC;CE;
-Comitê Financeiro Estadual/Distrital para Governador;12.181.912/0001-96;29/09/2010;36000078304;R$ 800,00;Estimado;ANTONIO MAURICIO BEZERRA;36140;Deputado Estadual;PTC;CE;
-PAULO ROBERTO DA COSTA BEZERRA;443.595.603-97;01/09/2010;36000078305;R$ 100,00;Estimado;ANTONIO MAURICIO BEZERRA;36140;Deputado Estadual;PTC;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO MAURICIO BEZERRA;228.966.433-20;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado; -  -  / 36140 - ANTONIO MAURICIO BEZERRA - CE - Deputado Estadual;
+Comitê Financeiro Estadual/Distrital para Governador;12.181.912/0001-96;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 800,00;Estimado;Comitê Financeiro Distrital/Estadual para Governador - PSB -  / 36140 - ANTONIO MAURICIO BEZERRA - CE - Deputado Estadual;
+DANTAS E FERNANDES EDITORA GRAFICA LTDA;06.915.271/0001-53;30/07/2010;       Publicidade por materiais impressos;R$ 1.250,00;Cheque; -  -  / 36140 - ANTONIO MAURICIO BEZERRA - CE - Deputado Estadual;
+DANTAS E FERNANDES EDITORA GRAFICA LTDA;06.915.271/0001-53;16/08/2010;       Publicidade por materiais impressos;R$ 1.200,00;Cheque; -  -  / 36140 - ANTONIO MAURICIO BEZERRA - CE - Deputado Estadual;
+DANTAS E FERNANDES EDITORA GRAFICA LTDA;06.915.271/0001-53;14/09/2010;       Publicidade por materiais impressos;R$ 1.250,00;Cheque; -  -  / 36140 - ANTONIO MAURICIO BEZERRA - CE - Deputado Estadual;
+L DIGITAL SERVICOS DE SERIGRAFIA LTDA;08.174.756/0001-69;31/08/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 36140 - ANTONIO MAURICIO BEZERRA - CE - Deputado Estadual;
+PAULO ROBERTO DA COSTA BEZERRA;443.595.603-97;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado; -  -  / 36140 - ANTONIO MAURICIO BEZERRA - CE - Deputado Estadual;
+S&C PETROLEO LTDA;01.952.847/0001-39;17/09/2010;       Combustíveis e lubrificantes;R$ 600,00;Cheque; -  -  / 36140 - ANTONIO MAURICIO BEZERRA - CE - Deputado Estadual;
+S&C PETROLEO LTDA;01.952.847/0001-39;31/08/2010;       Combustíveis e lubrificantes;R$ 200,00;Cheque; -  -  / 36140 - ANTONIO MAURICIO BEZERRA - CE - Deputado Estadual;

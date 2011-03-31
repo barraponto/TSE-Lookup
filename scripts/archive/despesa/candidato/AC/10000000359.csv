@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Senador da República;12.147.828/0001-56;22/09/2010;44000026215;R$ 2.000,00;Depósito em espécie;EVARISTO DE SOUSA LIMA;44131;Deputado Estadual;PRP;AC;
-Comitê Financeiro Único;12.205.237/0001-98;05/08/2010;44000026211;R$ 267,72;Estimado;EVARISTO DE SOUSA LIMA;44131;Deputado Estadual;PRP;AC;
-Comitê Financeiro Único;12.205.237/0001-98;20/08/2010;44000026212;R$ 358,80;Estimado;EVARISTO DE SOUSA LIMA;44131;Deputado Estadual;PRP;AC;
-Comitê Financeiro Único;12.205.237/0001-98;08/09/2010;44000026217;R$ 440,00;Estimado;EVARISTO DE SOUSA LIMA;44131;Deputado Estadual;PRP;AC;
-Comitê Financeiro Único;12.205.237/0001-98;14/09/2010;44000026216;R$ 121,05;Estimado;EVARISTO DE SOUSA LIMA;44131;Deputado Estadual;PRP;AC;
-Comitê Financeiro Único;12.205.237/0001-98;17/09/2010;44000026218;R$ 114,00;Estimado;EVARISTO DE SOUSA LIMA;44131;Deputado Estadual;PRP;AC;
-ELEIÇÃO 2010 EVARISTO DE SOUSA LIMA DEPUTADO ESTADUAL;169.189.673-04;02/08/2010;44000026219;R$ 500,00;Estimado;EVARISTO DE SOUSA LIMA;44131;Deputado Estadual;PRP;AC;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.237/0001-98;08/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 440,00;Estimado;Comitê Financeiro Único - PRP -  / 44131 - EVARISTO DE SOUSA LIMA - AC - Deputado Estadual;
+Comitê Financeiro Único;12.205.237/0001-98;17/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 114,00;Estimado;Comitê Financeiro Único - PRP -  / 44131 - EVARISTO DE SOUSA LIMA - AC - Deputado Estadual;
+Comitê Financeiro Único;12.205.237/0001-98;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 358,80;Estimado;Comitê Financeiro Único - PRP -  / 44131 - EVARISTO DE SOUSA LIMA - AC - Deputado Estadual;
+Comitê Financeiro Único;12.205.237/0001-98;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 267,72;Estimado;Comitê Financeiro Único - PRP -  / 44131 - EVARISTO DE SOUSA LIMA - AC - Deputado Estadual;
+Comitê Financeiro Único;12.205.237/0001-98;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 121,05;Estimado;Comitê Financeiro Único - PRP -  / 44131 - EVARISTO DE SOUSA LIMA - AC - Deputado Estadual;
+ELEIÇÃO 2010 EVARISTO DE SOUSA LIMA DEPUTADO ESTADUAL;169.189.673-04;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 44131 - EVARISTO DE SOUSA LIMA - AC - Deputado Estadual;
+44131 - ELEIÇÃO 2010 EVARISTO DE SOUSA LIMA DEPUTADO ESTADUAL - DEPUTADO ESTADUAL;12.172.554/0001-55;24/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 2.000,00;Cheque;65013 - FRANCISCO EDUARDO SARAIVA DE FARIAS - PC do B - AC - Deputado Estadual / 44131 - EVARISTO DE SOUSA LIMA - AC - Deputado Estadual;

@@ -1,2 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FABIANO COSTA SOARES;822.901.646-15;12/08/2010;50000234901;R$ 1.700,00;Transferência eletrônica;FABIANO COSTA SOARES;50300;Deputado Estadual;PSOL;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA;06.914.474/0001-25;18/08/2010;       Serviços prestados por terceiros;R$ 1.000,00;Cheque; -  -  / 50300 - FABIANO COSTA SOARES - MG - Deputado Estadual;
+IMPLESILK LTDA;20.789.673/0001-80;12/08/2010;       Serviços prestados por terceiros;R$ 640,00;Cheque; -  -  / 50300 - FABIANO COSTA SOARES - MG - Deputado Estadual;

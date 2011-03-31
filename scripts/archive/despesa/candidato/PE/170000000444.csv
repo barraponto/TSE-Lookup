@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.489/0001-05;18/08/2010;16000033902;R$ 107,50;Estimado;SIMONE FONTANA;162;Senador;PSTU;PE;
-Comitê Financeiro Único;12.191.489/0001-05;13/09/2010;16000033904;R$ 48,50;Estimado;SIMONE FONTANA;162;Senador;PSTU;PE;
-Comitê Financeiro Único;12.191.489/0001-05;21/09/2010;16000033906;R$ 200,00;Estimado;SIMONE FONTANA;162;Senador;PSTU;PE;
-Comitê Financeiro Único;12.191.489/0001-05;27/08/2010;16000033903;R$ 48,50;Estimado;SIMONE FONTANA;162;Senador;PSTU;PE;
-Comitê Financeiro Único;12.191.489/0001-05;27/09/2010;16000033905;R$ 250,00;Estimado;SIMONE FONTANA;162;Senador;PSTU;PE;
-Comitê Financeiro Único;12.191.489/0001-05;18/09/2010;16000033901;R$ 117,00;Estimado;SIMONE FONTANA;162;Senador;PSTU;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.489/0001-05;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;Comitê Financeiro Único - PSTU -  / 162 - SIMONE FONTANA - PE - Senador;
+Comitê Financeiro Único;12.191.489/0001-05;13/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 48,50;Estimado;Comitê Financeiro Único - PSTU -  / 162 - SIMONE FONTANA - PE - Senador;
+Comitê Financeiro Único;12.191.489/0001-05;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 48,50;Estimado;Comitê Financeiro Único - PSTU -  / 162 - SIMONE FONTANA - PE - Senador;
+Comitê Financeiro Único;12.191.489/0001-05;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 107,50;Estimado;Comitê Financeiro Único - PSTU -  / 162 - SIMONE FONTANA - PE - Senador;
+Comitê Financeiro Único;12.191.489/0001-05;18/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 117,00;Estimado;Comitê Financeiro Único - PSTU -  / 162 - SIMONE FONTANA - PE - Senador;
+Comitê Financeiro Único;12.191.489/0001-05;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;Comitê Financeiro Único - PSTU -  / 162 - SIMONE FONTANA - PE - Senador;

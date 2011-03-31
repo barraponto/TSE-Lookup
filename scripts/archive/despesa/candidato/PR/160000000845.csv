@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS ROBERTO MASSA JUNIOR;12.168.777/0001-49;06/08/2010;20000628601;R$ 289,00;Estimado;TANIA MARA ABRAO GUERREIRO;20010;Deputado Estadual;PSC;PR;
-GLEISI HELENA HOFFMANN;12.179.554/0001-87;02/09/2010;20000628603;R$ 230,00;Estimado;TANIA MARA ABRAO GUERREIRO;20010;Deputado Estadual;PSC;PR;
-TANIA MARA ABRAO GUERREIRO;373.779.819-20;28/07/2010;20000628604;R$ 450,00;Depósito em espécie;TANIA MARA ABRAO GUERREIRO;20010;Deputado Estadual;PSC;PR;
-WILSON PICLER;12.177.864/0001-62;22/09/2010;20000628602;R$ 580,00;Estimado;TANIA MARA ABRAO GUERREIRO;20010;Deputado Estadual;PSC;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS ROBERTO MASSA JUNIOR;12.168.777/0001-49;06/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 289,00;Estimado;2020 -  - PSC -  - Deputado Federal / 20010 - TANIA MARA ABRAO GUERREIRO - PR - Deputado Estadual;
+GLEISI HELENA HOFFMANN;12.179.554/0001-87;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 230,00;Estimado;131 -  - PT -  - Senador / 20010 - TANIA MARA ABRAO GUERREIRO - PR - Deputado Estadual;
+GRAFICA ROQUE SET LTDA;11.200.107/0001-08;05/08/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 20010 - TANIA MARA ABRAO GUERREIRO - PR - Deputado Estadual;
+JOAO BALATKA E FILHOS LTDA;82.258.435/0001-03;28/09/2010;       Publicidade por materiais impressos;R$ 50,00;Cheque; -  -  / 20010 - TANIA MARA ABRAO GUERREIRO - PR - Deputado Estadual;
+WILSON PICLER;12.177.864/0001-62;22/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 580,00;Estimado;1212 -  - PDT -  - Deputado Federal / 20010 - TANIA MARA ABRAO GUERREIRO - PR - Deputado Estadual;

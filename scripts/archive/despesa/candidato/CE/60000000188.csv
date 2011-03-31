@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LUISA GONÇALVES DA SILVA;101.981.133-15;01/11/2010;13000620022;R$ 2.050,70;Depósito em espécie;LUISA GONÇALVES DA SILVA;1340;Deputado Federal;PT;CE;
-LUISA GONÇALVES DA SILVA;101.981.133-15;22/09/2010;13000620021;R$ 150,00;Depósito em espécie;LUISA GONÇALVES DA SILVA;1340;Deputado Federal;PT;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+PRINTCOLOR GRÁFICA E EDITORA LTDA;02.824.298/0001-80;20/09/2010;       Publicidade por materiais impressos;R$ 2.200,00;Cheque; -  -  / 1340 - LUISA GONÇALVES DA SILVA - CE - Deputado Federal;
+;;07/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 1340 - LUISA GONÇALVES DA SILVA - CE - Deputado Federal;
+;;05/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 1340 - LUISA GONÇALVES DA SILVA - CE - Deputado Federal;

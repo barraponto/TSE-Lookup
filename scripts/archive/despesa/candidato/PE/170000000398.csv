@@ -1,2 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MARCELO SANTOS CAVALCANTI;051.929.404-19;27/09/2010;27000016604;R$ 2.087,00;Cheque;JOSE EDSON DA SILVA;2700;Deputado Federal;PSDC;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+VANIA GONÇALVES DE LIMA-ME;04.020.471/0001-12;28/09/2010;       Publicidade por materiais impressos;R$ 2.000,00;Cheque; -  -  / 2700 - JOSE EDSON DA SILVA - PE - Deputado Federal;
+;;01/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 2700 - JOSE EDSON DA SILVA - PE - Deputado Federal;
+;;05/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 2700 - JOSE EDSON DA SILVA - PE - Deputado Federal;
+;;27/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 2700 - JOSE EDSON DA SILVA - PE - Deputado Federal;

@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.321/0001-01;05/09/2010;16000036854;R$ 200,00;Estimado;JOSÉ ALMIR BRITO DOS SANTOS;1616;Deputado Federal;PSTU;AP;
-Comitê Financeiro Único;12.205.321/0001-01;14/09/2010;16000036858;R$ 84,00;Estimado;JOSÉ ALMIR BRITO DOS SANTOS;1616;Deputado Federal;PSTU;AP;
-Comitê Financeiro Único;12.205.321/0001-01;14/09/2010;16000036855;R$ 1.000,00;Estimado;JOSÉ ALMIR BRITO DOS SANTOS;1616;Deputado Federal;PSTU;AP;
-Comitê Financeiro Único;12.205.321/0001-01;03/09/2010;16000036853;R$ 416,00;Estimado;JOSÉ ALMIR BRITO DOS SANTOS;1616;Deputado Federal;PSTU;AP;
-Diretório Estadual/Distrital;02.646.403/0001-38;14/07/2010;16000036851;R$ 117,45;Estimado;JOSÉ ALMIR BRITO DOS SANTOS;1616;Deputado Federal;PSTU;AP;
-JAMISON AMALRI BRITO DOS SANTOS;920.050.122-20;04/09/2010;16000036856;R$ 300,00;Estimado;JOSÉ ALMIR BRITO DOS SANTOS;1616;Deputado Federal;PSTU;AP;
-ROSIANE COSTA MELO;872.031.972-04;04/09/2010;16000036857;R$ 300,00;Estimado;JOSÉ ALMIR BRITO DOS SANTOS;1616;Deputado Federal;PSTU;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.321/0001-01;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 416,00;Estimado;Comitê Financeiro Único - PSTU -  / 1616 - JOSÉ ALMIR BRITO DOS SANTOS - AP - Deputado Federal;
+Comitê Financeiro Único;12.205.321/0001-01;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 84,00;Estimado;Comitê Financeiro Único - PSTU -  / 1616 - JOSÉ ALMIR BRITO DOS SANTOS - AP - Deputado Federal;
+Comitê Financeiro Único;12.205.321/0001-01;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;Comitê Financeiro Único - PSTU -  / 1616 - JOSÉ ALMIR BRITO DOS SANTOS - AP - Deputado Federal;
+Comitê Financeiro Único;12.205.321/0001-01;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;Comitê Financeiro Único - PSTU -  / 1616 - JOSÉ ALMIR BRITO DOS SANTOS - AP - Deputado Federal;
+Diretório Estadual/Distrital;02.646.403/0001-38;14/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 117,45;Estimado;Direção Estadual/Distrital - PSTU -  / 1616 - JOSÉ ALMIR BRITO DOS SANTOS - AP - Deputado Federal;
+JAMISON AMALRI BRITO DOS SANTOS;920.050.122-20;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 1616 - JOSÉ ALMIR BRITO DOS SANTOS - AP - Deputado Federal;
+ROSIANE COSTA MELO;872.031.972-04;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 1616 - JOSÉ ALMIR BRITO DOS SANTOS - AP - Deputado Federal;

@@ -1,6 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.217.534/0001-53;12/08/2010;12001041052;R$ 7.000,00;Transferência eletrônica;SANDRA HELENA MARTINI;1255;Deputado Federal;PDT;MT;
-Comitê Financeiro Único;12.217.534/0001-53;06/09/2010;12001041053;R$ 2.600,00;Transferência eletrônica;SANDRA HELENA MARTINI;1255;Deputado Federal;PDT;MT;
-Comitê Financeiro Único;12.199.024/0001-09;28/09/2010;12001041057;R$ 3.216,00;Estimado;SANDRA HELENA MARTINI;1255;Deputado Federal;PDT;MT;
-Comitê Financeiro Único;12.199.293/0001-67;28/09/2010;12001041056;R$ 350,00;Estimado;SANDRA HELENA MARTINI;1255;Deputado Federal;PDT;MT;
-Comitê Financeiro Único;12.198.935/0001-03;20/09/2010;12001041055;R$ 3.000,00;Cheque;SANDRA HELENA MARTINI;1255;Deputado Federal;PDT;MT;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADERICO EBERT MARTINI;951.572.391-49;16/08/2010;       Despesas com pessoal;R$ 2.000,00;Cheque; -  -  / 1255 - SANDRA HELENA MARTINI - MT - Deputado Federal;
+CELI EBERT MARTINI;376.447.771-72;16/08/2010;       Despesas com pessoal;R$ 2.000,00;Cheque; -  -  / 1255 - SANDRA HELENA MARTINI - MT - Deputado Federal;
+CELIA EBERT MARTINI;293.344.201-97;27/09/2010;       Despesas com pessoal;R$ 2.000,00;Cheque; -  -  / 1255 - SANDRA HELENA MARTINI - MT - Deputado Federal;
+CLAUDETE JANINI LIMA DE SOUZA;452.460.841-91;16/08/2010;       Despesas com pessoal;R$ 1.500,00;Cheque; -  -  / 1255 - SANDRA HELENA MARTINI - MT - Deputado Federal;
+Comitê Financeiro Único;12.199.024/0001-09;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.216,00;Estimado;Comitê Financeiro Único - PDT -  / 1255 - SANDRA HELENA MARTINI - MT - Deputado Federal;
+Comitê Financeiro Único;12.199.293/0001-67;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 350,00;Estimado;Comitê Financeiro Único - PDT -  / 1255 - SANDRA HELENA MARTINI - MT - Deputado Federal;
+GRAFICA E EDITORA COELHO LTDA;33.025.784/0001-61;09/09/2010;       Publicidade por materiais impressos;R$ 2.600,00;Cheque; -  -  / 1255 - SANDRA HELENA MARTINI - MT - Deputado Federal;
+PETROPAULO COMERCIO DERIVADOS DE PETROLEO LTDA;37.514.783/0002-12;16/08/2010;       Combustíveis e lubrificantes;R$ 1.500,00;Cheque; -  -  / 1255 - SANDRA HELENA MARTINI - MT - Deputado Federal;
+PETROPAULO COMERCIO DERIVADOS DE PETROLEO LTDA;37.514.783/0002-12;27/09/2010;       Combustíveis e lubrificantes;R$ 1.000,00;Cheque; -  -  / 1255 - SANDRA HELENA MARTINI - MT - Deputado Federal;

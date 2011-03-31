@@ -1,2 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEICOES 2010 ROGERIO PEREIRA DA SILVA DEPUTADO ESTADUAL;063.835.438-22;12/08/2010;31000067991;R$ 800,00;Depósito em espécie;ROGERIO PEREIRA DA SILVA;31111;Deputado Estadual;PHS;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO MILLENIUM LTDA;06.062.742/0001-28;19/08/2010;       Combustíveis e lubrificantes;R$ 28,00;Cheque; -  -  / 31111 - ROGERIO PEREIRA DA SILVA - GO - Deputado Estadual;
+LUIZ AUTO PECAS SERVICOS LTDA;01.995.006/0001-09;13/08/2010;       Cessão ou Locação de Veículos;R$ 772,00;Cheque; -  -  / 31111 - ROGERIO PEREIRA DA SILVA - GO - Deputado Estadual;

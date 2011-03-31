@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.153/0001-61;14/09/2010;45000429483;R$ 290,00;Cheque;MARIA JOSE NUNES RAMOS;45777;Deputado Estadual;PSDB;AC;
-Comitê Financeiro Único;12.200.153/0001-61;20/09/2010;45000429482;R$ 220,00;Estimado;MARIA JOSE NUNES RAMOS;45777;Deputado Estadual;PSDB;AC;
-MARIA JOSÉ NUNES RAMOS;216.307.982-15;27/07/2010;45000429481;R$ 450,00;Depósito em espécie;MARIA JOSE NUNES RAMOS;45777;Deputado Estadual;PSDB;AC;
-MARIA LUCILA OLIVEIRA TRIGUEIRO;308.536.642-34;25/09/2010;45000429484;R$ 80,00;Estimado;MARIA JOSE NUNES RAMOS;45777;Deputado Estadual;PSDB;AC;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO VITÓRIA LTDA.;84.308.824/0001-13;04/10/2010;       Combustíveis e lubrificantes;R$ 100,00;Cheque; -  -  / 45777 - MARIA JOSE NUNES RAMOS - AC - Deputado Estadual;
+AUTO POSTO VITÓRIA LTDA.;84.308.824/0001-13;28/09/2010;       Combustíveis e lubrificantes;R$ 190,00;Cheque; -  -  / 45777 - MARIA JOSE NUNES RAMOS - AC - Deputado Estadual;
+Comitê Financeiro Único;12.200.153/0001-61;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 220,00;Estimado;Comitê Financeiro Único - PSDB -  / 45777 - MARIA JOSE NUNES RAMOS - AC - Deputado Estadual;
+MARIA LUCILA OLIVEIRA TRIGUEIRO;308.536.642-34;25/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 80,00;Estimado; -  -  / 45777 - MARIA JOSE NUNES RAMOS - AC - Deputado Estadual;
+S.CIPRIANI - NOSSA GRÁFICA;01.805.545/0001-38;28/07/2010;       Publicidade por materiais impressos;R$ 450,00;Cheque; -  -  / 45777 - MARIA JOSE NUNES RAMOS - AC - Deputado Estadual;

@@ -1,7 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Governador;12.174.245/0001-14;17/09/2010;40000006561;R$ 1.200,00;Estimado;ELADIO BARRETO SOUZA;40800;Deputado Estadual;PSB;BA;
-Comitê Financeiro Estadual/Distrital para Governador;12.174.245/0001-14;17/09/2010;40000006562;R$ 875,00;Estimado;ELADIO BARRETO SOUZA;40800;Deputado Estadual;PSB;BA;
-Comitê Financeiro Estadual/Distrital para Governador;12.174.245/0001-14;17/09/2010;40000006563;R$ 875,00;Estimado;ELADIO BARRETO SOUZA;40800;Deputado Estadual;PSB;BA;
-Comitê Financeiro Estadual/Distrital para Governador;12.174.245/0001-14;17/09/2010;40000006564;R$ 550,00;Estimado;ELADIO BARRETO SOUZA;40800;Deputado Estadual;PSB;BA;
-Comitê Financeiro Estadual/Distrital para Senador da República;12.172.092/0001-76;17/09/2010;40000006565;R$ 1.000,00;Cheque;ELADIO BARRETO SOUZA;40800;Deputado Estadual;PSB;BA;
-Comitê Financeiro Estadual/Distrital para Senador da República;12.172.092/0001-76;24/09/2010;40000006566;R$ 1.000,00;Cheque;ELADIO BARRETO SOUZA;40800;Deputado Estadual;PSB;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO VIA REGIONAL LTDA;03.417.182/0001-99;28/09/2010;       Combustíveis e lubrificantes;R$ 1.000,00;Cheque; -  -  / 40800 - ELADIO BARRETO SOUZA - BA - Deputado Estadual;
+AUTO POSTO VIA REGIONAL LTDA;03.417.182/0001-99;30/09/2010;       Combustíveis e lubrificantes;R$ 990,00;Cheque; -  -  / 40800 - ELADIO BARRETO SOUZA - BA - Deputado Estadual;
+Comitê Financeiro Estadual/Distrital para Governador;12.174.245/0001-14;17/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 875,00;Estimado;Comitê Financeiro Distrital/Estadual para Governador - PT -  / 40800 - ELADIO BARRETO SOUZA - BA - Deputado Estadual;
+Comitê Financeiro Estadual/Distrital para Governador;12.174.245/0001-14;17/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 550,00;Estimado;Comitê Financeiro Distrital/Estadual para Governador - PT -  / 40800 - ELADIO BARRETO SOUZA - BA - Deputado Estadual;
+Comitê Financeiro Estadual/Distrital para Governador;12.174.245/0001-14;17/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 875,00;Estimado;Comitê Financeiro Distrital/Estadual para Governador - PT -  / 40800 - ELADIO BARRETO SOUZA - BA - Deputado Estadual;
+Comitê Financeiro Estadual/Distrital para Governador;12.174.245/0001-14;17/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.200,00;Estimado;Comitê Financeiro Distrital/Estadual para Governador - PT -  / 40800 - ELADIO BARRETO SOUZA - BA - Deputado Estadual;
+ELEIÇÃO 2010 ELADIO BARRETO SOUZA DEPUTADO ESTADUAL;12.198.393/0001-79;25/10/2010;       Diversas a especificar;R$ 1,30;Cheque; -  -  / 40800 - ELADIO BARRETO SOUZA - BA - Deputado Estadual;
+;;22/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 40800 - ELADIO BARRETO SOUZA - BA - Deputado Estadual;
+;;28/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 40800 - ELADIO BARRETO SOUZA - BA - Deputado Estadual;
+;;20/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 40800 - ELADIO BARRETO SOUZA - BA - Deputado Estadual;

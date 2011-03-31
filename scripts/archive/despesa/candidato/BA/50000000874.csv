@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.191.570/0001-95;31/07/2010;15000056151;R$ 192,00;Estimado;LEDA MARIA SILVA DOS SANTOS;15112;Deputado Estadual;PMDB;BA;
-Diretório Estadual/Distrital;12.191.570/0001-95;30/09/2010;15000056153;R$ 2.289,60;Estimado;LEDA MARIA SILVA DOS SANTOS;15112;Deputado Estadual;PMDB;BA;
-Diretório Estadual/Distrital;12.191.570/0001-95;30/09/2010;15000056152;R$ 56,40;Estimado;LEDA MARIA SILVA DOS SANTOS;15112;Deputado Estadual;PMDB;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 56,40;Estimado;Direção Estadual/Distrital - PMDB -  / 15112 - LEDA MARIA SILVA DOS SANTOS - BA - Deputado Estadual;
+Diretório Estadual/Distrital;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.289,60;Estimado;Direção Estadual/Distrital - PMDB -  / 15112 - LEDA MARIA SILVA DOS SANTOS - BA - Deputado Estadual;
+Diretório Estadual/Distrital;12.191.570/0001-95;31/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 192,00;Estimado;Direção Estadual/Distrital - PMDB -  / 15112 - LEDA MARIA SILVA DOS SANTOS - BA - Deputado Estadual;

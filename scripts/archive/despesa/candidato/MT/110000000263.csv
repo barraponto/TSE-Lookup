@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.229.946/0001-03;02/09/2010;36000079210;R$ 1.648,40;Estimado;EVANILDO REGINALDO RODRIGUES;36190;Deputado Estadual;PTC;MT;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.229.946/0001-03;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.648,40;Estimado;Comitê Financeiro Único - PTC -  / 36190 - EVANILDO REGINALDO RODRIGUES - MT - Deputado Estadual;

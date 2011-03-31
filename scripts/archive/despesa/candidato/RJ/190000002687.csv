@@ -1,6 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO JOAQUIM WERNECK DE CASTRO;338.979.997-49;03/09/2010;15000259954;R$ 1.000,00;Transferência eletrônica;BERENICE DE AGUIAR SILVA;15951;Deputado Estadual;PMDB;RJ;
-BERENICE DE AGUIAR SILVA;260.481.757-87;01/11/2010;15000259955;R$ 2,90;Depósito em espécie;BERENICE DE AGUIAR SILVA;15951;Deputado Estadual;PMDB;RJ;
-JORGE SAYED PISCCIANI;12.176.626/0001-32;29/09/2010;15000259952;R$ 17,00;Estimado;BERENICE DE AGUIAR SILVA;15951;Deputado Estadual;PMDB;RJ;
-SERGIO CABRAL;12.181.923/0001-76;26/09/2010;15000259953;R$ 150,00;Estimado;BERENICE DE AGUIAR SILVA;15951;Deputado Estadual;PMDB;RJ;
-SERGIO CABRAL;12.181.923/0001-76;10/08/2010;15000259951;R$ 150,00;Estimado;BERENICE DE AGUIAR SILVA;15951;Deputado Estadual;PMDB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JORGE SAYED PISCCIANI;12.176.626/0001-32;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;151 -  - PMDB -  - Senador / 15951 - BERENICE DE AGUIAR SILVA - RJ - Deputado Estadual;
+LOURIVAL ALVES DO NASCIMENTO;344.159.127-53;30/09/2010;       Serviços prestados por terceiros;R$ 994,00;Cheque; -  -  / 15951 - BERENICE DE AGUIAR SILVA - RJ - Deputado Estadual;
+SERGIO CABRAL;12.181.923/0001-76;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;15 -  - PMDB -  - Governador / 15951 - BERENICE DE AGUIAR SILVA - RJ - Deputado Estadual;
+SERGIO CABRAL;12.181.923/0001-76;26/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;15 -  - PMDB -  - Governador / 15951 - BERENICE DE AGUIAR SILVA - RJ - Deputado Estadual;
+;;03/09/2010;       Encargos financeiros e taxas bancárias;R$ 6,00;Débito em conta; -  -  / 15951 - BERENICE DE AGUIAR SILVA - RJ - Deputado Estadual;
+;;01/11/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 15951 - BERENICE DE AGUIAR SILVA - RJ - Deputado Estadual;

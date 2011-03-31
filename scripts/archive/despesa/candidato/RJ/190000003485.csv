@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.147.818/0001-10;13/09/2010;43001510251;R$ 642,01;Estimado;CLAUDIA MARIA FERREIRA XAVIER;4356;Deputado Federal;PV;RJ;
-ULLISSES AMADOR DE OLIVEIRA;12.191.182/0001-04;22/09/2010;43001510253;R$ 180,00;Estimado;CLAUDIA MARIA FERREIRA XAVIER;4356;Deputado Federal;PV;RJ;
-ULLISSES AMADOR DE OLIVEIRA;12.191.182/0001-04;22/09/2010;43001510252;R$ 20,00;Estimado;CLAUDIA MARIA FERREIRA XAVIER;4356;Deputado Federal;PV;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.147.818/0001-10;13/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 642,01;Estimado;Direção Estadual/Distrital - PV -  / 4356 - CLAUDIA MARIA FERREIRA XAVIER - RJ - Deputado Federal;
+ULLISSES AMADOR DE OLIVEIRA;12.191.182/0001-04;22/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 180,00;Estimado;43560 -  - PV -  - Deputado Estadual / 4356 - CLAUDIA MARIA FERREIRA XAVIER - RJ - Deputado Federal;
+ULLISSES AMADOR DE OLIVEIRA;12.191.182/0001-04;22/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 20,00;Estimado;43560 -  - PV -  - Deputado Estadual / 4356 - CLAUDIA MARIA FERREIRA XAVIER - RJ - Deputado Federal;

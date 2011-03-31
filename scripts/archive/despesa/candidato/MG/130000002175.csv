@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.191.560/0001-50;19/07/2010;65000009601;R$ 73,17;Estimado;ROBISON NARCISO;65035;Deputado Estadual;PC do B;MG;
-ROBISON NARCISO;948.399.486-15;03/09/2010;65000009602;R$ 500,00;Estimado;ROBISON NARCISO;65035;Deputado Estadual;PC do B;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.191.560/0001-50;19/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 73,17;Estimado;Direção Estadual/Distrital - PC do B -  / 65035 - ROBISON NARCISO - MG - Deputado Estadual;
+ROBISON NARCISO;948.399.486-15;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 65035 - ROBISON NARCISO - MG - Deputado Estadual;

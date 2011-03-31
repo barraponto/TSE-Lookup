@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;71.585.376/0001-53;09/09/2010;65000202070;R$ 750,00;Estimado;CHIDOZIE PATRICK EMMANUEL EZEANOWAI;6544;Deputado Federal;PC do B;MA;
-FLAVIO DINO DE CASTRO E COSTA;12.176.183/0001-80;20/08/2010;65000202024;R$ 980,00;Estimado;CHIDOZIE PATRICK EMMANUEL EZEANOWAI;6544;Deputado Federal;PC do B;MA;
-FLÁVIO DINO DE CASTRO E COSTA;12.176.183/0001-80;02/10/2010;65000202023;R$ 870,00;Estimado;CHIDOZIE PATRICK EMMANUEL EZEANOWAI;6544;Deputado Federal;PC do B;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;71.585.376/0001-53;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 750,00;Estimado;Direção Estadual/Distrital - PC do B -  / 6544 - CHIDOZIE PATRICK EMMANUEL EZEANOWAI - MA - Deputado Federal;
+FLAVIO DINO DE CASTRO E COSTA;12.176.183/0001-80;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 980,00;Estimado;65 -  - PC do B -  - Governador / 6544 - CHIDOZIE PATRICK EMMANUEL EZEANOWAI - MA - Deputado Federal;
+FLÁVIO DINO DE CASTRO E COSTA;12.176.183/0001-80;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 870,00;Estimado;65 -  - PC do B -  - Governador / 6544 - CHIDOZIE PATRICK EMMANUEL EZEANOWAI - MA - Deputado Federal;

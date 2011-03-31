@@ -1,4 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-GILZA SEGGES DOS SANTOS;620.598.317-68;26/10/2010;13000878990;R$ 116,40;Transferência eletrônica;NATALINO GOMES;1326;Deputado Federal;PT;RJ;
-GILZA SEGGES DOS SANTOS;620.598.317-68;01/09/2010;13000878988;R$ 615,00;Estimado;NATALINO GOMES;1326;Deputado Federal;PT;RJ;
-MARIA APARECIDA DIOGO BRAGA;12.178.912/0001-37;01/10/2010;13000878987;R$ 890,00;Estimado;NATALINO GOMES;1326;Deputado Federal;PT;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GILZA SEGGES DOS SANTOS;620.598.317-68;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 615,00;Estimado; -  -  / 1326 - NATALINO GOMES - RJ - Deputado Federal;
+MARIA APARECIDA DIOGO BRAGA;12.178.912/0001-37;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 890,00;Estimado;13313 -  - PT -  - Deputado Estadual / 1326 - NATALINO GOMES - RJ - Deputado Federal;
+;;26/10/2010;       Encargos financeiros e taxas bancárias;R$ 32,50;Débito em conta; -  -  / 1326 - NATALINO GOMES - RJ - Deputado Federal;
+;;26/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 1326 - NATALINO GOMES - RJ - Deputado Federal;
+;;26/10/2010;       Encargos financeiros e taxas bancárias;R$ 40,00;Débito em conta; -  -  / 1326 - NATALINO GOMES - RJ - Deputado Federal;
+;;26/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 1326 - NATALINO GOMES - RJ - Deputado Federal;
+;;26/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 1326 - NATALINO GOMES - RJ - Deputado Federal;
+;;26/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 1326 - NATALINO GOMES - RJ - Deputado Federal;
+;;26/10/2010;       Encargos financeiros e taxas bancárias;R$ 25,00;Débito em conta; -  -  / 1326 - NATALINO GOMES - RJ - Deputado Federal;
+;;26/10/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 1326 - NATALINO GOMES - RJ - Deputado Federal;

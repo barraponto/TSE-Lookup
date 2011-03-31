@@ -1,5 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Presidente da República;12.181.943/0001-47;10/08/2010;27000047063;R$ 5.000,00;Cheque;Comitê Financeiro Único;PSDC;DF;
-Comitê Financeiro Estadual/Distrital para Presidente da República;12.181.943/0001-47;16/09/2010;27000047064;R$ 5.000,00;Cheque;Comitê Financeiro Único;PSDC;DF;
-JOAQUIM DOMINGOS RORIZ;12.167.447/0001-39;07/08/2010;27000047062;R$ 9.360,00;Estimado;Comitê Financeiro Único;PSDC;DF;
-JOAQUIM DOMINGOS RORIZ;12.167.447/0001-39;06/08/2010;27000047061;R$ 9.360,00;Estimado;Comitê Financeiro Único;PSDC;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JHONNY VIEIRA BRITO;034.613.571-03;21/09/2010;       Pré-instalação física de comitê de campanha de candidato;R$ 5.000,00;Cheque; -  -  / Comitê Financeiro Único - PSDC - DF;
+JHONNY VIEIRA BRITO;034.613.571-03;17/08/2010;       Pré-instalação física de comitê de campanha de candidato;R$ 2.000,00;Cheque; -  -  / Comitê Financeiro Único - PSDC - DF;
+JOAQUIM DOMINGOS RORIZ;12.167.447/0001-39;07/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 9.360,00;Estimado;20 -  - PSC -  - Governador / Comitê Financeiro Único - PSDC - DF;
+JOAQUIM DOMINGOS RORIZ;12.167.447/0001-39;06/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 9.360,00;Estimado;20 -  - PSC -  - Governador / Comitê Financeiro Único - PSDC - DF;
+MARIA LUIZA CARNEIRO ME;11.020.482/0001-68;16/08/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 252,00;Cheque; -  -  / Comitê Financeiro Único - PSDC - DF;
+MARITANA MOREIRA BORGES;329.738.371-20;16/08/2010;       Despesas com pessoal;R$ 2.700,00;Cheque; -  -  / Comitê Financeiro Único - PSDC - DF;
+PAPELARIA ABC;00.540.252/0001-03;25/10/2010;       Materiais de expediente;R$ 48,00;Cheque; -  -  / Comitê Financeiro Único - PSDC - DF;

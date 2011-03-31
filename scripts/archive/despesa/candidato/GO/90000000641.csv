@@ -1,4 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-EVANIR ALVES MAGALHÃES SILVA;263.494.421-72;08/09/2010;10000052752;R$ 220,00;Depósito em espécie;EVANIR ALVES MAGALHÃES SILVA;10101;Deputado Estadual;PRB;GO;
-EVANIR ALVES MAGALHÃES SILVA;263.494.421-72;29/09/2010;10000052753;R$ 200,00;Depósito em espécie;EVANIR ALVES MAGALHÃES SILVA;10101;Deputado Estadual;PRB;GO;
-RINALDO IRINEU SILVA JÚNIO;011.313.351-04;20/07/2010;10000052751;R$ 10,00;Depósito em espécie;EVANIR ALVES MAGALHÃES SILVA;10101;Deputado Estadual;PRB;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DANIEL FRANCISCO DA CRUZ;569.077.701-30;01/10/2010;       Publicidade por carros de som;R$ 270,00;Cheque; -  -  / 10101 - EVANIR ALVES MAGALHÃES SILVA - GO - Deputado Estadual;
+DANIEL FRANCISCO DA CRUZ;569.077.701-30;11/09/2010;       Publicidade por carros de som;R$ 150,00;Cheque; -  -  / 10101 - EVANIR ALVES MAGALHÃES SILVA - GO - Deputado Estadual;
+;;06/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,50;Débito em conta; -  -  / 10101 - EVANIR ALVES MAGALHÃES SILVA - GO - Deputado Estadual;
+;;18/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,50;Débito em conta; -  -  / 10101 - EVANIR ALVES MAGALHÃES SILVA - GO - Deputado Estadual;
+;;09/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,50;Débito em conta; -  -  / 10101 - EVANIR ALVES MAGALHÃES SILVA - GO - Deputado Estadual;
+;;18/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,50;Débito em conta; -  -  / 10101 - EVANIR ALVES MAGALHÃES SILVA - GO - Deputado Estadual;

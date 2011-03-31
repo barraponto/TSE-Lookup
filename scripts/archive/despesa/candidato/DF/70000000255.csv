@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANDRE LUIS SOARES ARAUJO;793.444.881-34;27/07/2010;36000062161;R$ 2.500,00;Transferência eletrônica;MOISES NEVES;36050;Deputado Distrital;PTC;DF;
-PITIMAN;12.174.266/0001-30;30/09/2010;36000062164;R$ 200,00;Estimado;MOISES NEVES;36050;Deputado Distrital;PTC;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EDI FESTAS - EDIMILSON MARQUES DOS SANTOS;689.356.171-72;30/09/2010;       Serviços prestados por terceiros;R$ 800,00;Cheque; -  -  / 36050 - MOISES NEVES - DF - Deputado Distrital;
+FORT PRODUTOS E SERVIÇOS GRÁFICOS LTDA-ME;12.054.304/0001-10;27/08/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 36050 - MOISES NEVES - DF - Deputado Distrital;
+PITIMAN;12.174.266/0001-30;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;1515 -  - PMDB -  - Deputado Federal / 36050 - MOISES NEVES - DF - Deputado Distrital;

@@ -1,3 +1,3 @@
-Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
-Comitê Financeiro Estadual/Distrital para Governador;12.217.615/0001-53;28/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 50.000,00;Estimado;Comitê Financeiro Distrital/Estadual para Governador - PSDB -  / Comitê Financeiro Único - PSC - AP;
-JOSÉ ALBERTO DIAS;251.426.153-87;30/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 6.300,00;Estimado; -  -  / Comitê Financeiro Único - PSC - AP;
+Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
+Comitê Financeiro Estadual/Distrital para Governador;12.217.615/0001-53;28/08/2010;20000040001;R$ 50.000,00;Estimado;Comitê Financeiro Único;PSC;AP;
+JOSÉ ALBERTO DIAS;251.426.153-87;30/07/2010;20000040002;R$ 6.300,00;Estimado;Comitê Financeiro Único;PSC;AP;

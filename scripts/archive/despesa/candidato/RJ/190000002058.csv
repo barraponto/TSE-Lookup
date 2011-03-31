@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;20000676103;R$ 150,00;Estimado;MARIO LUIZ HERMENEGILDO DA SILVA;20650;Deputado Estadual;PSC;RJ;
-ELEIÇÃO 2010 LUIZ CARLOS RAMOS;12.176.885/0001-63;11/09/2010;20000676104;R$ 126,00;Estimado;MARIO LUIZ HERMENEGILDO DA SILVA;20650;Deputado Estadual;PSC;RJ;
-ELEIÇÃO 2010 LUIZ CARLOS RAMOS;12.176.885/0001-63;01/08/2010;20000676101;R$ 2.000,00;Estimado;MARIO LUIZ HERMENEGILDO DA SILVA;20650;Deputado Estadual;PSC;RJ;
-ELEIÇÃO 2010 LUIZ CARLOS RAMOS;12.176.885/0001-63;01/08/2010;20000676102;R$ 1.800,00;Estimado;MARIO LUIZ HERMENEGILDO DA SILVA;20650;Deputado Estadual;PSC;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 20650 - MARIO LUIZ HERMENEGILDO DA SILVA - RJ - Deputado Estadual;
+ELEIÇÃO 2010 LUIZ CARLOS RAMOS;12.176.885/0001-63;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado;2727 -  - PSDC -  - Deputado Federal / 20650 - MARIO LUIZ HERMENEGILDO DA SILVA - RJ - Deputado Estadual;
+ELEIÇÃO 2010 LUIZ CARLOS RAMOS;12.176.885/0001-63;11/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 126,00;Estimado;2727 -  - PSDC -  - Deputado Federal / 20650 - MARIO LUIZ HERMENEGILDO DA SILVA - RJ - Deputado Estadual;
+ELEIÇÃO 2010 LUIZ CARLOS RAMOS;12.176.885/0001-63;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.800,00;Estimado;2727 -  - PSDC -  - Deputado Federal / 20650 - MARIO LUIZ HERMENEGILDO DA SILVA - RJ - Deputado Estadual;

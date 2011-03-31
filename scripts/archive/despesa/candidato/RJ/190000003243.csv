@@ -1,7 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.555/0001-47;10/09/2010;65000152151;R$ 3.000,00;Cheque;MARLI DO CARMO GUIMARÃES COSTA;65805;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;28/09/2010;65000152152;R$ 150,00;Estimado;MARLI DO CARMO GUIMARÃES COSTA;65805;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.191.555/0001-47;29/09/2010;65000152156;R$ 100,00;Estimado;MARLI DO CARMO GUIMARÃES COSTA;65805;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;28/09/2010;65000152154;R$ 300,00;Estimado;MARLI DO CARMO GUIMARÃES COSTA;65805;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.191.555/0001-47;29/09/2010;65000152155;R$ 406,25;Estimado;MARLI DO CARMO GUIMARÃES COSTA;65805;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;28/09/2010;65000152153;R$ 3.382,00;Estimado;MARLI DO CARMO GUIMARÃES COSTA;65805;Deputado Estadual;PC do B;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.555/0001-47;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado;Comitê Financeiro Único - PC do B -  / 65805 - MARLI DO CARMO GUIMARÃES COSTA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.382,00;Estimado;Comitê Financeiro Único - PMDB -  / 65805 - MARLI DO CARMO GUIMARÃES COSTA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 65805 - MARLI DO CARMO GUIMARÃES COSTA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.191.555/0001-47;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 406,25;Estimado;Comitê Financeiro Único - PC do B -  / 65805 - MARLI DO CARMO GUIMARÃES COSTA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 65805 - MARLI DO CARMO GUIMARÃES COSTA - RJ - Deputado Estadual;
+TRANSPORTES RIÃO LTDA;42.407.320/0001-00;23/09/2010;       Despesas com transporte ou deslocamento;R$ 1.800,00;Cheque; -  -  / 65805 - MARLI DO CARMO GUIMARÃES COSTA - RJ - Deputado Estadual;
+TRANSPORTES RIÃO LTDA;42.407.320/0001-00;01/10/2010;       Despesas com transporte ou deslocamento;R$ 1.200,00;Cheque; -  -  / 65805 - MARLI DO CARMO GUIMARÃES COSTA - RJ - Deputado Estadual;

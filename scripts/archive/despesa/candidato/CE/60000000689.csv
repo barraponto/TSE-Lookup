@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CLAUDIO HENRIQUE GADELHA LOPES;187.025.033-87;16/08/2010;19000000741;R$ 1.250,00;Transferência eletrônica;CLAUDIO HENRIQUE GADELHA LOPES;19090;Deputado Estadual;PTN;CE;
-MARCOGRAF GRAFICA LTDA;02.963.095/0001-74;20/08/2010;19000000742;R$ 172,00;Estimado;CLAUDIO HENRIQUE GADELHA LOPES;19090;Deputado Estadual;PTN;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA E EDITORA ELEAL LTDA;07.181.234/0001-21;18/08/2010;       Publicidade por materiais impressos;R$ 1.240,00;Cheque; -  -  / 19090 - CLAUDIO HENRIQUE GADELHA LOPES - CE - Deputado Estadual;
+MARCOGRAF GRAFICA LTDA;02.963.095/0001-74;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 172,00;Estimado; -  -  / 19090 - CLAUDIO HENRIQUE GADELHA LOPES - CE - Deputado Estadual;
+19090 - CLAUDIO HENRIQUE GADELHA LOPES - DEPUTADO ESTADUAL;12.190.077/0001-50;25/10/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 10,00;Depósito em espécie;Direção Nacional - PTN - BR / 19090 - CLAUDIO HENRIQUE GADELHA LOPES - CE - Deputado Estadual;

@@ -1,6 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JACKSON KEPLER LAGO;12.167.170/0001-44;05/09/2010;12001022604;R$ 2.698,80;Estimado;ORLANDO RANGEL PEREIRA RIBEIRO;1225;Deputado Federal;PDT;MA;
-ORLANDO RANGEL PEREIRA RIBEIRO;159.154.923-04;16/09/2010;12001022602;R$ 2.000,00;Depósito em espécie;ORLANDO RANGEL PEREIRA RIBEIRO;1225;Deputado Federal;PDT;MA;
-ORLANDO RANGEL PEREIRA RIBEIRO;159.154.923-04;04/09/2010;12001022605;R$ 6.000,00;Estimado;ORLANDO RANGEL PEREIRA RIBEIRO;1225;Deputado Federal;PDT;MA;
-ORLANDO RANGEL PEREIRA RIBEIRO;159.154.923-04;02/09/2010;12001022601;R$ 3.000,00;Depósito em espécie;ORLANDO RANGEL PEREIRA RIBEIRO;1225;Deputado Federal;PDT;MA;
-ORLANDO RANGEL PEREIRA RIBEIRO;159.154.923-04;25/10/2010;12001022603;R$ 600,00;Depósito em espécie;ORLANDO RANGEL PEREIRA RIBEIRO;1225;Deputado Federal;PDT;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ASID GRÁFICA E COMUNICAÇÃO LTDA;11.305.064/0001-17;16/09/2010;       Publicidade por materiais impressos;R$ 1.910,00;Cheque; -  -  / 1225 - ORLANDO RANGEL PEREIRA RIBEIRO - MA - Deputado Federal;
+ASID GRÁFICA E COMUNICAÇÃO LTDA;11.305.064/0001-17;02/09/2010;       Publicidade por materiais impressos;R$ 2.000,00;Cheque; -  -  / 1225 - ORLANDO RANGEL PEREIRA RIBEIRO - MA - Deputado Federal;
+ESTAÇÃO GRÁFICA LTDA;69.419.877/0001-18;02/09/2010;       Publicidade por materiais impressos;R$ 892,00;Cheque; -  -  / 1225 - ORLANDO RANGEL PEREIRA RIBEIRO - MA - Deputado Federal;
+JACKSON KEPLER LAGO;12.167.170/0001-44;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.698,80;Estimado;12 -  - PDT -  - Governador / 1225 - ORLANDO RANGEL PEREIRA RIBEIRO - MA - Deputado Federal;
+ORLANDO RANGEL PEREIRA RIBEIRO;159.154.923-04;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 6.000,00;Estimado; -  -  / 1225 - ORLANDO RANGEL PEREIRA RIBEIRO - MA - Deputado Federal;
+R.M. PEREIRA GOMES SOARES-ME;05.351.717/0001-00;04/09/2010;       Combustíveis e lubrificantes;R$ 793,80;Cheque; -  -  / 1225 - ORLANDO RANGEL PEREIRA RIBEIRO - MA - Deputado Federal;

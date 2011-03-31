@@ -1,3 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MANOEL COELHO PEREIRA PANTA;021.464.104-00;12/08/2010;28000816101;R$ 5.000,00;Depósito em espécie;MANOEL COELHO PEREIRA PANTA;2816;Deputado Federal;PRTB;PE;
-MS GRÁFICA E COPIADORA LTDA;08.414.148/0001-84;28/09/2010;28000816102;R$ 5.000,00;Estimado;MANOEL COELHO PEREIRA PANTA;2816;Deputado Federal;PRTB;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CAMPEL COMUNICAÇÃO & ARTE LTDA - ME;10.484.983/0001-32;23/08/2010;       Publicidade por placas, estandartes e faixas;R$ 1.280,00;Cheque; -  -  / 2816 - MANOEL COELHO PEREIRA PANTA - PE - Deputado Federal;
+CAMPEL COMUNICAÇÃO & ARTE LTDA - ME;10.484.983/0001-32;29/09/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 2816 - MANOEL COELHO PEREIRA PANTA - PE - Deputado Federal;
+CAMPEL COMUNICAÇÃO & ARTE LTDA - ME;10.484.983/0001-32;14/08/2010;       Publicidade por placas, estandartes e faixas;R$ 1.920,00;Cheque; -  -  / 2816 - MANOEL COELHO PEREIRA PANTA - PE - Deputado Federal;
+CAMPEL COMUNICAÇÃO & ARTE LTDA - ME;10.484.983/0001-32;15/09/2010;       Publicidade por placas, estandartes e faixas;R$ 1.300,00;Cheque; -  -  / 2816 - MANOEL COELHO PEREIRA PANTA - PE - Deputado Federal;
+MS GRÁFICA E COPIADORA LTDA;08.414.148/0001-84;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 5.000,00;Estimado; -  -  / 2816 - MANOEL COELHO PEREIRA PANTA - PE - Deputado Federal;

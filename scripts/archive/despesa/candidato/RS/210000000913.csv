@@ -1,3 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-IRTON MARX;268.390.400-20;15/09/2010;36000095345;R$ 245,00;Depósito em espécie;IRTON MARX;36609;Deputado Estadual;PTC;RS;
-IRTON MARX;268.390.400-20;01/09/2010;36000095344;R$ 808,00;Depósito em espécie;IRTON MARX;36609;Deputado Estadual;PTC;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+MUNIZ & SIQUEIRA LTDA.;07.895.057/0001-45;01/09/2010;       Publicidade por materiais impressos;R$ 807,00;Cheque; -  -  / 36609 - IRTON MARX - RS - Deputado Estadual;
+;;22/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 36609 - IRTON MARX - RS - Deputado Estadual;
+;;25/10/2010;       Encargos financeiros e taxas bancárias;R$ 20,50;Débito em conta; -  -  / 36609 - IRTON MARX - RS - Deputado Estadual;
+;;15/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 36609 - IRTON MARX - RS - Deputado Estadual;
+;;18/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 36609 - IRTON MARX - RS - Deputado Estadual;
+;;19/10/2010;       Encargos financeiros e taxas bancárias;R$ 20,50;Débito em conta; -  -  / 36609 - IRTON MARX - RS - Deputado Estadual;
+;;18/10/2010;       Encargos financeiros e taxas bancárias;R$ 20,50;Débito em conta; -  -  / 36609 - IRTON MARX - RS - Deputado Estadual;

@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.570/0001-95;31/08/2010;15000060052;R$ 85,20;Estimado;PATRICIA REGINA ROCHA NUNO DE SOUZA BRITTO;15190;Deputado Estadual;PMDB;BA;
-Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;15000060053;R$ 2.289,60;Estimado;PATRICIA REGINA ROCHA NUNO DE SOUZA BRITTO;15190;Deputado Estadual;PMDB;BA;
-NAIÁ GARCIA DOLBEAU;541.107.425-87;29/07/2010;15000060051;R$ 40,00;Depósito em espécie;PATRICIA REGINA ROCHA NUNO DE SOUZA BRITTO;15190;Deputado Estadual;PMDB;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.570/0001-95;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 85,20;Estimado;Comitê Financeiro Único - PMDB -  / 15190 - PATRICIA REGINA ROCHA NUNO DE SOUZA BRITTO - BA - Deputado Estadual;
+Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.289,60;Estimado;Comitê Financeiro Único - PMDB -  / 15190 - PATRICIA REGINA ROCHA NUNO DE SOUZA BRITTO - BA - Deputado Estadual;
+;;02/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 15190 - PATRICIA REGINA ROCHA NUNO DE SOUZA BRITTO - BA - Deputado Estadual;

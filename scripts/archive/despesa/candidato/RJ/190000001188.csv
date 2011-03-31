@@ -1,4 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-VINICIOS RODRIGUES ANNES;131.828.497-00;28/09/2010;45000108661;R$ 570,00;Depósito em espécie;HELITON DA SILVA ANNES;4523;Deputado Federal;PSDB;RJ;
-VINICIOS RODRIGUES ANNES;131.828.497-00;01/11/2010;45000108663;R$ 51,95;Depósito em espécie;HELITON DA SILVA ANNES;4523;Deputado Federal;PSDB;RJ;
-VINICIOS RODRIGUES ANNES;131.828.497-00;01/10/2010;45000108662;R$ 80,00;Estimado;HELITON DA SILVA ANNES;4523;Deputado Federal;PSDB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+A DIGITAL COMUNICAÇÃO VISUAL LTDA.;08.867.504/0001-15;28/09/2010;       Publicidade por placas, estandartes e faixas;R$ 362,65;Transferência eletrônica; -  -  / 4523 - HELITON DA SILVA ANNES - RJ - Deputado Federal;
+JULIANA PAIVA PETEAN;024.767.807-40;01/11/2010;       Serviços prestados por terceiros;R$ 80,00;Transferência eletrônica; -  -  / 4523 - HELITON DA SILVA ANNES - RJ - Deputado Federal;
+MOURA REPRODUÇÕES LTDA;00.915.560/0001-76;28/09/2010;       Publicidade por materiais impressos;R$ 160,00;Transferência eletrônica; -  -  / 4523 - HELITON DA SILVA ANNES - RJ - Deputado Federal;
+VINICIOS RODRIGUES ANNES;131.828.497-00;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 80,00;Estimado; -  -  / 4523 - HELITON DA SILVA ANNES - RJ - Deputado Federal;
+;;20/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 4523 - HELITON DA SILVA ANNES - RJ - Deputado Federal;
+;;30/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 4523 - HELITON DA SILVA ANNES - RJ - Deputado Federal;
+;;28/09/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Débito em conta; -  -  / 4523 - HELITON DA SILVA ANNES - RJ - Deputado Federal;

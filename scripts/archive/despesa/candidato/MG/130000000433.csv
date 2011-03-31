@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DIRCEU GOMES DOS SANTOS;937.912.326-49;01/09/2010;27000023135;R$ 600,00;Estimado;ERASMO RODRIGUES DINIZ;2733;Deputado Federal;PSDC;MG;
-Diretório Estadual/Distrital;05.222.225/0001-06;06/08/2010;27000023130;R$ 890,00;Estimado;ERASMO RODRIGUES DINIZ;2733;Deputado Federal;PSDC;MG;
-Diretório Estadual/Distrital;05.222.225/0001-06;06/08/2010;27000023131;R$ 760,00;Estimado;ERASMO RODRIGUES DINIZ;2733;Deputado Federal;PSDC;MG;
-ERASMO RODRIGUES DINIZ;564.671.686-15;20/07/2010;27000023129;R$ 2.065,00;Estimado;ERASMO RODRIGUES DINIZ;2733;Deputado Federal;PSDC;MG;
-ERASMO RODRIGUES DINIZ;564.671.686-15;06/08/2010;27000023132;R$ 1.770,00;Estimado;ERASMO RODRIGUES DINIZ;2733;Deputado Federal;PSDC;MG;
-LEONORA DE ALMEIDA VIEIRA;048.343.936-31;01/09/2010;27000023134;R$ 600,00;Estimado;ERASMO RODRIGUES DINIZ;2733;Deputado Federal;PSDC;MG;
-LILIANE APARECIDA DE ALMEIDA;051.083.996-77;01/09/2010;27000023133;R$ 600,00;Estimado;ERASMO RODRIGUES DINIZ;2733;Deputado Federal;PSDC;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DIRCEU GOMES DOS SANTOS;937.912.326-49;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado; -  -  / 2733 - ERASMO RODRIGUES DINIZ - MG - Deputado Federal;
+Diretório Estadual/Distrital;05.222.225/0001-06;06/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 890,00;Estimado;Direção Estadual/Distrital - PSDC -  / 2733 - ERASMO RODRIGUES DINIZ - MG - Deputado Federal;
+Diretório Estadual/Distrital;05.222.225/0001-06;06/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 760,00;Estimado;Direção Estadual/Distrital - PSDC -  / 2733 - ERASMO RODRIGUES DINIZ - MG - Deputado Federal;
+ERASMO RODRIGUES DINIZ;564.671.686-15;20/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.065,00;Estimado; -  -  / 2733 - ERASMO RODRIGUES DINIZ - MG - Deputado Federal;
+ERASMO RODRIGUES DINIZ;564.671.686-15;06/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.770,00;Estimado; -  -  / 2733 - ERASMO RODRIGUES DINIZ - MG - Deputado Federal;
+LEONORA DE ALMEIDA VIEIRA;048.343.936-31;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado; -  -  / 2733 - ERASMO RODRIGUES DINIZ - MG - Deputado Federal;
+LILIANE APARECIDA DE ALMEIDA;051.083.996-77;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado; -  -  / 2733 - ERASMO RODRIGUES DINIZ - MG - Deputado Federal;

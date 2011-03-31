@@ -1,3 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSE FERNANDES DE BARROS;136.496.041-91;15/09/2010;10000057130;R$ 2.500,00;Estimado;JOSE FERNANDES DE BARROS;1015;Deputado Federal;PRB;PA;
-TATIANA DA SILVA BESSA;302.441.022-87;30/09/2010;10000057129;R$ 1.060,00;Transferência eletrônica;JOSE FERNANDES DE BARROS;1015;Deputado Federal;PRB;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JOSE FERNANDES DE BARROS;136.496.041-91;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.500,00;Estimado; -  -  / 1015 - JOSE FERNANDES DE BARROS - PA - Deputado Federal;
+L. DA SILVA SERVIÇOS - ME;10.592.778/0001-90;30/09/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 1015 - JOSE FERNANDES DE BARROS - PA - Deputado Federal;
+M. R. ALVES DA SILVA COMERCIAL;03.146.592/0001-42;30/09/2010;       Combustíveis e lubrificantes;R$ 660,00;Cheque; -  -  / 1015 - JOSE FERNANDES DE BARROS - PA - Deputado Federal;
+MANOEL DOMINGOS DE SOUZA LEITE;05.421.300/0001-68;30/09/2010;       Publicidade por carros de som;R$ 200,00;Cheque; -  -  / 1015 - JOSE FERNANDES DE BARROS - PA - Deputado Federal;

@@ -1,5 +1,13 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;09/09/2010;31000026101;R$ 150,00;Estimado;MARTA SERRATE DOS SANTOS;3188;Deputado Federal;PHS;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;09/09/2010;31000026102;R$ 825,00;Estimado;MARTA SERRATE DOS SANTOS;3188;Deputado Federal;PHS;RJ;
-JORGE SAYED PICCIANI;12.176.626/0001-32;30/09/2010;31000026103;R$ 17,00;Estimado;MARTA SERRATE DOS SANTOS;3188;Deputado Federal;PHS;RJ;
-MARTA SERRATE DOS SANTOS;663.611.764-87;22/07/2010;31000026104;R$ 220,00;Depósito em espécie;MARTA SERRATE DOS SANTOS;3188;Deputado Federal;PHS;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CAFE BAR RESTAURANTE ITAMBIRA;33.017.690/0001-40;27/07/2010;       Alimentação;R$ 17,10;Não informado; -  -  / 3188 - MARTA SERRATE DOS SANTOS - RJ - Deputado Federal;
+CASTELO VERDE COM E SERV DE PAPELARIA E BAZAR LTDA;35.880.285/0001-87;30/08/2010;       Materiais de expediente;R$ 75,94;Não informado; -  -  / 3188 - MARTA SERRATE DOS SANTOS - RJ - Deputado Federal;
+CENTRAL PARK RIO EST AUTO LT;07.085.910/0001-63;27/07/2010;       Despesas com transporte ou deslocamento;R$ 25,00;Não informado; -  -  / 3188 - MARTA SERRATE DOS SANTOS - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 825,00;Estimado;Comitê Financeiro Único - PMDB -  / 3188 - MARTA SERRATE DOS SANTOS - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 3188 - MARTA SERRATE DOS SANTOS - RJ - Deputado Federal;
+ESTAPAR;60.537.263/0226-40;30/07/2010;       Despesas com transporte ou deslocamento;R$ 21,00;Não informado; -  -  / 3188 - MARTA SERRATE DOS SANTOS - RJ - Deputado Federal;
+FNH RJ RESTAURANTE LTDA;08.800.659/0001-34;22/07/2010;       Despesas com transporte ou deslocamento;R$ 10,00;Não informado; -  -  / 3188 - MARTA SERRATE DOS SANTOS - RJ - Deputado Federal;
+JORGE SAYED PICCIANI;12.176.626/0001-32;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 3188 - MARTA SERRATE DOS SANTOS - RJ - Deputado Federal;
+METAWEB INTERNET LTDA;05.275.018/0001-10;22/07/2010;       Criação e inclusão de páginas na internet;R$ 47,30;Não informado; -  -  / 3188 - MARTA SERRATE DOS SANTOS - RJ - Deputado Federal;
+MULTIPLAN ADM DE SHOPPING CENTERS;07.141.284/0005-09;24/07/2010;       Despesas com transporte ou deslocamento;R$ 5,00;Não informado; -  -  / 3188 - MARTA SERRATE DOS SANTOS - RJ - Deputado Federal;
+SUPER MERCADO ZONA SUL S/A;33.381.286/9021-98;26/07/2010;       Alimentação;R$ 18,46;Não informado; -  -  / 3188 - MARTA SERRATE DOS SANTOS - RJ - Deputado Federal;
+TPRI SERV REPROGRÁFICOS LTDA;11.305.960/0001-86;21/10/2010;       Materiais de expediente;R$ 0,20;Não informado; -  -  / 3188 - MARTA SERRATE DOS SANTOS - RJ - Deputado Federal;

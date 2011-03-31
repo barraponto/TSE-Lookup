@@ -1,3 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-RICARDO RIBEIRO ALVES;286.880.231-15;14/10/2010;10000052203;R$ 1,75;Depósito em espécie;RICARDO RIBEIRO ALVES;1017;Deputado Federal;PRB;GO;
-RICARDO RIBEIRO ALVES;286.880.231-15;05/10/2010;10000052202;R$ 687,50;Depósito em espécie;RICARDO RIBEIRO ALVES;1017;Deputado Federal;PRB;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO ATENEU;37.652.708/0001-37;23/09/2010;       Despesas com transporte ou deslocamento;R$ 189,50;Cheque; -  -  / 1017 - RICARDO RIBEIRO ALVES - GO - Deputado Federal;
+ELITTE ASSESSORIA E CONSULTORIA EMPRESARIAL;891.758.401-20;22/09/2010;       Serviços prestados por terceiros;R$ 450,00;Cheque; -  -  / 1017 - RICARDO RIBEIRO ALVES - GO - Deputado Federal;
+;;14/10/2010;       Encargos financeiros e taxas bancárias;R$ 1,75;Débito em conta; -  -  / 1017 - RICARDO RIBEIRO ALVES - GO - Deputado Federal;
+;;05/10/2010;       Encargos financeiros e taxas bancárias;R$ 48,00;Cheque; -  -  / 1017 - RICARDO RIBEIRO ALVES - GO - Deputado Federal;

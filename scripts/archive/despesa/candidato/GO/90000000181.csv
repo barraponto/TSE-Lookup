@@ -1,3 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEICAO 2010 JOSIAS GENEROSO DA COSTA DEPUTADO ESTADUAL;578.055.981-34;01/08/2010;17000036527;R$ 2.000,00;Estimado;JOSIAS GENEROSO DA COSTA;17300;Deputado Estadual;PSL;GO;
-GENEROSO TRANSPORTES LTDA;05.571.700/0001-50;31/08/2010;17000036526;R$ 2.000,00;Depósito em espécie;JOSIAS GENEROSO DA COSTA;17300;Deputado Estadual;PSL;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO DO SILVIO LTDA;00.068.010/0001-69;08/09/2010;       Combustíveis e lubrificantes;R$ 543,00;Cheque; -  -  / 17300 - JOSIAS GENEROSO DA COSTA - GO - Deputado Estadual;
+ELEICAO 2010 JOSIAS GENEROSO DA COSTA DEPUTADO ESTADUAL;578.055.981-34;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado; -  -  / 17300 - JOSIAS GENEROSO DA COSTA - GO - Deputado Estadual;
+GRAFCOLOR EDITORAÇÃO E IMPRESSÃO LTDA;03.657.127/0001-76;17/08/2010;       Publicidade por materiais impressos;R$ 780,00;Cheque; -  -  / 17300 - JOSIAS GENEROSO DA COSTA - GO - Deputado Estadual;
+IRMÃOS FERREIRA COMBUSTIVEIS LTDA;02.683.485/0001-90;02/10/2010;       Combustíveis e lubrificantes;R$ 677,00;Cheque; -  -  / 17300 - JOSIAS GENEROSO DA COSTA - GO - Deputado Estadual;

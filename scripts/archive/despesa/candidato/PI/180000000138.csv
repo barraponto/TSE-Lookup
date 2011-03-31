@@ -1,5 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 SILVIO MENDES DE OLIVEIRA FILHO GOVERNADOR;12.170.534/0001-45;29/09/2010;25000497104;R$ 5.489,36;Estimado;JOAQUIM DIAS DE SANTANA NETO;25321;Deputado Estadual;DEM;PI;
-JOAQUIM DIAS DE SANTANA FILHO;007.614.943-91;13/07/2010;25000497101;R$ 2.000,00;Cheque;JOAQUIM DIAS DE SANTANA NETO;25321;Deputado Estadual;DEM;PI;
-JOAQUIM DIAS DE SANTANA NETO;804.851.203-30;26/07/2010;25000497103;R$ 202,00;Transferência eletrônica;JOAQUIM DIAS DE SANTANA NETO;25321;Deputado Estadual;DEM;PI;
-JOAQUIM DIAS DE SANTANA NETO;804.851.203-30;19/07/2010;25000497102;R$ 5.332,50;Transferência eletrônica;JOAQUIM DIAS DE SANTANA NETO;25321;Deputado Estadual;DEM;PI;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CRIATIVA COMUNICAÇÃO VISUAL LTDA;07.789.221/0001-30;19/07/2010;       Publicidade por materiais impressos;R$ 1.040,00;Cheque; -  -  / 25321 - JOAQUIM DIAS DE SANTANA NETO - PI - Deputado Estadual;
+ELEIÇÃO 2010 SILVIO MENDES DE OLIVEIRA FILHO GOVERNADOR;12.170.534/0001-45;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 5.489,36;Estimado;45 -  - PSDB -  - Governador / 25321 - JOAQUIM DIAS DE SANTANA NETO - PI - Deputado Estadual;
+EMPRESA O DIA LTDA;06.846.059/0001-81;22/07/2010;       Publicidade por jornais e revistas;R$ 1.072,80;Cheque; -  -  / 25321 - JOAQUIM DIAS DE SANTANA NETO - PI - Deputado Estadual;
+GRÁFICA E EDITORA DO POVO LTDA;23.523.004/0001-50;23/07/2010;       Publicidade por jornais e revistas;R$ 2.000,00;Cheque; -  -  / 25321 - JOAQUIM DIAS DE SANTANA NETO - PI - Deputado Estadual;
+NOVA EXPANSÃO GRÁFICA E EDITORA;07.649.469/0001-03;21/07/2010;       Publicidade por materiais impressos;R$ 960,00;Cheque; -  -  / 25321 - JOAQUIM DIAS DE SANTANA NETO - PI - Deputado Estadual;
+SISTEMA MEIO NORTE DE COMUNICAÇÃO LTDA;00.361.945/0001-39;19/07/2010;       Publicidade por jornais e revistas;R$ 2.432,00;Cheque; -  -  / 25321 - JOAQUIM DIAS DE SANTANA NETO - PI - Deputado Estadual;
+;;19/07/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Débito em conta; -  -  / 25321 - JOAQUIM DIAS DE SANTANA NETO - PI - Deputado Estadual;

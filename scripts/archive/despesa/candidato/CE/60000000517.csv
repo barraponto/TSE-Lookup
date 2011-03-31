@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.217.614/0001-09;06/09/2010;19000002763;R$ 292,96;Estimado;RONALDO FERREIRA PINTO;19700;Deputado Estadual;PTN;CE;
-Comitê Financeiro Único;12.217.614/0001-09;06/09/2010;19000002762;R$ 80,65;Estimado;RONALDO FERREIRA PINTO;19700;Deputado Estadual;PTN;CE;
-MARCOGRAF GRAFICA LTDA;02.963.095/0001-74;20/08/2010;19000002761;R$ 172,00;Estimado;RONALDO FERREIRA PINTO;19700;Deputado Estadual;PTN;CE;
-RONALDO FERREIRA PINTO;165.598.783-68;21/10/2010;19000002764;R$ 42,00;Depósito em espécie;RONALDO FERREIRA PINTO;19700;Deputado Estadual;PTN;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.217.614/0001-09;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 292,96;Estimado;Comitê Financeiro Único - PTN -  / 19700 - RONALDO FERREIRA PINTO - CE - Deputado Estadual;
+Comitê Financeiro Único;12.217.614/0001-09;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 80,65;Estimado;Comitê Financeiro Único - PTN -  / 19700 - RONALDO FERREIRA PINTO - CE - Deputado Estadual;
+MARCOGRAF GRAFICA LTDA;02.963.095/0001-74;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 172,00;Estimado; -  -  / 19700 - RONALDO FERREIRA PINTO - CE - Deputado Estadual;
+19700 - RONALDO FERREIRA PINTO - DEPUTADO ESTADUAL;12.190.030/0001-97;21/10/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 42,00;Depósito em espécie;Direção Nacional - PTN - BR / 19700 - RONALDO FERREIRA PINTO - CE - Deputado Estadual;

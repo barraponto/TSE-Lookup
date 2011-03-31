@@ -1,4 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.310/0001-21;02/09/2010;17000051952;R$ 641,00;Estimado;ADRIANA LIMA DE ARAUJO;17555;Deputado Estadual;PSL;MA;
-Comitê Financeiro Único;12.205.310/0001-21;02/08/2010;17000051953;R$ 166,65;Estimado;ADRIANA LIMA DE ARAUJO;17555;Deputado Estadual;PSL;MA;
-Diretório Estadual/Distrital;01.387.080/0001-42;30/09/2010;17000051951;R$ 15.000,00;Cheque;ADRIANA LIMA DE ARAUJO;17555;Deputado Estadual;PSL;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AMISTERDA COMERCIO DE DERIVADOS DE PETROLEO LTDA;09.161.591/0001-53;01/10/2010;       Combustíveis e lubrificantes;R$ 5.000,00;Cheque; -  -  / 17555 - ADRIANA LIMA DE ARAUJO - MA - Deputado Estadual;
+Comitê Financeiro Único;12.205.310/0001-21;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 641,00;Estimado;Comitê Financeiro Único - PSL -  / 17555 - ADRIANA LIMA DE ARAUJO - MA - Deputado Estadual;
+Comitê Financeiro Único;12.205.310/0001-21;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 166,65;Estimado;Comitê Financeiro Único - PSL -  / 17555 - ADRIANA LIMA DE ARAUJO - MA - Deputado Estadual;
+JOSE DE RIBAMAR RODRIGUES PEREIRA;097.770.402-53;01/10/2010;       Cessão ou Locação de Veículos;R$ 6.000,00;Cheque; -  -  / 17555 - ADRIANA LIMA DE ARAUJO - MA - Deputado Estadual;
+RENATA DO NASCIMENTO SOUSA;007.473.413-03;01/10/2010;       Cessão ou Locação de Veículos;R$ 4.000,00;Cheque; -  -  / 17555 - ADRIANA LIMA DE ARAUJO - MA - Deputado Estadual;

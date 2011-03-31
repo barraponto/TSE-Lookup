@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Governador;12.181.923/0001-76;30/09/2010;12000061623;R$ 150,00;Estimado;ROBERTO FERREIRA BORGES;12101;Deputado Estadual;PDT;RJ;
-Comitê Financeiro Estadual/Distrital para Governador;12.181.923/0001-76;30/09/2010;12000061624;R$ 300,00;Estimado;ROBERTO FERREIRA BORGES;12101;Deputado Estadual;PDT;RJ;
-JORGE SAYED PICCIANI;12.176.626/0001-32;05/08/2010;12000061621;R$ 927,00;Estimado;ROBERTO FERREIRA BORGES;12101;Deputado Estadual;PDT;RJ;
-JORGE SAYED PICCIANI;12.176.626/0001-32;02/08/2010;12000061622;R$ 17,00;Estimado;ROBERTO FERREIRA BORGES;12101;Deputado Estadual;PDT;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Governador;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Distrital/Estadual para Governador - PMDB -  / 12101 - ROBERTO FERREIRA BORGES - RJ - Deputado Estadual;
+Comitê Financeiro Estadual/Distrital para Governador;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Distrital/Estadual para Governador - PMDB -  / 12101 - ROBERTO FERREIRA BORGES - RJ - Deputado Estadual;
+JORGE SAYED PICCIANI;12.176.626/0001-32;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 12101 - ROBERTO FERREIRA BORGES - RJ - Deputado Estadual;
+JORGE SAYED PICCIANI;12.176.626/0001-32;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 927,00;Estimado;155 -  - PMDB -  - Senador / 12101 - ROBERTO FERREIRA BORGES - RJ - Deputado Estadual;

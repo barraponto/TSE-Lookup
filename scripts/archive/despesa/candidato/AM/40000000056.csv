@@ -1,3 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.154.854/0001-01;29/07/2010;17000026451;R$ 4.000,00;Cheque;ROMULO PEREIRA BRAGA;17012;Deputado Estadual;PSL;AM;
-MASAMI MIKI;12.171.517/0001-22;14/09/2010;17000026453;R$ 5.000,00;Cheque;ROMULO PEREIRA BRAGA;17012;Deputado Estadual;PSL;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JOSE MARIA GOMES MONTEIRO JUNIOR;345.106.302-63;03/08/2010;       Cessão ou Locação de Veículos;R$ 2.000,00;Cheque; -  -  / 17012 - ROMULO PEREIRA BRAGA - AM - Deputado Estadual;
+MARIA DA CONCEIÇAO QUEIROZ FERREIRA;621.150.652-04;17/09/2010;       Cessão ou Locação de Veículos;R$ 2.500,00;Cheque; -  -  / 17012 - ROMULO PEREIRA BRAGA - AM - Deputado Estadual;
+MARIA DA CONCEIÇAO QUEIROZ FERREIRA;621.150.652-04;03/08/2010;       Cessão ou Locação de Veículos;R$ 2.000,00;Cheque; -  -  / 17012 - ROMULO PEREIRA BRAGA - AM - Deputado Estadual;
+VALTER DE NAZARE PEREIRA RANGER;134.944.812-53;17/09/2010;       Cessão ou Locação de Veículos;R$ 2.500,00;Cheque; -  -  / 17012 - ROMULO PEREIRA BRAGA - AM - Deputado Estadual;

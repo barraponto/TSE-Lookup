@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 JOSE MEGALE FILHO DEPUTADO ESTADUAL;12.189.756/0001-00;04/08/2010;45000315459;R$ 280,00;Estimado;DELMIRO VIEIRA PEIXOTO JUNIOR;4525;Deputado Federal;PSDB;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 JOSE MEGALE FILHO DEPUTADO ESTADUAL;12.189.756/0001-00;04/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 280,00;Estimado;45045 -  - PSDB -  - Deputado Estadual / 4525 - DELMIRO VIEIRA PEIXOTO JUNIOR - PA - Deputado Federal;

@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-A ALBUQUERQUE DE SOUSA;05.954.555/0001-96;30/08/2010;10000073717;R$ 150,00;Estimado;JOSE DE RIBAMAR TEIXEIRA;10666;Deputado Estadual;PRB;MA;
-ALEXANDRE ALBUQUERQUE DE SOUSA;181.124.498-05;02/09/2010;10000073719;R$ 100,00;Estimado;JOSE DE RIBAMAR TEIXEIRA;10666;Deputado Estadual;PRB;MA;
-ALEXANDRE ALBUQUERQUE DE SOUSA;181.124.498-05;03/09/2010;10000073820;R$ 130,00;Estimado;JOSE DE RIBAMAR TEIXEIRA;10666;Deputado Estadual;PRB;MA;
-CLEBER VERDE;12.177.528/0001-10;25/08/2010;10000073718;R$ 166,65;Estimado;JOSE DE RIBAMAR TEIXEIRA;10666;Deputado Estadual;PRB;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+A ALBUQUERQUE DE SOUSA;05.954.555/0001-96;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado; -  -  / 10666 - JOSE DE RIBAMAR TEIXEIRA - MA - Deputado Estadual;
+ALEXANDRE ALBUQUERQUE DE SOUSA;181.124.498-05;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 130,00;Estimado; -  -  / 10666 - JOSE DE RIBAMAR TEIXEIRA - MA - Deputado Estadual;
+ALEXANDRE ALBUQUERQUE DE SOUSA;181.124.498-05;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado; -  -  / 10666 - JOSE DE RIBAMAR TEIXEIRA - MA - Deputado Estadual;
+CLEBER VERDE;12.177.528/0001-10;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 166,65;Estimado;1010 -  - PRB -  - Deputado Federal / 10666 - JOSE DE RIBAMAR TEIXEIRA - MA - Deputado Estadual;

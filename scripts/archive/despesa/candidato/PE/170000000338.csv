@@ -1,2 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO JOSE LAPENDA DE MOURA;399.468.354-87;29/07/2010;44000049781;R$ 500,00;Cheque;ANTONIO JOSÉ LAPENDA DE MOURA;44044;Deputado Estadual;PRP;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANNA MARIA TAVARES NUNES DE SOUZA;783.889.454-91;01/10/2010;       Serviços prestados por terceiros;R$ 74,00;Cheque; -  -  / 44044 - ANTONIO JOSÉ LAPENDA DE MOURA - PE - Deputado Estadual;
+OLINDA COMUNICAÇÃO VISUAL LTDA;04.918.831/0001-06;20/09/2010;       Publicidade por materiais impressos;R$ 126,00;Cheque; -  -  / 44044 - ANTONIO JOSÉ LAPENDA DE MOURA - PE - Deputado Estadual;
+OLINDA COMUNICAÇÃO VISUAL LTDA;04.918.831/0001-06;10/08/2010;       Publicidade por materiais impressos;R$ 188,00;Cheque; -  -  / 44044 - ANTONIO JOSÉ LAPENDA DE MOURA - PE - Deputado Estadual;
+OLINDA COMUNICAÇÃO VISUAL LTDA;04.918.831/0001-06;20/08/2010;       Publicidade por materiais impressos;R$ 112,00;Cheque; -  -  / 44044 - ANTONIO JOSÉ LAPENDA DE MOURA - PE - Deputado Estadual;

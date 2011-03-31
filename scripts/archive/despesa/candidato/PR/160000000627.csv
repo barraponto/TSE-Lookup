@@ -1,2 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADALBERTO CORDEIRO ROCHA;503.432.709-00;28/07/2010;50000389115;R$ 1.000,00;Depósito em espécie;ADALBERTO CORDEIRO ROCHA;50234;Deputado Estadual;PSOL;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA SHALOM CANARIO & RAMOS;95.415.154/0001-50;06/08/2010;       Serviços prestados por terceiros;R$ 750,00;Cheque; -  -  / 50234 - ADALBERTO CORDEIRO ROCHA - PR - Deputado Estadual;
+MARCOS PEREIRA MENDES;484.648.489-00;10/08/2010;       Serviços prestados por terceiros;R$ 200,00;Cheque; -  -  / 50234 - ADALBERTO CORDEIRO ROCHA - PR - Deputado Estadual;
+MARCOS PEREIRA MENDES;484.648.489-00;02/10/2010;       Serviços prestados por terceiros;R$ 50,00;Cheque; -  -  / 50234 - ADALBERTO CORDEIRO ROCHA - PR - Deputado Estadual;

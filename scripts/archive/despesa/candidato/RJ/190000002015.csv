@@ -1,3 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 JORGE SAYED PICCIANI SENADOR;12.176.626/0001-32;31/08/2010;20000672522;R$ 340,00;Estimado;GILBERTO REIS DO NASCIMENTO;20910;Deputado Estadual;PSC;RJ;
-SERGIO CABRAL;12.181.923/0001-76;14/08/2010;20000672523;R$ 300,00;Estimado;GILBERTO REIS DO NASCIMENTO;20910;Deputado Estadual;PSC;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 JORGE SAYED PICCIANI SENADOR;12.176.626/0001-32;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 340,00;Estimado;155 -  - PMDB -  - Senador / 20910 - GILBERTO REIS DO NASCIMENTO - RJ - Deputado Estadual;
+NSA EDITORAÇÃO ELETRONICA LIMITADA;04.009.997/0001-00;13/07/2010;       Publicidade por materiais impressos;R$ 4.550,00;Transferência eletrônica; -  -  / 20910 - GILBERTO REIS DO NASCIMENTO - RJ - Deputado Estadual;
+RN2 IMPRESSAO PARA PUBLICIDADE LTDA-ME;10.333.077/0001-37;28/07/2010;       Publicidade por materiais impressos;R$ 150,00;Transferência eletrônica; -  -  / 20910 - GILBERTO REIS DO NASCIMENTO - RJ - Deputado Estadual;
+SERGIO CABRAL;12.181.923/0001-76;14/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;15 -  - PMDB -  - Governador / 20910 - GILBERTO REIS DO NASCIMENTO - RJ - Deputado Estadual;

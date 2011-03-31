@@ -1,5 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALBERTO LUIZ GONÇALVES MADEIRA.;081.123.207-72;14/10/2010;44000032702;R$ 3.000,00;Depósito em espécie;PAULO CESAR VASSALLO DE AZEVDO;44015;Deputado Estadual;PRP;RJ;
-BENICIO VALLADARES.;081.056.777-68;15/10/2010;44000032704;R$ 7.000,00;Depósito em espécie;PAULO CESAR VASSALLO DE AZEVDO;44015;Deputado Estadual;PRP;RJ;
-PAULO CEZAR VASSALLO DE AZEVEDO;049.171.547-15;21/09/2010;44000032701;R$ 2.000,00;Depósito em espécie;PAULO CESAR VASSALLO DE AZEVDO;44015;Deputado Estadual;PRP;RJ;
-RONALDO GRANDINI CALVO.;081.088.387-20;14/10/2010;44000032703;R$ 7.370,00;Depósito em espécie;PAULO CESAR VASSALLO DE AZEVDO;44015;Deputado Estadual;PRP;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GALERIA VENUS ARTES E PROGANDA LTDA.;39.184.544/0001-96;15/10/2010;       Cessão ou Locação de Veículos;R$ 3.000,00;Cheque; -  -  / 44015 - PAULO CESAR VASSALLO DE AZEVDO - RJ - Deputado Estadual;
+GRÁFICA IRMÃOS MIRANDA DE FRIBURGO LTDA - ME.;01.555.124/0001-04;15/10/2010;       Publicidade por materiais impressos;R$ 6.800,00;Cheque; -  -  / 44015 - PAULO CESAR VASSALLO DE AZEVDO - RJ - Deputado Estadual;
+LUIZ ANTONIO DA SILVA.;457.505.217-53;22/10/2010;       Despesas com pessoal;R$ 200,00;Cheque; -  -  / 44015 - PAULO CESAR VASSALLO DE AZEVDO - RJ - Deputado Estadual;
+ROGÉRIO VIEIRA.;999.061.047-91;15/10/2010;       Publicidade por carros de som;R$ 2.570,00;Cheque; -  -  / 44015 - PAULO CESAR VASSALLO DE AZEVDO - RJ - Deputado Estadual;
+SÃO JOÃO DOMINGOS GRÁPHICA E PROGRAMAÇÃO LTDA - ME.;04.916.101/0001-68;15/10/2010;       Publicidade por materiais impressos;R$ 5.310,00;Cheque; -  -  / 44015 - PAULO CESAR VASSALLO DE AZEVDO - RJ - Deputado Estadual;
+UNIÃO DE GRÁFICAS E MULTIMÍDIA LTDA - ME.;10.539.321/0001-12;16/09/2010;       Publicidade por materiais impressos;R$ 1.490,00;Cheque; -  -  / 44015 - PAULO CESAR VASSALLO DE AZEVDO - RJ - Deputado Estadual;

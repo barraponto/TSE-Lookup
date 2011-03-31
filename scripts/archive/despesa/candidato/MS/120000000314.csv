@@ -1,4 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.221.832/0001-17;15/09/2010;11000157222;R$ 627,00;Estimado;MARIA DO SOCORRO ZÓZIMO DA SILVA;11333;Deputado Estadual;PP;MS;
-Comitê Financeiro Único;12.221.832/0001-17;15/09/2010;11000157223;R$ 2.434,30;Estimado;MARIA DO SOCORRO ZÓZIMO DA SILVA;11333;Deputado Estadual;PP;MS;
-RAIMUNDO NONATO DE CARVALHO;12.203.971/0001-18;28/09/2010;11000157224;R$ 2.000,00;Cheque;MARIA DO SOCORRO ZÓZIMO DA SILVA;11333;Deputado Estadual;PP;MS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANDRESSA SARTORI DOS ANJOS;049.805.611-28;26/09/2010;       Despesas com pessoal;R$ 1.000,00;Cheque; -  -  / 11333 - MARIA DO SOCORRO ZÓZIMO DA SILVA - MS - Deputado Estadual;
+Comitê Financeiro Único;12.221.832/0001-17;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 627,00;Estimado;Comitê Financeiro Único - PP -  / 11333 - MARIA DO SOCORRO ZÓZIMO DA SILVA - MS - Deputado Estadual;
+Comitê Financeiro Único;12.221.832/0001-17;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.434,30;Estimado;Comitê Financeiro Único - PP -  / 11333 - MARIA DO SOCORRO ZÓZIMO DA SILVA - MS - Deputado Estadual;
+LUZIA SARTORI DOS ANJOS;741.341.919-04;28/09/2010;       Despesas com pessoal;R$ 1.000,00;Cheque; -  -  / 11333 - MARIA DO SOCORRO ZÓZIMO DA SILVA - MS - Deputado Estadual;

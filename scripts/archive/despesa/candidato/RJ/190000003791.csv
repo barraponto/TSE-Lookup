@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;24/09/2010;14000129566;R$ 150,00;Estimado;MARCELLO COIMBRA COSTA;14215;Deputado Estadual;PTB;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;04/08/2010;14000129562;R$ 150,00;Estimado;MARCELLO COIMBRA COSTA;14215;Deputado Estadual;PTB;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;27/09/2010;14000129567;R$ 300,00;Estimado;MARCELLO COIMBRA COSTA;14215;Deputado Estadual;PTB;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;09/09/2010;14000129565;R$ 150,00;Estimado;MARCELLO COIMBRA COSTA;14215;Deputado Estadual;PTB;RJ;
-JORGE SAYED PICCIANI;12.176.626/0001-32;24/08/2010;14000129563;R$ 17,00;Estimado;MARCELLO COIMBRA COSTA;14215;Deputado Estadual;PTB;RJ;
-MARCELLO COIMBRA COSTA;013.629.017-50;22/07/2010;14000129561;R$ 255,00;Estimado;MARCELLO COIMBRA COSTA;14215;Deputado Estadual;PTB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 14215 - MARCELLO COIMBRA COSTA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 14215 - MARCELLO COIMBRA COSTA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;04/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 14215 - MARCELLO COIMBRA COSTA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 14215 - MARCELLO COIMBRA COSTA - RJ - Deputado Estadual;
+JORGE SAYED PICCIANI;12.176.626/0001-32;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 14215 - MARCELLO COIMBRA COSTA - RJ - Deputado Estadual;
+MARCELLO COIMBRA COSTA;013.629.017-50;22/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 255,00;Estimado; -  -  / 14215 - MARCELLO COIMBRA COSTA - RJ - Deputado Estadual;

@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.241.703/0001-90;08/08/2010;70000117401;R$ 400,00;Estimado;MANOEL DO SOCORRO MONTEIRO DA SILVA;70222;Deputado Estadual;PT do B;AP;
-Comitê Financeiro Único;12.256.162/0001-74;24/08/2010;70000117403;R$ 240,00;Estimado;MANOEL DO SOCORRO MONTEIRO DA SILVA;70222;Deputado Estadual;PT do B;AP;
-Comitê Financeiro Único;12.241.703/0001-90;14/08/2010;70000117402;R$ 1.100,00;Estimado;MANOEL DO SOCORRO MONTEIRO DA SILVA;70222;Deputado Estadual;PT do B;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.256.162/0001-74;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 240,00;Estimado;Comitê Financeiro Único - PDT -  / 70222 - MANOEL DO SOCORRO MONTEIRO DA SILVA - AP - Deputado Estadual;
+Comitê Financeiro Único;12.241.703/0001-90;08/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado;Comitê Financeiro Único - PP -  / 70222 - MANOEL DO SOCORRO MONTEIRO DA SILVA - AP - Deputado Estadual;
+Comitê Financeiro Único;12.241.703/0001-90;14/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.100,00;Estimado;Comitê Financeiro Único - PP -  / 70222 - MANOEL DO SOCORRO MONTEIRO DA SILVA - AP - Deputado Estadual;

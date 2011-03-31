@@ -1,5 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.262.851/0001-91;29/09/2010;28000472123;R$ 641,00;Estimado;GENIVAL ALVES DA SILVA;28222;Deputado Estadual;PRTB;MA;
-JOSE MARIA FREITAS FILHO;529.242.543-53;09/09/2010;28000472122;R$ 2.850,00;Depósito em espécie;GENIVAL ALVES DA SILVA;28222;Deputado Estadual;PRTB;MA;
-LUZIMAR ROCHA DO VALE;529.242.463-34;02/08/2010;28000472121;R$ 5.700,00;Depósito em espécie;GENIVAL ALVES DA SILVA;28222;Deputado Estadual;PRTB;MA;
-ROSIANE ROCHA DO VALE;688.176.303-49;25/08/2010;28000472124;R$ 1.000,00;Estimado;GENIVAL ALVES DA SILVA;28222;Deputado Estadual;PRTB;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+A MENEZES DE FARIAS;11.091.105/0001-10;25/08/2010;       Combustíveis e lubrificantes;R$ 806,12;Cheque; -  -  / 28222 - GENIVAL ALVES DA SILVA - MA - Deputado Estadual;
+ABD INDUSTRIA GRAFICA E EDITORA LTDA;09.547.587/0001-28;02/08/2010;       Publicidade por materiais impressos;R$ 3.000,00;Cheque; -  -  / 28222 - GENIVAL ALVES DA SILVA - MA - Deputado Estadual;
+ABD INDUSTRIA GRAFICA E EDITORA LTDA;09.547.587/0001-28;09/09/2010;       Publicidade por materiais impressos;R$ 2.850,00;Cheque; -  -  / 28222 - GENIVAL ALVES DA SILVA - MA - Deputado Estadual;
+Comitê Financeiro Único;12.262.851/0001-91;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 641,00;Estimado;Comitê Financeiro Único - PRTB -  / 28222 - GENIVAL ALVES DA SILVA - MA - Deputado Estadual;
+M B DA SILVA;08.476.058/0001-18;16/08/2010;       Publicidade por materiais impressos;R$ 1.265,00;Cheque; -  -  / 28222 - GENIVAL ALVES DA SILVA - MA - Deputado Estadual;
+M B DA SILVA;08.476.058/0001-18;04/08/2010;       Publicidade por materiais impressos;R$ 314,88;Cheque; -  -  / 28222 - GENIVAL ALVES DA SILVA - MA - Deputado Estadual;
+M B DA SILVA;08.476.058/0001-18;06/08/2010;       Publicidade por materiais impressos;R$ 314,00;Cheque; -  -  / 28222 - GENIVAL ALVES DA SILVA - MA - Deputado Estadual;
+ROSIANE ROCHA DO VALE;688.176.303-49;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 28222 - GENIVAL ALVES DA SILVA - MA - Deputado Estadual;

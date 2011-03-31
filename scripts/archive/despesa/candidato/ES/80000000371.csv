@@ -1,8 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO LIDINEY GOBBI;792.569.537-49;01/10/2010;14000001955;R$ 50,00;Depósito em espécie;SAMUEL DE OLIVEIRA GONÇALVES;14369;Deputado Estadual;PTB;ES;
-ANTONIO LIDINEY GOBBI;792.569.537-49;01/10/2010;14000001953;R$ 250,00;Depósito em espécie;SAMUEL DE OLIVEIRA GONÇALVES;14369;Deputado Estadual;PTB;ES;
-ANTONIO LIDINEY GOBBI;792.569.537-49;01/10/2010;14000001954;R$ 105,00;Depósito em espécie;SAMUEL DE OLIVEIRA GONÇALVES;14369;Deputado Estadual;PTB;ES;
-Comitê Financeiro Único;12.206.653/0001-00;01/10/2010;14000001956;R$ 270,00;Estimado;SAMUEL DE OLIVEIRA GONÇALVES;14369;Deputado Estadual;PTB;ES;
-ILZA AMARO BUSS;007.835.467-69;01/10/2010;14000001952;R$ 478,80;Depósito em espécie;SAMUEL DE OLIVEIRA GONÇALVES;14369;Deputado Estadual;PTB;ES;
-OSVALDINA DE OLIVEIRA GONÇALVES;608.992.556-04;30/09/2010;14000001957;R$ 250,00;Estimado;SAMUEL DE OLIVEIRA GONÇALVES;14369;Deputado Estadual;PTB;ES;
-SAMUEL DE OLIVEIRA;029.013.526-50;30/09/2010;14000001959;R$ 300,00;Estimado;SAMUEL DE OLIVEIRA GONÇALVES;14369;Deputado Estadual;PTB;ES;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.206.653/0001-00;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 270,00;Estimado;Comitê Financeiro Único - PDT -  / 14369 - SAMUEL DE OLIVEIRA GONÇALVES - ES - Deputado Estadual;
+G.H.E CENTRAL DOS IMPRESSOS LTDA;04.389.051/0001-08;28/09/2010;       Publicidade por materiais impressos;R$ 50,00;Cheque; -  -  / 14369 - SAMUEL DE OLIVEIRA GONÇALVES - ES - Deputado Estadual;
+GRAFITUSA S/A;05.461.408/0001-84;16/08/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 14369 - SAMUEL DE OLIVEIRA GONÇALVES - ES - Deputado Estadual;
+GRAFITUSA S/A;05.461.408/0001-84;27/08/2010;       Publicidade por materiais impressos;R$ 278,80;Cheque; -  -  / 14369 - SAMUEL DE OLIVEIRA GONÇALVES - ES - Deputado Estadual;
+OSVALDINA DE OLIVEIRA GONÇALVES;608.992.556-04;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado; -  -  / 14369 - SAMUEL DE OLIVEIRA GONÇALVES - ES - Deputado Estadual;
+POSTO SERRA MAR;06.368.438/0001-03;05/10/2010;       Combustíveis e lubrificantes;R$ 250,00;Cheque; -  -  / 14369 - SAMUEL DE OLIVEIRA GONÇALVES - ES - Deputado Estadual;
+SAMUEL DE OLIVEIRA;029.013.526-50;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 14369 - SAMUEL DE OLIVEIRA GONÇALVES - ES - Deputado Estadual;
+SERIGRAF IMPRESSOS E SERVIÇOS LTDA;08.914.056/0001-63;28/09/2010;       Publicidade por materiais impressos;R$ 105,00;Cheque; -  -  / 14369 - SAMUEL DE OLIVEIRA GONÇALVES - ES - Deputado Estadual;

@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.154.856/0001-09;20/07/2010;50000390241;R$ 250,85;Estimado;PITTER JOSE MENDES ARAUJO;50127;Deputado Estadual;PSOL;RJ;
-Comitê Financeiro Único;12.154.856/0001-09;29/09/2010;50000390242;R$ 62,50;Estimado;PITTER JOSE MENDES ARAUJO;50127;Deputado Estadual;PSOL;RJ;
-JORGE MILTON TEMER;12.168.390/0001-92;30/09/2010;50000390243;R$ 162,12;Estimado;PITTER JOSE MENDES ARAUJO;50127;Deputado Estadual;PSOL;RJ;
-PITTER JOSÉ MENDES DE ARAÚJO;068.471.367-58;21/07/2010;50000390244;R$ 184,00;Depósito em espécie;PITTER JOSE MENDES ARAUJO;50127;Deputado Estadual;PSOL;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BIG PRINT PROPAGANDA LTDA;11.298.380/0001-09;21/07/2010;       Publicidade por placas, estandartes e faixas;R$ 184,00;Cheque; -  -  / 50127 - PITTER JOSE MENDES ARAUJO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.154.856/0001-09;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 62,50;Estimado;Comitê Financeiro Único - PSOL -  / 50127 - PITTER JOSE MENDES ARAUJO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.154.856/0001-09;20/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,85;Estimado;Comitê Financeiro Único - PSOL -  / 50127 - PITTER JOSE MENDES ARAUJO - RJ - Deputado Estadual;
+JORGE MILTON TEMER;12.168.390/0001-92;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 162,12;Estimado;500 -  - PSOL -  - Senador / 50127 - PITTER JOSE MENDES ARAUJO - RJ - Deputado Estadual;

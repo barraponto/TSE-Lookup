@@ -1,9 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-COMERCIAL FERNANDES PEREIRA LTDA;42.988.568/0001-02;08/09/2010;20000320976;R$ 2,60;Estimado;WALNUT DOS SANTOS;2090;Deputado Federal;PSC;MG;
-GERCI DA COSTA RODRIGUES;456.736.676-04;01/08/2010;20000320973;R$ 10,00;Estimado;WALNUT DOS SANTOS;2090;Deputado Federal;PSC;MG;
-HEDERSON FAGNER NASCIMENTO SANTANA;062.108.606-13;01/08/2010;20000320972;R$ 40,00;Estimado;WALNUT DOS SANTOS;2090;Deputado Federal;PSC;MG;
-HELIO FERREIRA DA SILVA;010.751.956-91;21/09/2010;20000320975;R$ 400,00;Estimado;WALNUT DOS SANTOS;2090;Deputado Federal;PSC;MG;
-MARIA APARECIDA LIMA DOS SANTOS;327.083.196-04;23/07/2010;20000320971;R$ 1.000,00;Estimado;WALNUT DOS SANTOS;2090;Deputado Federal;PSC;MG;
-TEREZINHA CANDIDA DE JESUS;164.852.116-91;08/09/2010;20000320974;R$ 150,00;Estimado;WALNUT DOS SANTOS;2090;Deputado Federal;PSC;MG;
-WALNUT DOS SANTOS;528.187.216-87;21/09/2010;20000320978;R$ 400,00;Depósito em espécie;WALNUT DOS SANTOS;2090;Deputado Federal;PSC;MG;
-WALNUT DOS SANTOS;528.187.216-87;08/09/2010;20000320977;R$ 310,00;Depósito em espécie;WALNUT DOS SANTOS;2090;Deputado Federal;PSC;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+COMERCIAL FERNANDES PEREIRA LTDA;42.988.568/0001-02;08/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2,60;Estimado; -  -  / 2090 - WALNUT DOS SANTOS - MG - Deputado Federal;
+EDITORA GRAFICA SILVEIRA LTDA;20.989.315/0001-10;09/09/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 2090 - WALNUT DOS SANTOS - MG - Deputado Federal;
+GERCI DA COSTA RODRIGUES;456.736.676-04;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 10,00;Estimado; -  -  / 2090 - WALNUT DOS SANTOS - MG - Deputado Federal;
+HEDERSON FAGNER NASCIMENTO SANTANA;062.108.606-13;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 40,00;Estimado; -  -  / 2090 - WALNUT DOS SANTOS - MG - Deputado Federal;
+HELIO FERREIRA DA SILVA;010.751.956-91;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado; -  -  / 2090 - WALNUT DOS SANTOS - MG - Deputado Federal;
+MARIA APARECIDA LIMA DOS SANTOS;327.083.196-04;23/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 2090 - WALNUT DOS SANTOS - MG - Deputado Federal;
+PAULO RODRIGUES DA SILVA;443.041.966-34;22/09/2010;       Cessão ou Locação de Veículos;R$ 400,00;Cheque; -  -  / 2090 - WALNUT DOS SANTOS - MG - Deputado Federal;
+TEREZINHA CANDIDA DE JESUS;164.852.116-91;08/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado; -  -  / 2090 - WALNUT DOS SANTOS - MG - Deputado Federal;

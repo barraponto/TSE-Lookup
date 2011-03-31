@@ -1,3 +1,13 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALFREDO PEREIRA DO NASCIMENTO;12.169.771/0001-96;10/09/2010;70000130203;R$ 2.000,00;Cheque;JOSÉ SÁDIO JACMINUTH DE ALCANTARA;7010;Deputado Federal;PT do B;AM;
-ALFREDO PEREIRA DO NASCIMENTO;12.169.771/0001-96;11/08/2010;70000130201;R$ 2.000,00;Cheque;JOSÉ SÁDIO JACMINUTH DE ALCANTARA;7010;Deputado Federal;PT do B;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AGUINO DE OLIVEIRA ALCANTARA;782.845.112-15;29/09/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / 7010 - JOSÉ SÁDIO JACMINUTH DE ALCANTARA - AM - Deputado Federal;
+BAREU MANAUS;07.502.744/0002-34;26/08/2010;       Publicidade por materiais impressos;R$ 220,00;Cheque; -  -  / 7010 - JOSÉ SÁDIO JACMINUTH DE ALCANTARA - AM - Deputado Federal;
+ELIAS DE ALCANTARA DIAS;867.053.262-04;30/09/2010;       Despesas com pessoal;R$ 1.100,00;Cheque; -  -  / 7010 - JOSÉ SÁDIO JACMINUTH DE ALCANTARA - AM - Deputado Federal;
+JEANE DE ALCANTARA NOGUEIRA;714.050.892-53;24/08/2010;       Despesas com pessoal;R$ 300,00;Cheque; -  -  / 7010 - JOSÉ SÁDIO JACMINUTH DE ALCANTARA - AM - Deputado Federal;
+JEANE DE ALCANTARA NOGUEIRA;714.050.892-53;24/08/2010;       Despesas com pessoal;R$ 400,00;Cheque; -  -  / 7010 - JOSÉ SÁDIO JACMINUTH DE ALCANTARA - AM - Deputado Federal;
+JEANE DE ALCANTARA NOGUEIRA;714.050.892-53;30/09/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / 7010 - JOSÉ SÁDIO JACMINUTH DE ALCANTARA - AM - Deputado Federal;
+MIRIAN DE ALCANTARA DIAS;016.055.682-10;30/09/2010;       Despesas com pessoal;R$ 200,00;Cheque; -  -  / 7010 - JOSÉ SÁDIO JACMINUTH DE ALCANTARA - AM - Deputado Federal;
+NEUZA JACMINUTH DE ALCANTARA;929.826.382-15;14/08/2010;       Despesas com pessoal;R$ 600,00;Cheque; -  -  / 7010 - JOSÉ SÁDIO JACMINUTH DE ALCANTARA - AM - Deputado Federal;
+NEUZA JACMINUTH DE ALCANTARA;929.826.382-15;13/08/2010;       Despesas com pessoal;R$ 100,00;Não informado; -  -  / 7010 - JOSÉ SÁDIO JACMINUTH DE ALCANTARA - AM - Deputado Federal;
+;;20/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 7010 - JOSÉ SÁDIO JACMINUTH DE ALCANTARA - AM - Deputado Federal;
+;;14/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 7010 - JOSÉ SÁDIO JACMINUTH DE ALCANTARA - AM - Deputado Federal;
+;;13/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 7010 - JOSÉ SÁDIO JACMINUTH DE ALCANTARA - AM - Deputado Federal;

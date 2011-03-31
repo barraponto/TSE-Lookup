@@ -1,4 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.102/0001-30;03/09/2010;14000129907;R$ 10.000,00;Transferência eletrônica;DANIELLY SOARES DE SENA;14999;Deputado Estadual;PTB;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;24/09/2010;14000129908;R$ 150,00;Estimado;DANIELLY SOARES DE SENA;14999;Deputado Estadual;PTB;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;13/09/2010;14000129906;R$ 300,00;Estimado;DANIELLY SOARES DE SENA;14999;Deputado Estadual;PTB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARARUAMA GRÁFICA LTDA.;29.099.793/0001-20;20/09/2010;       Publicidade por materiais impressos;R$ 150,00;Cheque; -  -  / 14999 - DANIELLY SOARES DE SENA - RJ - Deputado Estadual;
+CLAUDIA CECÍLIA DE ARAUJO JORGE;719.254.067-68;06/09/2010;       Serviços prestados por terceiros;R$ 1.500,00;Cheque; -  -  / 14999 - DANIELLY SOARES DE SENA - RJ - Deputado Estadual;
+CLEA DE SOUZA RAMOS;390.048.057-53;22/09/2010;       Serviços prestados por terceiros;R$ 680,00;Cheque; -  -  / 14999 - DANIELLY SOARES DE SENA - RJ - Deputado Estadual;
+CLEA DE SOUZA RAMOS;390.048.057-53;06/09/2010;       Serviços prestados por terceiros;R$ 1.000,00;Cheque; -  -  / 14999 - DANIELLY SOARES DE SENA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 14999 - DANIELLY SOARES DE SENA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;13/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 14999 - DANIELLY SOARES DE SENA - RJ - Deputado Estadual;
+JOSÉ RICARDO DE ANCHIETA;081.156.547-52;06/09/2010;       Serviços prestados por terceiros;R$ 1.500,00;Cheque; -  -  / 14999 - DANIELLY SOARES DE SENA - RJ - Deputado Estadual;
+JUÇARA MARIA SAMICO;333.256.507-91;06/09/2010;       Serviços prestados por terceiros;R$ 4.500,00;Cheque; -  -  / 14999 - DANIELLY SOARES DE SENA - RJ - Deputado Estadual;
+WAN TOLDOS E LETREIROS LTDA.;07.338.754/0001-03;16/09/2010;       Publicidade por materiais impressos;R$ 80,00;Cheque; -  -  / 14999 - DANIELLY SOARES DE SENA - RJ - Deputado Estadual;
+WAN TOLDOS E LETREIROS LTDA.;07.338.754/0001-03;08/09/2010;       Publicidade por placas, estandartes e faixas;R$ 590,00;Cheque; -  -  / 14999 - DANIELLY SOARES DE SENA - RJ - Deputado Estadual;

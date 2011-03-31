@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-NILTON VIEIRA DA SILVA;087.977.491-68;30/07/2010;50000175211;R$ 2.000,00;Depósito em espécie;NILTON VIEIRA DA SILVA;5040;Deputado Federal;PSOL;GO;
-NILTON VIEIRA DA SILVA;087.977.491-68;21/09/2010;50000175214;R$ 82,00;Depósito em espécie;NILTON VIEIRA DA SILVA;5040;Deputado Federal;PSOL;GO;
-NILTON VIEIRA DA SILVA;087.977.491-68;25/08/2010;50000175213;R$ 20,00;Depósito em espécie;NILTON VIEIRA DA SILVA;5040;Deputado Federal;PSOL;GO;
-NILTON VIEIRA DA SILVA;087.977.491-68;02/08/2010;50000175212;R$ 20,00;Depósito em espécie;NILTON VIEIRA DA SILVA;5040;Deputado Federal;PSOL;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BARCELOS PAPELARIA E LIVRARIA LTDA;03.702.790/0001-45;30/08/2010;       Materiais de expediente;R$ 35,00;Cheque; -  -  / 5040 - NILTON VIEIRA DA SILVA - GO - Deputado Federal;
+BARCELOS PAPELARIA E LIVRARIA LTDA;03.702.790/0001-45;27/09/2010;       Materiais de expediente;R$ 70,00;Cheque; -  -  / 5040 - NILTON VIEIRA DA SILVA - GO - Deputado Federal;
+BARCELOS PAPELARIA E LIVRARIA LTDA;03.702.790/0001-45;28/09/2010;       Materiais de expediente;R$ 12,50;Cheque; -  -  / 5040 - NILTON VIEIRA DA SILVA - GO - Deputado Federal;
+HEITOR LEANDRO MARINHO (GRAFICA PRONTA);11.788.294/0001-84;02/08/2010;       Publicidade por materiais impressos;R$ 2.000,00;Cheque; -  -  / 5040 - NILTON VIEIRA DA SILVA - GO - Deputado Federal;
+;;31/08/2010;       Encargos financeiros e taxas bancárias;R$ 4,50;Débito em conta; -  -  / 5040 - NILTON VIEIRA DA SILVA - GO - Deputado Federal;

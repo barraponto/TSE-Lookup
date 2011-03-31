@@ -1,3 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.172.794/0001-50;25/08/2010;36000055201;R$ 700,00;Estimado;SERGIO LIBERATO;36207;Deputado Estadual;PTC;RJ;
-SÉRGIO LIBERATO;304.411.617-15;27/08/2010;36000055202;R$ 200,00;Cheque;SERGIO LIBERATO;36207;Deputado Estadual;PTC;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.172.794/0001-50;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 700,00;Estimado;Direção Estadual/Distrital - PTC -  / 36207 - SERGIO LIBERATO - RJ - Deputado Estadual;

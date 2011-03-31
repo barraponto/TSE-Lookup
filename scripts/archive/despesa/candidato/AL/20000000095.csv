@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FABIANO DE AMORIM JATOBÁ;985.535.004-97;17/07/2010;14000065351;R$ 1.000,00;Estimado;ELADJA CLEIDE DA ROCHA FERRO;14111;Deputado Estadual;PTB;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+FABIANO DE AMORIM JATOBÁ;985.535.004-97;17/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 14111 - ELADJA CLEIDE DA ROCHA FERRO - AL - Deputado Estadual;

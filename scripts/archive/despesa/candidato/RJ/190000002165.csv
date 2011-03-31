@@ -1,9 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;19000003857;R$ 150,00;Estimado;PAULO DOS SANTOS;1929;Deputado Federal;PTN;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;19000003856;R$ 150,00;Estimado;PAULO DOS SANTOS;1929;Deputado Federal;PTN;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;19000003858;R$ 150,00;Estimado;PAULO DOS SANTOS;1929;Deputado Federal;PTN;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;19000003854;R$ 150,00;Estimado;PAULO DOS SANTOS;1929;Deputado Federal;PTN;RJ;
-MANOEL DANTAS DE OLIVIERA;190.435.387-87;30/07/2010;19000003851;R$ 550,00;Depósito em espécie;PAULO DOS SANTOS;1929;Deputado Federal;PTN;RJ;
-PAULO DOS SANTOS;439.223.767-20;30/07/2010;19000003853;R$ 1.000,00;Estimado;PAULO DOS SANTOS;1929;Deputado Federal;PTN;RJ;
-PAULO DOS SANTOS;439.223.767-20;30/07/2010;19000003852;R$ 900,00;Estimado;PAULO DOS SANTOS;1929;Deputado Federal;PTN;RJ;
-PAULO DOS SANTOS;439.223.767-20;27/12/2010;19000003859;R$ 10,00;Depósito em espécie;PAULO DOS SANTOS;1929;Deputado Federal;PTN;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+COMÉRCIO E SERVIÇOS DE PAINÉS PUBLICITÁRIOS LTDA;08.379.705/0001-73;30/07/2010;       Publicidade por materiais impressos;R$ 540,00;Cheque; -  -  / 1929 - PAULO DOS SANTOS - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 1929 - PAULO DOS SANTOS - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 1929 - PAULO DOS SANTOS - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 1929 - PAULO DOS SANTOS - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 1929 - PAULO DOS SANTOS - RJ - Deputado Federal;
+PAULO DOS SANTOS;439.223.767-20;30/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 1929 - PAULO DOS SANTOS - RJ - Deputado Federal;
+PAULO DOS SANTOS;439.223.767-20;30/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 900,00;Estimado; -  -  / 1929 - PAULO DOS SANTOS - RJ - Deputado Federal;

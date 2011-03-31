@@ -1,3 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FRANCISCO PAULO DA SILVA;363.412.742-20;14/10/2010;50000286752;R$ 484,61;Depósito em espécie;FRANCISCO PAULO DA SILVA;50785;Deputado Estadual;PSOL;PA;
-FRANCISCO PAULO DA SILVA;363.412.742-20;01/09/2010;50000286751;R$ 600,00;Depósito em espécie;FRANCISCO PAULO DA SILVA;50785;Deputado Estadual;PSOL;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AILSON DA COSTA RODRIGUES;597.709.704-25;17/08/2010;       Diversas a especificar;R$ 95,00;Não informado; -  -  / 50785 - FRANCISCO PAULO DA SILVA - PA - Deputado Estadual;
+AUTO POSTO NOVO REPARTIMENTO LTDA;04.027.917/0001-30;30/09/2010;       Combustíveis e lubrificantes;R$ 400,11;Não informado; -  -  / 50785 - FRANCISCO PAULO DA SILVA - PA - Deputado Estadual;
+ECT -EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS;34.028.316/6271-73;04/08/2010;       Despesas postais;R$ 6,50;Não informado; -  -  / 50785 - FRANCISCO PAULO DA SILVA - PA - Deputado Estadual;
+ECT -EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS;34.028.316/6271-73;27/07/2010;       Despesas postais;R$ 13,00;Não informado; -  -  / 50785 - FRANCISCO PAULO DA SILVA - PA - Deputado Estadual;
+FERNANDO RODRIGUES DURÃES;675.631.472-68;25/07/2010;       Produção de jingles, vinhetas e slogans;R$ 300,00;Não informado; -  -  / 50785 - FRANCISCO PAULO DA SILVA - PA - Deputado Estadual;
+LG GRÁFICA LTDA - ME;11.586.918/0001-80;01/09/2010;       Publicidade por materiais impressos;R$ 270,00;Não informado; -  -  / 50785 - FRANCISCO PAULO DA SILVA - PA - Deputado Estadual;

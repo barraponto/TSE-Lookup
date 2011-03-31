@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DIONÊ COSTA OLIVEIRA;288.102.793-87;05/09/2010;17000070422;R$ 60,00;Estimado;DIONÊ COSTA OLIVEIRA;1722;Deputado Federal;PSL;PI;
-DIONÊ COSTA OLIVEIRA;288.102.793-87;05/09/2010;17000070423;R$ 499,00;Estimado;DIONÊ COSTA OLIVEIRA;1722;Deputado Federal;PSL;PI;
-JOSÉ AVELÁ PEREIRA COSTA;274.506.603-00;10/09/2010;17000070426;R$ 200,00;Estimado;DIONÊ COSTA OLIVEIRA;1722;Deputado Federal;PSL;PI;
-JOSÉ AVELÁ PEREIRA COSTA;274.506.603-00;20/09/2010;17000070425;R$ 200,00;Estimado;DIONÊ COSTA OLIVEIRA;1722;Deputado Federal;PSL;PI;
-SENHORINHA COSTA OLIVEIRA;273.534.783-49;05/09/2010;17000070424;R$ 300,00;Estimado;DIONÊ COSTA OLIVEIRA;1722;Deputado Federal;PSL;PI;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DIONÊ COSTA OLIVEIRA;288.102.793-87;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 499,00;Estimado; -  -  / 1722 - DIONÊ COSTA OLIVEIRA - PI - Deputado Federal;
+DIONÊ COSTA OLIVEIRA;288.102.793-87;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 60,00;Estimado; -  -  / 1722 - DIONÊ COSTA OLIVEIRA - PI - Deputado Federal;
+JOSÉ AVELÁ PEREIRA COSTA;274.506.603-00;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado; -  -  / 1722 - DIONÊ COSTA OLIVEIRA - PI - Deputado Federal;
+JOSÉ AVELÁ PEREIRA COSTA;274.506.603-00;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado; -  -  / 1722 - DIONÊ COSTA OLIVEIRA - PI - Deputado Federal;
+SENHORINHA COSTA OLIVEIRA;273.534.783-49;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 1722 - DIONÊ COSTA OLIVEIRA - PI - Deputado Federal;

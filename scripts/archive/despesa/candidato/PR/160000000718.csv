@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.496/0001-07;20/09/2010;33000000689;R$ 339,00;Estimado;DEISE SIQUEIRA;33775;Deputado Estadual;PMN;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.496/0001-07;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 339,00;Estimado;Comitê Financeiro Único - PMN -  / 33775 - DEISE SIQUEIRA - PR - Deputado Estadual;

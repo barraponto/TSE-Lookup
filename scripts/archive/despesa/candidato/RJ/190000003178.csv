@@ -1,4 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.167/0001-85;06/09/2010;10000027841;R$ 4.980,00;Estimado;LUIS MACHADO DOS SANTOS;1030;Deputado Federal;PRB;RJ;
-Comitê Financeiro Único;12.200.167/0001-85;06/09/2010;10000027843;R$ 2.490,00;Estimado;LUIS MACHADO DOS SANTOS;1030;Deputado Federal;PRB;RJ;
-LUIS MACHADO DOS SANTOS;741.853.227-04;28/09/2010;10000027844;R$ 3.000,00;Depósito em espécie;LUIS MACHADO DOS SANTOS;1030;Deputado Federal;PRB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ATUAL COSTAVERDE COMUNICAÇÃO LTDA;04.558.724/0001-06;30/09/2010;       Publicidade por jornais e revistas;R$ 2.000,00;Cheque; -  -  / 1030 - LUIS MACHADO DOS SANTOS - RJ - Deputado Federal;
+AUTO POSTO ITACOM LTDA;09.272.239/0001-95;30/09/2010;       Combustíveis e lubrificantes;R$ 500,00;Cheque; -  -  / 1030 - LUIS MACHADO DOS SANTOS - RJ - Deputado Federal;
+Comitê Financeiro Único;12.200.167/0001-85;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.980,00;Estimado;Comitê Financeiro Único - PRB -  / 1030 - LUIS MACHADO DOS SANTOS - RJ - Deputado Federal;
+Comitê Financeiro Único;12.200.167/0001-85;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.490,00;Estimado;Comitê Financeiro Único - PRB -  / 1030 - LUIS MACHADO DOS SANTOS - RJ - Deputado Federal;
+JORNAL O FOCO TM COMUNICAÇÕES LTDA;07.600.975/0001-08;30/09/2010;       Publicidade por jornais e revistas;R$ 500,00;Cheque; -  -  / 1030 - LUIS MACHADO DOS SANTOS - RJ - Deputado Federal;

@@ -1,4 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALBA MARIA CÚRCIO FERREIRA MACHADO;373.063.831-91;03/09/2010;43001791662;R$ 1.000,00;Depósito em espécie;HÉRMANOS MOREIRA MACHADO;43430;Deputado Distrital;PV;DF;
-HÉRMANOS MOREIRA MACHADO;226.103.081-91;06/09/2010;43001791663;R$ 930,00;Depósito em espécie;HÉRMANOS MOREIRA MACHADO;43430;Deputado Distrital;PV;DF;
-HÉRMANOS MOREIRA MACHADO;226.103.081-91;02/08/2010;43001791661;R$ 380,00;Depósito em espécie;HÉRMANOS MOREIRA MACHADO;43430;Deputado Distrital;PV;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EDITORA GRÁFICA CARTÃO DE OURO LTDA.;00.617.795/0001-81;01/08/2010;       Publicidade por jornais e revistas;R$ 975,00;Cheque; -  -  / 43430 - HÉRMANOS MOREIRA MACHADO - DF - Deputado Distrital;
+GASOL CONTAGEM DERIVADOS DE PETRÓLEO LTDA.;37.149.861/0006-50;29/09/2010;       Combustíveis e lubrificantes;R$ 6,00;Cheque; -  -  / 43430 - HÉRMANOS MOREIRA MACHADO - DF - Deputado Distrital;
+GS COMUNICAÇÃO VISUAL- LEANDRO ALVES DE OLIVEIRA;11.732.618/0001-62;09/08/2010;       Publicidade por materiais impressos;R$ 350,00;Cheque; -  -  / 43430 - HÉRMANOS MOREIRA MACHADO - DF - Deputado Distrital;
+KENKO MAGNETIC COMÉRCIO E REPRESENTAÇÕES LTDA.;37.991.353/0001-00;30/08/2010;       Publicidade por jornais e revistas;R$ 650,00;Cheque; -  -  / 43430 - HÉRMANOS MOREIRA MACHADO - DF - Deputado Distrital;
+LUCILENE DE CASTRO REIS OLIVEIRA- ME;03.362.659/0001-86;06/08/2010;       Serviços prestados por terceiros;R$ 315,00;Cheque; -  -  / 43430 - HÉRMANOS MOREIRA MACHADO - DF - Deputado Distrital;
+;;02/08/2010;       Encargos financeiros e taxas bancárias;R$ 14,00;Débito em conta; -  -  / 43430 - HÉRMANOS MOREIRA MACHADO - DF - Deputado Distrital;

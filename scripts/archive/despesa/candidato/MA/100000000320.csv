@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-IRACEMA GOMES TAVARES FEITOSA;239.670.563-68;02/09/2010;11000096901;R$ 1.000,00;Depósito em espécie;OSMAR DE ARAUJO COELHO;1111;Deputado Federal;PP;MA;
-JONAS DEMITO;513.395.288-00;29/09/2010;11000096904;R$ 1.700,00;Transferência eletrônica;OSMAR DE ARAUJO COELHO;1111;Deputado Federal;PP;MA;
-OSMAR DE ARAÚJO COELHO;001.880.003-30;15/09/2010;11000096903;R$ 1.500,00;Depósito em espécie;OSMAR DE ARAUJO COELHO;1111;Deputado Federal;PP;MA;
-OSMAR DE ARAÚJO COELHO;001.880.003-30;03/09/2010;11000096902;R$ 3.500,00;Depósito em espécie;OSMAR DE ARAUJO COELHO;1111;Deputado Federal;PP;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CLEITON ROBERTO DE SOUSA;492.849.753-87;15/09/2010;       Serviços prestados por terceiros;R$ 2.495,75;Cheque; -  -  / 1111 - OSMAR DE ARAUJO COELHO - MA - Deputado Federal;
+GILVAN LIMA;01.198.269/0001-97;01/09/2010;       Cessão ou Locação de Veículos;R$ 5.000,90;Cheque; -  -  / 1111 - OSMAR DE ARAUJO COELHO - MA - Deputado Federal;
+OSEAS SOARES PINHO JUNIOR;711.342.983-15;10/09/2010;       Serviços prestados por terceiros;R$ 203,00;Cheque; -  -  / 1111 - OSMAR DE ARAUJO COELHO - MA - Deputado Federal;
+;;09/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 1111 - OSMAR DE ARAUJO COELHO - MA - Deputado Federal;

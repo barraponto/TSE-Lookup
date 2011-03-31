@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Senador da República;12.147.828/0001-56;22/09/2010;40002310163;R$ 2.000,00;Cheque;ANTONIO DA SILVA DE SOUZA;40007;Deputado Estadual;PSB;AC;
-Comitê Financeiro Único;12.206.664/0001-90;29/09/2010;40002310166;R$ 392,00;Estimado;ANTONIO DA SILVA DE SOUZA;40007;Deputado Estadual;PSB;AC;
-Comitê Financeiro Único;12.206.664/0001-90;01/09/2010;40002310165;R$ 392,00;Estimado;ANTONIO DA SILVA DE SOUZA;40007;Deputado Estadual;PSB;AC;
-Comitê Financeiro Único;12.206.664/0001-90;27/09/2010;40002310161;R$ 1.000,00;Transferência eletrônica;ANTONIO DA SILVA DE SOUZA;40007;Deputado Estadual;PSB;AC;
-Comitê Financeiro Único;12.206.664/0001-90;23/09/2010;40002310164;R$ 657,72;Estimado;ANTONIO DA SILVA DE SOUZA;40007;Deputado Estadual;PSB;AC;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.206.664/0001-90;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 392,00;Estimado;Comitê Financeiro Único - PSB -  / 40007 - ANTONIO DA SILVA DE SOUZA - AC - Deputado Estadual;
+Comitê Financeiro Único;12.206.664/0001-90;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 657,72;Estimado;Comitê Financeiro Único - PSB -  / 40007 - ANTONIO DA SILVA DE SOUZA - AC - Deputado Estadual;
+Comitê Financeiro Único;12.206.664/0001-90;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 392,00;Estimado;Comitê Financeiro Único - PSB -  / 40007 - ANTONIO DA SILVA DE SOUZA - AC - Deputado Estadual;
+JOSÉ GARCIA DE MEDEIROS;005.707.962-53;03/08/2010;       Cessão ou Locação de Veículos;R$ 2.000,00;Cheque; -  -  / 40007 - ANTONIO DA SILVA DE SOUZA - AC - Deputado Estadual;
+MARIA JOSÉ DE MELO ARAÚJO;390.942.272-15;03/08/2010;       Locação/cessão de bens imóveis;R$ 1.000,00;Cheque; -  -  / 40007 - ANTONIO DA SILVA DE SOUZA - AC - Deputado Estadual;

@@ -1,3 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-RAIMUNDO NONATO FERREIRA;314.645.056-91;05/08/2010;43001706351;R$ 4.000,00;Depósito em espécie;MARIA MIRANI FERREIRA;43211;Deputado Estadual;PV;MG;
-RAIMUNDO NONATO FERREIRA;314.645.056-91;27/09/2010;43001706353;R$ 330,00;Depósito em espécie;MARIA MIRANI FERREIRA;43211;Deputado Estadual;PV;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADRIANA ANTUNES MOREIRA;005.443.516-14;28/09/2010;       Serviços prestados por terceiros;R$ 150,00;Cheque; -  -  / 43211 - MARIA MIRANI FERREIRA - MG - Deputado Estadual;
+APOCALIPSE CONFECÇÕES LTDA;08.488.269/0001-70;18/08/2010;       Publicidade por placas, estandartes e faixas;R$ 200,00;Cheque; -  -  / 43211 - MARIA MIRANI FERREIRA - MG - Deputado Estadual;
+EDITORA E PAPELARIA TRINDADE LTDA;07.780.689/0001-63;09/08/2010;       Publicidade por materiais impressos;R$ 3.080,00;Cheque; -  -  / 43211 - MARIA MIRANI FERREIRA - MG - Deputado Estadual;
+MIRACI DA SILVA;274.149.066-04;28/09/2010;       Publicidade por carros de som;R$ 200,00;Cheque; -  -  / 43211 - MARIA MIRANI FERREIRA - MG - Deputado Estadual;
+PAULO HENRIQUE DA SILVA;036.155.096-09;12/08/2010;       Produção de jingles, vinhetas e slogans;R$ 700,00;Cheque; -  -  / 43211 - MARIA MIRANI FERREIRA - MG - Deputado Estadual;

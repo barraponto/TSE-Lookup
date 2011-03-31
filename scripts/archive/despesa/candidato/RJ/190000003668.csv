@@ -1,4 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-WILLIAM RICARDO DE VASCONCELLOS;603.257.807-06;25/08/2010;12000063796;R$ 1.500,00;Depósito em espécie;WILLIAM RICARDO DE VASCONCELLOS;12377;Deputado Estadual;PDT;RJ;
-WILLIAM RICARDO DE VASCONCELLOS;603.257.807-06;28/09/2010;12000063798;R$ 3.000,00;Depósito em espécie;WILLIAM RICARDO DE VASCONCELLOS;12377;Deputado Estadual;PDT;RJ;
-WILLIAM RICARDO DE VASCONCELLOS;603.257.807-06;14/09/2010;12000063797;R$ 1.650,00;Depósito em espécie;WILLIAM RICARDO DE VASCONCELLOS;12377;Deputado Estadual;PDT;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AMERICAN 2001 SIGN;04.342.065/0001-76;13/09/2010;       Publicidade por placas, estandartes e faixas;R$ 925,00;Cheque; -  -  / 12377 - WILLIAM RICARDO DE VASCONCELLOS - RJ - Deputado Estadual;
+GRAFICA PADRAO OESTE LTDA;06.331.769/0001-79;27/09/2010;       Publicidade por materiais impressos;R$ 2.950,00;Cheque; -  -  / 12377 - WILLIAM RICARDO DE VASCONCELLOS - RJ - Deputado Estadual;
+REAL COMUNICAÇÃO VISUAL;11.506.727/0001-61;25/08/2010;       Publicidade por materiais impressos;R$ 1.200,00;Cheque; -  -  / 12377 - WILLIAM RICARDO DE VASCONCELLOS - RJ - Deputado Estadual;
+;;15/09/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 12377 - WILLIAM RICARDO DE VASCONCELLOS - RJ - Deputado Estadual;

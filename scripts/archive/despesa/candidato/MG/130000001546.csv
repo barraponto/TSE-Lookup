@@ -1,6 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.213/0001-39;15/09/2010;40002201327;R$ 1.500,00;Cheque;SILVANA ALMEIDA SCHMIDT;40226;Deputado Estadual;PSB;MG;
-Comitê Financeiro Único;12.205.213/0001-39;27/08/2010;40002201330;R$ 356,00;Estimado;SILVANA ALMEIDA SCHMIDT;40226;Deputado Estadual;PSB;MG;
-Comitê Financeiro Único;12.205.213/0001-39;11/08/2010;40002201333;R$ 1.197,84;Estimado;SILVANA ALMEIDA SCHMIDT;40226;Deputado Estadual;PSB;MG;
-Comitê Financeiro Único;12.205.213/0001-39;30/09/2010;40002201332;R$ 27,95;Estimado;SILVANA ALMEIDA SCHMIDT;40226;Deputado Estadual;PSB;MG;
-Comitê Financeiro Único;12.205.213/0001-39;27/08/2010;40002201331;R$ 152,00;Estimado;SILVANA ALMEIDA SCHMIDT;40226;Deputado Estadual;PSB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.213/0001-39;11/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.197,84;Estimado;Comitê Financeiro Único - PSB -  / 40226 - SILVANA ALMEIDA SCHMIDT - MG - Deputado Estadual;
+Comitê Financeiro Único;12.205.213/0001-39;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 356,00;Estimado;Comitê Financeiro Único - PSB -  / 40226 - SILVANA ALMEIDA SCHMIDT - MG - Deputado Estadual;
+Comitê Financeiro Único;12.205.213/0001-39;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 152,00;Estimado;Comitê Financeiro Único - PSB -  / 40226 - SILVANA ALMEIDA SCHMIDT - MG - Deputado Estadual;
+Comitê Financeiro Único;12.205.213/0001-39;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 27,95;Estimado;Comitê Financeiro Único - PSB -  / 40226 - SILVANA ALMEIDA SCHMIDT - MG - Deputado Estadual;
+LEANDRO SILVA COUTO;060.504.656-57;17/09/2010;       Despesas com pessoal;R$ 1.485,00;Transferência eletrônica; -  -  / 40226 - SILVANA ALMEIDA SCHMIDT - MG - Deputado Estadual;
+;;17/09/2010;       Encargos financeiros e taxas bancárias;R$ 7,50;Débito em conta; -  -  / 40226 - SILVANA ALMEIDA SCHMIDT - MG - Deputado Estadual;
+;;17/09/2010;       Encargos financeiros e taxas bancárias;R$ 7,50;Débito em conta; -  -  / 40226 - SILVANA ALMEIDA SCHMIDT - MG - Deputado Estadual;

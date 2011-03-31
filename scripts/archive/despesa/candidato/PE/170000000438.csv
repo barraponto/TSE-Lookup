@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALBANIZE PIRES FERREIRA DE AZEVEDO;457.990.404-49;27/07/2010;50000334801;R$ 100,00;Cheque;JOSE LUIZ SOBRINHO;50123;Deputado Estadual;PSOL;PE;
-JOSE LUIZ SOBRINHO;819.732.844-72;14/09/2010;50000334803;R$ 500,00;Depósito em espécie;JOSE LUIZ SOBRINHO;50123;Deputado Estadual;PSOL;PE;
-JUDA AMARO DOS SANTOS;328.052.684-15;04/08/2010;50000334802;R$ 350,00;Depósito em espécie;JOSE LUIZ SOBRINHO;50123;Deputado Estadual;PSOL;PE;
-MARIA ROSA DOS SANTOS;345.394.414-34;14/09/2010;50000334804;R$ 600,00;Depósito em espécie;JOSE LUIZ SOBRINHO;50123;Deputado Estadual;PSOL;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EDIÇÕES BAGAÇO LTDA;09.059.684/0001-71;15/09/2010;       Despesas com transporte ou deslocamento;R$ 1.100,00;Cheque; -  -  / 50123 - JOSE LUIZ SOBRINHO - PE - Deputado Estadual;
+EDUARDO COMERCIO DE BATERIA LTDA;00.841.693/0001-45;07/08/2010;       Despesas com transporte ou deslocamento;R$ 350,00;Cheque; -  -  / 50123 - JOSE LUIZ SOBRINHO - PE - Deputado Estadual;
+MARIA ROSA DOS SANTOS;345.394.414-34;15/10/2010;       Despesas com transporte ou deslocamento;R$ 97,10;Cheque; -  -  / 50123 - JOSE LUIZ SOBRINHO - PE - Deputado Estadual;
+MOIZES APRIGIO SILVA;500.978.304-53;15/10/2010;       Despesas com transporte ou deslocamento;R$ 2,90;Cheque; -  -  / 50123 - JOSE LUIZ SOBRINHO - PE - Deputado Estadual;

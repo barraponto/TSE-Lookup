@@ -1,2 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-EVERALDO ALVES FOGAÇA;390.363.402-68;25/08/2010;65000280111;R$ 10.000,00;Depósito em espécie;EVERALDO ALVES FOGAÇA;65789;Deputado Estadual;PC do B;RO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EDITORA E GRAFICA OOBSERVADOR LTDA;07.237.369/0001-61;25/08/2010;       Publicidade por materiais impressos;R$ 1.610,00;Cheque; -  -  / 65789 - EVERALDO ALVES FOGAÇA - RO - Deputado Estadual;
+EDITORA E GRAFICA OOBSERVADOR LTDA;07.237.369/0001-61;26/08/2010;       Publicidade por materiais impressos;R$ 2.040,00;Cheque; -  -  / 65789 - EVERALDO ALVES FOGAÇA - RO - Deputado Estadual;
+EDITORA E GRAFICA OOBSERVADOR LTDA;07.237.369/0001-61;25/08/2010;       Publicidade por materiais impressos;R$ 6.000,00;Cheque; -  -  / 65789 - EVERALDO ALVES FOGAÇA - RO - Deputado Estadual;
+VOZ D ERONDONDIA PUBLICIDADE E GRAFICA LTDA;10.575.238/0001-07;29/09/2010;       Criação e inclusão de páginas na internet;R$ 350,00;Cheque; -  -  / 65789 - EVERALDO ALVES FOGAÇA - RO - Deputado Estadual;

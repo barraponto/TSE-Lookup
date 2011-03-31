@@ -1,6 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO MARCOS DA SILVA;142.724.234-87;17/08/2010;23000203601;R$ 605,00;Depósito em espécie;ANTONIO MARCOS DA SILVA;2345;Deputado Federal;PPS;PE;
-ANTONIO MARCOS DA SILVA;142.724.234-87;26/08/2010;23000203602;R$ 350,00;Depósito em espécie;ANTONIO MARCOS DA SILVA;2345;Deputado Federal;PPS;PE;
-ANTONIO MARCOS DA SILVA;142.724.234-87;22/09/2010;23000203605;R$ 320,00;Depósito em espécie;ANTONIO MARCOS DA SILVA;2345;Deputado Federal;PPS;PE;
-ANTONIO MARCOS DA SILVA;142.724.234-87;10/09/2010;23000203603;R$ 120,00;Depósito em espécie;ANTONIO MARCOS DA SILVA;2345;Deputado Federal;PPS;PE;
-ANTONIO MARCOS DA SILVA;142.724.234-87;09/09/2010;23000203604;R$ 220,00;Depósito em espécie;ANTONIO MARCOS DA SILVA;2345;Deputado Federal;PPS;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+HELOISA MARIA DA SILVA;389.387.074-15;23/09/2010;       Despesas com pessoal;R$ 200,00;Cheque; -  -  / 2345 - ANTONIO MARCOS DA SILVA - PE - Deputado Federal;
+JOSE FERNANDES DA SILVA;179.583.574-04;30/09/2010;       Despesas com pessoal;R$ 25,00;Cheque; -  -  / 2345 - ANTONIO MARCOS DA SILVA - PE - Deputado Federal;
+JOSE´ALUIZIO ALVES DA SILVA;388.329.684-87;24/09/2010;       Despesas com pessoal;R$ 120,00;Cheque; -  -  / 2345 - ANTONIO MARCOS DA SILVA - PE - Deputado Federal;
+JOSE´ALUIZIO ALVES DA SILVA;388.329.684-87;26/08/2010;       Cessão ou Locação de Veículos;R$ 250,00;Cheque; -  -  / 2345 - ANTONIO MARCOS DA SILVA - PE - Deputado Federal;
+JOSE´ALUIZIO ALVES DA SILVA;388.329.684-87;10/09/2010;       Materiais de expediente;R$ 100,00;Cheque; -  -  / 2345 - ANTONIO MARCOS DA SILVA - PE - Deputado Federal;
+JOSE´ALUIZIO ALVES DA SILVA;388.329.684-87;18/08/2010;       Despesas com transporte ou deslocamento;R$ 400,00;Cheque; -  -  / 2345 - ANTONIO MARCOS DA SILVA - PE - Deputado Federal;
+MAURO BARBOSA DE ANDRADE;061.903.684-25;28/08/2010;       Pré-instalação física de comitê de campanha de candidato;R$ 100,00;Cheque; -  -  / 2345 - ANTONIO MARCOS DA SILVA - PE - Deputado Federal;
+SANDRO AUTO PEÇAS;24.577.033/0001-67;13/09/2010;       Materiais de expediente;R$ 220,00;Cheque; -  -  / 2345 - ANTONIO MARCOS DA SILVA - PE - Deputado Federal;
+SEVERINO IRINEU DOS SANTOS;075.784.404-97;18/08/2010;       Locação/cessão de bens imóveis;R$ 200,00;Cheque; -  -  / 2345 - ANTONIO MARCOS DA SILVA - PE - Deputado Federal;

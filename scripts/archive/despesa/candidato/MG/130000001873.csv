@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-THIAGO MONTEIRO DE QUEIROZ;060.894.466-10;08/07/2010;15000128401;R$ 1.500,00;Estimado;IRAN ALMEIDA BARBOSA;15128;Deputado Estadual;PMDB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+THIAGO MONTEIRO DE QUEIROZ;060.894.466-10;08/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado; -  -  / 15128 - IRAN ALMEIDA BARBOSA - MG - Deputado Estadual;

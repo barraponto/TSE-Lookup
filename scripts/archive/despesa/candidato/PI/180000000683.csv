@@ -1,4 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-TENENTE N SANTOS;138.721.253-20;25/08/2010;17000070601;R$ 500,00;Depósito em espécie;RAIMUNDO NONATO DOS SANTOS;1787;Deputado Federal;PSL;PI;
-TENENTE N SANTOS;138.721.253-20;15/09/2010;17000070603;R$ 400,00;Depósito em espécie;RAIMUNDO NONATO DOS SANTOS;1787;Deputado Federal;PSL;PI;
-TENENTE N SANTOS;138.721.253-20;14/09/2010;17000070602;R$ 400,00;Depósito em espécie;RAIMUNDO NONATO DOS SANTOS;1787;Deputado Federal;PSL;PI;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRÁFICA DO POVO LTDA.;04.202.993/0001-35;16/09/2010;       Publicidade por materiais impressos;R$ 700,00;Cheque; -  -  / 1787 - RAIMUNDO NONATO DOS SANTOS - PI - Deputado Federal;
+GRÁFICA DO POVO LTDA.;04.202.993/0001-35;27/08/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 1787 - RAIMUNDO NONATO DOS SANTOS - PI - Deputado Federal;
+MARAVILHA COMÉRCIO DERIVADOS DE PETRÓLEO LTDA;01.802.937/0001-43;25/09/2010;       Combustíveis e lubrificantes;R$ 80,00;Cheque; -  -  / 1787 - RAIMUNDO NONATO DOS SANTOS - PI - Deputado Federal;
+;138.721.253-20;26/08/2010;       Encargos financeiros e taxas bancárias;R$ 18,00;Débito em conta; -  -  / 1787 - RAIMUNDO NONATO DOS SANTOS - PI - Deputado Federal;
+;;01/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 1787 - RAIMUNDO NONATO DOS SANTOS - PI - Deputado Federal;

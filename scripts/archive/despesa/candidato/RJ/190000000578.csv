@@ -1,6 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-A. I. O TATU AMERICANO DESENTUPIDORA LTDA.;30.273.916/0001-86;09/09/2010;13000879146;R$ 500,00;Cheque;IVAN RUBIO LACERDA;13010;Deputado Estadual;PT;RJ;
-ALESSANDRO LUCCIOLA MOLON;12.168.011/0001-64;09/09/2010;13000879143;R$ 5.638,75;Estimado;IVAN RUBIO LACERDA;13010;Deputado Estadual;PT;RJ;
-Comitê Financeiro Único;12.200.171/0001-43;30/09/2010;13000879145;R$ 750,00;Estimado;IVAN RUBIO LACERDA;13010;Deputado Estadual;PT;RJ;
-IVAN RUBIO LACERDA;023.983.047-44;27/07/2010;13000879142;R$ 100,00;Transferência eletrônica;IVAN RUBIO LACERDA;13010;Deputado Estadual;PT;RJ;
-IVAN RUBIO LACERDA;023.983.047-44;27/07/2010;13000879141;R$ 100,00;Transferência eletrônica;IVAN RUBIO LACERDA;13010;Deputado Estadual;PT;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALESSANDRO LUCCIOLA MOLON;12.168.011/0001-64;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 5.638,75;Estimado;1313 -  - PT -  - Deputado Federal / 13010 - IVAN RUBIO LACERDA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.200.171/0001-43;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 750,00;Estimado;Comitê Financeiro Único - PT -  / 13010 - IVAN RUBIO LACERDA - RJ - Deputado Estadual;
+GRÁFICA EDITORA STAMPPA LTDA.;28.844.405/0001-25;22/09/2010;       Publicidade por materiais impressos;R$ 475,00;Cheque; -  -  / 13010 - IVAN RUBIO LACERDA - RJ - Deputado Estadual;
+REGISTRO BRASIL;03.672.254/0001-44;27/07/2010;       Criação e inclusão de páginas na internet;R$ 49,00;Cheque; -  -  / 13010 - IVAN RUBIO LACERDA - RJ - Deputado Estadual;
+TECLA-ALOG-02 SOLUÇÕES DE TECNOLOGIA EM INFORMÁTICA S.A;03.672.254/0004-97;30/07/2010;       Criação e inclusão de páginas na internet;R$ 60,00;Cheque; -  -  / 13010 - IVAN RUBIO LACERDA - RJ - Deputado Estadual;
+;;29/10/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Débito em conta; -  -  / 13010 - IVAN RUBIO LACERDA - RJ - Deputado Estadual;
+;;04/10/2010;       Encargos financeiros e taxas bancárias;R$ 21,00;Débito em conta; -  -  / 13010 - IVAN RUBIO LACERDA - RJ - Deputado Estadual;
+;;02/09/2010;       Encargos financeiros e taxas bancárias;R$ 21,00;Débito em conta; -  -  / 13010 - IVAN RUBIO LACERDA - RJ - Deputado Estadual;

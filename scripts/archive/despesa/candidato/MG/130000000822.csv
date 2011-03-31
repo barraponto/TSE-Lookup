@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇOES 2010, JOSE FERNANDO APARECIDO DE OLIVEIRA GOVERNADOR;12.168.802/0001-94;27/08/2010;43001706001;R$ 440,00;Estimado;PERISVALDO RODRIGUES DA SILVA;43606;Deputado Estadual;PV;MG;
-ELEIÇOES 2010 JOSE REINALDO LIMA;12.173.656/0001-95;28/09/2010;43001706002;R$ 95,00;Estimado;PERISVALDO RODRIGUES DA SILVA;43606;Deputado Estadual;PV;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇOES 2010, JOSE FERNANDO APARECIDO DE OLIVEIRA GOVERNADOR;12.168.802/0001-94;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 440,00;Estimado;43 -  - PV -  - Governador / 43606 - PERISVALDO RODRIGUES DA SILVA - MG - Deputado Estadual;
+ELEIÇOES 2010 JOSE REINALDO LIMA;12.173.656/0001-95;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 95,00;Estimado;4309 -  - PV -  - Deputado Federal / 43606 - PERISVALDO RODRIGUES DA SILVA - MG - Deputado Estadual;

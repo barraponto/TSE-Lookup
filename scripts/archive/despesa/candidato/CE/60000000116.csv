@@ -1,6 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-RAIMUNDO MARQUES DA CUNHA;246.380.053-49;09/09/2010;65000117723;R$ 1.500,00;Estimado;RAIMUNDO MARQUES DA CUNHA;65111;Deputado Estadual;PC do B;CE;
-RAIMUNDO MARQUES DA CUNHA;246.380.053-49;14/10/2010;65000117726;R$ 13,50;Depósito em espécie;RAIMUNDO MARQUES DA CUNHA;65111;Deputado Estadual;PC do B;CE;
-RAIMUNDO MARQUES DA CUNHA;246.380.053-49;01/09/2010;65000117729;R$ 400,00;Depósito em espécie;RAIMUNDO MARQUES DA CUNHA;65111;Deputado Estadual;PC do B;CE;
-SANDRA RAMALHO DOS SANTOS;413.694.833-68;31/07/2010;65000117722;R$ 336,22;Estimado;RAIMUNDO MARQUES DA CUNHA;65111;Deputado Estadual;PC do B;CE;
-SANDRA RAMALHO DOS SANTOS;413.694.833-68;29/07/2010;65000117721;R$ 180,00;Estimado;RAIMUNDO MARQUES DA CUNHA;65111;Deputado Estadual;PC do B;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+L&O COMÉRCIO DE DERIVADOS DE PETRÓLEO LTDA-POSTO SOL POENTE;12.173.938/0001-92;09/09/2010;       Combustíveis e lubrificantes;R$ 200,00;Cheque; -  -  / 65111 - RAIMUNDO MARQUES DA CUNHA - CE - Deputado Estadual;
+L&O COMÉRCIO DE DERIVADOS DE PETRÓLEO LTDA-POSTO SOL POENTE;12.173.938/0001-92;29/09/2010;       Combustíveis e lubrificantes;R$ 150,00;Cheque; -  -  / 65111 - RAIMUNDO MARQUES DA CUNHA - CE - Deputado Estadual;
+RAIMUNDO MARQUES DA CUNHA;246.380.053-49;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado; -  -  / 65111 - RAIMUNDO MARQUES DA CUNHA - CE - Deputado Estadual;
+SANDRA RAMALHO DOS SANTOS;413.694.833-68;29/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 180,00;Estimado; -  -  / 65111 - RAIMUNDO MARQUES DA CUNHA - CE - Deputado Estadual;
+SANDRA RAMALHO DOS SANTOS;413.694.833-68;31/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 336,22;Estimado; -  -  / 65111 - RAIMUNDO MARQUES DA CUNHA - CE - Deputado Estadual;
+;;02/09/2010;       Encargos financeiros e taxas bancárias;R$ 21,00;Débito em conta; -  -  / 65111 - RAIMUNDO MARQUES DA CUNHA - CE - Deputado Estadual;
+;;14/10/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Débito em conta; -  -  / 65111 - RAIMUNDO MARQUES DA CUNHA - CE - Deputado Estadual;
+;;04/10/2010;       Encargos financeiros e taxas bancárias;R$ 21,00;Débito em conta; -  -  / 65111 - RAIMUNDO MARQUES DA CUNHA - CE - Deputado Estadual;

@@ -1,4 +1,5 @@
-Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
-JOAO ALFREDO VIEIRA CARNEIRO;693.912.891-34;30/09/2010;       Despesas com pessoal;R$ 1.000,00;Cheque; -  -  / Comitê Financeiro Único - PTB - MS;
-JOAO ALFREDO VIEIRA CARNEIRO;693.912.891-34;30/09/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / Comitê Financeiro Único - PTB - MS;
-SILK CAMISETERIA LTDA ME;04.242.424/0001-13;23/08/2010;       Diversas a especificar;R$ 5.000,00;Cheque; -  -  / Comitê Financeiro Único - PTB - MS;
+Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
+ELIZETE VIEIRA CARNEIRO;466.360.641-53;03/08/2010;14000150401;R$ 1.000,00;Cheque;Comitê Financeiro Único;PTB;MS;
+IVAN PROFIRO LOUZADA;085.702.721-20;04/08/2010;14000150403;R$ 1.500,00;Cheque;Comitê Financeiro Único;PTB;MS;
+WALTER BENEDITO CARNEIRO;004.991.961-04;03/08/2010;14000150402;R$ 2.500,00;Cheque;Comitê Financeiro Único;PTB;MS;
+WALTER BENEDITO CARNEIRO;004.991.961-04;03/08/2010;14000150404;R$ 1.500,00;Cheque;Comitê Financeiro Único;PTB;MS;

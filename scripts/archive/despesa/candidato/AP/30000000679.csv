@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-TITO CURSINO AMANAJÁS NETO;623.550.662-72;21/08/2010;23000040421;R$ 612,00;Estimado;ROSENILDA COSTA SECCU;2310;Deputado Federal;PPS;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+TITO CURSINO AMANAJÁS NETO;623.550.662-72;21/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 612,00;Estimado; -  -  / 2310 - ROSENILDA COSTA SECCU - AP - Deputado Federal;

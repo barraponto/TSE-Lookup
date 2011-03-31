@@ -1,6 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALEXANDRE GOMES SARMENTO;340.772.271-00;15/10/2010;40002144105;R$ 350,00;Depósito em espécie;ALEXANDRE GOMES SARMENTO;40700;Deputado Distrital;PSB;DF;
-ALEXANDRE GOMES SARMENTO;340.772.271-00;22/07/2010;40002144101;R$ 1.000,00;Depósito em espécie;ALEXANDRE GOMES SARMENTO;40700;Deputado Distrital;PSB;DF;
-RODRIGO ROLLEMBERG;12.173.922/0001-80;24/09/2010;40002144104;R$ 1.000,00;Cheque;ALEXANDRE GOMES SARMENTO;40700;Deputado Distrital;PSB;DF;
-RODRIGO ROLLEMBERG;12.173.922/0001-80;23/09/2010;40002144103;R$ 76,42;Estimado;ALEXANDRE GOMES SARMENTO;40700;Deputado Distrital;PSB;DF;
-RODRIGO ROLLEMBERG;12.173.922/0001-80;12/08/2010;40002144102;R$ 260,00;Estimado;ALEXANDRE GOMES SARMENTO;40700;Deputado Distrital;PSB;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ISRAEL BATISTA DE LIMA-ME;08.402.449/0001-98;26/07/2010;       Publicidade por placas, estandartes e faixas;R$ 680,00;Cheque; -  -  / 40700 - ALEXANDRE GOMES SARMENTO - DF - Deputado Distrital;
+RAINBOW - SOLUÇÕES GRÁFICAS LTDA - EPP;07.354.003/0001-72;06/09/2010;       Publicidade por materiais impressos;R$ 680,00;Cheque; -  -  / 40700 - ALEXANDRE GOMES SARMENTO - DF - Deputado Distrital;
+RAINBOW - SOLUÇÕES GRÁFICAS LTDA - EPP;07.354.003/0001-72;01/10/2010;       Publicidade por materiais impressos;R$ 950,00;Cheque; -  -  / 40700 - ALEXANDRE GOMES SARMENTO - DF - Deputado Distrital;
+RODRIGO ROLLEMBERG;12.173.922/0001-80;12/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 260,00;Estimado;400 -  - PSB -  - Senador / 40700 - ALEXANDRE GOMES SARMENTO - DF - Deputado Distrital;
+RODRIGO ROLLEMBERG;12.173.922/0001-80;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 76,42;Estimado;400 -  - PSB -  - Senador / 40700 - ALEXANDRE GOMES SARMENTO - DF - Deputado Distrital;
+;;13/10/2010;       Impostos, contribuições e taxas;R$ 0,35;Débito em conta; -  -  / 40700 - ALEXANDRE GOMES SARMENTO - DF - Deputado Distrital;
+;;21/10/2010;       Impostos, contribuições e taxas;R$ 24,00;Cheque; -  -  / 40700 - ALEXANDRE GOMES SARMENTO - DF - Deputado Distrital;
+;;15/10/2010;       Impostos, contribuições e taxas;R$ 0,35;Débito em conta; -  -  / 40700 - ALEXANDRE GOMES SARMENTO - DF - Deputado Distrital;

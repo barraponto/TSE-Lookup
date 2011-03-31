@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ISABEL NOVAES;041.333.766-92;17/09/2010;21000011888;R$ 30,00;Estimado;LUCIANO LIMA SANTANA;21123;Deputado Estadual;PCB;MG;
-LUCIANO LIMA SANTANA;042.757.796-90;21/09/2010;21000011889;R$ 100,00;Depósito em espécie;LUCIANO LIMA SANTANA;21123;Deputado Estadual;PCB;MG;
-LUCIANO LIMA SANTANA;042.757.796-90;23/09/2010;21000011890;R$ 80,00;Depósito em espécie;LUCIANO LIMA SANTANA;21123;Deputado Estadual;PCB;MG;
-MÁRIO CÉSAR DA SILVA FERREIRA;051.042.566-69;15/09/2010;21000011886;R$ 15,00;Estimado;LUCIANO LIMA SANTANA;21123;Deputado Estadual;PCB;MG;
-RAFAEL LIMA SANTANTA;055.713.816-71;15/09/2010;21000011887;R$ 20,00;Estimado;LUCIANO LIMA SANTANA;21123;Deputado Estadual;PCB;MG;
-RENATA VIVIANE LIMA SANTANA;081.543.806-09;15/09/2010;21000011882;R$ 15,00;Estimado;LUCIANO LIMA SANTANA;21123;Deputado Estadual;PCB;MG;
-SERGIO GONÇALVES GOME;074.411.386-55;15/09/2010;21000011885;R$ 20,00;Estimado;LUCIANO LIMA SANTANA;21123;Deputado Estadual;PCB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+INDUSTRIA GRAFICA MASTERGRAF LTDA;07.049.086/0001-96;21/09/2010;       Publicidade por materiais impressos;R$ 80,00;Cheque; -  -  / 21123 - LUCIANO LIMA SANTANA - MG - Deputado Estadual;
+ISABEL NOVAES;041.333.766-92;17/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 30,00;Estimado; -  -  / 21123 - LUCIANO LIMA SANTANA - MG - Deputado Estadual;
+MÁRIO CÉSAR DA SILVA FERREIRA;051.042.566-69;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 15,00;Estimado; -  -  / 21123 - LUCIANO LIMA SANTANA - MG - Deputado Estadual;
+PAPELARIA XERETA;05.955.650/0001-04;21/09/2010;       Publicidade por materiais impressos;R$ 91,00;Cheque; -  -  / 21123 - LUCIANO LIMA SANTANA - MG - Deputado Estadual;
+RAFAEL LIMA SANTANTA;055.713.816-71;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 20,00;Estimado; -  -  / 21123 - LUCIANO LIMA SANTANA - MG - Deputado Estadual;
+RENATA VIVIANE LIMA SANTANA;081.543.806-09;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 15,00;Estimado; -  -  / 21123 - LUCIANO LIMA SANTANA - MG - Deputado Estadual;
+SERGIO GONÇALVES GOME;074.411.386-55;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 20,00;Estimado; -  -  / 21123 - LUCIANO LIMA SANTANA - MG - Deputado Estadual;

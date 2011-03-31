@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CAMILA REGINA PEREIRA;090.096.616-52;04/09/2010;44000038003;R$ 510,00;Estimado;SIDNELSON PEREIRA;44900;Deputado Estadual;PRP;MG;
-CARINE FERNANDA PEREIRA;100.989.936-82;04/09/2010;44000038004;R$ 510,00;Estimado;SIDNELSON PEREIRA;44900;Deputado Estadual;PRP;MG;
-Comitê Financeiro Único;12.154.851/0001-78;20/08/2010;44000038002;R$ 180,00;Estimado;SIDNELSON PEREIRA;44900;Deputado Estadual;PRP;MG;
-Comitê Financeiro Único;12.154.851/0001-78;01/09/2010;44000038001;R$ 590,00;Estimado;SIDNELSON PEREIRA;44900;Deputado Estadual;PRP;MG;
-SILVANA PEREIRA;013.870.636-00;04/09/2010;44000038005;R$ 510,00;Estimado;SIDNELSON PEREIRA;44900;Deputado Estadual;PRP;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CAMILA REGINA PEREIRA;090.096.616-52;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 510,00;Estimado; -  -  / 44900 - SIDNELSON PEREIRA - MG - Deputado Estadual;
+CARINE FERNANDA PEREIRA;100.989.936-82;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 510,00;Estimado; -  -  / 44900 - SIDNELSON PEREIRA - MG - Deputado Estadual;
+Comitê Financeiro Único;12.154.851/0001-78;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 180,00;Estimado;Comitê Financeiro Único - PT do B -  / 44900 - SIDNELSON PEREIRA - MG - Deputado Estadual;
+Comitê Financeiro Único;12.154.851/0001-78;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 590,00;Estimado;Comitê Financeiro Único - PT do B -  / 44900 - SIDNELSON PEREIRA - MG - Deputado Estadual;
+SILVANA PEREIRA;013.870.636-00;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 510,00;Estimado; -  -  / 44900 - SIDNELSON PEREIRA - MG - Deputado Estadual;

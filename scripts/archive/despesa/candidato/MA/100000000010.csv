@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.188/0001-93;13/08/2010;16000034951;R$ 1.000,00;Cheque;RAMON SILVA GOMES;16116;Deputado Estadual;PSTU;MA;
-MARCOS ANTONIO SILVA DO NASCIMENTO;12.174.130/0001-20;20/09/2010;16000034952;R$ 300,00;Estimado;RAMON SILVA GOMES;16116;Deputado Estadual;PSTU;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+MARCOS ANTONIO SILVA DO NASCIMENTO;12.174.130/0001-20;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;16 -  - PSTU -  - Governador / 16116 - RAMON SILVA GOMES - MA - Deputado Estadual;
+ZEN PRODUÇÕES;01.932.384/0001-43;13/08/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 1.000,00;Cheque; -  -  / 16116 - RAMON SILVA GOMES - MA - Deputado Estadual;

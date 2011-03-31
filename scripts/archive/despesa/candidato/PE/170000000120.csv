@@ -1,6 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-AUGUSTO RODRIGUES COUTINHO DE MELO;12.175.443/0001-00;15/09/2010;25000544012;R$ 5.000,00;Cheque;AMARO JOAQUIM GALDINO;25456;Deputado Estadual;DEM;PE;
-AUGUSTO RODRIGUES COUTINHO DE MELO;12.175.443/0001-00;21/09/2010;25000544015;R$ 700,00;Estimado;AMARO JOAQUIM GALDINO;25456;Deputado Estadual;DEM;PE;
-AUGUSTO RODRIGUES COUTINHO DE MELO;12.175.443/0001-00;01/10/2010;25000544016;R$ 120,00;Estimado;AMARO JOAQUIM GALDINO;25456;Deputado Estadual;DEM;PE;
-AUGUSTO RODRIGUES COUTINHO DE MELO;12.175.443/0001-00;21/09/2010;25000544014;R$ 1.000,00;Estimado;AMARO JOAQUIM GALDINO;25456;Deputado Estadual;DEM;PE;
-Diretório Estadual/Distrital;09.057.316/0001-94;31/08/2010;25000544011;R$ 6.000,00;Depósito em espécie;AMARO JOAQUIM GALDINO;25456;Deputado Estadual;DEM;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTÔNIO MANOEL GALDINO;457.633.054-34;23/09/2010;       Cessão ou Locação de Veículos;R$ 1.050,00;Cheque; -  -  / 25456 - AMARO JOAQUIM GALDINO - PE - Deputado Estadual;
+AUGUSTO RODRIGUES COUTINHO DE MELO;12.175.443/0001-00;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 700,00;Estimado;2555 -  - DEM -  - Deputado Federal / 25456 - AMARO JOAQUIM GALDINO - PE - Deputado Estadual;
+AUGUSTO RODRIGUES COUTINHO DE MELO;12.175.443/0001-00;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;2555 -  - DEM -  - Deputado Federal / 25456 - AMARO JOAQUIM GALDINO - PE - Deputado Estadual;
+AUGUSTO RODRIGUES COUTINHO DE MELO;12.175.443/0001-00;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 120,00;Estimado;2555 -  - DEM -  - Deputado Federal / 25456 - AMARO JOAQUIM GALDINO - PE - Deputado Estadual;
+CÉLIO CÂNDIDO DA SILVA;052.006.374-06;01/09/2010;       Publicidade por carros de som;R$ 6.000,00;Cheque; -  -  / 25456 - AMARO JOAQUIM GALDINO - PE - Deputado Estadual;
+ITAIPÚ CONSTRUÇÃO - AMARA JACINTA DE ALMEIDA ARAÚJO;08.203.225/0001-57;23/09/2010;       Diversas a especificar;R$ 1.550,00;Cheque; -  -  / 25456 - AMARO JOAQUIM GALDINO - PE - Deputado Estadual;
+MARIA URSULINA SANTOS SOUZA;372.179.844-91;23/09/2010;       Locação/cessão de bens imóveis;R$ 2.400,00;Cheque; -  -  / 25456 - AMARO JOAQUIM GALDINO - PE - Deputado Estadual;

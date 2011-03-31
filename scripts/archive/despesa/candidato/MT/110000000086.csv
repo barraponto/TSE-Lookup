@@ -1,3 +1,13 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADERMO SERAFIM;123.319.459-34;02/08/2010;45000079102;R$ 2.000,00;Estimado;ADERMO SERAFIM;45100;Deputado Estadual;PSDB;MT;
-ELEICAO 2010 NILSON APARECIDO LEITAO DEPUTADO FEDERAL;12.199.151/0001-08;06/08/2010;45000079101;R$ 10.000,00;Cheque;ADERMO SERAFIM;45100;Deputado Estadual;PSDB;MT;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADERMO SERAFIM;123.319.459-34;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado; -  -  / 45100 - ADERMO SERAFIM - MT - Deputado Estadual;
+DILIER VELASCO DA FONSECA JUNIOR;028.195.711-82;19/08/2010;       Despesas com pessoal;R$ 890,00;Cheque; -  -  / 45100 - ADERMO SERAFIM - MT - Deputado Estadual;
+FABIOLA DE SA MAFRA;031.241.821-38;19/08/2010;       Despesas com pessoal;R$ 453,90;Cheque; -  -  / 45100 - ADERMO SERAFIM - MT - Deputado Estadual;
+JOAO DE LIMA;344.766.101-10;19/08/2010;       Despesas com pessoal;R$ 1.758,93;Cheque; -  -  / 45100 - ADERMO SERAFIM - MT - Deputado Estadual;
+MARIA ISABEL DA PAIXAO MAFRA;770.941.661-68;19/08/2010;       Despesas com pessoal;R$ 453,90;Cheque; -  -  / 45100 - ADERMO SERAFIM - MT - Deputado Estadual;
+MARTINS E FUMAGALI LTDA;09.602.942/0001-14;20/08/2010;       Combustíveis e lubrificantes;R$ 1.553,50;Cheque; -  -  / 45100 - ADERMO SERAFIM - MT - Deputado Estadual;
+MARTINS E FUMAGALI LTDA;09.602.942/0001-14;30/08/2010;       Combustíveis e lubrificantes;R$ 119,60;Cheque; -  -  / 45100 - ADERMO SERAFIM - MT - Deputado Estadual;
+OZIEL CRUZ ABREU;957.252.371-68;19/08/2010;       Cessão ou Locação de Veículos;R$ 2.000,00;Cheque; -  -  / 45100 - ADERMO SERAFIM - MT - Deputado Estadual;
+RILDO MACHADO ALVES;903.681.931-87;19/08/2010;       Locação/cessão de bens móveis;R$ 1.500,00;Cheque; -  -  / 45100 - ADERMO SERAFIM - MT - Deputado Estadual;
+;;25/08/2010;       Impostos, contribuições e taxas;R$ 21,07;Cheque; -  -  / 45100 - ADERMO SERAFIM - MT - Deputado Estadual;
+;;11/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 45100 - ADERMO SERAFIM - MT - Deputado Estadual;
+;;25/08/2010;       Impostos, contribuições e taxas;R$ 1.246,20;Cheque; -  -  / 45100 - ADERMO SERAFIM - MT - Deputado Estadual;

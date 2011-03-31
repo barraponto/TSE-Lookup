@@ -1,2 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOAQUIM JORGE MARTINS ARAUJO;799.190.303-68;23/07/2010;36000060730;R$ 1.500,00;Depósito em espécie;JOAQUIM JORGE MARTINS ARAUJO;3622;Deputado Federal;PTC;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DOMINGOS CARLOS LEAL CARVALHO;104.606.913-68;14/09/2010;       Publicidade por carros de som;R$ 125,00;Cheque; -  -  / 3622 - JOAQUIM JORGE MARTINS ARAUJO - MA - Deputado Federal;
+ELTON NABATE DOS SANTOS;810.348.903-44;04/08/2010;       Serviços prestados por terceiros;R$ 400,00;Cheque; -  -  / 3622 - JOAQUIM JORGE MARTINS ARAUJO - MA - Deputado Federal;
+ELTON NABATE DOS SANTOS;810.348.903-44;17/12/2010;       Publicidade por placas, estandartes e faixas;R$ 3,00;Cheque; -  -  / 3622 - JOAQUIM JORGE MARTINS ARAUJO - MA - Deputado Federal;
+GRAFICA E EDITORA FORTE LTDA;63.408.017/0001-00;10/08/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 3622 - JOAQUIM JORGE MARTINS ARAUJO - MA - Deputado Federal;
+JACYMARIO GARCIA;405.224.823-68;09/08/2010;       Produção de jingles, vinhetas e slogans;R$ 400,00;Cheque; -  -  / 3622 - JOAQUIM JORGE MARTINS ARAUJO - MA - Deputado Federal;
+WESLEY SOUSA PEREIRA;602.499.503-24;11/08/2010;       Publicidade por materiais impressos;R$ 272,00;Cheque; -  -  / 3622 - JOAQUIM JORGE MARTINS ARAUJO - MA - Deputado Federal;

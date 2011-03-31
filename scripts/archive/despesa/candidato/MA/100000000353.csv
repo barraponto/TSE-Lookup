@@ -1,8 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.535/0001-76;01/08/2010;15000062663;R$ 641,00;Estimado;JOSIMAR ALVES DE OLIVEIRA;15111;Deputado Estadual;PMDB;MA;
-Diretório Estadual/Distrital;01.387.080/0001-42;20/09/2010;15000062667;R$ 10.000,00;Cheque;JOSIMAR ALVES DE OLIVEIRA;15111;Deputado Estadual;PMDB;MA;
-JOSE RAIMUNDO FRANÇA SARGES;658.010.162-87;01/08/2010;15000062664;R$ 9.000,00;Estimado;JOSIMAR ALVES DE OLIVEIRA;15111;Deputado Estadual;PMDB;MA;
-JOSIMAR ALVES DE OLIVEIRA;225.226.203-63;23/07/2010;15000062661;R$ 5.000,00;Estimado;JOSIMAR ALVES DE OLIVEIRA;15111;Deputado Estadual;PMDB;MA;
-JOSIMAR ALVES DE OLIVEIRA;225.226.203-63;19/08/2010;15000062666;R$ 3.050,00;Depósito em espécie;JOSIMAR ALVES DE OLIVEIRA;15111;Deputado Estadual;PMDB;MA;
-JOSIMAR ALVES DE OLIVEIRA;225.226.203-63;23/07/2010;15000062662;R$ 1.000,00;Depósito em espécie;JOSIMAR ALVES DE OLIVEIRA;15111;Deputado Estadual;PMDB;MA;
-JOSIMAR ALVES DE OLIVEIRA;225.226.203-63;05/08/2010;15000062665;R$ 800,00;Depósito em espécie;JOSIMAR ALVES DE OLIVEIRA;15111;Deputado Estadual;PMDB;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.535/0001-76;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 641,00;Estimado;Comitê Financeiro Único - PMDB -  / 15111 - JOSIMAR ALVES DE OLIVEIRA - MA - Deputado Estadual;
+JOSE RAIMUNDO FRANÇA SARGES;658.010.162-87;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 9.000,00;Estimado; -  -  / 15111 - JOSIMAR ALVES DE OLIVEIRA - MA - Deputado Estadual;
+JOSIMAR ALVES DE OLIVEIRA;225.226.203-63;23/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 5.000,00;Estimado; -  -  / 15111 - JOSIMAR ALVES DE OLIVEIRA - MA - Deputado Estadual;
+NASSAR MATIAS PUBLICIDADE LTDA;10.984.812/0001-72;05/08/2010;       Publicidade por materiais impressos;R$ 720,00;Cheque; -  -  / 15111 - JOSIMAR ALVES DE OLIVEIRA - MA - Deputado Estadual;
+NASSAR MATIAS PUBLICIDADE LTDA;10.984.812/0001-72;23/07/2010;       Publicidade por placas, estandartes e faixas;R$ 927,50;Cheque; -  -  / 15111 - JOSIMAR ALVES DE OLIVEIRA - MA - Deputado Estadual;
+NASSAR MATIAS PUBLICIDADE LTDA;10.984.812/0001-72;19/08/2010;       Publicidade por materiais impressos;R$ 1.200,00;Cheque; -  -  / 15111 - JOSIMAR ALVES DE OLIVEIRA - MA - Deputado Estadual;
+SÃO LUIS BRINDES GRAFICA E EDITORA LTDA;01.777.725/0001-53;20/08/2010;       Publicidade por materiais impressos;R$ 1.850,00;Cheque; -  -  / 15111 - JOSIMAR ALVES DE OLIVEIRA - MA - Deputado Estadual;
+V. RODRIGUES MELO - ME POSTO SANTA MARIA;03.005.692/0001-59;24/09/2010;       Combustíveis e lubrificantes;R$ 8.000,00;Cheque; -  -  / 15111 - JOSIMAR ALVES DE OLIVEIRA - MA - Deputado Estadual;
+V. RODRIGUES MELO - ME POSTO SANTA MARIA;03.005.692/0001-59;28/09/2010;       Combustíveis e lubrificantes;R$ 2.152,50;Cheque; -  -  / 15111 - JOSIMAR ALVES DE OLIVEIRA - MA - Deputado Estadual;

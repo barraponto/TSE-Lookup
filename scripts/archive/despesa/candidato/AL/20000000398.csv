@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.235.330/0001-45;18/08/2010;43001903950;R$ 484,00;Estimado;LOURIVAL SANDRO BARROS DE ALMEIDA;43243;Deputado Estadual;PV;AL;
-TIF PROPAGANDA VISUAL LTDA - ME;41.185.398/0001-65;06/08/2010;43001903948;R$ 200,00;Estimado;LOURIVAL SANDRO BARROS DE ALMEIDA;43243;Deputado Estadual;PV;AL;
-TIF PROPAGANDA VISUAL LTDA - ME;41.185.398/0001-65;12/08/2010;43001903949;R$ 365,00;Estimado;LOURIVAL SANDRO BARROS DE ALMEIDA;43243;Deputado Estadual;PV;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.235.330/0001-45;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 484,00;Estimado;Comitê Financeiro Único - PV -  / 43243 - LOURIVAL SANDRO BARROS DE ALMEIDA - AL - Deputado Estadual;
+TIF PROPAGANDA VISUAL LTDA - ME;41.185.398/0001-65;12/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 365,00;Estimado; -  -  / 43243 - LOURIVAL SANDRO BARROS DE ALMEIDA - AL - Deputado Estadual;
+TIF PROPAGANDA VISUAL LTDA - ME;41.185.398/0001-65;06/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado; -  -  / 43243 - LOURIVAL SANDRO BARROS DE ALMEIDA - AL - Deputado Estadual;

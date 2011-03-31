@@ -1,5 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS DE ARAUJO E SILVA;361.623.107-87;24/08/2010;28000183265;R$ 200,00;Transferência eletrônica;CARLOS DE ARAUJO E SILVA;28192;Deputado Estadual;PRTB;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;28000183266;R$ 150,00;Estimado;CARLOS DE ARAUJO E SILVA;28192;Deputado Estadual;PRTB;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;28000183267;R$ 150,00;Estimado;CARLOS DE ARAUJO E SILVA;28192;Deputado Estadual;PRTB;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;19/08/2010;28000183264;R$ 150,00;Estimado;CARLOS DE ARAUJO E SILVA;28192;Deputado Estadual;PRTB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO ABASTECIMENTO LOVE STORY LTDA;42.247.064/0001-31;31/08/2010;       Combustíveis e lubrificantes;R$ 17,89;Cheque; -  -  / 28192 - CARLOS DE ARAUJO E SILVA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 28192 - CARLOS DE ARAUJO E SILVA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 28192 - CARLOS DE ARAUJO E SILVA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;19/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 28192 - CARLOS DE ARAUJO E SILVA - RJ - Deputado Estadual;
+POSTO DE GASOLINA DAS AMERICAS LTDA;42.547.620/0001-95;24/08/2010;       Combustíveis e lubrificantes;R$ 50,00;Cheque; -  -  / 28192 - CARLOS DE ARAUJO E SILVA - RJ - Deputado Estadual;
+POSTO DE GASOLINA DAS AMERICAS LTDA;42.547.620/0001-95;25/08/2010;       Combustíveis e lubrificantes;R$ 17,66;Cheque; -  -  / 28192 - CARLOS DE ARAUJO E SILVA - RJ - Deputado Estadual;
+POSTO DE GASOLINA DAS AMERICAS LTDA;42.547.620/0001-95;27/08/2010;       Combustíveis e lubrificantes;R$ 28,83;Cheque; -  -  / 28192 - CARLOS DE ARAUJO E SILVA - RJ - Deputado Estadual;
+POSTO DE GASOLINA DAS AMERICAS LTDA;42.547.620/0001-95;28/08/2010;       Combustíveis e lubrificantes;R$ 19,74;Cheque; -  -  / 28192 - CARLOS DE ARAUJO E SILVA - RJ - Deputado Estadual;
+POSTO MEGA VERAO LTDA;03.892.955/0001-99;30/08/2010;       Combustíveis e lubrificantes;R$ 50,00;Cheque; -  -  / 28192 - CARLOS DE ARAUJO E SILVA - RJ - Deputado Estadual;

@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS EDUARDO DOS SANTOS RANGEL;050.284.744-19;17/08/2010;36000088194;R$ 210,00;Depósito em espécie;SERGIO RAFAEL BENTO GOMES;36999;Deputado Estadual;PTC;PB;
-GLEYDSON BATISTA GUIMARAES;049.273.994-35;15/09/2010;36000088196;R$ 100,00;Depósito em espécie;SERGIO RAFAEL BENTO GOMES;36999;Deputado Estadual;PTC;PB;
-RICARDO VIEIRA COUTINHO;12.173.462/0001-90;01/10/2010;36000088193;R$ 1.192,50;Estimado;SERGIO RAFAEL BENTO GOMES;36999;Deputado Estadual;PTC;PB;
-RICARDO VIEIRA COUTINHO;12.173.462/0001-90;30/08/2010;36000088191;R$ 139,00;Estimado;SERGIO RAFAEL BENTO GOMES;36999;Deputado Estadual;PTC;PB;
-RICARDO VIEIRA COUTINHO;12.173.462/0001-90;30/09/2010;36000088192;R$ 48,00;Estimado;SERGIO RAFAEL BENTO GOMES;36999;Deputado Estadual;PTC;PB;
-VALDECI DA SILVA COSTA;025.834.584-50;30/08/2010;36000088195;R$ 80,00;Depósito em espécie;SERGIO RAFAEL BENTO GOMES;36999;Deputado Estadual;PTC;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ETIQUETAS BRASIL IND GRAFICA LTDA;01.515.239/0001-67;29/09/2010;       Publicidade por materiais impressos;R$ 100,00;Cheque; -  -  / 36999 - SERGIO RAFAEL BENTO GOMES - PB - Deputado Estadual;
+JEAKALLI DEMETRIO CABRAL - MEI;11.963.043/0001-99;02/09/2010;       Publicidade por placas, estandartes e faixas;R$ 250,00;Cheque; -  -  / 36999 - SERGIO RAFAEL BENTO GOMES - PB - Deputado Estadual;
+MARICEJIO VASCONVELOS DE ARAUJO;511.566.874-20;20/09/2010;       Serviços prestados por terceiros;R$ 40,00;Cheque; -  -  / 36999 - SERGIO RAFAEL BENTO GOMES - PB - Deputado Estadual;
+RICARDO VIEIRA COUTINHO;12.173.462/0001-90;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.192,50;Estimado;40 -  - PSB -  - Governador / 36999 - SERGIO RAFAEL BENTO GOMES - PB - Deputado Estadual;
+RICARDO VIEIRA COUTINHO;12.173.462/0001-90;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 48,00;Estimado;40 -  - PSB -  - Governador / 36999 - SERGIO RAFAEL BENTO GOMES - PB - Deputado Estadual;
+RICARDO VIEIRA COUTINHO;12.173.462/0001-90;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 139,00;Estimado;40 -  - PSB -  - Governador / 36999 - SERGIO RAFAEL BENTO GOMES - PB - Deputado Estadual;

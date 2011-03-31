@@ -1,5 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Governador;12.191.521/0001-52;01/10/2010;15000192152;R$ 788,81;Estimado;OSMAR JOSÉ DA SILVA;15112;Deputado Estadual;PMDB;AL;
-OSMAR JOSÉ DA SILVA;879.777.108-20;01/11/2010;15000192154;R$ 170,00;Depósito em espécie;OSMAR JOSÉ DA SILVA;15112;Deputado Estadual;PMDB;AL;
-OSMAR JOSÉ DA SILVA;879.777.108-20;13/09/2010;15000192151;R$ 1.150,00;Depósito em espécie;OSMAR JOSÉ DA SILVA;15112;Deputado Estadual;PMDB;AL;
-OSMAR JOSÉ DA SILVA;879.777.108-20;29/10/2010;15000192153;R$ 300,00;Depósito em espécie;OSMAR JOSÉ DA SILVA;15112;Deputado Estadual;PMDB;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CÍCERO JOSÉ DA SILVA;956.442.884-04;02/09/2010;       Publicidade por materiais impressos;R$ 1.120,00;Cheque; -  -  / 15112 - OSMAR JOSÉ DA SILVA - AL - Deputado Estadual;
+Comitê Financeiro Estadual/Distrital para Governador;12.191.521/0001-52;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 788,81;Estimado;Comitê Financeiro Distrital/Estadual para Governador - PDT -  / 15112 - OSMAR JOSÉ DA SILVA - AL - Deputado Estadual;
+ROSEANE NOGUEIRA DE ANDRADE;725.513.054-20;30/09/2010;       Serviços prestados por terceiros;R$ 500,00;Cheque; -  -  / 15112 - OSMAR JOSÉ DA SILVA - AL - Deputado Estadual;

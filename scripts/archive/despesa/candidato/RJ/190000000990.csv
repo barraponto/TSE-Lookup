@@ -1,2 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-RONALDO CEZAR COELHO;109.999.657-00;16/08/2010;45000108201;R$ 5.800,00;Cheque;RONALDO CEZAR COELHO;251;1º Suplente Senador;PSDB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DS AIR TAXI AÉREO LTDA.;36.177.426/0001-62;06/08/2010;       Despesas com transporte ou deslocamento;R$ 5.747,50;Cheque; -  -  / 251 - RONALDO CEZAR COELHO - RJ - 1º Suplente Senador;
+PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA;32.080.483/0001-78;15/10/2010;       Diversas a especificar;R$ 52,50;Cheque; -  -  / 251 - RONALDO CEZAR COELHO - RJ - 1º Suplente Senador;

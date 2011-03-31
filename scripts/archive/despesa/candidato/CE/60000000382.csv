@@ -1,4 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MARIA LAUDECY FERREIRA DE CARVALHO;267.896.123-00;03/08/2010;45000195951;R$ 1.500,00;Depósito em espécie;MARIA LAUDECY FERREIRA DE CARVALHO;4533;Deputado Federal;PSDB;CE;
-MARIA LAUDECY FERREIRA DE CARVALHO;267.896.123-00;17/08/2010;45000195953;R$ 190,00;Depósito em espécie;MARIA LAUDECY FERREIRA DE CARVALHO;4533;Deputado Federal;PSDB;CE;
-MARIA LAUDECY FERREIRA DE CARVALHO;267.896.123-00;13/08/2010;45000195952;R$ 100,00;Depósito em espécie;MARIA LAUDECY FERREIRA DE CARVALHO;4533;Deputado Federal;PSDB;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EDITORA PREMIUS LTDA;06.067.027/0001-88;03/08/2010;       Publicidade por materiais impressos;R$ 930,00;Cheque; -  -  / 4533 - MARIA LAUDECY FERREIRA DE CARVALHO - CE - Deputado Federal;
+JOSE ROLAND DA SILVA LIMA;233.436.303-06;14/08/2010;       Publicidade por placas, estandartes e faixas;R$ 500,00;Cheque; -  -  / 4533 - MARIA LAUDECY FERREIRA DE CARVALHO - CE - Deputado Federal;
+NADSON JOSE FERREIRA DE CARVALHO;011.727.503-43;18/09/2010;       Publicidade por placas, estandartes e faixas;R$ 10,00;Cheque; -  -  / 4533 - MARIA LAUDECY FERREIRA DE CARVALHO - CE - Deputado Federal;
+VALDEMIR VIEIRA;787.294.833-87;17/08/2010;       Produção de jingles, vinhetas e slogans;R$ 350,00;Cheque; -  -  / 4533 - MARIA LAUDECY FERREIRA DE CARVALHO - CE - Deputado Federal;

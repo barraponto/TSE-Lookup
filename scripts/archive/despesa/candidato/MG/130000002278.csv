@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Deputado Federal;12.205.317/0001-43;11/10/2010;13000701602;R$ 600,00;Estimado;MARIA GORETE PEREIRA AUGUSTO;1378;Deputado Federal;PT;MG;
-HELIO CALIXTO DA COSTA;12.189.609/0001-30;26/09/2010;13000701603;R$ 68,40;Estimado;MARIA GORETE PEREIRA AUGUSTO;1378;Deputado Federal;PT;MG;
-MARCELO DO SANTOS;66.382.649/0001-22;30/09/2010;13000701606;R$ 700,00;Estimado;MARIA GORETE PEREIRA AUGUSTO;1378;Deputado Federal;PT;MG;
-MARCELO DO SANTOS;66.382.649/0001-22;30/09/2010;13000701605;R$ 800,00;Estimado;MARIA GORETE PEREIRA AUGUSTO;1378;Deputado Federal;PT;MG;
-MARIA TEREZA LARA;12.172.173/0001-76;30/09/2010;13000701607;R$ 3.700,00;Estimado;MARIA GORETE PEREIRA AUGUSTO;1378;Deputado Federal;PT;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Deputado Federal;12.205.317/0001-43;11/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Federal - PT -  / 1378 - MARIA GORETE PEREIRA AUGUSTO - MG - Deputado Federal;
+HELIO CALIXTO DA COSTA;12.189.609/0001-30;26/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 68,40;Estimado;15 -  - PMDB -  - Governador / 1378 - MARIA GORETE PEREIRA AUGUSTO - MG - Deputado Federal;
+MARCELO DO SANTOS;66.382.649/0001-22;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 700,00;Estimado; -  -  / 1378 - MARIA GORETE PEREIRA AUGUSTO - MG - Deputado Federal;
+MARCELO DO SANTOS;66.382.649/0001-22;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 800,00;Estimado; -  -  / 1378 - MARIA GORETE PEREIRA AUGUSTO - MG - Deputado Federal;
+MARIA TEREZA LARA;12.172.173/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.700,00;Estimado;13151 -  - PT -  - Deputado Estadual / 1378 - MARIA GORETE PEREIRA AUGUSTO - MG - Deputado Federal;

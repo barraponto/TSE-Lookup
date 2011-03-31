@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-HELIO CALIXTO DA COSTA;12.189.609/0001-30;20/09/2010;15000133003;R$ 600,00;Estimado;JOSE EUSTAQUIO DE FREITAS;1539;Deputado Federal;PMDB;MG;
-HELIO CALIXTO DA COSTA;12.189.609/0001-30;30/09/2010;15000133004;R$ 285,99;Estimado;JOSE EUSTAQUIO DE FREITAS;1539;Deputado Federal;PMDB;MG;
-HELIO CALIXTO DA COSTA;12.189.609/0001-30;05/08/2010;15000133001;R$ 300,00;Estimado;JOSE EUSTAQUIO DE FREITAS;1539;Deputado Federal;PMDB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+HELIO CALIXTO DA COSTA;12.189.609/0001-30;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;15 -  - PMDB -  - Governador / 1539 - JOSE EUSTAQUIO DE FREITAS - MG - Deputado Federal;
+HELIO CALIXTO DA COSTA;12.189.609/0001-30;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado;15 -  - PMDB -  - Governador / 1539 - JOSE EUSTAQUIO DE FREITAS - MG - Deputado Federal;
+HELIO CALIXTO DA COSTA;12.189.609/0001-30;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 285,99;Estimado;15 -  - PMDB -  - Governador / 1539 - JOSE EUSTAQUIO DE FREITAS - MG - Deputado Federal;

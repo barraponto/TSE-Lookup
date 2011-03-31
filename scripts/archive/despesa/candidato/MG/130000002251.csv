@@ -1,5 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.372.871/0001-15;29/07/2010;12001559752;R$ 1.197,84;Estimado;NIVALDO DA PAIXAO TEIXEIRA;12012;Deputado Estadual;PDT;MG;
-Comitê Financeiro Único;12.372.871/0001-15;17/09/2010;12001559754;R$ 2.100,00;Cheque;NIVALDO DA PAIXAO TEIXEIRA;12012;Deputado Estadual;PDT;MG;
-Comitê Financeiro Único;12.372.871/0001-15;31/08/2010;12001559751;R$ 1.320,00;Estimado;NIVALDO DA PAIXAO TEIXEIRA;12012;Deputado Estadual;PDT;MG;
-SÉRGIO MIRANDA;12.177.928/0001-25;12/08/2010;12001559753;R$ 1.000,00;Cheque;NIVALDO DA PAIXAO TEIXEIRA;12012;Deputado Estadual;PDT;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.372.871/0001-15;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.320,00;Estimado;Comitê Financeiro Único - PDT -  / 12012 - NIVALDO DA PAIXAO TEIXEIRA - MG - Deputado Estadual;
+Comitê Financeiro Único;12.372.871/0001-15;29/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.197,84;Estimado;Comitê Financeiro Único - PDT -  / 12012 - NIVALDO DA PAIXAO TEIXEIRA - MG - Deputado Estadual;
+OSMA SILVA FILHO;373.198.096-72;01/09/2010;       Serviços prestados por terceiros;R$ 498,10;Não informado; -  -  / 12012 - NIVALDO DA PAIXAO TEIXEIRA - MG - Deputado Estadual;
+SILAS FARES DA SILVA;074.762.116-00;01/08/2010;       Serviços prestados por terceiros;R$ 2.093,20;Não informado; -  -  / 12012 - NIVALDO DA PAIXAO TEIXEIRA - MG - Deputado Estadual;
+TOTAL DIESEL LTDA;04.241.474/0001-86;18/08/2010;       Despesas com transporte ou deslocamento;R$ 997,10;Não informado; -  -  / 12012 - NIVALDO DA PAIXAO TEIXEIRA - MG - Deputado Estadual;
+;;17/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 12012 - NIVALDO DA PAIXAO TEIXEIRA - MG - Deputado Estadual;
+;;22/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 12012 - NIVALDO DA PAIXAO TEIXEIRA - MG - Deputado Estadual;
+;;23/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 12012 - NIVALDO DA PAIXAO TEIXEIRA - MG - Deputado Estadual;
+;;17/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 12012 - NIVALDO DA PAIXAO TEIXEIRA - MG - Deputado Estadual;

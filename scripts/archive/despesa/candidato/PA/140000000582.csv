@@ -1,2 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FERNANDO ANTÔNIO BARRETO QUEIROZ;533.036.287-34;14/09/2010;70000178401;R$ 20.000,00;Depósito em espécie;JOSE MARIA DE LIMA SEGUNDO;70000;Deputado Estadual;PT do B;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARY OSVALDO BATISTA DE CARVALHO;772.201.882-34;14/09/2010;       Publicidade por carros de som;R$ 1.600,00;Cheque; -  -  / 70000 - JOSE MARIA DE LIMA SEGUNDO - PA - Deputado Estadual;
+EDMILSON CORREA LIMA;245.702.141-34;14/09/2010;       Cessão ou Locação de Veículos;R$ 2.600,00;Cheque; -  -  / 70000 - JOSE MARIA DE LIMA SEGUNDO - PA - Deputado Estadual;
+FRANCISCO DE ASSIS DA SILVA NASCIMENTO;208.156.202-25;14/09/2010;       Publicidade por carros de som;R$ 1.300,00;Cheque; -  -  / 70000 - JOSE MARIA DE LIMA SEGUNDO - PA - Deputado Estadual;
+IDALINA CORREA DE LIMA;226.602.162-15;14/09/2010;       Cessão ou Locação de Veículos;R$ 2.270,00;Cheque; -  -  / 70000 - JOSE MARIA DE LIMA SEGUNDO - PA - Deputado Estadual;
+JOSÉ LUCIANO MOREIRA MIRANDA;198.102.452-20;14/09/2010;       Locação/cessão de bens móveis;R$ 1.730,00;Cheque; -  -  / 70000 - JOSE MARIA DE LIMA SEGUNDO - PA - Deputado Estadual;
+PATRICIA MARIA CORREA LIMA;411.608.942-72;14/09/2010;       Locação/cessão de bens imóveis;R$ 6.300,00;Cheque; -  -  / 70000 - JOSE MARIA DE LIMA SEGUNDO - PA - Deputado Estadual;
+SHIRLEY TOBELEM DA SILVA;684.633.832-20;14/09/2010;       Despesas com pessoal;R$ 1.550,00;Cheque; -  -  / 70000 - JOSE MARIA DE LIMA SEGUNDO - PA - Deputado Estadual;
+SIMY TOBELEM DA SILVA;612.917.812-34;14/09/2010;       Produção de jingles, vinhetas e slogans;R$ 1.200,00;Cheque; -  -  / 70000 - JOSE MARIA DE LIMA SEGUNDO - PA - Deputado Estadual;
+WENSYO ANDRADE MESCOUTO;806.041.372-49;14/09/2010;       Criação e inclusão de páginas na internet;R$ 1.450,00;Cheque; -  -  / 70000 - JOSE MARIA DE LIMA SEGUNDO - PA - Deputado Estadual;

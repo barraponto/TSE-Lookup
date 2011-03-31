@@ -1,4 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-EURIVALDO DA CUNHA;055.031.241-20;10/09/2010;23000220823;R$ 200,00;Depósito em espécie;VAGNER GOMES DE SOUZA;2331;Deputado Federal;PPS;RJ;
-VAGNER GOMES DE SOUZA;026.185.127-66;09/08/2010;23000220821;R$ 1.100,00;Transferência eletrônica;VAGNER GOMES DE SOUZA;2331;Deputado Federal;PPS;RJ;
-VAGNER GOMES DE SOUZA;026.185.127-66;19/08/2010;23000220822;R$ 600,00;Transferência eletrônica;VAGNER GOMES DE SOUZA;2331;Deputado Federal;PPS;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AMAZONIA DO BRASIL PUBLICIDADE PROPAGANDA LTDA;39.120.860/0001-02;16/09/2010;       Publicidade por materiais impressos;R$ 330,00;Cheque; -  -  / 2331 - VAGNER GOMES DE SOUZA - RJ - Deputado Federal;
+AMAZONIA DO BRASIL PUBLICIDADE PROPAGANDA LTDA;39.120.860/0001-02;01/09/2010;       Publicidade por placas, estandartes e faixas;R$ 875,00;Cheque; -  -  / 2331 - VAGNER GOMES DE SOUZA - RJ - Deputado Federal;
+MARCELO WICHAN DE SOUZA GOMES;11.707.769/0001-60;13/08/2010;       Serviços prestados por terceiros;R$ 290,00;Cheque; -  -  / 2331 - VAGNER GOMES DE SOUZA - RJ - Deputado Federal;
+MARCELO WICHAN DE SOUZA GOMES;11.707.769/0001-60;23/08/2010;       Serviços prestados por terceiros;R$ 290,00;Cheque; -  -  / 2331 - VAGNER GOMES DE SOUZA - RJ - Deputado Federal;
+;;02/09/2010;       Encargos financeiros e taxas bancárias;R$ 21,00;Débito em conta; -  -  / 2331 - VAGNER GOMES DE SOUZA - RJ - Deputado Federal;
+;;04/10/2010;       Encargos financeiros e taxas bancárias;R$ 21,00;Débito em conta; -  -  / 2331 - VAGNER GOMES DE SOUZA - RJ - Deputado Federal;

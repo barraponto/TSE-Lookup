@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.254/0001-25;25/10/2010;44000028343;R$ 1.000,00;Estimado;AUREMAR JOSE PEREIRA NAVA;44543;Deputado Estadual;PRP;RJ;
-GERALDO RIBEIRO BORGES NETO;003.513.017-20;10/09/2010;44000028341;R$ 250,00;Estimado;AUREMAR JOSE PEREIRA NAVA;44543;Deputado Estadual;PRP;RJ;
-MARWIK ARTE GRAFICA LTDA ME;05.239.115/0001-57;10/09/2010;44000028342;R$ 90,00;Estimado;AUREMAR JOSE PEREIRA NAVA;44543;Deputado Estadual;PRP;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.254/0001-25;25/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;Comitê Financeiro Único - PRP -  / 44543 - AUREMAR JOSE PEREIRA NAVA - RJ - Deputado Estadual;
+GERALDO RIBEIRO BORGES NETO;003.513.017-20;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado; -  -  / 44543 - AUREMAR JOSE PEREIRA NAVA - RJ - Deputado Estadual;
+MARWIK ARTE GRAFICA LTDA ME;05.239.115/0001-57;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 90,00;Estimado; -  -  / 44543 - AUREMAR JOSE PEREIRA NAVA - RJ - Deputado Estadual;

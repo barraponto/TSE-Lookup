@@ -1,7 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS M. SILVA;291.781.851-49;01/11/2010;11000052208;R$ 2.000,00;Depósito em espécie;PAULO MARTINS DA SILVA;1112;Deputado Federal;PP;GO;
-PAULO MARTINS DA SILVA;327.419.011-04;01/11/2010;11000052206;R$ 40,50;Depósito em espécie;PAULO MARTINS DA SILVA;1112;Deputado Federal;PP;GO;
-PAULO MARTINS DA SILVA;327.419.011-04;01/11/2010;11000052207;R$ 9.300,00;Depósito em espécie;PAULO MARTINS DA SILVA;1112;Deputado Federal;PP;GO;
-PAULO ROBERTO CUNHA;12.198.041/0001-13;17/09/2010;11000052209;R$ 15.300,00;Estimado;PAULO MARTINS DA SILVA;1112;Deputado Federal;PP;GO;
-VALDERLAN VIEIRA CARDOSO;12.198.568/0001-48;10/09/2010;11000052203;R$ 500,00;Estimado;PAULO MARTINS DA SILVA;1112;Deputado Federal;PP;GO;
-VANDERLAN VIEIRA CARDOSO;12.198.568/0001-48;01/10/2010;11000052204;R$ 447,00;Estimado;PAULO MARTINS DA SILVA;1112;Deputado Federal;PP;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS ANTONIO M DE SOUZA;590.307.041-87;30/09/2010;       Serviços prestados por terceiros;R$ 5.000,00;Transferência eletrônica; -  -  / 1112 - PAULO MARTINS DA SILVA - GO - Deputado Federal;
+EDITORA GERAL INDEPENDECIA LTDA;24.807.737/0001-89;29/09/2010;       Publicidade por jornais e revistas;R$ 1.200,00;Transferência eletrônica; -  -  / 1112 - PAULO MARTINS DA SILVA - GO - Deputado Federal;
+JOAO JAIRO DE OLIVEIRA;319.666.081-87;30/09/2010;       Publicidade por carros de som;R$ 5.100,00;Transferência eletrônica; -  -  / 1112 - PAULO MARTINS DA SILVA - GO - Deputado Federal;
+PAULO ROBERTO CUNHA;12.198.041/0001-13;17/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 15.300,00;Estimado;222 -  - PR -  - Senador / 1112 - PAULO MARTINS DA SILVA - GO - Deputado Federal;
+VALDERLAN VIEIRA CARDOSO;12.198.568/0001-48;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;22 -  - PR -  - Governador / 1112 - PAULO MARTINS DA SILVA - GO - Deputado Federal;
+VANDERLAN VIEIRA CARDOSO;12.198.568/0001-48;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 447,00;Estimado;22 -  - PR -  - Governador / 1112 - PAULO MARTINS DA SILVA - GO - Deputado Federal;
+;;01/11/2010;       Encargos financeiros e taxas bancárias;R$ 40,50;Débito em conta; -  -  / 1112 - PAULO MARTINS DA SILVA - GO - Deputado Federal;

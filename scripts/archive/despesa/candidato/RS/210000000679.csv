@@ -1,6 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.140/0001-92;03/10/2010;15000202444;R$ 1.334,00;Estimado;JULIO CESAR NUNES DE OLIVEIRA;1545;Deputado Federal;PMDB;RS;
-Diretório Estadual/Distrital;87.582.714/0001-33;26/07/2010;15000202441;R$ 180,74;Estimado;JULIO CESAR NUNES DE OLIVEIRA;1545;Deputado Federal;PMDB;RS;
-JULIO CESAR NUNES DE OLIVEIRA;082.439.640-53;16/09/2010;15000202443;R$ 350,00;Depósito em espécie;JULIO CESAR NUNES DE OLIVEIRA;1545;Deputado Federal;PMDB;RS;
-JULIO CESAR NUNES DE OLIVEIRA;082.439.640-53;14/07/2010;15000202442;R$ 1.800,00;Depósito em espécie;JULIO CESAR NUNES DE OLIVEIRA;1545;Deputado Federal;PMDB;RS;
-JULIO CESAR NUNES DE OLIVEIRA;082.439.640-53;03/10/2010;15000202445;R$ 1.500,00;Estimado;JULIO CESAR NUNES DE OLIVEIRA;1545;Deputado Federal;PMDB;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.140/0001-92;03/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.334,00;Estimado;Comitê Financeiro Único - PMDB -  / 1545 - JULIO CESAR NUNES DE OLIVEIRA - RS - Deputado Federal;
+Diretório Estadual/Distrital;87.582.714/0001-33;26/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 180,74;Estimado;Direção Estadual/Distrital - PMDB -  / 1545 - JULIO CESAR NUNES DE OLIVEIRA - RS - Deputado Federal;
+GETULIO BRAUN E CIA LTDA;88.575.568/0001-81;16/09/2010;       Combustíveis e lubrificantes;R$ 100,00;Cheque; -  -  / 1545 - JULIO CESAR NUNES DE OLIVEIRA - RS - Deputado Federal;
+GETULIO BRAUN E CIA LTDA;88.575.568/0001-81;03/10/2010;       Combustíveis e lubrificantes;R$ 25,00;Cheque; -  -  / 1545 - JULIO CESAR NUNES DE OLIVEIRA - RS - Deputado Federal;
+JORNAL DE NOVA PETROPOLIS LTDA;94.178.787/0001-20;30/09/2010;       Publicidade por jornais e revistas;R$ 200,00;Cheque; -  -  / 1545 - JULIO CESAR NUNES DE OLIVEIRA - RS - Deputado Federal;
+JORNAL DE NOVA PETROPOLIS LTDA;94.178.787/0001-20;13/08/2010;       Publicidade por jornais e revistas;R$ 420,00;Cheque; -  -  / 1545 - JULIO CESAR NUNES DE OLIVEIRA - RS - Deputado Federal;
+JULIO CESAR NUNES DE OLIVEIRA;082.439.640-53;03/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado; -  -  / 1545 - JULIO CESAR NUNES DE OLIVEIRA - RS - Deputado Federal;
+MICHAELSEN JORNALISMO LTDA;02.481.911/0001-03;30/09/2010;       Publicidade por jornais e revistas;R$ 225,00;Cheque; -  -  / 1545 - JULIO CESAR NUNES DE OLIVEIRA - RS - Deputado Federal;
+RB GRAFICA;11.394.706/0001-00;16/07/2010;       Publicidade por materiais impressos;R$ 1.180,00;Cheque; -  -  / 1545 - JULIO CESAR NUNES DE OLIVEIRA - RS - Deputado Federal;

@@ -1,4 +1,6 @@
-Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
-Comitê Financeiro Único - PSTU;12.205.188/0001-93;13/08/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 1.000,00;Cheque;16116 - RAMON SILVA GOMES - PSTU - MA - Deputado Estadual / Comitê Financeiro Único - PSTU - MA;
-Comitê Financeiro Único - PSTU;12.205.188/0001-93;13/08/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 1.000,00;Cheque;1616 - ELOY NATAN SILVEIRA NASCIMENTO - PSTU - MA - Deputado Federal / Comitê Financeiro Único - PSTU - MA;
-Comitê Financeiro Único - PSTU;12.205.188/0001-93;11/08/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 2.000,00;Cheque;16 - MARCOS ANTONIO SILVA DO NASCIMENTO - PSTU - MA - Governador / Comitê Financeiro Único - PSTU - MA;
+Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
+CLAUDIA ALVES DURANS;351.397.063-34;11/08/2010;16000034203;R$ 1.000,00;Depósito em espécie;Comitê Financeiro Único;PSTU;MA;
+CLAUDICEA ALVES DURANS;562.501.343-87;11/08/2010;16000034205;R$ 1.000,00;Depósito em espécie;Comitê Financeiro Único;PSTU;MA;
+ELOY NATAN SILVEIRA NASCIMENTO;010.848.833-09;11/08/2010;16000034202;R$ 700,00;Depósito em espécie;Comitê Financeiro Único;PSTU;MA;
+ELOY NATAN SILVEIRA NASCIMENTO;010.848.833-09;23/07/2010;16000034201;R$ 300,00;Depósito em espécie;Comitê Financeiro Único;PSTU;MA;
+LUIZ CARLOS NOLETO CHAVES;238.436.163-53;11/08/2010;16000034204;R$ 1.000,00;Depósito em espécie;Comitê Financeiro Único;PSTU;MA;

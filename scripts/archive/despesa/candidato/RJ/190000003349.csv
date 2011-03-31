@@ -1,3 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.147.818/0001-10;24/08/2010;43001507302;R$ 863,75;Estimado;ARMANDO CONCEICAO DE MORAES;43344;Deputado Estadual;PV;RJ;
-NOEMIA MARIA DE MORAES;409.486.687-68;06/07/2010;43001507301;R$ 100,00;Depósito em espécie;ARMANDO CONCEICAO DE MORAES;43344;Deputado Estadual;PV;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO DO TRABALHO IX LTDA.;04.277.678/0001-77;14/09/2010;       Combustíveis e lubrificantes;R$ 20,00;Não informado; -  -  / 43344 - ARMANDO CONCEICAO DE MORAES - RJ - Deputado Estadual;
+AUTO POSTO DO TRABALHO IX LTDA.;04.277.678/0001-77;09/08/2010;       Combustíveis e lubrificantes;R$ 40,00;Cheque; -  -  / 43344 - ARMANDO CONCEICAO DE MORAES - RJ - Deputado Estadual;
+AUTO POSTO DO TRABALHO IX LTDA.;04.277.678/0001-77;30/09/2010;       Combustíveis e lubrificantes;R$ 6,77;Não informado; -  -  / 43344 - ARMANDO CONCEICAO DE MORAES - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.147.818/0001-10;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 863,75;Estimado;Comitê Financeiro Único - PV -  / 43344 - ARMANDO CONCEICAO DE MORAES - RJ - Deputado Estadual;
+;;10/09/2010;       Encargos financeiros e taxas bancárias;R$ 20,50;Débito em conta; -  -  / 43344 - ARMANDO CONCEICAO DE MORAES - RJ - Deputado Estadual;
+;;09/08/2010;       Encargos financeiros e taxas bancárias;R$ 1,59;Débito em conta; -  -  / 43344 - ARMANDO CONCEICAO DE MORAES - RJ - Deputado Estadual;
+;;14/09/2010;       Encargos financeiros e taxas bancárias;R$ 1,59;Débito em conta; -  -  / 43344 - ARMANDO CONCEICAO DE MORAES - RJ - Deputado Estadual;
+;;14/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,95;Débito em conta; -  -  / 43344 - ARMANDO CONCEICAO DE MORAES - RJ - Deputado Estadual;

@@ -1,7 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS ALBERTO LOPES;12.169.533/0001-80;30/09/2010;13000879107;R$ 300,00;Estimado;WELLINGTON BAESSO DE LIMA;13300;Deputado Estadual;PT;RJ;
-SÉRGIO CABRAL;12.181.923/0001-76;26/08/2010;13000879104;R$ 150,00;Estimado;WELLINGTON BAESSO DE LIMA;13300;Deputado Estadual;PT;RJ;
-SÉRGIO CABRAL;12.181.923/0001-76;09/09/2010;13000879105;R$ 300,00;Estimado;WELLINGTON BAESSO DE LIMA;13300;Deputado Estadual;PT;RJ;
-SÉRGIO CABRAL;12.181.923/0001-76;09/09/2010;13000879106;R$ 300,00;Estimado;WELLINGTON BAESSO DE LIMA;13300;Deputado Estadual;PT;RJ;
-WELLINGTON BAESSO DE LIMA;010.496.417-01;02/09/2010;13000879108;R$ 1.000,00;Depósito em espécie;WELLINGTON BAESSO DE LIMA;13300;Deputado Estadual;PT;RJ;
-WELLINGTON BAESSO DE LIMA;010.496.417-01;13/09/2010;13000879109;R$ 50,00;Depósito em espécie;WELLINGTON BAESSO DE LIMA;13300;Deputado Estadual;PT;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS ALBERTO LOPES;12.169.533/0001-80;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;3333 -  - PMN -  - Deputado Federal / 13300 - WELLINGTON BAESSO DE LIMA - RJ - Deputado Estadual;
+JOSE CARLOS;02.313.248/0001-38;29/09/2010;       Publicidade por placas, estandartes e faixas;R$ 500,00;Cheque; -  -  / 13300 - WELLINGTON BAESSO DE LIMA - RJ - Deputado Estadual;
+POSTO SANTAREM;42.257.618/0001-81;13/09/2010;       Combustíveis e lubrificantes;R$ 500,00;Cheque; -  -  / 13300 - WELLINGTON BAESSO DE LIMA - RJ - Deputado Estadual;
+POSTO SANTAREM;42.257.618/0001-81;01/10/2010;       Combustíveis e lubrificantes;R$ 50,00;Cheque; -  -  / 13300 - WELLINGTON BAESSO DE LIMA - RJ - Deputado Estadual;
+SÉRGIO CABRAL;12.181.923/0001-76;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;15 -  - PMDB -  - Governador / 13300 - WELLINGTON BAESSO DE LIMA - RJ - Deputado Estadual;
+SÉRGIO CABRAL;12.181.923/0001-76;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;15 -  - PMDB -  - Governador / 13300 - WELLINGTON BAESSO DE LIMA - RJ - Deputado Estadual;
+SÉRGIO CABRAL;12.181.923/0001-76;26/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;15 -  - PMDB -  - Governador / 13300 - WELLINGTON BAESSO DE LIMA - RJ - Deputado Estadual;

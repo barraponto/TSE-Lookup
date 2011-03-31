@@ -1,7 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALONSO DE MELO FEITOSA;189.151.913-15;17/09/2010;28000492421;R$ 1.000,00;Depósito em espécie;JUCELINE MARIA GOMES DE CASTRO;28288;Deputado Estadual;PRTB;CE;
-Comitê Financeiro Único;12.217.614/0001-09;06/09/2010;28000492424;R$ 292,96;Estimado;JUCELINE MARIA GOMES DE CASTRO;28288;Deputado Estadual;PRTB;CE;
-DOMENICO SASSONE;616.870.573-20;02/09/2010;28000492420;R$ 2.000,00;Depósito em espécie;JUCELINE MARIA GOMES DE CASTRO;28288;Deputado Estadual;PRTB;CE;
-DOMENICO SASSONE;616.870.573-20;26/10/2010;28000492422;R$ 605,00;Depósito em espécie;JUCELINE MARIA GOMES DE CASTRO;28288;Deputado Estadual;PRTB;CE;
-EDITORA CELIGRAFICA FOTOLITO LTDA;07.646.938/0001-22;06/09/2010;28000492423;R$ 4.535,00;Estimado;JUCELINE MARIA GOMES DE CASTRO;28288;Deputado Estadual;PRTB;CE;
-JUCELINE MARIA GOMES DE CASTRO;815.301.023-91;18/08/2010;28000492419;R$ 1.000,00;Depósito em espécie;JUCELINE MARIA GOMES DE CASTRO;28288;Deputado Estadual;PRTB;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.217.614/0001-09;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 292,96;Estimado;Comitê Financeiro Único - PTN -  / 28288 - JUCELINE MARIA GOMES DE CASTRO - CE - Deputado Estadual;
+EDITORA CELIGRAFICA FOTOLITO LTDA;07.646.938/0001-22;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.535,00;Estimado; -  -  / 28288 - JUCELINE MARIA GOMES DE CASTRO - CE - Deputado Estadual;
+MARIA LUCIA BARROS LUZ ME;11.056.892/0001-69;13/09/2010;       Publicidade por jornais e revistas;R$ 200,00;Cheque; -  -  / 28288 - JUCELINE MARIA GOMES DE CASTRO - CE - Deputado Estadual;
+MARIA LUCIA BARROS LUZ ME;11.056.892/0001-69;18/08/2010;       Publicidade por jornais e revistas;R$ 200,00;Cheque; -  -  / 28288 - JUCELINE MARIA GOMES DE CASTRO - CE - Deputado Estadual;
+PETROLEO NOSSO LTDA;07.291.370/0001-74;31/08/2010;       Combustíveis e lubrificantes;R$ 2.000,00;Cheque; -  -  / 28288 - JUCELINE MARIA GOMES DE CASTRO - CE - Deputado Estadual;
+PETROLEO NOSSO LTDA;07.291.370/0001-74;01/10/2010;       Combustíveis e lubrificantes;R$ 1.500,24;Cheque; -  -  / 28288 - JUCELINE MARIA GOMES DE CASTRO - CE - Deputado Estadual;
+RUTH VALERIA DE OLIVEIRA;05.492.196/0001-00;25/08/2010;       Publicidade por materiais impressos;R$ 700,00;Cheque; -  -  / 28288 - JUCELINE MARIA GOMES DE CASTRO - CE - Deputado Estadual;
+28288 - JUCELINE MARIA GOMES DE CASTRO - DEPUTADO ESTADUAL;12.191.287/0001-63;27/10/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 4,76;Depósito em espécie;Direção Nacional - PRTB - BR / 28288 - JUCELINE MARIA GOMES DE CASTRO - CE - Deputado Estadual;

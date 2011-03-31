@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANA LUCIA ARAES DE ALENCAR;12.179.741/0001-60;28/09/2010;17000030518;R$ 945,00;Estimado;RONALDO LUIZ GOMES RIBEIRO;17123;Deputado Estadual;PSL;PE;
-ANA LUCIA ARRAES DE ALENCAR;12.179.741/0001-60;28/09/2010;17000030517;R$ 285,00;Estimado;RONALDO LUIZ GOMES RIBEIRO;17123;Deputado Estadual;PSL;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANA LUCIA ARAES DE ALENCAR;12.179.741/0001-60;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 945,00;Estimado;4040 -  - PSB -  - Deputado Federal / 17123 - RONALDO LUIZ GOMES RIBEIRO - PE - Deputado Estadual;
+ANA LUCIA ARRAES DE ALENCAR;12.179.741/0001-60;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 285,00;Estimado;4040 -  - PSB -  - Deputado Federal / 17123 - RONALDO LUIZ GOMES RIBEIRO - PE - Deputado Estadual;

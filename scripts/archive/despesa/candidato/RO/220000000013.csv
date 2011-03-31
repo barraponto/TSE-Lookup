@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;84.638.196/0001-34;20/09/2010;12001824852;R$ 247,50;Estimado;HIRAN PINTO CASTIEL;1211;Deputado Federal;PDT;RO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;84.638.196/0001-34;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 247,50;Estimado;Direção Estadual/Distrital - PMDB -  / 1211 - HIRAN PINTO CASTIEL - RO - Deputado Federal;

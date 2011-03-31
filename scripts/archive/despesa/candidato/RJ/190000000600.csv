@@ -1,6 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.200.171/0001-43;30/09/2010;13000873802;R$ 750,00;Estimado;PAULO AFONSO DOS SANTOS NASCIMENTO;13200;Deputado Estadual;PT;RJ;
-HELIO DA SILVA AUTHERO;754.971.237-91;11/08/2010;13000873801;R$ 90,00;Depósito em espécie;PAULO AFONSO DOS SANTOS NASCIMENTO;13200;Deputado Estadual;PT;RJ;
-PAULO AFONSO DOS SANTOS NASCIMENTO;262.041.267-68;14/09/2010;13000873806;R$ 50,00;Depósito em espécie;PAULO AFONSO DOS SANTOS NASCIMENTO;13200;Deputado Estadual;PT;RJ;
-PAULO AFONSO DOS SANTOS NASCIMENTO;262.041.267-68;15/09/2010;13000873808;R$ 50,00;Depósito em espécie;PAULO AFONSO DOS SANTOS NASCIMENTO;13200;Deputado Estadual;PT;RJ;
-VALERIA PEREIRA LPES;822.847.927-15;30/09/2010;13000873807;R$ 50,00;Depósito em espécie;PAULO AFONSO DOS SANTOS NASCIMENTO;13200;Deputado Estadual;PT;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.200.171/0001-43;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 750,00;Estimado;Direção Estadual/Distrital - PT -  / 13200 - PAULO AFONSO DOS SANTOS NASCIMENTO - RJ - Deputado Estadual;
+ECILDO SIMOES DIAS;023.266.157-00;01/10/2010;       Serviços prestados por terceiros;R$ 80,00;Cheque; -  -  / 13200 - PAULO AFONSO DOS SANTOS NASCIMENTO - RJ - Deputado Estadual;
+SOLANGE DE MAGALHES MENDONCA;738.854.287-68;15/09/2010;       Publicidade por jornais e revistas;R$ 150,00;Cheque; -  -  / 13200 - PAULO AFONSO DOS SANTOS NASCIMENTO - RJ - Deputado Estadual;
+;;20/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,50;Débito em conta; -  -  / 13200 - PAULO AFONSO DOS SANTOS NASCIMENTO - RJ - Deputado Estadual;

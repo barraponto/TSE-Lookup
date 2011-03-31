@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.578/0001-51;19/08/2010;43001890503;R$ 627,00;Estimado;PAULO ROBERTO PEROZI;43211;Deputado Estadual;PV;MS;
-Comitê Financeiro Único;12.191.578/0001-51;01/10/2010;43001890504;R$ 2.000,00;Cheque;PAULO ROBERTO PEROZI;43211;Deputado Estadual;PV;MS;
-DELCIDIO DO AMARAL GOMES;12.167.861/0001-48;31/08/2010;43001890501;R$ 160,00;Estimado;PAULO ROBERTO PEROZI;43211;Deputado Estadual;PV;MS;
-JOSE ORCIRIO MIRANDA DOS SANTOS;12.189.573/0001-94;20/09/2010;43001890502;R$ 4.000,00;Cheque;PAULO ROBERTO PEROZI;43211;Deputado Estadual;PV;MS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.578/0001-51;19/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 627,00;Estimado;Comitê Financeiro Único - PT -  / 43211 - PAULO ROBERTO PEROZI - MS - Deputado Estadual;
+DELCIDIO DO AMARAL GOMES;12.167.861/0001-48;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 160,00;Estimado;138 -  - PT -  - Senador / 43211 - PAULO ROBERTO PEROZI - MS - Deputado Estadual;
+FUJI CAR;05.067.609/0001-00;24/08/2010;       Cessão ou Locação de Veículos;R$ 2.100,00;Transferência eletrônica; -  -  / 43211 - PAULO ROBERTO PEROZI - MS - Deputado Estadual;
+FUJI CAR;05.067.609/0001-00;10/08/2010;       Diversas a especificar;R$ 2.700,00;Transferência eletrônica; -  -  / 43211 - PAULO ROBERTO PEROZI - MS - Deputado Estadual;
+MARIA APARECIDA BERNARDES;661.820.349-04;28/09/2010;       Despesas com pessoal;R$ 1.200,00;Transferência eletrônica; -  -  / 43211 - PAULO ROBERTO PEROZI - MS - Deputado Estadual;

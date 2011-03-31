@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;05.055.973/0001-41;24/09/2010;36000064463;R$ 200,00;Estimado;NORMANDO PEREIRA DA PAIXÃO;36126;Deputado Estadual;PTC;PE;
-Diretório Estadual/Distrital;05.055.973/0001-41;28/09/2010;36000064462;R$ 574,00;Estimado;NORMANDO PEREIRA DA PAIXÃO;36126;Deputado Estadual;PTC;PE;
-PERNAMBUCO ART;10.632.804/0001-67;28/08/2010;36000064461;R$ 940,00;Estimado;NORMANDO PEREIRA DA PAIXÃO;36126;Deputado Estadual;PTC;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;05.055.973/0001-41;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;Direção Estadual/Distrital - PTC -  / 36126 - NORMANDO PEREIRA DA PAIXÃO - PE - Deputado Estadual;
+Diretório Estadual/Distrital;05.055.973/0001-41;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 574,00;Estimado;Direção Estadual/Distrital - PTC -  / 36126 - NORMANDO PEREIRA DA PAIXÃO - PE - Deputado Estadual;
+PERNAMBUCO ART;10.632.804/0001-67;28/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 940,00;Estimado; -  -  / 36126 - NORMANDO PEREIRA DA PAIXÃO - PE - Deputado Estadual;

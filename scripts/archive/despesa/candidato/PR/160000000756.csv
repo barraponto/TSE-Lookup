@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Governador;12.190.887/0001-07;10/08/2010;33000000910;R$ 630,00;Estimado;MARGARIDA ROSA DOS SANTOS MARSSAL;33912;Deputado Estadual;PMN;PR;
-Comitê Financeiro Único;12.191.496/0001-07;20/09/2010;33000000908;R$ 339,00;Estimado;MARGARIDA ROSA DOS SANTOS MARSSAL;33912;Deputado Estadual;PMN;PR;
-ELEIÇAO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;27/09/2010;33000000909;R$ 1.680,00;Transferência eletrônica;MARGARIDA ROSA DOS SANTOS MARSSAL;33912;Deputado Estadual;PMN;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Governador;12.190.887/0001-07;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 630,00;Estimado;Comitê Financeiro Distrital/Estadual para Governador - PSDC -  / 33912 - MARGARIDA ROSA DOS SANTOS MARSSAL - PR - Deputado Estadual;
+Comitê Financeiro Único;12.191.496/0001-07;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 339,00;Estimado;Comitê Financeiro Único - PMN -  / 33912 - MARGARIDA ROSA DOS SANTOS MARSSAL - PR - Deputado Estadual;
+GREYCE KELLY MARSSAL;089.306.259-67;27/09/2010;       Despesas com pessoal;R$ 1.680,00;Transferência eletrônica; -  -  / 33912 - MARGARIDA ROSA DOS SANTOS MARSSAL - PR - Deputado Estadual;

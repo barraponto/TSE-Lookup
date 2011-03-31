@@ -1,7 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.221.879/0001-80;17/08/2010;50000210674;R$ 500,00;Estimado;MARCIO MOSIEL DOS NASCIMENTO OLIVEIRA;50050;Deputado Estadual;PSOL;MA;
-JOÃO PAULO S. MACIEL;343.872.693-91;30/08/2010;50000210675;R$ 500,00;Depósito em espécie;MARCIO MOSIEL DOS NASCIMENTO OLIVEIRA;50050;Deputado Estadual;PSOL;MA;
-LUIS MAIA DA SILVA;155.503.893-04;15/09/2010;50000210676;R$ 300,00;Depósito em espécie;MARCIO MOSIEL DOS NASCIMENTO OLIVEIRA;50050;Deputado Estadual;PSOL;MA;
-MARCIO MOSIEL NASCIMENTO OLIVEIRA;834.902.993-53;07/07/2010;50000210671;R$ 3.000,00;Estimado;MARCIO MOSIEL DOS NASCIMENTO OLIVEIRA;50050;Deputado Estadual;PSOL;MA;
-MARCIO MOSIEL NASCIMENTO OLIVEIRA;834.902.993-53;28/07/2010;50000210672;R$ 920,00;Depósito em espécie;MARCIO MOSIEL DOS NASCIMENTO OLIVEIRA;50050;Deputado Estadual;PSOL;MA;
-MARCIO MOSIEL NASCIMENTO OLIVEIRA;834.902.993-53;11/08/2010;50000210673;R$ 370,00;Depósito em espécie;MARCIO MOSIEL DOS NASCIMENTO OLIVEIRA;50050;Deputado Estadual;PSOL;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO COIMBRA LTDA;01.265.747/0001-34;01/09/2010;       Combustíveis e lubrificantes;R$ 500,00;Cheque; -  -  / 50050 - MARCIO MOSIEL DOS NASCIMENTO OLIVEIRA - MA - Deputado Estadual;
+BRASIL EDITORA E COMUNICAÇÃO VISUAL;11.008.407/0001-81;05/08/2010;       Publicidade por materiais impressos;R$ 900,00;Cheque; -  -  / 50050 - MARCIO MOSIEL DOS NASCIMENTO OLIVEIRA - MA - Deputado Estadual;
+BRASIL EDITORA E COMUNICAÇÃO VISUAL;11.008.407/0001-81;21/09/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 50050 - MARCIO MOSIEL DOS NASCIMENTO OLIVEIRA - MA - Deputado Estadual;
+Comitê Financeiro Único;12.221.879/0001-80;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;Comitê Financeiro Único - PSOL -  / 50050 - MARCIO MOSIEL DOS NASCIMENTO OLIVEIRA - MA - Deputado Estadual;
+MARCIO MOSIEL NASCIMENTO OLIVEIRA;834.902.993-53;07/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.000,00;Estimado; -  -  / 50050 - MARCIO MOSIEL DOS NASCIMENTO OLIVEIRA - MA - Deputado Estadual;
+R A MATOS IND. E COMERCIO;06.637.111/0001-90;13/08/2010;       Publicidade por placas, estandartes e faixas;R$ 130,00;Cheque; -  -  / 50050 - MARCIO MOSIEL DOS NASCIMENTO OLIVEIRA - MA - Deputado Estadual;
+50050 - MARCIO MOSIEL NASCIMENTO OLIVEIRA - DEPUTADO ESTADUAL;12.180.919/0001-93;11/08/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 250,00;Cheque;Comitê Financeiro Único - PSOL - MA / 50050 - MARCIO MOSIEL DOS NASCIMENTO OLIVEIRA - MA - Deputado Estadual;

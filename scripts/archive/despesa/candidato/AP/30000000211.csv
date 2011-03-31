@@ -1,2 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-TEREZINHA LUCIA BARROS FERNANDES;016.489.692-91;24/08/2010;25000573501;R$ 1.500,00;Depósito em espécie;TEREZINHA LUCIA BARROS FERNANDES;25999;Deputado Estadual;DEM;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+A PORTELA SAMPAIO ME;84.409.689/0001-00;11/09/2010;       Diversas a especificar;R$ 175,00;Cheque; -  -  / 25999 - TEREZINHA LUCIA BARROS FERNANDES - AP - Deputado Estadual;
+GRÁFICA VIRGEM DE NAZARÉ;04.320.201/0001-27;27/08/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 25999 - TEREZINHA LUCIA BARROS FERNANDES - AP - Deputado Estadual;
+RAIMUNDO CHERMONT JUNIOR;166.685.102-29;28/08/2010;       Produção de jingles, vinhetas e slogans;R$ 100,00;Cheque; -  -  / 25999 - TEREZINHA LUCIA BARROS FERNANDES - AP - Deputado Estadual;
+RONALDO DA CONCEIÇÃO DA SILVA;575.655.622-20;23/09/2010;       Diversas a especificar;R$ 191,80;Cheque; -  -  / 25999 - TEREZINHA LUCIA BARROS FERNANDES - AP - Deputado Estadual;
+STAMP ART INDUSTRIA, COMERCIO E SERVIÇOS LTDA EPP;02.154.768/0001-45;26/08/2010;       Publicidade por materiais impressos;R$ 433,20;Cheque; -  -  / 25999 - TEREZINHA LUCIA BARROS FERNANDES - AP - Deputado Estadual;

@@ -1,5 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-HELIO ALVES BENICIO;631.514.487-04;27/08/2010;70000153741;R$ 510,00;Depósito em espécie;HELIO ALVES BENICIO;70713;Deputado Estadual;PT do B;RJ;
-HELIO ALVES BENICIO;631.514.487-04;08/09/2010;70000153742;R$ 320,00;Depósito em espécie;HELIO ALVES BENICIO;70713;Deputado Estadual;PT do B;RJ;
-LEONARDO DE MELO LINS;112.204.407-01;30/09/2010;70000153744;R$ 300,00;Estimado;HELIO ALVES BENICIO;70713;Deputado Estadual;PT do B;RJ;
-SANDRA DA SILVA CAMPELLO;608.800.907-15;30/09/2010;70000153743;R$ 300,00;Estimado;HELIO ALVES BENICIO;70713;Deputado Estadual;PT do B;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+LEONARDO DE MELO LINS;112.204.407-01;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 70713 - HELIO ALVES BENICIO - RJ - Deputado Estadual;
+LINK DESIGN SERVIÇOS GRAFICOS LTDA;07.393.180/0001-68;01/09/2010;       Publicidade por materiais impressos;R$ 270,00;Cheque; -  -  / 70713 - HELIO ALVES BENICIO - RJ - Deputado Estadual;
+LINK DESIGN SERVIÇOS GRAFICOS LTDA;07.393.180/0001-68;08/09/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 70713 - HELIO ALVES BENICIO - RJ - Deputado Estadual;
+LINK DESIGN SERVIÇOS GRAFICOS LTDA;07.393.180/0001-68;01/09/2010;       Publicidade por materiais impressos;R$ 230,00;Cheque; -  -  / 70713 - HELIO ALVES BENICIO - RJ - Deputado Estadual;
+SANDRA DA SILVA CAMPELLO;608.800.907-15;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 70713 - HELIO ALVES BENICIO - RJ - Deputado Estadual;
+;;27/09/2010;       Encargos financeiros e taxas bancárias;R$ 1,45;Débito em conta; -  -  / 70713 - HELIO ALVES BENICIO - RJ - Deputado Estadual;
+;;10/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 70713 - HELIO ALVES BENICIO - RJ - Deputado Estadual;
+;;31/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 70713 - HELIO ALVES BENICIO - RJ - Deputado Estadual;
+;;30/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 70713 - HELIO ALVES BENICIO - RJ - Deputado Estadual;

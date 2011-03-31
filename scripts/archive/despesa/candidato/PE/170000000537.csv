@@ -1,2 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LUIZ GONZAGA PATRIOTA;12.168.227/0001-20;25/08/2010;36000064752;R$ 2.000,00;Cheque;CICERO FREIRE CAVALCANTE;36789;Deputado Estadual;PTC;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JANICLEIDE HENRIQUE COSTA ME;07.869.371/0001-53;25/08/2010;       Publicidade por materiais impressos;R$ 1.500,00;Cheque; -  -  / 36789 - CICERO FREIRE CAVALCANTE - PE - Deputado Estadual;
+JANICLEIDE HENRIQUE COSTA ME;07.869.371/0001-53;27/09/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 36789 - CICERO FREIRE CAVALCANTE - PE - Deputado Estadual;

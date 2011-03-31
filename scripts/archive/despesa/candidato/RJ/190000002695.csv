@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JORGE PICCIANI;12.176.626/0001-32;27/09/2010;15000028701;R$ 17,00;Estimado;DAVID CALDAS DOS SANTOS;15777;Deputado Estadual;PMDB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JORGE PICCIANI;12.176.626/0001-32;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;151 -  - PMDB -  - Senador / 15777 - DAVID CALDAS DOS SANTOS - RJ - Deputado Estadual;

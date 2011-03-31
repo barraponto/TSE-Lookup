@@ -1,3 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Nacional;01.770.770/0001-86;04/10/2010;31000006153;R$ 3.000,00;Cheque;CARLOS ABREU DA SILVA;3110;Deputado Federal;PHS;DF;
-Diretório Nacional;01.770.770/0001-86;22/09/2010;31000006151;R$ 3.200,00;Cheque;CARLOS ABREU DA SILVA;3110;Deputado Federal;PHS;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AMORIM COMERCIO DE DRIVADOS DE PETROLEO LTDA;38.043.832/0001-68;15/09/2010;       Combustíveis e lubrificantes;R$ 20,00;Cheque; -  -  / 3110 - CARLOS ABREU DA SILVA - DF - Deputado Federal;
+ANDRE FERNANDES GODOI;08.314.165/0001-40;24/09/2010;       Alimentação;R$ 5.566,00;Cheque; -  -  / 3110 - CARLOS ABREU DA SILVA - DF - Deputado Federal;
+ARCO IRIS PETROLEO COMERCIO E SERVICOS LTDA;00.480.025/0001-30;24/09/2010;       Combustíveis e lubrificantes;R$ 50,00;Cheque; -  -  / 3110 - CARLOS ABREU DA SILVA - DF - Deputado Federal;
+AUTO POSTO MILLENNIUM 2000 LTDA;03.261.491/0006-27;29/09/2010;       Combustíveis e lubrificantes;R$ 30,00;Cheque; -  -  / 3110 - CARLOS ABREU DA SILVA - DF - Deputado Federal;
+AUTO POSTO MILLENNIUM 2000 LTDA;03.261.491/0008-99;06/10/2010;       Combustíveis e lubrificantes;R$ 140,68;Cheque; -  -  / 3110 - CARLOS ABREU DA SILVA - DF - Deputado Federal;
+BR 070 COM DE DERIVADOS DE PETROLEO LTDA;38.053.450/0001-15;06/10/2010;       Combustíveis e lubrificantes;R$ 138,00;Cheque; -  -  / 3110 - CARLOS ABREU DA SILVA - DF - Deputado Federal;
+HOSPITAL DAS PANELAS;24.886.582/0001-13;10/09/2010;       Diversas a especificar;R$ 75,00;Cheque; -  -  / 3110 - CARLOS ABREU DA SILVA - DF - Deputado Federal;
+POSTO ESTRADA PARK LTDA;38.057.394/0001-97;18/09/2010;       Combustíveis e lubrificantes;R$ 180,00;Cheque; -  -  / 3110 - CARLOS ABREU DA SILVA - DF - Deputado Federal;
+;;30/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,05;Débito em conta; -  -  / 3110 - CARLOS ABREU DA SILVA - DF - Deputado Federal;
+;;06/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,27;Débito em conta; -  -  / 3110 - CARLOS ABREU DA SILVA - DF - Deputado Federal;

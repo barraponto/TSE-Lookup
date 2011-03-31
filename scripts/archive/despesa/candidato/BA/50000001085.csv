@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEICAO 2010 JAQUES WAGNER GOVERNADOR;12.174.245/0001-14;02/10/2010;40002406144;R$ 1.200,00;Estimado;JULIO CEZAR PINHO PONTES;40400;Deputado Estadual;PSB;BA;
-ELEICAO 2010 JAQUES WAGNER GOVERNADOR;12.174.245/0001-14;02/10/2010;40002406145;R$ 875,00;Estimado;JULIO CEZAR PINHO PONTES;40400;Deputado Estadual;PSB;BA;
-JULIO CEZAR PINHO PONTES;445.323.267-53;09/08/2010;40002406142;R$ 308,00;Depósito em espécie;JULIO CEZAR PINHO PONTES;40400;Deputado Estadual;PSB;BA;
-JULIO CEZAR PINHO PONTES;445.323.267-53;02/08/2010;40002406141;R$ 100,00;Depósito em espécie;JULIO CEZAR PINHO PONTES;40400;Deputado Estadual;PSB;BA;
-JULIO CEZAR PINHO PONTES;445.323.267-53;03/09/2010;40002406143;R$ 350,00;Depósito em espécie;JULIO CEZAR PINHO PONTES;40400;Deputado Estadual;PSB;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEICAO 2010 JAQUES WAGNER GOVERNADOR;12.174.245/0001-14;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.200,00;Estimado;13 -  - PT -  - Governador / 40400 - JULIO CEZAR PINHO PONTES - BA - Deputado Estadual;
+ELEICAO 2010 JAQUES WAGNER GOVERNADOR;12.174.245/0001-14;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 875,00;Estimado;13 -  - PT -  - Governador / 40400 - JULIO CEZAR PINHO PONTES - BA - Deputado Estadual;
+JULIANO ARAN 02501445570;12.374.084/0001-02;03/09/2010;       Criação e inclusão de páginas na internet;R$ 350,00;Cheque; -  -  / 40400 - JULIO CEZAR PINHO PONTES - BA - Deputado Estadual;
+SAUTI GERENCIAMENTO DE TECNOLOGIAS LTDA;11.108.663/0001-40;09/08/2010;       Criação e inclusão de páginas na internet;R$ 350,00;Cheque; -  -  / 40400 - JULIO CEZAR PINHO PONTES - BA - Deputado Estadual;
+UOL UNIVERSO ON LINE;01.109.184/0004-38;02/08/2010;       Criação e inclusão de páginas na internet;R$ 58,00;Cheque; -  -  / 40400 - JULIO CEZAR PINHO PONTES - BA - Deputado Estadual;

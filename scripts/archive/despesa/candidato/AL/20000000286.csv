@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-RONALDO AUGUSTO LESSA SANTOS;12.168.518/0001-18;01/10/2010;22000030072;R$ 1.972,03;Estimado;ELIAS BARROS DIAS;2222;Deputado Federal;PR;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+RONALDO AUGUSTO LESSA SANTOS;12.168.518/0001-18;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.972,03;Estimado;12 -  - PDT -  - Governador / 2222 - ELIAS BARROS DIAS - AL - Deputado Federal;

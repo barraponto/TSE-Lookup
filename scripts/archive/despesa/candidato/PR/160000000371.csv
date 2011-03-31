@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;20/09/2010;23000183903;R$ 3.360,00;Transferência eletrônica;OSCALINO DE MELO;23555;Deputado Estadual;PPS;PR;
-ELEIÇÃO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;28/09/2010;23000183904;R$ 1.250,00;Estimado;OSCALINO DE MELO;23555;Deputado Estadual;PPS;PR;
-ELEIÇÃO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;14/08/2010;23000183901;R$ 1.575,00;Estimado;OSCALINO DE MELO;23555;Deputado Estadual;PPS;PR;
-ELEIÇÃO 2010 RUBEN BUENO DEP FEDERAL;12.172.903/0001-39;15/09/2010;23000183902;R$ 42,50;Estimado;OSCALINO DE MELO;23555;Deputado Estadual;PPS;PR;
-ELEIÇÃO 2010 RUBENS BUENO DEP FEDERAL;12.172.903/0001-39;15/09/2010;23000183906;R$ 114,40;Estimado;OSCALINO DE MELO;23555;Deputado Estadual;PPS;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.250,00;Estimado;45 -  - PSDB -  - Governador / 23555 - OSCALINO DE MELO - PR - Deputado Estadual;
+ELEIÇÃO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;14/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.575,00;Estimado;45 -  - PSDB -  - Governador / 23555 - OSCALINO DE MELO - PR - Deputado Estadual;
+ELEIÇÃO 2010 RUBEN BUENO DEP FEDERAL;12.172.903/0001-39;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 42,50;Estimado;2300 -  - PPS -  - Deputado Federal / 23555 - OSCALINO DE MELO - PR - Deputado Estadual;
+ELEIÇÃO 2010 RUBENS BUENO DEP FEDERAL;12.172.903/0001-39;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 114,40;Estimado;2300 -  - PPS -  - Deputado Federal / 23555 - OSCALINO DE MELO - PR - Deputado Estadual;
+ELENIR FERRI DOS SANTOS;713.498.719-15;28/09/2010;       Despesas com pessoal;R$ 3.360,00;Cheque; -  -  / 23555 - OSCALINO DE MELO - PR - Deputado Estadual;

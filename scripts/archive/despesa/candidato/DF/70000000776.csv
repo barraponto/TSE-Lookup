@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.229.922/0001-54;30/08/2010;20000141012;R$ 360,00;Estimado;JULIO CÉSAR DA SILVA;20111;Deputado Distrital;PSC;DF;
-Comitê Financeiro Único;12.229.922/0001-54;11/08/2010;20000141011;R$ 360,00;Estimado;JULIO CÉSAR DA SILVA;20111;Deputado Distrital;PSC;DF;
-Comitê Financeiro Único;12.229.922/0001-54;30/08/2010;20000141013;R$ 360,00;Estimado;JULIO CÉSAR DA SILVA;20111;Deputado Distrital;PSC;DF;
-JULIO CESAR DA SILVA;458.288.657-49;01/10/2010;20000141014;R$ 18.470,00;Depósito em espécie;JULIO CÉSAR DA SILVA;20111;Deputado Distrital;PSC;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.229.922/0001-54;11/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Único - PSC -  / 20111 - JULIO CÉSAR DA SILVA - DF - Deputado Distrital;
+Comitê Financeiro Único;12.229.922/0001-54;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Único - PSC -  / 20111 - JULIO CÉSAR DA SILVA - DF - Deputado Distrital;
+Comitê Financeiro Único;12.229.922/0001-54;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Único - PSC -  / 20111 - JULIO CÉSAR DA SILVA - DF - Deputado Distrital;
+MAIS QIDEIA;12.110.958/0001-14;03/09/2010;       Publicidade por materiais impressos;R$ 18.170,00;Transferência eletrônica; -  -  / 20111 - JULIO CÉSAR DA SILVA - DF - Deputado Distrital;
+MARITANA MOREIRA BORGES;329.738.371-20;01/10/2010;       Despesas com pessoal;R$ 300,00;Transferência eletrônica; -  -  / 20111 - JULIO CÉSAR DA SILVA - DF - Deputado Distrital;

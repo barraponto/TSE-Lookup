@@ -1,2 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LUIZ CORREA DA SILVA;046.771.701-00;03/08/2010;21000014211;R$ 10,00;Depósito em espécie;LUIZ CORREA DA SILVA;2121;Deputado Federal;PCB;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+2121 - LUIZ CORREA DA SILVA - DEPUTADO FEDERAL;12.235.187/0001-91;21/10/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 6,00;Depósito em espécie;Direção Estadual/Distrital - PCB - DF / 2121 - LUIZ CORREA DA SILVA - DF - Deputado Federal;
+;;03/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,00;Débito em conta; -  -  / 2121 - LUIZ CORREA DA SILVA - DF - Deputado Federal;
+;;31/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,00;Débito em conta; -  -  / 2121 - LUIZ CORREA DA SILVA - DF - Deputado Federal;

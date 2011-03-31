@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CLAUDIA BARTOLOMEU COPQUE COUTINHO DE JESUS;363.366.375-49;01/10/2010;31000057402;R$ 670,00;Estimado;JIBSON COUTINHO DE JESUS;31555;Deputado Estadual;PHS;BA;
-LELIVALDO COUTINHO DE JESUS;384.584.625-91;30/09/2010;31000057401;R$ 5.020,00;Estimado;JIBSON COUTINHO DE JESUS;31555;Deputado Estadual;PHS;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CLAUDIA BARTOLOMEU COPQUE COUTINHO DE JESUS;363.366.375-49;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 670,00;Estimado; -  -  / 31555 - JIBSON COUTINHO DE JESUS - BA - Deputado Estadual;
+LELIVALDO COUTINHO DE JESUS;384.584.625-91;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 5.020,00;Estimado; -  -  / 31555 - JIBSON COUTINHO DE JESUS - BA - Deputado Estadual;

@@ -1,6 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOHN DE OLIVEIRA RIBEIRO;026.237.133-24;31/08/2010;28000472363;R$ 172,00;Depósito em espécie;JOHN DE OLIVEIRA RIBEIRO;2888;Deputado Federal;PRTB;MA;
-JOHN DE OLIVEIRA RIBEIRO;026.237.133-24;16/09/2010;28000472364;R$ 122,00;Depósito em espécie;JOHN DE OLIVEIRA RIBEIRO;2888;Deputado Federal;PRTB;MA;
-JOHN DE OLIVEIRA RIBEIRO;026.237.133-24;23/09/2010;28000472365;R$ 250,00;Depósito em espécie;JOHN DE OLIVEIRA RIBEIRO;2888;Deputado Federal;PRTB;MA;
-RAIMUNDO JOSE LOPES RIBEIRO;137.366.473-87;20/08/2010;28000472362;R$ 700,00;Depósito em espécie;JOHN DE OLIVEIRA RIBEIRO;2888;Deputado Federal;PRTB;MA;
-RAIMUNDO JOSE LOPES RIBEIRO;137.366.473-87;18/08/2010;28000472361;R$ 1.100,00;Depósito em espécie;JOHN DE OLIVEIRA RIBEIRO;2888;Deputado Federal;PRTB;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ENGRACIO DO CARMO COSTA;055.594.723-87;23/08/2010;       Publicidade por carros de som;R$ 1.100,00;Cheque; -  -  / 2888 - JOHN DE OLIVEIRA RIBEIRO - MA - Deputado Federal;
+JOHNNY FRANCK DE OLIVEIRA RIBEIRO;003.426.623-25;20/08/2010;       Serviços prestados por terceiros;R$ 700,00;Cheque; -  -  / 2888 - JOHN DE OLIVEIRA RIBEIRO - MA - Deputado Federal;
+MARAZUL COMERCIAL GASOLEOS E PEÇAS LTDA;07.007.362/0001-53;02/09/2010;       Combustíveis e lubrificantes;R$ 122,00;Cheque; -  -  / 2888 - JOHN DE OLIVEIRA RIBEIRO - MA - Deputado Federal;
+;;20/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 2888 - JOHN DE OLIVEIRA RIBEIRO - MA - Deputado Federal;

@@ -1,6 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSE RODRIGUES FILHO;040.200.734-49;23/07/2010;50000310011;R$ 1.000,00;Transferência eletrônica;JOSÉ RODRIGUES FILHO;5020;Deputado Federal;PSOL;PB;
-JOSE RODRIGUES FILHO;040.200.734-49;04/08/2010;50000310012;R$ 1.500,00;Transferência eletrônica;JOSÉ RODRIGUES FILHO;5020;Deputado Federal;PSOL;PB;
-JOSE RODRIGUES FILHO;040.200.734-49;30/09/2010;50000310015;R$ 400,00;Estimado;JOSÉ RODRIGUES FILHO;5020;Deputado Federal;PSOL;PB;
-JOSE RODRIGUES FILHO;040.200.734-49;22/09/2010;50000310014;R$ 350,00;Transferência eletrônica;JOSÉ RODRIGUES FILHO;5020;Deputado Federal;PSOL;PB;
-JOSE RODRIGUES FILHO;040.200.734-49;26/08/2010;50000310013;R$ 1.500,00;Transferência eletrônica;JOSÉ RODRIGUES FILHO;5020;Deputado Federal;PSOL;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA JB LTDA;08.540.403/0001-35;26/07/2010;       Publicidade por materiais impressos;R$ 1.860,00;Cheque; -  -  / 5020 - JOSÉ RODRIGUES FILHO - PB - Deputado Federal;
+INFORMATICA E SERVIÇOS GRAFICOS;06.217.437/0001-68;20/09/2010;       Publicidade por materiais impressos;R$ 390,00;Cheque; -  -  / 5020 - JOSÉ RODRIGUES FILHO - PB - Deputado Federal;
+JOSE RODRIGUES FILHO;040.200.734-49;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado; -  -  / 5020 - JOSÉ RODRIGUES FILHO - PB - Deputado Federal;
+MARILEIDE MOREIRA;10.688.850/0001-88;22/09/2010;       Diversas a especificar;R$ 500,00;Cheque; -  -  / 5020 - JOSÉ RODRIGUES FILHO - PB - Deputado Federal;
+MUNDO DA IMAGEM;10.332.959/0001-88;05/08/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 5020 - JOSÉ RODRIGUES FILHO - PB - Deputado Federal;
+ROBERTO GERMANO BEZERRA CAVALCANTI JUNIOR;04.690.510/0001-99;31/08/2010;       Combustíveis e lubrificantes;R$ 600,00;Cheque; -  -  / 5020 - JOSÉ RODRIGUES FILHO - PB - Deputado Federal;
+5020 - JOSE RODRIGUES FILHO - DEPUTADO FEDERAL;12.169.120/0001-04;20/08/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 500,00;Cheque;Comitê Financeiro Único - PSOL - PB / 5020 - JOSÉ RODRIGUES FILHO - PB - Deputado Federal;

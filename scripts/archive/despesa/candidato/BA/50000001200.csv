@@ -1,5 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-EDNELSON BORGES DOS SANTOS;432.209.245-49;05/10/2010;;R$ 43,32;Depósito em espécie;EDUARDO SANTOS FRANÇA JUNIOR;13147;Deputado Estadual;PT;BA;
-EDUARDO SANTOS FRANÇA JUNIOR;333.563.605-82;23/08/2010;;R$ 100,00;Transferência eletrônica;EDUARDO SANTOS FRANÇA JUNIOR;13147;Deputado Estadual;PT;BA;
-ELEIÇÕES 2010 LUIZ ALBERTO SILVA DOS SANTOS;12.204.011/0001-72;28/09/2010;13000610403;R$ 800,00;Transferência eletrônica;EDUARDO SANTOS FRANÇA JUNIOR;13147;Deputado Estadual;PT;BA;
-ELEIÇÕES 2010 LUIZ ALBERTO SILVA DOS SANTOS;12.204.011/0001-72;25/08/2010;;R$ 1.000,00;Cheque;EDUARDO SANTOS FRANÇA JUNIOR;13147;Deputado Estadual;PT;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO VIAÇÃO CAMURUJIPE;15.890.809/0001-03;03/09/2010;       Despesas com transporte ou deslocamento;R$ 18,00;Cheque; -  -  / 13147 - EDUARDO SANTOS FRANÇA JUNIOR - BA - Deputado Estadual;
+CARLOS AUGUSTO MEDEIROS NUNES;263.661.695-00;05/10/2010;       Locação/cessão de bens imóveis;R$ 500,00;Cheque; -  -  / 13147 - EDUARDO SANTOS FRANÇA JUNIOR - BA - Deputado Estadual;
+CARLOS AUGUSTO MEDEIROS NUNES;263.661.695-00;30/08/2010;       Locação/cessão de bens imóveis;R$ 1.000,00;Cheque; -  -  / 13147 - EDUARDO SANTOS FRANÇA JUNIOR - BA - Deputado Estadual;
+MERCADO DE CARNE BRASIL;12.204.011/0001-72;16/09/2010;       Alimentação;R$ 30,52;Cheque; -  -  / 13147 - EDUARDO SANTOS FRANÇA JUNIOR - BA - Deputado Estadual;
+RETIFICA VASCO DA GAMA;03.655.598/0001-45;30/09/2010;       Despesas com transporte ou deslocamento;R$ 350,00;Cheque; -  -  / 13147 - EDUARDO SANTOS FRANÇA JUNIOR - BA - Deputado Estadual;
+;;23/08/2010;       Encargos financeiros e taxas bancárias;R$ 19,50;Débito em conta; -  -  / 13147 - EDUARDO SANTOS FRANÇA JUNIOR - BA - Deputado Estadual;
+;;27/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 13147 - EDUARDO SANTOS FRANÇA JUNIOR - BA - Deputado Estadual;
+;;15/09/2010;       Encargos financeiros e taxas bancárias;R$ 19,50;Débito em conta; -  -  / 13147 - EDUARDO SANTOS FRANÇA JUNIOR - BA - Deputado Estadual;
+;;25/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 13147 - EDUARDO SANTOS FRANÇA JUNIOR - BA - Deputado Estadual;

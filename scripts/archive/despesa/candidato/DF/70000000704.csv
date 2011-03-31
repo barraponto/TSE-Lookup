@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MARIA JOSE MATIAS LINARES;098.995.881-72;28/09/2010;10000071851;R$ 120,00;Depósito em espécie;MARIA JOSE MATIAS LINARES;10999;Deputado Distrital;PRB;DF;
-QUALITY FOTOLITO DIGITAL LTDA;04.011.050/0001-25;16/09/2010;10000071852;R$ 500,00;Estimado;MARIA JOSE MATIAS LINARES;10999;Deputado Distrital;PRB;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+QUALITY FOTOLITO DIGITAL LTDA;04.011.050/0001-25;16/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 10999 - MARIA JOSE MATIAS LINARES - DF - Deputado Distrital;
+STILO SIGN SERV. DE CONF. DE PLACAS ADESIVAS E IMPRESSAO DIGITAL LTDA - ME;10.344.524/0001-53;06/09/2010;       Publicidade por materiais impressos;R$ 100,00;Cheque; -  -  / 10999 - MARIA JOSE MATIAS LINARES - DF - Deputado Distrital;
+;;02/10/2010;       Encargos financeiros e taxas bancárias;R$ 4,50;Débito em conta; -  -  / 10999 - MARIA JOSE MATIAS LINARES - DF - Deputado Distrital;

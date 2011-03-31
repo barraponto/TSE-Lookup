@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Senador da República;12.147.828/0001-56;22/09/2010;40002310491;R$ 2.000,00;Depósito em espécie;FRANCISCA LOPES DE LIMA;40333;Deputado Estadual;PSB;AC;
-Comitê Financeiro Único;12.206.664/0001-90;01/09/2010;40002310494;R$ 392,00;Estimado;FRANCISCA LOPES DE LIMA;40333;Deputado Estadual;PSB;AC;
-Comitê Financeiro Único;12.206.664/0001-90;29/09/2010;40002310495;R$ 392,00;Estimado;FRANCISCA LOPES DE LIMA;40333;Deputado Estadual;PSB;AC;
-Comitê Financeiro Único;12.206.664/0001-90;23/09/2010;40002310492;R$ 657,72;Estimado;FRANCISCA LOPES DE LIMA;40333;Deputado Estadual;PSB;AC;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.206.664/0001-90;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 657,72;Estimado;Comitê Financeiro Único - PSB -  / 40333 - FRANCISCA LOPES DE LIMA - AC - Deputado Estadual;
+Comitê Financeiro Único;12.206.664/0001-90;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 392,00;Estimado;Comitê Financeiro Único - PSB -  / 40333 - FRANCISCA LOPES DE LIMA - AC - Deputado Estadual;
+Comitê Financeiro Único;12.206.664/0001-90;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 392,00;Estimado;Comitê Financeiro Único - PSB -  / 40333 - FRANCISCA LOPES DE LIMA - AC - Deputado Estadual;
+MAX PRINT IMP E EXP LTDA - EPP;09.404.925/0001-72;01/09/2010;       Publicidade por materiais impressos;R$ 1.997,50;Cheque; -  -  / 40333 - FRANCISCA LOPES DE LIMA - AC - Deputado Estadual;
+;;27/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,50;Débito em conta; -  -  / 40333 - FRANCISCA LOPES DE LIMA - AC - Deputado Estadual;

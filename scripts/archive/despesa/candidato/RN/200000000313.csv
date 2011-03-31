@@ -1,8 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALEX BRUNO FLORENCIO DE ALBUQUERQUE;036.748.814-03;27/09/2010;31000048053;R$ 370,00;Depósito em espécie;JOSE DANIEL LISBOA ARRUDA DE MELO;3131;Deputado Federal;PHS;RN;
-CLAUDIO AUGUSTO LISBOA ARRUDA DE MELO;829.090.404-53;03/09/2010;31000048055;R$ 1.000,00;Estimado;JOSE DANIEL LISBOA ARRUDA DE MELO;3131;Deputado Federal;PHS;RN;
-Comitê Financeiro Único;12.200.151/0001-72;01/10/2010;31000048057;R$ 100,00;Estimado;JOSE DANIEL LISBOA ARRUDA DE MELO;3131;Deputado Federal;PHS;RN;
-Comitê Financeiro Único;12.262.844/0001-90;29/09/2010;31000048054;R$ 1.500,00;Estimado;JOSE DANIEL LISBOA ARRUDA DE MELO;3131;Deputado Federal;PHS;RN;
-Comitê Financeiro Único;12.200.151/0001-72;30/09/2010;31000048056;R$ 500,00;Estimado;JOSE DANIEL LISBOA ARRUDA DE MELO;3131;Deputado Federal;PHS;RN;
-EVA CRISTINA ARRUDA CAMARA BARROS;064.744.624-34;29/07/2010;31000048051;R$ 500,00;Depósito em espécie;JOSE DANIEL LISBOA ARRUDA DE MELO;3131;Deputado Federal;PHS;RN;
-JOSE AUGUSTO DE MELO;108.336.414-68;09/08/2010;31000048052;R$ 200,00;Depósito em espécie;JOSE DANIEL LISBOA ARRUDA DE MELO;3131;Deputado Federal;PHS;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BATISTA SERVIÇOS DE FOTOCOPIAS LTDA ME;08.187.336/0001-17;01/09/2010;       Publicidade por placas, estandartes e faixas;R$ 50,00;Cheque; -  -  / 3131 - JOSE DANIEL LISBOA ARRUDA DE MELO - RN - Deputado Federal;
+BATISTA SERVIÇOS DE FOTOCOPIAS LTDA ME;08.187.336/0001-17;02/08/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 3131 - JOSE DANIEL LISBOA ARRUDA DE MELO - RN - Deputado Federal;
+CLAUDIO AUGUSTO LISBOA ARRUDA DE MELO;829.090.404-53;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 3131 - JOSE DANIEL LISBOA ARRUDA DE MELO - RN - Deputado Federal;
+Comitê Financeiro Único;12.262.844/0001-90;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado;Comitê Financeiro Único - PSB -  / 3131 - JOSE DANIEL LISBOA ARRUDA DE MELO - RN - Deputado Federal;
+Comitê Financeiro Único;12.200.151/0001-72;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado;Comitê Financeiro Único - PHS -  / 3131 - JOSE DANIEL LISBOA ARRUDA DE MELO - RN - Deputado Federal;
+Comitê Financeiro Único;12.200.151/0001-72;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;Comitê Financeiro Único - PHS -  / 3131 - JOSE DANIEL LISBOA ARRUDA DE MELO - RN - Deputado Federal;
+EMPRESA JORNALISTICA TRIBUNA DO NORTE LTDA;08.272.908/0001-66;29/09/2010;       Publicidade por jornais e revistas;R$ 369,12;Cheque; -  -  / 3131 - JOSE DANIEL LISBOA ARRUDA DE MELO - RN - Deputado Federal;
+LUCGRAF EDITORA GRÁFICA LTDA;03.637.347/0001-38;05/08/2010;       Publicidade por materiais impressos;R$ 450,00;Cheque; -  -  / 3131 - JOSE DANIEL LISBOA ARRUDA DE MELO - RN - Deputado Federal;

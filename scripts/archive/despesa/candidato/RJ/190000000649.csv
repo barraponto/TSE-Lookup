@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;01.669.171/0001-70;04/09/2010;40001007002;R$ 392,15;Estimado;ALEX TEIXEIRA DE SANT'ANA;4001;Deputado Federal;PSB;RJ;
-SERGIO CABRAL;12.181.923/0001-76;30/09/2010;40001007001;R$ 150,00;Estimado;ALEX TEIXEIRA DE SANT'ANA;4001;Deputado Federal;PSB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;01.669.171/0001-70;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 392,15;Estimado;Direção Estadual/Distrital - PSB -  / 4001 - ALEX TEIXEIRA DE SANT'ANA - RJ - Deputado Federal;
+SERGIO CABRAL;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;15 -  - PMDB -  - Governador / 4001 - ALEX TEIXEIRA DE SANT'ANA - RJ - Deputado Federal;

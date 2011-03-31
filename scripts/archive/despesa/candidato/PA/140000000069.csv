@@ -1,5 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JANILCE MIRANDA MAIA;832.092.982-20;23/08/2010;;R$ 300,00;Transferência eletrônica;JANILCE MIRANDA MAIA;65650;Deputado Estadual;PC do B;PA;
-JORGE PANZERA;12.204.180/0001-02;14/09/2010;65000226202;R$ 161,00;Estimado;JANILCE MIRANDA MAIA;65650;Deputado Estadual;PC do B;PA;
-JORGE PANZERA;12.204.180/0001-02;29/09/2010;65000226203;R$ 100,00;Estimado;JANILCE MIRANDA MAIA;65650;Deputado Estadual;PC do B;PA;
-JORGE PANZERA;12.204.180/0001-02;14/09/2010;65000226201;R$ 30,00;Estimado;JANILCE MIRANDA MAIA;65650;Deputado Estadual;PC do B;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CLEBERNILSON SOARES DE ABREU;589.295.842-68;30/09/2010;       Publicidade por carros de som;R$ 120,00;Não informado; -  -  / 65650 - JANILCE MIRANDA MAIA - PA - Deputado Estadual;
+JORGE PANZERA;12.204.180/0001-02;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 161,00;Estimado;6565 -  - PC do B -  - Deputado Federal / 65650 - JANILCE MIRANDA MAIA - PA - Deputado Estadual;
+JORGE PANZERA;12.204.180/0001-02;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 30,00;Estimado;6565 -  - PC do B -  - Deputado Federal / 65650 - JANILCE MIRANDA MAIA - PA - Deputado Estadual;
+JORGE PANZERA;12.204.180/0001-02;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado;6565 -  - PC do B -  - Deputado Federal / 65650 - JANILCE MIRANDA MAIA - PA - Deputado Estadual;
+POSTO SANTO ANTONIO;10.252.971/0008-59;31/08/2010;       Combustíveis e lubrificantes;R$ 50,00;Não informado; -  -  / 65650 - JANILCE MIRANDA MAIA - PA - Deputado Estadual;
+POSTO SANTO ANTONIO;10.252.971/0008-59;30/09/2010;       Combustíveis e lubrificantes;R$ 130,00;Não informado; -  -  / 65650 - JANILCE MIRANDA MAIA - PA - Deputado Estadual;

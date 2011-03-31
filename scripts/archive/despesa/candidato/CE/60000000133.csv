@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.200.081/0001-52;25/08/2010;45000202351;R$ 212,09;Estimado;SEMIRAMIS CUNHA BARREIRA DE OLIVEIRA;45999;Deputado Estadual;PSDB;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.200.081/0001-52;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 212,09;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual - PSDB -  / 45999 - SEMIRAMIS CUNHA BARREIRA DE OLIVEIRA - CE - Deputado Estadual;

@@ -1,6 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CLAUDINOR DE ASSIS MENEZES;918.660.226-87;03/08/2010;36000000981;R$ 1,50;Transferência eletrônica;CLAUDIONOR DE ASSIS MENEZES;36612;Deputado Estadual;PTC;PR;
-ELEIÇAO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;10/08/2010;36000000976;R$ 630,00;Estimado;CLAUDIONOR DE ASSIS MENEZES;36612;Deputado Estadual;PTC;PR;
-ELEIÇAO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;28/09/2010;36000000977;R$ 1.680,00;Transferência eletrônica;CLAUDIONOR DE ASSIS MENEZES;36612;Deputado Estadual;PTC;PR;
-ELEIÇAO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;14/09/2010;36000000978;R$ 500,00;Estimado;CLAUDIONOR DE ASSIS MENEZES;36612;Deputado Estadual;PTC;PR;
-ELEIÇAO 2010 RICARDO JOSE MAGALHAES BARROS;12.190.665/0001-94;26/09/2010;36000000980;R$ 450,00;Estimado;CLAUDIONOR DE ASSIS MENEZES;36612;Deputado Estadual;PTC;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO JARDIM TIMBORI LTDA;09.164.462/0001-19;30/09/2010;       Combustíveis e lubrificantes;R$ 15,00;Transferência eletrônica; -  -  / 36612 - CLAUDIONOR DE ASSIS MENEZES - PR - Deputado Estadual;
+CLOVIS TELES DE MENEZES;959.711.499-20;29/09/2010;       Despesas com pessoal;R$ 10,00;Transferência eletrônica; -  -  / 36612 - CLAUDIONOR DE ASSIS MENEZES - PR - Deputado Estadual;
+ELEIÇAO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;45 -  - PSDB -  - Governador / 36612 - CLAUDIONOR DE ASSIS MENEZES - PR - Deputado Estadual;
+ELEIÇAO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 630,00;Estimado;45 -  - PSDB -  - Governador / 36612 - CLAUDIONOR DE ASSIS MENEZES - PR - Deputado Estadual;
+ELEIÇAO 2010 RICARDO JOSE MAGALHAES BARROS;12.190.665/0001-94;26/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 450,00;Estimado;111 -  - PP -  - Senador / 36612 - CLAUDIONOR DE ASSIS MENEZES - PR - Deputado Estadual;
+EMERSON KRUPEZAK;038.315.549-51;29/09/2010;       Despesas com pessoal;R$ 44,42;Transferência eletrônica; -  -  / 36612 - CLAUDIONOR DE ASSIS MENEZES - PR - Deputado Estadual;
+EVANDRO CEZAR PERREIRA;066.903.919-25;27/09/2010;       Despesas com pessoal;R$ 500,00;Transferência eletrônica; -  -  / 36612 - CLAUDIONOR DE ASSIS MENEZES - PR - Deputado Estadual;
+FRANSCISCO C.P. SILVA;037.670.939-10;30/09/2010;       Despesas com pessoal;R$ 800,00;Transferência eletrônica; -  -  / 36612 - CLAUDIONOR DE ASSIS MENEZES - PR - Deputado Estadual;
+MARIA DE LURDES BRAZ OLIVEIRA;872.201.999-53;27/09/2010;       Despesas com pessoal;R$ 300,00;Transferência eletrônica; -  -  / 36612 - CLAUDIONOR DE ASSIS MENEZES - PR - Deputado Estadual;
+;;27/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,00;Débito em conta; -  -  / 36612 - CLAUDIONOR DE ASSIS MENEZES - PR - Deputado Estadual;

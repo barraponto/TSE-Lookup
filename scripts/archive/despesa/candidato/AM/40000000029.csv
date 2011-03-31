@@ -1,5 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALFREDO PEREIRA DO NASCIMENTO;12.169.771/0001-96;10/08/2010;17000026851;R$ 5.000,00;Cheque;JADELVONE NOGUEIRA DELTRUDES;17123;Deputado Estadual;PSL;AM;
-ALFREDO PREIRA DO NASCIMENTO;12.169.771/0001-96;08/09/2010;17000026852;R$ 5.000,00;Cheque;JADELVONE NOGUEIRA DELTRUDES;17123;Deputado Estadual;PSL;AM;
-Comitê Financeiro Único;12.154.854/0001-01;21/09/2010;17000026854;R$ 600,00;Cheque;JADELVONE NOGUEIRA DELTRUDES;17123;Deputado Estadual;PSL;AM;
-MASAMI MIKI;12.171.517/0001-22;13/09/2010;17000026853;R$ 5.000,00;Cheque;JADELVONE NOGUEIRA DELTRUDES;17123;Deputado Estadual;PSL;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AMANDA CAROLINE DOS SANTOS ANDRADE;007.688.992-06;30/09/2010;       Cessão ou Locação de Veículos;R$ 601,00;Cheque; -  -  / 17123 - JADELVONE NOGUEIRA DELTRUDES - AM - Deputado Estadual;
+DANIEL FEREIRA MACHADO;827.498.172-34;30/08/2010;       Cessão ou Locação de Veículos;R$ 2.500,00;Cheque; -  -  / 17123 - JADELVONE NOGUEIRA DELTRUDES - AM - Deputado Estadual;
+DANIEL FEREIRA MACHADO;827.498.172-34;01/09/2010;       Cessão ou Locação de Veículos;R$ 2.500,00;Cheque; -  -  / 17123 - JADELVONE NOGUEIRA DELTRUDES - AM - Deputado Estadual;
+DAVID DE SOUZA MOTA;006.265.752-65;16/09/2010;       Cessão ou Locação de Veículos;R$ 2.500,00;Cheque; -  -  / 17123 - JADELVONE NOGUEIRA DELTRUDES - AM - Deputado Estadual;
+RENILZE AZEVEDO DELTRUDES;379.626.552-91;23/09/2010;       Cessão ou Locação de Veículos;R$ 2.500,00;Cheque; -  -  / 17123 - JADELVONE NOGUEIRA DELTRUDES - AM - Deputado Estadual;
+RENILZE AZEVEDO DELTRUDES;379.626.552-91;30/08/2010;       Cessão ou Locação de Veículos;R$ 2.500,00;Cheque; -  -  / 17123 - JADELVONE NOGUEIRA DELTRUDES - AM - Deputado Estadual;
+TOTAL SERVICE CONSULTORIA LTDA;11.977.423/0001-82;28/09/2010;       Cessão ou Locação de Veículos;R$ 2.350,00;Cheque; -  -  / 17123 - JADELVONE NOGUEIRA DELTRUDES - AM - Deputado Estadual;
+TOTAL SERVICE CONSULTORIA LTDA;11.977.423/0001-82;22/09/2010;       Cessão ou Locação de Veículos;R$ 149,00;Cheque; -  -  / 17123 - JADELVONE NOGUEIRA DELTRUDES - AM - Deputado Estadual;

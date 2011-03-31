@@ -1,4 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEICAO 2010 DAGOBERTO NOGUEIRA FILHO SENADOR;12.197.958/0001-01;30/09/2010;17000035776;R$ 5.000,00;Cheque;ALDECIR ROBERTO FERNANDES;17123;Deputado Estadual;PSL;MS;
-ELEICAO 2010 JOAO BATISTA DOS SANTOS DEPUTADO FEDERAL;12.168.083/0001-01;01/10/2010;17000035772;R$ 2.000,00;Cheque;ALDECIR ROBERTO FERNANDES;17123;Deputado Estadual;PSL;MS;
-VALÉRIA BARROS DE OLIVEIRA;894.608.711-00;01/10/2010;17000035774;R$ 1.000,00;Depósito em espécie;ALDECIR ROBERTO FERNANDES;17123;Deputado Estadual;PSL;MS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANANIAS LUIZ RODRIGUES;036.687.321-08;30/09/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / 17123 - ALDECIR ROBERTO FERNANDES - MS - Deputado Estadual;
+LUIZ BAENA FERNANDES & CIA LTDA;03.742.012/0001-80;01/10/2010;       Combustíveis e lubrificantes;R$ 1.530,00;Cheque; -  -  / 17123 - ALDECIR ROBERTO FERNANDES - MS - Deputado Estadual;
+MAX WILLIAN BOBBNS;760.941.701-72;02/10/2010;       Publicidade por carros de som;R$ 2.250,00;Cheque; -  -  / 17123 - ALDECIR ROBERTO FERNANDES - MS - Deputado Estadual;
+RODRIGO FIGUEIREDO  QUEIROZ;010.956.521-50;02/10/2010;       Publicidade por carros de som;R$ 1.245,00;Cheque; -  -  / 17123 - ALDECIR ROBERTO FERNANDES - MS - Deputado Estadual;
+SERIDOR PUBLICIDADE E COMUNICAÇÃO VISUAL LTDA ME;09.200.245/0001-37;30/09/2010;       Despesas com pessoal;R$ 1.072,00;Cheque; -  -  / 17123 - ALDECIR ROBERTO FERNANDES - MS - Deputado Estadual;
+SIMONE APARECIDA DE SOUZA;051.409.451-69;30/09/2010;       Despesas com pessoal;R$ 400,00;Cheque; -  -  / 17123 - ALDECIR ROBERTO FERNANDES - MS - Deputado Estadual;
+SUELI PEREIRA FERNANDES RODRIGUES;828.483.431-68;30/09/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / 17123 - ALDECIR ROBERTO FERNANDES - MS - Deputado Estadual;
+VILMA BERALDO PEREIRA ALVES;997.143.531-49;30/09/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / 17123 - ALDECIR ROBERTO FERNANDES - MS - Deputado Estadual;

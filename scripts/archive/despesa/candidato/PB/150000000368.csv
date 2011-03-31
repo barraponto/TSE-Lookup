@@ -1,6 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSÉ TARGINO MANHÃO;12.189.345/0001-14;06/09/2010;15000068352;R$ 150,00;Estimado;MARIA JOSE SILVA BEZERRA DE MENEZES;15193;Deputado Estadual;PMDB;PB;
-JOSÉ TARGINO MARANHÃO.;12.189.345/0001-14;31/08/2010;15000068353;R$ 523,56;Estimado;MARIA JOSE SILVA BEZERRA DE MENEZES;15193;Deputado Estadual;PMDB;PB;
-MARIA JOSÉ SILVA BEZERRA DE MENEZES;112.088.994-49;03/09/2010;15000068354;R$ 500,00;Depósito em espécie;MARIA JOSE SILVA BEZERRA DE MENEZES;15193;Deputado Estadual;PMDB;PB;
-MARIA JOSÉ SILVA BEZERRA DE MENEZES;112.088.994-49;25/08/2010;15000068351;R$ 200,00;Depósito em espécie;MARIA JOSE SILVA BEZERRA DE MENEZES;15193;Deputado Estadual;PMDB;PB;
-MARIA JOSÉ SILVA BEZERRA DE MENEZES;112.088.994-49;20/09/2010;15000068355;R$ 900,00;Depósito em espécie;MARIA JOSE SILVA BEZERRA DE MENEZES;15193;Deputado Estadual;PMDB;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTÔNIO SOUSA DA SILVA;595.987.198-04;13/09/2010;       Serviços prestados por terceiros;R$ 500,00;Cheque; -  -  / 15193 - MARIA JOSE SILVA BEZERRA DE MENEZES - PB - Deputado Estadual;
+ANTÔNIO SOUSA DA SILVA;595.987.198-04;21/10/2010;       Serviços prestados por terceiros;R$ 500,00;Transferência eletrônica; -  -  / 15193 - MARIA JOSE SILVA BEZERRA DE MENEZES - PB - Deputado Estadual;
+JOSÉ TARGINO MANHÃO;12.189.345/0001-14;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;15 -  - PMDB -  - Governador / 15193 - MARIA JOSE SILVA BEZERRA DE MENEZES - PB - Deputado Estadual;
+JOSÉ TARGINO MARANHÃO.;12.189.345/0001-14;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 523,56;Estimado;15 -  - PMDB -  - Governador / 15193 - MARIA JOSE SILVA BEZERRA DE MENEZES - PB - Deputado Estadual;
+SEVERINO FRANCISCO DA SILVA;338.693.084-00;16/09/2010;       Serviços prestados por terceiros;R$ 70,00;Cheque; -  -  / 15193 - MARIA JOSE SILVA BEZERRA DE MENEZES - PB - Deputado Estadual;
+S/N;112.088.994-49;25/08/2010;       Diversas a especificar;R$ 19,50;Não informado; -  -  / 15193 - MARIA JOSE SILVA BEZERRA DE MENEZES - PB - Deputado Estadual;
+;;08/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 15193 - MARIA JOSE SILVA BEZERRA DE MENEZES - PB - Deputado Estadual;
+;;20/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 15193 - MARIA JOSE SILVA BEZERRA DE MENEZES - PB - Deputado Estadual;
+;;27/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 15193 - MARIA JOSE SILVA BEZERRA DE MENEZES - PB - Deputado Estadual;
+;;22/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 15193 - MARIA JOSE SILVA BEZERRA DE MENEZES - PB - Deputado Estadual;

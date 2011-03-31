@@ -1,5 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DANIEL SAMPAIO TOURINHO;12.172.794/0001-50;18/08/2010;36000053552;R$ 700,00;Estimado;EDUARDO LUIZ GOMES;36777;Deputado Estadual;PTC;RJ;
-DANIEL SAMPAIO TOURINHO;12.172.794/0001-50;06/08/2010;36000053553;R$ 160,00;Estimado;EDUARDO LUIZ GOMES;36777;Deputado Estadual;PTC;RJ;
-EDUARDO LUIZ GOMES;819.171.717-49;02/09/2010;36000053551;R$ 370,00;Outros títulos de crédito;EDUARDO LUIZ GOMES;36777;Deputado Estadual;PTC;RJ;
-ELEIÇÃO 2010 COMITE FINANCEIRO UNICO RJ - PDT;12.205.322/0001-56;30/09/2010;36000053554;R$ 2.823,53;Estimado;EDUARDO LUIZ GOMES;36777;Deputado Estadual;PTC;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BANCO ITAU S/A;60.701.190/0001-04;02/09/2010;       Diversas a especificar;R$ 21,00;Não informado; -  -  / 36777 - EDUARDO LUIZ GOMES - RJ - Deputado Estadual;
+DANIEL SAMPAIO TOURINHO;12.172.794/0001-50;06/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 160,00;Estimado; -  -  / 36777 - EDUARDO LUIZ GOMES - RJ - Deputado Estadual;
+DANIEL SAMPAIO TOURINHO;12.172.794/0001-50;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 700,00;Estimado; -  -  / 36777 - EDUARDO LUIZ GOMES - RJ - Deputado Estadual;
+ELEIÇÃO 2010 COMITE FINANCEIRO UNICO RJ - PDT;12.205.322/0001-56;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.823,53;Estimado; -  -  / 36777 - EDUARDO LUIZ GOMES - RJ - Deputado Estadual;
+MARCOS AURELIO SANTOS SOARES;033.416.427-30;19/10/2010;       Serviços prestados por terceiros;R$ 19,00;Cheque; -  -  / 36777 - EDUARDO LUIZ GOMES - RJ - Deputado Estadual;
+VIVAGRAF SERVIÇOS FRAFICOS LTDA ME;02.523.117/0001-85;02/09/2010;       Publicidade por materiais impressos;R$ 330,00;Cheque; -  -  / 36777 - EDUARDO LUIZ GOMES - RJ - Deputado Estadual;

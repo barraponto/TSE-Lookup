@@ -1,9 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CELSO ALVES DA COSTA;001.648.627-73;20/10/2010;15000025659;R$ 770,00;Transferência eletrônica;CELSO ALVES DA COSTA;1577;Deputado Federal;PMDB;RJ;
-ELEIÇÃO 2010 - JORGE SAYED PICCIANI;12.176.626/0001-32;30/09/2010;15000025656;R$ 600,00;Estimado;CELSO ALVES DA COSTA;1577;Deputado Federal;PMDB;RJ;
-ELEIÇÃO 2010 - JORGE SAYED PICCIANI;12.176.626/0001-32;23/09/2010;15000025652;R$ 1.145,83;Estimado;CELSO ALVES DA COSTA;1577;Deputado Federal;PMDB;RJ;
-ELEIÇÃO 2010 - JORGE SAYED PICCIANI;12.176.626/0001-32;23/09/2010;15000025654;R$ 2.666,66;Estimado;CELSO ALVES DA COSTA;1577;Deputado Federal;PMDB;RJ;
-ELEIÇÃO 2010- JORGE SAIED PICCIANI;12.176.626/0001-32;30/09/2010;15000025655;R$ 453,67;Estimado;CELSO ALVES DA COSTA;1577;Deputado Federal;PMDB;RJ;
-ELEIÇÃO 2010- JORGE SAYED PICCIANI;12.176.626/0001-32;23/09/2010;15000025653;R$ 150,00;Estimado;CELSO ALVES DA COSTA;1577;Deputado Federal;PMDB;RJ;
-ELEIÇÃO 2010- MARIA APARECIDA DIOGO;12.178.912/0001-37;01/10/2010;15000025657;R$ 890,00;Estimado;CELSO ALVES DA COSTA;1577;Deputado Federal;PMDB;RJ;
-ELEIÇÕES 2010 MARIA APARECIDA DIOGO BRAGA;12.178.912/0001-37;10/08/2010;15000025651;R$ 307,80;Estimado;CELSO ALVES DA COSTA;1577;Deputado Federal;PMDB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALART 2002 COMERCIO LTDA.;05.369.272/0001-87;30/09/2010;       Publicidade por placas, estandartes e faixas;R$ 770,00;Cheque; -  -  / 1577 - CELSO ALVES DA COSTA - RJ - Deputado Federal;
+ELEIÇÃO 2010 - JORGE SAYED PICCIANI;12.176.626/0001-32;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.145,83;Estimado;155 -  - PMDB -  - Senador / 1577 - CELSO ALVES DA COSTA - RJ - Deputado Federal;
+ELEIÇÃO 2010 - JORGE SAYED PICCIANI;12.176.626/0001-32;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado;155 -  - PMDB -  - Senador / 1577 - CELSO ALVES DA COSTA - RJ - Deputado Federal;
+ELEIÇÃO 2010 - JORGE SAYED PICCIANI;12.176.626/0001-32;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.666,66;Estimado;155 -  - PMDB -  - Senador / 1577 - CELSO ALVES DA COSTA - RJ - Deputado Federal;
+ELEIÇÃO 2010- JORGE SAIED PICCIANI;12.176.626/0001-32;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 453,67;Estimado;155 -  - PMDB -  - Senador / 1577 - CELSO ALVES DA COSTA - RJ - Deputado Federal;
+ELEIÇÃO 2010- JORGE SAYED PICCIANI;12.176.626/0001-32;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;155 -  - PMDB -  - Senador / 1577 - CELSO ALVES DA COSTA - RJ - Deputado Federal;
+ELEIÇÃO 2010- MARIA APARECIDA DIOGO;12.178.912/0001-37;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 890,00;Estimado;13313 -  - PT -  - Deputado Estadual / 1577 - CELSO ALVES DA COSTA - RJ - Deputado Federal;
+ELEIÇÕES 2010 MARIA APARECIDA DIOGO BRAGA;12.178.912/0001-37;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 307,80;Estimado;13313 -  - PT -  - Deputado Estadual / 1577 - CELSO ALVES DA COSTA - RJ - Deputado Federal;

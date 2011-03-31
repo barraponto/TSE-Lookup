@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ARISTEU DIAS BARROS;237.616.523-72;19/08/2010;70000166102;R$ 4.000,00;Depósito em espécie;ARISTEU DIAS BARROS;70111;Deputado Estadual;PT do B;MA;
-ARISTEU DIAS BARROS;237.616.523-72;02/08/2010;70000166101;R$ 10.000,00;Estimado;ARISTEU DIAS BARROS;70111;Deputado Estadual;PT do B;MA;
-ARISTEU DIAS BARROS;237.616.523-72;03/09/2010;70000166104;R$ 4.000,00;Depósito em espécie;ARISTEU DIAS BARROS;70111;Deputado Estadual;PT do B;MA;
-ARISTEU DIAS BARROS;237.616.523-72;06/09/2010;70000166105;R$ 2.000,00;Depósito em espécie;ARISTEU DIAS BARROS;70111;Deputado Estadual;PT do B;MA;
-Comitê Financeiro Único;12.229.883/0001-95;18/08/2010;70000166107;R$ 641,00;Estimado;ARISTEU DIAS BARROS;70111;Deputado Estadual;PT do B;MA;
-ESDRAS JOSE DE CARVALHO MUNIZ;006.711.713-99;01/10/2010;70000166106;R$ 3.000,00;Estimado;ARISTEU DIAS BARROS;70111;Deputado Estadual;PT do B;MA;
-F S SOARES BARROS;05.120.474/0001-90;03/09/2010;70000166103;R$ 5.000,00;Depósito em espécie;ARISTEU DIAS BARROS;70111;Deputado Estadual;PT do B;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARISTEU DIAS BARROS;237.616.523-72;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 10.000,00;Estimado; -  -  / 70111 - ARISTEU DIAS BARROS - MA - Deputado Estadual;
+Comitê Financeiro Único;12.229.883/0001-95;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 641,00;Estimado;Comitê Financeiro Único - PT do B -  / 70111 - ARISTEU DIAS BARROS - MA - Deputado Estadual;
+ESDRAS JOSE DE CARVALHO MUNIZ;006.711.713-99;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.000,00;Estimado; -  -  / 70111 - ARISTEU DIAS BARROS - MA - Deputado Estadual;
+ESTAÇÃO GRAFICA LTDA;69.419.877/0001-18;19/08/2010;       Publicidade por materiais impressos;R$ 3.000,00;Transferência eletrônica; -  -  / 70111 - ARISTEU DIAS BARROS - MA - Deputado Estadual;
+FRANCISCO MAURO DOS SANTOS SOUSA;929.149.853-04;03/09/2010;       Publicidade por carros de som;R$ 5.000,00;Cheque; -  -  / 70111 - ARISTEU DIAS BARROS - MA - Deputado Estadual;
+JOSE GONÇALVES LIMA;078.581.243-15;06/09/2010;       Publicidade por carros de som;R$ 2.000,00;Cheque; -  -  / 70111 - ARISTEU DIAS BARROS - MA - Deputado Estadual;
+JOSSUILAME LIMA DE ALMEIDA;528.421.263-00;03/09/2010;       Publicidade por carros de som;R$ 5.000,00;Cheque; -  -  / 70111 - ARISTEU DIAS BARROS - MA - Deputado Estadual;

@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-AÉCIO RODRIGUES DOS SANTOS;431.956.526-68;27/08/2010;12001692553;R$ 590,00;Estimado;SEBASTIÃO RODRIGUES FREITAS;12145;Deputado Estadual;PDT;MG;
-Comitê Financeiro Único;12.372.871/0001-15;29/07/2010;12001692554;R$ 1.197,84;Estimado;SEBASTIÃO RODRIGUES FREITAS;12145;Deputado Estadual;PDT;MG;
-Comitê Financeiro Único;12.372.871/0001-15;31/08/2010;12001692555;R$ 1.320,00;Estimado;SEBASTIÃO RODRIGUES FREITAS;12145;Deputado Estadual;PDT;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AÉCIO RODRIGUES DOS SANTOS;431.956.526-68;27/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 590,00;Estimado; -  -  / 12145 - SEBASTIÃO RODRIGUES FREITAS - MG - Deputado Estadual;
+Comitê Financeiro Único;12.372.871/0001-15;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.320,00;Estimado;Comitê Financeiro Único - PDT -  / 12145 - SEBASTIÃO RODRIGUES FREITAS - MG - Deputado Estadual;
+Comitê Financeiro Único;12.372.871/0001-15;29/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.197,84;Estimado;Comitê Financeiro Único - PDT -  / 12145 - SEBASTIÃO RODRIGUES FREITAS - MG - Deputado Estadual;

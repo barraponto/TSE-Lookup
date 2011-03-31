@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;23/09/2010;17000064452;R$ 300,00;Estimado;LUIZ FERNANDO COSTA;17312;Deputado Estadual;PSL;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;28/09/2010;17000064453;R$ 300,00;Estimado;LUIZ FERNANDO COSTA;17312;Deputado Estadual;PSL;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;17000064454;R$ 150,00;Estimado;LUIZ FERNANDO COSTA;17312;Deputado Estadual;PSL;RJ;
-JORGE SAYED PICCIANI;12.176.626/0001-32;26/08/2010;17000064451;R$ 17,00;Estimado;LUIZ FERNANDO COSTA;17312;Deputado Estadual;PSL;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 17312 - LUIZ FERNANDO COSTA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 17312 - LUIZ FERNANDO COSTA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 17312 - LUIZ FERNANDO COSTA - RJ - Deputado Estadual;
+JORGE SAYED PICCIANI;12.176.626/0001-32;26/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 17312 - LUIZ FERNANDO COSTA - RJ - Deputado Estadual;

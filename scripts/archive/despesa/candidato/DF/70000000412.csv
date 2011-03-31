@@ -1,7 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.217.556/0001-13;16/08/2010;70000132306;R$ 360,00;Estimado;JOAQUIM CHAVANTE NETO;70600;Deputado Distrital;PT do B;DF;
-Comitê Financeiro Único;12.217.556/0001-13;09/08/2010;70000132304;R$ 360,00;Estimado;JOAQUIM CHAVANTE NETO;70600;Deputado Distrital;PT do B;DF;
-Comitê Financeiro Único;12.217.556/0001-13;23/08/2010;70000132308;R$ 360,00;Estimado;JOAQUIM CHAVANTE NETO;70600;Deputado Distrital;PT do B;DF;
-ELEIÇÃO 2010 JOAQUIM CHAVANTE NETO DEPUTADO DISTRITAL;084.464.151-00;20/07/2010;70000132301;R$ 1.800,00;Estimado;JOAQUIM CHAVANTE NETO;70600;Deputado Distrital;PT do B;DF;
-ELEIÇÃO 2010 JOAQUIM CHAVANTE NETO DEPUTADO DISTRITAL;084.464.151-00;26/07/2010;70000132302;R$ 1.250,00;Depósito em espécie;JOAQUIM CHAVANTE NETO;70600;Deputado Distrital;PT do B;DF;
-ELEIÇÃO 2010 JOAQUIM CHAVANTE NETO DEPUTADO DISTRITAL;084.464.151-00;20/07/2010;70000132303;R$ 1.800,00;Estimado;JOAQUIM CHAVANTE NETO;70600;Deputado Distrital;PT do B;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+A.A. COMERCIO BRINDES;08.211.700/0001-37;28/07/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 70600 - JOAQUIM CHAVANTE NETO - DF - Deputado Distrital;
+ALTAMIR FERREIRA DA COSTA - ME;26.992.685/0001-93;27/07/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 70600 - JOAQUIM CHAVANTE NETO - DF - Deputado Distrital;
+Comitê Financeiro Único;12.217.556/0001-13;16/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Único - PT do B -  / 70600 - JOAQUIM CHAVANTE NETO - DF - Deputado Distrital;
+Comitê Financeiro Único;12.217.556/0001-13;09/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Único - PT do B -  / 70600 - JOAQUIM CHAVANTE NETO - DF - Deputado Distrital;
+Comitê Financeiro Único;12.217.556/0001-13;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Único - PT do B -  / 70600 - JOAQUIM CHAVANTE NETO - DF - Deputado Distrital;
+ELEIÇÃO 2010 JOAQUIM CHAVANTE NETO DEPUTADO DISTRITAL;084.464.151-00;20/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.800,00;Estimado; -  -  / 70600 - JOAQUIM CHAVANTE NETO - DF - Deputado Distrital;
+ELEIÇÃO 2010 JOAQUIM CHAVANTE NETO DEPUTADO DISTRITAL;084.464.151-00;20/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.800,00;Estimado; -  -  / 70600 - JOAQUIM CHAVANTE NETO - DF - Deputado Distrital;
+GRAFICA E EDITORA ESPERANÇA LTDA - ME;02.054.018/0001-00;28/07/2010;       Publicidade por materiais impressos;R$ 450,00;Cheque; -  -  / 70600 - JOAQUIM CHAVANTE NETO - DF - Deputado Distrital;
+RS PRODUTOS METALURGICOS LTDA - ME;38.071.544/0001-17;31/08/2010;       Publicidade por placas, estandartes e faixas;R$ 605,00;Cheque; -  -  / 70600 - JOAQUIM CHAVANTE NETO - DF - Deputado Distrital;

@@ -1,5 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS EDUARDO GOMES TARGINO;654.151.403-87;01/09/2010;23000070134;R$ 1.000,00;Estimado;ANTONIA LUZILENE FERREIRA DE SOUSA;23789;Deputado Estadual;PPS;CE;
-MANOEL BARBOSA NETO;061.351.023-20;21/09/2010;23000070133;R$ 500,00;Depósito em espécie;ANTONIA LUZILENE FERREIRA DE SOUSA;23789;Deputado Estadual;PPS;CE;
-MANOEL BARBOSA NETO;061.351.023-20;08/09/2010;23000070132;R$ 500,00;Depósito em espécie;ANTONIA LUZILENE FERREIRA DE SOUSA;23789;Deputado Estadual;PPS;CE;
-VALDERLAN ALVES DE SOUSA;029.648.963-80;16/08/2010;23000070131;R$ 100,00;Transferência eletrônica;ANTONIA LUZILENE FERREIRA DE SOUSA;23789;Deputado Estadual;PPS;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS EDUARDO GOMES TARGINO;654.151.403-87;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 23789 - ANTONIA LUZILENE FERREIRA DE SOUSA - CE - Deputado Estadual;
+GRÁFICA NOSSA SENHORA DE FATIMA;01.209.580/0001-94;20/09/2010;       Publicidade por materiais impressos;R$ 420,00;Cheque; -  -  / 23789 - ANTONIA LUZILENE FERREIRA DE SOUSA - CE - Deputado Estadual;
+POSTO SOBRAL & PALÁCIO LTDA;07.240.641/0024-59;10/09/2010;       Combustíveis e lubrificantes;R$ 600,00;Cheque; -  -  / 23789 - ANTONIA LUZILENE FERREIRA DE SOUSA - CE - Deputado Estadual;
+;;18/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 23789 - ANTONIA LUZILENE FERREIRA DE SOUSA - CE - Deputado Estadual;
+;;06/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 23789 - ANTONIA LUZILENE FERREIRA DE SOUSA - CE - Deputado Estadual;
+;;21/09/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 23789 - ANTONIA LUZILENE FERREIRA DE SOUSA - CE - Deputado Estadual;
+;;21/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 23789 - ANTONIA LUZILENE FERREIRA DE SOUSA - CE - Deputado Estadual;
+;;06/10/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 23789 - ANTONIA LUZILENE FERREIRA DE SOUSA - CE - Deputado Estadual;
+;;18/10/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 23789 - ANTONIA LUZILENE FERREIRA DE SOUSA - CE - Deputado Estadual;

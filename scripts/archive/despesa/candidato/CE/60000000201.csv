@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.205.262/0001-71;18/09/2010;25000534051;R$ 345,00;Estimado;ANDREIA LIMA HOLANDA;25645;Deputado Estadual;DEM;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.205.262/0001-71;18/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 345,00;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual - DEM -  / 25645 - ANDREIA LIMA HOLANDA - CE - Deputado Estadual;

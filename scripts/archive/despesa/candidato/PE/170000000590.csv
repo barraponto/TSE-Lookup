@@ -1,7 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CHM INDUSTRIA COMERCIO E IMPRESSÃO GRAFICA LTDA;07.739.012/0001-81;19/08/2010;36000063729;R$ 275,00;Estimado;MARIA JOSE COELHO DO NASCIMENTO;36400;Deputado Estadual;PTC;PE;
-Diretório Estadual/Distrital;05.055.973/0001-41;28/09/2010;36000063721;R$ 574,00;Estimado;MARIA JOSE COELHO DO NASCIMENTO;36400;Deputado Estadual;PTC;PE;
-Diretório Estadual/Distrital;05.055.973/0001-41;24/09/2010;36000063723;R$ 200,00;Estimado;MARIA JOSE COELHO DO NASCIMENTO;36400;Deputado Estadual;PTC;PE;
-JOSE ERIBERTO MEDEIROS DE OLIVEIRA;12.177.701/0001-80;25/08/2010;36000063722;R$ 40,00;Estimado;MARIA JOSE COELHO DO NASCIMENTO;36400;Deputado Estadual;PTC;PE;
-MARIA JOSE COELHO DO NASCIMENTO;244.960.814-15;03/08/2010;36000063725;R$ 50,00;Depósito em espécie;MARIA JOSE COELHO DO NASCIMENTO;36400;Deputado Estadual;PTC;PE;
-MARIA JOSE COELHO DO NASCIMENTO;244.960.814-15;03/08/2010;36000063724;R$ 260,00;Cheque;MARIA JOSE COELHO DO NASCIMENTO;36400;Deputado Estadual;PTC;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CHM INDUSTRIA COMERCIO E IMPRESSÃO GRAFICA LTDA;07.739.012/0001-81;19/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 275,00;Estimado; -  -  / 36400 - MARIA JOSE COELHO DO NASCIMENTO - PE - Deputado Estadual;
+Diretório Estadual/Distrital;05.055.973/0001-41;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 574,00;Estimado;Direção Estadual/Distrital - PTC -  / 36400 - MARIA JOSE COELHO DO NASCIMENTO - PE - Deputado Estadual;
+Diretório Estadual/Distrital;05.055.973/0001-41;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;Direção Estadual/Distrital - PTC -  / 36400 - MARIA JOSE COELHO DO NASCIMENTO - PE - Deputado Estadual;
+JOSE ERIBERTO MEDEIROS DE OLIVEIRA;12.177.701/0001-80;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 40,00;Estimado;36111 -  - PTC -  - Deputado Estadual / 36400 - MARIA JOSE COELHO DO NASCIMENTO - PE - Deputado Estadual;
+SEVERINA JORGE DA SILVA;480.359.204-72;05/08/2010;       Despesas com pessoal;R$ 260,00;Cheque; -  -  / 36400 - MARIA JOSE COELHO DO NASCIMENTO - PE - Deputado Estadual;
+SEVERINA JORGE DA SILVA;480.359.204-72;05/08/2010;       Despesas com pessoal;R$ 44,20;Cheque; -  -  / 36400 - MARIA JOSE COELHO DO NASCIMENTO - PE - Deputado Estadual;
+;;05/08/2010;       Encargos financeiros e taxas bancárias;R$ 5,80;Débito em conta; -  -  / 36400 - MARIA JOSE COELHO DO NASCIMENTO - PE - Deputado Estadual;

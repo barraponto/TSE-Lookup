@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-BRUNO DE OLIVEIRA CHAGAS;099.337.037-30;25/07/2010;27000025510;R$ 100,00;Estimado;MARIA CRISTINA QUEIROZ MAIA;27017;Deputado Estadual;PSDC;RJ;
-LUIZ CARLOS RAMOS;12.176.885/0001-63;11/09/2010;27000025511;R$ 126,00;Estimado;MARIA CRISTINA QUEIROZ MAIA;27017;Deputado Estadual;PSDC;RJ;
-LUIZ CARLOS RAMOS;12.176.885/0001-63;19/09/2010;27000025512;R$ 600,00;Estimado;MARIA CRISTINA QUEIROZ MAIA;27017;Deputado Estadual;PSDC;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BRUNO DE OLIVEIRA CHAGAS;099.337.037-30;25/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado; -  -  / 27017 - MARIA CRISTINA QUEIROZ MAIA - RJ - Deputado Estadual;
+LUIZ CARLOS RAMOS;12.176.885/0001-63;19/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado;2727 -  - PSDC -  - Deputado Federal / 27017 - MARIA CRISTINA QUEIROZ MAIA - RJ - Deputado Estadual;
+LUIZ CARLOS RAMOS;12.176.885/0001-63;11/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 126,00;Estimado;2727 -  - PSDC -  - Deputado Federal / 27017 - MARIA CRISTINA QUEIROZ MAIA - RJ - Deputado Estadual;

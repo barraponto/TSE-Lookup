@@ -1,8 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-VANDERLAN MOURA;010.957.061-87;30/08/2010;44000004052;R$ 1.500,00;Transferência eletrônica;VANDERLAN MOURA JÚNIOR;4400;Deputado Federal;PRP;GO;
-VANDERLAN MOURA;010.957.061-87;31/08/2010;44000004054;R$ 2.390,00;Transferência eletrônica;VANDERLAN MOURA JÚNIOR;4400;Deputado Federal;PRP;GO;
-VANDERLAN MOURA;010.957.061-87;06/09/2010;44000004055;R$ 1.500,00;Transferência eletrônica;VANDERLAN MOURA JÚNIOR;4400;Deputado Federal;PRP;GO;
-VANDERLAN MOURA;010.957.061-87;13/09/2010;44000004056;R$ 500,00;Transferência eletrônica;VANDERLAN MOURA JÚNIOR;4400;Deputado Federal;PRP;GO;
-VANDERLAN MOURA;010.957.061-87;30/09/2010;44000004057;R$ 2.390,00;Transferência eletrônica;VANDERLAN MOURA JÚNIOR;4400;Deputado Federal;PRP;GO;
-VANDERLAN VIEIRA CARDOSO;12.198.568/0001-48;10/08/2010;44000004051;R$ 1.000,00;Outros títulos de crédito;VANDERLAN MOURA JÚNIOR;4400;Deputado Federal;PRP;GO;
-VANDERLAN VIEIRA CARDOSO;12.198.568/0001-48;01/10/2010;44000004053;R$ 447,00;Outros títulos de crédito;VANDERLAN MOURA JÚNIOR;4400;Deputado Federal;PRP;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA E EDITORA MULTI PRINT LTDA;04.149.439/0001-31;31/08/2010;       Publicidade por materiais impressos;R$ 4.780,00;Cheque; -  -  / 4400 - VANDERLAN MOURA JÚNIOR - GO - Deputado Federal;
+GRAFICA E EDITORA MULTI PRINT LTDA;04.149.439/0001-31;01/09/2010;       Publicidade por materiais impressos;R$ 470,00;Cheque; -  -  / 4400 - VANDERLAN MOURA JÚNIOR - GO - Deputado Federal;
+LEANDRO VIEIR DOS ANJOS;863.844.221-15;04/08/2010;       Publicidade por materiais impressos;R$ 3.000,00;Cheque; -  -  / 4400 - VANDERLAN MOURA JÚNIOR - GO - Deputado Federal;
+VANDERLAN MOURA;010.957.061-87;28/10/2010;       Despesas postais;R$ 2,00;Cheque; -  -  / 4400 - VANDERLAN MOURA JÚNIOR - GO - Deputado Federal;

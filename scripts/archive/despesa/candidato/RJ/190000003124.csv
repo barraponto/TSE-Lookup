@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.167/0001-85;04/08/2010;10000026561;R$ 1.633,00;Estimado;MARCOS ANTONIO CARDOSO MERLINO;10510;Deputado Estadual;PRB;RJ;
-Comitê Financeiro Único;12.200.167/0001-85;27/09/2010;10000026562;R$ 600,00;Estimado;MARCOS ANTONIO CARDOSO MERLINO;10510;Deputado Estadual;PRB;RJ;
-Comitê Financeiro Único;12.200.167/0001-85;27/09/2010;10000026563;R$ 300,00;Estimado;MARCOS ANTONIO CARDOSO MERLINO;10510;Deputado Estadual;PRB;RJ;
-MARCO ANTONIO BARBOSA DA SILVA;087.401.967-20;30/09/2010;10000026565;R$ 500,00;Estimado;MARCOS ANTONIO CARDOSO MERLINO;10510;Deputado Estadual;PRB;RJ;
-MARCOS ANTONIO CARDOSO MERLINO;806.082.307-82;21/09/2010;10000026564;R$ 320,00;Depósito em espécie;MARCOS ANTONIO CARDOSO MERLINO;10510;Deputado Estadual;PRB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ASL LEONEL COPIADORA PAP E BAZAR;11.128.000/0001-98;21/09/2010;       Publicidade por materiais impressos;R$ 320,00;Cheque; -  -  / 10510 - MARCOS ANTONIO CARDOSO MERLINO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.200.167/0001-85;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PRB -  / 10510 - MARCOS ANTONIO CARDOSO MERLINO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.200.167/0001-85;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado;Comitê Financeiro Único - PRB -  / 10510 - MARCOS ANTONIO CARDOSO MERLINO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.200.167/0001-85;04/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.633,00;Estimado;Comitê Financeiro Único - PRB -  / 10510 - MARCOS ANTONIO CARDOSO MERLINO - RJ - Deputado Estadual;
+MARCO ANTONIO BARBOSA DA SILVA;087.401.967-20;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 10510 - MARCOS ANTONIO CARDOSO MERLINO - RJ - Deputado Estadual;

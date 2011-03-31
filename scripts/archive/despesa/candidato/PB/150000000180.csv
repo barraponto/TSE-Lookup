@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-RICARDO VIEIRA COUTINHO;12.173.462/0001-90;09/08/2010;40001400801;R$ 125,00;Estimado;ROGERIO COUTINHO RAMOS;40005;Deputado Estadual;PSB;PB;
-RICARDO VIEIRA COUTINHO;12.173.462/0001-90;28/08/2010;40001400802;R$ 15,00;Estimado;ROGERIO COUTINHO RAMOS;40005;Deputado Estadual;PSB;PB;
-RICARDO VIEIRA COUTINHO;12.173.462/0001-90;01/10/2010;40001400806;R$ 1.192,50;Estimado;ROGERIO COUTINHO RAMOS;40005;Deputado Estadual;PSB;PB;
-RICARDO VIEIRA COUTINHO;12.173.462/0001-90;30/09/2010;40001400805;R$ 320,00;Estimado;ROGERIO COUTINHO RAMOS;40005;Deputado Estadual;PSB;PB;
-RICARDO VIEIRA COUTINHO;12.173.462/0001-90;30/09/2010;40001400803;R$ 48,00;Estimado;ROGERIO COUTINHO RAMOS;40005;Deputado Estadual;PSB;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+RICARDO VIEIRA COUTINHO;12.173.462/0001-90;09/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 125,00;Estimado;40 -  - PSB -  - Governador / 40005 - ROGERIO COUTINHO RAMOS - PB - Deputado Estadual;
+RICARDO VIEIRA COUTINHO;12.173.462/0001-90;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 48,00;Estimado;40 -  - PSB -  - Governador / 40005 - ROGERIO COUTINHO RAMOS - PB - Deputado Estadual;
+RICARDO VIEIRA COUTINHO;12.173.462/0001-90;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 320,00;Estimado;40 -  - PSB -  - Governador / 40005 - ROGERIO COUTINHO RAMOS - PB - Deputado Estadual;
+RICARDO VIEIRA COUTINHO;12.173.462/0001-90;28/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 15,00;Estimado;40 -  - PSB -  - Governador / 40005 - ROGERIO COUTINHO RAMOS - PB - Deputado Estadual;
+RICARDO VIEIRA COUTINHO;12.173.462/0001-90;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.192,50;Estimado;40 -  - PSB -  - Governador / 40005 - ROGERIO COUTINHO RAMOS - PB - Deputado Estadual;

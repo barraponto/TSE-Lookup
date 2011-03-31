@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-BENEDITO RANGEL;349.416.907-10;13/09/2010;43001506302;R$ 150,00;Depósito em espécie;BENEDITO RANGEL;43255;Deputado Estadual;PV;RJ;
-BENEDITO RANGEL;349.416.907-10;30/09/2010;;R$ 583,75;Estimado;BENEDITO RANGEL;43255;Deputado Estadual;PV;RJ;
-BENEDITO RANGEL;349.416.907-10;24/09/2010;43001506303;R$ 135,00;Depósito em espécie;BENEDITO RANGEL;43255;Deputado Estadual;PV;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BENEDITO RANGEL;349.416.907-10;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 583,75;Estimado; -  -  / 43255 - BENEDITO RANGEL - RJ - Deputado Estadual;
+GRAFICA GOMES LTDA;04.853.443/0001-86;27/09/2010;       Despesas postais;R$ 135,00;Cheque; -  -  / 43255 - BENEDITO RANGEL - RJ - Deputado Estadual;
+SERGIO LUIZ DE MEDEIROS;023.449.137-00;16/09/2010;       Despesas postais;R$ 150,00;Cheque; -  -  / 43255 - BENEDITO RANGEL - RJ - Deputado Estadual;

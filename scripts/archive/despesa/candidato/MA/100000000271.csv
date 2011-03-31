@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS ROBERTO GONÇALVES LOPES;149.257.101-68;13/08/2010;50000210271;R$ 620,00;Depósito em espécie;CLEUMIR PEREIRA LEAL;50;Vice-Governador;PSOL;MA;
-CLEUMIR PEREIRA LEAL;619.385.483-53;30/08/2010;50000210272;R$ 900,00;Depósito em espécie;CLEUMIR PEREIRA LEAL;50;Vice-Governador;PSOL;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO COIMBRA LTDA;01.265.747/0001-34;29/09/2010;       Combustíveis e lubrificantes;R$ 100,00;Cheque; -  -  / 50 - CLEUMIR PEREIRA LEAL - MA - Vice-Governador;
+BRASIL EDITORA E COMUNICAÇÃO VISUAL LTDA;11.008.407/0001-81;27/08/2010;       Publicidade por materiais impressos;R$ 1.170,00;Cheque; -  -  / 50 - CLEUMIR PEREIRA LEAL - MA - Vice-Governador;
+R. A. MATOS IND. E COMERCIO;06.637.111/0001-90;01/09/2010;       Publicidade por materiais impressos;R$ 240,00;Cheque; -  -  / 50 - CLEUMIR PEREIRA LEAL - MA - Vice-Governador;

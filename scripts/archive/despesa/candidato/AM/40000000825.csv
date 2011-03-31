@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;04.160.131/0001-97;21/09/2010;15000179721;R$ 435,00;Cheque;MARIA CLEIDE VIEIRA DA CUNHA SILVA;1510;Deputado Federal;PMDB;AM;
-Diretório Estadual/Distrital;04.160.131/0001-97;10/08/2010;15000179722;R$ 300,00;Estimado;MARIA CLEIDE VIEIRA DA CUNHA SILVA;1510;Deputado Federal;PMDB;AM;
-Diretório Estadual/Distrital;04.160.131/0001-97;30/09/2010;15000179723;R$ 750,00;Estimado;MARIA CLEIDE VIEIRA DA CUNHA SILVA;1510;Deputado Federal;PMDB;AM;
-FRANCISCO BATISTA DE FREITAS;034.996.692-34;26/08/2010;15000179725;R$ 1.824,00;Estimado;MARIA CLEIDE VIEIRA DA CUNHA SILVA;1510;Deputado Federal;PMDB;AM;
-LUIS CLAUDIO DA SILVAIRA GOMES;508.776.582-34;03/09/2010;15000179724;R$ 510,00;Estimado;MARIA CLEIDE VIEIRA DA CUNHA SILVA;1510;Deputado Federal;PMDB;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;04.160.131/0001-97;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 750,00;Estimado;Direção Estadual/Distrital - PMDB -  / 1510 - MARIA CLEIDE VIEIRA DA CUNHA SILVA - AM - Deputado Federal;
+Diretório Estadual/Distrital;04.160.131/0001-97;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Direção Estadual/Distrital - PMDB -  / 1510 - MARIA CLEIDE VIEIRA DA CUNHA SILVA - AM - Deputado Federal;
+FRANCISCO BATISTA DE FREITAS;034.996.692-34;26/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.824,00;Estimado; -  -  / 1510 - MARIA CLEIDE VIEIRA DA CUNHA SILVA - AM - Deputado Federal;
+GRAFISA- GRÁFICA  E EDITORA LTDA;03.633.502/0001-48;16/09/2010;       Publicidade por materiais impressos;R$ 435,00;Cheque; -  -  / 1510 - MARIA CLEIDE VIEIRA DA CUNHA SILVA - AM - Deputado Federal;
+LUIS CLAUDIO DA SILVAIRA GOMES;508.776.582-34;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 510,00;Estimado; -  -  / 1510 - MARIA CLEIDE VIEIRA DA CUNHA SILVA - AM - Deputado Federal;

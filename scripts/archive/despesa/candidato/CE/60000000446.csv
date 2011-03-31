@@ -1,4 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FRANCISCO EDILENO MATOS;283.851.793-72;21/07/2010;13000621301;R$ 500,00;Depósito em espécie;FRANCISCO EDILENO MATOS;13601;Deputado Estadual;PT;CE;
-FRANCISCO EDILENO MATOS;283.851.793-72;21/09/2010;13000621311;R$ 400,00;Depósito em espécie;FRANCISCO EDILENO MATOS;13601;Deputado Estadual;PT;CE;
-FRANCISCO EDILENO MATOS;283.851.793-72;27/08/2010;13000621310;R$ 200,00;Depósito em espécie;FRANCISCO EDILENO MATOS;13601;Deputado Estadual;PT;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AFONSO SIMPLICIO DE CASTRO;10.668.536/0001-33;28/07/2010;       Materiais de expediente;R$ 10,00;Transferência eletrônica; -  -  / 13601 - FRANCISCO EDILENO MATOS - CE - Deputado Estadual;
+ANTONIO FABRICIO AFONSO PROCOPIO MICROEMPRESA;10.593.049/0001-59;25/07/2010;       Publicidade por placas, estandartes e faixas;R$ 59,00;Transferência eletrônica; -  -  / 13601 - FRANCISCO EDILENO MATOS - CE - Deputado Estadual;
+C. C. TINTAS LTDA (TINTAS E COMPLEMENTOS);03.316.482/0002-62;21/07/2010;       Publicidade por placas, estandartes e faixas;R$ 108,00;Transferência eletrônica; -  -  / 13601 - FRANCISCO EDILENO MATOS - CE - Deputado Estadual;
+DANIEL FELICIO CHAVES;028.553.783-03;01/10/2010;       Publicidade por materiais impressos;R$ 420,00;Cheque; -  -  / 13601 - FRANCISCO EDILENO MATOS - CE - Deputado Estadual;
+DANIEL FELICIO CHAVES;028.553.783-03;27/08/2010;       Publicidade por materiais impressos;R$ 180,00;Cheque; -  -  / 13601 - FRANCISCO EDILENO MATOS - CE - Deputado Estadual;
+IVOVETE FERNANDES DE SOUZA ME (CRIATIVA PAPELARIA E VARIEDADES);02.386.440/0001-54;26/07/2010;       Materiais de expediente;R$ 4,00;Transferência eletrônica; -  -  / 13601 - FRANCISCO EDILENO MATOS - CE - Deputado Estadual;
+J..E. COMERCIO DE SUPRIMENTOS DE INFORMATICA LTDA (INFORMIDIA);08.332.062/0001-02;26/07/2010;       Materiais de expediente;R$ 38,00;Transferência eletrônica; -  -  / 13601 - FRANCISCO EDILENO MATOS - CE - Deputado Estadual;
+JP COMERCIO VAREJISTA DE COMBUSTIVEL LTDA;08.286.434/0001-01;23/07/2010;       Combustíveis e lubrificantes;R$ 50,00;Transferência eletrônica; -  -  / 13601 - FRANCISCO EDILENO MATOS - CE - Deputado Estadual;
+LUIZA NEIDE TOMAZ (CENTRAL DA CONSTRUÇÃO);01.749.151/0001-00;30/07/2010;       Publicidade por placas, estandartes e faixas;R$ 51,00;Transferência eletrônica; -  -  / 13601 - FRANCISCO EDILENO MATOS - CE - Deputado Estadual;
+STENIO SOARES PERSICO (PERSICO STUDIO AUDIO);560.058.493-87;26/07/2010;       Produção de jingles, vinhetas e slogans;R$ 180,00;Transferência eletrônica; -  -  / 13601 - FRANCISCO EDILENO MATOS - CE - Deputado Estadual;

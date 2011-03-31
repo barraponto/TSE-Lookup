@@ -1,3 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÕES 2010 FLAVIANO F. B. DE MELO DEPUTADO FEDERAL;12.175.456/0001-71;13/09/2010;15000209782;R$ 5.000,00;Cheque;FRANCISCO DAS CHAGAS BELO DE OLIVEIRA;15111;Deputado Estadual;PMDB;AC;
-ELEIÇÕES 2010 FLAVIANO F. B. DE MELO DEPUTADO FEDERAL;12.175.456/0001-71;04/08/2010;15000209781;R$ 2.000,00;Cheque;FRANCISCO DAS CHAGAS BELO DE OLIVEIRA;15111;Deputado Estadual;PMDB;AC;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÕES 2010 FRANCISCO DAS CHAGAS BELO DE OLIVEIRA DEPUTADO ESTADUAL;04.514.550/0001-80;19/10/2010;       Diversas a especificar;R$ 4,20;Transferência eletrônica; -  -  / 15111 - FRANCISCO DAS CHAGAS BELO DE OLIVEIRA - AC - Deputado Estadual;
+G.S. SILVEIRA - ME;84.313.923/0001-93;30/08/2010;       Publicidade por placas, estandartes e faixas;R$ 400,00;Cheque; -  -  / 15111 - FRANCISCO DAS CHAGAS BELO DE OLIVEIRA - AC - Deputado Estadual;
+G.S. SILVEIRA - ME;84.313.923/0001-93;10/08/2010;       Publicidade por materiais impressos;R$ 470,00;Cheque; -  -  / 15111 - FRANCISCO DAS CHAGAS BELO DE OLIVEIRA - AC - Deputado Estadual;
+JANAINA CAMPELO DA SILVA;982.399.612-15;15/09/2010;       Cessão ou Locação de Veículos;R$ 2.500,00;Cheque; -  -  / 15111 - FRANCISCO DAS CHAGAS BELO DE OLIVEIRA - AC - Deputado Estadual;
+JOSE ALBERTO DE OLIVEIRA;216.315.062-34;15/09/2010;       Cessão ou Locação de Veículos;R$ 2.500,00;Cheque; -  -  / 15111 - FRANCISCO DAS CHAGAS BELO DE OLIVEIRA - AC - Deputado Estadual;
+N.C.BESA - ME;08.262.360/0001-73;15/09/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 15111 - FRANCISCO DAS CHAGAS BELO DE OLIVEIRA - AC - Deputado Estadual;
+POSTO TRIANGULO LTDA.;04.045.191/0001-69;21/09/2010;       Combustíveis e lubrificantes;R$ 720,00;Cheque; -  -  / 15111 - FRANCISCO DAS CHAGAS BELO DE OLIVEIRA - AC - Deputado Estadual;
+;;10/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 15111 - FRANCISCO DAS CHAGAS BELO DE OLIVEIRA - AC - Deputado Estadual;
+;;15/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 15111 - FRANCISCO DAS CHAGAS BELO DE OLIVEIRA - AC - Deputado Estadual;

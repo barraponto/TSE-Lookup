@@ -1,3 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;09.057.316/0001-94;17/08/2010;25000543886;R$ 2.000,00;Depósito em espécie;JOSÉ CARLOS ÂNGELO DA SILVA;25999;Deputado Estadual;DEM;PE;
-JOSÉ MENDONÇA BEZERRA FILHO;12.176.573/0001-50;09/09/2010;25000543887;R$ 3.000,00;Depósito em espécie;JOSÉ CARLOS ÂNGELO DA SILVA;25999;Deputado Estadual;DEM;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EDVALDO WANDERLEY MARQUES DA SILVA;572.693.944-15;10/09/2010;       Cessão ou Locação de Veículos;R$ 2.000,00;Não informado; -  -  / 25999 - JOSÉ CARLOS ÂNGELO DA SILVA - PE - Deputado Estadual;
+EDVALDO WANDERLEY MARQUES DA SILVA;572.693.944-15;09/09/2010;       Publicidade por carros de som;R$ 995,00;Não informado; -  -  / 25999 - JOSÉ CARLOS ÂNGELO DA SILVA - PE - Deputado Estadual;
+ROGÉRIO RIBEIRO DE SOUZA;044.161.604-61;19/08/2010;       Cessão ou Locação de Veículos;R$ 2.000,00;Não informado; -  -  / 25999 - JOSÉ CARLOS ÂNGELO DA SILVA - PE - Deputado Estadual;
+;;09/09/2010;       Encargos financeiros e taxas bancárias;R$ 4,50;Débito em conta; -  -  / 25999 - JOSÉ CARLOS ÂNGELO DA SILVA - PE - Deputado Estadual;

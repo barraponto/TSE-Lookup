@@ -1,8 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;13/09/2010;17000072802;R$ 630,00;Estimado;ROQUE PASETTI;17945;Deputado Estadual;PSL;PR;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;21/09/2010;17000072804;R$ 500,00;Estimado;ROQUE PASETTI;17945;Deputado Estadual;PSL;PR;
-GUSTAVO BONAT FRUET;12.179.221/0001-58;23/09/2010;17000072806;R$ 400,00;Estimado;ROQUE PASETTI;17945;Deputado Estadual;PSL;PR;
-JACOB ALFREDO KAEFER;12.173.862/0001-03;01/10/2010;17000073096;R$ 155,00;Estimado;ROQUE PASETTI;17945;Deputado Estadual;PSL;PR;
-JACOB ALFREDO KAEFER;12.173.862/0001-03;30/09/2010;17000073095;R$ 60,75;Estimado;ROQUE PASETTI;17945;Deputado Estadual;PSL;PR;
-RICARDO JOSÉ MAGALHÃES BARROS;12.190.665/0001-94;27/09/2010;17000072805;R$ 450,00;Estimado;ROQUE PASETTI;17945;Deputado Estadual;PSL;PR;
-ROQUE PASETTI;027.906.299-00;25/09/2010;17000072803;R$ 300,00;Depósito em espécie;ROQUE PASETTI;17945;Deputado Estadual;PSL;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO CORTEZIA LTDA.;77.173.839/0001-56;02/10/2010;       Combustíveis e lubrificantes;R$ 46,65;Cheque; -  -  / 17945 - ROQUE PASETTI - PR - Deputado Estadual;
+AUTO POSTO CORTEZIA LTDA.;77.173.839/0001-56;19/09/2010;       Combustíveis e lubrificantes;R$ 253,00;Cheque; -  -  / 17945 - ROQUE PASETTI - PR - Deputado Estadual;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;45 -  - PSDB -  - Governador / 17945 - ROQUE PASETTI - PR - Deputado Estadual;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;13/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 630,00;Estimado;45 -  - PSDB -  - Governador / 17945 - ROQUE PASETTI - PR - Deputado Estadual;
+GUSTAVO BONAT FRUET;12.179.221/0001-58;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado;456 -  - PSDB -  - Senador / 17945 - ROQUE PASETTI - PR - Deputado Estadual;
+JACOB ALFREDO KAEFER;12.173.862/0001-03;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 60,75;Estimado;4566 -  - PSDB -  - Deputado Federal / 17945 - ROQUE PASETTI - PR - Deputado Estadual;
+JACOB ALFREDO KAEFER;12.173.862/0001-03;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 155,00;Estimado;4566 -  - PSDB -  - Deputado Federal / 17945 - ROQUE PASETTI - PR - Deputado Estadual;
+RICARDO JOSÉ MAGALHÃES BARROS;12.190.665/0001-94;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 450,00;Estimado;111 -  - PP -  - Senador / 17945 - ROQUE PASETTI - PR - Deputado Estadual;
+;;20/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 17945 - ROQUE PASETTI - PR - Deputado Estadual;

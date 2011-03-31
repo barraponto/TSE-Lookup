@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-NELSON FRANCISCO MARZULLO MAIA;704.371.227-00;02/09/2010;33000124912;R$ 200,00;Depósito em espécie;NELSON FRANCISCO MARZULLO MAIA;3333;Deputado Federal;PMN;PA;
-NELSON FRANCISCO MARZULLO MAIA;704.371.227-00;13/08/2010;33000124911;R$ 100,00;Depósito em espécie;NELSON FRANCISCO MARZULLO MAIA;3333;Deputado Federal;PMN;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+VINICIUS MACIEL GOMES;004.008.452-37;02/09/2010;       Serviços prestados por terceiros;R$ 100,00;Cheque; -  -  / 3333 - NELSON FRANCISCO MARZULLO MAIA - PA - Deputado Federal;
+VINICIUS MACIEL GOMES;004.008.452-37;02/09/2010;       Serviços prestados por terceiros;R$ 100,00;Cheque; -  -  / 3333 - NELSON FRANCISCO MARZULLO MAIA - PA - Deputado Federal;
+VINICIUS MACIEL GOMES;004.008.452-37;16/08/2010;       Serviços prestados por terceiros;R$ 100,00;Cheque; -  -  / 3333 - NELSON FRANCISCO MARZULLO MAIA - PA - Deputado Federal;

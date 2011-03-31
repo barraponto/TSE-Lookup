@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-RODRIGO DO VALE PEIXOTO;879.839.404-59;27/07/2010;33000085991;R$ 520,00;Depósito em espécie;RODRIGO DO VALE PEIXOTO;33654;Deputado Estadual;PMN;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+MARCOGRAF GRÁFICA LTDA;02.963.095/0001-74;27/07/2010;       Publicidade por materiais impressos;R$ 520,00;Cheque; -  -  / 33654 - RODRIGO DO VALE PEIXOTO - CE - Deputado Estadual;

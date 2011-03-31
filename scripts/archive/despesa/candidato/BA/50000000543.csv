@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;44000008802;R$ 763,20;Estimado;MARIA IRACEMA DOS SANTOS SOUZA;44001;Deputado Estadual;PRP;BA;
-Comitê Financeiro Único;12.191.570/0001-95;31/07/2010;44000008801;R$ 192,00;Estimado;MARIA IRACEMA DOS SANTOS SOUZA;44001;Deputado Estadual;PRP;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 763,20;Estimado;Comitê Financeiro Único - PMDB -  / 44001 - MARIA IRACEMA DOS SANTOS SOUZA - BA - Deputado Estadual;
+Comitê Financeiro Único;12.191.570/0001-95;31/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 192,00;Estimado;Comitê Financeiro Único - PMDB -  / 44001 - MARIA IRACEMA DOS SANTOS SOUZA - BA - Deputado Estadual;

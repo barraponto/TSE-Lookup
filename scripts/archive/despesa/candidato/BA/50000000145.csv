@@ -1,7 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALBRY ALVES DA ANUNCIAÇÃO;497.735.345-53;23/07/2010;43001853951;R$ 100,00;Transferência eletrônica;ALBRY ALVES DA ANUNCIACAO;43023;Deputado Estadual;PV;BA;
-ALBRY ALVES DA ANUNCIAÇÃO;497.735.345-53;27/07/2010;43001853953;R$ 315,00;Depósito em espécie;ALBRY ALVES DA ANUNCIACAO;43023;Deputado Estadual;PV;BA;
-ALBRY ALVES DA ANUNCIAÇÃO;497.735.345-53;20/09/2010;43001853957;R$ 160,00;Depósito em espécie;ALBRY ALVES DA ANUNCIACAO;43023;Deputado Estadual;PV;BA;
-ALBRY ALVES DA ANUNCIAÇÃO;497.735.345-53;28/07/2010;43001853955;R$ 90,00;Depósito em espécie;ALBRY ALVES DA ANUNCIACAO;43023;Deputado Estadual;PV;BA;
-ALBRY ALVES DA ANUNCIAÇÃO;497.735.345-53;29/07/2010;43001853956;R$ 1.000,00;Depósito em espécie;ALBRY ALVES DA ANUNCIACAO;43023;Deputado Estadual;PV;BA;
-ALBRY ALVES DA ANUNCIAÇÃO;497.735.345-53;28/07/2010;43001853954;R$ 105,00;Depósito em espécie;ALBRY ALVES DA ANUNCIACAO;43023;Deputado Estadual;PV;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+REINALDO SANTOS OLIVEIRA ME;10.467.729/0001-26;20/08/2010;       Publicidade por materiais impressos;R$ 970,00;Cheque; -  -  / 43023 - ALBRY ALVES DA ANUNCIACAO - BA - Deputado Estadual;
+TELEMAR NORTE LESTE S/A;33.000.118/0005-00;25/08/2010;       Telefone;R$ 158,26;Cheque; -  -  / 43023 - ALBRY ALVES DA ANUNCIACAO - BA - Deputado Estadual;
+VALTER QUEIROZ ELSUFF;05.968.174/0001-66;31/08/2010;       Publicidade por placas, estandartes e faixas;R$ 175,00;Transferência eletrônica; -  -  / 43023 - ALBRY ALVES DA ANUNCIACAO - BA - Deputado Estadual;
+VDM COMÉRCIO DE ARTIGOS P/FESTAS LTDA;07.681.468/0001-38;29/07/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 43023 - ALBRY ALVES DA ANUNCIACAO - BA - Deputado Estadual;
+VDM COMÉRCIO DE ARTIGOS P/FESTAS LTDA;07.681.468/0001-38;29/07/2010;       Publicidade por placas, estandartes e faixas;R$ 260,00;Cheque; -  -  / 43023 - ALBRY ALVES DA ANUNCIACAO - BA - Deputado Estadual;

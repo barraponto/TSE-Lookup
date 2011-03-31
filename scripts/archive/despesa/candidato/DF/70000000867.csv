@@ -1,6 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-WELLINGTON MOREIRA DE JESUS;309.840.331-49;26/07/2010;43001787701;R$ 2.000,00;Estimado;WELLINGTON MOREIRA DE JESUS;4367;Deputado Federal;PV;DF;
-WELLINGTON MOREIRA DE JESUS;309.840.331-49;29/07/2010;43001787702;R$ 2.000,00;Estimado;WELLINGTON MOREIRA DE JESUS;4367;Deputado Federal;PV;DF;
-WELLINGTON MOREIRA DE JESUS;309.840.331-49;23/09/2010;43001787705;R$ 1.500,00;Depósito em espécie;WELLINGTON MOREIRA DE JESUS;4367;Deputado Federal;PV;DF;
-WELLINGTON MOREIRA DE JESUS;309.840.331-49;09/09/2010;43001787704;R$ 1.500,00;Depósito em espécie;WELLINGTON MOREIRA DE JESUS;4367;Deputado Federal;PV;DF;
-WELLINGTON MOREIRA DE JESUS;309.840.331-49;17/08/2010;43001787703;R$ 2.500,00;Estimado;WELLINGTON MOREIRA DE JESUS;4367;Deputado Federal;PV;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ART LED SERIGRAFIA;04.998.748/0001-86;30/07/2010;       Publicidade por materiais impressos;R$ 320,00;Não informado; -  -  / 4367 - WELLINGTON MOREIRA DE JESUS - DF - Deputado Federal;
+CMYK7;10.459.254/0001-26;25/09/2010;       Publicidade por materiais impressos;R$ 3.285,00;Não informado; -  -  / 4367 - WELLINGTON MOREIRA DE JESUS - DF - Deputado Federal;
+GRAFICA SANTA BARBARA;01.034.354/0001-10;16/09/2010;       Publicidade por materiais impressos;R$ 1.515,00;Não informado; -  -  / 4367 - WELLINGTON MOREIRA DE JESUS - DF - Deputado Federal;
+GRAFICA SANTA BARBARA;01.034.354/0001-10;25/08/2010;       Publicidade por materiais impressos;R$ 2.500,00;Não informado; -  -  / 4367 - WELLINGTON MOREIRA DE JESUS - DF - Deputado Federal;
+RIBEIRO COMUNICACOES E EVENTOS LTDA;04.714.842/0001-66;26/07/2010;       Publicidade por materiais impressos;R$ 1.400,00;Não informado; -  -  / 4367 - WELLINGTON MOREIRA DE JESUS - DF - Deputado Federal;
+TOQUE MAGICO;05.403.690/0001-43;02/08/2010;       Publicidade por materiais impressos;R$ 480,00;Não informado; -  -  / 4367 - WELLINGTON MOREIRA DE JESUS - DF - Deputado Federal;
+WELLINGTON MOREIRA DE JESUS;309.840.331-49;26/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado; -  -  / 4367 - WELLINGTON MOREIRA DE JESUS - DF - Deputado Federal;
+WELLINGTON MOREIRA DE JESUS;309.840.331-49;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.500,00;Estimado; -  -  / 4367 - WELLINGTON MOREIRA DE JESUS - DF - Deputado Federal;
+WELLINGTON MOREIRA DE JESUS;309.840.331-49;29/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado; -  -  / 4367 - WELLINGTON MOREIRA DE JESUS - DF - Deputado Federal;

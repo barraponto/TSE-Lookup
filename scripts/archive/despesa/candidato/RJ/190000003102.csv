@@ -1,4 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.200.167/0001-85;04/08/2010;10000026201;R$ 1.633,00;Estimado;IRINEU SOARES VICENTE;10115;Deputado Estadual;PRB;RJ;
-;;13/08/2010;;R$ 1.000,00;Não informado;IRINEU SOARES VICENTE;10115;Deputado Estadual;PRB;RJ;
-;;11/08/2010;;R$ 3.200,00;Não informado;IRINEU SOARES VICENTE;10115;Deputado Estadual;PRB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.200.167/0001-85;04/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.633,00;Estimado;Direção Estadual/Distrital - PRB -  / 10115 - IRINEU SOARES VICENTE - RJ - Deputado Estadual;

@@ -1,5 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO JOSE DE SANTANA;103.605.734-87;04/08/2010;31000041726;R$ 700,00;Estimado;GLEDSON CAMARGO PIMENTEL;31123;Deputado Estadual;PHS;PE;
-GLEDSON CAMARGO PIMENTEL;020.790.424-32;01/11/2010;31000041730;R$ 1.775,00;Depósito em espécie;GLEDSON CAMARGO PIMENTEL;31123;Deputado Estadual;PHS;PE;
-GLEDSON CAMARGO PIMENTEL;020.790.424-32;24/09/2010;31000041727;R$ 3.300,00;Depósito em espécie;GLEDSON CAMARGO PIMENTEL;31123;Deputado Estadual;PHS;PE;
-VALTER JOSE PIMENTEL JUNIOR;577.792.444-15;30/09/2010;31000041729;R$ 1.600,00;Estimado;GLEDSON CAMARGO PIMENTEL;31123;Deputado Estadual;PHS;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO JOSE DE SANTANA;103.605.734-87;04/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 700,00;Estimado; -  -  / 31123 - GLEDSON CAMARGO PIMENTEL - PE - Deputado Estadual;
+CARLOS EDUARDO DA SILVA SANTOS;050.558.024-13;24/09/2010;       Serviços prestados por terceiros;R$ 720,00;Cheque; -  -  / 31123 - GLEDSON CAMARGO PIMENTEL - PE - Deputado Estadual;
+OLINDA COMUNICAÇÃO VISUAL LTDA;04.918.831/0001-06;01/10/2010;       Publicidade por materiais impressos;R$ 955,00;Cheque; -  -  / 31123 - GLEDSON CAMARGO PIMENTEL - PE - Deputado Estadual;
+OLINDA COMUNICAÇÃO VISUAL LTDA;04.918.831/0001-06;01/10/2010;       Publicidade por materiais impressos;R$ 900,00;Cheque; -  -  / 31123 - GLEDSON CAMARGO PIMENTEL - PE - Deputado Estadual;
+SILVIO BORBA DE MORAIS;35.705.946/0001-38;24/09/2010;       Publicidade por materiais impressos;R$ 2.500,00;Cheque; -  -  / 31123 - GLEDSON CAMARGO PIMENTEL - PE - Deputado Estadual;
+VALTER JOSE PIMENTEL JUNIOR;577.792.444-15;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.600,00;Estimado; -  -  / 31123 - GLEDSON CAMARGO PIMENTEL - PE - Deputado Estadual;

@@ -1,5 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.191.570/0001-95;30/09/2010;15000055452;R$ 56,40;Estimado;IARA MARIA SOLANGE VILASBOAS LAMA;15700;Deputado Estadual;PMDB;BA;
-Diretório Estadual/Distrital;12.191.570/0001-95;30/09/2010;15000055453;R$ 190,80;Estimado;IARA MARIA SOLANGE VILASBOAS LAMA;15700;Deputado Estadual;PMDB;BA;
-IARA MARIA SOLANGE VILAS BOAS LAMA;084.189.185-00;24/08/2010;15000055454;R$ 1.000,00;Depósito em espécie;IARA MARIA SOLANGE VILASBOAS LAMA;15700;Deputado Estadual;PMDB;BA;
-IARA MARIA SOLANGE VILAS BOAS LAMA;084.189.185-00;24/09/2010;15000055455;R$ 1.000,00;Depósito em espécie;IARA MARIA SOLANGE VILASBOAS LAMA;15700;Deputado Estadual;PMDB;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 56,40;Estimado;Direção Estadual/Distrital - PMDB -  / 15700 - IARA MARIA SOLANGE VILASBOAS LAMA - BA - Deputado Estadual;
+Diretório Estadual/Distrital;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 190,80;Estimado;Direção Estadual/Distrital - PMDB -  / 15700 - IARA MARIA SOLANGE VILASBOAS LAMA - BA - Deputado Estadual;
+EMPRESA EDITORA A TARDE S.A;15.111.297/0001-30;26/09/2010;       Publicidade por jornais e revistas;R$ 637,00;Cheque; -  -  / 15700 - IARA MARIA SOLANGE VILASBOAS LAMA - BA - Deputado Estadual;
+HERNISSON HARLAW F DOS SANTOS;016.602.885-17;31/08/2010;       Despesas com pessoal;R$ 300,00;Cheque; -  -  / 15700 - IARA MARIA SOLANGE VILASBOAS LAMA - BA - Deputado Estadual;
+HERNISSON HARLAW F DOS SANTOS;016.602.885-17;30/09/2010;       Despesas com pessoal;R$ 150,00;Cheque; -  -  / 15700 - IARA MARIA SOLANGE VILASBOAS LAMA - BA - Deputado Estadual;
+MANUEL MESSIAS M SILVA;229.387.025-15;26/08/2010;       Despesas com pessoal;R$ 100,00;Cheque; -  -  / 15700 - IARA MARIA SOLANGE VILASBOAS LAMA - BA - Deputado Estadual;
+MANUEL MESSIAS M SILVA;229.387.025-15;21/09/2010;       Despesas com pessoal;R$ 120,00;Cheque; -  -  / 15700 - IARA MARIA SOLANGE VILASBOAS LAMA - BA - Deputado Estadual;
+MANUEL MESSIAS M SILVA;229.387.025-15;30/09/2010;       Despesas com pessoal;R$ 200,00;Cheque; -  -  / 15700 - IARA MARIA SOLANGE VILASBOAS LAMA - BA - Deputado Estadual;
+MANUEL MESSIAS M SILVA;229.387.025-15;22/10/2010;       Diversas a especificar;R$ 33,00;Transferência eletrônica; -  -  / 15700 - IARA MARIA SOLANGE VILASBOAS LAMA - BA - Deputado Estadual;
+MANUEL MESSIAS M SILVA;229.387.025-15;24/08/2010;       Despesas com pessoal;R$ 100,00;Cheque; -  -  / 15700 - IARA MARIA SOLANGE VILASBOAS LAMA - BA - Deputado Estadual;
+MANUEL MESSIAS M SILVA;229.387.025-15;09/09/2010;       Despesas com pessoal;R$ 360,00;Cheque; -  -  / 15700 - IARA MARIA SOLANGE VILASBOAS LAMA - BA - Deputado Estadual;

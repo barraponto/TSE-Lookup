@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;20000075309;R$ 666,76;Estimado;JOSEVALDO OLIVEIRA DOS SANTOS;2011;Deputado Federal;PSC;BA;
-ELMO RIBEIRO DA COSTA;802.193.065-91;05/09/2010;20000075308;R$ 510,00;Estimado;JOSEVALDO OLIVEIRA DOS SANTOS;2011;Deputado Federal;PSC;BA;
-GEDDEL QUADROS VIEIRA LIMA;12.173.503/0001-48;31/07/2010;20000075301;R$ 192,00;Estimado;JOSEVALDO OLIVEIRA DOS SANTOS;2011;Deputado Federal;PSC;BA;
-GEDDEL QUADROS VIEIRA LIMA;12.173.503/0001-48;30/08/2010;20000075303;R$ 204,00;Estimado;JOSEVALDO OLIVEIRA DOS SANTOS;2011;Deputado Federal;PSC;BA;
-JOSEVALDO OLIVEIRA DOS SANTOS;508.418.075-15;03/08/2010;20000075302;R$ 1.860,00;Estimado;JOSEVALDO OLIVEIRA DOS SANTOS;2011;Deputado Federal;PSC;BA;
-JOSEVALDO OLIVEIRA DOS SANTOS;508.418.075-15;01/09/2010;20000075304;R$ 220,00;Depósito em espécie;JOSEVALDO OLIVEIRA DOS SANTOS;2011;Deputado Federal;PSC;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 666,76;Estimado;Comitê Financeiro Único - PMDB -  / 2011 - JOSEVALDO OLIVEIRA DOS SANTOS - BA - Deputado Federal;
+ELMO RIBEIRO DA COSTA;802.193.065-91;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 510,00;Estimado; -  -  / 2011 - JOSEVALDO OLIVEIRA DOS SANTOS - BA - Deputado Federal;
+GEDDEL QUADROS VIEIRA LIMA;12.173.503/0001-48;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 204,00;Estimado;15 -  - PMDB -  - Governador / 2011 - JOSEVALDO OLIVEIRA DOS SANTOS - BA - Deputado Federal;
+GEDDEL QUADROS VIEIRA LIMA;12.173.503/0001-48;31/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 192,00;Estimado;15 -  - PMDB -  - Governador / 2011 - JOSEVALDO OLIVEIRA DOS SANTOS - BA - Deputado Federal;
+JOSEVALDO OLIVEIRA DOS SANTOS;508.418.075-15;03/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.860,00;Estimado; -  -  / 2011 - JOSEVALDO OLIVEIRA DOS SANTOS - BA - Deputado Federal;
+POSTO MATARIPE;13.578.265/0001-13;01/09/2010;       Combustíveis e lubrificantes;R$ 200,00;Cheque; -  -  / 2011 - JOSEVALDO OLIVEIRA DOS SANTOS - BA - Deputado Federal;

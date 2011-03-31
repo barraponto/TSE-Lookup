@@ -1,4 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADALBERTO ALENCAR ALVES;981.782.705-44;21/09/2010;50000334892;R$ 1.500,00;Depósito em espécie;ADALBERTO ALENCAR ALVES;50500;Deputado Estadual;PSOL;PE;
-ADALBERTO ALENCAR ALVES;981.782.705-44;23/09/2010;50000334893;R$ 500,00;Depósito em espécie;ADALBERTO ALENCAR ALVES;50500;Deputado Estadual;PSOL;PE;
-FRANCISCO ASSIS MATOS ALENCAR JUNIOR;295.437.034-34;18/08/2010;50000334891;R$ 200,00;Depósito em espécie;ADALBERTO ALENCAR ALVES;50500;Deputado Estadual;PSOL;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CRISTINA E SANDRO OURICURI COM.REP.LTDA;01.825.577/0001-03;26/08/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 50500 - ADALBERTO ALENCAR ALVES - PE - Deputado Estadual;
+GILDERLANIO DE LIMA CRUZ - ME;11.354.720/0001-71;23/09/2010;       Publicidade por materiais impressos;R$ 2.000,00;Cheque; -  -  / 50500 - ADALBERTO ALENCAR ALVES - PE - Deputado Estadual;

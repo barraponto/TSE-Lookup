@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-HENRIQUE FIORAVANTE MIGUEL LOPEZ;990.413.670-04;02/09/2010;70000183502;R$ 600,00;Estimado;MARCIA ALCARA DONINI;70123;Deputado Estadual;PT do B;RS;
-MARCIA ALCARÁ DONINI;608.541.460-91;17/09/2010;70000183505;R$ 165,00;Transferência eletrônica;MARCIA ALCARA DONINI;70123;Deputado Estadual;PT do B;RS;
-YEDA RONATO CRUSIUS;12.172.247/0001-74;30/08/2010;70000183501;R$ 600,00;Estimado;MARCIA ALCARA DONINI;70123;Deputado Estadual;PT do B;RS;
-YEDA RONATO CRUSIUS;12.172.247/0001-74;03/10/2010;70000183504;R$ 594,00;Estimado;MARCIA ALCARA DONINI;70123;Deputado Estadual;PT do B;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+HENRIQUE FIORAVANTE MIGUEL LOPEZ;990.413.670-04;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado; -  -  / 70123 - MARCIA ALCARA DONINI - RS - Deputado Estadual;
+JOSÉ LUIZ DIAS SCHERVENSKI;05.492.829/0001-72;17/09/2010;       Publicidade por carros de som;R$ 165,00;Cheque; -  -  / 70123 - MARCIA ALCARA DONINI - RS - Deputado Estadual;
+YEDA RONATO CRUSIUS;12.172.247/0001-74;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado;45 -  - PSDB -  - Governador / 70123 - MARCIA ALCARA DONINI - RS - Deputado Estadual;
+YEDA RONATO CRUSIUS;12.172.247/0001-74;03/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 594,00;Estimado;45 -  - PSDB -  - Governador / 70123 - MARCIA ALCARA DONINI - RS - Deputado Estadual;

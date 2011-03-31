@@ -1,3 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FRANCISCO LOPES DA SILVA;12.168.619/0001-99;10/09/2010;65000117242;R$ 1.500,00;Cheque;JOSE MARIA DE OLIVEIRA AVELINO;65678;Deputado Estadual;PC do B;CE;
-FRANCISCO LOPES DA SILVA;12.168.619/0001-99;01/08/2010;65000117241;R$ 1.500,00;Cheque;JOSE MARIA DE OLIVEIRA AVELINO;65678;Deputado Estadual;PC do B;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CLEIA VICENTE DA SILVA GILDO;534.309.643-34;06/09/2010;       Serviços prestados por terceiros;R$ 300,00;Transferência eletrônica; -  -  / 65678 - JOSE MARIA DE OLIVEIRA AVELINO - CE - Deputado Estadual;
+CLEIA VICENTE DA SILVA GILDO;534.309.643-34;14/09/2010;       Serviços prestados por terceiros;R$ 200,00;Transferência eletrônica; -  -  / 65678 - JOSE MARIA DE OLIVEIRA AVELINO - CE - Deputado Estadual;
+ELIANO FELIPE DA SILVA;015.652.233-06;14/09/2010;       Serviços prestados por terceiros;R$ 500,00;Cheque; -  -  / 65678 - JOSE MARIA DE OLIVEIRA AVELINO - CE - Deputado Estadual;
+FRANCISCA EUDILAIA LEMOS RODRIGUES;047.876.363-83;14/09/2010;       Serviços prestados por terceiros;R$ 200,00;Transferência eletrônica; -  -  / 65678 - JOSE MARIA DE OLIVEIRA AVELINO - CE - Deputado Estadual;
+FRANCISCA EUDILAIA LEMOS RODRIGUES;047.876.363-83;06/09/2010;       Serviços prestados por terceiros;R$ 300,00;Transferência eletrônica; -  -  / 65678 - JOSE MARIA DE OLIVEIRA AVELINO - CE - Deputado Estadual;
+FRANCISCO EVANDIR LOPES DOS SANTOS;815.889.923-49;14/09/2010;       Serviços prestados por terceiros;R$ 200,00;Transferência eletrônica; -  -  / 65678 - JOSE MARIA DE OLIVEIRA AVELINO - CE - Deputado Estadual;
+FRANCISCO EVANDIR LOPES DOS SANTOS;815.889.923-49;06/09/2010;       Serviços prestados por terceiros;R$ 300,00;Transferência eletrônica; -  -  / 65678 - JOSE MARIA DE OLIVEIRA AVELINO - CE - Deputado Estadual;
+FRANCISCO EVANDRO LOPES DOS SANTOS;781.611.693-49;14/09/2010;       Serviços prestados por terceiros;R$ 200,00;Transferência eletrônica; -  -  / 65678 - JOSE MARIA DE OLIVEIRA AVELINO - CE - Deputado Estadual;
+FRANCISCO EVANDRO LOPES DOS SANTOS;781.611.693-49;06/09/2010;       Serviços prestados por terceiros;R$ 300,00;Transferência eletrônica; -  -  / 65678 - JOSE MARIA DE OLIVEIRA AVELINO - CE - Deputado Estadual;
+RUTE ALVES GOMES;017.733.443-66;06/09/2010;       Serviços prestados por terceiros;R$ 300,00;Transferência eletrônica; -  -  / 65678 - JOSE MARIA DE OLIVEIRA AVELINO - CE - Deputado Estadual;
+RUTE ALVES GOMES;017.733.443-66;14/09/2010;       Serviços prestados por terceiros;R$ 200,00;Transferência eletrônica; -  -  / 65678 - JOSE MARIA DE OLIVEIRA AVELINO - CE - Deputado Estadual;

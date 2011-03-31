@@ -1,4 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALEXANDRE DE AGUIAR ROCHA;547.030.936-34;12/08/2010;50000233351;R$ 450,00;Cheque;SERAPIAO CANDIDO DA SILVA NETO;50110;Deputado Estadual;PSOL;MG;
-VALDINEI CANDIDO DA SILVA;135.571.728-05;15/08/2010;50000233353;R$ 80,00;Depósito em espécie;SERAPIAO CANDIDO DA SILVA NETO;50110;Deputado Estadual;PSOL;MG;
-WILLIAM PARANHOS;823.093.106-20;12/08/2010;50000233352;R$ 70,00;Depósito em espécie;SERAPIAO CANDIDO DA SILVA NETO;50110;Deputado Estadual;PSOL;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFCENTER  LTDA;09.509.637/0001-82;06/09/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 50110 - SERAPIAO CANDIDO DA SILVA NETO - MG - Deputado Estadual;

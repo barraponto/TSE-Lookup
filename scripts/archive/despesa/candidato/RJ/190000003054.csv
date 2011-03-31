@@ -1,3 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSIAS DA CRUZ CARNEIRO;757.454.617-72;14/09/2010;65000141102;R$ 650,00;Depósito em espécie;SILVANA DA CRUZ CARNEIRO;6516;Deputado Federal;PC do B;RJ;
-JOSIAS DA CRUZ CARNEIRO;757.454.617-72;23/08/2010;65000141101;R$ 2.000,00;Depósito em espécie;SILVANA DA CRUZ CARNEIRO;6516;Deputado Federal;PC do B;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+A. PARAVIDINE CONSERTOS DE MOVEIS E CANA DA INDIA;31.600.869/0001-09;23/08/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 6516 - SILVANA DA CRUZ CARNEIRO - RJ - Deputado Federal;
+A. PARAVIDINE CONSERTOS DE MOVEIS E CANA DA INDIA;31.600.869/0001-09;26/08/2010;       Publicidade por placas, estandartes e faixas;R$ 780,00;Cheque; -  -  / 6516 - SILVANA DA CRUZ CARNEIRO - RJ - Deputado Federal;
+JOSIAS DA CRUZ CARNEIRO;757.454.617-72;30/09/2010;       Serviços prestados por terceiros;R$ 120,00;Cheque; -  -  / 6516 - SILVANA DA CRUZ CARNEIRO - RJ - Deputado Federal;
+MARTINHO DOS S. GOMES ARTES GRÁFICAS;02.386.892/0001-36;30/08/2010;       Publicidade por materiais impressos;R$ 550,00;Cheque; -  -  / 6516 - SILVANA DA CRUZ CARNEIRO - RJ - Deputado Federal;
+MARTINHO DOS S. GOMES ARTES GRÁFICAS;02.386.892/0001-36;15/09/2010;       Publicidade por materiais impressos;R$ 700,00;Cheque; -  -  / 6516 - SILVANA DA CRUZ CARNEIRO - RJ - Deputado Federal;

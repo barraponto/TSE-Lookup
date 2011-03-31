@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-C & J LUMINOSOS E FACHADAS LTDA;09.087.635/0001-42;03/09/2010;15000244353;R$ 1.655,00;Estimado;FRANCISCO ROMOLO DA COSTA LIMA;15100;Deputado Estadual;PMDB;RO;
-Diretório Estadual/Distrital;84.638.196/0001-34;20/09/2010;15000244354;R$ 247,50;Estimado;FRANCISCO ROMOLO DA COSTA LIMA;15100;Deputado Estadual;PMDB;RO;
-Diretório Estadual/Distrital;84.638.196/0001-34;20/09/2010;15000244355;R$ 250,00;Estimado;FRANCISCO ROMOLO DA COSTA LIMA;15100;Deputado Estadual;PMDB;RO;
-FRANSCISO ROMOLO DA COSTA LIMA;350.898.812-00;22/09/2010;15000244357;R$ 140,00;Depósito em espécie;FRANCISCO ROMOLO DA COSTA LIMA;15100;Deputado Estadual;PMDB;RO;
-FRANSCISO ROMOLO DA COSTA LIMA;350.898.812-00;17/08/2010;15000244351;R$ 300,00;Depósito em espécie;FRANCISCO ROMOLO DA COSTA LIMA;15100;Deputado Estadual;PMDB;RO;
-FRANSCISO ROMOLO DA COSTA LIMA;350.898.812-00;22/09/2010;15000244356;R$ 480,00;Depósito em espécie;FRANCISCO ROMOLO DA COSTA LIMA;15100;Deputado Estadual;PMDB;RO;
-GRAFICA E EDITORA E EDITORES LTDA;05.595.929/0001-24;03/09/2010;15000244352;R$ 150,00;Estimado;FRANCISCO ROMOLO DA COSTA LIMA;15100;Deputado Estadual;PMDB;RO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO CALAMA LTDA;10.976.424/0001-40;25/09/2010;       Publicidade por materiais impressos;R$ 140,00;Transferência eletrônica; -  -  / 15100 - FRANCISCO ROMOLO DA COSTA LIMA - RO - Deputado Estadual;
+AUTO POSTO CALAMA LTDA;10.976.424/0001-40;03/09/2010;       Combustíveis e lubrificantes;R$ 300,00;Transferência eletrônica; -  -  / 15100 - FRANCISCO ROMOLO DA COSTA LIMA - RO - Deputado Estadual;
+C & J LUMINOSOS E FACHADAS LTDA;09.087.635/0001-42;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.655,00;Estimado; -  -  / 15100 - FRANCISCO ROMOLO DA COSTA LIMA - RO - Deputado Estadual;
+C & J LUMINOSOS E FACHADAS LTDA;09.087.635/0001-42;22/09/2010;       Publicidade por materiais impressos;R$ 480,00;Transferência eletrônica; -  -  / 15100 - FRANCISCO ROMOLO DA COSTA LIMA - RO - Deputado Estadual;
+Diretório Estadual/Distrital;84.638.196/0001-34;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 247,50;Estimado;Direção Estadual/Distrital - PMDB -  / 15100 - FRANCISCO ROMOLO DA COSTA LIMA - RO - Deputado Estadual;
+Diretório Estadual/Distrital;84.638.196/0001-34;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;Direção Estadual/Distrital - PMDB -  / 15100 - FRANCISCO ROMOLO DA COSTA LIMA - RO - Deputado Estadual;
+GRAFICA E EDITORA E EDITORES LTDA;05.595.929/0001-24;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado; -  -  / 15100 - FRANCISCO ROMOLO DA COSTA LIMA - RO - Deputado Estadual;

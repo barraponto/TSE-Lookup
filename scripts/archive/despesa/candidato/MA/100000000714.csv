@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.176.183/0001-80;30/09/2010;23000119794;R$ 860,74;Estimado;BENEDITO GARCIA DE CASTRO;23666;Deputado Estadual;PPS;MA;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.176.183/0001-80;02/10/2010;23000119795;R$ 870,00;Estimado;BENEDITO GARCIA DE CASTRO;23666;Deputado Estadual;PPS;MA;
-Comitê Financeiro Único;12.205.334/0001-80;09/09/2010;23000119793;R$ 750,00;Estimado;BENEDITO GARCIA DE CASTRO;23666;Deputado Estadual;PPS;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.176.183/0001-80;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 870,00;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual - PPS -  / 23666 - BENEDITO GARCIA DE CASTRO - MA - Deputado Estadual;
+Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.176.183/0001-80;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 860,74;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual - PPS -  / 23666 - BENEDITO GARCIA DE CASTRO - MA - Deputado Estadual;
+Comitê Financeiro Único;12.205.334/0001-80;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 750,00;Estimado;Comitê Financeiro Único - PPS -  / 23666 - BENEDITO GARCIA DE CASTRO - MA - Deputado Estadual;

@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;27000025722;R$ 150,00;Estimado;PAULO ANTONIO EVANGELISTA;27555;Deputado Estadual;PSDC;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;04/09/2010;27000025721;R$ 300,00;Estimado;PAULO ANTONIO EVANGELISTA;27555;Deputado Estadual;PSDC;RJ;
-JORGE EVARISTO DIAS;187.653.007-34;05/08/2010;27000025720;R$ 365,00;Estimado;PAULO ANTONIO EVANGELISTA;27555;Deputado Estadual;PSDC;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 27555 - PAULO ANTONIO EVANGELISTA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 27555 - PAULO ANTONIO EVANGELISTA - RJ - Deputado Estadual;
+JORGE EVARISTO DIAS;187.653.007-34;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 365,00;Estimado; -  -  / 27555 - PAULO ANTONIO EVANGELISTA - RJ - Deputado Estadual;

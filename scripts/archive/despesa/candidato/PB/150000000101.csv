@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇOES 2010 RICARDO VIEIRA COUTINHO;12.173.462/0001-90;30/09/2010;44000046331;R$ 48,00;Estimado;IVO VENTURA DE ARAÚJO;44133;Deputado Estadual;PRP;PB;
-ELEIÇOES 2010 RICARDO VIEIRA COUTINHO;12.173.462/0001-90;01/10/2010;44000046333;R$ 1.192,50;Estimado;IVO VENTURA DE ARAÚJO;44133;Deputado Estadual;PRP;PB;
-ELEIÇOES 2010 RICARDO VIEIRA COUTINHO;12.173.462/0001-90;21/08/2010;44000046332;R$ 139,00;Estimado;IVO VENTURA DE ARAÚJO;44133;Deputado Estadual;PRP;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇOES 2010 RICARDO VIEIRA COUTINHO;12.173.462/0001-90;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.192,50;Estimado;40 -  - PSB -  - Governador / 44133 - IVO VENTURA DE ARAÚJO - PB - Deputado Estadual;
+ELEIÇOES 2010 RICARDO VIEIRA COUTINHO;12.173.462/0001-90;21/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 139,00;Estimado;40 -  - PSB -  - Governador / 44133 - IVO VENTURA DE ARAÚJO - PB - Deputado Estadual;
+ELEIÇOES 2010 RICARDO VIEIRA COUTINHO;12.173.462/0001-90;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 48,00;Estimado;40 -  - PSB -  - Governador / 44133 - IVO VENTURA DE ARAÚJO - PB - Deputado Estadual;

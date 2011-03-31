@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;87.582.714/0001-33;15/07/2010;15000202401;R$ 18,07;Estimado;SOLANGE ESTER PIPP CAMEJO;15001;Deputado Estadual;PMDB;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;87.582.714/0001-33;15/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 18,07;Estimado;Direção Estadual/Distrital - PMDB -  / 15001 - SOLANGE ESTER PIPP CAMEJO - RS - Deputado Estadual;

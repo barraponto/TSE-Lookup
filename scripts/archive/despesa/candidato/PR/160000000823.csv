@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.217.586/0001-20;23/08/2010;20000612605;R$ 100,00;Estimado;IRIO PEREIRA DA ROSA FILHO;20000;Deputado Estadual;PSC;PR;
-IRIO PEREIRA DA ROSA FILHO;006.685.888-70;04/08/2010;20000612604;R$ 10,00;Depósito em espécie;IRIO PEREIRA DA ROSA FILHO;20000;Deputado Estadual;PSC;PR;
-RICARDO ARRUDA NUNES;12.168.941/0001-18;16/08/2010;20000612603;R$ 3.250,00;Estimado;IRIO PEREIRA DA ROSA FILHO;20000;Deputado Estadual;PSC;PR;
-RICARDO ARRUDA NUNES;12.168.941/0001-18;12/08/2010;20000612601;R$ 14.400,00;Estimado;IRIO PEREIRA DA ROSA FILHO;20000;Deputado Estadual;PSC;PR;
-RICARDO ARRUDA NUNES;12.168.941/0001-18;13/08/2010;20000612602;R$ 4.200,00;Estimado;IRIO PEREIRA DA ROSA FILHO;20000;Deputado Estadual;PSC;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.217.586/0001-20;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado;Comitê Financeiro Único - PSC -  / 20000 - IRIO PEREIRA DA ROSA FILHO - PR - Deputado Estadual;
+RICARDO ARRUDA NUNES;12.168.941/0001-18;13/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.200,00;Estimado;2000 -  - PSC -  - Deputado Federal / 20000 - IRIO PEREIRA DA ROSA FILHO - PR - Deputado Estadual;
+RICARDO ARRUDA NUNES;12.168.941/0001-18;16/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.250,00;Estimado;2000 -  - PSC -  - Deputado Federal / 20000 - IRIO PEREIRA DA ROSA FILHO - PR - Deputado Estadual;
+RICARDO ARRUDA NUNES;12.168.941/0001-18;12/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 14.400,00;Estimado;2000 -  - PSC -  - Deputado Federal / 20000 - IRIO PEREIRA DA ROSA FILHO - PR - Deputado Estadual;
+20000 - IRIO PEREIRA DA ROSA FILHO - DEPUTADO ESTADUAL;12.167.590/0001-20;01/11/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 10,00;Transferência eletrônica;Direção Estadual/Distrital - PSC - PR / 20000 - IRIO PEREIRA DA ROSA FILHO - PR - Deputado Estadual;

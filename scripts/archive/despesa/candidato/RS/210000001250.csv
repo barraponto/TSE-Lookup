@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSUÉ NUNES PEREIRA;782.739.430-20;05/08/2010;70000183301;R$ 100,00;Depósito em espécie;JOSUE NUNES PEREIRA;70530;Deputado Estadual;PT do B;RS;
-JOSUÉ NUNES PEREIRA;782.739.430-20;24/08/2010;70000183302;R$ 430,00;Depósito em espécie;JOSUE NUNES PEREIRA;70530;Deputado Estadual;PT do B;RS;
-YEDA RORATO CRUSIUS;12.172.247/0001-74;03/10/2010;70000183306;R$ 600,00;Estimado;JOSUE NUNES PEREIRA;70530;Deputado Estadual;PT do B;RS;
-YEDA RORATO CRUSIUS GOVERNADOR;12.172.247/0001-74;03/10/2010;70000183305;R$ 594,00;Estimado;JOSUE NUNES PEREIRA;70530;Deputado Estadual;PT do B;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EDUART'S IMPRESSÃO DIGITAL;95.214.862/0001-23;05/08/2010;       Publicidade por materiais impressos;R$ 100,00;Cheque; -  -  / 70530 - JOSUE NUNES PEREIRA - RS - Deputado Estadual;
+EVERGRÁFICA;94.198.553/0001-44;27/08/2010;       Publicidade por materiais impressos;R$ 430,00;Cheque; -  -  / 70530 - JOSUE NUNES PEREIRA - RS - Deputado Estadual;
+YEDA RORATO CRUSIUS;12.172.247/0001-74;03/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado;45 -  - PSDB -  - Governador / 70530 - JOSUE NUNES PEREIRA - RS - Deputado Estadual;
+YEDA RORATO CRUSIUS GOVERNADOR;12.172.247/0001-74;03/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 594,00;Estimado;45 -  - PSDB -  - Governador / 70530 - JOSUE NUNES PEREIRA - RS - Deputado Estadual;

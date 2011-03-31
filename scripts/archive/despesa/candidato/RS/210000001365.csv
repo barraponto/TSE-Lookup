@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-YEDA RORATO CRUSIUS;12.172.247/0001-74;02/10/2010;11000044641;R$ 9.000,00;Estimado;AFRANIO PEDRO CAPELLI;1113;Deputado Federal;PP;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+YEDA RORATO CRUSIUS;12.172.247/0001-74;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 9.000,00;Estimado;45 -  - PSDB -  - Governador / 1113 - AFRANIO PEDRO CAPELLI - RS - Deputado Federal;

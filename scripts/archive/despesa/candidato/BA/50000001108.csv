@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO2010 JAQUES WAGNER GOVERNADOR;12.174.245/0001-14;29/09/2010;40002406663;R$ 875,00;Estimado;ROBERTO SOUSA TOSTA;40111;Deputado Estadual;PSB;BA;
-ELEIÇÃO2010 JAQUES WAGNER GOVERNADOR;12.174.245/0001-14;29/09/2010;40002406662;R$ 1.200,00;Estimado;ROBERTO SOUSA TOSTA;40111;Deputado Estadual;PSB;BA;
-LÍDICE DA MATA E SOUZA;12.172.092/0001-76;21/09/2010;40002406661;R$ 1.000,00;Depósito em espécie;ROBERTO SOUSA TOSTA;40111;Deputado Estadual;PSB;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO2010 JAQUES WAGNER GOVERNADOR;12.174.245/0001-14;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.200,00;Estimado; -  -  / 40111 - ROBERTO SOUSA TOSTA - BA - Deputado Estadual;
+ELEIÇÃO2010 JAQUES WAGNER GOVERNADOR;12.174.245/0001-14;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 875,00;Estimado; -  -  / 40111 - ROBERTO SOUSA TOSTA - BA - Deputado Estadual;
+SERTO REVENDEDORA DE COMBUSTIVEIS LTDA;01.716.090/0001-84;24/09/2010;       Combustíveis e lubrificantes;R$ 1.000,00;Transferência eletrônica; -  -  / 40111 - ROBERTO SOUSA TOSTA - BA - Deputado Estadual;

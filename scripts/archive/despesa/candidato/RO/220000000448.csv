@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;84.638.196/0001-34;29/09/2010;15000243302;R$ 247,50;Estimado;SERGIO CLAUDIO OLIVEIRA SILVA;15150;Deputado Estadual;PMDB;RO;
-Diretório Estadual/Distrital;84.638.196/0001-34;29/09/2010;15000243301;R$ 1.000,00;Cheque;SERGIO CLAUDIO OLIVEIRA SILVA;15150;Deputado Estadual;PMDB;RO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;84.638.196/0001-34;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 247,50;Estimado;Direção Estadual/Distrital - PMDB -  / 15150 - SERGIO CLAUDIO OLIVEIRA SILVA - RO - Deputado Estadual;
+GLEICE MENDES FERREIRA;708.323.152-49;30/09/2010;       Despesas com pessoal;R$ 970,00;Cheque; -  -  / 15150 - SERGIO CLAUDIO OLIVEIRA SILVA - RO - Deputado Estadual;
+;;14/09/2010;       Encargos financeiros e taxas bancárias;R$ 21,00;Débito em conta; -  -  / 15150 - SERGIO CLAUDIO OLIVEIRA SILVA - RO - Deputado Estadual;

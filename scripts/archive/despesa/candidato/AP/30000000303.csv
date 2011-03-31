@@ -1,8 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-AMADEU FERREIRA DOS SANTOS;123.021.632-49;28/09/2010;20000040104;R$ 200,00;Depósito em espécie;AMADEU FERREIRA DOS SANTOS;2011;Deputado Federal;PSC;AP;
-AMADEU FERREIRA DOS SANTOS;123.021.632-49;02/08/2010;20000040107;R$ 4.000,00;Estimado;AMADEU FERREIRA DOS SANTOS;2011;Deputado Federal;PSC;AP;
-Comitê Financeiro Único;12.256.171/0001-65;02/09/2010;20000040101;R$ 300,00;Estimado;AMADEU FERREIRA DOS SANTOS;2011;Deputado Federal;PSC;AP;
-Comitê Financeiro Único;12.256.171/0001-65;02/09/2010;20000040103;R$ 4.700,00;Estimado;AMADEU FERREIRA DOS SANTOS;2011;Deputado Federal;PSC;AP;
-DANIEL FREITAS MARTINS DOS SANTOS;751.280.552-72;02/08/2010;20000040106;R$ 6.000,00;Estimado;AMADEU FERREIRA DOS SANTOS;2011;Deputado Federal;PSC;AP;
-DANIEL FREITAS MARTINS DOS SANTOS;751.280.552-72;02/08/2010;20000040105;R$ 6.000,00;Estimado;AMADEU FERREIRA DOS SANTOS;2011;Deputado Federal;PSC;AP;
-Diretório Nacional;01.450.856/0001-21;27/09/2010;20000040102;R$ 50.000,00;Transferência eletrônica;AMADEU FERREIRA DOS SANTOS;2011;Deputado Federal;PSC;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AMADEU FERREIRA DOS SANTOS;123.021.632-49;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.000,00;Estimado; -  -  / 2011 - AMADEU FERREIRA DOS SANTOS - AP - Deputado Federal;
+AUTO POSTO LAGUINHO LTDA -EPP;10.666.069/0001-02;28/09/2010;       Combustíveis e lubrificantes;R$ 35.000,00;Cheque; -  -  / 2011 - AMADEU FERREIRA DOS SANTOS - AP - Deputado Federal;
+Comitê Financeiro Único;12.256.171/0001-65;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PSC -  / 2011 - AMADEU FERREIRA DOS SANTOS - AP - Deputado Federal;
+Comitê Financeiro Único;12.256.171/0001-65;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.700,00;Estimado;Comitê Financeiro Único - PSC -  / 2011 - AMADEU FERREIRA DOS SANTOS - AP - Deputado Federal;
+DANIEL FREITAS MARTINS DOS SANTOS;751.280.552-72;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 6.000,00;Estimado; -  -  / 2011 - AMADEU FERREIRA DOS SANTOS - AP - Deputado Federal;
+DANIEL FREITAS MARTINS DOS SANTOS;751.280.552-72;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 6.000,00;Estimado; -  -  / 2011 - AMADEU FERREIRA DOS SANTOS - AP - Deputado Federal;
+JOSÉ GEORGE DOS SANTOS;201.745.945-34;02/10/2010;       Serviços prestados por terceiros;R$ 161,50;Cheque; -  -  / 2011 - AMADEU FERREIRA DOS SANTOS - AP - Deputado Federal;
+MFX LTDA-ME;10.411.851/0001-80;28/09/2010;       Serviços prestados por terceiros;R$ 15.000,00;Cheque; -  -  / 2011 - AMADEU FERREIRA DOS SANTOS - AP - Deputado Federal;
+;;29/09/2010;       Encargos financeiros e taxas bancárias;R$ 38,50;Débito em conta; -  -  / 2011 - AMADEU FERREIRA DOS SANTOS - AP - Deputado Federal;

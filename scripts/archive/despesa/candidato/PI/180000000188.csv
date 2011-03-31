@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.218/0001-61;19/07/2010;43001803476;R$ 10,00;Estimado;JOSÉ DE RIBAMAR DE SOUSA ROCHA;4334;Deputado Federal;PV;PI;
-Comitê Financeiro Único;12.205.218/0001-61;22/09/2010;43001803481;R$ 800,00;Cheque;JOSÉ DE RIBAMAR DE SOUSA ROCHA;4334;Deputado Federal;PV;PI;
-JOSE DE RIBAMAR DE SOUSA ROCHA;138.786.463-72;21/07/2010;43001803477;R$ 300,00;Transferência eletrônica;JOSÉ DE RIBAMAR DE SOUSA ROCHA;4334;Deputado Federal;PV;PI;
-TERESA DOS SANTOS SOUSA BRITTO;12.172.795/0001-02;20/09/2010;43001803480;R$ 500,00;Estimado;JOSÉ DE RIBAMAR DE SOUSA ROCHA;4334;Deputado Federal;PV;PI;
-TEREZA DOS SANTOS SOUSA BRITTO;12.172.795/0001-02;16/09/2010;43001803479;R$ 3.000,00;Estimado;JOSÉ DE RIBAMAR DE SOUSA ROCHA;4334;Deputado Federal;PV;PI;
-TEREZA DOS SANTOS SOUSA BRITTO;12.172.795/0001-02;05/08/2010;43001803478;R$ 100,00;Estimado;JOSÉ DE RIBAMAR DE SOUSA ROCHA;4334;Deputado Federal;PV;PI;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.218/0001-61;19/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 10,00;Estimado;Comitê Financeiro Único - PV -  / 4334 - JOSÉ DE RIBAMAR DE SOUSA ROCHA - PI - Deputado Federal;
+R N DA ROCHA JUNIOR INDUSTRIA CONFECAO;11.371.219/0001-13;23/07/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 4334 - JOSÉ DE RIBAMAR DE SOUSA ROCHA - PI - Deputado Federal;
+TERESA DOS SANTOS SOUSA BRITTO;12.172.795/0001-02;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;43 -  - PV -  - Governador / 4334 - JOSÉ DE RIBAMAR DE SOUSA ROCHA - PI - Deputado Federal;
+TEREZA DOS SANTOS SOUSA BRITTO;12.172.795/0001-02;16/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.000,00;Estimado;43 -  - PV -  - Governador / 4334 - JOSÉ DE RIBAMAR DE SOUSA ROCHA - PI - Deputado Federal;
+TEREZA DOS SANTOS SOUSA BRITTO;12.172.795/0001-02;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado;43 -  - PV -  - Governador / 4334 - JOSÉ DE RIBAMAR DE SOUSA ROCHA - PI - Deputado Federal;
+VALDECY BATISTA DA COSTA;397.562.623-20;29/09/2010;       Despesas com pessoal;R$ 780,00;Cheque; -  -  / 4334 - JOSÉ DE RIBAMAR DE SOUSA ROCHA - PI - Deputado Federal;

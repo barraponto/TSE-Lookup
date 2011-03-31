@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;01/09/2010;15000259203;R$ 300,00;Estimado;GUILHERME JOSÉ PEREIRA DO NASCIMENTO;15007;Deputado Estadual;PMDB;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;15000259206;R$ 300,00;Estimado;GUILHERME JOSÉ PEREIRA DO NASCIMENTO;15007;Deputado Estadual;PMDB;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;01/09/2010;15000259202;R$ 300,00;Estimado;GUILHERME JOSÉ PEREIRA DO NASCIMENTO;15007;Deputado Estadual;PMDB;RJ;
-JOÃO BATISTA;12.173.864/0001-94;02/09/2010;15000259204;R$ 2.900,00;Estimado;GUILHERME JOSÉ PEREIRA DO NASCIMENTO;15007;Deputado Estadual;PMDB;RJ;
-JOÃO BATISTA;12.173.864/0001-94;12/08/2010;15000259201;R$ 5.000,00;Cheque;GUILHERME JOSÉ PEREIRA DO NASCIMENTO;15007;Deputado Estadual;PMDB;RJ;
-JORGE PICCIANI;12.176.626/0001-32;23/09/2010;15000259205;R$ 17,00;Estimado;GUILHERME JOSÉ PEREIRA DO NASCIMENTO;15007;Deputado Estadual;PMDB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 15007 - GUILHERME JOSÉ PEREIRA DO NASCIMENTO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 15007 - GUILHERME JOSÉ PEREIRA DO NASCIMENTO - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 15007 - GUILHERME JOSÉ PEREIRA DO NASCIMENTO - RJ - Deputado Estadual;
+DIRCE DE JESUS ROCHA;760.531.807-34;17/08/2010;       Criação e inclusão de páginas na internet;R$ 5.000,00;Cheque; -  -  / 15007 - GUILHERME JOSÉ PEREIRA DO NASCIMENTO - RJ - Deputado Estadual;
+JOÃO BATISTA;12.173.864/0001-94;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.900,00;Estimado;3112 -  - PHS -  - Deputado Federal / 15007 - GUILHERME JOSÉ PEREIRA DO NASCIMENTO - RJ - Deputado Estadual;
+JORGE PICCIANI;12.176.626/0001-32;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 15007 - GUILHERME JOSÉ PEREIRA DO NASCIMENTO - RJ - Deputado Estadual;

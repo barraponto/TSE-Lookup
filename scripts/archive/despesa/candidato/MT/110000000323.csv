@@ -1,4 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.221.870/0001-70;15/09/2010;40002453701;R$ 2.000,00;Cheque;EDNOR FERNANDES VIEIRA;40456;Deputado Estadual;PSB;MT;
-Comitê Financeiro Único;12.221.870/0001-70;27/09/2010;40002453702;R$ 1.000,00;Cheque;EDNOR FERNANDES VIEIRA;40456;Deputado Estadual;PSB;MT;
-ELEIÇÃO 2010 MAURO MENDES FERREIRA;12.199.024/0001-09;10/09/2010;40002453703;R$ 403,00;Estimado;EDNOR FERNANDES VIEIRA;40456;Deputado Estadual;PSB;MT;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 MAURO MENDES FERREIRA;12.199.024/0001-09;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 403,00;Estimado;40 -  - PSB -  - Governador / 40456 - EDNOR FERNANDES VIEIRA - MT - Deputado Estadual;
+ILDA COELHO LIMA DA SILVA;854.412.791-68;15/09/2010;       Publicidade por placas, estandartes e faixas;R$ 80,00;Não informado; -  -  / 40456 - EDNOR FERNANDES VIEIRA - MT - Deputado Estadual;
+LORIVALDO BORGES GLORIA;856.608.761-53;30/09/2010;       Cessão ou Locação de Veículos;R$ 2.900,00;Não informado; -  -  / 40456 - EDNOR FERNANDES VIEIRA - MT - Deputado Estadual;
+ROUSANI RODRIGUES CORREA;07.371.550/0001-66;29/10/2010;       Materiais de expediente;R$ 2,60;Não informado; -  -  / 40456 - EDNOR FERNANDES VIEIRA - MT - Deputado Estadual;
+;;27/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 40456 - EDNOR FERNANDES VIEIRA - MT - Deputado Estadual;
+;;29/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 40456 - EDNOR FERNANDES VIEIRA - MT - Deputado Estadual;
+;;20/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 40456 - EDNOR FERNANDES VIEIRA - MT - Deputado Estadual;
+;;01/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 40456 - EDNOR FERNANDES VIEIRA - MT - Deputado Estadual;
+;;17/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 40456 - EDNOR FERNANDES VIEIRA - MT - Deputado Estadual;

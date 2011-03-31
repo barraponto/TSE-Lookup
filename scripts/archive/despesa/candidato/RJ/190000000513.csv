@@ -1,3 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DANIEL TOURINHO;12.172.794/0001-50;22/08/2010;36000054653;R$ 250,00;Estimado;MESSIAS LIMA CAZER;36168;Deputado Estadual;PTC;RJ;
-DANIEL TOURINHO;12.172.794/0001-50;22/08/2010;36000054652;R$ 700,00;Estimado;MESSIAS LIMA CAZER;36168;Deputado Estadual;PTC;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DANIEL TOURINHO;12.172.794/0001-50;22/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 700,00;Estimado; -  -  / 36168 - MESSIAS LIMA CAZER - RJ - Deputado Estadual;
+DANIEL TOURINHO;12.172.794/0001-50;22/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado; -  -  / 36168 - MESSIAS LIMA CAZER - RJ - Deputado Estadual;
+POSTO DE GASOLINA BRAZ DE PINA LTDA;33.459.918/0001-52;16/09/2010;       Combustíveis e lubrificantes;R$ 9,00;Não informado; -  -  / 36168 - MESSIAS LIMA CAZER - RJ - Deputado Estadual;
+POSTO DE GASOLINA BRAZ DE PINA LTDA;33.459.918/0001-52;29/09/2010;       Combustíveis e lubrificantes;R$ 20,00;Não informado; -  -  / 36168 - MESSIAS LIMA CAZER - RJ - Deputado Estadual;
+POSTO DE GASOLINA BRAZ DE PINA LTDA;33.459.918/0001-52;17/09/2010;       Combustíveis e lubrificantes;R$ 11,00;Não informado; -  -  / 36168 - MESSIAS LIMA CAZER - RJ - Deputado Estadual;
+POSTO DE GASOLINA BRAZ DE PINA LTDA;33.459.918/0001-52;17/09/2010;       Combustíveis e lubrificantes;R$ 7,00;Não informado; -  -  / 36168 - MESSIAS LIMA CAZER - RJ - Deputado Estadual;
+POSTO DE GASOLINA BRAZ DE PINA LTDA;33.459.918/0001-52;28/09/2010;       Combustíveis e lubrificantes;R$ 8,20;Não informado; -  -  / 36168 - MESSIAS LIMA CAZER - RJ - Deputado Estadual;

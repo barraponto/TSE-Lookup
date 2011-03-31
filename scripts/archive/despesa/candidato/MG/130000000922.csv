@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALESSANDRO DIAS TEIXEIRA;938.691.346-15;10/08/2010;20000321484;R$ 300,00;Depósito em espécie;ALESSANDRO DIAS TEIXEIRA;20000;Deputado Estadual;PSC;MG;
-ALESSANDRO DIAS TEIXEIRA;938.691.346-15;17/09/2010;20000321486;R$ 164,60;Depósito em espécie;ALESSANDRO DIAS TEIXEIRA;20000;Deputado Estadual;PSC;MG;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.191.503/0001-70;24/08/2010;20000321481;R$ 530,00;Estimado;ALESSANDRO DIAS TEIXEIRA;20000;Deputado Estadual;PSC;MG;
-MARCO ANTONIO GOMES DIAS;250.541.806-30;18/08/2010;20000321482;R$ 590,00;Estimado;ALESSANDRO DIAS TEIXEIRA;20000;Deputado Estadual;PSC;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.191.503/0001-70;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 530,00;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual - PSC -  / 20000 - ALESSANDRO DIAS TEIXEIRA - MG - Deputado Estadual;
+DIGITALSIGN - LUCAS LEONHARDT FERREIRA - ME;10.821.878/0001-41;12/08/2010;       Publicidade por placas, estandartes e faixas;R$ 250,00;Cheque; -  -  / 20000 - ALESSANDRO DIAS TEIXEIRA - MG - Deputado Estadual;
+MARCO ANTONIO GOMES DIAS;250.541.806-30;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 590,00;Estimado; -  -  / 20000 - ALESSANDRO DIAS TEIXEIRA - MG - Deputado Estadual;
+VITRINE EMBALAGENS E GRÁFICA LTDA - ME;06.327.967/0001-69;19/09/2010;       Publicidade por materiais impressos;R$ 150,00;Cheque; -  -  / 20000 - ALESSANDRO DIAS TEIXEIRA - MG - Deputado Estadual;
+;;02/09/2010;       Encargos financeiros e taxas bancárias;R$ 64,50;Débito em conta; -  -  / 20000 - ALESSANDRO DIAS TEIXEIRA - MG - Deputado Estadual;

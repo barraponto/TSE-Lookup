@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 CESAR EPITACIO MAIA;12.176.116/0001-65;01/10/2010;25000166171;R$ 195,00;Estimado;JAIRO FERNANDES;2536;Deputado Federal;DEM;RJ;
-ELEIÇÃO 2010 CESAR EPITACIO MAIA;12.176.116/0001-65;20/07/2010;25000166170;R$ 249,50;Estimado;JAIRO FERNANDES;2536;Deputado Federal;DEM;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 CESAR EPITACIO MAIA;12.176.116/0001-65;20/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 249,50;Estimado;251 -  - DEM -  - Senador / 2536 - JAIRO FERNANDES - RJ - Deputado Federal;
+ELEIÇÃO 2010 CESAR EPITACIO MAIA;12.176.116/0001-65;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 195,00;Estimado;251 -  - DEM -  - Senador / 2536 - JAIRO FERNANDES - RJ - Deputado Federal;

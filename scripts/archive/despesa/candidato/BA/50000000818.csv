@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.570/0001-95;31/07/2010;20000070502;R$ 192,00;Estimado;ANDERSON ALVES BARRETO;20300;Deputado Estadual;PSC;BA;
-Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;20000070504;R$ 381,60;Estimado;ANDERSON ALVES BARRETO;20300;Deputado Estadual;PSC;BA;
-GEDDEL QUADROS VIEIRA LIMA;12.173.503/0001-48;30/09/2010;20000070503;R$ 204,00;Estimado;ANDERSON ALVES BARRETO;20300;Deputado Estadual;PSC;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.570/0001-95;31/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 192,00;Estimado;Comitê Financeiro Único - PMDB -  / 20300 - ANDERSON ALVES BARRETO - BA - Deputado Estadual;
+Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 381,60;Estimado;Comitê Financeiro Único - PMDB -  / 20300 - ANDERSON ALVES BARRETO - BA - Deputado Estadual;
+GEDDEL QUADROS VIEIRA LIMA;12.173.503/0001-48;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 204,00;Estimado;15 -  - PMDB -  - Governador / 20300 - ANDERSON ALVES BARRETO - BA - Deputado Estadual;

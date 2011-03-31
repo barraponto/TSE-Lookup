@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;21/09/2010;27000046722;R$ 500,00;Estimado;CENIRA TRINDADE DOS SANTOS;27137;Deputado Estadual;PSDC;PR;
-CARLOS ALBERTO RICHA;12.190.887/0001-07;18/08/2010;27000046721;R$ 630,00;Estimado;CENIRA TRINDADE DOS SANTOS;27137;Deputado Estadual;PSDC;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 630,00;Estimado;45 -  - PSDB -  - Governador / 27137 - CENIRA TRINDADE DOS SANTOS - PR - Deputado Estadual;
+CARLOS ALBERTO RICHA;12.190.887/0001-07;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;45 -  - PSDB -  - Governador / 27137 - CENIRA TRINDADE DOS SANTOS - PR - Deputado Estadual;

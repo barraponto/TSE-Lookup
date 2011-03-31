@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;22/09/2010;36000050553;R$ 150,00;Estimado;SERGIO PEREIRA DE GOES;36147;Deputado Estadual;PTC;RJ;
-DANIEL S. TOURINHO;12.172.794/0001-50;24/09/2010;36000050554;R$ 700,00;Estimado;SERGIO PEREIRA DE GOES;36147;Deputado Estadual;PTC;RJ;
-DANIEL SAMPAIO TOURINHO;12.172.794/0001-50;22/08/2010;36000050551;R$ 700,00;Estimado;SERGIO PEREIRA DE GOES;36147;Deputado Estadual;PTC;RJ;
-JORGE PICCIANI;12.176.626/0001-32;17/09/2010;36000050552;R$ 47,18;Estimado;SERGIO PEREIRA DE GOES;36147;Deputado Estadual;PTC;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;22/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 36147 - SERGIO PEREIRA DE GOES - RJ - Deputado Estadual;
+DANIEL S. TOURINHO;12.172.794/0001-50;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 700,00;Estimado;3636 -  - PTC -  - Deputado Federal / 36147 - SERGIO PEREIRA DE GOES - RJ - Deputado Estadual;
+DANIEL SAMPAIO TOURINHO;12.172.794/0001-50;22/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 700,00;Estimado;3636 -  - PTC -  - Deputado Federal / 36147 - SERGIO PEREIRA DE GOES - RJ - Deputado Estadual;
+JORGE PICCIANI;12.176.626/0001-32;17/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 47,18;Estimado;155 -  - PMDB -  - Senador / 36147 - SERGIO PEREIRA DE GOES - RJ - Deputado Estadual;

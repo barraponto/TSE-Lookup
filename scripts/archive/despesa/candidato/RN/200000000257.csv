@@ -1,2 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSE ALBERANY DE SOUZA;050.102.764-53;31/08/2010;23000239001;R$ 200,00;Transferência eletrônica;JOSE ALBERANY DE SOUZA;23333;Deputado Estadual;PPS;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO LAILSON FILHO COMERCIO E SERVIÇOS;02.941.710/0001-41;01/10/2010;       Publicidade por materiais impressos;R$ 70,00;Cheque; -  -  / 23333 - JOSE ALBERANY DE SOUZA - RN - Deputado Estadual;
+ANTONIO LAILSON FILHO COMERCIO E SERVIÇOS;02.941.710/0001-41;01/10/2010;       Publicidade por materiais impressos;R$ 130,00;Cheque; -  -  / 23333 - JOSE ALBERANY DE SOUZA - RN - Deputado Estadual;

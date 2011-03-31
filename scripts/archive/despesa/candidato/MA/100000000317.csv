@@ -1,5 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.272/0001-07;28/09/2010;25000562903;R$ 641,00;Estimado;MÁRIO HENRIQUE BORGES DE SOUZA;2555;Deputado Federal;DEM;MA;
-DIEGO CUNHA DE SOUSA;018.945.543-88;28/09/2010;25000562902;R$ 1.500,00;Depósito em espécie;MÁRIO HENRIQUE BORGES DE SOUZA;2555;Deputado Federal;DEM;MA;
-Diretório Estadual/Distrital;01.387.080/0001-42;01/10/2010;25000562904;R$ 20.000,00;Cheque;MÁRIO HENRIQUE BORGES DE SOUZA;2555;Deputado Federal;DEM;MA;
-MÁRIO HENRIQUE BORGES DE SOUZA;053.689.948-77;01/09/2010;25000562901;R$ 1.500,00;Depósito em espécie;MÁRIO HENRIQUE BORGES DE SOUZA;2555;Deputado Federal;DEM;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+A. M. VASCONCELOS - POSTO KAROLINA;05.705.079/0001-70;01/10/2010;       Combustíveis e lubrificantes;R$ 1.650,00;Cheque; -  -  / 2555 - MÁRIO HENRIQUE BORGES DE SOUZA - MA - Deputado Federal;
+ABIMAEL LINKON SILVA CUTRIM;739.835.353-72;16/09/2010;       Serviços prestados por terceiros;R$ 450,00;Cheque; -  -  / 2555 - MÁRIO HENRIQUE BORGES DE SOUZA - MA - Deputado Federal;
+Comitê Financeiro Único;12.205.272/0001-07;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 641,00;Estimado;Comitê Financeiro Único - DEM -  / 2555 - MÁRIO HENRIQUE BORGES DE SOUZA - MA - Deputado Federal;
+EMPRESA PACOTILHA S.A - O IMPARCIAL;06.271.258/0001-09;23/09/2010;       Publicidade por jornais e revistas;R$ 1.440,00;Cheque; -  -  / 2555 - MÁRIO HENRIQUE BORGES DE SOUZA - MA - Deputado Federal;
+H. M. BOGÉA E CIA LTDA - JORNAL PEQUENO;01.153.837/0001-33;23/09/2010;       Publicidade por jornais e revistas;R$ 533,31;Cheque; -  -  / 2555 - MÁRIO HENRIQUE BORGES DE SOUZA - MA - Deputado Federal;
+HORTÊNCIA ANDREIA ROCELINO DOS SANTOS;981.490.083-49;02/09/2010;       Serviços prestados por terceiros;R$ 1.500,00;Cheque; -  -  / 2555 - MÁRIO HENRIQUE BORGES DE SOUZA - MA - Deputado Federal;
+LUIS CLAUDIO MACHADO BARCELOS;452.848.303-34;25/07/2010;       Locação/cessão de bens móveis;R$ 10.790,00;Cheque; -  -  / 2555 - MÁRIO HENRIQUE BORGES DE SOUZA - MA - Deputado Federal;
+RAIMUNDA ROCELINO DOS SANTOS;628.465.823-00;05/08/2010;       Publicidade por materiais impressos;R$ 3.000,00;Cheque; -  -  / 2555 - MÁRIO HENRIQUE BORGES DE SOUZA - MA - Deputado Federal;
+SUELENE DE MARIA SILVA DA CONCEIÇÃO;011.366.803-14;02/09/2010;       Produção de jingles, vinhetas e slogans;R$ 3.620,00;Cheque; -  -  / 2555 - MÁRIO HENRIQUE BORGES DE SOUZA - MA - Deputado Federal;
+;;13/07/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 2555 - MÁRIO HENRIQUE BORGES DE SOUZA - MA - Deputado Federal;

@@ -1,4 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MAICON FERNANDO PALAGANO;045.826.649-38;24/08/2010;50000389176;R$ 100,00;Depósito em espécie;MAICON FERNANDO PALAGANO;50777;Deputado Estadual;PSOL;PR;
-MAICON FERNANDO PALAGANO;045.826.649-38;21/09/2010;50000389178;R$ 100,00;Depósito em espécie;MAICON FERNANDO PALAGANO;50777;Deputado Estadual;PSOL;PR;
-MAICON FERNANDO PALAGANO;045.826.649-38;16/09/2010;50000389177;R$ 100,00;Depósito em espécie;MAICON FERNANDO PALAGANO;50777;Deputado Estadual;PSOL;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+R.H. REALEZA PETROLEO LTDA;04.963.359/0002-04;29/09/2010;       Combustíveis e lubrificantes;R$ 20,00;Cheque; -  -  / 50777 - MAICON FERNANDO PALAGANO - PR - Deputado Estadual;
+R.H. REALEZA PETROLEO LTDA;04.963.359/0002-04;16/09/2010;       Combustíveis e lubrificantes;R$ 80,00;Cheque; -  -  / 50777 - MAICON FERNANDO PALAGANO - PR - Deputado Estadual;
+R.H. REALEZA PETROLEO LTDA;04.963.359/0002-04;19/09/2010;       Combustíveis e lubrificantes;R$ 40,00;Cheque; -  -  / 50777 - MAICON FERNANDO PALAGANO - PR - Deputado Estadual;
+R.H. REALEZA PETROLEO LTDA;04.963.359/0002-04;04/09/2010;       Combustíveis e lubrificantes;R$ 80,00;Cheque; -  -  / 50777 - MAICON FERNANDO PALAGANO - PR - Deputado Estadual;
+R.H. REALEZA PETROLEO LTDA;04.963.359/0002-04;21/09/2010;       Combustíveis e lubrificantes;R$ 80,00;Cheque; -  -  / 50777 - MAICON FERNANDO PALAGANO - PR - Deputado Estadual;

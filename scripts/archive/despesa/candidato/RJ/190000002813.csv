@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-SERGIO CABRAL;12.181.923/0001-76;30/09/2010;28000183513;R$ 150,00;Estimado;OLGA SUELY FERREIRA GOMES;28101;Deputado Estadual;PRTB;RJ;
-SERGIO CABRAL;12.181.923/0001-76;15/09/2010;28000183512;R$ 150,00;Estimado;OLGA SUELY FERREIRA GOMES;28101;Deputado Estadual;PRTB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+SERGIO CABRAL;12.181.923/0001-76;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;15 -  - PMDB -  - Governador / 28101 - OLGA SUELY FERREIRA GOMES - RJ - Deputado Estadual;
+SERGIO CABRAL;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;15 -  - PMDB -  - Governador / 28101 - OLGA SUELY FERREIRA GOMES - RJ - Deputado Estadual;

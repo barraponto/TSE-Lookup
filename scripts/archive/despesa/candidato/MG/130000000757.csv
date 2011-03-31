@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-VIVIANE FERREIRA DOS SANTOS;12.181.521/0001-71;03/09/2010;43001713151;R$ 34,25;Estimado;JÚLIO CÉSAR DE OLIVEIRA DA COSTA;4327;Deputado Federal;PV;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+VIVIANE FERREIRA DOS SANTOS;12.181.521/0001-71;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 34,25;Estimado;4308 -  - PV -  - Deputado Federal / 4327 - JÚLIO CÉSAR DE OLIVEIRA DA COSTA - MG - Deputado Federal;

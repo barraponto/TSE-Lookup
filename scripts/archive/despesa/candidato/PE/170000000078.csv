@@ -1,4 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANDRE CARLOS ALVES DE PAULA FILHO;12.175.603/0001-03;09/09/2010;23000204253;R$ 7.500,00;Cheque;EZEQUIAS LUCIANO DE OLIVEIRA;23444;Deputado Estadual;PPS;PE;
-ELEIÇOES 2010 ANDRE CARLOS ALVES DE PAULA FILHO DEP FEDERAL;12.175.603/0001-03;26/08/2010;23000204252;R$ 2.500,00;Cheque;EZEQUIAS LUCIANO DE OLIVEIRA;23444;Deputado Estadual;PPS;PE;
-REDE REAL BRASIL DESIGN LTDA;08.803.046/0001-50;16/08/2010;23000204251;R$ 300,00;Transferência eletrônica;EZEQUIAS LUCIANO DE OLIVEIRA;23444;Deputado Estadual;PPS;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EDVANIA MARIA DA SILVA;048.939.454-08;30/09/2010;       Serviços prestados por terceiros;R$ 510,00;Cheque; -  -  / 23444 - EZEQUIAS LUCIANO DE OLIVEIRA - PE - Deputado Estadual;
+MARIA JOSE DULCE PEREIRA;320.573.344-49;30/09/2010;       Serviços prestados por terceiros;R$ 510,00;Cheque; -  -  / 23444 - EZEQUIAS LUCIANO DE OLIVEIRA - PE - Deputado Estadual;
+MARIA JOSE DULCE PEREIRA;320.573.344-49;30/08/2010;       Serviços prestados por terceiros;R$ 510,00;Cheque; -  -  / 23444 - EZEQUIAS LUCIANO DE OLIVEIRA - PE - Deputado Estadual;
+PAULO JOSE DA SILVA;317.158.774-20;02/10/2010;       Serviços prestados por terceiros;R$ 65,00;Cheque; -  -  / 23444 - EZEQUIAS LUCIANO DE OLIVEIRA - PE - Deputado Estadual;
+RENATA ALVES LOPES DA SILVA;066.499.244-74;30/08/2010;       Serviços prestados por terceiros;R$ 510,00;Cheque; -  -  / 23444 - EZEQUIAS LUCIANO DE OLIVEIRA - PE - Deputado Estadual;
+RENATA ALVES LOPES DA SILVA;066.499.244-74;30/09/2010;       Serviços prestados por terceiros;R$ 510,00;Cheque; -  -  / 23444 - EZEQUIAS LUCIANO DE OLIVEIRA - PE - Deputado Estadual;
+TIM PE PRE-PAGO;02.336.993/0001-00;25/08/2010;       Telefone;R$ 35,00;Transferência eletrônica; -  -  / 23444 - EZEQUIAS LUCIANO DE OLIVEIRA - PE - Deputado Estadual;
+TIM PE PRE-PAGO;02.336.993/0001-00;28/08/2010;       Telefone;R$ 50,00;Transferência eletrônica; -  -  / 23444 - EZEQUIAS LUCIANO DE OLIVEIRA - PE - Deputado Estadual;
+TIM PE PRE-PAGO;02.336.993/0001-00;17/08/2010;       Telefone;R$ 50,00;Transferência eletrônica; -  -  / 23444 - EZEQUIAS LUCIANO DE OLIVEIRA - PE - Deputado Estadual;
+TIM PE PRE-PAGO;02.336.993/0001-00;17/08/2010;       Telefone;R$ 50,00;Transferência eletrônica; -  -  / 23444 - EZEQUIAS LUCIANO DE OLIVEIRA - PE - Deputado Estadual;
+WEDJA ALVES DA SILVA;055.837.714-96;30/09/2010;       Serviços prestados por terceiros;R$ 7.500,00;Cheque; -  -  / 23444 - EZEQUIAS LUCIANO DE OLIVEIRA - PE - Deputado Estadual;

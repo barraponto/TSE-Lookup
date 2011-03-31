@@ -1,6 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;05.055.973/0001-41;28/09/2010;36000064553;R$ 237,00;Estimado;GALDINO PEREIRA DA SILVA NETO;3628;Deputado Federal;PTC;PE;
-Diretório Estadual/Distrital;05.055.973/0001-41;29/09/2010;36000064555;R$ 2.000,00;Cheque;GALDINO PEREIRA DA SILVA NETO;3628;Deputado Federal;PTC;PE;
-Diretório Estadual/Distrital;05.055.973/0001-41;24/09/2010;36000064551;R$ 700,00;Estimado;GALDINO PEREIRA DA SILVA NETO;3628;Deputado Federal;PTC;PE;
-Diretório Estadual/Distrital;05.055.973/0001-41;27/09/2010;36000064554;R$ 150,00;Estimado;GALDINO PEREIRA DA SILVA NETO;3628;Deputado Federal;PTC;PE;
-JOSE ERIBERTO MEDEIROS DE OLIVEIRA;12.177.701/0001-80;25/08/2010;36000064552;R$ 50,00;Estimado;GALDINO PEREIRA DA SILVA NETO;3628;Deputado Federal;PTC;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALEXANDRE GALVAO DA SILVA;438.585.624-91;01/10/2010;       Diversas a especificar;R$ 179,68;Cheque; -  -  / 3628 - GALDINO PEREIRA DA SILVA NETO - PE - Deputado Federal;
+Diretório Estadual/Distrital;05.055.973/0001-41;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Direção Estadual/Distrital - PTC -  / 3628 - GALDINO PEREIRA DA SILVA NETO - PE - Deputado Federal;
+Diretório Estadual/Distrital;05.055.973/0001-41;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 700,00;Estimado;Direção Estadual/Distrital - PTC -  / 3628 - GALDINO PEREIRA DA SILVA NETO - PE - Deputado Federal;
+Diretório Estadual/Distrital;05.055.973/0001-41;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 237,00;Estimado;Direção Estadual/Distrital - PTC -  / 3628 - GALDINO PEREIRA DA SILVA NETO - PE - Deputado Federal;
+JOSE ERIBERTO MEDEIROS DE OLIVEIRA;12.177.701/0001-80;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 50,00;Estimado;36111 -  - PTC -  - Deputado Estadual / 3628 - GALDINO PEREIRA DA SILVA NETO - PE - Deputado Federal;
+MARCOS ALBERTO S DA SILVA;123.870.534-00;01/10/2010;       Diversas a especificar;R$ 250,00;Cheque; -  -  / 3628 - GALDINO PEREIRA DA SILVA NETO - PE - Deputado Federal;
+ROBERTO JOSE DOS SANTOS;368.317.194-49;01/10/2010;       Diversas a especificar;R$ 160,00;Cheque; -  -  / 3628 - GALDINO PEREIRA DA SILVA NETO - PE - Deputado Federal;
+SANDRO MARCIO DA SILVA;034.407.644-00;01/10/2010;       Diversas a especificar;R$ 1.310,00;Cheque; -  -  / 3628 - GALDINO PEREIRA DA SILVA NETO - PE - Deputado Federal;
+UBIRACI AMARO DOS SANTOS;080.318.354-20;01/10/2010;       Diversas a especificar;R$ 100,00;Cheque; -  -  / 3628 - GALDINO PEREIRA DA SILVA NETO - PE - Deputado Federal;
+;;26/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,32;Cheque; -  -  / 3628 - GALDINO PEREIRA DA SILVA NETO - PE - Deputado Federal;

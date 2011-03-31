@@ -1,7 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 ISAIAS LEMOS COIMBRA DEPUTADO FEDERAL;127.854.151-91;13/08/2010;22000170051;R$ 1.500,00;Depósito em espécie;ISAIAS LEMOS COIMBRA;2212;Deputado Federal;PR;RJ;
-ELEIÇÃO 2010 ISAIAS LEMOS COIMBRA DEPUTADO FEDERAL;127.854.151-91;03/09/2010;22000170052;R$ 1.000,00;Cheque;ISAIAS LEMOS COIMBRA;2212;Deputado Federal;PR;RJ;
-ELEIÇÃO 2010 ISAIAS LEMOS COIMBRA DEPUTADO FEDERAL;127.854.151-91;06/09/2010;22000170054;R$ 4.400,00;Cheque;ISAIAS LEMOS COIMBRA;2212;Deputado Federal;PR;RJ;
-ELEIÇÃO 2010 ISAIAS LEMOS COIMBRA DEPUTADO FEDERAL;127.854.151-91;14/09/2010;22000170057;R$ 1.000,00;Cheque;ISAIAS LEMOS COIMBRA;2212;Deputado Federal;PR;RJ;
-ELEIÇÃO 2010 ISAIAS LEMOS COIMBRA DEPUTADO FEDERAL;127.854.151-91;06/09/2010;22000170053;R$ 8.000,00;Cheque;ISAIAS LEMOS COIMBRA;2212;Deputado Federal;PR;RJ;
-ELEIÇÃO 2010 ISAIAS LEMOS COIMBRA DEPUTADO FEDERAL;127.854.151-91;23/09/2010;22000170056;R$ 500,00;Cheque;ISAIAS LEMOS COIMBRA;2212;Deputado Federal;PR;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARTES GRAFICAS E EDITORA SESIL LTDA;57.690.711/0001-52;31/08/2010;       Publicidade por jornais e revistas;R$ 1.703,00;Cheque; -  -  / 2212 - ISAIAS LEMOS COIMBRA - RJ - Deputado Federal;
+ARTES GRAFICAS E EDITORA SESIL LTDA;57.690.711/0001-52;03/09/2010;       Publicidade por jornais e revistas;R$ 4.147,00;Cheque; -  -  / 2212 - ISAIAS LEMOS COIMBRA - RJ - Deputado Federal;
+ARTES GRAFICAS E EDITORA SESIL LTDA;57.690.711/0001-52;27/08/2010;       Publicidade por jornais e revistas;R$ 3.900,00;Cheque; -  -  / 2212 - ISAIAS LEMOS COIMBRA - RJ - Deputado Federal;
+ARTES GRAFICAS E EDITORA SESIL LTDA;57.690.711/0001-52;20/08/2010;       Publicidade por jornais e revistas;R$ 3.250,00;Cheque; -  -  / 2212 - ISAIAS LEMOS COIMBRA - RJ - Deputado Federal;
+COPACABANA COTTON CENTER LTDA;03.648.723/0001-90;01/09/2010;       Publicidade por materiais impressos;R$ 800,00;Cheque; -  -  / 2212 - ISAIAS LEMOS COIMBRA - RJ - Deputado Federal;
+FALA PUBLICIDADE LTDA;00.000.000/0000-00;14/09/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 2212 - ISAIAS LEMOS COIMBRA - RJ - Deputado Federal;
+FFFFFFFF;00.000.000/0000-01;10/09/2010;       Publicidade por materiais impressos;R$ 701,00;Cheque; -  -  / 2212 - ISAIAS LEMOS COIMBRA - RJ - Deputado Federal;
+SCHILD COMERCIO DE ETIQUETAS LTDA;05.769.056/0001-29;26/08/2010;       Publicidade por materiais impressos;R$ 352,00;Cheque; -  -  / 2212 - ISAIAS LEMOS COIMBRA - RJ - Deputado Federal;
+SELMA DOS REIS GARCIA ALVES;601.517.227-49;02/10/2010;       Serviços prestados por terceiros;R$ 47,00;Cheque; -  -  / 2212 - ISAIAS LEMOS COIMBRA - RJ - Deputado Federal;
+SHAOVAN ARTES GRAFICAS LTDA;28.040.277/0001-67;01/10/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 2212 - ISAIAS LEMOS COIMBRA - RJ - Deputado Federal;

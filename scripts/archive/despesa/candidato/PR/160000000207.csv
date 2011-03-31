@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 RASCA RODRIGUES;12.175.806/0001-08;01/10/2010;43001756004;R$ 235,00;Estimado;ADRIANA FERREIRA PAULMICHL;4332;Deputado Federal;PV;PR;
-ELEIÇÃO 2010 RASCA RODRIGUES;12.175.806/0001-08;01/10/2010;43001756002;R$ 62,86;Estimado;ADRIANA FERREIRA PAULMICHL;4332;Deputado Federal;PV;PR;
-ELEIÇÃO 2010 RASCA RODRIGUES;12.175.806/0001-08;01/10/2010;43001756001;R$ 984,50;Estimado;ADRIANA FERREIRA PAULMICHL;4332;Deputado Federal;PV;PR;
-ELEIÇÃO 2010 RASCA RODRIGUES;12.175.806/0001-08;01/10/2010;43001756003;R$ 102,00;Estimado;ADRIANA FERREIRA PAULMICHL;4332;Deputado Federal;PV;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 RASCA RODRIGUES;12.175.806/0001-08;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 235,00;Estimado;43123 -  - PV -  - Deputado Estadual / 4332 - ADRIANA FERREIRA PAULMICHL - PR - Deputado Federal;
+ELEIÇÃO 2010 RASCA RODRIGUES;12.175.806/0001-08;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 102,00;Estimado;43123 -  - PV -  - Deputado Estadual / 4332 - ADRIANA FERREIRA PAULMICHL - PR - Deputado Federal;
+ELEIÇÃO 2010 RASCA RODRIGUES;12.175.806/0001-08;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 984,50;Estimado;43123 -  - PV -  - Deputado Estadual / 4332 - ADRIANA FERREIRA PAULMICHL - PR - Deputado Federal;
+ELEIÇÃO 2010 RASCA RODRIGUES;12.175.806/0001-08;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 62,86;Estimado;43123 -  - PV -  - Deputado Estadual / 4332 - ADRIANA FERREIRA PAULMICHL - PR - Deputado Federal;

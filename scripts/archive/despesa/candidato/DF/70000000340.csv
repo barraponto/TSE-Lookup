@@ -1,5 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.300/0001-96;29/09/2010;65000176165;R$ 168,70;Estimado;ISMAEL DE OLIVEIRA CAITANO;65133;Deputado Distrital;PC do B;DF;
-ELEICÕES 2010 ROBERTO POLICARPO FAGUNDES;12.190.839/0001-19;30/09/2010;65000176261;R$ 5.235,06;Estimado;ISMAEL DE OLIVEIRA CAITANO;65133;Deputado Distrital;PC do B;DF;
-JOSÉ MESSIAS DE SOUZA;12.171.862/0001-66;30/09/2010;65000176164;R$ 3.400,00;Cheque;ISMAEL DE OLIVEIRA CAITANO;65133;Deputado Distrital;PC do B;DF;
-VERA LÚCIA ÁRAUJO DE SOUZA;579.531.201-00;18/10/2010;65000176262;R$ 50,00;Depósito em espécie;ISMAEL DE OLIVEIRA CAITANO;65133;Deputado Distrital;PC do B;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.300/0001-96;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 168,70;Estimado;Comitê Financeiro Único - PC do B -  / 65133 - ISMAEL DE OLIVEIRA CAITANO - DF - Deputado Distrital;
+DIMENSÃO LETREIROS E PLACAS LTDA-ME;38.068.847/0001-80;30/09/2010;       Publicidade por materiais impressos;R$ 3.400,00;Cheque; -  -  / 65133 - ISMAEL DE OLIVEIRA CAITANO - DF - Deputado Distrital;
+ELEICÕES 2010 ROBERTO POLICARPO FAGUNDES;12.190.839/0001-19;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 5.235,06;Estimado;1322 -  - PT -  - Deputado Federal / 65133 - ISMAEL DE OLIVEIRA CAITANO - DF - Deputado Distrital;

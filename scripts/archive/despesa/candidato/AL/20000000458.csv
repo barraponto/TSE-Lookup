@@ -1,4 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;01.308.052/0001-92;21/09/2010;12001005593;R$ 15.000,00;Cheque;JAILTON SANTOS COSTA;12555;Deputado Estadual;PDT;AL;
-JAILTON SANTOS COSTA;483.835.704-49;01/08/2010;;R$ 0,01;Estimado;JAILTON SANTOS COSTA;12555;Deputado Estadual;PDT;AL;
-RONALDO AUGUSTO LESSA SANTOS;12.168.518/0001-18;23/08/2010;12001005592;R$ 10.000,00;Cheque;JAILTON SANTOS COSTA;12555;Deputado Estadual;PDT;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARTES CORES COMUNICAÇÃO VISUAL LTDA;02.796.182/0001-84;09/09/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 12555 - JAILTON SANTOS COSTA - AL - Deputado Estadual;
+EDMO CARNEIRO DO NASCIMENTO;001.987.415-45;01/10/2010;       Criação e inclusão de páginas na internet;R$ 500,00;Cheque; -  -  / 12555 - JAILTON SANTOS COSTA - AL - Deputado Estadual;
+EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS- CORREIOS;34.028.316/0004-56;03/09/2010;       Despesas postais;R$ 1.251,82;Cheque; -  -  / 12555 - JAILTON SANTOS COSTA - AL - Deputado Estadual;
+GOMES E AMORIM LTDA EPP;09.654.270/0001-90;27/09/2010;       Publicidade por materiais impressos;R$ 15.000,00;Cheque; -  -  / 12555 - JAILTON SANTOS COSTA - AL - Deputado Estadual;
+GOMES E AMORIM LTDA EPP;09.654.270/0001-90;16/08/2010;       Publicidade por materiais impressos;R$ 1.900,00;Cheque; -  -  / 12555 - JAILTON SANTOS COSTA - AL - Deputado Estadual;
+GRAFMARQUES INDUSTRIA EDITORA E SERVICOS LTDA;00.887.925/0001-04;26/08/2010;       Publicidade por materiais impressos;R$ 1.160,00;Cheque; -  -  / 12555 - JAILTON SANTOS COSTA - AL - Deputado Estadual;
+JAILTON SANTOS COSTA;483.835.704-49;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 0,01;Estimado; -  -  / 12555 - JAILTON SANTOS COSTA - AL - Deputado Estadual;
+MADSON COMERCIO DE COMBUSTIVEIS E PRODUTOS ALIMENTICIOS LTDA;02.448.145/0001-85;28/09/2010;       Combustíveis e lubrificantes;R$ 2.000,00;Cheque; -  -  / 12555 - JAILTON SANTOS COSTA - AL - Deputado Estadual;
+MARCOS ANTONIO CAVALCANTE SOARES;926.022.314-87;30/09/2010;       Serviços prestados por terceiros;R$ 2.188,18;Cheque; -  -  / 12555 - JAILTON SANTOS COSTA - AL - Deputado Estadual;

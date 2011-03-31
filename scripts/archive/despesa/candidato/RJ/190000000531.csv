@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DANIEL TOURINHO;12.172.794/0001-50;15/09/2010;36000055155;R$ 5.980,00;Estimado;SERGIO LUIZ GOMES DE ARAUJO;36334;Deputado Estadual;PTC;RJ;
-DANIEL TOURINHO;12.172.794/0001-50;15/09/2010;36000055154;R$ 700,00;Estimado;SERGIO LUIZ GOMES DE ARAUJO;36334;Deputado Estadual;PTC;RJ;
-MARCELO MAXIMO MOREIRA;055.356.607-52;31/08/2010;36000055151;R$ 172,00;Estimado;SERGIO LUIZ GOMES DE ARAUJO;36334;Deputado Estadual;PTC;RJ;
-MARCO ANTONIO DUARTE CAMPOS;594.915.237-91;31/08/2010;36000055152;R$ 400,00;Estimado;SERGIO LUIZ GOMES DE ARAUJO;36334;Deputado Estadual;PTC;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DANIEL TOURINHO;12.172.794/0001-50;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 5.980,00;Estimado;3636 -  - PTC -  - Deputado Federal / 36334 - SERGIO LUIZ GOMES DE ARAUJO - RJ - Deputado Estadual;
+DANIEL TOURINHO;12.172.794/0001-50;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 700,00;Estimado;3636 -  - PTC -  - Deputado Federal / 36334 - SERGIO LUIZ GOMES DE ARAUJO - RJ - Deputado Estadual;
+MARCELO MAXIMO MOREIRA;055.356.607-52;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 172,00;Estimado; -  -  / 36334 - SERGIO LUIZ GOMES DE ARAUJO - RJ - Deputado Estadual;
+MARCO ANTONIO DUARTE CAMPOS;594.915.237-91;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado; -  -  / 36334 - SERGIO LUIZ GOMES DE ARAUJO - RJ - Deputado Estadual;

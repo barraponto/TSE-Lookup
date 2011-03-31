@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTHONY WILLIAN GAROTINHO MATHEUS DE OLIVEIRA;12.199.794/0001-43;15/09/2010;22000165952;R$ 35,00;Estimado;MAGNELSON FERREIRA DE SOUZA;22796;Deputado Estadual;PR;RJ;
-Comitê Financeiro Único;12.217.557/0001-68;02/10/2010;22000165954;R$ 2.272,72;Estimado;MAGNELSON FERREIRA DE SOUZA;22796;Deputado Estadual;PR;RJ;
-FERNANDO OTAVIO DE FREITAS PEREGRINO;12.176.027/0001-19;26/09/2010;22000165953;R$ 1.400,00;Estimado;MAGNELSON FERREIRA DE SOUZA;22796;Deputado Estadual;PR;RJ;
-MARCIELIO ZEFERINO DE SOUZA JUNIOR;052.864.037-27;04/08/2010;22000165951;R$ 2.000,00;Depósito em espécie;MAGNELSON FERREIRA DE SOUZA;22796;Deputado Estadual;PR;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTHONY WILLIAN GAROTINHO MATHEUS DE OLIVEIRA;12.199.794/0001-43;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 35,00;Estimado;2258 -  - PR -  - Deputado Federal / 22796 - MAGNELSON FERREIRA DE SOUZA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.217.557/0001-68;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.272,72;Estimado;Comitê Financeiro Único - PR -  / 22796 - MAGNELSON FERREIRA DE SOUZA - RJ - Deputado Estadual;
+FERNANDO OTAVIO DE FREITAS PEREGRINO;12.176.027/0001-19;26/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.400,00;Estimado;22 -  - PR -  - Governador / 22796 - MAGNELSON FERREIRA DE SOUZA - RJ - Deputado Estadual;
+GISA & LIPE COMÉRCIO DE ADESIVOS LTDA-ME;05.448.555/0001-14;06/08/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 22796 - MAGNELSON FERREIRA DE SOUZA - RJ - Deputado Estadual;
+MULTWORLD CENTRAL SERVIÇOS DE ENTREGAS LTDA;08.097.027/0001-56;30/09/2010;       Despesas com transporte ou deslocamento;R$ 1.500,00;Cheque; -  -  / 22796 - MAGNELSON FERREIRA DE SOUZA - RJ - Deputado Estadual;

@@ -1,3 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-SILMAR CASTILHO;481.712.632-91;21/09/2010;43001801827;R$ 200,00;Depósito em espécie;MARIA CASSILDA BARRETO DE SOUZA;4377;Deputado Federal;PV;AP;
-SILMAR CASTILHO;481.712.632-91;09/08/2010;43001801826;R$ 1.000,00;Depósito em espécie;MARIA CASSILDA BARRETO DE SOUZA;4377;Deputado Federal;PV;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+D. C. ALVES BALIEIRO;84.415.066/0001-32;21/09/2010;       Serviços prestados por terceiros;R$ 150,00;Cheque; -  -  / 4377 - MARIA CASSILDA BARRETO DE SOUZA - AP - Deputado Federal;
+MARCO ZERO GRAFICA E EDITORA LTDA;11.592.965/0001-37;11/08/2010;       Publicidade por materiais impressos;R$ 510,00;Cheque; -  -  / 4377 - MARIA CASSILDA BARRETO DE SOUZA - AP - Deputado Federal;
+RAIMUNDO BARRETO;012.336.702-63;10/09/2010;       Serviços prestados por terceiros;R$ 306,60;Cheque; -  -  / 4377 - MARIA CASSILDA BARRETO DE SOUZA - AP - Deputado Federal;
+STILO COMUNICAÇÃO VISUAL LTDA - EPP;04.945.638/0001-56;18/08/2010;       Publicidade por materiais impressos;R$ 155,60;Cheque; -  -  / 4377 - MARIA CASSILDA BARRETO DE SOUZA - AP - Deputado Federal;
+STILO COMUNICAÇÃO VISUAL LTDA - EPP;04.945.638/0001-56;11/08/2010;       Publicidade por materiais impressos;R$ 77,80;Cheque; -  -  / 4377 - MARIA CASSILDA BARRETO DE SOUZA - AP - Deputado Federal;

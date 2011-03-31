@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CONSTRUTORA ATERPA S/A;17.162.983/0001-65;19/08/2010;10000081955;R$ 443,33;Estimado;VALDIR ALEIXO DOS SANTOS;10333;Deputado Estadual;PRB;MG;
-ELEIÇÃO 2010 HELIO CALIXTO COSTA;12.189.609/0001-30;30/09/2010;10000081956;R$ 600,00;Estimado;VALDIR ALEIXO DOS SANTOS;10333;Deputado Estadual;PRB;MG;
-ELEIÇÃO 2010 HELIO CALIXTO DA COSTA;12.189.609/0001-30;11/08/2010;10000081954;R$ 300,00;Estimado;VALDIR ALEIXO DOS SANTOS;10333;Deputado Estadual;PRB;MG;
-HELIO CALIXTO DA COSTA;12.189.609/0001-30;01/09/2010;10000081957;R$ 79,80;Estimado;VALDIR ALEIXO DOS SANTOS;10333;Deputado Estadual;PRB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CONSTRUTORA ATERPA S/A;17.162.983/0001-65;19/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 443,33;Estimado; -  -  / 10333 - VALDIR ALEIXO DOS SANTOS - MG - Deputado Estadual;
+ELEIÇÃO 2010 HELIO CALIXTO COSTA;12.189.609/0001-30;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado;15 -  - PMDB -  - Governador / 10333 - VALDIR ALEIXO DOS SANTOS - MG - Deputado Estadual;
+ELEIÇÃO 2010 HELIO CALIXTO DA COSTA;12.189.609/0001-30;11/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;15 -  - PMDB -  - Governador / 10333 - VALDIR ALEIXO DOS SANTOS - MG - Deputado Estadual;
+HELIO CALIXTO DA COSTA;12.189.609/0001-30;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 79,80;Estimado;15 -  - PMDB -  - Governador / 10333 - VALDIR ALEIXO DOS SANTOS - MG - Deputado Estadual;

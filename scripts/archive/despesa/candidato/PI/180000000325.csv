@@ -1,8 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Nacional;29.549.433/0001-82;14/09/2010;33000122169;R$ 250,00;Estimado;ZELIA MARIA DE SÁ;3345;Deputado Federal;PMN;PI;
-Diretório Nacional;29.549.433/0001-82;14/09/2010;33000122171;R$ 250,00;Estimado;ZELIA MARIA DE SÁ;3345;Deputado Federal;PMN;PI;
-Diretório Nacional;29.549.433/0001-82;14/09/2010;33000122170;R$ 250,00;Estimado;ZELIA MARIA DE SÁ;3345;Deputado Federal;PMN;PI;
-Diretório Nacional;29.549.433/0001-82;30/09/2010;33000122172;R$ 14.000,00;Estimado;ZELIA MARIA DE SÁ;3345;Deputado Federal;PMN;PI;
-JOSE LUIZ MARTINS DE CARVALHO;007.288.883-00;31/08/2010;33000122168;R$ 900,00;Depósito em espécie;ZELIA MARIA DE SÁ;3345;Deputado Federal;PMN;PI;
-JOSE LUIZ MARTINS DE CARVALHO;007.288.883-00;18/08/2010;33000122167;R$ 1.500,00;Depósito em espécie;ZELIA MARIA DE SÁ;3345;Deputado Federal;PMN;PI;
-ZELIA MARIA DE SÁ;439.281.293-68;14/08/2010;33000122166;R$ 4.500,00;Estimado;ZELIA MARIA DE SÁ;3345;Deputado Federal;PMN;PI;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO CONFIANÇA LTDA;34.977.223/0004-78;27/08/2010;       Combustíveis e lubrificantes;R$ 200,00;Cheque; -  -  / 3345 - ZELIA MARIA DE SÁ - PI - Deputado Federal;
+Diretório Nacional;29.549.433/0001-82;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 14.000,00;Estimado;Direção Nacional - PMN -  / 3345 - ZELIA MARIA DE SÁ - PI - Deputado Federal;
+Diretório Nacional;29.549.433/0001-82;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;Direção Nacional - PMN -  / 3345 - ZELIA MARIA DE SÁ - PI - Deputado Federal;
+Diretório Nacional;29.549.433/0001-82;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;Direção Nacional - PMN -  / 3345 - ZELIA MARIA DE SÁ - PI - Deputado Federal;
+Diretório Nacional;29.549.433/0001-82;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;Direção Nacional - PMN -  / 3345 - ZELIA MARIA DE SÁ - PI - Deputado Federal;
+GRAFICA EDITORA E PAPELARIA POPULAR;00.524.453/0001-17;28/08/2010;       Publicidade por materiais impressos;R$ 1.839,00;Cheque; -  -  / 3345 - ZELIA MARIA DE SÁ - PI - Deputado Federal;
+POSTO NOSSA SENNHORA DE NAZARE COMERCIO DE COMBUSTIVEL LTDA;05.866.586/0001-95;25/09/2010;       Combustíveis e lubrificantes;R$ 360,00;Cheque; -  -  / 3345 - ZELIA MARIA DE SÁ - PI - Deputado Federal;
+ZELIA MARIA DE SÁ;439.281.293-68;14/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.500,00;Estimado; -  -  / 3345 - ZELIA MARIA DE SÁ - PI - Deputado Federal;
+;;24/08/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 3345 - ZELIA MARIA DE SÁ - PI - Deputado Federal;

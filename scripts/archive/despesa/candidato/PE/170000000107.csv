@@ -1,2 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-SEVERINO DO RAMO FERNANDES DE MELO;150.121.664-34;23/07/2010;23000203301;R$ 3.000,00;Depósito em espécie;SEVERINO DO RAMO FERNANDES DE MELO;23789;Deputado Estadual;PPS;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EZEQUIAS BEZERRA DE MOURA;077.572.714-87;23/08/2010;       Publicidade por jornais e revistas;R$ 100,00;Cheque; -  -  / 23789 - SEVERINO DO RAMO FERNANDES DE MELO - PE - Deputado Estadual;
+RUI BARBOSA DA SILVA PAPELARIA;07.255.685/0001-66;10/08/2010;       Publicidade por materiais impressos;R$ 490,00;Cheque; -  -  / 23789 - SEVERINO DO RAMO FERNANDES DE MELO - PE - Deputado Estadual;
+TIAGO ERIVALDO DOS SANTOS - ME;35.714.880/0001-42;20/09/2010;       Publicidade por materiais impressos;R$ 301,54;Cheque; -  -  / 23789 - SEVERINO DO RAMO FERNANDES DE MELO - PE - Deputado Estadual;
+TIAGO ERIVALDO DOS SANTOS - ME;35.714.880/0001-42;19/08/2010;       Publicidade por materiais impressos;R$ 2.081,78;Cheque; -  -  / 23789 - SEVERINO DO RAMO FERNANDES DE MELO - PE - Deputado Estadual;
+;;23/07/2010;       Impostos, contribuições e taxas;R$ 26,68;Cheque; -  -  / 23789 - SEVERINO DO RAMO FERNANDES DE MELO - PE - Deputado Estadual;

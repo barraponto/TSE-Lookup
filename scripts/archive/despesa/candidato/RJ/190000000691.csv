@@ -1,9 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALESSANDRO CALAZANS;12.167.596/0001-06;01/10/2010;33000019707;R$ 260,00;Estimado;MARCOS VENICIUS DE LIMA;3324;Deputado Federal;PMN;RJ;
-ALESSANDRO CALAZANS;12.167.596/0001-06;01/10/2010;33000019708;R$ 1.000,00;Estimado;MARCOS VENICIUS DE LIMA;3324;Deputado Federal;PMN;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;08/09/2010;33000019703;R$ 150,00;Estimado;MARCOS VENICIUS DE LIMA;3324;Deputado Federal;PMN;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;08/09/2010;33000019701;R$ 150,00;Estimado;MARCOS VENICIUS DE LIMA;3324;Deputado Federal;PMN;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;08/09/2010;33000019702;R$ 150,00;Estimado;MARCOS VENICIUS DE LIMA;3324;Deputado Federal;PMN;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;33000019704;R$ 600,00;Estimado;MARCOS VENICIUS DE LIMA;3324;Deputado Federal;PMN;RJ;
-JORGE PICCIANI;12.176.626/0001-32;01/10/2010;33000019705;R$ 60,67;Estimado;MARCOS VENICIUS DE LIMA;3324;Deputado Federal;PMN;RJ;
-JORGE PICCIANI;12.176.626/0001-32;01/10/2010;33000019706;R$ 17,00;Estimado;MARCOS VENICIUS DE LIMA;3324;Deputado Federal;PMN;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALESSANDRO CALAZANS;12.167.596/0001-06;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;33333 -  - PMN -  - Deputado Estadual / 3324 - MARCOS VENICIUS DE LIMA - RJ - Deputado Federal;
+ALESSANDRO CALAZANS;12.167.596/0001-06;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 260,00;Estimado;33333 -  - PMN -  - Deputado Estadual / 3324 - MARCOS VENICIUS DE LIMA - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado;Comitê Financeiro Único - PMDB -  / 3324 - MARCOS VENICIUS DE LIMA - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;08/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 3324 - MARCOS VENICIUS DE LIMA - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;08/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 3324 - MARCOS VENICIUS DE LIMA - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;08/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 3324 - MARCOS VENICIUS DE LIMA - RJ - Deputado Federal;
+JORGE PICCIANI;12.176.626/0001-32;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 3324 - MARCOS VENICIUS DE LIMA - RJ - Deputado Federal;
+JORGE PICCIANI;12.176.626/0001-32;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 60,67;Estimado;155 -  - PMDB -  - Senador / 3324 - MARCOS VENICIUS DE LIMA - RJ - Deputado Federal;

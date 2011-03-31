@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.189.609/0001-30;27/09/2010;15000130002;R$ 68,40;Estimado;ROSA HELENA DE OLIVEIRA;15777;Deputado Estadual;PMDB;MG;
-Diretório Estadual/Distrital;12.189.609/0001-30;16/08/2010;15000130001;R$ 300,00;Estimado;ROSA HELENA DE OLIVEIRA;15777;Deputado Estadual;PMDB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.189.609/0001-30;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 68,40;Estimado;Direção Estadual/Distrital - PMDB -  / 15777 - ROSA HELENA DE OLIVEIRA - MG - Deputado Estadual;
+Diretório Estadual/Distrital;12.189.609/0001-30;16/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Direção Estadual/Distrital - PMDB -  / 15777 - ROSA HELENA DE OLIVEIRA - MG - Deputado Estadual;

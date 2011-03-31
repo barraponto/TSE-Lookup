@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-HERMES BENEDITO ALEXIUS;528.838.330-87;23/07/2010;50000478602;R$ 100,00;Depósito em espécie;HERMES BENEDITO ALEXUS;50001;Deputado Estadual;PSOL;RS;
-HERMES BENEDITO ALEXIUS;528.838.330-87;25/08/2010;50000478604;R$ 80,00;Transferência eletrônica;HERMES BENEDITO ALEXUS;50001;Deputado Estadual;PSOL;RS;
-HERMES BENEDITO ALEXIUS;528.838.330-87;16/08/2010;50000478605;R$ 155,00;Transferência eletrônica;HERMES BENEDITO ALEXUS;50001;Deputado Estadual;PSOL;RS;
-LUIZ AMÉRICO ALVES ALDANA;12.154.757/0001-19;19/07/2010;50000478601;R$ 150,00;Estimado;HERMES BENEDITO ALEXUS;50001;Deputado Estadual;PSOL;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+HOT PRINT GRÁFICA;04.615.020/0001-23;25/08/2010;       Publicidade por materiais impressos;R$ 81,00;Cheque; -  -  / 50001 - HERMES BENEDITO ALEXUS - RS - Deputado Estadual;
+LUIZ AMÉRICO ALVES ALDANA;12.154.757/0001-19;19/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;5095 -  - PSOL -  - Deputado Federal / 50001 - HERMES BENEDITO ALEXUS - RS - Deputado Estadual;
+SIGNSUL COMUNICAÇÃO VISUAL LTDA;07.134.490/0001-68;23/07/2010;       Publicidade por materiais impressos;R$ 92,00;Cheque; -  -  / 50001 - HERMES BENEDITO ALEXUS - RS - Deputado Estadual;
+SIGNSUL COMUNICAÇÃO VISUAL LTDA;07.134.490/0001-68;13/08/2010;       Publicidade por materiais impressos;R$ 153,00;Cheque; -  -  / 50001 - HERMES BENEDITO ALEXUS - RS - Deputado Estadual;

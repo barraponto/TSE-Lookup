@@ -1,7 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-BRASIL ARTES GRÁFICAS LTDA;16.202.699/0001-02;01/10/2010;13000613709;R$ 600,00;Estimado;JOSÉ LUIZ RESSURREIÇÃO DOS SANTOS;1388;Deputado Federal;PT;BA;
-BRASIL ARTES GRÁFICAS LTDA;16.202.699/0001-02;27/09/2010;13000613706;R$ 300,00;Estimado;JOSÉ LUIZ RESSURREIÇÃO DOS SANTOS;1388;Deputado Federal;PT;BA;
-JAQUES WAGNER;12.174.245/0001-14;15/09/2010;13000613703;R$ 875,00;Estimado;JOSÉ LUIZ RESSURREIÇÃO DOS SANTOS;1388;Deputado Federal;PT;BA;
-JAQUES WAGNER;12.174.245/0001-14;15/09/2010;13000613702;R$ 1.200,00;Estimado;JOSÉ LUIZ RESSURREIÇÃO DOS SANTOS;1388;Deputado Federal;PT;BA;
-JAQUES WAGNER;12.174.245/0001-14;15/09/2010;13000613704;R$ 875,00;Estimado;JOSÉ LUIZ RESSURREIÇÃO DOS SANTOS;1388;Deputado Federal;PT;BA;
-JOÃO NEGRÃO ROSA;017.420.275-04;23/07/2010;13000613701;R$ 1.000,00;Cheque;JOSÉ LUIZ RESSURREIÇÃO DOS SANTOS;1388;Deputado Federal;PT;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BRASIL ARTES GRÁFICAS LTDA;16.202.699/0001-02;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 1388 - JOSÉ LUIZ RESSURREIÇÃO DOS SANTOS - BA - Deputado Federal;
+BRASIL ARTES GRÁFICAS LTDA;16.202.699/0001-02;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado; -  -  / 1388 - JOSÉ LUIZ RESSURREIÇÃO DOS SANTOS - BA - Deputado Federal;
+EMANUELA MENDES ANDRADE;937.948.195-00;27/09/2010;       Serviços prestados por terceiros;R$ 850,00;Cheque; -  -  / 1388 - JOSÉ LUIZ RESSURREIÇÃO DOS SANTOS - BA - Deputado Federal;
+JAQUES WAGNER;12.174.245/0001-14;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 875,00;Estimado;13 -  - PT -  - Governador / 1388 - JOSÉ LUIZ RESSURREIÇÃO DOS SANTOS - BA - Deputado Federal;
+JAQUES WAGNER;12.174.245/0001-14;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.200,00;Estimado;13 -  - PT -  - Governador / 1388 - JOSÉ LUIZ RESSURREIÇÃO DOS SANTOS - BA - Deputado Federal;
+JAQUES WAGNER;12.174.245/0001-14;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 875,00;Estimado;13 -  - PT -  - Governador / 1388 - JOSÉ LUIZ RESSURREIÇÃO DOS SANTOS - BA - Deputado Federal;
+PLACASERV COMUNICAÇÃO VISUAL LTDA;04.475.870/0001-78;27/09/2010;       Publicidade por placas, estandartes e faixas;R$ 150,00;Cheque; -  -  / 1388 - JOSÉ LUIZ RESSURREIÇÃO DOS SANTOS - BA - Deputado Federal;

@@ -1,4 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;91.698.118/0001-90;20/07/2010;40000921651;R$ 200,00;Transferência eletrônica;ROBERTA PEREIRA VASQUES;40550;Deputado Estadual;PSB;RS;
-Diretório Estadual/Distrital;91.698.118/0001-90;29/09/2010;40000921653;R$ 400,00;Transferência eletrônica;ROBERTA PEREIRA VASQUES;40550;Deputado Estadual;PSB;RS;
-ROBERTA PEREIRA VASQUES;784.607.000-20;09/09/2010;40000921652;R$ 200,00;Depósito em espécie;ROBERTA PEREIRA VASQUES;40550;Deputado Estadual;PSB;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADRIANA TORELLI SEARA;747.840.720-04;02/10/2010;       Serviços prestados por terceiros;R$ 76,00;Cheque; -  -  / 40550 - ROBERTA PEREIRA VASQUES - RS - Deputado Estadual;
+M&M DISTRIBUIDORA DE TECIDOS LTDA;07.728.414/0001-80;07/08/2010;       Publicidade por placas, estandartes e faixas;R$ 73,00;Cheque; -  -  / 40550 - ROBERTA PEREIRA VASQUES - RS - Deputado Estadual;
+PETROBRAS DISTRIBUIDORA SA;34.274.233/0118-05;02/10/2010;       Combustíveis e lubrificantes;R$ 116,00;Cheque; -  -  / 40550 - ROBERTA PEREIRA VASQUES - RS - Deputado Estadual;
+PETROBRAS DISTRIBUIDORA SA;34.274.233/0118-05;02/10/2010;       Combustíveis e lubrificantes;R$ 125,00;Cheque; -  -  / 40550 - ROBERTA PEREIRA VASQUES - RS - Deputado Estadual;
+PETROBRAS DISTRIBUIDORA SA;34.274.233/0118-05;27/07/2010;       Combustíveis e lubrificantes;R$ 50,00;Não informado; -  -  / 40550 - ROBERTA PEREIRA VASQUES - RS - Deputado Estadual;
+PETROBRAS DISTRIBUIDORA SA;34.274.233/0118-05;30/09/2010;       Combustíveis e lubrificantes;R$ 110,00;Cheque; -  -  / 40550 - ROBERTA PEREIRA VASQUES - RS - Deputado Estadual;
+PETROBRAS DISTRIBUIDORA SA;34.274.233/0118-05;16/09/2010;       Combustíveis e lubrificantes;R$ 100,00;Cheque; -  -  / 40550 - ROBERTA PEREIRA VASQUES - RS - Deputado Estadual;
+POSTAL MKT INFORMATICA LTDA;94.012.127/0001-74;28/09/2010;       Serviços prestados por terceiros;R$ 100,00;Cheque; -  -  / 40550 - ROBERTA PEREIRA VASQUES - RS - Deputado Estadual;
+SANTIAGO IGARAY LTDA;92.976.851/0001-92;28/07/2010;       Combustíveis e lubrificantes;R$ 50,00;Não informado; -  -  / 40550 - ROBERTA PEREIRA VASQUES - RS - Deputado Estadual;

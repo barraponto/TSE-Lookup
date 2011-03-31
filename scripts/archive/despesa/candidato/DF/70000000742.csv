@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.221.845/0001-96;03/09/2010;45000422892;R$ 500,00;Estimado;WEBER DE AZEVEDO MAGALHAES;4500;Deputado Federal;PSDB;DF;
-Comitê Financeiro Único;12.221.845/0001-96;03/09/2010;45000422891;R$ 1.080,00;Estimado;WEBER DE AZEVEDO MAGALHAES;4500;Deputado Federal;PSDB;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.221.845/0001-96;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.080,00;Estimado;Comitê Financeiro Único - PSDB -  / 4500 - WEBER DE AZEVEDO MAGALHAES - DF - Deputado Federal;
+Comitê Financeiro Único;12.221.845/0001-96;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;Comitê Financeiro Único - PSDB -  / 4500 - WEBER DE AZEVEDO MAGALHAES - DF - Deputado Federal;

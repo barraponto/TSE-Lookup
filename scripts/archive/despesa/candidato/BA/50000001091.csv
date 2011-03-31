@@ -1,4 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LIDICE DA MATA;12.172.092/0001-76;17/09/2010;40000007023;R$ 1.000,00;Transferência eletrônica;LUCIA MARIA FONTES PEREIRA;40610;Deputado Estadual;PSB;BA;
-LIDICEDA MATA E SOUZA;12.172.092/0001-76;23/09/2010;40000007024;R$ 1.000,00;Cheque;LUCIA MARIA FONTES PEREIRA;40610;Deputado Estadual;PSB;BA;
-VALTER DE NUNS ALVES PEREIRA;051.210.005-53;29/09/2010;40000007025;R$ 100,00;Depósito em espécie;LUCIA MARIA FONTES PEREIRA;40610;Deputado Estadual;PSB;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARGA E RECARGA COMERCIO ESERVIÇOS LTDA- ME;04.807.843/0001-55;21/09/2010;       Serviços prestados por terceiros;R$ 70,00;Cheque; -  -  / 40610 - LUCIA MARIA FONTES PEREIRA - BA - Deputado Estadual;
+CORREIOS;34.028.316/2649-41;25/09/2010;       Despesas postais;R$ 437,00;Cheque; -  -  / 40610 - LUCIA MARIA FONTES PEREIRA - BA - Deputado Estadual;
+CORREIOS;34.028.316/2649-41;21/09/2010;       Despesas postais;R$ 280,00;Cheque; -  -  / 40610 - LUCIA MARIA FONTES PEREIRA - BA - Deputado Estadual;
+EMPRESA EDITORA ATARDE S.A;15.111.297/0001-30;21/09/2010;       Publicidade por jornais e revistas;R$ 455,00;Cheque; -  -  / 40610 - LUCIA MARIA FONTES PEREIRA - BA - Deputado Estadual;
+WELTON SIDINEI MENEZES DA SILVA;05.812.437/0001-43;28/09/2010;       Publicidade por placas, estandartes e faixas;R$ 800,00;Cheque; -  -  / 40610 - LUCIA MARIA FONTES PEREIRA - BA - Deputado Estadual;
+WELTON SIDINEI MENEZES DA SILVA;05.812.437/0001-43;03/11/2010;       Publicidade por materiais impressos;R$ 57,00;Cheque; -  -  / 40610 - LUCIA MARIA FONTES PEREIRA - BA - Deputado Estadual;

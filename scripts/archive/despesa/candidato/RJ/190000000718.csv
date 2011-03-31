@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;01.669.171/0001-70;04/09/2010;40001000551;R$ 392,15;Estimado;VALDINEI DE SOUZA DIAS;4077;Deputado Federal;PSB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;01.669.171/0001-70;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 392,15;Estimado;Direção Estadual/Distrital - PSB -  / 4077 - VALDINEI DE SOUZA DIAS - RJ - Deputado Federal;

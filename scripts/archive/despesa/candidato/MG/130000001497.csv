@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.205.213/0001-39;10/08/2010;40000205701;R$ 1.500,00;Cheque;JEFERSON DE JESUS FARNEZI;40789;Deputado Estadual;PSB;MG;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.205.213/0001-39;30/08/2010;40000205704;R$ 27,95;Estimado;JEFERSON DE JESUS FARNEZI;40789;Deputado Estadual;PSB;MG;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.205.213/0001-39;30/08/2010;40000205703;R$ 1.197,84;Estimado;JEFERSON DE JESUS FARNEZI;40789;Deputado Estadual;PSB;MG;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.205.213/0001-39;30/08/2010;40000205702;R$ 508,00;Estimado;JEFERSON DE JESUS FARNEZI;40789;Deputado Estadual;PSB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.205.213/0001-39;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 27,95;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual - PSB -  / 40789 - JEFERSON DE JESUS FARNEZI - MG - Deputado Estadual;
+Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.205.213/0001-39;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 508,00;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual - PSB -  / 40789 - JEFERSON DE JESUS FARNEZI - MG - Deputado Estadual;
+Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.205.213/0001-39;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.197,84;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual - PSB -  / 40789 - JEFERSON DE JESUS FARNEZI - MG - Deputado Estadual;
+POSTO PIRAJA;17.185.760/0001-13;03/10/2010;       Combustíveis e lubrificantes;R$ 600,00;Cheque; -  -  / 40789 - JEFERSON DE JESUS FARNEZI - MG - Deputado Estadual;
+VARIOS;864.534.676-15;01/09/2010;       Despesas com pessoal;R$ 900,00;Transferência eletrônica; -  -  / 40789 - JEFERSON DE JESUS FARNEZI - MG - Deputado Estadual;

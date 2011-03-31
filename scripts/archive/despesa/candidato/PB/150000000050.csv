@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FRANCISCO PAULO DA SILVA;191.115.504-06;15/09/2010;50000310111;R$ 300,00;Estimado;JOSÉ MARCÍLIO CORREIA DA SILVA;50113;Deputado Estadual;PSOL;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+FRANCISCO PAULO DA SILVA;191.115.504-06;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 50113 - JOSÉ MARCÍLIO CORREIA DA SILVA - PB - Deputado Estadual;

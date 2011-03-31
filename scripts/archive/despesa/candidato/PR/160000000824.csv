@@ -1,5 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÕES 2010 CARLOS ROBERTO MASSA JUNIOR;12.205.238/0001-32;20/08/2010;20000613102;R$ 270,00;Estimado;IVAN LUCIO DOS SANTOS;20555;Deputado Estadual;PSC;PR;
-IVAN LUCIO DOS SANTOS;855.984.299-34;04/08/2010;20000613101;R$ 7.000,00;Cheque;IVAN LUCIO DOS SANTOS;20555;Deputado Estadual;PSC;PR;
-IVAN LUCIO DOS SANTOS;855.984.299-34;24/09/2010;20000613103;R$ 900,00;Cheque;IVAN LUCIO DOS SANTOS;20555;Deputado Estadual;PSC;PR;
-;;05/08/2010;;R$ 0,15;Não informado;IVAN LUCIO DOS SANTOS;20555;Deputado Estadual;PSC;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EDITORA O CORREIO PARANAENSE LTDA;00.064.742/0001-80;28/09/2010;       Publicidade por jornais e revistas;R$ 770,00;Cheque; -  -  / 20555 - IVAN LUCIO DOS SANTOS - PR - Deputado Estadual;
+ELEIÇÕES 2010 CARLOS ROBERTO MASSA JUNIOR;12.205.238/0001-32;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 270,00;Estimado;2020 -  - PSC -  - Deputado Federal / 20555 - IVAN LUCIO DOS SANTOS - PR - Deputado Estadual;
+GRAFICA GOULART LTDA;05.889.808/0001-95;13/08/2010;       Publicidade por placas, estandartes e faixas;R$ 350,00;Cheque; -  -  / 20555 - IVAN LUCIO DOS SANTOS - PR - Deputado Estadual;
+GRAFICA GOULART LTDA;05.889.808/0001-95;04/08/2010;       Publicidade por placas, estandartes e faixas;R$ 3.380,00;Cheque; -  -  / 20555 - IVAN LUCIO DOS SANTOS - PR - Deputado Estadual;
+GRAFICA GOULART LTDA;05.889.808/0001-95;28/09/2010;       Publicidade por placas, estandartes e faixas;R$ 253,65;Cheque; -  -  / 20555 - IVAN LUCIO DOS SANTOS - PR - Deputado Estadual;
+MAXI GRAFICA E EDITORA LTDA;82.523.317/0001-77;28/07/2010;       Publicidade por materiais impressos;R$ 3.125,50;Cheque; -  -  / 20555 - IVAN LUCIO DOS SANTOS - PR - Deputado Estadual;
+;;02/09/2010;       Impostos, contribuições e taxas;R$ 21,00;Débito em conta; -  -  / 20555 - IVAN LUCIO DOS SANTOS - PR - Deputado Estadual;

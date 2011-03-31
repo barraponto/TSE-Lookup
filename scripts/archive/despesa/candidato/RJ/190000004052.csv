@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-VALERIA CARLA BARBOSA;023.006.007-22;05/10/2010;22000167251;R$ 21,00;Depósito em espécie;VALERIA CARLA BARBOSA;22271;Deputado Estadual;PR;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+;;05/10/2010;       Encargos financeiros e taxas bancárias;R$ 21,00;Débito em conta; -  -  / 22271 - VALERIA CARLA BARBOSA - RJ - Deputado Estadual;

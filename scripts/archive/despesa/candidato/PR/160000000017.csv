@@ -1,4 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOAO BOSCO DOS SANTOS;048.877.941-34;13/08/2010;40002061262;R$ 1.600,00;Depósito em espécie;JOAO BOSCO DOS SANTOS;4088;Deputado Federal;PSB;PR;
-JOAO BOSCO DOS SANTOS;048.877.941-34;01/10/2010;40002061270;R$ 1.000,00;Depósito em espécie;JOAO BOSCO DOS SANTOS;4088;Deputado Federal;PSB;PR;
-JOAO BOSCO DOS SANTOS;048.877.941-34;17/09/2010;40002061271;R$ 1.900,00;Depósito em espécie;JOAO BOSCO DOS SANTOS;4088;Deputado Federal;PSB;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CASTRO E PADILHA LTDA;04.813.558/0001-47;15/09/2010;       Combustíveis e lubrificantes;R$ 1.000,00;Cheque; -  -  / 4088 - JOAO BOSCO DOS SANTOS - PR - Deputado Federal;
+CASTRO E PADILHA LTDA;04.813.558/0001-47;28/08/2010;       Combustíveis e lubrificantes;R$ 202,57;Cheque; -  -  / 4088 - JOAO BOSCO DOS SANTOS - PR - Deputado Federal;
+GRAFICA E EDITORA CASTRO E LIMA LTDA;08.275.692/0001-92;16/08/2010;       Publicidade por materiais impressos;R$ 950,00;Cheque; -  -  / 4088 - JOAO BOSCO DOS SANTOS - PR - Deputado Federal;
+GRIM COLOR MATERIAIS FOTOGRAFICOS LTDA;03.639.725/0001-12;17/08/2010;       Publicidade por materiais impressos;R$ 250,00;Cheque; -  -  / 4088 - JOAO BOSCO DOS SANTOS - PR - Deputado Federal;
+GRIM COLOR MATERIAIS FOTOGRAFICOS LTDA;03.639.725/0001-12;30/09/2010;       Publicidade por materiais impressos;R$ 750,00;Cheque; -  -  / 4088 - JOAO BOSCO DOS SANTOS - PR - Deputado Federal;
+POSTO ALLEGRO SAO MATEUS DO SUL LTDA;03.340.743/0001-07;30/09/2010;       Combustíveis e lubrificantes;R$ 1.000,00;Cheque; -  -  / 4088 - JOAO BOSCO DOS SANTOS - PR - Deputado Federal;
+3D PRINT LTDA;11.868.547/0001-20;16/09/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 4088 - JOAO BOSCO DOS SANTOS - PR - Deputado Federal;
+;;17/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 4088 - JOAO BOSCO DOS SANTOS - PR - Deputado Federal;

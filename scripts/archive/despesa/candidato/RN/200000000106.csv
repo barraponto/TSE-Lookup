@@ -1,3 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.198.810/0001-83;30/09/2010;15000214202;R$ 3.070,00;Estimado;HELENO LUIZ DA SILVA;1510;Deputado Federal;PMDB;RN;
-ELEICAO 2010 HELENO LUIZ DA SILVA;079.482.204-53;25/08/2010;15000214201;R$ 2.000,00;Depósito em espécie;HELENO LUIZ DA SILVA;1510;Deputado Federal;PMDB;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.198.810/0001-83;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.070,00;Estimado;Comitê Financeiro Único - PMDB -  / 1510 - HELENO LUIZ DA SILVA - RN - Deputado Federal;
+LUIZ CARLOS DA SILVA COMUNICAÇÃO VISUAL;06.256.970/0001-39;24/08/2010;       Publicidade por materiais impressos;R$ 840,00;Cheque; -  -  / 1510 - HELENO LUIZ DA SILVA - RN - Deputado Federal;
+TEMUS GRAFICA LTDA;70.146.584/0001-93;25/08/2010;       Publicidade por materiais impressos;R$ 800,00;Cheque; -  -  / 1510 - HELENO LUIZ DA SILVA - RN - Deputado Federal;
+TEMUS GRAFICA LTDA;70.146.584/0001-93;22/09/2010;       Publicidade por materiais impressos;R$ 360,00;Cheque; -  -  / 1510 - HELENO LUIZ DA SILVA - RN - Deputado Federal;

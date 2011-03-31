@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSÉ ABADE DA PAZ SANTANA;194.116.695-49;29/10/2010;21000012051;R$ 50,00;Estimado;JOSÉ ABADE DA PAZ SANTANA;2121;Deputado Federal;PCB;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JOSÉ ABADE DA PAZ SANTANA;194.116.695-49;29/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 50,00;Estimado; -  -  / 2121 - JOSÉ ABADE DA PAZ SANTANA - BA - Deputado Federal;

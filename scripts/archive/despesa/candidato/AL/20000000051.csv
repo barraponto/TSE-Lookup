@@ -1,3 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ORIVAL JOSE DE FRANÇA;023.400.114-34;13/08/2010;50000010972;R$ 800,00;Depósito em espécie;ORIVAL JOSE DE FRANCA;50333;Deputado Estadual;PSOL;AL;
-ORIVAL JOSE DE FRANÇA;023.400.114-34;02/08/2010;50000010971;R$ 1.100,00;Depósito em espécie;ORIVAL JOSE DE FRANCA;50333;Deputado Estadual;PSOL;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+INDUSTRIA GRÁFICA E EDITORA IRAMAR LTDA;08.711.919/0001-03;21/08/2010;       Publicidade por materiais impressos;R$ 1.800,00;Cheque; -  -  / 50333 - ORIVAL JOSE DE FRANCA - AL - Deputado Estadual;

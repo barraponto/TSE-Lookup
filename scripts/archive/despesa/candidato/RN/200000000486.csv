@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;43001813286;R$ 2.500,00;Estimado;IVANILDE VEIGA ZANELLA;43222;Deputado Estadual;PV;RN;
-Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;43001813287;R$ 1.304,00;Estimado;IVANILDE VEIGA ZANELLA;43222;Deputado Estadual;PV;RN;
-Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;43001813290;R$ 4.999,75;Estimado;IVANILDE VEIGA ZANELLA;43222;Deputado Estadual;PV;RN;
-Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;43001813289;R$ 714,00;Estimado;IVANILDE VEIGA ZANELLA;43222;Deputado Estadual;PV;RN;
-Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;43001813288;R$ 4.761,00;Estimado;IVANILDE VEIGA ZANELLA;43222;Deputado Estadual;PV;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.761,00;Estimado;Comitê Financeiro Único - PV -  / 43222 - IVANILDE VEIGA ZANELLA - RN - Deputado Estadual;
+Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.500,00;Estimado;Comitê Financeiro Único - PV -  / 43222 - IVANILDE VEIGA ZANELLA - RN - Deputado Estadual;
+Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.999,75;Estimado;Comitê Financeiro Único - PV -  / 43222 - IVANILDE VEIGA ZANELLA - RN - Deputado Estadual;
+Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.304,00;Estimado;Comitê Financeiro Único - PV -  / 43222 - IVANILDE VEIGA ZANELLA - RN - Deputado Estadual;
+Comitê Financeiro Único;12.206.657/0001-99;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 714,00;Estimado;Comitê Financeiro Único - PV -  / 43222 - IVANILDE VEIGA ZANELLA - RN - Deputado Estadual;

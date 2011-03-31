@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.191.570/0001-95;30/09/2010;15000058851;R$ 1.333,52;Estimado;LUIZ CARLOS BRAITT SOARES;1590;Deputado Federal;PMDB;BA;
-LUIZ CARLOS BRAITT SOARES;197.970.955-68;03/09/2010;;R$ 373,50;Estimado;LUIZ CARLOS BRAITT SOARES;1590;Deputado Federal;PMDB;BA;
-LUIZ CARLOS BRAITT SOARES;197.970.955-68;02/09/2010;;R$ 1.454,40;Estimado;LUIZ CARLOS BRAITT SOARES;1590;Deputado Federal;PMDB;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.333,52;Estimado;Direção Estadual/Distrital - PMDB -  / 1590 - LUIZ CARLOS BRAITT SOARES - BA - Deputado Federal;
+LUIZ CARLOS BRAITT SOARES;197.970.955-68;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.454,40;Estimado; -  -  / 1590 - LUIZ CARLOS BRAITT SOARES - BA - Deputado Federal;
+LUIZ CARLOS BRAITT SOARES;197.970.955-68;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 373,50;Estimado; -  -  / 1590 - LUIZ CARLOS BRAITT SOARES - BA - Deputado Federal;

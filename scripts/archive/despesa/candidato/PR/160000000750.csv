@@ -1,3 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Governador;12.190.887/0001-07;12/08/2010;33000000866;R$ 630,00;Estimado;LUCIMAR FERREIRA;33090;Deputado Estadual;PMN;PR;
-ELIÇAO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;27/09/2010;33000000867;R$ 1.680,00;Transferência eletrônica;LUCIMAR FERREIRA;33090;Deputado Estadual;PMN;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CLAUDIO DOMINGOS DE OLIVEIRA;029.602.139-39;01/10/2010;       Despesas com pessoal;R$ 476,66;Cheque; -  -  / 33090 - LUCIMAR FERREIRA - PR - Deputado Estadual;
+Comitê Financeiro Estadual/Distrital para Governador;12.190.887/0001-07;12/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 630,00;Estimado;Comitê Financeiro Distrital/Estadual para Governador - PSDC -  / 33090 - LUCIMAR FERREIRA - PR - Deputado Estadual;
+EIDE GISELE FERREIRA DE OLIVEIRA;061.454.069-09;01/10/2010;       Despesas com pessoal;R$ 476,66;Cheque; -  -  / 33090 - LUCIMAR FERREIRA - PR - Deputado Estadual;
+JULIANA FERREIRA DOS SANTOS;010.254.869-27;01/10/2010;       Despesas com pessoal;R$ 476,66;Cheque; -  -  / 33090 - LUCIMAR FERREIRA - PR - Deputado Estadual;
+;;01/10/2010;       Impostos, contribuições e taxas;R$ 250,00;Cheque; -  -  / 33090 - LUCIMAR FERREIRA - PR - Deputado Estadual;

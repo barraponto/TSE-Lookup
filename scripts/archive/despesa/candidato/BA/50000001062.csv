@@ -1,6 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÕES 2010 JAQUES WAGNER GOVERNADOR;12.174.245/0001-14;21/09/2010;40002407315;R$ 875,00;Estimado;AROLDO PINTO DE AZEREDO;40777;Deputado Estadual;PSB;BA;
-ELEIÇÕES 2010 JAQUES WAGNER GOVERNADOR;12.174.245/0001-14;21/09/2010;40002407314;R$ 1.200,00;Estimado;AROLDO PINTO DE AZEREDO;40777;Deputado Estadual;PSB;BA;
-ELEIÇÕES 2010 JAQUES WAGNER GOVERNADOR;12.174.245/0001-14;21/09/2010;40002407317;R$ 550,00;Estimado;AROLDO PINTO DE AZEREDO;40777;Deputado Estadual;PSB;BA;
-ELEIÇÕES 2010 JAQUES WAGNER GOVERNADOR;12.174.245/0001-14;21/09/2010;40002407316;R$ 875,00;Estimado;AROLDO PINTO DE AZEREDO;40777;Deputado Estadual;PSB;BA;
-LIDICE DA MATA E SOUZA;12.172.092/0001-76;21/09/2010;40002407313;R$ 1.000,00;Depósito em espécie;AROLDO PINTO DE AZEREDO;40777;Deputado Estadual;PSB;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÕES 2010 JAQUES WAGNER GOVERNADOR;12.174.245/0001-14;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.200,00;Estimado;13 -  - PT -  - Governador / 40777 - AROLDO PINTO DE AZEREDO - BA - Deputado Estadual;
+ELEIÇÕES 2010 JAQUES WAGNER GOVERNADOR;12.174.245/0001-14;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 875,00;Estimado;13 -  - PT -  - Governador / 40777 - AROLDO PINTO DE AZEREDO - BA - Deputado Estadual;
+ELEIÇÕES 2010 JAQUES WAGNER GOVERNADOR;12.174.245/0001-14;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 550,00;Estimado;13 -  - PT -  - Governador / 40777 - AROLDO PINTO DE AZEREDO - BA - Deputado Estadual;
+ELEIÇÕES 2010 JAQUES WAGNER GOVERNADOR;12.174.245/0001-14;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 875,00;Estimado;13 -  - PT -  - Governador / 40777 - AROLDO PINTO DE AZEREDO - BA - Deputado Estadual;
+EMPRESA EDITORA ATARDE SA;15.111.297/0001-30;22/09/2010;       Publicidade por jornais e revistas;R$ 637,00;Cheque; -  -  / 40777 - AROLDO PINTO DE AZEREDO - BA - Deputado Estadual;
+JANE PINTO GOIS;734.549.317-20;30/09/2010;       Serviços prestados por terceiros;R$ 363,00;Cheque; -  -  / 40777 - AROLDO PINTO DE AZEREDO - BA - Deputado Estadual;

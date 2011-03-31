@@ -1,7 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.112/0001-75;19/08/2010;12001034766;R$ 840,01;Estimado;RICARDO LEÃO DE SOUZA ZARDO FILHO;12500;Deputado Estadual;PDT;MS;
-Comitê Financeiro Único;12.191.578/0001-51;29/08/2010;12001034767;R$ 10.000,00;Cheque;RICARDO LEÃO DE SOUZA ZARDO FILHO;12500;Deputado Estadual;PDT;MS;
-Comitê Financeiro Único;12.200.112/0001-75;19/08/2010;12001034765;R$ 627,00;Estimado;RICARDO LEÃO DE SOUZA ZARDO FILHO;12500;Deputado Estadual;PDT;MS;
-Comitê Financeiro Único;12.200.112/0001-75;03/10/2010;12001034768;R$ 65,00;Estimado;RICARDO LEÃO DE SOUZA ZARDO FILHO;12500;Deputado Estadual;PDT;MS;
-DAGOBERTO NEGUEIRA FILHO;12.197.958/0001-01;03/10/2010;12001034770;R$ 450,00;Estimado;RICARDO LEÃO DE SOUZA ZARDO FILHO;12500;Deputado Estadual;PDT;MS;
-EDEVALDO RAMOS DEKNES;403.449.321-68;03/10/2010;12001034769;R$ 1.000,00;Estimado;RICARDO LEÃO DE SOUZA ZARDO FILHO;12500;Deputado Estadual;PDT;MS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.112/0001-75;03/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 65,00;Estimado;Comitê Financeiro Único - PDT -  / 12500 - RICARDO LEÃO DE SOUZA ZARDO FILHO - MS - Deputado Estadual;
+Comitê Financeiro Único;12.200.112/0001-75;19/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 627,00;Estimado;Comitê Financeiro Único - PDT -  / 12500 - RICARDO LEÃO DE SOUZA ZARDO FILHO - MS - Deputado Estadual;
+Comitê Financeiro Único;12.200.112/0001-75;19/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 840,01;Estimado;Comitê Financeiro Único - PDT -  / 12500 - RICARDO LEÃO DE SOUZA ZARDO FILHO - MS - Deputado Estadual;
+DAGOBERTO NEGUEIRA FILHO;12.197.958/0001-01;03/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 450,00;Estimado;123 -  - PDT -  - Senador / 12500 - RICARDO LEÃO DE SOUZA ZARDO FILHO - MS - Deputado Estadual;
+EDEVALDO RAMOS DEKNES;403.449.321-68;03/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 12500 - RICARDO LEÃO DE SOUZA ZARDO FILHO - MS - Deputado Estadual;
+MMM PRESTADORA DE SERVIÇOS LTDA;12.071.497/0001-18;30/09/2010;       Serviços prestados por terceiros;R$ 6.037,20;Cheque; -  -  / 12500 - RICARDO LEÃO DE SOUZA ZARDO FILHO - MS - Deputado Estadual;
+MMM PRESTADORA DE SERVIÇOS LTDA;12.071.497/0001-18;30/09/2010;       Serviços prestados por terceiros;R$ 3.650,40;Cheque; -  -  / 12500 - RICARDO LEÃO DE SOUZA ZARDO FILHO - MS - Deputado Estadual;
+;;05/10/2010;       Encargos financeiros e taxas bancárias;R$ 6,64;Débito em conta; -  -  / 12500 - RICARDO LEÃO DE SOUZA ZARDO FILHO - MS - Deputado Estadual;

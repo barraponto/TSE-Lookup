@@ -1,4 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.570/0001-95;16/08/2010;19000005422;R$ 286,80;Estimado;UZIEL BUENO BARBOSA DE SANTANA JUNIOR;19000;Deputado Estadual;PTN;BA;
-FATIMA ALINE RAMOS SOARES;779.179.955-34;20/08/2010;19000005423;R$ 500,00;Estimado;UZIEL BUENO BARBOSA DE SANTANA JUNIOR;19000;Deputado Estadual;PTN;BA;
-UZIEL BUENO BARBOSA DE SANTANA JUNIOR;009.733.954-78;13/08/2010;19000005421;R$ 3.000,00;Depósito em espécie;UZIEL BUENO BARBOSA DE SANTANA JUNIOR;19000;Deputado Estadual;PTN;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.570/0001-95;16/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 286,80;Estimado;Comitê Financeiro Único - PMDB -  / 19000 - UZIEL BUENO BARBOSA DE SANTANA JUNIOR - BA - Deputado Estadual;
+FATIMA ALINE RAMOS SOARES;779.179.955-34;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 19000 - UZIEL BUENO BARBOSA DE SANTANA JUNIOR - BA - Deputado Estadual;
+SINO COMERCIO E DISTRIBUICAO DE DERIVADOS DE PETROLEO LTDA;34.208.215/0001-14;25/08/2010;       Combustíveis e lubrificantes;R$ 600,00;Cheque; -  -  / 19000 - UZIEL BUENO BARBOSA DE SANTANA JUNIOR - BA - Deputado Estadual;
+SULY'ARTE COMERCIO E SERVICOS GRAFICOS LTDA ME;06.079.554/0001-02;18/08/2010;       Publicidade por materiais impressos;R$ 1.740,00;Cheque; -  -  / 19000 - UZIEL BUENO BARBOSA DE SANTANA JUNIOR - BA - Deputado Estadual;
+SULY'ARTE COMERCIO E SERVICOS GRAFICOS LTDA ME;06.079.554/0001-02;14/09/2010;       Publicidade por materiais impressos;R$ 510,00;Cheque; -  -  / 19000 - UZIEL BUENO BARBOSA DE SANTANA JUNIOR - BA - Deputado Estadual;
+;;29/09/2010;       Encargos financeiros e taxas bancárias;R$ 4,50;Débito em conta; -  -  / 19000 - UZIEL BUENO BARBOSA DE SANTANA JUNIOR - BA - Deputado Estadual;
+;;31/08/2010;       Encargos financeiros e taxas bancárias;R$ 4,50;Débito em conta; -  -  / 19000 - UZIEL BUENO BARBOSA DE SANTANA JUNIOR - BA - Deputado Estadual;

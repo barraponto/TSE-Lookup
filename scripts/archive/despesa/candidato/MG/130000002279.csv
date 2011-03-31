@@ -1,7 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 FERNANDO DAMATA PIMENTEL SENADOR PR;12.189.933/0001-58;24/08/2010;13000689124;R$ 225,00;Estimado;LOURIVAL SOARES DOS SANTOS;13333;Deputado Estadual;PT;MG;
-ELEIÇÃO 2010 HELIO CALIXTO COSTA GOVERNADOR;12.189.609/0001-30;14/09/2010;13000689123;R$ 68,40;Estimado;LOURIVAL SOARES DOS SANTOS;13333;Deputado Estadual;PT;MG;
-ELEIÇÃO 2010 HELIO CALIXTO DA COSTA GOVERNADOR;12.189.609/0001-30;09/08/2010;13000689121;R$ 300,00;Estimado;LOURIVAL SOARES DOS SANTOS;13333;Deputado Estadual;PT;MG;
-ELEIÇÃO 2010 HELIO CALIXTO DA COSTA GOVERNADOR;12.189.609/0001-30;17/09/2010;13000689122;R$ 143,10;Estimado;LOURIVAL SOARES DOS SANTOS;13333;Deputado Estadual;PT;MG;
-LOURIVAL SOARES DOS SANTOS;821.152.906-82;23/09/2010;13000689125;R$ 1.050,00;Depósito em espécie;LOURIVAL SOARES DOS SANTOS;13333;Deputado Estadual;PT;MG;
-LOURIVAL SOARES DOS SANTOS;821.152.906-82;04/10/2010;13000689126;R$ 760,00;Depósito em espécie;LOURIVAL SOARES DOS SANTOS;13333;Deputado Estadual;PT;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO GOMES PINTONY;11.388.083/0001-54;02/09/2010;       Publicidade por materiais impressos;R$ 1.030,00;Cheque; -  -  / 13333 - LOURIVAL SOARES DOS SANTOS - MG - Deputado Estadual;
+ELEIÇÃO 2010 FERNANDO DAMATA PIMENTEL SENADOR PR;12.189.933/0001-58;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 225,00;Estimado;133 -  - PT -  - Senador / 13333 - LOURIVAL SOARES DOS SANTOS - MG - Deputado Estadual;
+ELEIÇÃO 2010 HELIO CALIXTO COSTA GOVERNADOR;12.189.609/0001-30;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 68,40;Estimado;15 -  - PMDB -  - Governador / 13333 - LOURIVAL SOARES DOS SANTOS - MG - Deputado Estadual;
+ELEIÇÃO 2010 HELIO CALIXTO DA COSTA GOVERNADOR;12.189.609/0001-30;09/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;15 -  - PMDB -  - Governador / 13333 - LOURIVAL SOARES DOS SANTOS - MG - Deputado Estadual;
+ELEIÇÃO 2010 HELIO CALIXTO DA COSTA GOVERNADOR;12.189.609/0001-30;17/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 143,10;Estimado;15 -  - PMDB -  - Governador / 13333 - LOURIVAL SOARES DOS SANTOS - MG - Deputado Estadual;
+SILVIO APARECIDO DE LACERDA ME;09.213.909/0001-00;19/10/2010;       Combustíveis e lubrificantes;R$ 776,00;Cheque; -  -  / 13333 - LOURIVAL SOARES DOS SANTOS - MG - Deputado Estadual;
+;;29/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,06;Débito em conta; -  -  / 13333 - LOURIVAL SOARES DOS SANTOS - MG - Deputado Estadual;
+;;29/10/2010;       Encargos financeiros e taxas bancárias;R$ 1,41;Débito em conta; -  -  / 13333 - LOURIVAL SOARES DOS SANTOS - MG - Deputado Estadual;
+;;04/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 13333 - LOURIVAL SOARES DOS SANTOS - MG - Deputado Estadual;
+;;04/10/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 13333 - LOURIVAL SOARES DOS SANTOS - MG - Deputado Estadual;

@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;04.160.131/0001-97;13/08/2010;14000153011;R$ 300,00;Estimado;MARIA GECILDA DOS SANTOS PAES;14030;Deputado Estadual;PTB;AM;
-Diretório Estadual/Distrital;04.160.131/0001-97;06/10/2010;14000153012;R$ 970,00;Cheque;MARIA GECILDA DOS SANTOS PAES;14030;Deputado Estadual;PTB;AM;
-ROSEMEIRE VASCONCELOS DE CARVALHO;727.813.272-04;26/10/2010;14000153014;R$ 2,90;Depósito em espécie;MARIA GECILDA DOS SANTOS PAES;14030;Deputado Estadual;PTB;AM;
-ROSEMEIRE VASCONCELOS DE CARVALHO;727.813.272-04;27/10/2010;14000153013;R$ 50,00;Depósito em espécie;MARIA GECILDA DOS SANTOS PAES;14030;Deputado Estadual;PTB;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;04.160.131/0001-97;13/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Direção Estadual/Distrital - PMDB -  / 14030 - MARIA GECILDA DOS SANTOS PAES - AM - Deputado Estadual;
+EDITORA ANA CASSIA LTDA.;04.816.658/0001-27;30/09/2010;       Publicidade por materiais impressos;R$ 970,00;Cheque; -  -  / 14030 - MARIA GECILDA DOS SANTOS PAES - AM - Deputado Estadual;
+;;28/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 14030 - MARIA GECILDA DOS SANTOS PAES - AM - Deputado Estadual;
+;;08/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 14030 - MARIA GECILDA DOS SANTOS PAES - AM - Deputado Estadual;

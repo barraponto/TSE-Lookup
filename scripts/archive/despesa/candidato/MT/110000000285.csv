@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS CLEMENTE DE OLIVEIRA;393.678.001-34;28/07/2010;36000079152;R$ 200,00;Estimado;AVELINO RIBEIRO DA SILVA NETO;3699;Deputado Federal;PTC;MT;
-Comitê Financeiro Único;12.229.946/0001-03;02/09/2010;36000079170;R$ 3.431,20;Estimado;AVELINO RIBEIRO DA SILVA NETO;3699;Deputado Federal;PTC;MT;
-EDIMILSON  ROCHA SOUZA;807.384.941-00;28/07/2010;36000079151;R$ 600,00;Estimado;AVELINO RIBEIRO DA SILVA NETO;3699;Deputado Federal;PTC;MT;
-GONÇALO AGUIAR DO CARMO SOUZA;522.031.071-20;27/07/2010;36000079153;R$ 500,00;Estimado;AVELINO RIBEIRO DA SILVA NETO;3699;Deputado Federal;PTC;MT;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS CLEMENTE DE OLIVEIRA;393.678.001-34;28/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado; -  -  / 3699 - AVELINO RIBEIRO DA SILVA NETO - MT - Deputado Federal;
+Comitê Financeiro Único;12.229.946/0001-03;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.431,20;Estimado;Comitê Financeiro Único - PTC -  / 3699 - AVELINO RIBEIRO DA SILVA NETO - MT - Deputado Federal;
+EDIMILSON  ROCHA SOUZA;807.384.941-00;28/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado; -  -  / 3699 - AVELINO RIBEIRO DA SILVA NETO - MT - Deputado Federal;
+GONÇALO AGUIAR DO CARMO SOUZA;522.031.071-20;27/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 3699 - AVELINO RIBEIRO DA SILVA NETO - MT - Deputado Federal;

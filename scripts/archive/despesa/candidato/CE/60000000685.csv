@@ -1,3 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.230/0001-76;30/09/2010;17000032951;R$ 910,71;Estimado;FRANCISCO JULIENIO LIMA VASCONCELOS;1733;Deputado Federal;PSL;CE;
-FRANCISCO JULIENIO LIMA VASCONCELOS;323.381.713-49;27/10/2010;17000032952;R$ 2.150,00;Depósito em espécie;FRANCISCO JULIENIO LIMA VASCONCELOS;1733;Deputado Federal;PSL;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARTE VISUAL GRAFICA  E EDITORA LTDA;02.566.450/0001-71;08/10/2010;       Publicidade por materiais impressos;R$ 2.100,00;Cheque; -  -  / 1733 - FRANCISCO JULIENIO LIMA VASCONCELOS - CE - Deputado Federal;
+Comitê Financeiro Único;12.205.230/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 910,71;Estimado;Comitê Financeiro Único - PHS -  / 1733 - FRANCISCO JULIENIO LIMA VASCONCELOS - CE - Deputado Federal;
+;;29/10/2010;       Impostos, contribuições e taxas;R$ 48,95;Cheque; -  -  / 1733 - FRANCISCO JULIENIO LIMA VASCONCELOS - CE - Deputado Federal;
+;;27/10/2010;       Encargos financeiros e taxas bancárias;R$ 1,05;Débito em conta; -  -  / 1733 - FRANCISCO JULIENIO LIMA VASCONCELOS - CE - Deputado Federal;

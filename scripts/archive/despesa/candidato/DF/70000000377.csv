@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-RODRIGO SOBRAL ROLLEMBERG;12.173.922/0001-80;22/09/2010;40002155602;R$ 2.000,00;Cheque;VALCIR COSTA SILVA;40014;Deputado Distrital;PSB;DF;
-RODRIGO SOBRAL ROLLEMBERG;12.173.922/0001-80;12/08/2010;40002155601;R$ 260,00;Estimado;VALCIR COSTA SILVA;40014;Deputado Distrital;PSB;DF;
-VALCIR COSTA SILVA;285.449.003-72;19/07/2010;40002155603;R$ 150,00;Depósito em espécie;VALCIR COSTA SILVA;40014;Deputado Distrital;PSB;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JOSUÉ CARDOSO ABREU;490.058.123-20;01/10/2010;       Locação/cessão de bens imóveis;R$ 2.000,00;Cheque; -  -  / 40014 - VALCIR COSTA SILVA - DF - Deputado Distrital;
+JOSUÉ CARDOSO ABREU;490.058.123-20;04/10/2010;       Cessão ou Locação de Veículos;R$ 150,00;Cheque; -  -  / 40014 - VALCIR COSTA SILVA - DF - Deputado Distrital;
+RODRIGO SOBRAL ROLLEMBERG;12.173.922/0001-80;12/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 260,00;Estimado;400 -  - PSB -  - Senador / 40014 - VALCIR COSTA SILVA - DF - Deputado Distrital;

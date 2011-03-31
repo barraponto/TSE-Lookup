@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
-BETANILDA DE SOUSA MONTEIRO ALVES;806.614.323-00;02/08/2010;70000181543;R$ 1.530,00;Estimado;Comitê Financeiro Único;PT do B;PI;
-Comitê Financeiro Único;12.191.487/0001-16;15/10/2010;70000181544;R$ 67.306,16;Cheque;Comitê Financeiro Único;PT do B;PI;
-Comitê Financeiro Único;12.191.487/0001-16;26/10/2010;70000181545;R$ 17.820,00;Cheque;Comitê Financeiro Único;PT do B;PI;
-ELIAS XIMENES DO PRADO;12.168.018/0001-86;16/07/2010;70000181541;R$ 300,00;Estimado;Comitê Financeiro Único;PT do B;PI;
-TERESINHA DA SILVA PRADO;341.575.493-68;16/07/2010;70000181542;R$ 250,00;Estimado;Comitê Financeiro Único;PT do B;PI;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BETANILDA DE SOUSA MONTEIRO ALVES;806.614.323-00;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.530,00;Estimado; -  -  / Comitê Financeiro Único - PT do B - PI;
+DALLAS COMUNICAÇÃO LTDA;01.944.243/0001-40;01/10/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 17.820,00;Cheque; -  -  / Comitê Financeiro Único - PT do B - PI;
+ELIAS XIMENES DO PRADO;12.168.018/0001-86;16/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;70123 -  - PT do B -  - Deputado Estadual / Comitê Financeiro Único - PT do B - PI;
+HALLEY S/A GRAFICA E EDITORA;10.308.997/0001-03;01/10/2010;       Publicidade por materiais impressos;R$ 67.306,16;Cheque; -  -  / Comitê Financeiro Único - PT do B - PI;
+TERESINHA DA SILVA PRADO;341.575.493-68;16/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado; -  -  / Comitê Financeiro Único - PT do B - PI;

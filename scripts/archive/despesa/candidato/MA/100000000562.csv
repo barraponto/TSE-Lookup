@@ -1,9 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANGELA CRISTINA PEREIRA DE CASTRO;471.150.173-87;14/07/2010;13000666467;R$ 700,00;Depósito em espécie;JOAB JEREMIAS PEREIRA DE CASTRO;13444;Deputado Estadual;PT;MA;
-CLAUDIA PATRICIA SILVA PIMENTEL;471.272.793-49;30/07/2010;13000666466;R$ 800,00;Depósito em espécie;JOAB JEREMIAS PEREIRA DE CASTRO;13444;Deputado Estadual;PT;MA;
-Comitê Financeiro Único;12.221.840/0001-63;30/09/2010;13000666469;R$ 3.389,84;Estimado;JOAB JEREMIAS PEREIRA DE CASTRO;13444;Deputado Estadual;PT;MA;
-ELEIÇÃO 2010 JOAB JEREMIAS PEREIRA DE CASTRO DEPUTADO ESTADUAL;197.845.112-15;14/07/2010;13000666461;R$ 3.200,00;Depósito em espécie;JOAB JEREMIAS PEREIRA DE CASTRO;13444;Deputado Estadual;PT;MA;
-ELEIÇÃO 2010 JOAB JEREMIAS PEREIRA DE CASTRO DEPUTADO ESTADUAL;197.845.112-15;01/09/2010;13000666468;R$ 1.500,00;Estimado;JOAB JEREMIAS PEREIRA DE CASTRO;13444;Deputado Estadual;PT;MA;
-ELEONILDES FRANÇA DE SANTANA;475.883.813-53;14/07/2010;13000666463;R$ 1.000,00;Depósito em espécie;JOAB JEREMIAS PEREIRA DE CASTRO;13444;Deputado Estadual;PT;MA;
-LUIS CARLOS DE SANTANA FILHO;751.130.153-34;22/07/2010;13000666465;R$ 300,00;Depósito em espécie;JOAB JEREMIAS PEREIRA DE CASTRO;13444;Deputado Estadual;PT;MA;
-ROSEANE SANTANA DE CASTRO;571.323.483-53;14/07/2010;13000666464;R$ 400,00;Depósito em espécie;JOAB JEREMIAS PEREIRA DE CASTRO;13444;Deputado Estadual;PT;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS ARTES E PINTURAS - JRP COSTA;63.448.278/0001-46;23/07/2010;       Publicidade por placas, estandartes e faixas;R$ 60,00;Cheque; -  -  / 13444 - JOAB JEREMIAS PEREIRA DE CASTRO - MA - Deputado Estadual;
+COMERCIAL PETROMAR LTDA;06.302.616/0001-01;29/09/2010;       Combustíveis e lubrificantes;R$ 54,20;Cheque; -  -  / 13444 - JOAB JEREMIAS PEREIRA DE CASTRO - MA - Deputado Estadual;
+Comitê Financeiro Único;12.221.840/0001-63;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.389,84;Estimado;Comitê Financeiro Único - PT -  / 13444 - JOAB JEREMIAS PEREIRA DE CASTRO - MA - Deputado Estadual;
+ELEIÇÃO 2010 JOAB JEREMIAS PEREIRA DE CASTRO DEPUTADO ESTADUAL;197.845.112-15;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado; -  -  / 13444 - JOAB JEREMIAS PEREIRA DE CASTRO - MA - Deputado Estadual;
+GRAFICA SANTA CLARA LTDA;11.783.446/0001-56;14/07/2010;       Publicidade por materiais impressos;R$ 5.280,00;Cheque; -  -  / 13444 - JOAB JEREMIAS PEREIRA DE CASTRO - MA - Deputado Estadual;
+JOSE RIBAMAR SILVA FILHO;332.099.523-53;29/07/2010;       Locação/cessão de bens imóveis;R$ 800,00;Cheque; -  -  / 13444 - JOAB JEREMIAS PEREIRA DE CASTRO - MA - Deputado Estadual;
+MAURICIO EVERTON DE CARVALHO FILHO;351.327.953-15;27/07/2010;       Produção de jingles, vinhetas e slogans;R$ 200,00;Cheque; -  -  / 13444 - JOAB JEREMIAS PEREIRA DE CASTRO - MA - Deputado Estadual;
+;;16/07/2010;       Encargos financeiros e taxas bancárias;R$ 5,80;Débito em conta; -  -  / 13444 - JOAB JEREMIAS PEREIRA DE CASTRO - MA - Deputado Estadual;

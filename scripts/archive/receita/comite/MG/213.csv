@@ -1,13 +1,5 @@
-Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
-Comitê Financeiro Único - PSC;12.191.503/0001-70;29/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 10.000,00;Cheque;2064 - ANTONIO FARIA DE ALCANTARA - PSC - MG - Deputado Federal / Comitê Financeiro Único - PSC - MG;
-Comitê Financeiro Único - PSC;12.191.503/0001-70;16/09/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 90.000,00;Cheque;20250 - FABIO LUCIO RODRIGUES AVELAR - PSC - MG - Deputado Estadual / Comitê Financeiro Único - PSC - MG;
-Diretório Estadual/Distrital;20.970.026/0001-70;13/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 220,00;Estimado;Direção Estadual/Distrital - PSC -  / Comitê Financeiro Único - PSC - MG;
-EDITORA PLUS LTDA;11.884.348/0001-05;29/09/2010;       Materiais de expediente;R$ 3.150,00;Cheque; -  -  / Comitê Financeiro Único - PSC - MG;
-IMPRESSORA EDITORA LTDA;42.807.552/0001-56;23/08/2010;       Publicidade por materiais impressos;R$ 2.640,00;Não informado; -  -  / Comitê Financeiro Único - PSC - MG;
-IMPRESSORA EDITORA LTDA;42.807.552/0001-56;16/08/2010;       Publicidade por materiais impressos;R$ 66.240,00;Cheque; -  -  / Comitê Financeiro Único - PSC - MG;
-IMPRESSORA EDITORA LTDA;42.807.552/0001-56;16/08/2010;       Publicidade por materiais impressos;R$ 28.800,00;Cheque; -  -  / Comitê Financeiro Único - PSC - MG;
-RAJA RENT A CAR;01.338.388/0001-06;23/09/2010;       Cessão ou Locação de Veículos;R$ 1.700,00;Cheque; -  -  / Comitê Financeiro Único - PSC - MG;
-RONA EDITORA LTDA;19.270.206/0001-60;19/08/2010;       Publicidade por materiais impressos;R$ 10.160,00;Não informado; -  -  / Comitê Financeiro Único - PSC - MG;
-;;16/09/2010;       Encargos financeiros e taxas bancárias;R$ 99,00;Débito em conta; -  -  / Comitê Financeiro Único - PSC - MG;
-;;24/09/2010;       Encargos financeiros e taxas bancárias;R$ 104,54;Débito em conta; -  -  / Comitê Financeiro Único - PSC - MG;
-;;30/09/2010;       Encargos financeiros e taxas bancárias;R$ 11,00;Débito em conta; -  -  / Comitê Financeiro Único - PSC - MG;
+Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
+Diretório Estadual/Distrital;20.970.026/0001-70;13/08/2010;20000321931;R$ 220,00;Estimado;Comitê Financeiro Único;PSC;MG;
+Diretório Nacional;01.450.856/0001-21;24/09/2010;20000321944;R$ 50.000,00;Cheque;Comitê Financeiro Único;PSC;MG;
+GALVAO ENGENHARIA S/A;01.340.937/0001-79;01/09/2010;20000321934;R$ 95.100,00;Depósito em espécie;Comitê Financeiro Único;PSC;MG;
+ULTRAFERTIL S/A;02.476.026/0001-36;10/09/2010;20000321933;R$ 100.000,00;Depósito em espécie;Comitê Financeiro Único;PSC;MG;

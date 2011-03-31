@@ -1,3 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSE FERNANDO APARECIDO DE OLIVEIRA;12.168.802/0001-94;09/09/2010;43001709201;R$ 480,00;Estimado;RUBENS SEBASTIÃO NASCIMENTO;43455;Deputado Estadual;PV;MG;
-MOACIR ALVES DE CARVALHO;230.253.526-04;10/09/2010;43001709202;R$ 150,00;Cheque;RUBENS SEBASTIÃO NASCIMENTO;43455;Deputado Estadual;PV;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS;34.028.316/3378-41;15/09/2010;       Despesas postais;R$ 79,90;Cheque; -  -  / 43455 - RUBENS SEBASTIÃO NASCIMENTO - MG - Deputado Estadual;
+FATIMA MARIA ARAUJO B SILVA;269.189.866-00;30/09/2010;       Despesas com pessoal;R$ 34,04;Cheque; -  -  / 43455 - RUBENS SEBASTIÃO NASCIMENTO - MG - Deputado Estadual;
+FATIMA MARIA ARAUJO B SILVA;269.189.866-00;30/09/2010;       Despesas com pessoal;R$ 0,36;Cheque; -  -  / 43455 - RUBENS SEBASTIÃO NASCIMENTO - MG - Deputado Estadual;
+JOSE FERNANDO APARECIDO DE OLIVEIRA;12.168.802/0001-94;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 480,00;Estimado;43 -  - PV -  - Governador / 43455 - RUBENS SEBASTIÃO NASCIMENTO - MG - Deputado Estadual;
+;;14/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 43455 - RUBENS SEBASTIÃO NASCIMENTO - MG - Deputado Estadual;
+;;20/09/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 43455 - RUBENS SEBASTIÃO NASCIMENTO - MG - Deputado Estadual;
+;;20/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 43455 - RUBENS SEBASTIÃO NASCIMENTO - MG - Deputado Estadual;
+;;14/09/2010;       Encargos financeiros e taxas bancárias;R$ 17,50;Débito em conta; -  -  / 43455 - RUBENS SEBASTIÃO NASCIMENTO - MG - Deputado Estadual;

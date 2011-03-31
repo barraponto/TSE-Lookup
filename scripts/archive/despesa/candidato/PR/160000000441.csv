@@ -1,6 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;21/09/2010;17000072785;R$ 500,00;Estimado;ISMAEL ALVES DOS SANTOS;1722;Deputado Federal;PSL;PR;
-ELEIÇÃO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;24/09/2010;17000072784;R$ 1.680,00;Transferência eletrônica;ISMAEL ALVES DOS SANTOS;1722;Deputado Federal;PSL;PR;
-ELEIÇÃO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;11/08/2010;17000072783;R$ 630,00;Estimado;ISMAEL ALVES DOS SANTOS;1722;Deputado Federal;PSL;PR;
-ELEIÇÃO 2010 RICARDO JOSE MAGALHAES BARROS;12.190.665/0001-94;28/09/2010;17000072786;R$ 450,00;Estimado;ISMAEL ALVES DOS SANTOS;1722;Deputado Federal;PSL;PR;
-ISMAEL ALVES DOS SANTOS;394.257.899-91;18/10/2010;17000072787;R$ 15,00;Depósito em espécie;ISMAEL ALVES DOS SANTOS;1722;Deputado Federal;PSL;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CLEA MARA MACHADO DOS SANTOS;044.050.009-56;28/09/2010;       Despesas com pessoal;R$ 350,00;Cheque; -  -  / 1722 - ISMAEL ALVES DOS SANTOS - PR - Deputado Federal;
+ELEIÇÃO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;11/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 630,00;Estimado;45 -  - PSDB -  - Governador / 1722 - ISMAEL ALVES DOS SANTOS - PR - Deputado Federal;
+ELEIÇÃO 2010 CARLOS ALBERTO RICHA;12.190.887/0001-07;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;45 -  - PSDB -  - Governador / 1722 - ISMAEL ALVES DOS SANTOS - PR - Deputado Federal;
+ELEIÇÃO 2010 RICARDO JOSE MAGALHAES BARROS;12.190.665/0001-94;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 450,00;Estimado;111 -  - PP -  - Senador / 1722 - ISMAEL ALVES DOS SANTOS - PR - Deputado Federal;
+MONIQUE GOMES DA SOLIDADE;078.211.169-63;28/09/2010;       Despesas com pessoal;R$ 350,00;Cheque; -  -  / 1722 - ISMAEL ALVES DOS SANTOS - PR - Deputado Federal;
+MONIQUE GOMES DA SOLIDADE;078.211.169-63;28/09/2010;       Despesas com pessoal;R$ 200,00;Cheque; -  -  / 1722 - ISMAEL ALVES DOS SANTOS - PR - Deputado Federal;
+NUBIA MARCELA ALVES DALLINS;082.275.469-00;28/09/2010;       Despesas com pessoal;R$ 350,00;Cheque; -  -  / 1722 - ISMAEL ALVES DOS SANTOS - PR - Deputado Federal;
+ROSANA OTILIA DOS SANTOS;541.897.489-00;28/09/2010;       Despesas com pessoal;R$ 200,00;Cheque; -  -  / 1722 - ISMAEL ALVES DOS SANTOS - PR - Deputado Federal;
+ROSANA OTILIA DOS SANTOS;541.897.489-00;03/10/2010;       Despesas com pessoal;R$ 240,00;Cheque; -  -  / 1722 - ISMAEL ALVES DOS SANTOS - PR - Deputado Federal;

@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ENOC RODRIGUES LOPES;104.011.133-53;01/08/2010;65000207352;R$ 1.705,00;Estimado;ENOC RODRIGUES LOPES;65555;Deputado Estadual;PC do B;MA;
-ENOC RODRIGUES LOPES;104.011.133-53;31/08/2010;65000207351;R$ 766,00;Transferência eletrônica;ENOC RODRIGUES LOPES;65555;Deputado Estadual;PC do B;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DEUSUMIRA NAVA SOARES;244.938.303-44;31/08/2010;       Locação/cessão de bens imóveis;R$ 300,00;Cheque; -  -  / 65555 - ENOC RODRIGUES LOPES - MA - Deputado Estadual;
+ENOC RODRIGUES LOPES;104.011.133-53;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.705,00;Estimado; -  -  / 65555 - ENOC RODRIGUES LOPES - MA - Deputado Estadual;
+F H R DOS SANTOS COMBUSTIVEIS;08.489.128/0001-72;31/08/2010;       Combustíveis e lubrificantes;R$ 466,00;Cheque; -  -  / 65555 - ENOC RODRIGUES LOPES - MA - Deputado Estadual;

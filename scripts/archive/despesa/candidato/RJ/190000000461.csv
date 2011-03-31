@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DANIEL SAMPAIO TOURINHO;12.172.794/0001-50;10/09/2010;36000053253;R$ 265,00;Estimado;CELINA LEITE NETO;36072;Deputado Estadual;PTC;RJ;
-Diretório Estadual/Distrital;12.172.794/0001-50;18/08/2010;36000053252;R$ 700,00;Estimado;CELINA LEITE NETO;36072;Deputado Estadual;PTC;RJ;
-IRANY O. RODRIGUES;12.169.762/0001-03;30/09/2010;36000053255;R$ 2.250,00;Estimado;CELINA LEITE NETO;36072;Deputado Estadual;PTC;RJ;
-IRANY O. RODRIGUES;12.169.762/0001-03;30/09/2010;36000053256;R$ 2.000,00;Estimado;CELINA LEITE NETO;36072;Deputado Estadual;PTC;RJ;
-IRANY O. RODRIGUES;12.169.762/0001-03;30/09/2010;36000053257;R$ 100,00;Estimado;CELINA LEITE NETO;36072;Deputado Estadual;PTC;RJ;
-IRANY O. RODRIGUES;12.169.762/0001-03;30/09/2010;36000053258;R$ 180,00;Estimado;CELINA LEITE NETO;36072;Deputado Estadual;PTC;RJ;
-JORGE S. PICCIANI;12.176.626/0001-32;01/10/2010;36000053254;R$ 47,18;Estimado;CELINA LEITE NETO;36072;Deputado Estadual;PTC;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DANIEL SAMPAIO TOURINHO;12.172.794/0001-50;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 265,00;Estimado; -  -  / 36072 - CELINA LEITE NETO - RJ - Deputado Estadual;
+Diretório Estadual/Distrital;12.172.794/0001-50;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 700,00;Estimado;Direção Estadual/Distrital - PTC -  / 36072 - CELINA LEITE NETO - RJ - Deputado Estadual;
+IRANY O. RODRIGUES;12.169.762/0001-03;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 180,00;Estimado; -  -  / 36072 - CELINA LEITE NETO - RJ - Deputado Estadual;
+IRANY O. RODRIGUES;12.169.762/0001-03;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.250,00;Estimado; -  -  / 36072 - CELINA LEITE NETO - RJ - Deputado Estadual;
+IRANY O. RODRIGUES;12.169.762/0001-03;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado; -  -  / 36072 - CELINA LEITE NETO - RJ - Deputado Estadual;
+IRANY O. RODRIGUES;12.169.762/0001-03;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado; -  -  / 36072 - CELINA LEITE NETO - RJ - Deputado Estadual;
+JORGE S. PICCIANI;12.176.626/0001-32;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 47,18;Estimado; -  -  / 36072 - CELINA LEITE NETO - RJ - Deputado Estadual;

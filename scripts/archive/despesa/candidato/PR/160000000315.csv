@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-SANDRO AMARAL;709.765.709-04;03/09/2010;43001777201;R$ 900,00;Depósito em espécie;SANDRO AMARAL;43717;Deputado Estadual;PV;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+RFS GRAFICA EDITORA LTDA;07.812.678/0001-18;03/09/2010;       Publicidade por materiais impressos;R$ 900,00;Cheque; -  -  / 43717 - SANDRO AMARAL - PR - Deputado Estadual;

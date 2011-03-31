@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;32.080.483/0001-78;30/09/2010;45000108542;R$ 166,67;Estimado;MARCOS ANTONIO DE ARAUJO;4599;Deputado Federal;PSDB;RJ;
-Diretório Estadual/Distrital;32.080.483/0001-78;30/09/2010;45000108543;R$ 3.875,00;Estimado;MARCOS ANTONIO DE ARAUJO;4599;Deputado Federal;PSDB;RJ;
-MARCOS ANTONIO DE ARAUJO;463.079.587-15;05/08/2010;45000108541;R$ 1.000,00;Cheque;MARCOS ANTONIO DE ARAUJO;4599;Deputado Federal;PSDB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;32.080.483/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 166,67;Estimado;Direção Estadual/Distrital - PSDB -  / 4599 - MARCOS ANTONIO DE ARAUJO - RJ - Deputado Federal;
+Diretório Estadual/Distrital;32.080.483/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.875,00;Estimado;Direção Estadual/Distrital - PSDB -  / 4599 - MARCOS ANTONIO DE ARAUJO - RJ - Deputado Federal;
+IMPRINT 2001 GRÁFICA E EDITORA LTDA.;02.495.060/0001-58;10/08/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 4599 - MARCOS ANTONIO DE ARAUJO - RJ - Deputado Federal;

@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;14/09/2010;40001000752;R$ 150,00;Estimado;ALEX RODRIGUES DE OLIVEIRA;4015;Deputado Federal;PSB;RJ;
-Comitê Financeiro Único;01.669.171/0001-70;04/09/2010;40001000756;R$ 392,15;Estimado;ALEX RODRIGUES DE OLIVEIRA;4015;Deputado Federal;PSB;RJ;
-THIAGO PAMPOLHA GONÇALVES;12.198.489/0001-37;30/09/2010;40001000755;R$ 75,00;Estimado;ALEX RODRIGUES DE OLIVEIRA;4015;Deputado Federal;PSB;RJ;
-THIAGO PAMPOLHA GONÇALVES;12.198.489/0001-37;22/09/2010;40001000753;R$ 30,00;Estimado;ALEX RODRIGUES DE OLIVEIRA;4015;Deputado Federal;PSB;RJ;
-THIAGO PAMPOLHA GONÇALVES;12.198.489/0001-37;30/08/2010;40001000751;R$ 2.500,00;Estimado;ALEX RODRIGUES DE OLIVEIRA;4015;Deputado Federal;PSB;RJ;
-THIAGO PAMPOLHA GONÇALVES;12.198.489/0001-37;30/09/2010;40001000754;R$ 660,00;Estimado;ALEX RODRIGUES DE OLIVEIRA;4015;Deputado Federal;PSB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 4015 - ALEX RODRIGUES DE OLIVEIRA - RJ - Deputado Federal;
+Comitê Financeiro Único;01.669.171/0001-70;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 392,15;Estimado;Comitê Financeiro Único - PSB -  / 4015 - ALEX RODRIGUES DE OLIVEIRA - RJ - Deputado Federal;
+THIAGO PAMPOLHA GONÇALVES;12.198.489/0001-37;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 660,00;Estimado;44500 -  - PRP -  - Deputado Estadual / 4015 - ALEX RODRIGUES DE OLIVEIRA - RJ - Deputado Federal;
+THIAGO PAMPOLHA GONÇALVES;12.198.489/0001-37;22/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 30,00;Estimado;44500 -  - PRP -  - Deputado Estadual / 4015 - ALEX RODRIGUES DE OLIVEIRA - RJ - Deputado Federal;
+THIAGO PAMPOLHA GONÇALVES;12.198.489/0001-37;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 75,00;Estimado;44500 -  - PRP -  - Deputado Estadual / 4015 - ALEX RODRIGUES DE OLIVEIRA - RJ - Deputado Federal;
+THIAGO PAMPOLHA GONÇALVES;12.198.489/0001-37;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.500,00;Estimado;44500 -  - PRP -  - Deputado Estadual / 4015 - ALEX RODRIGUES DE OLIVEIRA - RJ - Deputado Federal;

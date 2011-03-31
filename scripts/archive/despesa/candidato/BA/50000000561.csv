@@ -1,4 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ROSEMARIA ANTONIA GONÇALVES DIAS;04.249.201/0001-88;17/08/2010;23000063802;R$ 3.600,00;Depósito em espécie;ROZENILO GOCALVES DIAS;23456;Deputado Estadual;PPS;BA;
-ROZENILO GONÇALVES DIAS;222.638.885-00;20/09/2010;23000063803;R$ 3.070,00;Depósito em espécie;ROZENILO GOCALVES DIAS;23456;Deputado Estadual;PPS;BA;
-ROZENILO GONÇALVES DIAS;222.638.885-00;02/08/2010;23000063801;R$ 2.000,00;Depósito em espécie;ROZENILO GOCALVES DIAS;23456;Deputado Estadual;PPS;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CPN GRÁFICA EDITORA E PAPELARIA LTDA;07.651.678/0001-83;20/09/2010;       Publicidade por materiais impressos;R$ 2.500,00;Cheque; -  -  / 23456 - ROZENILO GOCALVES DIAS - BA - Deputado Estadual;
+CPN GRÁFICA EDITORA E PAPELARIA LTDA;07.651.678/0001-83;03/08/2010;       Publicidade por materiais impressos;R$ 1.980,00;Cheque; -  -  / 23456 - ROZENILO GOCALVES DIAS - BA - Deputado Estadual;
+CPN GRÁFICA EDITORA E PAPELARIA LTDA;07.651.678/0001-83;18/08/2010;       Publicidade por materiais impressos;R$ 2.575,00;Cheque; -  -  / 23456 - ROZENILO GOCALVES DIAS - BA - Deputado Estadual;
+POSTO GUERRA E GADELHA COMÉRCIOE SERIÇOS LTDA;04.164.536/0003-65;25/08/2010;       Combustíveis e lubrificantes;R$ 1.000,00;Cheque; -  -  / 23456 - ROZENILO GOCALVES DIAS - BA - Deputado Estadual;
+POSTO ITIQUIRA - GESI MOURA DOS SANTOS - ME;16.072.191/0001-37;18/09/2010;       Combustíveis e lubrificantes;R$ 604,50;Cheque; -  -  / 23456 - ROZENILO GOCALVES DIAS - BA - Deputado Estadual;

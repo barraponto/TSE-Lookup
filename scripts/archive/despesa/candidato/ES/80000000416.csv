@@ -1,3 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LUIZ PAULO VELLOZO LUCAS;12.179.441/0001-81;01/10/2010;45000296178;R$ 2.600,00;Estimado;LUIZ TEMOTEO DIAS VIEIRA;45456;Deputado Estadual;PSDB;ES;
-RITA CAMATA;12.167.269/0001-46;24/09/2010;45000296177;R$ 20.000,00;Cheque;LUIZ TEMOTEO DIAS VIEIRA;45456;Deputado Estadual;PSDB;ES;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADEILDO AMORIM DA SILVA;009.848.617-93;30/09/2010;       Cessão ou Locação de Veículos;R$ 3.000,00;Cheque; -  -  / 45456 - LUIZ TEMOTEO DIAS VIEIRA - ES - Deputado Estadual;
+ERPET & ERPET LTDA;01.632.767/0002-87;30/09/2010;       Combustíveis e lubrificantes;R$ 5.000,00;Transferência eletrônica; -  -  / 45456 - LUIZ TEMOTEO DIAS VIEIRA - ES - Deputado Estadual;
+JOSE RODRIGUES DOS SANTOS;752.122.937-15;02/10/2010;       Cessão ou Locação de Veículos;R$ 3.000,00;Cheque; -  -  / 45456 - LUIZ TEMOTEO DIAS VIEIRA - ES - Deputado Estadual;
+LUIZ PAULO VELLOZO LUCAS;12.179.441/0001-81;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.600,00;Estimado;45 -  - PSDB -  - Governador / 45456 - LUIZ TEMOTEO DIAS VIEIRA - ES - Deputado Estadual;
+MANUEL RAFAEL CAMPOS;713.120.726-87;02/10/2010;       Cessão ou Locação de Veículos;R$ 3.000,00;Cheque; -  -  / 45456 - LUIZ TEMOTEO DIAS VIEIRA - ES - Deputado Estadual;
+PAULO CESAR LUCIO DE ALMEIDA;727.369.337-53;02/10/2010;       Cessão ou Locação de Veículos;R$ 2.980,70;Cheque; -  -  / 45456 - LUIZ TEMOTEO DIAS VIEIRA - ES - Deputado Estadual;
+RENONE TOMAZ COUFAL;093.644.327-89;02/10/2010;       Cessão ou Locação de Veículos;R$ 3.000,00;Cheque; -  -  / 45456 - LUIZ TEMOTEO DIAS VIEIRA - ES - Deputado Estadual;
+;;30/09/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Débito em conta; -  -  / 45456 - LUIZ TEMOTEO DIAS VIEIRA - ES - Deputado Estadual;
+;;28/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 45456 - LUIZ TEMOTEO DIAS VIEIRA - ES - Deputado Estadual;

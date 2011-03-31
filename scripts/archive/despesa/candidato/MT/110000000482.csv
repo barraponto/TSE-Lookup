@@ -1,2 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.217.534/0001-53;10/08/2010;12001039654;R$ 7.000,00;Transferência eletrônica;JULIO CEZAR DA SILVA MATOS;1200;Deputado Federal;PDT;MT;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO CATARINO MACIEL;283.858.451-00;17/08/2010;       Despesas com pessoal;R$ 750,00;Cheque; -  -  / 1200 - JULIO CEZAR DA SILVA MATOS - MT - Deputado Federal;
+ANTONIO CATARINO MACIEL;283.858.451-00;31/08/2010;       Despesas com pessoal;R$ 750,00;Cheque; -  -  / 1200 - JULIO CEZAR DA SILVA MATOS - MT - Deputado Federal;
+ANTONIO CATARINO MACIEL;283.858.451-00;11/08/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / 1200 - JULIO CEZAR DA SILVA MATOS - MT - Deputado Federal;
+EDNELY PEREIRA DE OLIVEIRA;704.233.181-87;31/08/2010;       Despesas com pessoal;R$ 420,00;Cheque; -  -  / 1200 - JULIO CEZAR DA SILVA MATOS - MT - Deputado Federal;
+JOYCE LAURIANA DE OLIVEIRA MORAES;028.829.441-60;17/08/2010;       Despesas com pessoal;R$ 750,00;Cheque; -  -  / 1200 - JULIO CEZAR DA SILVA MATOS - MT - Deputado Federal;
+JOYCE LAURIANA DE OLIVEIRA MORAES;028.829.441-60;31/08/2010;       Despesas com pessoal;R$ 750,00;Cheque; -  -  / 1200 - JULIO CEZAR DA SILVA MATOS - MT - Deputado Federal;
+JOYCE LAURIANA DE OLIVEIRA MORAES;028.829.441-60;11/08/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / 1200 - JULIO CEZAR DA SILVA MATOS - MT - Deputado Federal;
+JUNIOR MARCIO DA SILVA MATOS;900.200.301-34;17/08/2010;       Despesas com pessoal;R$ 750,00;Cheque; -  -  / 1200 - JULIO CEZAR DA SILVA MATOS - MT - Deputado Federal;
+JUNIOR MARCIO DA SILVA MATOS;900.200.301-34;11/08/2010;       Despesas com pessoal;R$ 500,00;Cheque; -  -  / 1200 - JULIO CEZAR DA SILVA MATOS - MT - Deputado Federal;
+JUNIOR MARCIO DA SILVA MATOS;900.200.301-34;31/08/2010;       Despesas com pessoal;R$ 750,00;Cheque; -  -  / 1200 - JULIO CEZAR DA SILVA MATOS - MT - Deputado Federal;
+MULTICOR IMP IND REPRESENTA + ES LTDA;00.503.397/0001-34;12/08/2010;       Publicidade por materiais impressos;R$ 580,00;Cheque; -  -  / 1200 - JULIO CEZAR DA SILVA MATOS - MT - Deputado Federal;

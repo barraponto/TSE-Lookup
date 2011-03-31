@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;36000080653;R$ 16,92;Estimado;JESSE MACHADO DOS REIS;36123;Deputado Estadual;PTC;BA;
-Comitê Financeiro Único;12.191.570/0001-95;01/08/2010;36000080651;R$ 192,00;Estimado;JESSE MACHADO DOS REIS;36123;Deputado Estadual;PTC;BA;
-Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;36000080654;R$ 2.671,20;Estimado;JESSE MACHADO DOS REIS;36123;Deputado Estadual;PTC;BA;
-GEDDEL QUADROS VIEIRA LIMA;12.173.503/0001-48;30/08/2010;36000080652;R$ 204,00;Estimado;JESSE MACHADO DOS REIS;36123;Deputado Estadual;PTC;BA;
-JESSIMAR ARAUJO DOS REIS;015.374.655-62;30/09/2010;36000080655;R$ 3.010,00;Estimado;JESSE MACHADO DOS REIS;36123;Deputado Estadual;PTC;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.671,20;Estimado;Comitê Financeiro Único - PMDB -  / 36123 - JESSE MACHADO DOS REIS - BA - Deputado Estadual;
+Comitê Financeiro Único;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 16,92;Estimado;Comitê Financeiro Único - PMDB -  / 36123 - JESSE MACHADO DOS REIS - BA - Deputado Estadual;
+Comitê Financeiro Único;12.191.570/0001-95;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 192,00;Estimado;Comitê Financeiro Único - PMDB -  / 36123 - JESSE MACHADO DOS REIS - BA - Deputado Estadual;
+GEDDEL QUADROS VIEIRA LIMA;12.173.503/0001-48;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 204,00;Estimado;15 -  - PMDB -  - Governador / 36123 - JESSE MACHADO DOS REIS - BA - Deputado Estadual;
+JESSIMAR ARAUJO DOS REIS;015.374.655-62;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.010,00;Estimado; -  -  / 36123 - JESSE MACHADO DOS REIS - BA - Deputado Estadual;

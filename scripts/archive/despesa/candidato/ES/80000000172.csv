@@ -1,5 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSE CARLOS DE OLIVEIRA;790.632.687-34;01/10/2010;17000008401;R$ 1.000,00;Transferência eletrônica;JOSE CARLOS DE OLIVEIRA;17147;Deputado Estadual;PSL;ES;
-JOSE CARLOS DE OLIVEIRA;790.632.687-34;30/09/2010;17000008404;R$ 1.500,00;Estimado;JOSE CARLOS DE OLIVEIRA;17147;Deputado Estadual;PSL;ES;
-JOSE CARLOS DE OLIVEIRA;790.632.687-34;22/10/2010;17000008403;R$ 50,00;Transferência eletrônica;JOSE CARLOS DE OLIVEIRA;17147;Deputado Estadual;PSL;ES;
-JOSE CARLOS DE OLIVEIRA;790.632.687-34;11/10/2010;17000008402;R$ 245,00;Transferência eletrônica;JOSE CARLOS DE OLIVEIRA;17147;Deputado Estadual;PSL;ES;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CLAUDEYLSON APARECIDO BOBBIO;017.378.877-70;01/10/2010;       Serviços prestados por terceiros;R$ 51,69;Cheque; -  -  / 17147 - JOSE CARLOS DE OLIVEIRA - ES - Deputado Estadual;
+GRAFICA ESPIRITO SANTO LTDA;30.955.538/0001-10;29/09/2010;       Publicidade por materiais impressos;R$ 50,00;Cheque; -  -  / 17147 - JOSE CARLOS DE OLIVEIRA - ES - Deputado Estadual;
+GRAFIGAVA LTDA MEE;39.826.953/0001-49;24/09/2010;       Publicidade por materiais impressos;R$ 700,00;Cheque; -  -  / 17147 - JOSE CARLOS DE OLIVEIRA - ES - Deputado Estadual;
+JOSE CARLOS DE OLIVEIRA;790.632.687-34;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado; -  -  / 17147 - JOSE CARLOS DE OLIVEIRA - ES - Deputado Estadual;
+KENNY BRINDES LTDA ME;05.195.119/0001-80;27/09/2010;       Publicidade por materiais impressos;R$ 177,20;Cheque; -  -  / 17147 - JOSE CARLOS DE OLIVEIRA - ES - Deputado Estadual;
+POSTO CIDADE LTDA;03.771.866/0001-94;08/10/2010;       Combustíveis e lubrificantes;R$ 316,11;Cheque; -  -  / 17147 - JOSE CARLOS DE OLIVEIRA - ES - Deputado Estadual;

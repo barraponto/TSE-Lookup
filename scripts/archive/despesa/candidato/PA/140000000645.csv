@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANA JULIA DE VASCONCELOS CAREPA;12.171.430/0001-55;19/07/2010;13000770122;R$ 3.500,00;Estimado;ELDMI RODRIGUES CASTRO;13050;Deputado Estadual;PT;PA;
-JOSE GERALDO TORRES DA SILVA;12.172.608/0001-82;02/10/2010;13000770126;R$ 375,00;Estimado;ELDMI RODRIGUES CASTRO;13050;Deputado Estadual;PT;PA;
-JOSE GERALDO TORRES DA SILVA;12.172.608/0001-82;30/09/2010;13000770123;R$ 700,00;Estimado;ELDMI RODRIGUES CASTRO;13050;Deputado Estadual;PT;PA;
-JOSE GERALDO TORRES DA SILVA;12.172.608/0001-82;02/10/2010;13000770125;R$ 99,00;Estimado;ELDMI RODRIGUES CASTRO;13050;Deputado Estadual;PT;PA;
-JOSE GERALDO TORRES DA SILVA;12.172.608/0001-82;02/10/2010;13000770124;R$ 257,40;Estimado;ELDMI RODRIGUES CASTRO;13050;Deputado Estadual;PT;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANA JULIA DE VASCONCELOS CAREPA;12.171.430/0001-55;19/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.500,00;Estimado;13 -  - PT -  - Governador / 13050 - ELDMI RODRIGUES CASTRO - PA - Deputado Estadual;
+JOSE GERALDO TORRES DA SILVA;12.172.608/0001-82;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 375,00;Estimado;1321 -  - PT -  - Deputado Federal / 13050 - ELDMI RODRIGUES CASTRO - PA - Deputado Estadual;
+JOSE GERALDO TORRES DA SILVA;12.172.608/0001-82;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 99,00;Estimado;1321 -  - PT -  - Deputado Federal / 13050 - ELDMI RODRIGUES CASTRO - PA - Deputado Estadual;
+JOSE GERALDO TORRES DA SILVA;12.172.608/0001-82;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 257,40;Estimado;1321 -  - PT -  - Deputado Federal / 13050 - ELDMI RODRIGUES CASTRO - PA - Deputado Estadual;
+JOSE GERALDO TORRES DA SILVA;12.172.608/0001-82;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 700,00;Estimado;1321 -  - PT -  - Deputado Federal / 13050 - ELDMI RODRIGUES CASTRO - PA - Deputado Estadual;

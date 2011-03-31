@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALOISIO CESAR DA ROCHA;162.862.514-72;16/08/2010;33000083332;R$ 150,00;Depósito em espécie;ALOÍSIO CESAR DA ROCHA;33456;Deputado Estadual;PMN;AL;
-ALOISIO CESAR DA ROCHA;162.862.514-72;04/08/2010;33000083331;R$ 250,00;Depósito em espécie;ALOÍSIO CESAR DA ROCHA;33456;Deputado Estadual;PMN;AL;
-ALOISIO CESAR DA ROCHA;162.862.514-72;19/08/2010;33000083333;R$ 200,00;Depósito em espécie;ALOÍSIO CESAR DA ROCHA;33456;Deputado Estadual;PMN;AL;
-Comitê Financeiro Único;12.191.515/0001-03;30/09/2010;33000083335;R$ 300,00;Estimado;ALOÍSIO CESAR DA ROCHA;33456;Deputado Estadual;PMN;AL;
-ELEIÇÃO 2010 FERNANDO AFFONSO COLLOR DE MELLO;12.168.659/0001-30;29/09/2010;33000083334;R$ 3.902,25;Estimado;ALOÍSIO CESAR DA ROCHA;33456;Deputado Estadual;PMN;AL;
-JOSÉ PEDRO DA COSTA;384.780.644-00;15/07/2010;33000083336;R$ 2.000,00;Estimado;ALOÍSIO CESAR DA ROCHA;33456;Deputado Estadual;PMN;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.515/0001-03;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMN -  / 33456 - ALOÍSIO CESAR DA ROCHA - AL - Deputado Estadual;
+ELEIÇÃO 2010 FERNANDO AFFONSO COLLOR DE MELLO;12.168.659/0001-30;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.902,25;Estimado;14 -  - PTB -  - Governador / 33456 - ALOÍSIO CESAR DA ROCHA - AL - Deputado Estadual;
+JOSÉ PEDRO DA COSTA;384.780.644-00;15/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado; -  -  / 33456 - ALOÍSIO CESAR DA ROCHA - AL - Deputado Estadual;
+MJ DE SOUZA SERIGRAFIA ME;11.978.278/0001-54;19/08/2010;       Publicidade por materiais impressos;R$ 100,00;Cheque; -  -  / 33456 - ALOÍSIO CESAR DA ROCHA - AL - Deputado Estadual;
+SA DA SILVA E CIA LTDA;69.999.456/0001-03;29/09/2010;       Combustíveis e lubrificantes;R$ 105,00;Cheque; -  -  / 33456 - ALOÍSIO CESAR DA ROCHA - AL - Deputado Estadual;
+SA DA SILVA E CIA LTDA;69.999.456/0001-03;16/08/2010;       Combustíveis e lubrificantes;R$ 390,24;Cheque; -  -  / 33456 - ALOÍSIO CESAR DA ROCHA - AL - Deputado Estadual;

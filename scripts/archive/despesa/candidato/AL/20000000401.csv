@@ -1,2 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOÃO JOSÉ PEREIRA DE LYRA;003.413.204-04;23/07/2010;28000507561;R$ 10.000,00;Depósito em espécie;PAULO ROBERTO PEREIRA DE ARAUJO;28444;Deputado Estadual;PRTB;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BRABO MAGALHÃES ADVOGADOS;03.893.033/0001-04;23/07/2010;       Serviços prestados por terceiros;R$ 6.500,00;Cheque; -  -  / 28444 - PAULO ROBERTO PEREIRA DE ARAUJO - AL - Deputado Estadual;
+NELSON GOMES BARRETO JÚNIOR;048.554.294-30;26/07/2010;       Produção de jingles, vinhetas e slogans;R$ 3.490,00;Cheque; -  -  / 28444 - PAULO ROBERTO PEREIRA DE ARAUJO - AL - Deputado Estadual;
+;;26/07/2010;       Impostos, contribuições e taxas;R$ 3,00;Débito em conta; -  -  / 28444 - PAULO ROBERTO PEREIRA DE ARAUJO - AL - Deputado Estadual;
+;;23/07/2010;       Impostos, contribuições e taxas;R$ 3,00;Débito em conta; -  -  / 28444 - PAULO ROBERTO PEREIRA DE ARAUJO - AL - Deputado Estadual;
+;;28/10/2010;       Impostos, contribuições e taxas;R$ 4,00;Débito em conta; -  -  / 28444 - PAULO ROBERTO PEREIRA DE ARAUJO - AL - Deputado Estadual;

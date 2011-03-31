@@ -1,2 +1,14 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DAYSE DAYANE FONSECA DA SILVA;062.114.194-14;19/07/2010;17000030801;R$ 35.000,00;Transferência eletrônica;AMAURI CANDIDO DA SILVA;17633;Deputado Estadual;PSL;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA E EDITORA GÊNESES COMERCIAL GÊNESES LTDA;11.451.655/0001-00;29/07/2010;       Publicidade por materiais impressos;R$ 8.175,00;Cheque; -  -  / 17633 - AMAURI CANDIDO DA SILVA - PE - Deputado Estadual;
+GRAFICA E EDITORA GÊNESES COMERCIAL GÊNESES LTDA;11.451.655/0001-00;21/07/2010;       Publicidade por materiais impressos;R$ 5.000,00;Cheque; -  -  / 17633 - AMAURI CANDIDO DA SILVA - PE - Deputado Estadual;
+JK PRODUÇÕES ARTISTICAS LTDA;09.009.682/0001-78;15/07/2010;       Publicidade por carros de som;R$ 6.500,00;Cheque; -  -  / 17633 - AMAURI CANDIDO DA SILVA - PE - Deputado Estadual;
+JK PRODUÇÕES ARTISTICAS LTDA;09.009.682/0001-78;14/07/2010;       Publicidade por carros de som;R$ 850,00;Cheque; -  -  / 17633 - AMAURI CANDIDO DA SILVA - PE - Deputado Estadual;
+JK PRODUÇÕES ARTISTICAS LTDA;09.009.682/0001-78;14/07/2010;       Publicidade por carros de som;R$ 1.500,00;Cheque; -  -  / 17633 - AMAURI CANDIDO DA SILVA - PE - Deputado Estadual;
+JK PRODUÇÕES ARTISTICAS LTDA;09.009.682/0001-78;16/07/2010;       Publicidade por carros de som;R$ 3.000,00;Cheque; -  -  / 17633 - AMAURI CANDIDO DA SILVA - PE - Deputado Estadual;
+JOSEMAR DA COSTA BARBOSA;539.290.984-15;05/08/2010;       Cessão ou Locação de Veículos;R$ 6.000,00;Cheque; -  -  / 17633 - AMAURI CANDIDO DA SILVA - PE - Deputado Estadual;
+JOSEMAR DA COSTA BARBOSA;539.290.984-15;03/08/2010;       Despesas com transporte ou deslocamento;R$ 25,00;Cheque; -  -  / 17633 - AMAURI CANDIDO DA SILVA - PE - Deputado Estadual;
+JOSEMAR DA COSTA BARBOSA;539.290.984-15;10/09/2010;       Despesas com pessoal;R$ 449,30;Cheque; -  -  / 17633 - AMAURI CANDIDO DA SILVA - PE - Deputado Estadual;
+JOSEMAR DA COSTA BARBOSA;539.290.984-15;17/08/2010;       Despesas com pessoal;R$ 1.500,00;Cheque; -  -  / 17633 - AMAURI CANDIDO DA SILVA - PE - Deputado Estadual;
+JOSEMAR DA COSTA BARBOSA;539.290.984-15;06/08/2010;       Despesas com pessoal;R$ 2.000,00;Cheque; -  -  / 17633 - AMAURI CANDIDO DA SILVA - PE - Deputado Estadual;
+;;19/07/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 17633 - AMAURI CANDIDO DA SILVA - PE - Deputado Estadual;
+;;19/07/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 17633 - AMAURI CANDIDO DA SILVA - PE - Deputado Estadual;

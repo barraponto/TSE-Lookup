@@ -1,2 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-WILSON RAIMUNDO TAVARES SILVA;089.069.553-91;26/08/2010;22000045701;R$ 1.300,00;Depósito em espécie;WILSON RAIMUNDO TAVARES SILVA;2200;Deputado Federal;PR;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRÁFICA EDITORA PRISMA LIMITADA;06.972.230/0001-07;27/08/2010;       Publicidade por materiais impressos;R$ 1.280,00;Cheque; -  -  / 2200 - WILSON RAIMUNDO TAVARES SILVA - MA - Deputado Federal;
+2200 - WILSON RAIMUNDO TAVARES SILVA - DEPUTADO FEDERAL;12.170.710/0001-49;28/10/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 20,00;Depósito em espécie;Direção Estadual/Distrital - PR - MA / 2200 - WILSON RAIMUNDO TAVARES SILVA - MA - Deputado Federal;

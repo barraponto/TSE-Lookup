@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FRANCISCO PEREIRA DE SOUSA;289.921.211-72;03/08/2010;;R$ 65,00;Depósito em espécie;FRANCISCO PEREIRA DE SOUSA;28155;Deputado Distrital;PRTB;DF;
-FRANCISCO PEREIRA DE SOUSA;289.921.211-72;28/07/2010;;R$ 50,00;Depósito em espécie;FRANCISCO PEREIRA DE SOUSA;28155;Deputado Distrital;PRTB;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DESIGN COMERCIO E SERVIÇOS DE SINALIZAÇÃO LTDA-ME.;02.765.977/0001-25;28/07/2010;       Publicidade por materiais impressos;R$ 35,00;Cheque; -  -  / 28155 - FRANCISCO PEREIRA DE SOUSA - DF - Deputado Distrital;
+FIREPRINT SERVIÇOS GRAFICOS;10.332.271/0001-06;05/08/2010;       Publicidade por materiais impressos;R$ 50,00;Cheque; -  -  / 28155 - FRANCISCO PEREIRA DE SOUSA - DF - Deputado Distrital;
+;;14/10/2010;       Impostos, contribuições e taxas;R$ 17,50;Débito em conta; -  -  / 28155 - FRANCISCO PEREIRA DE SOUSA - DF - Deputado Distrital;

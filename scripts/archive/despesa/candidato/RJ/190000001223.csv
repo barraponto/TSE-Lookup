@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CESAR EPITÁCIO MAIA;12.176.116/0001-65;01/10/2010;25000166092;R$ 117,00;Estimado;PAULO SERGIO VIEIRA SORIANO;2530;Deputado Federal;DEM;RJ;
-CESAR EPITÁCIO MAIA;12.176.116/0001-65;01/10/2010;25000166095;R$ 78,00;Estimado;PAULO SERGIO VIEIRA SORIANO;2530;Deputado Federal;DEM;RJ;
-CESAR EPITÁCIO MAIA;12.176.116/0001-65;01/10/2010;25000166094;R$ 78,00;Estimado;PAULO SERGIO VIEIRA SORIANO;2530;Deputado Federal;DEM;RJ;
-CESAR PITÁCIO MAIA;12.176.116/0001-65;01/10/2010;25000166093;R$ 117,00;Estimado;PAULO SERGIO VIEIRA SORIANO;2530;Deputado Federal;DEM;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CESAR EPITÁCIO MAIA;12.176.116/0001-65;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 117,00;Estimado;251 -  - DEM -  - Senador / 2530 - PAULO SERGIO VIEIRA SORIANO - RJ - Deputado Federal;
+CESAR EPITÁCIO MAIA;12.176.116/0001-65;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 78,00;Estimado;251 -  - DEM -  - Senador / 2530 - PAULO SERGIO VIEIRA SORIANO - RJ - Deputado Federal;
+CESAR EPITÁCIO MAIA;12.176.116/0001-65;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 78,00;Estimado;251 -  - DEM -  - Senador / 2530 - PAULO SERGIO VIEIRA SORIANO - RJ - Deputado Federal;
+CESAR PITÁCIO MAIA;12.176.116/0001-65;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 117,00;Estimado;251 -  - DEM -  - Senador / 2530 - PAULO SERGIO VIEIRA SORIANO - RJ - Deputado Federal;

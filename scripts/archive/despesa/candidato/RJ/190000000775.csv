@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;08/09/2010;40000999001;R$ 150,00;Estimado;JOSE CARLOS CAMINI;40066;Deputado Estadual;PSB;RJ;
-Comitê Financeiro Único;12.339.086/0001-60;29/09/2010;40000999004;R$ 392,15;Estimado;JOSE CARLOS CAMINI;40066;Deputado Estadual;PSB;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;40000999003;R$ 150,00;Estimado;JOSE CARLOS CAMINI;40066;Deputado Estadual;PSB;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;24/09/2010;40000999002;R$ 150,00;Estimado;JOSE CARLOS CAMINI;40066;Deputado Estadual;PSB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;08/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 40066 - JOSE CARLOS CAMINI - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 40066 - JOSE CARLOS CAMINI - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.339.086/0001-60;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 392,15;Estimado;Comitê Financeiro Único - PSB -  / 40066 - JOSE CARLOS CAMINI - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 40066 - JOSE CARLOS CAMINI - RJ - Deputado Estadual;

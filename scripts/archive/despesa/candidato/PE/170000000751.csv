@@ -1,6 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DEOMEDES ALVES DE BRITO;576.363.894-87;26/08/2010;14000057455;R$ 5.000,00;Depósito em espécie;JOSE AUGUSTO MAIA;1440;Deputado Federal;PTB;PE;
-ERNESTO LAZARO MAIA;493.172.294-68;26/08/2010;14000057452;R$ 5.000,00;Depósito em espécie;JOSE AUGUSTO MAIA;1440;Deputado Federal;PTB;PE;
-JEROHAM GONZAGA DA SILVA;034.135.354-04;26/08/2010;14000057456;R$ 4.500,00;Depósito em espécie;JOSE AUGUSTO MAIA;1440;Deputado Federal;PTB;PE;
-JOSE AUGUSTO MAIA;142.992.754-20;26/08/2010;14000057451;R$ 93.600,00;Depósito em espécie;JOSE AUGUSTO MAIA;1440;Deputado Federal;PTB;PE;
-MARIA DO SOCORRO FERREIRA MAIA;772.592.624-00;26/08/2010;14000057453;R$ 5.000,00;Depósito em espécie;JOSE AUGUSTO MAIA;1440;Deputado Federal;PTB;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+PLENA PRODUÇÕES E EVENTOS LTDA;09.051.022/0001-55;27/08/2010;       Diversas a especificar;R$ 113.000,00;Cheque; -  -  / 1440 - JOSE AUGUSTO MAIA - PE - Deputado Federal;
+;;26/08/2010;       Encargos financeiros e taxas bancárias;R$ 3,00;Débito em conta; -  -  / 1440 - JOSE AUGUSTO MAIA - PE - Deputado Federal;

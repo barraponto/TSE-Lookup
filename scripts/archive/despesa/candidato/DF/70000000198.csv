@@ -1,6 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-COMPACTA CONSTRUÇOES E PROJETOS LTDA;72.582.638/0001-99;09/08/2010;17000029053;R$ 3.631,50;Cheque;PAULO VICTOR BARBOSA DE CARVALHO;17012;Deputado Distrital;PSL;DF;
-IVAN FELIPE DUTRA;313.448.951-15;19/08/2010;17000029054;R$ 3.500,00;Depósito em espécie;PAULO VICTOR BARBOSA DE CARVALHO;17012;Deputado Distrital;PSL;DF;
-LUIS AUGUSTO NUNES DE OLIVEIRA;584.826.101-63;24/08/2010;17000029055;R$ 1.000,00;Depósito em espécie;PAULO VICTOR BARBOSA DE CARVALHO;17012;Deputado Distrital;PSL;DF;
-MARIA AUGUSTA NUNES E OLIVEIRA;690.181.701-00;20/08/2010;17000029052;R$ 1.000,00;Depósito em espécie;PAULO VICTOR BARBOSA DE CARVALHO;17012;Deputado Distrital;PSL;DF;
-TRAN CAR TRANCAS CARROS E ACESSORIOS LTDA;03.595.907/0001-39;19/07/2010;17000029051;R$ 1.480,00;Transferência eletrônica;PAULO VICTOR BARBOSA DE CARVALHO;17012;Deputado Distrital;PSL;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO GASOL LTDA;00.000.042/0010-13;21/09/2010;       Combustíveis e lubrificantes;R$ 50,00;Cheque; -  -  / 17012 - PAULO VICTOR BARBOSA DE CARVALHO - DF - Deputado Distrital;
+CANAA COMBUSTIVEL PARA VEICULOS LTDA;00.661.132/0001-64;21/09/2010;       Combustíveis e lubrificantes;R$ 50,00;Cheque; -  -  / 17012 - PAULO VICTOR BARBOSA DE CARVALHO - DF - Deputado Distrital;
+COMERCIO DE PECAS E SERVICOS LTDA EPP;07.339.053/0001-80;30/09/2010;       Despesas com transporte ou deslocamento;R$ 200,00;Cheque; -  -  / 17012 - PAULO VICTOR BARBOSA DE CARVALHO - DF - Deputado Distrital;
+CRISTIANO SIQUEIRA DANTAS;016.712.677-61;30/08/2010;       Despesas com pessoal;R$ 1.500,00;Cheque; -  -  / 17012 - PAULO VICTOR BARBOSA DE CARVALHO - DF - Deputado Distrital;
+GRAFICA E EDITORA IDEAL LTDA;00.433.623/0001-58;27/09/2010;       Publicidade por materiais impressos;R$ 1.800,00;Cheque; -  -  / 17012 - PAULO VICTOR BARBOSA DE CARVALHO - DF - Deputado Distrital;
+INDUSTRIA E COM DE ETIQUETAS ADESIVAS BRASILIA LTDA;00.736.033/0001-02;18/08/2010;       Publicidade por materiais impressos;R$ 3.190,00;Cheque; -  -  / 17012 - PAULO VICTOR BARBOSA DE CARVALHO - DF - Deputado Distrital;
+INPRESS BRASILIA COMUNICACAO VISUAL LTDA ME;09.432.796/0001-26;20/07/2010;       Publicidade por materiais impressos;R$ 1.299,93;Cheque; -  -  / 17012 - PAULO VICTOR BARBOSA DE CARVALHO - DF - Deputado Distrital;
+INPRESS BRASILIA COMUNICACAO VISUAL LTDA ME;09.432.796/0001-26;17/09/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 17012 - PAULO VICTOR BARBOSA DE CARVALHO - DF - Deputado Distrital;
+POSTO 214 NORTE;05.503.649/0001-49;12/09/2010;       Combustíveis e lubrificantes;R$ 171,03;Cheque; -  -  / 17012 - PAULO VICTOR BARBOSA DE CARVALHO - DF - Deputado Distrital;
+RAMOS & RAMOS INSTRUMENTOS MUSICAIS LTDA ME;12.147.445/0001-88;28/08/2010;       Diversas a especificar;R$ 1.550,00;Cheque; -  -  / 17012 - PAULO VICTOR BARBOSA DE CARVALHO - DF - Deputado Distrital;
+210 PECAS E ACESSORIOS LTDA EPP;72.610.876/0001-60;21/09/2010;       Publicidade por carros de som;R$ 206,00;Cheque; -  -  / 17012 - PAULO VICTOR BARBOSA DE CARVALHO - DF - Deputado Distrital;

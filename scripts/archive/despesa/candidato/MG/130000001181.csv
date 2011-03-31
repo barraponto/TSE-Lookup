@@ -1,6 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO LUCIO THEODORO;606.557.396-53;07/10/2010;36000003704;R$ 160,00;Transferência eletrônica;JAYME DUQUE JÚNIOR;36550;Deputado Estadual;PTC;MG;
-ANTONIO LUCIO THEODORO;606.557.396-53;20/08/2010;36000003702;R$ 1.000,00;Depósito em espécie;JAYME DUQUE JÚNIOR;36550;Deputado Estadual;PTC;MG;
-JAYME DUQUE JUNIOR;343.867.006-25;14/10/2010;36000003705;R$ 80,50;Depósito em espécie;JAYME DUQUE JÚNIOR;36550;Deputado Estadual;PTC;MG;
-JAYME DUQUE JUNIOR;343.867.006-25;23/07/2010;36000003701;R$ 364,00;Depósito em espécie;JAYME DUQUE JÚNIOR;36550;Deputado Estadual;PTC;MG;
-JOSE JOAO DE BRITO;07.625.664/0001-95;17/09/2010;36000003703;R$ 499,00;Estimado;JAYME DUQUE JÚNIOR;36550;Deputado Estadual;PTC;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARACY MEIRELES DE ARAUJO;825.080.706-53;04/10/2010;       Locação/cessão de bens imóveis;R$ 150,00;Cheque; -  -  / 36550 - JAYME DUQUE JÚNIOR - MG - Deputado Estadual;
+ARACY MEIRELES DE ARAUJO;825.080.706-53;12/08/2010;       Locação/cessão de bens imóveis;R$ 150,00;Cheque; -  -  / 36550 - JAYME DUQUE JÚNIOR - MG - Deputado Estadual;
+AUTO POSTO DAS ROSAS LTDA;21.588.512/0001-90;31/08/2010;       Combustíveis e lubrificantes;R$ 570,00;Cheque; -  -  / 36550 - JAYME DUQUE JÚNIOR - MG - Deputado Estadual;
+CAIXA ECONOMICA FEDERAL;00.360.305/0001-04;24/08/2010;       Diversas a especificar;R$ 0,50;Transferência eletrônica; -  -  / 36550 - JAYME DUQUE JÚNIOR - MG - Deputado Estadual;
+INDUSPLAN INDUSTRIA GRAFICA LTDA;43.296.672/0001-07;16/08/2010;       Publicidade por materiais impressos;R$ 364,00;Cheque; -  -  / 36550 - JAYME DUQUE JÚNIOR - MG - Deputado Estadual;
+JOSE JOAO DE BRITO;07.625.664/0001-95;17/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 499,00;Estimado; -  -  / 36550 - JAYME DUQUE JÚNIOR - MG - Deputado Estadual;
+MULT COMUNICACAO LTDA;00.116.262/0001-16;25/08/2010;       Publicidade por placas, estandartes e faixas;R$ 250,00;Cheque; -  -  / 36550 - JAYME DUQUE JÚNIOR - MG - Deputado Estadual;
+PAPELARIA DRUMOND DE ITABIRA LTDA;05.068.388/0001-86;16/08/2010;       Serviços prestados por terceiros;R$ 20,00;Cheque; -  -  / 36550 - JAYME DUQUE JÚNIOR - MG - Deputado Estadual;
+ZENAIDE IZIDORO LIMA ME;38.530.382/0001-38;04/10/2010;       Publicidade por placas, estandartes e faixas;R$ 100,00;Cheque; -  -  / 36550 - JAYME DUQUE JÚNIOR - MG - Deputado Estadual;

@@ -1,2 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADÃO MOACIR GEGLER;241.606.010-49;15/07/2010;;R$ 200,00;Depósito em espécie;ADÃO MOACIR GEGLER;36010;Deputado Estadual;PTC;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+FATO NOVO COMUNICAÇÕES SOCIAIS LTDA.;94.101.482/0001-10;23/07/2010;       Publicidade por jornais e revistas;R$ 80,00;Cheque; -  -  / 36010 - ADÃO MOACIR GEGLER - RS - Deputado Estadual;
+LUIZ AUGUSTO FLORES;392.305.110-72;24/08/2010;       Serviços prestados por terceiros;R$ 100,00;Cheque; -  -  / 36010 - ADÃO MOACIR GEGLER - RS - Deputado Estadual;
+LUIZ AUGUSTO FLORES;392.305.110-72;01/11/2010;       Serviços prestados por terceiros;R$ 20,00;Cheque; -  -  / 36010 - ADÃO MOACIR GEGLER - RS - Deputado Estadual;

@@ -1,4 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;03.534.059/0001-58;23/07/2010;14000060351;R$ 1.200,00;Estimado;JOSEMAR SOUSA LIMA;14567;Deputado Estadual;PTB;AP;
-Diretório Estadual/Distrital;03.534.059/0001-58;09/08/2010;14000060352;R$ 1.100,00;Estimado;JOSEMAR SOUSA LIMA;14567;Deputado Estadual;PTB;AP;
-JOSEMAR SOUSA LIMA;603.268.752-04;27/09/2010;14000060353;R$ 600,00;Depósito em espécie;JOSEMAR SOUSA LIMA;14567;Deputado Estadual;PTB;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;03.534.059/0001-58;23/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.200,00;Estimado;Direção Estadual/Distrital - PTB -  / 14567 - JOSEMAR SOUSA LIMA - AP - Deputado Estadual;
+Diretório Estadual/Distrital;03.534.059/0001-58;09/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.100,00;Estimado;Direção Estadual/Distrital - PTB -  / 14567 - JOSEMAR SOUSA LIMA - AP - Deputado Estadual;
+PARTIDO TRABALHISTA  BRASILEIRO;03.534.059/0001-58;23/07/2010;       Diversas a especificar;R$ 1.200,00;Não informado; -  -  / 14567 - JOSEMAR SOUSA LIMA - AP - Deputado Estadual;
+PARTIDO TRABALHISTA  BRASILEIRO;03.534.059/0001-58;09/08/2010;       Diversas a especificar;R$ 1.100,00;Não informado; -  -  / 14567 - JOSEMAR SOUSA LIMA - AP - Deputado Estadual;
+STAMP ART;02.154.768/0001-45;27/09/2010;       Diversas a especificar;R$ 600,00;Cheque; -  -  / 14567 - JOSEMAR SOUSA LIMA - AP - Deputado Estadual;

@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.191.570/0001-95;30/09/2010;20200074501;R$ 2.333,66;Estimado;EDMILSON BISPO BARBOSA;2030;Deputado Federal;PSC;BA;
-Diretório Estadual/Distrital;12.191.570/0001-95;25/08/2010;20200074503;R$ 204,00;Estimado;EDMILSON BISPO BARBOSA;2030;Deputado Federal;PSC;BA;
-Diretório Estadual/Distrital;12.191.570/0001-95;30/09/2010;20200074502;R$ 56,40;Estimado;EDMILSON BISPO BARBOSA;2030;Deputado Federal;PSC;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.333,66;Estimado;Direção Estadual/Distrital - PMDB -  / 2030 - EDMILSON BISPO BARBOSA - BA - Deputado Federal;
+Diretório Estadual/Distrital;12.191.570/0001-95;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 204,00;Estimado;Direção Estadual/Distrital - PMDB -  / 2030 - EDMILSON BISPO BARBOSA - BA - Deputado Federal;
+Diretório Estadual/Distrital;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 56,40;Estimado;Direção Estadual/Distrital - PMDB -  / 2030 - EDMILSON BISPO BARBOSA - BA - Deputado Federal;

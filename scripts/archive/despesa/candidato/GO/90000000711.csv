@@ -1,3 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 - IRIS REZENDE MACHADO - GOVERNADOR;12.167.313/0001-18;16/09/2010;15000091102;R$ 3.500,00;Cheque;VERA LUCIA COSTA FERREIRA;15333;Deputado Estadual;PMDB;GO;
-MARIA MADALENA MARTINS COSTA;628.762.521-04;31/08/2010;15000091101;R$ 500,00;Depósito em espécie;VERA LUCIA COSTA FERREIRA;15333;Deputado Estadual;PMDB;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUGUSTO CESAR MEDEIROS DE MENDONÇA;004.115.091-01;01/09/2010;       Despesas com pessoal;R$ 650,00;Cheque; -  -  / 15333 - VERA LUCIA COSTA FERREIRA - GO - Deputado Estadual;
+CLEBERSON S. O. JERONIMO;640.637.635-87;01/09/2010;       Despesas com pessoal;R$ 1.250,00;Cheque; -  -  / 15333 - VERA LUCIA COSTA FERREIRA - GO - Deputado Estadual;
+EVERTON VAZ DINIZ;803.506.741-91;01/09/2010;       Publicidade por materiais impressos;R$ 120,00;Transferência eletrônica; -  -  / 15333 - VERA LUCIA COSTA FERREIRA - GO - Deputado Estadual;
+GRAFICA CRUZEIRO SUL LTDA;02.365.229/0001-55;01/09/2010;       Publicidade por materiais impressos;R$ 380,00;Transferência eletrônica; -  -  / 15333 - VERA LUCIA COSTA FERREIRA - GO - Deputado Estadual;
+KATY GILVANE S. ROCHA;821.285.611-91;01/09/2010;       Despesas com pessoal;R$ 250,00;Cheque; -  -  / 15333 - VERA LUCIA COSTA FERREIRA - GO - Deputado Estadual;
+LIGIA MARCIA SOUZA PERAZZO;420.906.605-20;01/09/2010;       Despesas com pessoal;R$ 250,00;Cheque; -  -  / 15333 - VERA LUCIA COSTA FERREIRA - GO - Deputado Estadual;
+MARIA JURACI NUNES DE OLIVEIRA;520.616.041-53;01/09/2010;       Despesas com pessoal;R$ 400,00;Cheque; -  -  / 15333 - VERA LUCIA COSTA FERREIRA - GO - Deputado Estadual;
+WESLEI XAVIER DA SILVA;024.099.541-46;01/09/2010;       Despesas com pessoal;R$ 685,60;Cheque; -  -  / 15333 - VERA LUCIA COSTA FERREIRA - GO - Deputado Estadual;
+;;01/10/2010;       Encargos financeiros e taxas bancárias;R$ 14,40;Débito em conta; -  -  / 15333 - VERA LUCIA COSTA FERREIRA - GO - Deputado Estadual;

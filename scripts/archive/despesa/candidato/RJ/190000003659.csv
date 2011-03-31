@@ -1,8 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANDRE LAZARONI DE MORAES;12.203.812/0001-13;06/09/2010;70000153823;R$ 1.022,72;Estimado;SERGIO MACHADO RODRIGUEZ;7044;Deputado Federal;PT do B;RJ;
-ANDRE LAZARONI DE MORAES;12.203.812/0001-13;06/09/2010;70000153825;R$ 611,11;Estimado;SERGIO MACHADO RODRIGUEZ;7044;Deputado Federal;PT do B;RJ;
-ANDRE LAZARONI DE MORAES;12.203.812/0001-13;04/09/2010;70000153822;R$ 4.250,00;Cheque;SERGIO MACHADO RODRIGUEZ;7044;Deputado Federal;PT do B;RJ;
-ANDRE LAZARONI DE MORAES;12.203.812/0001-13;06/09/2010;70000153826;R$ 100,00;Estimado;SERGIO MACHADO RODRIGUEZ;7044;Deputado Federal;PT do B;RJ;
-ANDRE LAZARONI DE MORAES;12.203.812/0001-13;06/09/2010;70000153824;R$ 161,11;Estimado;SERGIO MACHADO RODRIGUEZ;7044;Deputado Federal;PT do B;RJ;
-FRANCISCO DE ASSIS SILVA;263.824.664-68;13/09/2010;70000153827;R$ 2.834,00;Cheque;SERGIO MACHADO RODRIGUEZ;7044;Deputado Federal;PT do B;RJ;
-SERGIO MACHADO RODRIGUEZ;540.730.907-63;26/08/2010;70000153821;R$ 50,00;Depósito em espécie;SERGIO MACHADO RODRIGUEZ;7044;Deputado Federal;PT do B;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANDRE LAZARONI DE MORAES;12.203.812/0001-13;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 161,11;Estimado;15555 -  - PMDB -  - Deputado Estadual / 7044 - SERGIO MACHADO RODRIGUEZ - RJ - Deputado Federal;
+ANDRE LAZARONI DE MORAES;12.203.812/0001-13;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.022,72;Estimado;15555 -  - PMDB -  - Deputado Estadual / 7044 - SERGIO MACHADO RODRIGUEZ - RJ - Deputado Federal;
+ANDRE LAZARONI DE MORAES;12.203.812/0001-13;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 611,11;Estimado;15555 -  - PMDB -  - Deputado Estadual / 7044 - SERGIO MACHADO RODRIGUEZ - RJ - Deputado Federal;
+ANDRE LAZARONI DE MORAES;12.203.812/0001-13;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado;15555 -  - PMDB -  - Deputado Estadual / 7044 - SERGIO MACHADO RODRIGUEZ - RJ - Deputado Federal;
+SERGIO MACHADO RODRIGUEZ;540.730.907-63;17/09/2010;       Despesas com pessoal;R$ 2.850,00;Cheque; -  -  / 7044 - SERGIO MACHADO RODRIGUEZ - RJ - Deputado Federal;
+SERGIO MACHADO RODRIGUEZ;540.730.907-63;10/09/2010;       Despesas com pessoal;R$ 4.250,00;Cheque; -  -  / 7044 - SERGIO MACHADO RODRIGUEZ - RJ - Deputado Federal;
+;;30/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 7044 - SERGIO MACHADO RODRIGUEZ - RJ - Deputado Federal;

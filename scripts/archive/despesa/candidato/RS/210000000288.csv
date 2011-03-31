@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CARLOS OTÁVIO SCHENIDER;12.172.855/0001-89;14/09/2010;33000123331;R$ 540,00;Depósito em espécie;VALNEY LUIZ VARGAS DA SILVA;3356;Deputado Federal;PMN;RS;
-CARLOS OTÁVIO SCHENIDER;12.172.855/0001-89;28/08/2010;33000123326;R$ 300,00;Depósito em espécie;VALNEY LUIZ VARGAS DA SILVA;3356;Deputado Federal;PMN;RS;
-Diretório Nacional;29.549.433/0001-82;30/09/2010;33000123327;R$ 2.545,45;Estimado;VALNEY LUIZ VARGAS DA SILVA;3356;Deputado Federal;PMN;RS;
-Diretório Nacional;29.549.433/0001-82;30/09/2010;33000123329;R$ 1.000,00;Estimado;VALNEY LUIZ VARGAS DA SILVA;3356;Deputado Federal;PMN;RS;
-Diretório Nacional;29.549.433/0001-82;30/09/2010;33000123330;R$ 55,00;Estimado;VALNEY LUIZ VARGAS DA SILVA;3356;Deputado Federal;PMN;RS;
-Diretório Nacional;29.549.433/0001-82;30/09/2010;33000123328;R$ 433,50;Estimado;VALNEY LUIZ VARGAS DA SILVA;3356;Deputado Federal;PMN;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Nacional;29.549.433/0001-82;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;Direção Nacional - PMN -  / 3356 - VALNEY LUIZ VARGAS DA SILVA - RS - Deputado Federal;
+Diretório Nacional;29.549.433/0001-82;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.545,45;Estimado;Direção Nacional - PMN -  / 3356 - VALNEY LUIZ VARGAS DA SILVA - RS - Deputado Federal;
+Diretório Nacional;29.549.433/0001-82;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 433,50;Estimado;Direção Nacional - PMN -  / 3356 - VALNEY LUIZ VARGAS DA SILVA - RS - Deputado Federal;
+Diretório Nacional;29.549.433/0001-82;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 55,00;Estimado;Direção Nacional - PMN -  / 3356 - VALNEY LUIZ VARGAS DA SILVA - RS - Deputado Federal;
+TELMO LEAL PEREIRA;283.042.170-15;01/09/2010;       Locação/cessão de bens imóveis;R$ 300,00;Cheque; -  -  / 3356 - VALNEY LUIZ VARGAS DA SILVA - RS - Deputado Federal;
+WWN -IMPRESSOES;11.967.378/0001-85;15/09/2010;       Publicidade por materiais impressos;R$ 540,00;Cheque; -  -  / 3356 - VALNEY LUIZ VARGAS DA SILVA - RS - Deputado Federal;

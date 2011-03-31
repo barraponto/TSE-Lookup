@@ -1,10 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.200.159/0001-39;18/08/2010;14000123205;R$ 761,54;Estimado;JORGE CLAUDIO AZEVEDO;14451;Deputado Estadual;PTB;RS;
-Comitê Financeiro Único;12.200.159/0001-39;30/09/2010;14000123209;R$ 126,00;Estimado;JORGE CLAUDIO AZEVEDO;14451;Deputado Estadual;PTB;RS;
-Comitê Financeiro Único;12.200.159/0001-39;16/09/2010;14000123208;R$ 72,50;Estimado;JORGE CLAUDIO AZEVEDO;14451;Deputado Estadual;PTB;RS;
-Comitê Financeiro Único;12.200.159/0001-39;23/08/2010;14000123204;R$ 292,95;Estimado;JORGE CLAUDIO AZEVEDO;14451;Deputado Estadual;PTB;RS;
-Comitê Financeiro Único;12.200.159/0001-39;18/08/2010;14000123207;R$ 180,00;Estimado;JORGE CLAUDIO AZEVEDO;14451;Deputado Estadual;PTB;RS;
-Comitê Financeiro Único;12.200.159/0001-39;02/08/2010;14000123206;R$ 500,00;Estimado;JORGE CLAUDIO AZEVEDO;14451;Deputado Estadual;PTB;RS;
-JORGE CLAUDIO AZEVEDO;077.466.600-53;09/07/2010;14000123203;R$ 90,00;Depósito em espécie;JORGE CLAUDIO AZEVEDO;14451;Deputado Estadual;PTB;RS;
-JORGE CLAUDIO AZEVEDO;077.466.600-53;09/07/2010;14000123202;R$ 450,00;Depósito em espécie;JORGE CLAUDIO AZEVEDO;14451;Deputado Estadual;PTB;RS;
-JORGE CLAUDIO AZEVEDO;077.466.600-53;09/07/2010;14000123201;R$ 360,00;Depósito em espécie;JORGE CLAUDIO AZEVEDO;14451;Deputado Estadual;PTB;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.200.159/0001-39;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 292,95;Estimado;Comitê Financeiro Único - PTB -  / 14451 - JORGE CLAUDIO AZEVEDO - RS - Deputado Estadual;
+Comitê Financeiro Único;12.200.159/0001-39;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 180,00;Estimado;Comitê Financeiro Único - PTB -  / 14451 - JORGE CLAUDIO AZEVEDO - RS - Deputado Estadual;
+Comitê Financeiro Único;12.200.159/0001-39;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 126,00;Estimado;Comitê Financeiro Único - PTB -  / 14451 - JORGE CLAUDIO AZEVEDO - RS - Deputado Estadual;
+Comitê Financeiro Único;12.200.159/0001-39;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;Comitê Financeiro Único - PTB -  / 14451 - JORGE CLAUDIO AZEVEDO - RS - Deputado Estadual;
+Comitê Financeiro Único;12.200.159/0001-39;16/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 72,50;Estimado;Comitê Financeiro Único - PTB -  / 14451 - JORGE CLAUDIO AZEVEDO - RS - Deputado Estadual;
+Comitê Financeiro Único;12.200.159/0001-39;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 761,54;Estimado;Comitê Financeiro Único - PTB -  / 14451 - JORGE CLAUDIO AZEVEDO - RS - Deputado Estadual;
+VAPOR OIL SADY I HAMILTON FILHO;09.332.510/0001-30;13/07/2010;       Publicidade por placas, estandartes e faixas;R$ 900,00;Transferência eletrônica; -  -  / 14451 - JORGE CLAUDIO AZEVEDO - RS - Deputado Estadual;

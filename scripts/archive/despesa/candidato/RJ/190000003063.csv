@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;65000143803;R$ 50,00;Estimado;EURICO QUINTINO DA SILVA;65888;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;65000143802;R$ 150,00;Estimado;EURICO QUINTINO DA SILVA;65888;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.191.555/0001-47;30/09/2010;65000143806;R$ 100,00;Estimado;EURICO QUINTINO DA SILVA;65888;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;65000143804;R$ 300,00;Estimado;EURICO QUINTINO DA SILVA;65888;Deputado Estadual;PC do B;RJ;
-Comitê Financeiro Único;12.191.555/0001-47;06/09/2010;65000143807;R$ 406,25;Estimado;EURICO QUINTINO DA SILVA;65888;Deputado Estadual;PC do B;RJ;
-JORGE SAUED PICCIANI;12.176.626/0001-32;13/09/2010;65000143801;R$ 17,00;Estimado;EURICO QUINTINO DA SILVA;65888;Deputado Estadual;PC do B;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PMDB -  / 65888 - EURICO QUINTINO DA SILVA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.191.555/0001-47;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado;Comitê Financeiro Único - PC do B -  / 65888 - EURICO QUINTINO DA SILVA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 50,00;Estimado;Comitê Financeiro Único - PMDB -  / 65888 - EURICO QUINTINO DA SILVA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 65888 - EURICO QUINTINO DA SILVA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.191.555/0001-47;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 406,25;Estimado;Comitê Financeiro Único - PC do B -  / 65888 - EURICO QUINTINO DA SILVA - RJ - Deputado Estadual;
+JORGE SAUED PICCIANI;12.176.626/0001-32;13/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 65888 - EURICO QUINTINO DA SILVA - RJ - Deputado Estadual;

@@ -1,2 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LUIZ ALBERTO OLEGARIO DINIZ;574.982.297-49;28/07/2010;45000295455;R$ 2.756,00;Depósito em espécie;JOAO FREIRIS JUNIOR;4511;Deputado Federal;PSDB;ES;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+MARQUES PRODUÇÕES LTDA EPP;04.034.334/0001-37;05/08/2010;       Publicidade por materiais impressos;R$ 1.050,00;Cheque; -  -  / 4511 - JOAO FREIRIS JUNIOR - ES - Deputado Federal;
+NIRYAN C.R. DA SILVA VIGUINI EPP;00.208.521/0001-39;04/08/2010;       Publicidade por materiais impressos;R$ 1.400,00;Cheque; -  -  / 4511 - JOAO FREIRIS JUNIOR - ES - Deputado Federal;
+NORTPRINT IMPRESSÃO E SINALIZAÇÃO LTDA ME;10.858.045/0001-55;20/08/2010;       Publicidade por materiais impressos;R$ 220,00;Cheque; -  -  / 4511 - JOAO FREIRIS JUNIOR - ES - Deputado Federal;

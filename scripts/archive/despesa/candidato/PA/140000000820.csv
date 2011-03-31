@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANA JULIA DE VASCONCELOS CAREPA;12.171.430/0001-55;02/10/2010;22000134904;R$ 500,00;Estimado;MARILDA EUNICE CANTAL MACHADO COELHO;22900;Deputado Estadual;PR;PA;
-Comitê Financeiro Único;12.249.219/0001-08;01/09/2010;22000134902;R$ 180,00;Estimado;MARILDA EUNICE CANTAL MACHADO COELHO;22900;Deputado Estadual;PR;PA;
-Comitê Financeiro Único;12.249.219/0001-08;01/09/2010;22000134901;R$ 300,00;Estimado;MARILDA EUNICE CANTAL MACHADO COELHO;22900;Deputado Estadual;PR;PA;
-LUCIO DUTRA VALE;12.175.288/0001-14;01/10/2010;22000134905;R$ 120,00;Estimado;MARILDA EUNICE CANTAL MACHADO COELHO;22900;Deputado Estadual;PR;PA;
-LUCIO DUTRA VALE;12.175.288/0001-14;02/10/2010;22000134903;R$ 1.368,42;Estimado;MARILDA EUNICE CANTAL MACHADO COELHO;22900;Deputado Estadual;PR;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANA JULIA DE VASCONCELOS CAREPA;12.171.430/0001-55;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;13 -  - PT -  - Governador / 22900 - MARILDA EUNICE CANTAL MACHADO COELHO - PA - Deputado Estadual;
+Comitê Financeiro Único;12.249.219/0001-08;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 180,00;Estimado;Comitê Financeiro Único - PR -  / 22900 - MARILDA EUNICE CANTAL MACHADO COELHO - PA - Deputado Estadual;
+Comitê Financeiro Único;12.249.219/0001-08;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PR -  / 22900 - MARILDA EUNICE CANTAL MACHADO COELHO - PA - Deputado Estadual;
+LUCIO DUTRA VALE;12.175.288/0001-14;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.368,42;Estimado;2222 -  - PR -  - Deputado Federal / 22900 - MARILDA EUNICE CANTAL MACHADO COELHO - PA - Deputado Estadual;
+LUCIO DUTRA VALE;12.175.288/0001-14;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 120,00;Estimado;2222 -  - PR -  - Deputado Federal / 22900 - MARILDA EUNICE CANTAL MACHADO COELHO - PA - Deputado Estadual;

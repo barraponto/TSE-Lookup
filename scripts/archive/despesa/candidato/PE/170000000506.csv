@@ -1,6 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-DEUSDEDITE ALVES DA CRUZ;455.153.605-91;05/08/2010;36000064061;R$ 7.200,00;Depósito em espécie;HORÁCIO FREIRE DE SÁ JUNIOR;3601;Deputado Federal;PTC;PE;
-EDJEAN FREIRE MORORO DE CARVALHO;021.035.864-50;23/09/2010;36000064063;R$ 1.500,00;Depósito em espécie;HORÁCIO FREIRE DE SÁ JUNIOR;3601;Deputado Federal;PTC;PE;
-MARIA DE LOURDES FREIRE DE SA ME;07.699.601/0001-83;23/09/2010;36000064064;R$ 100,00;Depósito em espécie;HORÁCIO FREIRE DE SÁ JUNIOR;3601;Deputado Federal;PTC;PE;
-MARIA DE LOURDES FREIRE DE SA ME;07.699.601/0001-83;10/09/2010;36000064062;R$ 7.825,00;Depósito em espécie;HORÁCIO FREIRE DE SÁ JUNIOR;3601;Deputado Federal;PTC;PE;
-PTC;05.055.973/0001-41;30/09/2010;36000064065;R$ 2.000,00;Depósito em espécie;HORÁCIO FREIRE DE SÁ JUNIOR;3601;Deputado Federal;PTC;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EVALDO MORAES VASCONCELOS;975.733.374-34;13/10/2010;       Serviços prestados por terceiros;R$ 1.500,00;Cheque; -  -  / 3601 - HORÁCIO FREIRE DE SÁ JUNIOR - PE - Deputado Federal;
+NUCLEO DE INFORMAÇÃO E COORDENAÇÃO DO PONTO BR-NIC.BR;05.506.560/0001-36;24/07/2010;       Criação e inclusão de páginas na internet;R$ 30,00;Não informado; -  -  / 3601 - HORÁCIO FREIRE DE SÁ JUNIOR - PE - Deputado Federal;
+WDERVANIA COSTA DE ASSIS;04.267.117/0001-97;04/09/2010;       Publicidade por materiais impressos;R$ 7.825,00;Cheque; -  -  / 3601 - HORÁCIO FREIRE DE SÁ JUNIOR - PE - Deputado Federal;
+WDERVANIA COSTA DE ASSIS;04.267.117/0001-97;04/10/2010;       Publicidade por materiais impressos;R$ 2.099,65;Cheque; -  -  / 3601 - HORÁCIO FREIRE DE SÁ JUNIOR - PE - Deputado Federal;
+WDERVANIA COSTA DE ASSIS;04.267.117/0001-97;04/08/2010;       Publicidade por materiais impressos;R$ 560,00;Cheque; -  -  / 3601 - HORÁCIO FREIRE DE SÁ JUNIOR - PE - Deputado Federal;
+WDERVANIA COSTA DE ASSIS;04.267.117/0001-97;05/08/2010;       Publicidade por materiais impressos;R$ 6.610,00;Cheque; -  -  / 3601 - HORÁCIO FREIRE DE SÁ JUNIOR - PE - Deputado Federal;
+;;23/09/2010;       Encargos financeiros e taxas bancárias;R$ 0,35;Débito em conta; -  -  / 3601 - HORÁCIO FREIRE DE SÁ JUNIOR - PE - Deputado Federal;

@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.154.851/0001-78;03/08/2010;70000188401;R$ 590,00;Estimado;JANDIRA PEREIRA QUATRINI ANDRADE;70027;Deputado Estadual;PT do B;MG;
-Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;70000188404;R$ 300,00;Estimado;JANDIRA PEREIRA QUATRINI ANDRADE;70027;Deputado Estadual;PT do B;MG;
-Comitê Financeiro Único;12.154.851/0001-78;01/09/2010;70000188403;R$ 590,00;Estimado;JANDIRA PEREIRA QUATRINI ANDRADE;70027;Deputado Estadual;PT do B;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.154.851/0001-78;03/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 590,00;Estimado;Comitê Financeiro Único - PT do B -  / 70027 - JANDIRA PEREIRA QUATRINI ANDRADE - MG - Deputado Estadual;
+Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PT do B -  / 70027 - JANDIRA PEREIRA QUATRINI ANDRADE - MG - Deputado Estadual;
+Comitê Financeiro Único;12.154.851/0001-78;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 590,00;Estimado;Comitê Financeiro Único - PT do B -  / 70027 - JANDIRA PEREIRA QUATRINI ANDRADE - MG - Deputado Estadual;

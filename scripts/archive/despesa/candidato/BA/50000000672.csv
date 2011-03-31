@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANDRE LUIS BISPO CERQUEIRA;814.233.145-49;29/07/2010;14000133451;R$ 100,00;Estimado;AMARILIO PUBLIO DE ALMEIDA NETO;14670;Deputado Estadual;PTB;BA;
-Comitê Financeiro Estadual/Distrital para Governador;12.173.503/0001-48;30/08/2010;14000133453;R$ 204,00;Estimado;AMARILIO PUBLIO DE ALMEIDA NETO;14670;Deputado Estadual;PTB;BA;
-Comitê Financeiro Estadual/Distrital para Governador;12.191.570/0001-95;30/09/2010;14000133454;R$ 1.526,40;Estimado;AMARILIO PUBLIO DE ALMEIDA NETO;14670;Deputado Estadual;PTB;BA;
-Comitê Financeiro Único;12.191.570/0001-95;31/07/2010;14000133452;R$ 192,00;Estimado;AMARILIO PUBLIO DE ALMEIDA NETO;14670;Deputado Estadual;PTB;BA;
-MAP SANTOS ME;07.360.150/0001-55;30/09/2010;14000133455;R$ 500,00;Estimado;AMARILIO PUBLIO DE ALMEIDA NETO;14670;Deputado Estadual;PTB;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANDRE LUIS BISPO CERQUEIRA;814.233.145-49;29/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado; -  -  / 14670 - AMARILIO PUBLIO DE ALMEIDA NETO - BA - Deputado Estadual;
+Comitê Financeiro Estadual/Distrital para Governador;12.173.503/0001-48;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 204,00;Estimado;Comitê Financeiro Distrital/Estadual para Governador - PMDB -  / 14670 - AMARILIO PUBLIO DE ALMEIDA NETO - BA - Deputado Estadual;
+Comitê Financeiro Estadual/Distrital para Governador;12.191.570/0001-95;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.526,40;Estimado;Comitê Financeiro Distrital/Estadual para Governador - PMDB -  / 14670 - AMARILIO PUBLIO DE ALMEIDA NETO - BA - Deputado Estadual;
+Comitê Financeiro Único;12.191.570/0001-95;31/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 192,00;Estimado;Comitê Financeiro Único - PMDB -  / 14670 - AMARILIO PUBLIO DE ALMEIDA NETO - BA - Deputado Estadual;
+MAP SANTOS ME;07.360.150/0001-55;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 14670 - AMARILIO PUBLIO DE ALMEIDA NETO - BA - Deputado Estadual;

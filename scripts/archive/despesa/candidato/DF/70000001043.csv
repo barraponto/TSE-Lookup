@@ -1,6 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Deputado Distrital;12.229.907/0001-06;10/08/2010;25000615003;R$ 360,00;Outros títulos de crédito;FERNANDO FIDELIS SANTANA;25600;Deputado Distrital;DEM;DF;
-FERNANDO FIDELIS;901.083.371-20;30/08/2010;25000615004;R$ 640,00;Estimado;FERNANDO FIDELIS SANTANA;25600;Deputado Distrital;DEM;DF;
-FERNANDO FIDELIS;901.083.371-20;11/08/2010;25000615005;R$ 650,00;Estimado;FERNANDO FIDELIS SANTANA;25600;Deputado Distrital;DEM;DF;
-JOAQUIM DOMINGOS RORIZ;07.637.882/0001-40;24/07/2010;25000615002;R$ 800,00;Estimado;FERNANDO FIDELIS SANTANA;25600;Deputado Distrital;DEM;DF;
-LUIZ PHILIPE LEITE DE ALMEIDA;010.736.611-80;23/07/2010;25000615001;R$ 500,00;Estimado;FERNANDO FIDELIS SANTANA;25600;Deputado Distrital;DEM;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+FERNANDO FIDELIS;901.083.371-20;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 640,00;Estimado; -  -  / 25600 - FERNANDO FIDELIS SANTANA - DF - Deputado Distrital;
+FERNANDO FIDELIS;901.083.371-20;11/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 650,00;Estimado; -  -  / 25600 - FERNANDO FIDELIS SANTANA - DF - Deputado Distrital;
+JOAQUIM DOMINGOS RORIZ;07.637.882/0001-40;24/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 800,00;Estimado;20 -  - PSC -  - Governador / 25600 - FERNANDO FIDELIS SANTANA - DF - Deputado Distrital;
+LUIZ PHILIPE LEITE DE ALMEIDA;010.736.611-80;23/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 25600 - FERNANDO FIDELIS SANTANA - DF - Deputado Distrital;

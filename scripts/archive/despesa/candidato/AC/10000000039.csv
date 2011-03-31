@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Senador da República;12.147.828/0001-56;22/09/2010;40002310611;R$ 2.000,00;Depósito em espécie;JOSE AFONSO DE MIRANDA GOMES;40555;Deputado Estadual;PSB;AC;
-Comitê Financeiro Único;12.206.664/0001-90;01/09/2010;40002310613;R$ 392,00;Estimado;JOSE AFONSO DE MIRANDA GOMES;40555;Deputado Estadual;PSB;AC;
-Comitê Financeiro Único;12.206.664/0001-90;29/09/2010;40002310614;R$ 392,00;Estimado;JOSE AFONSO DE MIRANDA GOMES;40555;Deputado Estadual;PSB;AC;
-Comitê Financeiro Único;12.206.664/0001-90;23/09/2010;40002310612;R$ 657,72;Estimado;JOSE AFONSO DE MIRANDA GOMES;40555;Deputado Estadual;PSB;AC;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.206.664/0001-90;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 392,00;Estimado;Comitê Financeiro Único - PSB -  / 40555 - JOSE AFONSO DE MIRANDA GOMES - AC - Deputado Estadual;
+Comitê Financeiro Único;12.206.664/0001-90;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 392,00;Estimado;Comitê Financeiro Único - PSB -  / 40555 - JOSE AFONSO DE MIRANDA GOMES - AC - Deputado Estadual;
+Comitê Financeiro Único;12.206.664/0001-90;23/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 657,72;Estimado;Comitê Financeiro Único - PSB -  / 40555 - JOSE AFONSO DE MIRANDA GOMES - AC - Deputado Estadual;
+JOAO MUNIZ NUNES;051.607.902-68;01/08/2010;       Cessão ou Locação de Veículos;R$ 2.000,00;Cheque; -  -  / 40555 - JOSE AFONSO DE MIRANDA GOMES - AC - Deputado Estadual;

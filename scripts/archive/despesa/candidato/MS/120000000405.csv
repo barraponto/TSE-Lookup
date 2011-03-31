@@ -1,7 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.205.330/0001-00;19/08/2010;65000216402;R$ 627,00;Estimado;RONY PETTERSON MARÇAL;65222;Deputado Estadual;PC do B;MS;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.205.330/0001-00;05/09/2010;65000216405;R$ 130,00;Estimado;RONY PETTERSON MARÇAL;65222;Deputado Estadual;PC do B;MS;
-Comitê Financeiro Único;12.205.330/0001-00;17/08/2010;65000216403;R$ 413,07;Estimado;RONY PETTERSON MARÇAL;65222;Deputado Estadual;PC do B;MS;
-Comitê Financeiro Único;12.191.578/0001-51;18/08/2010;65000216401;R$ 2.000,00;Cheque;RONY PETTERSON MARÇAL;65222;Deputado Estadual;PC do B;MS;
-ELEICAO 2010 - MOACIR ROBERTO DE ABREU;12.169.514/0001-54;17/08/2010;65000216404;R$ 75,00;Estimado;RONY PETTERSON MARÇAL;65222;Deputado Estadual;PC do B;MS;
-ELEICAO 2010 MOACIR ROBERTO DE ABREU;12.169.514/0001-54;05/10/2010;65000216406;R$ 95,00;Estimado;RONY PETTERSON MARÇAL;65222;Deputado Estadual;PC do B;MS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALEXANDRA AMORIM MODESTO;003.726.601-26;29/09/2010;       Serviços prestados por terceiros;R$ 95,00;Cheque; -  -  / 65222 - RONY PETTERSON MARÇAL - MS - Deputado Estadual;
+Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.205.330/0001-00;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 130,00;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual - PC do B -  / 65222 - RONY PETTERSON MARÇAL - MS - Deputado Estadual;
+Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.205.330/0001-00;19/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 627,00;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual - PC do B -  / 65222 - RONY PETTERSON MARÇAL - MS - Deputado Estadual;
+Comitê Financeiro Único;12.205.330/0001-00;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 413,07;Estimado;Comitê Financeiro Único - PC do B -  / 65222 - RONY PETTERSON MARÇAL - MS - Deputado Estadual;
+ELEICAO 2010 - MOACIR ROBERTO DE ABREU;12.169.514/0001-54;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 75,00;Estimado;6513 -  - PC do B -  - Deputado Federal / 65222 - RONY PETTERSON MARÇAL - MS - Deputado Estadual;
+ELEICAO 2010 MOACIR ROBERTO DE ABREU;12.169.514/0001-54;05/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 95,00;Estimado;6513 -  - PC do B -  - Deputado Federal / 65222 - RONY PETTERSON MARÇAL - MS - Deputado Estadual;
+ELZA MARIA DA SILVA;761.550.211-04;16/09/2010;       Serviços prestados por terceiros;R$ 1.000,00;Cheque; -  -  / 65222 - RONY PETTERSON MARÇAL - MS - Deputado Estadual;
+MARIA AUGUSTA FERREIRA;635.102.949-04;16/09/2010;       Serviços prestados por terceiros;R$ 525,00;Cheque; -  -  / 65222 - RONY PETTERSON MARÇAL - MS - Deputado Estadual;
+RONY PETTERSON MARCAL;889.281.441-91;05/10/2010;       Diversas a especificar;R$ 30,00;Transferência eletrônica; -  -  / 65222 - RONY PETTERSON MARÇAL - MS - Deputado Estadual;
+WILSON OSMAR FARIAS LIMA;020.760.621-81;22/09/2010;       Serviços prestados por terceiros;R$ 350,00;Cheque; -  -  / 65222 - RONY PETTERSON MARÇAL - MS - Deputado Estadual;

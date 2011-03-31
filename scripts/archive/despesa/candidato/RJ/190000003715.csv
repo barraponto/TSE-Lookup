@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-AMAURY FORTES DUARTE;660.084.097-87;06/10/2010;14000129964;R$ 2,93;Depósito em espécie;AMAURY FORTES DUARTE;14140;Deputado Estadual;PTB;RJ;
-AMAURY FORTES DUARTE;660.084.097-87;23/09/2010;14000129963;R$ 160,00;Depósito em espécie;AMAURY FORTES DUARTE;14140;Deputado Estadual;PTB;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;29/07/2010;14000129961;R$ 150,00;Estimado;AMAURY FORTES DUARTE;14140;Deputado Estadual;PTB;RJ;
-Comitê Financeiro Único;12.181.923/0001-76;16/09/2010;14000129962;R$ 150,00;Estimado;AMAURY FORTES DUARTE;14140;Deputado Estadual;PTB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.181.923/0001-76;29/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 14140 - AMAURY FORTES DUARTE - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.181.923/0001-76;16/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 14140 - AMAURY FORTES DUARTE - RJ - Deputado Estadual;
+FOR UP LOG COMERCIO E SERVIÇOS LTDA;10.342.847/0001-08;29/09/2010;       Publicidade por materiais impressos;R$ 160,00;Cheque; -  -  / 14140 - AMAURY FORTES DUARTE - RJ - Deputado Estadual;
+;;05/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,03;Débito em conta; -  -  / 14140 - AMAURY FORTES DUARTE - RJ - Deputado Estadual;
+;;08/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 14140 - AMAURY FORTES DUARTE - RJ - Deputado Estadual;

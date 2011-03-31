@@ -1,5 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-GRAFICA SANTA MARTA LTDA;09.098.419/0001-00;21/08/2010;25000153601;R$ 347,50;Estimado;KLEBER FERNANDES DA ROCHA SOUZA;2510;Deputado Federal;DEM;PB;
-KLEBER FERNANDES DA ROCHA SOUZA;569.949.074-49;02/09/2010;25000153602;R$ 10,00;Depósito em espécie;KLEBER FERNANDES DA ROCHA SOUZA;2510;Deputado Federal;DEM;PB;
-RICARDO VIEIRA COUTINHO;12.173.462/0001-90;30/09/2010;25000153603;R$ 48,00;Estimado;KLEBER FERNANDES DA ROCHA SOUZA;2510;Deputado Federal;DEM;PB;
-RICARDO VIEIRA COUTINHO;12.173.462/0001-90;01/10/2010;25000153604;R$ 1.192,50;Estimado;KLEBER FERNANDES DA ROCHA SOUZA;2510;Deputado Federal;DEM;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA SANTA MARTA LTDA;09.098.419/0001-00;21/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 347,50;Estimado; -  -  / 2510 - KLEBER FERNANDES DA ROCHA SOUZA - PB - Deputado Federal;
+RICARDO VIEIRA COUTINHO;12.173.462/0001-90;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.192,50;Estimado;40 -  - PSB -  - Governador / 2510 - KLEBER FERNANDES DA ROCHA SOUZA - PB - Deputado Federal;
+RICARDO VIEIRA COUTINHO;12.173.462/0001-90;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 48,00;Estimado;40 -  - PSB -  - Governador / 2510 - KLEBER FERNANDES DA ROCHA SOUZA - PB - Deputado Federal;

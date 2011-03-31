@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSE CARLOS VIEIRA DOS SANTOS;120.631.505-91;20/07/2010;36000080638;R$ 200,00;Depósito em espécie;JOSE CARLOS VIEIRA DOS SANTOS;36113;Deputado Estadual;PTC;BA;
-MOZANE BULOS BARCELAR;05.954.701/0001-83;16/09/2010;36000080631;R$ 250,00;Estimado;JOSE CARLOS VIEIRA DOS SANTOS;36113;Deputado Estadual;PTC;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+MOZANE BULOS BARCELAR;05.954.701/0001-83;16/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado; -  -  / 36113 - JOSE CARLOS VIEIRA DOS SANTOS - BA - Deputado Estadual;
+SINALIZE 2 COMUNICAÇÃO VISUAL;09.583.747/0001-94;30/08/2010;       Publicidade por materiais impressos;R$ 186,50;Transferência eletrônica; -  -  / 36113 - JOSE CARLOS VIEIRA DOS SANTOS - BA - Deputado Estadual;
+;;29/10/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Débito em conta; -  -  / 36113 - JOSE CARLOS VIEIRA DOS SANTOS - BA - Deputado Estadual;

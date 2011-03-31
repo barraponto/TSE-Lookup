@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.181.923/0001-76;13/09/2010;31000025586;R$ 150,00;Estimado;MARIA DA CONCEICAO ALVES;3160;Deputado Federal;PHS;RJ;
-Comitê Financeiro Único;12.191.494/0001-18;30/09/2010;31000025588;R$ 250,00;Estimado;MARIA DA CONCEICAO ALVES;3160;Deputado Federal;PHS;RJ;
-ELEIÇÃO 2010 JORGE SAYED PICCIANI SENADOR;12.176.626/0001-32;27/09/2010;31000025587;R$ 17,00;Estimado;MARIA DA CONCEICAO ALVES;3160;Deputado Federal;PHS;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.191.494/0001-18;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;Comitê Financeiro Único - PHS -  / 3160 - MARIA DA CONCEICAO ALVES - RJ - Deputado Federal;
+Comitê Financeiro Único;12.181.923/0001-76;13/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PMDB -  / 3160 - MARIA DA CONCEICAO ALVES - RJ - Deputado Federal;
+ELEIÇÃO 2010 JORGE SAYED PICCIANI SENADOR;12.176.626/0001-32;27/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 17,00;Estimado;155 -  - PMDB -  - Senador / 3160 - MARIA DA CONCEICAO ALVES - RJ - Deputado Federal;

@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ARLETE GONÇALVES DOS SANTOS;12.177.918/0001-90;05/09/2010;33000029165;R$ 400,00;Estimado;JANIO PAULO DA SILVA;3334;Deputado Federal;PMN;MG;
-Comitê Financeiro Estadual/Distrital para Deputado Federal;12.191.554/0001-00;05/09/2010;33000029166;R$ 27,96;Estimado;JANIO PAULO DA SILVA;3334;Deputado Federal;PMN;MG;
-Comitê Financeiro Estadual/Distrital para Deputado Federal;12.191.554/0001-00;05/09/2010;33000029163;R$ 1.197,84;Estimado;JANIO PAULO DA SILVA;3334;Deputado Federal;PMN;MG;
-Comitê Financeiro Estadual/Distrital para Deputado Federal;12.191.554/0001-00;05/09/2010;33000029164;R$ 508,00;Estimado;JANIO PAULO DA SILVA;3334;Deputado Federal;PMN;MG;
-ELEIÇAO 2010 ARLETE G. DOS SANTOS;12.177.918/0001-90;10/08/2010;33000029161;R$ 1.100,00;Estimado;JANIO PAULO DA SILVA;3334;Deputado Federal;PMN;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARLETE GONÇALVES DOS SANTOS;12.177.918/0001-90;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado;33456 -  - PMN -  - Deputado Estadual / 3334 - JANIO PAULO DA SILVA - MG - Deputado Federal;
+Comitê Financeiro Estadual/Distrital para Deputado Federal;12.191.554/0001-00;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 508,00;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Federal - PMN -  / 3334 - JANIO PAULO DA SILVA - MG - Deputado Federal;
+Comitê Financeiro Estadual/Distrital para Deputado Federal;12.191.554/0001-00;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.197,84;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Federal - PMN -  / 3334 - JANIO PAULO DA SILVA - MG - Deputado Federal;
+Comitê Financeiro Estadual/Distrital para Deputado Federal;12.191.554/0001-00;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 27,96;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Federal - PMN -  / 3334 - JANIO PAULO DA SILVA - MG - Deputado Federal;
+ELEIÇAO 2010 ARLETE G. DOS SANTOS;12.177.918/0001-90;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.100,00;Estimado;33456 -  - PMN -  - Deputado Estadual / 3334 - JANIO PAULO DA SILVA - MG - Deputado Federal;

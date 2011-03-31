@@ -1,2 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-GLAUCO ANTÔNIO PRADO LIMA;025.134.477-00;27/08/2010;31000026141;R$ 1.500,00;Depósito em espécie;GLAUCO ANTONIO PRADO LIMA;31001;Deputado Estadual;PHS;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+RABISA ESTACIONAMENTO E LAVAGEM LTDA;08.171.187/0001-06;01/10/2010;       Publicidade por materiais impressos;R$ 700,00;Transferência eletrônica; -  -  / 31001 - GLAUCO ANTONIO PRADO LIMA - RJ - Deputado Estadual;
+TECNO 1000 FAIXAS COMPANY E COMERCIO DE LETREIRO LTDA;07.207.215/0001-27;30/08/2010;       Publicidade por materiais impressos;R$ 800,00;Cheque; -  -  / 31001 - GLAUCO ANTONIO PRADO LIMA - RJ - Deputado Estadual;

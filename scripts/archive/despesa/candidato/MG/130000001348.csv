@@ -1,4 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CASSIO LUIS ARANTES;738.969.936-15;01/10/2010;25000310001;R$ 9.500,00;Depósito em espécie;CASSIO LUIS ARANTES;25777;Deputado Estadual;DEM;MG;
-Diretório Estadual/Distrital;09.019.713/0001-71;30/09/2010;25000310003;R$ 1.197,84;Estimado;CASSIO LUIS ARANTES;25777;Deputado Estadual;DEM;MG;
-Diretório Estadual/Distrital;09.019.713/0001-71;30/09/2010;25000310002;R$ 860,69;Estimado;CASSIO LUIS ARANTES;25777;Deputado Estadual;DEM;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CARLOS JOSE VALADAO XIMENES;794.325.816-91;03/10/2010;       Despesas com pessoal;R$ 999,58;Cheque; -  -  / 25777 - CASSIO LUIS ARANTES - MG - Deputado Estadual;
+Diretório Estadual/Distrital;09.019.713/0001-71;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.197,84;Estimado;Direção Estadual/Distrital - DEM -  / 25777 - CASSIO LUIS ARANTES - MG - Deputado Estadual;
+Diretório Estadual/Distrital;09.019.713/0001-71;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 860,69;Estimado;Direção Estadual/Distrital - DEM -  / 25777 - CASSIO LUIS ARANTES - MG - Deputado Estadual;
+EXCELSIOR GRAFICA E EDITORA LTDA;42.811.174/0001-84;29/09/2010;       Publicidade por materiais impressos;R$ 610,42;Cheque; -  -  / 25777 - CASSIO LUIS ARANTES - MG - Deputado Estadual;
+EXCELSIOR GRAFICA E EDITORA LTDA;42.811.174/0001-84;29/09/2010;       Publicidade por materiais impressos;R$ 890,00;Cheque; -  -  / 25777 - CASSIO LUIS ARANTES - MG - Deputado Estadual;
+EXCELSIOR GRAFICA E EDITORA LTDA;42.811.174/0001-84;03/10/2010;       Publicidade por materiais impressos;R$ 3.000,00;Cheque; -  -  / 25777 - CASSIO LUIS ARANTES - MG - Deputado Estadual;
+VIAMINAS DIGITAL LTDA ME;07.566.884/0001-95;03/10/2010;       Publicidade por placas, estandartes e faixas;R$ 4.000,00;Cheque; -  -  / 25777 - CASSIO LUIS ARANTES - MG - Deputado Estadual;

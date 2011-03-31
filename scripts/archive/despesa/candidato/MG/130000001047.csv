@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.154.851/0001-78;23/08/2010;70000100501;R$ 590,00;Estimado;EDMUNDO MIGUEL MARTINS;7031;Deputado Federal;PT do B;MG;
-Comitê Financeiro Único;12.154.851/0001-78;05/09/2010;70000100502;R$ 180,00;Estimado;EDMUNDO MIGUEL MARTINS;7031;Deputado Federal;PT do B;MG;
-Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;70000100503;R$ 300,00;Estimado;EDMUNDO MIGUEL MARTINS;7031;Deputado Federal;PT do B;MG;
-JOAO VITOR XAVIER FAUSTINO;12.198.239/0001-05;29/09/2010;70000100504;R$ 98,50;Estimado;EDMUNDO MIGUEL MARTINS;7031;Deputado Federal;PT do B;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.154.851/0001-78;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 180,00;Estimado;Comitê Financeiro Único - PT do B -  / 7031 - EDMUNDO MIGUEL MARTINS - MG - Deputado Federal;
+Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PT do B -  / 7031 - EDMUNDO MIGUEL MARTINS - MG - Deputado Federal;
+Comitê Financeiro Único;12.154.851/0001-78;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 590,00;Estimado;Comitê Financeiro Único - PT do B -  / 7031 - EDMUNDO MIGUEL MARTINS - MG - Deputado Federal;
+JOAO VITOR XAVIER FAUSTINO;12.198.239/0001-05;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 98,50;Estimado;44200 -  - PRP -  - Deputado Estadual / 7031 - EDMUNDO MIGUEL MARTINS - MG - Deputado Federal;

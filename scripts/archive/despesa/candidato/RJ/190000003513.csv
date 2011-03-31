@@ -1,6 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO DES OUZA FRANCO;780.486.727-15;13/09/2010;44000027781;R$ 250,00;Depósito em espécie;ANTONIO DE SOUZA FRANCO;44101;Deputado Estadual;PRP;RJ;
-ANTONIO DES OUZA FRANCO;780.486.727-15;21/09/2010;44000027782;R$ 200,00;Depósito em espécie;ANTONIO DE SOUZA FRANCO;44101;Deputado Estadual;PRP;RJ;
-ANTONIO DES OUZA FRANCO;780.486.727-15;10/09/2010;44000027785;R$ 599,65;Transferência eletrônica;ANTONIO DE SOUZA FRANCO;44101;Deputado Estadual;PRP;RJ;
-ANTONIO DES OUZA FRANCO;780.486.727-15;05/10/2010;44000027784;R$ 90,00;Depósito em espécie;ANTONIO DE SOUZA FRANCO;44101;Deputado Estadual;PRP;RJ;
-ANTONIO DES OUZA FRANCO;780.486.727-15;30/09/2010;;R$ 1.000,00;Depósito em espécie;ANTONIO DE SOUZA FRANCO;44101;Deputado Estadual;PRP;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DMJ SOM;08.293.824/0001-09;16/08/2010;       Produção de programas de rádio, televisão ou vídeo;R$ 100,00;Cheque; -  -  / 44101 - ANTONIO DE SOUZA FRANCO - RJ - Deputado Estadual;
+JM ART'S GRAFICA;09.517.570/0001-28;14/09/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 44101 - ANTONIO DE SOUZA FRANCO - RJ - Deputado Estadual;
+JM ART'S GRAFICA;09.517.570/0001-28;24/08/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 44101 - ANTONIO DE SOUZA FRANCO - RJ - Deputado Estadual;
+NCA - NUCLEO CONSULTORIA  E CONTALIBILIDADE;10.607.705/0001-25;28/10/2010;       Publicidade por materiais impressos;R$ 5,65;Cheque; -  -  / 44101 - ANTONIO DE SOUZA FRANCO - RJ - Deputado Estadual;
+PONTO DA SINALIZAÇÃO;08.885.596/0001-66;24/08/2010;       Publicidade por materiais impressos;R$ 614,00;Cheque; -  -  / 44101 - ANTONIO DE SOUZA FRANCO - RJ - Deputado Estadual;
+PONTO DA SINALIZAÇÃO;08.885.596/0001-66;11/08/2010;       Publicidade por materiais impressos;R$ 580,00;Cheque; -  -  / 44101 - ANTONIO DE SOUZA FRANCO - RJ - Deputado Estadual;
+PONTO DA SINALIZAÇÃO;08.885.596/0001-66;16/09/2010;       Publicidade por materiais impressos;R$ 140,00;Cheque; -  -  / 44101 - ANTONIO DE SOUZA FRANCO - RJ - Deputado Estadual;
+PONTO DA SINALIZAÇÃO;08.885.596/0001-66;10/09/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 44101 - ANTONIO DE SOUZA FRANCO - RJ - Deputado Estadual;

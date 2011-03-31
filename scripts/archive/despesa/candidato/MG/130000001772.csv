@@ -1,7 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FEDERICO ANTONIO NEIMANN;042.211.316-67;10/09/2010;50000234455;R$ 300,00;Estimado;JOAO BATISTA DE QUEIROZ;5060;Deputado Federal;PSOL;MG;
-JOAO BATISTA DE QUEIROZ;398.431.736-00;11/08/2010;50000234452;R$ 900,00;Depósito em espécie;JOAO BATISTA DE QUEIROZ;5060;Deputado Federal;PSOL;MG;
-JOAO BATISTA DE QUEIROZ;398.431.736-00;12/08/2010;50000234453;R$ 200,00;Depósito em espécie;JOAO BATISTA DE QUEIROZ;5060;Deputado Federal;PSOL;MG;
-JOAO BATISTA DE QUEIROZ;398.431.736-00;02/09/2010;50000234454;R$ 330,00;Depósito em espécie;JOAO BATISTA DE QUEIROZ;5060;Deputado Federal;PSOL;MG;
-JOSE EUSTAQUIO TEIXEIRA BRAGA;217.487.566-72;30/09/2010;50000234457;R$ 100,00;Estimado;JOAO BATISTA DE QUEIROZ;5060;Deputado Federal;PSOL;MG;
-VITOR MORAIS;621.132.756-00;15/09/2010;50000234456;R$ 25,00;Estimado;JOAO BATISTA DE QUEIROZ;5060;Deputado Federal;PSOL;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BRASILPLACAS LTDA;71.060.909/0001-83;17/08/2010;       Publicidade por materiais impressos;R$ 800,00;Cheque; -  -  / 5060 - JOAO BATISTA DE QUEIROZ - MG - Deputado Federal;
+COMERCIAL HENRIQUE BARBOSA LTDA;03.291.514/0001-31;12/08/2010;       Publicidade por placas, estandartes e faixas;R$ 216,00;Cheque; -  -  / 5060 - JOAO BATISTA DE QUEIROZ - MG - Deputado Federal;
+FEDERICO ANTONIO NEIMANN;042.211.316-67;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 5060 - JOAO BATISTA DE QUEIROZ - MG - Deputado Federal;
+GRAFICA ALGEMINAS;00.395.630/0001-02;24/09/2010;       Publicidade por materiais impressos;R$ 350,00;Cheque; -  -  / 5060 - JOAO BATISTA DE QUEIROZ - MG - Deputado Federal;
+JOSE EUSTAQUIO TEIXEIRA BRAGA;217.487.566-72;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 100,00;Estimado; -  -  / 5060 - JOAO BATISTA DE QUEIROZ - MG - Deputado Federal;
+PATRICIA DE JESUS ALMEIDA;058.557.176-74;01/10/2010;       Serviços prestados por terceiros;R$ 64,00;Cheque; -  -  / 5060 - JOAO BATISTA DE QUEIROZ - MG - Deputado Federal;
+VITOR MORAIS;621.132.756-00;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 25,00;Estimado; -  -  / 5060 - JOAO BATISTA DE QUEIROZ - MG - Deputado Federal;

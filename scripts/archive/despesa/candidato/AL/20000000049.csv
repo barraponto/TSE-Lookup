@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-EDITORA NOVO EXTRA LTDA (JORNAL EXTRA);04.246.456/0001-97;02/09/2010;50000011513;R$ 1.000,00;Estimado;OLDENBURGO DA SILVA PARANHOS FILHO;50000;Deputado Estadual;PSOL;AL;
-MAGENTA GRÁFICA E EDITORA LTDA;03.814.734/0001-00;06/09/2010;50000011512;R$ 500,00;Estimado;OLDENBURGO DA SILVA PARANHOS FILHO;50000;Deputado Estadual;PSOL;AL;
-OLDENBURGO DA SILVA PARANHOS FILHO;136.131.114-20;26/08/2010;50000011511;R$ 1.100,00;Depósito em espécie;OLDENBURGO DA SILVA PARANHOS FILHO;50000;Deputado Estadual;PSOL;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EDITORA NOVO EXTRA LTDA (JORNAL EXTRA);04.246.456/0001-97;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 50000 - OLDENBURGO DA SILVA PARANHOS FILHO - AL - Deputado Estadual;
+MAGENTA GRÁFICA E EDITORA LTDA;03.814.734/0001-00;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 50000 - OLDENBURGO DA SILVA PARANHOS FILHO - AL - Deputado Estadual;
+RAFE SERVIÇOS LTDA - EPP;05.523.736/0001-68;30/08/2010;       Publicidade por materiais impressos;R$ 1.100,00;Cheque; -  -  / 50000 - OLDENBURGO DA SILVA PARANHOS FILHO - AL - Deputado Estadual;

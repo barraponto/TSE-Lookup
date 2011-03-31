@@ -1,2 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Deputado Federal;12.205.213/0001-39;10/09/2010;40000201501;R$ 1.900,00;Cheque;ANELITO PEREIRA DE OLIVEIRA;4075;Deputado Federal;PSB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+VALDEIR DO ROSÁRIO OLIVEIRA;727.379.806-15;02/08/2010;       Despesas com pessoal;R$ 1.897,10;Cheque; -  -  / 4075 - ANELITO PEREIRA DE OLIVEIRA - MG - Deputado Federal;
+;;14/09/2010;       Impostos, contribuições e taxas;R$ 2,90;Débito em conta; -  -  / 4075 - ANELITO PEREIRA DE OLIVEIRA - MG - Deputado Federal;

@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ARTES GRAFICAS CATALÃO LTDA;20.278.990/0001-31;06/09/2010;36000014001;R$ 380,00;Estimado;RAUL PINTO AIRES;3641;Deputado Federal;PTC;MG;
-Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;36000014003;R$ 300,00;Estimado;RAUL PINTO AIRES;3641;Deputado Federal;PTC;MG;
-Comitê Financeiro Único;12.154.851/0001-78;15/09/2010;36000014002;R$ 1.180,00;Estimado;RAUL PINTO AIRES;3641;Deputado Federal;PTC;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARTES GRAFICAS CATALÃO LTDA;20.278.990/0001-31;06/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 380,00;Estimado; -  -  / 3641 - RAUL PINTO AIRES - MG - Deputado Federal;
+Comitê Financeiro Único;12.154.851/0001-78;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.180,00;Estimado;Comitê Financeiro Único - PT do B -  / 3641 - RAUL PINTO AIRES - MG - Deputado Federal;
+Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PT do B -  / 3641 - RAUL PINTO AIRES - MG - Deputado Federal;

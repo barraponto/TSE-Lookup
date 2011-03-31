@@ -1,8 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO NERI AZEVEDO RODRIGUES;204.351.934-49;27/07/2010;31000053201;R$ 250,00;Depósito em espécie;ANTÔNIO NERI AZEVEDO RODRIGUES;31234;Deputado Estadual;PHS;RO;
-ANTONIO NERI AZEVEDO RODRIGUES;204.351.934-49;03/09/2010;31000053207;R$ 700,00;Depósito em espécie;ANTÔNIO NERI AZEVEDO RODRIGUES;31234;Deputado Estadual;PHS;RO;
-Comitê Financeiro Único;12.229.932/0001-90;13/08/2010;31000053204;R$ 200,00;Estimado;ANTÔNIO NERI AZEVEDO RODRIGUES;31234;Deputado Estadual;PHS;RO;
-Comitê Financeiro Único;12.229.932/0001-90;15/09/2010;31000053206;R$ 850,00;Transferência eletrônica;ANTÔNIO NERI AZEVEDO RODRIGUES;31234;Deputado Estadual;PHS;RO;
-Comitê Financeiro Único;12.229.932/0001-90;10/08/2010;31000053203;R$ 65,00;Estimado;ANTÔNIO NERI AZEVEDO RODRIGUES;31234;Deputado Estadual;PHS;RO;
-Comitê Financeiro Único;12.229.932/0001-90;06/08/2010;31000053202;R$ 150,00;Estimado;ANTÔNIO NERI AZEVEDO RODRIGUES;31234;Deputado Estadual;PHS;RO;
-Comitê Financeiro Único;12.229.932/0001-90;18/08/2010;31000053205;R$ 850,00;Transferência eletrônica;ANTÔNIO NERI AZEVEDO RODRIGUES;31234;Deputado Estadual;PHS;RO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO GASPARZINHO;09.347.843/0001-33;10/09/2010;       Combustíveis e lubrificantes;R$ 111,44;Cheque; -  -  / 31234 - ANTÔNIO NERI AZEVEDO RODRIGUES - RO - Deputado Estadual;
+AUTO POSTO MARECHAL;03.946.493/0001-45;18/08/2010;       Combustíveis e lubrificantes;R$ 332,58;Cheque; -  -  / 31234 - ANTÔNIO NERI AZEVEDO RODRIGUES - RO - Deputado Estadual;
+Comitê Financeiro Único;12.229.932/0001-90;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 65,00;Estimado;Comitê Financeiro Único - PHS -  / 31234 - ANTÔNIO NERI AZEVEDO RODRIGUES - RO - Deputado Estadual;
+Comitê Financeiro Único;12.229.932/0001-90;06/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;Comitê Financeiro Único - PHS -  / 31234 - ANTÔNIO NERI AZEVEDO RODRIGUES - RO - Deputado Estadual;
+Comitê Financeiro Único;12.229.932/0001-90;13/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;Comitê Financeiro Único - PHS -  / 31234 - ANTÔNIO NERI AZEVEDO RODRIGUES - RO - Deputado Estadual;
+EDIELSON ALMEIDA DA SILVA;007.467.782-95;24/08/2010;       Serviços prestados por terceiros;R$ 1.300,00;Cheque; -  -  / 31234 - ANTÔNIO NERI AZEVEDO RODRIGUES - RO - Deputado Estadual;
+GRAFICA ARTPEL;08.985.121/0001-41;04/09/2010;       Combustíveis e lubrificantes;R$ 720,00;Cheque; -  -  / 31234 - ANTÔNIO NERI AZEVEDO RODRIGUES - RO - Deputado Estadual;
+POSTO DE MINIAN III;10.312.786/0001-36;30/09/2010;       Combustíveis e lubrificantes;R$ 35,00;Cheque; -  -  / 31234 - ANTÔNIO NERI AZEVEDO RODRIGUES - RO - Deputado Estadual;
+POSTO DE MINIAN III;10.312.786/0001-36;30/08/2010;       Combustíveis e lubrificantes;R$ 109,00;Cheque; -  -  / 31234 - ANTÔNIO NERI AZEVEDO RODRIGUES - RO - Deputado Estadual;

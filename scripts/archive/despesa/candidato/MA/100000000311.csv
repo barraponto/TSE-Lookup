@@ -1,5 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.190/0001-62;01/08/2010;20000290204;R$ 641,00;Estimado;LINDEMBERG DAVI ARAUJO;2011;Deputado Federal;PSC;MA;
-LINDEMBERG DAVI ARAUJO;345.550.723-91;04/09/2010;20000290203;R$ 4.500,00;Estimado;LINDEMBERG DAVI ARAUJO;2011;Deputado Federal;PSC;MA;
-LINDEMBERG DAVI ARAUJO;345.550.723-91;09/08/2010;20000290201;R$ 3.000,00;Cheque;LINDEMBERG DAVI ARAUJO;2011;Deputado Federal;PSC;MA;
-LINDEMBERG DAVI ARAUJO;345.550.723-91;27/09/2010;20000290202;R$ 1.200,00;Depósito em espécie;LINDEMBERG DAVI ARAUJO;2011;Deputado Federal;PSC;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CICLOMAR IMPORTAÇÕES;07.127.357/0001-84;10/08/2010;       Diversas a especificar;R$ 1.290,00;Cheque; -  -  / 2011 - LINDEMBERG DAVI ARAUJO - MA - Deputado Federal;
+Comitê Financeiro Único;12.205.190/0001-62;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 641,00;Estimado;Comitê Financeiro Único - PSC -  / 2011 - LINDEMBERG DAVI ARAUJO - MA - Deputado Federal;
+GRÁFICA E EDITORA MARASUL;35.176.353/0001-21;14/08/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 2011 - LINDEMBERG DAVI ARAUJO - MA - Deputado Federal;
+LINDEMBERG DAVI ARAUJO;345.550.723-91;04/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 4.500,00;Estimado; -  -  / 2011 - LINDEMBERG DAVI ARAUJO - MA - Deputado Federal;
+LUÍS MENDES DE CASTRO FILHO;014.011.123-90;30/09/2010;       Serviços prestados por terceiros;R$ 210,00;Cheque; -  -  / 2011 - LINDEMBERG DAVI ARAUJO - MA - Deputado Federal;
+POSTO CAPITAL 2;06.030.524/0002-92;27/09/2010;       Combustíveis e lubrificantes;R$ 1.000,00;Cheque; -  -  / 2011 - LINDEMBERG DAVI ARAUJO - MA - Deputado Federal;
+Z SETE EMPREENDIMENTOS;09.635.468/0001-27;17/08/2010;       Publicidade por materiais impressos;R$ 700,00;Cheque; -  -  / 2011 - LINDEMBERG DAVI ARAUJO - MA - Deputado Federal;

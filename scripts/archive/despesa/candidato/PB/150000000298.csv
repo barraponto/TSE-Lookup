@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSE TARGINHO MARANHAO;12.189.345/0001-14;23/08/2010;17000010652;R$ 523,56;Estimado;PETRONIO DOS SANTOS LIMA;1733;Deputado Federal;PSL;PB;
-JOSE TARGINHO MARANHAO;12.189.345/0001-14;23/08/2010;17000010651;R$ 300,00;Estimado;PETRONIO DOS SANTOS LIMA;1733;Deputado Federal;PSL;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JOSE TARGINHO MARANHAO;12.189.345/0001-14;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;15 -  - PMDB -  - Governador / 1733 - PETRONIO DOS SANTOS LIMA - PB - Deputado Federal;
+JOSE TARGINHO MARANHAO;12.189.345/0001-14;23/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 523,56;Estimado;15 -  - PMDB -  - Governador / 1733 - PETRONIO DOS SANTOS LIMA - PB - Deputado Federal;

@@ -1,7 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO ALMEIDA DE SOUSA;217.296.973-72;09/08/2010;17000070351;R$ 1.000,00;Depósito em espécie;ANTONIO ALMEIDA DE SOUSA;177;Senador;PSL;PI;
-ANTONIO ALMEIDA DE SOUSA;217.296.973-72;24/08/2010;17000070355;R$ 1.000,00;Estimado;ANTONIO ALMEIDA DE SOUSA;177;Senador;PSL;PI;
-JOSE WILLIAMS LIMA;350.813.923-91;24/08/2010;17000070354;R$ 3.000,00;Estimado;ANTONIO ALMEIDA DE SOUSA;177;Senador;PSL;PI;
-MARCELO DE BRITO DANTAS;375.221.323-04;19/08/2010;17000070353;R$ 600,00;Estimado;ANTONIO ALMEIDA DE SOUSA;177;Senador;PSL;PI;
-MARIA DAS DORES ALMEIDA DE SOUSA;065.816.093-15;19/08/2010;17000070352;R$ 1.000,00;Depósito em espécie;ANTONIO ALMEIDA DE SOUSA;177;Senador;PSL;PI;
-POSTO JAMILY;23.621.717/0003-18;30/09/2010;17000070356;R$ 510,00;Estimado;ANTONIO ALMEIDA DE SOUSA;177;Senador;PSL;PI;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO ALMEIDA DE SOUSA;217.296.973-72;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 177 - ANTONIO ALMEIDA DE SOUSA - PI - Senador;
+GRAFICA DO POVO LTDA;04.202.993/0001-35;19/08/2010;       Publicidade por materiais impressos;R$ 1.400,00;Transferência eletrônica; -  -  / 177 - ANTONIO ALMEIDA DE SOUSA - PI - Senador;
+JOSE EDILSON LOPES DE CARVALHO JUNIOR;07.593.781/0001-14;25/08/2010;       Publicidade por materiais impressos;R$ 570,00;Transferência eletrônica; -  -  / 177 - ANTONIO ALMEIDA DE SOUSA - PI - Senador;
+JOSE WILLIAMS LIMA;350.813.923-91;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.000,00;Estimado; -  -  / 177 - ANTONIO ALMEIDA DE SOUSA - PI - Senador;
+MARCELO DE BRITO DANTAS;375.221.323-04;19/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 600,00;Estimado; -  -  / 177 - ANTONIO ALMEIDA DE SOUSA - PI - Senador;
+POSTO JAMILY;23.621.717/0003-18;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 510,00;Estimado; -  -  / 177 - ANTONIO ALMEIDA DE SOUSA - PI - Senador;
+R. PEREIRA DA COSTA - ME;10.835.970/0001-60;10/08/2010;       Telefone;R$ 10,00;Transferência eletrônica; -  -  / 177 - ANTONIO ALMEIDA DE SOUSA - PI - Senador;
+;;25/08/2010;       Encargos financeiros e taxas bancárias;R$ 3,00;Débito em conta; -  -  / 177 - ANTONIO ALMEIDA DE SOUSA - PI - Senador;
+;;19/08/2010;       Encargos financeiros e taxas bancárias;R$ 13,50;Débito em conta; -  -  / 177 - ANTONIO ALMEIDA DE SOUSA - PI - Senador;
+;;10/08/2010;       Encargos financeiros e taxas bancárias;R$ 3,00;Débito em conta; -  -  / 177 - ANTONIO ALMEIDA DE SOUSA - PI - Senador;

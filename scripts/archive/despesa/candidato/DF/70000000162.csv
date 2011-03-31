@@ -1,6 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALCINA MARTINS DE CAMARGOS VIANA;079.920.921-04;16/08/2010;17000027754;R$ 980,00;Depósito em espécie;ALCINA MARTINS DE CAMARGOS VIANA;17001;Deputado Distrital;PSL;DF;
-ALCINA MARTINS DE CAMARGOS VIANA;079.920.921-04;03/08/2010;17000027753;R$ 400,00;Cheque;ALCINA MARTINS DE CAMARGOS VIANA;17001;Deputado Distrital;PSL;DF;
-ALCINA MARTINS DE CAMARGOS VIANA;079.920.921-04;26/08/2010;17000027756;R$ 560,00;Depósito em espécie;ALCINA MARTINS DE CAMARGOS VIANA;17001;Deputado Distrital;PSL;DF;
-ALCINA MARTINS DE CAMARGOS VIANA;079.920.921-04;23/08/2010;17000027755;R$ 450,00;Depósito em espécie;ALCINA MARTINS DE CAMARGOS VIANA;17001;Deputado Distrital;PSL;DF;
-GERALDO MAGELA DA CRUZ;266.797.876-53;23/07/2010;17000027752;R$ 580,00;Depósito em espécie;ALCINA MARTINS DE CAMARGOS VIANA;17001;Deputado Distrital;PSL;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ENCADERNADORA EDITORA VISAO LTDA;02.018.031/0001-03;13/07/2010;       Publicidade por materiais impressos;R$ 980,00;Transferência eletrônica; -  -  / 17001 - ALCINA MARTINS DE CAMARGOS VIANA - DF - Deputado Distrital;
+ENCADERNADORA EDITORA VISAO LTDA;02.018.031/0001-03;04/08/2010;       Publicidade por materiais impressos;R$ 980,00;Transferência eletrônica; -  -  / 17001 - ALCINA MARTINS DE CAMARGOS VIANA - DF - Deputado Distrital;
+HAGATTHA SOUSA FERNANDES;024.851.151-33;23/08/2010;       Publicidade por placas, estandartes e faixas;R$ 1.010,00;Transferência eletrônica; -  -  / 17001 - ALCINA MARTINS DE CAMARGOS VIANA - DF - Deputado Distrital;

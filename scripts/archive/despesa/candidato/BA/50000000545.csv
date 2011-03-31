@@ -1,3 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MARIA NEUMA MACIEL BRITO;580.056.508-25;13/08/2010;23000063302;R$ 4.000,00;Depósito em espécie;MARIA NEUMA MACIEL BRITO;23999;Deputado Estadual;PPS;BA;
-MARIA NEUMA MACIEL BRITO;580.056.508-25;29/07/2010;23000063301;R$ 1.500,00;Depósito em espécie;MARIA NEUMA MACIEL BRITO;23999;Deputado Estadual;PPS;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+EZERDSON MARTINS BRITO;040.048.585-00;01/11/2010;       Serviços prestados por terceiros;R$ 138,20;Cheque; -  -  / 23999 - MARIA NEUMA MACIEL BRITO - BA - Deputado Estadual;
+GILMAR PEREIRA DE SOUZA;993.213.785-53;16/08/2010;       Publicidade por carros de som;R$ 3.000,00;Cheque; -  -  / 23999 - MARIA NEUMA MACIEL BRITO - BA - Deputado Estadual;
+SALOBRO ARTES GRÁFICAS LTDA;13.801.576/0001-08;13/08/2010;       Publicidade por materiais impressos;R$ 1.300,00;Cheque; -  -  / 23999 - MARIA NEUMA MACIEL BRITO - BA - Deputado Estadual;
+SALOBRO ARTES GRÁFICAS LTDA;13.801.576/0001-08;02/09/2010;       Publicidade por materiais impressos;R$ 600,00;Cheque; -  -  / 23999 - MARIA NEUMA MACIEL BRITO - BA - Deputado Estadual;
+SALOBRO ARTES GRÁFICAS LTDA;13.801.576/0001-08;16/08/2010;       Publicidade por materiais impressos;R$ 456,00;Cheque; -  -  / 23999 - MARIA NEUMA MACIEL BRITO - BA - Deputado Estadual;
+;;17/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 23999 - MARIA NEUMA MACIEL BRITO - BA - Deputado Estadual;
+;;20/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 23999 - MARIA NEUMA MACIEL BRITO - BA - Deputado Estadual;

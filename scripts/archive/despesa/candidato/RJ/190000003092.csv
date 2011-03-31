@@ -1,5 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CLEDSON DUTRA BARBOZA;759.444.647-04;01/11/2010;10000026104;R$ 79,55;Depósito em espécie;CLEDSON DUTRA BARBOSA;10003;Deputado Estadual;PRB;RJ;
-Comitê Financeiro Único;12.200.167/0001-85;05/08/2010;10000026101;R$ 1.633,00;Estimado;CLEDSON DUTRA BARBOSA;10003;Deputado Estadual;PRB;RJ;
-GERSON GILSON GOMES;324.059.367-04;23/09/2010;10000026102;R$ 1.000,00;Transferência eletrônica;CLEDSON DUTRA BARBOSA;10003;Deputado Estadual;PRB;RJ;
-RUY CARDOSO VASQUES;262.588.117-87;30/09/2010;10000026103;R$ 2.000,00;Cheque;CLEDSON DUTRA BARBOSA;10003;Deputado Estadual;PRB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ATUAL COSTA VERDE COMUNICAÇÃO LTDA;04.558.724/0001-06;30/09/2010;       Publicidade por jornais e revistas;R$ 750,00;Cheque; -  -  / 10003 - CLEDSON DUTRA BARBOSA - RJ - Deputado Estadual;
+Comitê Financeiro Único;12.200.167/0001-85;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.633,00;Estimado;Comitê Financeiro Único - PRB -  / 10003 - CLEDSON DUTRA BARBOSA - RJ - Deputado Estadual;
+GRAFICA E EDITORA CRUZADO LTDA;31.038.276/0001-92;16/09/2010;       Publicidade por materiais impressos;R$ 1.490,00;Cheque; -  -  / 10003 - CLEDSON DUTRA BARBOSA - RJ - Deputado Estadual;
+JORNAL O FOCO TM COMUNICAÇÕES LTDA.;07.600.975/0001-08;23/09/2010;       Publicidade por jornais e revistas;R$ 400,00;Cheque; -  -  / 10003 - CLEDSON DUTRA BARBOSA - RJ - Deputado Estadual;
+VIVO S.A;02.449.992/0181-01;21/09/2010;       Telefone;R$ 439,55;Cheque; -  -  / 10003 - CLEDSON DUTRA BARBOSA - RJ - Deputado Estadual;

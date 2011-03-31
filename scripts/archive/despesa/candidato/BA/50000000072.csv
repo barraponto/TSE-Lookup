@@ -1,2 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-MARIVALDO BISPO DA PAIXÃO;444.134.675-15;06/09/2010;45000052301;R$ 1.720,00;Depósito em espécie;MARIVALDO BISPO DA PAIXÃO;4522;Deputado Federal;PSDB;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BULLOS OUTDOR;02.603.445/0001-91;06/09/2010;       Publicidade por materiais impressos;R$ 200,00;Cheque; -  -  / 4522 - MARIVALDO BISPO DA PAIXÃO - BA - Deputado Federal;
+GÓES E SILVA LTDA;04.252.903/0001-10;09/09/2010;       Publicidade por materiais impressos;R$ 270,00;Cheque; -  -  / 4522 - MARIVALDO BISPO DA PAIXÃO - BA - Deputado Federal;
+JOICA ARTES GRÁFICAS LTDA;00.710.395/0001-16;06/09/2010;       Publicidade por materiais impressos;R$ 1.250,00;Cheque; -  -  / 4522 - MARIVALDO BISPO DA PAIXÃO - BA - Deputado Federal;

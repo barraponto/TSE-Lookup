@@ -1,6 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO DE PADUA PEREIRA LEITE;460.267.544-15;30/08/2010;13000777541;R$ 2.000,00;Depósito em espécie;ANTONIO DE PADUA PEREIRA LEITE;13313;Deputado Estadual;PT;PB;
-Comitê Financeiro Único;12.221.889/0001-16;30/08/2010;13000777545;R$ 160,00;Estimado;ANTONIO DE PADUA PEREIRA LEITE;13313;Deputado Estadual;PT;PB;
-JOSÉ TARGINO MARANHÃO;12.189.345/0001-14;31/08/2010;13000777543;R$ 150,00;Estimado;ANTONIO DE PADUA PEREIRA LEITE;13313;Deputado Estadual;PT;PB;
-JOSÉ TARGINO MARANHÃO;12.189.345/0001-14;31/08/2010;13000777544;R$ 523,56;Estimado;ANTONIO DE PADUA PEREIRA LEITE;13313;Deputado Estadual;PT;PB;
-ROMERO DANTAS MAIA;487.053.814-87;30/08/2010;13000777542;R$ 1.300,00;Depósito em espécie;ANTONIO DE PADUA PEREIRA LEITE;13313;Deputado Estadual;PT;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADESIVO DOIS COMUNICAÇÃO VISUAL LTDA;70.092.630/0001-19;28/07/2010;       Publicidade por materiais impressos;R$ 790,00;Cheque; -  -  / 13313 - ANTONIO DE PADUA PEREIRA LEITE - PB - Deputado Estadual;
+Comitê Financeiro Único;12.221.889/0001-16;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 160,00;Estimado;Comitê Financeiro Único - PT -  / 13313 - ANTONIO DE PADUA PEREIRA LEITE - PB - Deputado Estadual;
+ELUZIANO SERAFIM DE SALES;074.714.874-02;23/09/2010;       Serviços prestados por terceiros;R$ 60,00;Cheque; -  -  / 13313 - ANTONIO DE PADUA PEREIRA LEITE - PB - Deputado Estadual;
+IMPRELL GRÁFICA E EDITORA LTDA (ME);40.952.988/0001-03;31/08/2010;       Publicidade por materiais impressos;R$ 2.000,00;Cheque; -  -  / 13313 - ANTONIO DE PADUA PEREIRA LEITE - PB - Deputado Estadual;
+JOSÉ TARGINO MARANHÃO;12.189.345/0001-14;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 523,56;Estimado;15 -  - PMDB -  - Governador / 13313 - ANTONIO DE PADUA PEREIRA LEITE - PB - Deputado Estadual;
+JOSÉ TARGINO MARANHÃO;12.189.345/0001-14;31/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 150,00;Estimado;15 -  - PMDB -  - Governador / 13313 - ANTONIO DE PADUA PEREIRA LEITE - PB - Deputado Estadual;
+STUDIO FOTOGRAFICO ROCHA LTDA;10.945.467/0001-68;28/08/2010;       Produção de jingles, vinhetas e slogans;R$ 450,00;Cheque; -  -  / 13313 - ANTONIO DE PADUA PEREIRA LEITE - PB - Deputado Estadual;

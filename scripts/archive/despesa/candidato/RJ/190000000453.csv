@@ -1,7 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTONIO COSTA DE BRITO;175.056.587-00;05/08/2010;36000051403;R$ 300,00;Depósito em espécie;ANTONIO COSTA DE BRITO;36004;Deputado Estadual;PTC;RJ;
-ANTONIO COSTA DE BRITO;175.056.587-00;09/08/2010;36000051404;R$ 180,00;Depósito em espécie;ANTONIO COSTA DE BRITO;36004;Deputado Estadual;PTC;RJ;
-ANTONIO COSTA DE BRITO;175.056.587-00;17/08/2010;36000051405;R$ 50,00;Depósito em espécie;ANTONIO COSTA DE BRITO;36004;Deputado Estadual;PTC;RJ;
-ANTONIO COSTA DE BRITO;175.056.587-00;28/09/2010;36000051406;R$ 138,00;Depósito em espécie;ANTONIO COSTA DE BRITO;36004;Deputado Estadual;PTC;RJ;
-DANIEL SAMPAIO TOURINHO;12.172.794/0001-50;18/08/2010;36000051401;R$ 700,00;Estimado;ANTONIO COSTA DE BRITO;36004;Deputado Estadual;PTC;RJ;
-JORGE SAYED PICCIANI;12.176.626/0001-32;21/09/2010;36000051402;R$ 47,18;Estimado;ANTONIO COSTA DE BRITO;36004;Deputado Estadual;PTC;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AMAZONIA DO BRASIL PUBLICIDADE PROPAGANDA GRAFICA E COMUNICAÇÃO LTDA;39.120.860/0001-02;28/09/2010;       Publicidade por materiais impressos;R$ 138,00;Cheque; -  -  / 36004 - ANTONIO COSTA DE BRITO - RJ - Deputado Estadual;
+CESAR COMPUTADORES COMERCIO E SERVIÇOS LTDA;11.911.198/0001-81;06/08/2010;       Publicidade por placas, estandartes e faixas;R$ 300,00;Cheque; -  -  / 36004 - ANTONIO COSTA DE BRITO - RJ - Deputado Estadual;
+CESAR COMPUTADORES COMERCIO E SERVIÇOS LTDA;11.911.198/0001-81;16/08/2010;       Publicidade por materiais impressos;R$ 180,00;Cheque; -  -  / 36004 - ANTONIO COSTA DE BRITO - RJ - Deputado Estadual;
+DANIEL SAMPAIO TOURINHO;12.172.794/0001-50;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 700,00;Estimado;3636 -  - PTC -  - Deputado Federal / 36004 - ANTONIO COSTA DE BRITO - RJ - Deputado Estadual;
+JORGE SAYED PICCIANI;12.176.626/0001-32;21/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 47,18;Estimado;155 -  - PMDB -  - Senador / 36004 - ANTONIO COSTA DE BRITO - RJ - Deputado Estadual;
+LEANDRO BARBOSA DA SILVA;079.902.767-71;02/10/2010;       Despesas com pessoal;R$ 38,40;Cheque; -  -  / 36004 - ANTONIO COSTA DE BRITO - RJ - Deputado Estadual;
+;;11/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 36004 - ANTONIO COSTA DE BRITO - RJ - Deputado Estadual;
+;;19/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 36004 - ANTONIO COSTA DE BRITO - RJ - Deputado Estadual;
+;;09/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 36004 - ANTONIO COSTA DE BRITO - RJ - Deputado Estadual;
+;;30/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 36004 - ANTONIO COSTA DE BRITO - RJ - Deputado Estadual;

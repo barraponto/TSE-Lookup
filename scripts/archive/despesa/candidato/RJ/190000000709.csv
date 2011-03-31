@@ -1,4 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-OSWALDO DE LUCA FILHO;601.361.897-68;22/09/2010;40001001351;R$ 4.000,00;Cheque;ROGERIO MARTINS DE MOURA;4035;Deputado Federal;PSB;RJ;
-ROGERIO MARTINS DE MOURA;031.351.497-65;22/09/2010;40001001353;R$ 2.000,00;Cheque;ROGERIO MARTINS DE MOURA;4035;Deputado Federal;PSB;RJ;
-WALDENIR ESTEVAO DE MOURA;107.581.867-20;22/09/2010;40001001352;R$ 4.000,00;Cheque;ROGERIO MARTINS DE MOURA;4035;Deputado Federal;PSB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+SPACE COLOR SERVIÇOS GRÁFICOS LTDA;09.415.327/0002-80;28/09/2010;       Publicidade por materiais impressos;R$ 10.000,00;Cheque; -  -  / 4035 - ROGERIO MARTINS DE MOURA - RJ - Deputado Federal;

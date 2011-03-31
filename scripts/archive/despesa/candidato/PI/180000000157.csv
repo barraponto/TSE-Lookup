@@ -1,4 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 SILVIO MENDES DE OLIVEIRA FILHO;12.170.534/0001-45;29/09/2010;45000073960;R$ 5.489,36;Estimado;VIRGINIA MARIA BRANDÃO;45120;Deputado Estadual;PSDB;PI;
-VIRGINIA MARIA BRANDÃO;183.773.193-49;06/08/2010;45000073958;R$ 1.000,00;Cheque;VIRGINIA MARIA BRANDÃO;45120;Deputado Estadual;PSDB;PI;
-VIRGINIA MARIA BRANDÃO;183.773.193-49;06/08/2010;45000073959;R$ 3.000,00;Estimado;VIRGINIA MARIA BRANDÃO;45120;Deputado Estadual;PSDB;PI;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 SILVIO MENDES DE OLIVEIRA FILHO;12.170.534/0001-45;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 5.489,36;Estimado;45 -  - PSDB -  - Governador / 45120 - VIRGINIA MARIA BRANDÃO - PI - Deputado Estadual;
+F S  NASCIMENTO;10.765.853/0001-78;25/08/2010;       Publicidade por materiais impressos;R$ 350,00;Cheque; -  -  / 45120 - VIRGINIA MARIA BRANDÃO - PI - Deputado Estadual;
+SOUSA COMERCIO DE PETROLEO LTDA;02.015.313/0001-49;01/09/2010;       Combustíveis e lubrificantes;R$ 100,00;Cheque; -  -  / 45120 - VIRGINIA MARIA BRANDÃO - PI - Deputado Estadual;
+SOUSA COMERCIO DE PETROLEO LTDA;02.015.313/0001-49;24/08/2010;       Combustíveis e lubrificantes;R$ 100,00;Cheque; -  -  / 45120 - VIRGINIA MARIA BRANDÃO - PI - Deputado Estadual;
+SOUSA COMERCIO DE PETROLEO LTDA;02.015.313/0001-49;21/09/2010;       Combustíveis e lubrificantes;R$ 100,00;Cheque; -  -  / 45120 - VIRGINIA MARIA BRANDÃO - PI - Deputado Estadual;
+SOUSA COMERCIO DE PETROLEO LTDA;02.015.313/0001-49;13/08/2010;       Combustíveis e lubrificantes;R$ 106,00;Cheque; -  -  / 45120 - VIRGINIA MARIA BRANDÃO - PI - Deputado Estadual;
+SOUSA COMERCIO DE PETROLEO LTDA;02.015.313/0001-49;10/09/2010;       Combustíveis e lubrificantes;R$ 100,00;Cheque; -  -  / 45120 - VIRGINIA MARIA BRANDÃO - PI - Deputado Estadual;
+SOUSA COMERCIO DE PETROLEO LTDA;02.015.313/0001-49;01/10/2010;       Combustíveis e lubrificantes;R$ 91,00;Cheque; -  -  / 45120 - VIRGINIA MARIA BRANDÃO - PI - Deputado Estadual;
+VIRGINIA MARIA BRANDÃO;183.773.193-49;06/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.000,00;Estimado; -  -  / 45120 - VIRGINIA MARIA BRANDÃO - PI - Deputado Estadual;

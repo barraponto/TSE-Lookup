@@ -1,5 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JACKSON NUNES MARTINS;378.822.016-34;21/09/2010;50000234053;R$ 100,00;Depósito em espécie;JANIO NUNES MARTINS;50125;Deputado Estadual;PSOL;MG;
-JACKSON NUNES MARTINS;378.822.016-34;29/10/2010;50000234056;R$ 294,70;Depósito em espécie;JANIO NUNES MARTINS;50125;Deputado Estadual;PSOL;MG;
-JACKSON NUNES MARTINS;378.822.016-34;29/10/2010;50000234055;R$ 0,40;Depósito em espécie;JANIO NUNES MARTINS;50125;Deputado Estadual;PSOL;MG;
-JACKSON NUNES MARTINS;378.822.016-34;29/10/2010;50000234054;R$ 0,30;Depósito em espécie;JANIO NUNES MARTINS;50125;Deputado Estadual;PSOL;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JACKSON NUNES MARTINS;378.822.016-34;29/10/2010;       Serviços prestados por terceiros;R$ 13,00;Transferência eletrônica; -  -  / 50125 - JANIO NUNES MARTINS - MG - Deputado Estadual;
+JACKSON NUNES MARTINS;378.822.016-34;29/10/2010;       Serviços prestados por terceiros;R$ 320,00;Cheque; -  -  / 50125 - JANIO NUNES MARTINS - MG - Deputado Estadual;
+;;22/10/2010;       Encargos financeiros e taxas bancárias;R$ 62,40;Cheque; -  -  / 50125 - JANIO NUNES MARTINS - MG - Deputado Estadual;

@@ -1,3 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALFREDO PEREIRA DO NASCIMENTO;12.169.771/0001-96;30/07/2010;17000026401;R$ 2.000,00;Cheque;MARIA REGINA BIVAR SILVA;17456;Deputado Estadual;PSL;AM;
-ALFREDO PEREIRA DO NASCIMENTO;12.169.771/0001-96;06/09/2010;17000026402;R$ 2.000,00;Cheque;MARIA REGINA BIVAR SILVA;17456;Deputado Estadual;PSL;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BENTO NEVES DA SILVA;846.073.432-34;06/08/2010;       Alimentação;R$ 500,00;Cheque; -  -  / 17456 - MARIA REGINA BIVAR SILVA - AM - Deputado Estadual;
+BENTO NEVES DA SILVA;846.073.432-34;17/08/2010;       Alimentação;R$ 1.400,00;Cheque; -  -  / 17456 - MARIA REGINA BIVAR SILVA - AM - Deputado Estadual;
+ONDINO NASCIMENTO DASILVA;588.386.782-00;15/09/2010;       Despesas com transporte ou deslocamento;R$ 1.200,00;Cheque; -  -  / 17456 - MARIA REGINA BIVAR SILVA - AM - Deputado Estadual;
+ONDINO NASCIMENTO DASILVA;588.386.782-00;24/08/2010;       Despesas com transporte ou deslocamento;R$ 94,50;Cheque; -  -  / 17456 - MARIA REGINA BIVAR SILVA - AM - Deputado Estadual;
+ONDINO NASCIMENTO DASILVA;588.386.782-00;20/09/2010;       Despesas com transporte ou deslocamento;R$ 780,00;Cheque; -  -  / 17456 - MARIA REGINA BIVAR SILVA - AM - Deputado Estadual;
+;;30/08/2010;       Encargos financeiros e taxas bancárias;R$ 2,50;Débito em conta; -  -  / 17456 - MARIA REGINA BIVAR SILVA - AM - Deputado Estadual;
+;;15/09/2010;       Encargos financeiros e taxas bancárias;R$ 21,00;Débito em conta; -  -  / 17456 - MARIA REGINA BIVAR SILVA - AM - Deputado Estadual;

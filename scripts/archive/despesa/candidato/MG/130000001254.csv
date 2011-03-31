@@ -1,5 +1,13 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALAOR DA SILVA JUNIOR;156.686.906-44;02/09/2010;70000104302;R$ 3.000,00;Cheque;BENICIO FLAVIANO DA ROCHA;70963;Deputado Estadual;PT do B;MG;
-Comitê Financeiro Único;12.154.851/0001-78;05/09/2010;70000104304;R$ 1.180,00;Estimado;BENICIO FLAVIANO DA ROCHA;70963;Deputado Estadual;PT do B;MG;
-Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;70000104303;R$ 300,00;Estimado;BENICIO FLAVIANO DA ROCHA;70963;Deputado Estadual;PT do B;MG;
-MGERAIS COR. CONSULT. SERV. SEGUROS LTDA;42.763.714/0001-00;18/08/2010;70000104301;R$ 5.000,00;Cheque;BENICIO FLAVIANO DA ROCHA;70963;Deputado Estadual;PT do B;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AGAPE DIGITAL PRINT LTDA;04.645.721/0001-00;10/09/2010;       Diversas a especificar;R$ 1.150,00;Cheque; -  -  / 70963 - BENICIO FLAVIANO DA ROCHA - MG - Deputado Estadual;
+Comitê Financeiro Único;12.154.851/0001-78;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PT do B -  / 70963 - BENICIO FLAVIANO DA ROCHA - MG - Deputado Estadual;
+Comitê Financeiro Único;12.154.851/0001-78;05/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.180,00;Estimado;Comitê Financeiro Único - PT do B -  / 70963 - BENICIO FLAVIANO DA ROCHA - MG - Deputado Estadual;
+HOTEL CARAJAS LTDA;20.504.601/0001-49;15/09/2010;       Diversas a especificar;R$ 71,50;Cheque; -  -  / 70963 - BENICIO FLAVIANO DA ROCHA - MG - Deputado Estadual;
+IMPRESSOS LOBATO LTDA;07.491.166/0001-05;15/09/2010;       Publicidade por materiais impressos;R$ 2.450,00;Cheque; -  -  / 70963 - BENICIO FLAVIANO DA ROCHA - MG - Deputado Estadual;
+IMPRESSOS LOBATO LTDA;07.491.166/0001-05;18/08/2010;       Publicidade por materiais impressos;R$ 1.895,00;Cheque; -  -  / 70963 - BENICIO FLAVIANO DA ROCHA - MG - Deputado Estadual;
+J.S.HOTEL E TURISMO LTDA;00.374.780/0001-30;14/09/2010;       Diversas a especificar;R$ 67,00;Cheque; -  -  / 70963 - BENICIO FLAVIANO DA ROCHA - MG - Deputado Estadual;
+JULIA GONÇALVES DE SOUZA;103.300.926-18;02/09/2010;       Despesas com pessoal;R$ 510,00;Cheque; -  -  / 70963 - BENICIO FLAVIANO DA ROCHA - MG - Deputado Estadual;
+KLEBER LUCIO DE BRITO;555.001.106-91;13/08/2010;       Despesas com pessoal;R$ 1.838,50;Cheque; -  -  / 70963 - BENICIO FLAVIANO DA ROCHA - MG - Deputado Estadual;
+;;19/07/2010;       Encargos financeiros e taxas bancárias;R$ 6,00;Débito em conta; -  -  / 70963 - BENICIO FLAVIANO DA ROCHA - MG - Deputado Estadual;
+;;19/07/2010;       Encargos financeiros e taxas bancárias;R$ 6,00;Débito em conta; -  -  / 70963 - BENICIO FLAVIANO DA ROCHA - MG - Deputado Estadual;
+;;19/07/2010;       Encargos financeiros e taxas bancárias;R$ 6,00;Débito em conta; -  -  / 70963 - BENICIO FLAVIANO DA ROCHA - MG - Deputado Estadual;

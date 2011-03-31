@@ -1,4 +1,12 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CECILIA MACHADO MARQUES;126.301.602-20;09/09/2010;14000209411;R$ 3.800,00;Estimado;CECILIA MACHADO MARQUES;14245;Deputado Estadual;PTB;PA;
-Diretório Estadual/Distrital;01.418.991/0001-90;16/08/2010;14000209401;R$ 5.000,00;Outros títulos de crédito;CECILIA MACHADO MARQUES;14245;Deputado Estadual;PTB;PA;
-JOAO PAULO MACHADO MARQUES;709.101.972-53;09/09/2010;14000209412;R$ 2.500,00;Estimado;CECILIA MACHADO MARQUES;14245;Deputado Estadual;PTB;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANITA BARBOSA DO MONTE;354.070.852-91;30/08/2010;       Serviços prestados por terceiros;R$ 300,00;Não informado; -  -  / 14245 - CECILIA MACHADO MARQUES - PA - Deputado Estadual;
+BELARMINO RAFAEL MACHADO MARQUES;840.254.762-15;30/08/2010;       Serviços prestados por terceiros;R$ 510,00;Não informado; -  -  / 14245 - CECILIA MACHADO MARQUES - PA - Deputado Estadual;
+BELARMINO RAFAEL MACHADO MARQUES;840.254.762-15;30/09/2010;       Serviços prestados por terceiros;R$ 330,00;Não informado; -  -  / 14245 - CECILIA MACHADO MARQUES - PA - Deputado Estadual;
+CECILIA MACHADO MARQUES;126.301.602-20;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.800,00;Estimado; -  -  / 14245 - CECILIA MACHADO MARQUES - PA - Deputado Estadual;
+DANIELA SANTOS PEREIRA;011.246.422-00;30/08/2010;       Serviços prestados por terceiros;R$ 510,00;Não informado; -  -  / 14245 - CECILIA MACHADO MARQUES - PA - Deputado Estadual;
+JOAO PAULO MACHADO MARQUES;709.101.972-53;30/08/2010;       Serviços prestados por terceiros;R$ 550,00;Não informado; -  -  / 14245 - CECILIA MACHADO MARQUES - PA - Deputado Estadual;
+JOAO PAULO MACHADO MARQUES;709.101.972-53;09/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.500,00;Estimado; -  -  / 14245 - CECILIA MACHADO MARQUES - PA - Deputado Estadual;
+JOSE NAZARENO DE LIMA BARBOSA;306.054.742-49;30/08/2010;       Despesas com transporte ou deslocamento;R$ 810,00;Não informado; -  -  / 14245 - CECILIA MACHADO MARQUES - PA - Deputado Estadual;
+JOSE NAZARENO DE LIMA BARBOSA;306.054.742-49;03/09/2010;       Serviços prestados por terceiros;R$ 70,00;Não informado; -  -  / 14245 - CECILIA MACHADO MARQUES - PA - Deputado Estadual;
+RODRIGO FERREIRA PAZ;929.250.062-72;20/08/2010;       Serviços prestados por terceiros;R$ 1.320,00;Não informado; -  -  / 14245 - CECILIA MACHADO MARQUES - PA - Deputado Estadual;
+WILLAMYS DE SOUSA LIMA;228.403.892-15;30/08/2010;       Serviços prestados por terceiros;R$ 600,00;Não informado; -  -  / 14245 - CECILIA MACHADO MARQUES - PA - Deputado Estadual;

@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-NEILTON MULIM DA COSTA;12.180.404/0001-93;08/09/2010;22000165351;R$ 512,50;Estimado;JOSE CARLOS MANHAES DE SALES;22640;Deputado Estadual;PR;RJ;
-NEILTON MULIM DA COSTA;12.180.404/0001-93;28/09/2010;22000165353;R$ 26,40;Estimado;JOSE CARLOS MANHAES DE SALES;22640;Deputado Estadual;PR;RJ;
-NEILTON MULIM DA COSTA;12.180.404/0001-93;08/09/2010;22000165352;R$ 173,00;Estimado;JOSE CARLOS MANHAES DE SALES;22640;Deputado Estadual;PR;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+NEILTON MULIM DA COSTA;12.180.404/0001-93;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 26,40;Estimado;2233 -  - PR -  - Deputado Federal / 22640 - JOSE CARLOS MANHAES DE SALES - RJ - Deputado Estadual;
+NEILTON MULIM DA COSTA;12.180.404/0001-93;08/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 512,50;Estimado;2233 -  - PR -  - Deputado Federal / 22640 - JOSE CARLOS MANHAES DE SALES - RJ - Deputado Estadual;
+NEILTON MULIM DA COSTA;12.180.404/0001-93;08/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 173,00;Estimado;2233 -  - PR -  - Deputado Federal / 22640 - JOSE CARLOS MANHAES DE SALES - RJ - Deputado Estadual;

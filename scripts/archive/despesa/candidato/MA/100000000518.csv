@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-AGEMIRO MEDEIROS DE SOUSA;088.822.403-63;02/09/2010;17000038653;R$ 300,00;Depósito em espécie;AGEMIRO MEDEIROS DE SOUSA;1717;Deputado Federal;PSL;MA;
-Comitê Financeiro Único;01.205.310/0001-21;03/08/2010;17000038651;R$ 166,66;Estimado;AGEMIRO MEDEIROS DE SOUSA;1717;Deputado Federal;PSL;MA;
-Comitê Financeiro Único;12.205.310/0001-21;02/09/2010;17000038652;R$ 641,00;Estimado;AGEMIRO MEDEIROS DE SOUSA;1717;Deputado Federal;PSL;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CENTRO INDUSTRIAL GRAFICA E EDITORA LTDA;03.926.726/0001-48;02/09/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 1717 - AGEMIRO MEDEIROS DE SOUSA - MA - Deputado Federal;
+Comitê Financeiro Único;12.205.310/0001-21;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 641,00;Estimado;Comitê Financeiro Único - PSL -  / 1717 - AGEMIRO MEDEIROS DE SOUSA - MA - Deputado Federal;
+Comitê Financeiro Único;01.205.310/0001-21;03/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 166,66;Estimado; - PSL -  / 1717 - AGEMIRO MEDEIROS DE SOUSA - MA - Deputado Federal;

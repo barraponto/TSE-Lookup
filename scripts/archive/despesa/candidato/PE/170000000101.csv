@@ -1,2 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇOES 2010 RAUL B. JUNGMANN PINTO SENADOR;12.173.906/0001-97;02/09/2010;23000204301;R$ 2.000,00;Cheque;NANCILDO LUIZ DA SILVA;23650;Deputado Estadual;PPS;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARMAZEM CORAL LTDA;11.623.188/0007-36;15/09/2010;       Materiais de expediente;R$ 15,00;Transferência eletrônica; -  -  / 23650 - NANCILDO LUIZ DA SILVA - PE - Deputado Estadual;
+JOSE RAMIRO PEREIRA DA SILVA;231.684.634-34;28/09/2010;       Locação/cessão de bens móveis;R$ 540,58;Transferência eletrônica; -  -  / 23650 - NANCILDO LUIZ DA SILVA - PE - Deputado Estadual;
+POSTO SAO SEBASTIAO;10.887.086/0001-70;29/09/2010;       Combustíveis e lubrificantes;R$ 179,61;Transferência eletrônica; -  -  / 23650 - NANCILDO LUIZ DA SILVA - PE - Deputado Estadual;
+POSTO SAO SEBASTIAO;10.887.086/0001-70;21/09/2010;       Combustíveis e lubrificantes;R$ 153,33;Transferência eletrônica; -  -  / 23650 - NANCILDO LUIZ DA SILVA - PE - Deputado Estadual;
+POSTO SAO SEBASTIAO;10.887.086/0001-70;23/09/2010;       Combustíveis e lubrificantes;R$ 147,48;Transferência eletrônica; -  -  / 23650 - NANCILDO LUIZ DA SILVA - PE - Deputado Estadual;
+POSTO SAO SEBASTIAO;10.887.086/0001-70;06/09/2010;       Combustíveis e lubrificantes;R$ 143,32;Transferência eletrônica; -  -  / 23650 - NANCILDO LUIZ DA SILVA - PE - Deputado Estadual;
+POSTO SAO SEBASTIAO;10.887.086/0001-70;21/09/2010;       Combustíveis e lubrificantes;R$ 174,62;Transferência eletrônica; -  -  / 23650 - NANCILDO LUIZ DA SILVA - PE - Deputado Estadual;
+POSTO SAO SEBASTIAO;10.887.086/0001-70;02/09/2010;       Combustíveis e lubrificantes;R$ 146,06;Transferência eletrônica; -  -  / 23650 - NANCILDO LUIZ DA SILVA - PE - Deputado Estadual;
+UNIVERSAL PLACA S DE SINALIZAÇÃO LTDA;08.873.512/0001-74;28/09/2010;       Publicidade por materiais impressos;R$ 500,00;Transferência eletrônica; -  -  / 23650 - NANCILDO LUIZ DA SILVA - PE - Deputado Estadual;

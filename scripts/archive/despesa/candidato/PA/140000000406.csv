@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-AMARO SILVA BESSA;927.378.702-91;15/08/2010;23000169861;R$ 100,00;Depósito em espécie;MARIA DE JESUS DE SOUSA MODESTO;23322;Deputado Estadual;PPS;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+MARIA DE JESUS DE SOUSA MODESTO;049.637.412-53;15/08/2010;       Publicidade por materiais impressos;R$ 100,00;Transferência eletrônica; -  -  / 23322 - MARIA DE JESUS DE SOUSA MODESTO - PA - Deputado Estadual;

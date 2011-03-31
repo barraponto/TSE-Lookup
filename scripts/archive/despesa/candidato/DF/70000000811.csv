@@ -1,5 +1,13 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.256/0001-14;02/09/2010;28000689407;R$ 1.530,00;Transferência eletrônica;WAGNER PEREIRA DE LIMA;28555;Deputado Distrital;PRTB;DF;
-Comitê Financeiro Único;12.205.256/0001-14;06/10/2010;28000689408;R$ 1.530,00;Cheque;WAGNER PEREIRA DE LIMA;28555;Deputado Distrital;PRTB;DF;
-Diretório Estadual/Distrital;12.229.927/0001-87;09/08/2010;28000689402;R$ 360,00;Estimado;WAGNER PEREIRA DE LIMA;28555;Deputado Distrital;PRTB;DF;
-Diretório Estadual/Distrital;12.229.927/0001-87;16/08/2010;28000689403;R$ 360,00;Estimado;WAGNER PEREIRA DE LIMA;28555;Deputado Distrital;PRTB;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALESSANDRA ABRANTES DE MELO;884.833.471-72;10/09/2010;       Serviços prestados por terceiros;R$ 335,00;Transferência eletrônica; -  -  / 28555 - WAGNER PEREIRA DE LIMA - DF - Deputado Distrital;
+ALESSANDRA ABRANTES DE MELO;884.833.471-72;30/09/2010;       Serviços prestados por terceiros;R$ 404,49;Transferência eletrônica; -  -  / 28555 - WAGNER PEREIRA DE LIMA - DF - Deputado Distrital;
+ANGELA MARIA ARAUJO;473.297.001-00;30/09/2010;       Serviços prestados por terceiros;R$ 404,49;Transferência eletrônica; -  -  / 28555 - WAGNER PEREIRA DE LIMA - DF - Deputado Distrital;
+ANGELA MARIA ARAUJO;473.297.001-00;10/09/2010;       Serviços prestados por terceiros;R$ 335,00;Transferência eletrônica; -  -  / 28555 - WAGNER PEREIRA DE LIMA - DF - Deputado Distrital;
+CLASSE A IMPRESSOS & BRINDES;06.053.439/0001-69;31/08/2010;       Publicidade por materiais impressos;R$ 860,00;Transferência eletrônica; -  -  / 28555 - WAGNER PEREIRA DE LIMA - DF - Deputado Distrital;
+CLASSE A IMPRESSOS & BRINDES;06.053.439/0001-69;31/08/2010;       Publicidade por materiais impressos;R$ 680,00;Transferência eletrônica; -  -  / 28555 - WAGNER PEREIRA DE LIMA - DF - Deputado Distrital;
+Diretório Estadual/Distrital;12.229.927/0001-87;09/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Direção Estadual/Distrital - PRTB -  / 28555 - WAGNER PEREIRA DE LIMA - DF - Deputado Distrital;
+Diretório Estadual/Distrital;12.229.927/0001-87;16/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Direção Estadual/Distrital - PRTB -  / 28555 - WAGNER PEREIRA DE LIMA - DF - Deputado Distrital;
+;;06/10/2010;       Encargos financeiros e taxas bancárias;R$ 4,00;Débito em conta; -  -  / 28555 - WAGNER PEREIRA DE LIMA - DF - Deputado Distrital;
+;;08/10/2010;       Encargos financeiros e taxas bancárias;R$ 35,00;Débito em conta; -  -  / 28555 - WAGNER PEREIRA DE LIMA - DF - Deputado Distrital;
+;;08/10/2010;       Encargos financeiros e taxas bancárias;R$ 0,02;Débito em conta; -  -  / 28555 - WAGNER PEREIRA DE LIMA - DF - Deputado Distrital;
+;;06/10/2010;       Encargos financeiros e taxas bancárias;R$ 2,00;Débito em conta; -  -  / 28555 - WAGNER PEREIRA DE LIMA - DF - Deputado Distrital;

@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;20.764.395/0001-06;04/08/2010;23000140542;R$ 356,00;Estimado;VICENTE COSME DAMIÃO DE SOUZA;23888;Deputado Estadual;PPS;MG;
-Diretório Estadual/Distrital;20.764.395/0001-06;05/08/2010;23000140543;R$ 2.000,00;Estimado;VICENTE COSME DAMIÃO DE SOUZA;23888;Deputado Estadual;PPS;MG;
-Diretório Estadual/Distrital;20.764.395/0001-06;17/09/2010;23000140541;R$ 1.000,00;Cheque;VICENTE COSME DAMIÃO DE SOUZA;23888;Deputado Estadual;PPS;MG;
-Diretório Estadual/Distrital;20.764.395/0001-06;24/08/2010;23000140546;R$ 1.215,45;Estimado;VICENTE COSME DAMIÃO DE SOUZA;23888;Deputado Estadual;PPS;MG;
-Diretório Estadual/Distrital;20.764.395/0001-06;10/08/2010;23000140544;R$ 812,00;Estimado;VICENTE COSME DAMIÃO DE SOUZA;23888;Deputado Estadual;PPS;MG;
-Diretório Estadual/Distrital;20.764.395/0001-06;20/09/2010;23000140545;R$ 360,00;Estimado;VICENTE COSME DAMIÃO DE SOUZA;23888;Deputado Estadual;PPS;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;20.764.395/0001-06;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Direção Estadual/Distrital - PPS -  / 23888 - VICENTE COSME DAMIÃO DE SOUZA - MG - Deputado Estadual;
+Diretório Estadual/Distrital;20.764.395/0001-06;10/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 812,00;Estimado;Direção Estadual/Distrital - PPS -  / 23888 - VICENTE COSME DAMIÃO DE SOUZA - MG - Deputado Estadual;
+Diretório Estadual/Distrital;20.764.395/0001-06;24/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.215,45;Estimado;Direção Estadual/Distrital - PPS -  / 23888 - VICENTE COSME DAMIÃO DE SOUZA - MG - Deputado Estadual;
+Diretório Estadual/Distrital;20.764.395/0001-06;04/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 356,00;Estimado;Direção Estadual/Distrital - PPS -  / 23888 - VICENTE COSME DAMIÃO DE SOUZA - MG - Deputado Estadual;
+Diretório Estadual/Distrital;20.764.395/0001-06;05/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.000,00;Estimado;Direção Estadual/Distrital - PPS -  / 23888 - VICENTE COSME DAMIÃO DE SOUZA - MG - Deputado Estadual;
+ERNANE MARTINS COSTA;649.686.266-49;30/09/2010;       Produção de jingles, vinhetas e slogans;R$ 1.000,00;Cheque; -  -  / 23888 - VICENTE COSME DAMIÃO DE SOUZA - MG - Deputado Estadual;

@@ -1,8 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.205.213/0001-39;15/09/2010;40002206028;R$ 3.000,00;Cheque;ADEMIR PEREIRA DA SILVA;40740;Deputado Estadual;PSB;MG;
-Comitê Financeiro Único;12.205.213/0001-39;24/09/2010;40002206029;R$ 3.000,00;Cheque;ADEMIR PEREIRA DA SILVA;40740;Deputado Estadual;PSB;MG;
-Comitê Financeiro Único;12.205.213/0001-39;18/08/2010;40002206030;R$ 356,00;Estimado;ADEMIR PEREIRA DA SILVA;40740;Deputado Estadual;PSB;MG;
-Comitê Financeiro Único;12.205.213/0001-39;30/09/2010;40002206033;R$ 27,95;Estimado;ADEMIR PEREIRA DA SILVA;40740;Deputado Estadual;PSB;MG;
-Comitê Financeiro Único;12.205.213/0001-39;18/08/2010;40002206031;R$ 152,00;Estimado;ADEMIR PEREIRA DA SILVA;40740;Deputado Estadual;PSB;MG;
-Comitê Financeiro Único;12.205.213/0001-39;03/09/2010;40002206032;R$ 1.197,84;Estimado;ADEMIR PEREIRA DA SILVA;40740;Deputado Estadual;PSB;MG;
-ELEIÇÃO 2010 DOMINGOS F. DE CASTRO;12.181.835/0001-74;18/08/2010;40002206027;R$ 172,50;Estimado;ADEMIR PEREIRA DA SILVA;40740;Deputado Estadual;PSB;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.205.213/0001-39;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 152,00;Estimado;Comitê Financeiro Único - PSB -  / 40740 - ADEMIR PEREIRA DA SILVA - MG - Deputado Estadual;
+Comitê Financeiro Único;12.205.213/0001-39;03/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.197,84;Estimado;Comitê Financeiro Único - PSB -  / 40740 - ADEMIR PEREIRA DA SILVA - MG - Deputado Estadual;
+Comitê Financeiro Único;12.205.213/0001-39;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 356,00;Estimado;Comitê Financeiro Único - PSB -  / 40740 - ADEMIR PEREIRA DA SILVA - MG - Deputado Estadual;
+Comitê Financeiro Único;12.205.213/0001-39;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 27,95;Estimado;Comitê Financeiro Único - PSB -  / 40740 - ADEMIR PEREIRA DA SILVA - MG - Deputado Estadual;
+ELEIÇÃO 2010 DOMINGOS F. DE CASTRO;12.181.835/0001-74;18/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 172,50;Estimado;4040 -  - PSB -  - Deputado Federal / 40740 - ADEMIR PEREIRA DA SILVA - MG - Deputado Estadual;
+LUCIANO RODRIGUES MIRANDA;01.373.961/0001-04;27/09/2010;       Publicidade por carros de som;R$ 1.100,00;Cheque; -  -  / 40740 - ADEMIR PEREIRA DA SILVA - MG - Deputado Estadual;
+MARGARETE ROOSEVELT DA SILVA;338.762.746-72;03/09/2010;       Despesas com pessoal;R$ 2.120,00;Cheque; -  -  / 40740 - ADEMIR PEREIRA DA SILVA - MG - Deputado Estadual;
+REAL D'ÁVILA COMÉRCIO DE COMBUSTÍVEIS LTDA;05.814.279/0001-60;25/09/2010;       Combustíveis e lubrificantes;R$ 2.000,00;Cheque; -  -  / 40740 - ADEMIR PEREIRA DA SILVA - MG - Deputado Estadual;
+SOCIEDADE PROTETORA DA INFANCIA EPIL;20.081.774/0002-82;20/09/2010;       Publicidade por materiais impressos;R$ 780,00;Cheque; -  -  / 40740 - ADEMIR PEREIRA DA SILVA - MG - Deputado Estadual;

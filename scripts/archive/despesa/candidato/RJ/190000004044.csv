@@ -1,5 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALEXANDRE JOSE FARA;12.171.292/0001-04;03/08/2010;22000162501;R$ 2.000,00;Cheque;SERGIO DA CONCEICAO FERRAZ;22355;Deputado Estadual;PR;RJ;
-ALEXANDRE JOSE FARA;12.171.292/0001-04;09/09/2010;22000162504;R$ 5.260,00;Cheque;SERGIO DA CONCEICAO FERRAZ;22355;Deputado Estadual;PR;RJ;
-ALEXANDRE JOSE FARA;12.171.292/0001-04;01/09/2010;22000162503;R$ 6.000,00;Cheque;SERGIO DA CONCEICAO FERRAZ;22355;Deputado Estadual;PR;RJ;
-ALEXANDRE JOSE FARA;12.171.292/0001-04;16/08/2010;22000162502;R$ 6.000,00;Cheque;SERGIO DA CONCEICAO FERRAZ;22355;Deputado Estadual;PR;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+A. SILVEIRA LETREIROS E TOLDOS-ME;03.417.266/0001-22;31/07/2010;       Publicidade por materiais impressos;R$ 2.000,00;Cheque; -  -  / 22355 - SERGIO DA CONCEICAO FERRAZ - RJ - Deputado Estadual;
+EDSON DA CONCEIÇÃO FERRAZ;731.415.507-00;30/07/2010;       Publicidade por carros de som;R$ 1.900,00;Cheque; -  -  / 22355 - SERGIO DA CONCEICAO FERRAZ - RJ - Deputado Estadual;
+EDSON FARIA DRUMOND;735.908.437-72;04/08/2010;       Serviços prestados por terceiros;R$ 900,00;Cheque; -  -  / 22355 - SERGIO DA CONCEICAO FERRAZ - RJ - Deputado Estadual;
+LUCIANA SOARES SANTANA PAIVA;104.176.797-85;31/08/2010;       Serviços prestados por terceiros;R$ 3.000,00;Cheque; -  -  / 22355 - SERGIO DA CONCEICAO FERRAZ - RJ - Deputado Estadual;
+LUCIANA SOARES SANTANA PAIVA;104.176.797-85;31/08/2010;       Serviços prestados por terceiros;R$ 3.000,00;Cheque; -  -  / 22355 - SERGIO DA CONCEICAO FERRAZ - RJ - Deputado Estadual;
+POSTO SANTA EDWIDGES LTDA;36.212.694/0002-59;31/07/2010;       Combustíveis e lubrificantes;R$ 500,00;Cheque; -  -  / 22355 - SERGIO DA CONCEICAO FERRAZ - RJ - Deputado Estadual;
+POSTO TRIBOBÓ LTDA;31.676.885/0001-77;05/08/2010;       Combustíveis e lubrificantes;R$ 2.100,00;Cheque; -  -  / 22355 - SERGIO DA CONCEICAO FERRAZ - RJ - Deputado Estadual;
+VALERIA MARIA DOS SANTOS;855.265.687-68;31/07/2010;       Serviços prestados por terceiros;R$ 600,00;Cheque; -  -  / 22355 - SERGIO DA CONCEICAO FERRAZ - RJ - Deputado Estadual;
+VIAGRAF DE ITAIPU GRAFICA E EDITORA LTDA;04.328.486/0001-42;09/09/2010;       Publicidade por materiais impressos;R$ 5.260,00;Cheque; -  -  / 22355 - SERGIO DA CONCEICAO FERRAZ - RJ - Deputado Estadual;

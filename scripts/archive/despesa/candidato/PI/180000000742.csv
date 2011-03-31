@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CÉLIA MARIA BARBOSA;793.103.203-97;27/07/2010;14000017251;R$ 500,00;Estimado;ELIANE TEREZINHA QUEIROGA MOREIRA;1455;Deputado Federal;PTB;PI;
-Comitê Financeiro Único;12.191.487/0001-16;01/10/2010;14000017253;R$ 720,00;Estimado;ELIANE TEREZINHA QUEIROGA MOREIRA;1455;Deputado Federal;PTB;PI;
-Comitê Financeiro Único;12.191.487/0001-16;17/08/2010;14000017252;R$ 2.159,18;Estimado;ELIANE TEREZINHA QUEIROGA MOREIRA;1455;Deputado Federal;PTB;PI;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CÉLIA MARIA BARBOSA;793.103.203-97;27/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado; -  -  / 1455 - ELIANE TEREZINHA QUEIROGA MOREIRA - PI - Deputado Federal;
+Comitê Financeiro Único;12.191.487/0001-16;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.159,18;Estimado;Comitê Financeiro Único - PTB -  / 1455 - ELIANE TEREZINHA QUEIROGA MOREIRA - PI - Deputado Federal;
+Comitê Financeiro Único;12.191.487/0001-16;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 720,00;Estimado;Comitê Financeiro Único - PTB -  / 1455 - ELIANE TEREZINHA QUEIROGA MOREIRA - PI - Deputado Federal;

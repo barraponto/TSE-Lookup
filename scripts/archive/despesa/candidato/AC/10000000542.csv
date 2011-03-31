@@ -1,3 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-TELMA MARIA DE SOUZA OLIVEIRA;095.799.152-53;12/07/2010;28000426003;R$ 1.000,00;Estimado;TELMA MARIA DE SOUZA OLIVEIRA;28972;Deputado Estadual;PRTB;AC;
-W.L.SOSTER;06.189.982/0001-98;18/08/2010;28000426002;R$ 1.000,00;Cheque;TELMA MARIA DE SOUZA OLIVEIRA;28972;Deputado Estadual;PRTB;AC;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO AMAPA LTDA;00.529.581/0001-53;11/11/2010;       Combustíveis e lubrificantes;R$ 980,00;Transferência eletrônica; -  -  / 28972 - TELMA MARIA DE SOUZA OLIVEIRA - AC - Deputado Estadual;
+SAVIO MANOEL DO NASCIMENTO;411.777.972-91;25/10/2010;       Serviços prestados por terceiros;R$ 17,50;Cheque; -  -  / 28972 - TELMA MARIA DE SOUZA OLIVEIRA - AC - Deputado Estadual;
+TELMA MARIA DE SOUZA OLIVEIRA;095.799.152-53;12/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado; -  -  / 28972 - TELMA MARIA DE SOUZA OLIVEIRA - AC - Deputado Estadual;
+;;02/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,50;Débito em conta; -  -  / 28972 - TELMA MARIA DE SOUZA OLIVEIRA - AC - Deputado Estadual;

@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.256.171/0001-65;02/09/2010;20000041351;R$ 300,00;Estimado;NAZARÉ SARGES DA SILVA;20444;Deputado Estadual;PSC;AP;
-Comitê Financeiro Único;12.256.171/0001-65;02/09/2010;20000041352;R$ 1.000,00;Estimado;NAZARÉ SARGES DA SILVA;20444;Deputado Estadual;PSC;AP;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.256.171/0001-65;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado;Comitê Financeiro Único - PSC -  / 20444 - NAZARÉ SARGES DA SILVA - AP - Deputado Estadual;
+Comitê Financeiro Único;12.256.171/0001-65;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;Comitê Financeiro Único - PSC -  / 20444 - NAZARÉ SARGES DA SILVA - AP - Deputado Estadual;

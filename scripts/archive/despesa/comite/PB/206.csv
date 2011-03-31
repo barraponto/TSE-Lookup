@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Tipo do Comitê;Partido;UF;
-PHILIP MORRIS BRASIL INDUSTRIA E COMERCIO LTDA;04.041.933/0001-88;28/09/2010;25000155101;R$ 30.000,00;Transferência eletrônica;Comitê Financeiro Único;DEM;PB;
-VIA ENGENHARIA S.A.;00.584.755/0001-80;01/10/2010;25000155102;R$ 50.000,00;Transferência eletrônica;Comitê Financeiro Único;DEM;PB;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único - DEM;12.205.193/0001-04;15/10/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 30.000,00;Depósito em espécie;2511 - EFRAIM DE ARAUJO MORAIS FILHO - DEM - PB - Deputado Federal / Comitê Financeiro Único - DEM - PB;
+Comitê Financeiro Único - DEM;12.205.193/0001-04;15/10/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 50.000,00;Depósito em espécie;256 - EFRAIM DE ARAUJO MORAIS - DEM - PB - Senador / Comitê Financeiro Único - DEM - PB;

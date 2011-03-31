@@ -1,2 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANTÔNIO DAS GRAÇAS DE SOUZA;055.007.296-91;06/09/2010;36000015201;R$ 500,00;Depósito em espécie;ANTONIO DAS GRAÇAS DE SOUZA;36640;Deputado Estadual;PTC;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARTES GRÁFICAS CATALÃO LTDA;20.278.990/0001-31;27/08/2010;       Publicidade por materiais impressos;R$ 480,00;Cheque; -  -  / 36640 - ANTONIO DAS GRAÇAS DE SOUZA - MG - Deputado Estadual;
+SINGEFREDO VIEIRA DA SILVA;228.992.516-00;30/09/2010;       Serviços prestados por terceiros;R$ 20,00;Cheque; -  -  / 36640 - ANTONIO DAS GRAÇAS DE SOUZA - MG - Deputado Estadual;

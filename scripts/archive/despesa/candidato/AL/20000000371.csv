@@ -1,6 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ANA LUCIA DA SILVA;025.647.804-07;10/08/2010;28000507231;R$ 200,00;Depósito em espécie;CLEOMADSON ABREU FIGUEIREDO BARBOSA;28222;Deputado Estadual;PRTB;AL;
-Comitê Financeiro Único;12.200.108/0001-07;03/10/2010;28000507235;R$ 500,00;Estimado;CLEOMADSON ABREU FIGUEIREDO BARBOSA;28222;Deputado Estadual;PRTB;AL;
-JOSÉ FERNANDO ALVES DE LIMA;539.916.804-91;15/09/2010;28000507233;R$ 500,00;Depósito em espécie;CLEOMADSON ABREU FIGUEIREDO BARBOSA;28222;Deputado Estadual;PRTB;AL;
-RICARDO NOBRE AGRA;525.054.054-68;03/10/2010;28000507234;R$ 1.500,00;Estimado;CLEOMADSON ABREU FIGUEIREDO BARBOSA;28222;Deputado Estadual;PRTB;AL;
-ROBERTA GOMES SAMPAIO;043.340.754-95;25/08/2010;28000507232;R$ 600,00;Depósito em espécie;CLEOMADSON ABREU FIGUEIREDO BARBOSA;28222;Deputado Estadual;PRTB;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALLAN JOSÉ TEOFILO BANDEIRA;084.063.394-70;12/08/2010;       Publicidade por materiais impressos;R$ 120,00;Cheque; -  -  / 28222 - CLEOMADSON ABREU FIGUEIREDO BARBOSA - AL - Deputado Estadual;
+Comitê Financeiro Único;12.200.108/0001-07;03/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;Comitê Financeiro Único - PRTB -  / 28222 - CLEOMADSON ABREU FIGUEIREDO BARBOSA - AL - Deputado Estadual;
+E. JACINTINHO DA SILVA EPP;07.014.216/0001-55;17/09/2010;       Combustíveis e lubrificantes;R$ 47,15;Cheque; -  -  / 28222 - CLEOMADSON ABREU FIGUEIREDO BARBOSA - AL - Deputado Estadual;
+E. JACINTINHO DA SILVA EPP;07.014.216/0001-55;10/09/2010;       Combustíveis e lubrificantes;R$ 94,00;Cheque; -  -  / 28222 - CLEOMADSON ABREU FIGUEIREDO BARBOSA - AL - Deputado Estadual;
+E. JACINTINHO DA SILVA EPP;07.014.216/0001-55;02/10/2010;       Combustíveis e lubrificantes;R$ 55,00;Cheque; -  -  / 28222 - CLEOMADSON ABREU FIGUEIREDO BARBOSA - AL - Deputado Estadual;
+MENDONÇA GRÁFICA LTDA;12.020.326/0001-60;24/09/2010;       Publicidade por materiais impressos;R$ 90,00;Cheque; -  -  / 28222 - CLEOMADSON ABREU FIGUEIREDO BARBOSA - AL - Deputado Estadual;
+PS GRAFICA E EDITORA LTDA;10.497.190/0001-58;25/09/2010;       Publicidade por materiais impressos;R$ 700,00;Cheque; -  -  / 28222 - CLEOMADSON ABREU FIGUEIREDO BARBOSA - AL - Deputado Estadual;
+RICARDO NOBRE AGRA;525.054.054-68;03/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado; -  -  / 28222 - CLEOMADSON ABREU FIGUEIREDO BARBOSA - AL - Deputado Estadual;
+SIELEIDE S.S. DE SOUZA ME;02.056.053/0001-50;10/09/2010;       Publicidade por materiais impressos;R$ 180,00;Cheque; -  -  / 28222 - CLEOMADSON ABREU FIGUEIREDO BARBOSA - AL - Deputado Estadual;
+28222 - CLEOMADSON ABREU FIGUEIREDO BARBOSA - DEPUTADO ESTADUAL;12.176.651/0001-16;26/10/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 13,85;Cheque;Comitê Financeiro Único - PRTB - AL / 28222 - CLEOMADSON ABREU FIGUEIREDO BARBOSA - AL - Deputado Estadual;

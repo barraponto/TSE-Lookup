@@ -1,5 +1,9 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSE REGINALDO DE OLIVEIRA SALES;566.811.604-25;30/07/2010;27000032658;R$ 1.000,00;Depósito em espécie;JOSÉ REGINALDO DE OLIVEIRA SALES;27123;Deputado Estadual;PSDC;RN;
-JOSE REGINALDO DE OLIVEIRA SALES;566.811.604-25;17/09/2010;27000032661;R$ 700,00;Depósito em espécie;JOSÉ REGINALDO DE OLIVEIRA SALES;27123;Deputado Estadual;PSDC;RN;
-JOSE REGINALDO DE OLIVEIRA SALES;566.811.604-25;15/09/2010;27000032660;R$ 1.750,00;Depósito em espécie;JOSÉ REGINALDO DE OLIVEIRA SALES;27123;Deputado Estadual;PSDC;RN;
-JOSE REGINALDO DE OLIVEIRA SALES;566.811.604-25;13/08/2010;27000032659;R$ 500,00;Depósito em espécie;JOSÉ REGINALDO DE OLIVEIRA SALES;27123;Deputado Estadual;PSDC;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+FERNANDES E BEZERRA LTDA;12.742.102/0001-61;03/08/2010;       Publicidade por placas, estandartes e faixas;R$ 172,00;Cheque; -  -  / 27123 - JOSÉ REGINALDO DE OLIVEIRA SALES - RN - Deputado Estadual;
+J F SOUZA PENEUS E PECAS;08.279.309/0001-74;09/09/2010;       Despesas com transporte ou deslocamento;R$ 235,49;Cheque; -  -  / 27123 - JOSÉ REGINALDO DE OLIVEIRA SALES - RN - Deputado Estadual;
+MARIA DO CEU DE SALES;513.409.924-34;29/09/2010;       Diversas a especificar;R$ 610,20;Cheque; -  -  / 27123 - JOSÉ REGINALDO DE OLIVEIRA SALES - RN - Deputado Estadual;
+MARIA RAILMA DA SILVA;638.734.354-20;08/09/2010;       Serviços prestados por terceiros;R$ 110,00;Cheque; -  -  / 27123 - JOSÉ REGINALDO DE OLIVEIRA SALES - RN - Deputado Estadual;
+POSTO OLINDA LTDA;40.756.983/0001-05;02/10/2010;       Combustíveis e lubrificantes;R$ 81,00;Cheque; -  -  / 27123 - JOSÉ REGINALDO DE OLIVEIRA SALES - RN - Deputado Estadual;
+POSTO OLINDA LTDA;40.756.983/0001-05;03/09/2010;       Combustíveis e lubrificantes;R$ 80,00;Cheque; -  -  / 27123 - JOSÉ REGINALDO DE OLIVEIRA SALES - RN - Deputado Estadual;
+POSTO SAO CRISTOVAO LTDA;23.496.359/0006-01;22/09/2010;       Combustíveis e lubrificantes;R$ 101,31;Cheque; -  -  / 27123 - JOSÉ REGINALDO DE OLIVEIRA SALES - RN - Deputado Estadual;
+PRINTCOLOR GRAFICA EDITORA LTDA;02.824.298/0001-80;11/08/2010;       Publicidade por materiais impressos;R$ 2.560,00;Cheque; -  -  / 27123 - JOSÉ REGINALDO DE OLIVEIRA SALES - RN - Deputado Estadual;

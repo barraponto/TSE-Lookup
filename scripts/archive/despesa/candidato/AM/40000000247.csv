@@ -1,3 +1,11 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ALFREDO PEREIRA DO NASCIMENTO;12.169.771/0001-96;20/08/2010;22000032601;R$ 20.000,00;Cheque;WILSON DOS SANTOS MARQUES FILHO;22555;Deputado Estadual;PR;AM;
-WILSON DOS SANTOS MARQUES FILHO;317.352.742-91;01/09/2010;22000032602;R$ 40.000,00;Estimado;WILSON DOS SANTOS MARQUES FILHO;22555;Deputado Estadual;PR;AM;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AGNA CARDOSO MARTINS;710.957.302-82;20/09/2010;       Despesas com pessoal;R$ 1.000,00;Cheque; -  -  / 22555 - WILSON DOS SANTOS MARQUES FILHO - AM - Deputado Estadual;
+ALEXSANDRO RAMOS DA SILVA;995.525.582-04;20/09/2010;       Despesas com pessoal;R$ 600,00;Cheque; -  -  / 22555 - WILSON DOS SANTOS MARQUES FILHO - AM - Deputado Estadual;
+AUTO POSTO SAMIRA LTDA;00.620.015/0001-52;21/09/2010;       Combustíveis e lubrificantes;R$ 3.000,00;Cheque; -  -  / 22555 - WILSON DOS SANTOS MARQUES FILHO - AM - Deputado Estadual;
+DANIELA SILVA DOS SANTOS;001.428.212-76;20/09/2010;       Despesas com pessoal;R$ 600,00;Cheque; -  -  / 22555 - WILSON DOS SANTOS MARQUES FILHO - AM - Deputado Estadual;
+DARLENE CUNHA DA SILVA;592.512.802-82;20/09/2010;       Despesas com pessoal;R$ 600,00;Cheque; -  -  / 22555 - WILSON DOS SANTOS MARQUES FILHO - AM - Deputado Estadual;
+DAYELE DAS N ROSAS- ME;10.575.817/0001-41;29/09/2010;       Alimentação;R$ 1.000,00;Cheque; -  -  / 22555 - WILSON DOS SANTOS MARQUES FILHO - AM - Deputado Estadual;
+J DE C GOUVEIA;05.424.312/0001-46;26/08/2010;       Publicidade por materiais impressos;R$ 12.000,00;Cheque; -  -  / 22555 - WILSON DOS SANTOS MARQUES FILHO - AM - Deputado Estadual;
+JUCICLEIA BARROS FERREIRA;008.039.333-04;20/09/2010;       Despesas com pessoal;R$ 600,00;Cheque; -  -  / 22555 - WILSON DOS SANTOS MARQUES FILHO - AM - Deputado Estadual;
+MARIA DILCE CARDOSO DOS SANTOS;337.360.732-91;20/07/2010;       Despesas com pessoal;R$ 600,00;Cheque; -  -  / 22555 - WILSON DOS SANTOS MARQUES FILHO - AM - Deputado Estadual;
+WILSON DOS SANTOS MARQUES FILHO;317.352.742-91;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 40.000,00;Estimado; -  -  / 22555 - WILSON DOS SANTOS MARQUES FILHO - AM - Deputado Estadual;

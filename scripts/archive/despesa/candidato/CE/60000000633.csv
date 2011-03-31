@@ -1,2 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-PEDRO HELIO DE MOURA;688.568.655-72;22/07/2010;36000078701;R$ 500,00;Depósito em espécie;PEDRO HELIO DE MOURA;36483;Deputado Estadual;PTC;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+FRANCISCO NAZARENO SILVA MOURA;645.870.293-00;26/07/2010;       Publicidade por materiais impressos;R$ 36,00;Cheque; -  -  / 36483 - PEDRO HELIO DE MOURA - CE - Deputado Estadual;
+TDP INDUSTRIA E COMERCIO DE MATERIAS GRAFICOS LTDA;23.710.064/0001-81;02/08/2010;       Publicidade por materiais impressos;R$ 100,00;Cheque; -  -  / 36483 - PEDRO HELIO DE MOURA - CE - Deputado Estadual;

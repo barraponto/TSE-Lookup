@@ -1,2 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.200.114/0001-64;21/09/2010;25000457401;R$ 4.000,00;Cheque;EUFRASIO PEDRO PAULINO;25225;Deputado Estadual;DEM;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+E.P IND GRAFICA E EDITORA LTDA;08.954.523/0001-89;23/09/2010;       Publicidade por materiais impressos;R$ 1.300,00;Cheque; -  -  / 25225 - EUFRASIO PEDRO PAULINO - AL - Deputado Estadual;
+MARIA MARQUES DA SILVA E SILVA;648.752.534-00;05/10/2010;       Serviços prestados por terceiros;R$ 100,00;Cheque; -  -  / 25225 - EUFRASIO PEDRO PAULINO - AL - Deputado Estadual;
+ROSEVANIA FREITAS DA SILVA;843.187.914-91;23/09/2010;       Serviços prestados por terceiros;R$ 2.600,00;Cheque; -  -  / 25225 - EUFRASIO PEDRO PAULINO - AL - Deputado Estadual;

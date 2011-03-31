@@ -1,6 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-BALTAZAR DOS ANJOS TELES;028.594.744-39;17/08/2010;23000300402;R$ 1.000,00;Depósito em espécie;VENANCIO DOS ANJOS TELES;23555;Deputado Estadual;PPS;AL;
-ELEIÇÃO 2010 TEOTÔNIO BRANDÃO VILELA FILHO GOVERNADOR;12.170.978/0001-80;15/09/2010;23000300404;R$ 2.799,22;Estimado;VENANCIO DOS ANJOS TELES;23555;Deputado Estadual;PPS;AL;
-ELEIÇÕES 2010 VENANCIO DOS ANJOS TELES;679.464.704-44;02/08/2010;23000300407;R$ 47.000,00;Estimado;VENANCIO DOS ANJOS TELES;23555;Deputado Estadual;PPS;AL;
-GEDSON BASÍLIO TAVARES;994.919.074-68;02/10/2010;23000300405;R$ 900,00;Estimado;VENANCIO DOS ANJOS TELES;23555;Deputado Estadual;PPS;AL;
-WALTER DAVID COSTA CASTRO;046.054.234-60;17/08/2010;23000300403;R$ 460,00;Depósito em espécie;VENANCIO DOS ANJOS TELES;23555;Deputado Estadual;PPS;AL;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ARTECORES COMUNICAÇÃO VISUAL LTDA.;02.796.182/0001-84;19/08/2010;       Publicidade por materiais impressos;R$ 490,00;Cheque; -  -  / 23555 - VENANCIO DOS ANJOS TELES - AL - Deputado Estadual;
+BALTAZAR DOS ANJOS TELES;028.594.744-39;02/10/2010;       Serviços prestados por terceiros;R$ 35,00;Cheque; -  -  / 23555 - VENANCIO DOS ANJOS TELES - AL - Deputado Estadual;
+ELEIÇÃO 2010 TEOTÔNIO BRANDÃO VILELA FILHO GOVERNADOR;12.170.978/0001-80;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 2.799,22;Estimado;45 -  - PSDB -  - Governador / 23555 - VENANCIO DOS ANJOS TELES - AL - Deputado Estadual;
+ELEIÇÕES 2010 VENANCIO DOS ANJOS TELES;679.464.704-44;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 47.000,00;Estimado; -  -  / 23555 - VENANCIO DOS ANJOS TELES - AL - Deputado Estadual;
+GEDSON BASÍLIO TAVARES;994.919.074-68;02/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 900,00;Estimado; -  -  / 23555 - VENANCIO DOS ANJOS TELES - AL - Deputado Estadual;
+KVC IMPRESSÕES LTDA ME;05.232.390/0001-49;19/08/2010;       Publicidade por materiais impressos;R$ 935,00;Cheque; -  -  / 23555 - VENANCIO DOS ANJOS TELES - AL - Deputado Estadual;

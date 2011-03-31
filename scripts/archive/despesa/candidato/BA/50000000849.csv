@@ -1,3 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-FERNANDO DE JESUS DOS SANTOS;045.378.015-65;02/08/2010;22000012102;R$ 400,00;Estimado;FERNANDO SILVA GOMES DE MENDONÇA;22144;Deputado Estadual;PR;BA;
-MRM CONSTRUTORA LTDA;13.578.869/0001-60;06/08/2010;22000012101;R$ 10.700,00;Transferência eletrônica;FERNANDO SILVA GOMES DE MENDONÇA;22144;Deputado Estadual;PR;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+FERNANDO DE JESUS DOS SANTOS;045.378.015-65;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado; -  -  / 22144 - FERNANDO SILVA GOMES DE MENDONÇA - BA - Deputado Estadual;
+JOSE DE JESUS ALMEIDA GOMES;818.913.935-53;30/09/2010;       Despesas com pessoal;R$ 46,33;Cheque; -  -  / 22144 - FERNANDO SILVA GOMES DE MENDONÇA - BA - Deputado Estadual;
+MARIA DO CARMO GONSALVES DOS SANTOS;945.927.135-91;13/09/2010;       Despesas com pessoal;R$ 80,00;Cheque; -  -  / 22144 - FERNANDO SILVA GOMES DE MENDONÇA - BA - Deputado Estadual;
+MARILDA BARBOSA DOS SANTOS LEAL;374.243.275-34;17/09/2010;       Despesas com pessoal;R$ 700,00;Cheque; -  -  / 22144 - FERNANDO SILVA GOMES DE MENDONÇA - BA - Deputado Estadual;
+OPÇÃO GRAFICA E EDITORA LTDA-ME;08.777.613/0001-41;12/08/2010;       Publicidade por materiais impressos;R$ 330,00;Cheque; -  -  / 22144 - FERNANDO SILVA GOMES DE MENDONÇA - BA - Deputado Estadual;
+OTAVINA ARAUJO DOS SANTOS;879.484.005-91;13/09/2010;       Despesas com pessoal;R$ 80,00;Cheque; -  -  / 22144 - FERNANDO SILVA GOMES DE MENDONÇA - BA - Deputado Estadual;
+PEDRO BATISTA DE SOUZA CIA LTDA;13.826.482/0001-85;09/08/2010;       Combustíveis e lubrificantes;R$ 1.313,67;Cheque; -  -  / 22144 - FERNANDO SILVA GOMES DE MENDONÇA - BA - Deputado Estadual;
+REGINALDO SANTOS SOUZA DE SANTO ANTONIO DE JESUS;02.056.180/0001-59;09/08/2010;       Publicidade por materiais impressos;R$ 7.350,00;Cheque; -  -  / 22144 - FERNANDO SILVA GOMES DE MENDONÇA - BA - Deputado Estadual;
+SHEILA NERY ESTEVES;627.445.775-53;10/08/2010;       Locação/cessão de bens imóveis;R$ 800,00;Cheque; -  -  / 22144 - FERNANDO SILVA GOMES DE MENDONÇA - BA - Deputado Estadual;

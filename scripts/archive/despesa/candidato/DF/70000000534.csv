@@ -1,4 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;12.205.228/0001-05;10/09/2010;15000256852;R$ 5.000,00;Cheque;RENATO RÔMULO DOS SANTOS SUHET;15888;Deputado Distrital;PMDB;DF;
-Diretório Estadual/Distrital;12.205.228/0001-05;29/09/2010;15000256854;R$ 5.000,00;Cheque;RENATO RÔMULO DOS SANTOS SUHET;15888;Deputado Distrital;PMDB;DF;
-Diretório Estadual/Distrital;12.205.228/0001-05;23/09/2010;15000256853;R$ 5.000,00;Cheque;RENATO RÔMULO DOS SANTOS SUHET;15888;Deputado Distrital;PMDB;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+FRANCISCO CARNEIRO DE ALMEIDA JUNIOR;991.405.001-87;30/09/2010;       Despesas com pessoal;R$ 2.000,00;Cheque; -  -  / 15888 - RENATO RÔMULO DOS SANTOS SUHET - DF - Deputado Distrital;
+GRAFICA CRISTIANE;04.022.170/0001-28;15/09/2010;       Publicidade por materiais impressos;R$ 880,00;Cheque; -  -  / 15888 - RENATO RÔMULO DOS SANTOS SUHET - DF - Deputado Distrital;
+VANESSA LINA RODRIGUES SUHET;038.797.271-47;24/09/2010;       Despesas com pessoal;R$ 4.900,00;Cheque; -  -  / 15888 - RENATO RÔMULO DOS SANTOS SUHET - DF - Deputado Distrital;
+VANESSA LINA RODRIGUES SUHET;038.797.271-47;15/09/2010;       Despesas com pessoal;R$ 4.102,00;Cheque; -  -  / 15888 - RENATO RÔMULO DOS SANTOS SUHET - DF - Deputado Distrital;
+VANESSA LINA RODRIGUES SUHET;038.797.271-47;24/09/2010;       Despesas com pessoal;R$ 3.030,00;Cheque; -  -  / 15888 - RENATO RÔMULO DOS SANTOS SUHET - DF - Deputado Distrital;
+;;27/09/2010;       Encargos financeiros e taxas bancárias;R$ 35,00;Débito em conta; -  -  / 15888 - RENATO RÔMULO DOS SANTOS SUHET - DF - Deputado Distrital;
+;;13/09/2010;       Encargos financeiros e taxas bancárias;R$ 4,00;Débito em conta; -  -  / 15888 - RENATO RÔMULO DOS SANTOS SUHET - DF - Deputado Distrital;
+;;13/09/2010;       Encargos financeiros e taxas bancárias;R$ 14,00;Débito em conta; -  -  / 15888 - RENATO RÔMULO DOS SANTOS SUHET - DF - Deputado Distrital;
+;;23/09/2010;       Encargos financeiros e taxas bancárias;R$ 35,00;Débito em conta; -  -  / 15888 - RENATO RÔMULO DOS SANTOS SUHET - DF - Deputado Distrital;

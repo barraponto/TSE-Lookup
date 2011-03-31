@@ -1,5 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-CINARA ROBERTA BRAGA;810.546.379-20;06/09/2010;43001765202;R$ 820,00;Depósito em espécie;CINARA ROBERTA BRAGA;43543;Deputado Estadual;PV;PR;
-CINARA ROBERTA BRAGA;810.546.379-20;27/09/2010;43001765203;R$ 650,00;Depósito em espécie;CINARA ROBERTA BRAGA;43543;Deputado Estadual;PV;PR;
-CINARA ROBERTA BRAGA;810.546.379-20;14/10/2010;43001765204;R$ 620,00;Depósito em espécie;CINARA ROBERTA BRAGA;43543;Deputado Estadual;PV;PR;
-ELEICOES 2010 CLEUSA ROSANE RIBAS FERREIRA DEP FED;12.178.049/0001-18;17/08/2010;43001765201;R$ 335,00;Estimado;CINARA ROBERTA BRAGA;43543;Deputado Estadual;PV;PR;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ART GRAF COMUNICAÇÃO VISUAL;05.430.559/0001-75;02/10/2010;       Publicidade por materiais impressos;R$ 800,00;Cheque; -  -  / 43543 - CINARA ROBERTA BRAGA - PR - Deputado Estadual;
+ELEICOES 2010 CLEUSA ROSANE RIBAS FERREIRA DEP FED;12.178.049/0001-18;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 335,00;Estimado;4343 -  - PV -  - Deputado Federal / 43543 - CINARA ROBERTA BRAGA - PR - Deputado Estadual;
+METROPOLITAN POMOÇÕES;04.748.047/0001-99;27/09/2010;       Publicidade por carros de som;R$ 1.282,00;Cheque; -  -  / 43543 - CINARA ROBERTA BRAGA - PR - Deputado Estadual;
+;;26/10/2010;       Encargos financeiros e taxas bancárias;R$ 8,00;Débito em conta; -  -  / 43543 - CINARA ROBERTA BRAGA - PR - Deputado Estadual;

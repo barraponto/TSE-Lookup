@@ -1,5 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADILTON SOUZA SILVA;050.221.855-04;14/07/2010;22000046051;R$ 500,00;Depósito em espécie;ADILTON SOUZA SILVA;22217;Deputado Estadual;PR;MA;
-ADILTON SOUZA SILVA;050.221.855-04;09/09/2010;22000046054;R$ 1.500,00;Cheque;ADILTON SOUZA SILVA;22217;Deputado Estadual;PR;MA;
-ADILTON SOUZA SILVA;050.221.855-04;20/08/2010;22000046052;R$ 1.000,00;Depósito em espécie;ADILTON SOUZA SILVA;22217;Deputado Estadual;PR;MA;
-CIA MARANHENSE DE REFRIGERANTES;06.272.199/0001-93;01/10/2010;22000046053;R$ 10.000,00;Transferência eletrônica;ADILTON SOUZA SILVA;22217;Deputado Estadual;PR;MA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ADALBERTO MATÕES PEREIRA;375.425.675-00;15/07/2010;       Serviços prestados por terceiros;R$ 400,00;Cheque; -  -  / 22217 - ADILTON SOUZA SILVA - MA - Deputado Estadual;
+GRÁFICA ITAPUÃ LTDA;02.635.859/0001-00;30/08/2010;       Publicidade por materiais impressos;R$ 1.600,00;Cheque; -  -  / 22217 - ADILTON SOUZA SILVA - MA - Deputado Estadual;
+IMPRESS GRÁFICA E EDITORA, COMÉRCIO E REPRESENTAÇÃO LTDA.;11.263.542/0001-73;15/07/2010;       Publicidade por materiais impressos;R$ 400,00;Cheque; -  -  / 22217 - ADILTON SOUZA SILVA - MA - Deputado Estadual;
+IMPRESS GRÁFICA E EDITORA, COMÉRCIO E REPRESENTAÇÃO LTDA.;11.263.542/0001-73;01/10/2010;       Publicidade por materiais impressos;R$ 10.000,00;Cheque; -  -  / 22217 - ADILTON SOUZA SILVA - MA - Deputado Estadual;
+TIAGO HAICKEL DE SOUSA;817.436.373-49;09/09/2010;       Serviços prestados por terceiros;R$ 300,00;Cheque; -  -  / 22217 - ADILTON SOUZA SILVA - MA - Deputado Estadual;
+22217 - ADILTON SOUZA SILVA - DEPUTADO ESTADUAL;12.169.493/0001-77;27/10/2010;       Doações financeiras a outros candidatos e/ou comitês financeiros;R$ 299,65;Depósito em espécie;Direção Estadual/Distrital - PR - MA / 22217 - ADILTON SOUZA SILVA - MA - Deputado Estadual;

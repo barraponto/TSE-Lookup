@@ -1,3 +1,3 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;05.055.973/0001-41;24/09/2010;36000064201;R$ 200,00;Estimado;REGINALDO FONSECA DE OLIVEIRA;36580;Deputado Estadual;PTC;PE;
-FLAVIO ROBERTO DE ALMEIDA;823.952.414-15;06/08/2010;36000064202;R$ 300,00;Depósito em espécie;REGINALDO FONSECA DE OLIVEIRA;36580;Deputado Estadual;PTC;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;05.055.973/0001-41;24/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 200,00;Estimado;Direção Estadual/Distrital - PTC -  / 36580 - REGINALDO FONSECA DE OLIVEIRA - PE - Deputado Estadual;
+MARIA CRISTINA GOMES FERREIRA;975.394.574-49;16/08/2010;       Despesas com pessoal;R$ 300,00;Cheque; -  -  / 36580 - REGINALDO FONSECA DE OLIVEIRA - PE - Deputado Estadual;

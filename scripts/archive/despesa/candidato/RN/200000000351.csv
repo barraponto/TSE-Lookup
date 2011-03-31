@@ -1,4 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.262.844/0001-90;29/09/2010;27000032580;R$ 1.500,00;Estimado;UBALDO BEZERRA DE MELO;27111;Deputado Estadual;PSDC;RN;
-IVSSON BATUIRA OLIVEIRA DA CRUZ;010.322.254-59;04/08/2010;27000032578;R$ 80,00;Estimado;UBALDO BEZERRA DE MELO;27111;Deputado Estadual;PSDC;RN;
-IVSSON BATUIRA OLIVEIRA DA CRUZ;010.322.254-59;01/09/2010;27000032579;R$ 37,00;Estimado;UBALDO BEZERRA DE MELO;27111;Deputado Estadual;PSDC;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.262.844/0001-90;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.500,00;Estimado;Comitê Financeiro Único - PSB -  / 27111 - UBALDO BEZERRA DE MELO - RN - Deputado Estadual;
+IVSSON BATUIRA OLIVEIRA DA CRUZ;010.322.254-59;01/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 37,00;Estimado; -  -  / 27111 - UBALDO BEZERRA DE MELO - RN - Deputado Estadual;
+IVSSON BATUIRA OLIVEIRA DA CRUZ;010.322.254-59;04/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 80,00;Estimado; -  -  / 27111 - UBALDO BEZERRA DE MELO - RN - Deputado Estadual;

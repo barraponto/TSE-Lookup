@@ -1,2 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-LIDICE DA MATA E SOUZA;12.172.092/0001-76;21/09/2010;40002406631;R$ 1.000,00;Cheque;ALTELYR RABELLO DE OLIVEIRA;40684;Deputado Estadual;PSB;BA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DEUSREI COMBUSTIVEL E LUBRIFICANTES LTDA;05.643.704/0001-04;28/09/2010;       Combustíveis e lubrificantes;R$ 100,00;Cheque; -  -  / 40684 - ALTELYR RABELLO DE OLIVEIRA - BA - Deputado Estadual;
+ECOPOSTOS - POSTO CATEGORIA;04.420.464/0003-70;27/09/2010;       Combustíveis e lubrificantes;R$ 100,00;Cheque; -  -  / 40684 - ALTELYR RABELLO DE OLIVEIRA - BA - Deputado Estadual;
+TREVO DERIVADOS DE PETROLEO LTDA;14.486.153/0014-10;29/09/2010;       Combustíveis e lubrificantes;R$ 100,00;Cheque; -  -  / 40684 - ALTELYR RABELLO DE OLIVEIRA - BA - Deputado Estadual;
+;;27/09/2010;       Encargos financeiros e taxas bancárias;R$ 11,00;Débito em conta; -  -  / 40684 - ALTELYR RABELLO DE OLIVEIRA - BA - Deputado Estadual;

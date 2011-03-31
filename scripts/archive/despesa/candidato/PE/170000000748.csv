@@ -1,4 +1,5 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ISAIAS GOMES DA SILVA;169.123.654-34;22/07/2010;12001048961;R$ 2.450,00;Cheque;ISAIAS GOMES DA SILVA;1240;Deputado Federal;PDT;PE;
-ISAIAS GOMES DA SILVA;169.123.654-34;20/09/2010;12001048963;R$ 710,00;Cheque;ISAIAS GOMES DA SILVA;1240;Deputado Federal;PDT;PE;
-ISAIAS GOMES DA SILVA;169.123.654-34;20/08/2010;12001048962;R$ 2.300,00;Cheque;ISAIAS GOMES DA SILVA;1240;Deputado Federal;PDT;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+DAMIAO DE SOUZA BARROS;11.546.531/0001-09;29/09/2010;       Serviços prestados por terceiros;R$ 1.210,00;Cheque; -  -  / 1240 - ISAIAS GOMES DA SILVA - PE - Deputado Federal;
+DUTRA DE AMORIM & CIA LTDA;09.483.070/0001-12;09/09/2010;       Publicidade por materiais impressos;R$ 2.250,00;Cheque; -  -  / 1240 - ISAIAS GOMES DA SILVA - PE - Deputado Federal;
+DUTRA DE AMORIM & CIA LTDA;09.483.070/0001-12;22/09/2010;       Publicidade por materiais impressos;R$ 300,00;Cheque; -  -  / 1240 - ISAIAS GOMES DA SILVA - PE - Deputado Federal;
+EUCLIDES JUSTINO DO MONTE;196.640.364-04;23/07/2010;       Produção de jingles, vinhetas e slogans;R$ 1.700,00;Cheque; -  -  / 1240 - ISAIAS GOMES DA SILVA - PE - Deputado Federal;

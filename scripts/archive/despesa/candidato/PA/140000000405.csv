@@ -1,5 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ADALTO FERREIRA NUNES;167.627.542-87;06/09/2010;23000169651;R$ 3.000,00;Cheque;MARCOS ANTONIO ELEUTERIO FILHO;23333;Deputado Estadual;PPS;PA;
-HOSPITAL SAMARITANO DE JACUNDÁ;04.204.863/0001-31;16/09/2010;23000169654;R$ 1.100,00;Depósito em espécie;MARCOS ANTONIO ELEUTERIO FILHO;23333;Deputado Estadual;PPS;PA;
-HOSPITAL SAMARITANO DE JACUNDÁ;04.204.863/0001-31;16/09/2010;23000169655;R$ 1.900,00;Depósito em espécie;MARCOS ANTONIO ELEUTERIO FILHO;23333;Deputado Estadual;PPS;PA;
-HOSPITAL SAMARITANO DE JACUNDÁ;04.204.863/0001-31;16/09/2010;23000169652;R$ 1.940,00;Depósito em espécie;MARCOS ANTONIO ELEUTERIO FILHO;23333;Deputado Estadual;PPS;PA;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+COMAZE COMERCIAL AZEVEDO LTDA;83.302.430/0001-95;17/09/2010;       Diversas a especificar;R$ 2.000,00;Cheque; -  -  / 23333 - MARCOS ANTONIO ELEUTERIO FILHO - PA - Deputado Estadual;
+JURANDIR JOÃO BAHIA FERREIRA;174.998.602-72;28/10/2010;       Serviços prestados por terceiros;R$ 67,00;Cheque; -  -  / 23333 - MARCOS ANTONIO ELEUTERIO FILHO - PA - Deputado Estadual;
+M. P. DA SILVA MATERIAL ELÉTRICO;83.837.138/0001-77;28/09/2010;       Diversas a especificar;R$ 800,00;Cheque; -  -  / 23333 - MARCOS ANTONIO ELEUTERIO FILHO - PA - Deputado Estadual;
+MVB MARTINS;08.240.885/0001-08;16/09/2010;       Eventos de promoção da candidatura;R$ 1.153,00;Cheque; -  -  / 23333 - MARCOS ANTONIO ELEUTERIO FILHO - PA - Deputado Estadual;
+MVB MARTINS;08.240.885/0001-08;16/09/2010;       Eventos de promoção da candidatura;R$ 1.920,00;Cheque; -  -  / 23333 - MARCOS ANTONIO ELEUTERIO FILHO - PA - Deputado Estadual;
+THELES ALMEIDA BEIE;829.345.412-15;06/09/2010;       Serviços prestados por terceiros;R$ 2.000,00;Cheque; -  -  / 23333 - MARCOS ANTONIO ELEUTERIO FILHO - PA - Deputado Estadual;

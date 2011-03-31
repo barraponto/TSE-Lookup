@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-BARTOLOMEU DA SILVA MOREIRA;369.500.504-10;29/07/2010;28000658101;R$ 500,00;Transferência eletrônica;BARTOLOMEU DA SILVA MOREIRA;28;Governador;PRTB;RN;
-BARTOLOMEU DA SILVA MOREIRA;369.500.504-10;01/08/2010;28000658104;R$ 65.000,00;Estimado;BARTOLOMEU DA SILVA MOREIRA;28;Governador;PRTB;RN;
-Comitê Financeiro Único;12.262.844/0001-90;29/09/2010;28000658103;R$ 3.000,00;Estimado;BARTOLOMEU DA SILVA MOREIRA;28;Governador;PRTB;RN;
-JOBSON KLEBEN PINHEIRO MOREIRA;065.781.494-65;01/08/2010;28000658105;R$ 10.000,00;Estimado;BARTOLOMEU DA SILVA MOREIRA;28;Governador;PRTB;RN;
-JOSE MARIA CUNHA;071.262.804-59;30/08/2010;28000658102;R$ 1.000,00;Depósito em espécie;BARTOLOMEU DA SILVA MOREIRA;28;Governador;PRTB;RN;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+BARTOLOMEU DA SILVA MOREIRA;369.500.504-10;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 65.000,00;Estimado; -  -  / 28 - BARTOLOMEU DA SILVA MOREIRA - RN - Governador;
+Comitê Financeiro Único;12.262.844/0001-90;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.000,00;Estimado;Comitê Financeiro Único - PSB -  / 28 - BARTOLOMEU DA SILVA MOREIRA - RN - Governador;
+FRANCISCO FERNANDES DA COSTA INDUSTRIA SERIGRAFIA - ME;35.286.764/0001-70;30/07/2010;       Publicidade por materiais impressos;R$ 500,00;Cheque; -  -  / 28 - BARTOLOMEU DA SILVA MOREIRA - RN - Governador;
+JOBSON KLEBEN PINHEIRO MOREIRA;065.781.494-65;01/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 10.000,00;Estimado; -  -  / 28 - BARTOLOMEU DA SILVA MOREIRA - RN - Governador;
+PARELHAS GAS LTDA;24.206.617/0019-55;13/09/2010;       Combustíveis e lubrificantes;R$ 1.000,00;Cheque; -  -  / 28 - BARTOLOMEU DA SILVA MOREIRA - RN - Governador;

@@ -1,3 +1,10 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELI NEVES BRANDÃO;019.494.177-94;14/08/2010;45000439501;R$ 700,00;Cheque;ELIEL NEVES BRANDÃO;45199;Deputado Estadual;PSDB;RJ;
-LUCI  LIMA LISBOA;407.982.327-49;13/09/2010;45000439502;R$ 1.400,00;Cheque;ELIEL NEVES BRANDÃO;45199;Deputado Estadual;PSDB;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ALEXANDRE NUNES CAMPBEL;12.377.539/0001-43;30/09/2010;       Publicidade por materiais impressos;R$ 220,00;Cheque; -  -  / 45199 - ELIEL NEVES BRANDÃO - RJ - Deputado Estadual;
+AMAZONIA DO BRASIL PUBLICIDADE PROPAGANDA GRAFICA E COMUNICAÇÃO LTDA;39.120.860/0001-02;14/09/2010;       Publicidade por placas, estandartes e faixas;R$ 530,00;Cheque; -  -  / 45199 - ELIEL NEVES BRANDÃO - RJ - Deputado Estadual;
+ELEIÇÃO 2010 ELIEL NEVES BRANDÃO;12.167.541/0001-98;27/10/2010;       Diversas a especificar;R$ 13,50;Transferência eletrônica; -  -  / 45199 - ELIEL NEVES BRANDÃO - RJ - Deputado Estadual;
+VIVAGRAF SERVIÇOS GRAFICOS LTDA ME;02.523.117/0001-85;14/09/2010;       Publicidade por placas, estandartes e faixas;R$ 1.300,00;Cheque; -  -  / 45199 - ELIEL NEVES BRANDÃO - RJ - Deputado Estadual;
+;;26/10/2010;       Encargos financeiros e taxas bancárias;R$ 8,30;Débito em conta; -  -  / 45199 - ELIEL NEVES BRANDÃO - RJ - Deputado Estadual;
+;;01/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 45199 - ELIEL NEVES BRANDÃO - RJ - Deputado Estadual;
+;;30/08/2010;       Encargos financeiros e taxas bancárias;R$ 19,50;Débito em conta; -  -  / 45199 - ELIEL NEVES BRANDÃO - RJ - Deputado Estadual;
+;;15/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 45199 - ELIEL NEVES BRANDÃO - RJ - Deputado Estadual;
+;;20/09/2010;       Encargos financeiros e taxas bancárias;R$ 2,90;Débito em conta; -  -  / 45199 - ELIEL NEVES BRANDÃO - RJ - Deputado Estadual;

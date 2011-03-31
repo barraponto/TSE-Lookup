@@ -1,4 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Diretório Estadual/Distrital;05.055.973/0001-41;29/09/2010;36000064854;R$ 3.000,00;Cheque;WILSON WANDERLEY NETO;3660;Deputado Federal;PTC;PE;
-Diretório Estadual/Distrital;05.055.973/0001-41;28/09/2010;36000064855;R$ 399,00;Estimado;WILSON WANDERLEY NETO;3660;Deputado Federal;PTC;PE;
-WILSON WANDERLEY NETO;217.029.504-68;02/08/2010;36000064856;R$ 3.150,00;Estimado;WILSON WANDERLEY NETO;3660;Deputado Federal;PTC;PE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Diretório Estadual/Distrital;05.055.973/0001-41;28/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 399,00;Estimado;Direção Estadual/Distrital - PTC -  / 3660 - WILSON WANDERLEY NETO - PE - Deputado Federal;
+EQUIPADORA UNIVERSAL LTDA;02.782.358/0001-49;02/10/2010;       Diversas a especificar;R$ 390,00;Cheque; -  -  / 3660 - WILSON WANDERLEY NETO - PE - Deputado Federal;
+FABIO ALVES FIGUEIREDO - GRAFICA ME;08.057.151/0001-98;02/10/2010;       Publicidade por materiais impressos;R$ 1.000,00;Cheque; -  -  / 3660 - WILSON WANDERLEY NETO - PE - Deputado Federal;
+FABIO ALVES FIGUEIREDO - GRAFICA ME;08.057.151/0001-98;02/10/2010;       Publicidade por materiais impressos;R$ 867,40;Cheque; -  -  / 3660 - WILSON WANDERLEY NETO - PE - Deputado Federal;
+J H M COMERCIAL PEÇAS LTDA.;01.437.983/0001-90;30/09/2010;       Diversas a especificar;R$ 292,60;Cheque; -  -  / 3660 - WILSON WANDERLEY NETO - PE - Deputado Federal;
+TEREZA CRISTINA G CUNHA;085.341.364-91;01/10/2010;       Locação/cessão de bens imóveis;R$ 450,00;Cheque; -  -  / 3660 - WILSON WANDERLEY NETO - PE - Deputado Federal;
+WILSON WANDERLEY NETO;217.029.504-68;02/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.150,00;Estimado; -  -  / 3660 - WILSON WANDERLEY NETO - PE - Deputado Federal;

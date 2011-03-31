@@ -1,4 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-GIOVANI CHERINI;12.175.082/0001-94;01/10/2010;12001073978;R$ 400,00;Estimado;RONEI DE CASTILHOS DA SILVA;12250;Deputado Estadual;PDT;RS;
-RONEI DE CASTILHOS DA SILVA;184.379.230-34;24/09/2010;12001073976;R$ 360,00;Depósito em espécie;RONEI DE CASTILHOS DA SILVA;12250;Deputado Estadual;PDT;RS;
-RONEI DE CASTILHOS DA SILVA;184.379.230-34;08/10/2010;12001073977;R$ 32,10;Depósito em espécie;RONEI DE CASTILHOS DA SILVA;12250;Deputado Estadual;PDT;RS;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANS GRAFICA FOTOLITO DIGITAL;05.677.050/0001-21;09/09/2010;       Publicidade por materiais impressos;R$ 89,20;Não informado; -  -  / 12250 - RONEI DE CASTILHOS DA SILVA - RS - Deputado Estadual;
+EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS;34.028.316/5451-00;22/09/2010;       Despesas postais;R$ 45,00;Não informado; -  -  / 12250 - RONEI DE CASTILHOS DA SILVA - RS - Deputado Estadual;
+EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS;34.028.316/5451-00;21/09/2010;       Despesas postais;R$ 145,90;Não informado; -  -  / 12250 - RONEI DE CASTILHOS DA SILVA - RS - Deputado Estadual;
+GIOVANI CHERINI;12.175.082/0001-94;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado;1221 -  - PDT -  - Deputado Federal / 12250 - RONEI DE CASTILHOS DA SILVA - RS - Deputado Estadual;
+PONTO IMPRESSO MEIRELES FALCAO PROMOÇOES LTDA;07.875.841/0001-91;27/09/2010;       Publicidade por materiais impressos;R$ 70,00;Não informado; -  -  / 12250 - RONEI DE CASTILHOS DA SILVA - RS - Deputado Estadual;

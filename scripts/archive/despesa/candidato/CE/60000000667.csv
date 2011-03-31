@@ -1,7 +1,7 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.270.066/0001-80;30/08/2010;21000013215;R$ 500,00;Estimado;TARCISIO LEITÃO DE CARVALHO;210;Senador;PCB;CE;
-Comitê Financeiro Único;12.270.066/0001-80;15/09/2010;21000013216;R$ 500,00;Estimado;TARCISIO LEITÃO DE CARVALHO;210;Senador;PCB;CE;
-Comitê Financeiro Único;12.270.066/0001-80;17/08/2010;21000013214;R$ 400,00;Estimado;TARCISIO LEITÃO DE CARVALHO;210;Senador;PCB;CE;
-Diretório Nacional;01.585.552/0001-71;17/08/2010;21000013213;R$ 237,12;Estimado;TARCISIO LEITÃO DE CARVALHO;210;Senador;PCB;CE;
-Diretório Nacional;01.585.552/0001-71;20/08/2010;21000013211;R$ 1.243,20;Estimado;TARCISIO LEITÃO DE CARVALHO;210;Senador;PCB;CE;
-IVAN PINHEIRO;12.198.076/0001-52;22/08/2010;21000013212;R$ 1.243,20;Estimado;TARCISIO LEITÃO DE CARVALHO;210;Senador;PCB;CE;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.270.066/0001-80;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;Comitê Financeiro Único - PCB -  / 210 - TARCISIO LEITÃO DE CARVALHO - CE - Senador;
+Comitê Financeiro Único;12.270.066/0001-80;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 400,00;Estimado;Comitê Financeiro Único - PCB -  / 210 - TARCISIO LEITÃO DE CARVALHO - CE - Senador;
+Comitê Financeiro Único;12.270.066/0001-80;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 500,00;Estimado;Comitê Financeiro Único - PCB -  / 210 - TARCISIO LEITÃO DE CARVALHO - CE - Senador;
+Diretório Nacional;01.585.552/0001-71;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.243,20;Estimado;Direção Nacional - PCB -  / 210 - TARCISIO LEITÃO DE CARVALHO - CE - Senador;
+Diretório Nacional;01.585.552/0001-71;17/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 237,12;Estimado;Direção Nacional - PCB -  / 210 - TARCISIO LEITÃO DE CARVALHO - CE - Senador;
+IVAN PINHEIRO;12.198.076/0001-52;22/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.243,20;Estimado;21 -  - PCB -  - Presidente / 210 - TARCISIO LEITÃO DE CARVALHO - CE - Senador;

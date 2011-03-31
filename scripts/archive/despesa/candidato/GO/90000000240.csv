@@ -1,3 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-HELMES AQUINO AFONSO;336.478.011-00;29/10/2010;12001019211;R$ 1.250,00;Depósito em espécie;HELMES AQUINO AFONSO;12160;Deputado Estadual;PDT;GO;
-HELMES AQUINO AFONSO;336.478.011-00;29/10/2010;12001019212;R$ 1.200,00;Depósito em espécie;HELMES AQUINO AFONSO;12160;Deputado Estadual;PDT;GO;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+AUTO POSTO RIO CANASTRA;05.090.229/0001-88;29/10/2010;       Combustíveis e lubrificantes;R$ 1.200,00;Cheque; -  -  / 12160 - HELMES AQUINO AFONSO - GO - Deputado Estadual;
+HERMÍNIO BENTO TAVARES NETO;020.332.661-09;29/10/2010;       Locação/cessão de bens móveis;R$ 600,00;Cheque; -  -  / 12160 - HELMES AQUINO AFONSO - GO - Deputado Estadual;
+JEVERSON CAMPOS MORAIS;008.678.801-98;02/08/2010;       Locação/cessão de bens móveis;R$ 650,00;Cheque; -  -  / 12160 - HELMES AQUINO AFONSO - GO - Deputado Estadual;

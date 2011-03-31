@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.229.897/0001-09;09/08/2010;33000110651;R$ 360,00;Estimado;PEDRO RODRIGUES DE CARVALHO;33122;Deputado Distrital;PMN;DF;
-Comitê Financeiro Único;12.229.897/0001-09;20/08/2010;33000110652;R$ 360,00;Estimado;PEDRO RODRIGUES DE CARVALHO;33122;Deputado Distrital;PMN;DF;
-E 2010 JAQUELINE RORIZ;12.198.906/0001-41;10/09/2010;33000110655;R$ 360,00;Estimado;PEDRO RODRIGUES DE CARVALHO;33122;Deputado Distrital;PMN;DF;
-E2010 JAQUELINE ROIRIZ;12.198.906/0001-41;02/09/2010;33000110654;R$ 360,00;Estimado;PEDRO RODRIGUES DE CARVALHO;33122;Deputado Distrital;PMN;DF;
-E2010 JAQUELINE RORIZ;12.198.906/0001-41;03/10/2010;33000110656;R$ 250,00;Estimado;PEDRO RODRIGUES DE CARVALHO;33122;Deputado Distrital;PMN;DF;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+Comitê Financeiro Único;12.229.897/0001-09;20/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Único - PMN -  / 33122 - PEDRO RODRIGUES DE CARVALHO - DF - Deputado Distrital;
+Comitê Financeiro Único;12.229.897/0001-09;09/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;Comitê Financeiro Único - PMN -  / 33122 - PEDRO RODRIGUES DE CARVALHO - DF - Deputado Distrital;
+E 2010 JAQUELINE RORIZ;12.198.906/0001-41;10/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;3320 -  - PMN -  - Deputado Federal / 33122 - PEDRO RODRIGUES DE CARVALHO - DF - Deputado Distrital;
+E2010 JAQUELINE ROIRIZ;12.198.906/0001-41;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 360,00;Estimado;3320 -  - PMN -  - Deputado Federal / 33122 - PEDRO RODRIGUES DE CARVALHO - DF - Deputado Distrital;
+E2010 JAQUELINE RORIZ;12.198.906/0001-41;03/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 250,00;Estimado;3320 -  - PMN -  - Deputado Federal / 33122 - PEDRO RODRIGUES DE CARVALHO - DF - Deputado Distrital;

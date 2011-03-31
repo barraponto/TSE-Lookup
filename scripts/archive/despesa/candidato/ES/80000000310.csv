@@ -1,6 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-RENATO CASAGRANDE;12.179.825/0001-02;01/10/2010;43001501753;R$ 146,23;Estimado;RICARDO ANDRADE FERNANDES;43223;Deputado Estadual;PV;ES;
-RENATO CASAGRANDE;12.179.825/0001-02;01/10/2010;43001501752;R$ 330,03;Estimado;RICARDO ANDRADE FERNANDES;43223;Deputado Estadual;PV;ES;
-RENATO CASAGRANDE;12.179.825/0001-02;01/10/2010;43001501755;R$ 225,00;Estimado;RICARDO ANDRADE FERNANDES;43223;Deputado Estadual;PV;ES;
-RENATO CASAGRANDE;12.179.825/0001-02;01/10/2010;43001501754;R$ 131,22;Estimado;RICARDO ANDRADE FERNANDES;43223;Deputado Estadual;PV;ES;
-RICARDO ANDRADE FERNANDES;738.953.267-04;26/07/2010;43001501751;R$ 50,00;Depósito em espécie;RICARDO ANDRADE FERNANDES;43223;Deputado Estadual;PV;ES;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+GRAFICA SANTO ANTONIO LTDA;28.156.297/0001-06;23/07/2010;       Publicidade por materiais impressos;R$ 30,00;Transferência eletrônica; -  -  / 43223 - RICARDO ANDRADE FERNANDES - ES - Deputado Estadual;
+RENATO CASAGRANDE;12.179.825/0001-02;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 225,00;Estimado;40 -  - PSB -  - Governador / 43223 - RICARDO ANDRADE FERNANDES - ES - Deputado Estadual;
+RENATO CASAGRANDE;12.179.825/0001-02;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 146,23;Estimado;40 -  - PSB -  - Governador / 43223 - RICARDO ANDRADE FERNANDES - ES - Deputado Estadual;
+RENATO CASAGRANDE;12.179.825/0001-02;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 131,22;Estimado;40 -  - PSB -  - Governador / 43223 - RICARDO ANDRADE FERNANDES - ES - Deputado Estadual;
+RENATO CASAGRANDE;12.179.825/0001-02;01/10/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 330,03;Estimado;40 -  - PSB -  - Governador / 43223 - RICARDO ANDRADE FERNANDES - ES - Deputado Estadual;

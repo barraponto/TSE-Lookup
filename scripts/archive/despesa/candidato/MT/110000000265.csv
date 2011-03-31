@@ -1,4 +1,6 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Único;12.217.594/0001-76;15/09/2010;20000460600;R$ 3.564,12;Estimado;JESSE RODRIGUES DE ARRUDA BARROS;20014;Deputado Estadual;PSC;MT;
-Comitê Financeiro Único;12.217.594/0001-76;30/09/2010;20000460502;R$ 1.000,00;Estimado;JESSE RODRIGUES DE ARRUDA BARROS;20014;Deputado Estadual;PSC;MT;
-MARCELO LUIZ DE ALMEIDA JESUS;627.414.891-49;01/09/2010;20000460501;R$ 1.000,00;Depósito em espécie;JESSE RODRIGUES DE ARRUDA BARROS;20014;Deputado Estadual;PSC;MT;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+CASSIA CRISTINA RIBEIRO ME;08.989.474/0001-10;30/09/2010;       Alimentação;R$ 53,44;Cheque; -  -  / 20014 - JESSE RODRIGUES DE ARRUDA BARROS - MT - Deputado Estadual;
+Comitê Financeiro Único;12.217.594/0001-76;15/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 3.564,12;Estimado;Comitê Financeiro Único - PSC -  / 20014 - JESSE RODRIGUES DE ARRUDA BARROS - MT - Deputado Estadual;
+Comitê Financeiro Único;12.217.594/0001-76;30/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.000,00;Estimado;Comitê Financeiro Único - PSC -  / 20014 - JESSE RODRIGUES DE ARRUDA BARROS - MT - Deputado Estadual;
+J ALFREDO DA SILVA PRESTAÇÃO DE SERVIÇOS;01.734.456/0001-48;20/09/2010;       Publicidade por placas, estandartes e faixas;R$ 445,06;Cheque; -  -  / 20014 - JESSE RODRIGUES DE ARRUDA BARROS - MT - Deputado Estadual;
+MULTICOPIAS INDUSTRIA GRAFICA E EDITORA LTDA EPP;24.969.149/0001-41;09/09/2010;       Publicidade por materiais impressos;R$ 501,50;Cheque; -  -  / 20014 - JESSE RODRIGUES DE ARRUDA BARROS - MT - Deputado Estadual;

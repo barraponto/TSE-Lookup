@@ -1,9 +1,8 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.181.938/0001-34;20/09/2010;36000084980;R$ 239,93;Estimado;EDGAR VICENTE BARROSO DE SOUZA;36111;Deputado Estadual;PTC;AC;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.205.236/0001-43;29/09/2010;36000084981;R$ 1.488,85;Estimado;EDGAR VICENTE BARROSO DE SOUZA;36111;Deputado Estadual;PTC;AC;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.181.938/0001-34;22/09/2010;36000084979;R$ 387,50;Estimado;EDGAR VICENTE BARROSO DE SOUZA;36111;Deputado Estadual;PTC;AC;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.205.236/0001-43;02/09/2010;36000084982;R$ 166,66;Estimado;EDGAR VICENTE BARROSO DE SOUZA;36111;Deputado Estadual;PTC;AC;
-Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.181.938/0001-34;14/09/2010;36000084978;R$ 322,91;Estimado;EDGAR VICENTE BARROSO DE SOUZA;36111;Deputado Estadual;PTC;AC;
-Comitê Financeiro Estadual/Distrital para Senador da República;12.147.828/0001-56;20/09/2010;36000084971;R$ 2.000,00;Cheque;EDGAR VICENTE BARROSO DE SOUZA;36111;Deputado Estadual;PTC;AC;
-ENRIQUE AFONSO;12.206.228/0001-11;23/09/2010;36000084972;R$ 600,00;Cheque;EDGAR VICENTE BARROSO DE SOUZA;36111;Deputado Estadual;PTC;AC;
-MARIA DO ROSÁRIO DA SILVA;477.824.392-72;29/09/2010;36000084983;R$ 300,00;Estimado;EDGAR VICENTE BARROSO DE SOUZA;36111;Deputado Estadual;PTC;AC;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ANTONIO VALERIO DE ALBUQUERQUE;091.377.772-20;28/09/2010;       Cessão ou Locação de Veículos;R$ 2.600,00;Cheque; -  -  / 36111 - EDGAR VICENTE BARROSO DE SOUZA - AC - Deputado Estadual;
+Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.181.938/0001-34;20/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 239,93;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual - PT -  / 36111 - EDGAR VICENTE BARROSO DE SOUZA - AC - Deputado Estadual;
+Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.205.236/0001-43;02/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 166,66;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual - PSDC -  / 36111 - EDGAR VICENTE BARROSO DE SOUZA - AC - Deputado Estadual;
+Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.181.938/0001-34;22/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 387,50;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual - PT -  / 36111 - EDGAR VICENTE BARROSO DE SOUZA - AC - Deputado Estadual;
+Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.205.236/0001-43;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 1.488,85;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual - PSDC -  / 36111 - EDGAR VICENTE BARROSO DE SOUZA - AC - Deputado Estadual;
+Comitê Financeiro Estadual/Distrital para Deputado Estadual;12.181.938/0001-34;14/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 322,91;Estimado;Comitê Financeiro Distrital/Estadual para Deputado Estadual - PT -  / 36111 - EDGAR VICENTE BARROSO DE SOUZA - AC - Deputado Estadual;
+MARIA DO ROSÁRIO DA SILVA;477.824.392-72;29/09/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 300,00;Estimado; -  -  / 36111 - EDGAR VICENTE BARROSO DE SOUZA - AC - Deputado Estadual;

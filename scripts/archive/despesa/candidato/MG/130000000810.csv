@@ -1,5 +1,4 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-JOSÉ  FERNANDO  APARECIDO  DE  OLIVEIRA;12.168.802/0001-94;25/08/2010;43001705901;R$ 440,00;Estimado;LAURECI HELENA DOS REIS;43007;Deputado Estadual;PV;MG;
-JOSÉ  REINALDO  DE  LIMA;12.173.656/0001-95;30/08/2010;43001705904;R$ 95,00;Estimado;LAURECI HELENA DOS REIS;43007;Deputado Estadual;PV;MG;
-LAURECI  HELENA  DOS  REIS;604.545.126-00;17/08/2010;43001705905;R$ 51,00;Depósito em espécie;LAURECI HELENA DOS REIS;43007;Deputado Estadual;PV;MG;
-NILDE  MEIRELES  RUAS;039.012.466-49;09/08/2010;43001705906;R$ 99,00;Depósito em espécie;LAURECI HELENA DOS REIS;43007;Deputado Estadual;PV;MG;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+JOSÉ  FERNANDO  APARECIDO  DE  OLIVEIRA;12.168.802/0001-94;25/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 440,00;Estimado;43 -  - PV -  - Governador / 43007 - LAURECI HELENA DOS REIS - MG - Deputado Estadual;
+JOSÉ  REINALDO  DE  LIMA;12.173.656/0001-95;30/08/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 95,00;Estimado;4309 -  - PV -  - Deputado Federal / 43007 - LAURECI HELENA DOS REIS - MG - Deputado Estadual;
+VANDA  MARIA  DA  VEIGA;326.184.926-68;01/09/2010;       Despesas com pessoal;R$ 150,00;Cheque; -  -  / 43007 - LAURECI HELENA DOS REIS - MG - Deputado Estadual;

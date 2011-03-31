@@ -1,2 +1,2 @@
-Doador;CPF/CNPJ;Data;Nº Recibo Eleitoral;Valor R$;Espécie do Recurso;Nome do Candidato;Número do Candidato;Candidatura;Partido;UF;
-ELEIÇÃO 2010 CESAR EPITACIO MAIA;12.176.116/0001-65;20/07/2010;25000166222;R$ 249,50;Estimado;JOSE ONIX GOMES DA SILVA;2543;Deputado Federal;DEM;RJ;
+Fornecedor;CPF/CNPJ;Data;Tipo Despesa;Valor R$;Forma de Pagamento;Beneficiário/contratante;
+ELEIÇÃO 2010 CESAR EPITACIO MAIA;12.176.116/0001-65;20/07/2010;Baixa de Recursos Estimáveis em Dinheiro;R$ 249,50;Estimado;251 -  - DEM -  - Senador / 2543 - JOSE ONIX GOMES DA SILVA - RJ - Deputado Federal;
