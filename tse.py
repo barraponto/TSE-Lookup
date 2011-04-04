@@ -104,6 +104,7 @@ class index:
 			lista = checkDonations(conn, hits)
 		else:
 			lista = []
+			story = None
 		#return lista
 		return render.index(lista, i.url, story)
 
