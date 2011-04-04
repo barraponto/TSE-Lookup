@@ -47,7 +47,7 @@ $if story:
 
     $for empresa in lista:
         <div>
-        <h2><a href="" title="$empresa[0][0]">$empresa[0][6]</a></h2>
+        <h2><a href="http://spce2010.tse.jus.br/spceweb.consulta.receitasdespesas2010/abrirTelaReceitasCandidato.action?sqCandidato=&rb1=on&rbTipo=on&nrCandidato=&nmCandidato=&sgUe=&sgPartido=&cpfCnpjDoador=$empresa[0][1]&codigoEspecieRecurso=&action%3AresumoReceitasByCandidato=Resumo" title="$empresa[0][0]">$empresa[0][6]</a></h2>
         $code:
             total = 0
         $for doacao in empresa:
