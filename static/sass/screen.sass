@@ -1,13 +1,104 @@
 @import compass
 @import compass/reset
 
+$cheque-blue: #01498E
+$cheque-orange: #F56C1C
+$cheque-yellow: #fbcc00
+$cheque-purple: #6c1563
+$cheque-red: #ea3c35
+
+$cheque-regular-font: Copse, Arial, serif
+
 html
   height: 100%
+  +background(radial-gradient(#eee 42%, #ccc 80%))
 
 body
-  +background(radial-gradient(#eee 42%, #ccc 80%))
-  max-width: 960px
-  margin: 0 auto
+  min-width: 480px
+
+.header
+  +pie-clearfix
+  margin-top: 4em
+  max-width: 1040px
 
 h1
-  +replace-text-with-dimensions('logo.png')
+  max-width: image-width('logo.png')
+  float: left
+  margin-bottom: 1em
+  margin-left: 2em
+
+#description 
+  float: right
+  margin-top: 1em
+  margin-right: 2em
+
+  .line
+    line-height: 1.4em
+    text-indent: 2em
+    display: block
+    font-family: $cheque-regular-font 
+    color: $cheque-blue
+    
+    + .line
+      text-indent: 1.5em
+
+      + .line
+        text-indent: 1em
+
+        + .line
+          text-indent: .5em
+
+form
+  +skewX(-20deg)
+  +border-radius
+  +pie-clearfix
+  display: block
+  clear: both
+  background-color: $cheque-orange
+  margin-top: 2em
+  margin-left: -2em
+  width: 80%
+  padding: 1em 0
+  font-family: $cheque-regular-font
+
+  .form-inner
+    +skewX(20deg)
+    width: 60%
+    float: right
+    margin-right: 3em
+    text-align: right
+
+  .input-wrapper
+    +skewX(-20deg)
+    +border-radius
+    padding: 0.5em
+    background-color: white
+
+  input[type="text"]
+    +skewX(20deg)
+    width: 100%
+    border: none
+    font-size: 1.4em
+    font-family: $cheque-regular-font 
+    color: $cheque-blue
+
+  .go-easy-on-us
+    font-size: 0.8em
+    color: white
+
+  .submit-wrapper
+    +skewX(-20deg)
+    +border-radius
+    display: inline-block
+    margin: 0.25em
+    padding: 0.25em
+    background-color: $cheque-yellow
+  
+  input[type="submit"]
+    +skewX(20deg)
+    border: none
+    background-color: transparent
+    font-family: $cheque-regular-font 
+    font-style: italic
+    font-size: 1.4em
+    color: $cheque-purple 
