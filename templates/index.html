@@ -1,4 +1,4 @@
-$def with (lista, url)
+$def with (lista, url, story)
 
 <!DOCTYPE html> 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"> 
@@ -39,15 +39,15 @@ $def with (lista, url)
 </div><!-- form-inner -->
 </form>
 
-$if url:
+$if story:
     <h2 class="results">
     <span class="title">Noticia consultada:</span>
-    <a class="link" href="$url">$url</a>
+    <a class="link" href="$url">$story.html.head.title.renderContents()</a>
     </div><!-- results -->
 
     $for empresa in lista:
         <div>
-        <h2>$empresa[0][0]</h2>
+        <h2><a href="" title="$empresa[0][0]">$empresa[0][6]</a></h2>
         $code:
             total = 0
         $for doacao in empresa:

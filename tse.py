@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import re
 import urllib
 from BeautifulSoup import BeautifulSoup
@@ -29,17 +31,27 @@ def checkDonations(conn, empresas):
 	for empresa in empresas:
 		c = conn.cursor()	
 		result = c.execute('''select name, cnpj, value, candidate, date, party from doacoes where cnpj=?''', [empresa[1]])
-		results = results + [result.fetchall()]
+		result = result.fetchall()
+		result2 = []
+		for r in result:
+			v = list(r)
+			v.append(empresa[0])
+			result2 = result2 + [v]
+		results = results + [result2]
 		c.close()
 	return results
 
-def checkStory(url, empresas):
+def getStory(url):
 	html = urllib.urlopen(url)
 	print 'Carregando pagina...'
-	soup = BeautifulSoup(html)
+	unicode(html)
+	story = BeautifulSoup(html)
+	return story
+
+def checkStory(story, empresas):
 	results = []
 	for empresa in empresas:
-		hit = soup.find(text=re.compile(empresa[0]))
+		hit = story.find(text=re.compile(empresa[0]))
 		if (hit):
 			results = results + [empresa]
 	return list(results)
@@ -87,11 +99,13 @@ class index:
 		lista = []
 		i = web.input(url='')		
 		if (i.url):		
-			hits = checkStory(i.url, empresas)
+			story = getStory(i.url)			
+			hits = checkStory(story, empresas)
 			lista = checkDonations(conn, hits)
 		else:
 			lista = []
-		return render.index(lista, i.url)
+		#return lista
+		return render.index(lista, i.url, story)
 
 class jason:
 	def GET(self):
