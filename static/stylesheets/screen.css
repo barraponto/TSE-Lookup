@@ -211,3 +211,20 @@ form input[type="submit"] {
   font-size: 1.4em;
   color: #6c1563;
 }
+
+.results {
+  font-family: Copse, Arial, serif;
+  margin: 2em 0 2em 2em;
+}
+.results .title {
+  display: block;
+  margin: 0.5em 0;
+  font-size: 1.6em;
+  color: #ea3c35;
+}
+.results .link {
+  text-shadow: rgba(0, 0, 0, 0.1) 1px 1px;
+  display: block;
+  text-decoration: none;
+  color: #666666;
+}

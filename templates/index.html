@@ -40,7 +40,10 @@ $def with (lista, url)
 </form>
 
 $if url:
-    <h3>Noticia consultada: <a href="$url">$url</a></h3>
+    <h2 class="results">
+    <span class="title">Noticia consultada:</span>
+    <a class="link" href="$url">$url</a>
+    </div><!-- results -->
 
     $for empresa in lista:
         <div>
