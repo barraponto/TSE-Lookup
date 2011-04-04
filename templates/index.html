@@ -8,19 +8,17 @@ $def with (lista, url)
 
 <h1>Checa.Url</h1>
 
-<div class="box" style="width:400px;">O projeto Transparencia Neles eh uma iniciativa da Transparencia Hacker... blablablablabla
-<center>
+<div class="box">O projeto Transparencia Neles eh uma iniciativa da Transparencia Hacker... blablablablabla
 <form action="/" method="get">
   <input type="text" name="url" value="coloque aqui a url da noticia..." size="30"/><input type="submit" value="Submit" />
 </form>
-</center>
 </div>
 
 
 <h3>Noticia consultada: <a href="$url">$url</a></h3>
 
 $for empresa in lista:
-	<div style="clear:both">
+	<div>
 	<h2>$empresa[0][0]</h2>
 	$code:
 		total = 0
