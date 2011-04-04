@@ -1,6 +1,10 @@
 $def with (lista, url)
-<html>
-<head>
+
+<!DOCTYPE html> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"> 
+
+<head> 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
 <title>Checa.Url</title>
 <link type="text/css" rel="stylesheet" media="all" href="static/stylesheets/screen.css" />
 </head>
@@ -9,26 +13,28 @@ $def with (lista, url)
 
 <h1>Checa.Url</h1>
 
-<div class="box">O projeto Transparencia Neles eh uma iniciativa da Transparencia Hacker... blablablablabla
+<div class="box">
+O projeto Transparencia Neles eh uma iniciativa da Transparencia Hacker... blablablablabla
 <form action="/" method="get">
-  <input type="text" name="url" placeholder="coloque aqui a url da noticia..." size="30"/><input type="submit" value="Submit" />
+<input type="text" name="url" placeholder="coloque aqui a url da noticia..." size="30"/>
+<input type="submit" value="Submit" />
 </form>
 </div>
 
+$if url:
+    <h3>Noticia consultada: <a href="$url">$url</a></h3>
 
-<h3>Noticia consultada: <a href="$url">$url</a></h3>
+    $for empresa in lista:
+        <div>
+        <h2>$empresa[0][0]</h2>
+        $code:
+            total = 0
+        $for doacao in empresa:
+            $code:			
+                valor = doacao[2].encode('utf-8').translate(None,'R$.,')	
+                total = int(valor) + total
+            <h3>Doou $doacao[2] para $doacao[3] do $doacao[5] em $doacao[4]</h3>
+        <span class="total">Total: $total</span>	
+        </div>
 
-$for empresa in lista:
-	<div>
-	<h2>$empresa[0][0]</h2>
-	$code:
-		total = 0
-	$for doacao in empresa:
-		$code:			
-			valor = doacao[2].encode('utf-8').translate(None,'R$.,')	
-			total = int(valor) + total
-		<h3>Doou $doacao[2] para $doacao[3] do $doacao[5] em $doacao[4]</h3>
-	<span class="total">Total: $total</span>	
-	</div>
-	<hr>
 </body>
