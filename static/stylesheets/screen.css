@@ -225,6 +225,54 @@ form input[type="submit"] {
 .results .link {
   text-shadow: rgba(0, 0, 0, 0.1) 1px 1px;
   display: block;
+  margin-bottom: 2em;
   text-decoration: none;
   color: #666666;
+}
+
+.donator {
+  width: 400px;
+}
+.donator:nth-child(odd) {
+  margin-right: 20px;
+}
+.donator h3 {
+  font-size: 2em;
+  line-height: 1em;
+  color: #6c1563;
+  margin-bottom: 0.75em;
+}
+.donator p {
+  line-height: 1.3em;
+  font-size: 12px;
+  font-family: Copse, Arial, serif;
+}
+.donator .valor {
+  color: #ea3c35;
+}
+
+.total {
+  margin: 2em 0;
+}
+.total .label {
+  font-size: 2em;
+  color: #01498e;
+}
+.total .value-wrapper {
+  -moz-transform: skewX(-20deg);
+  -webkit-transform: skewX(-20deg);
+  -o-transform: skewX(-20deg);
+  -ms-transform: skewX(-20deg);
+  transform: skewX(-20deg);
+  padding: 0.25em;
+  font-size: 2em;
+  background-color: #f56c1c;
+}
+.total .value {
+  -moz-transform: skewX(20deg);
+  -webkit-transform: skewX(20deg);
+  -o-transform: skewX(20deg);
+  -ms-transform: skewX(20deg);
+  transform: skewX(20deg);
+  color: white;
 }

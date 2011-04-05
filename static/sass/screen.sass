@@ -116,5 +116,40 @@ form
   .link
     +text-shadow(rgba(0,0,0,0.1) 1px 1px)
     display: block
+    margin-bottom: 2em
     text-decoration: none
     color: #666
+
+.donator 
+  width: 400px
+
+  &:nth-child(odd)
+    margin-right: 20px
+
+  h3
+    font-size: 2em
+    line-height: 1em
+    color: $cheque-purple
+    margin-bottom: 0.75em
+
+  p
+    line-height: 1.3em
+    font-size: 12px
+    font-family: $cheque-regular-font
+
+  .valor
+    color: $cheque-red
+
+.total
+  margin: 2em 0
+  .label
+    font-size: 2em
+    color: $cheque-blue
+  .value-wrapper
+    +skewX(-20deg)
+    padding: 0.25em
+    font-size: 2em
+    background-color: $cheque-orange
+  .value
+    +skewX(20deg)
+    color: white

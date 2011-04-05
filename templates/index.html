@@ -46,16 +46,19 @@ $if story:
     </div><!-- results -->
 
     $for empresa in lista:
-        <div>
-        <h2><a href="http://spce2010.tse.jus.br/spceweb.consulta.receitasdespesas2010/abrirTelaReceitasCandidato.action?sqCandidato=&rb1=on&rbTipo=on&nrCandidato=&nmCandidato=&sgUe=&sgPartido=&cpfCnpjDoador=$empresa[0][1]&codigoEspecieRecurso=&action%3AresumoReceitasByCandidato=Resumo" title="$empresa[0][0]">$empresa[0][6]</a></h2>
+        <div class="donator">
+        <h3><a href="http://spce2010.tse.jus.br/spceweb.consulta.receitasdespesas2010/abrirTelaReceitasCandidato.action?sqCandidato=&rb1=on&rbTipo=on&nrCandidato=&nmCandidato=&sgUe=&sgPartido=&cpfCnpjDoador=$empresa[0][1]&codigoEspecieRecurso=&action%3AresumoReceitasByCandidato=Resumo" title="$empresa[0][0]">$empresa[0][6]</a></h3>
         $code:
             total = 0
         $for doacao in empresa:
             $code:			
                 valor = doacao[2].encode('utf-8').translate(None,'R$.,')	
                 total = int(valor) + total
-            <h3>Doou $doacao[2] para $doacao[3] do $doacao[5] em $doacao[4]</h3>
-        <span class="total">Total: $total</span>	
-        </div>
+            <p>Doou <span class="valor">$doacao[2]</span> para $doacao[3] do $doacao[5] em $doacao[4]</p>
+        <p class="total">
+        <span class="label">Total:</span> 
+        <span class="value-wrapper"><span class="value">$total</span></span>
+        </p>	
+        </div><!-- donator -->
 
 </body>
