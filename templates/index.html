@@ -8,6 +8,9 @@ $def with (lista, url, story)
 <title>Checa.Url</title>
 <link type="text/css" rel="stylesheet" media="all" href="static/stylesheets/screen.css" />
 <link type="text/css" rel="stylesheet" media="all" href="http://fonts.googleapis.com/css?family=Copse" />
+<script type="text/javascript" src="static/javascripts/jquery-1.5.2.min.js"></script>
+<script type="text/javascript" src="static/javascripts/jquery.masonry.min.js"></script>
+<script type="text/javascript" src="static/javascripts/cheque.js"></script>
 </head>
 
 <body>
@@ -45,6 +48,7 @@ $if story:
     <a class="link" href="$url">$story.html.head.title.renderContents()</a>
     </div><!-- results -->
 
+    <div class="donators">
     $for empresa in lista:
         <div class="donator">
         <h3><a href="http://spce2010.tse.jus.br/spceweb.consulta.receitasdespesas2010/abrirTelaReceitasCandidato.action?sqCandidato=&rb1=on&rbTipo=on&nrCandidato=&nmCandidato=&sgUe=&sgPartido=&cpfCnpjDoador=$empresa[0][1]&codigoEspecieRecurso=&action%3AresumoReceitasByCandidato=Resumo" title="$empresa[0][0]">$empresa[0][6]</a></h3>
@@ -57,8 +61,8 @@ $if story:
             <p>Doou <span class="valor">$doacao[2]</span> para $doacao[3] do $doacao[5] em $doacao[4]</p>
         <p class="total">
         <span class="label">Total:</span> 
-        <span class="value-wrapper"><span class="value">$total</span></span>
+        <span class="value-wrapper"><span class="value">R\$ $total,00</span></span>
         </p>	
         </div><!-- donator -->
-
+    </div><!-- donators -->
 </body>

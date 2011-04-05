@@ -116,21 +116,24 @@ form
   .link
     +text-shadow(rgba(0,0,0,0.1) 1px 1px)
     display: block
-    margin-bottom: 2em
+    margin-bottom: 4em
     text-decoration: none
     color: #666
 
 .donator 
-  width: 400px
-
-  &:nth-child(odd)
-    margin-right: 20px
+  width: 480px
 
   h3
-    font-size: 2em
-    line-height: 1em
-    color: $cheque-purple
     margin-bottom: 0.75em
+
+    a
+      font-size: 2em
+      line-height: 1em
+      color: $cheque-purple
+      text-decoration: none
+
+      &:active
+        text-decoration: underline
 
   p
     line-height: 1.3em
@@ -141,15 +144,22 @@ form
     color: $cheque-red
 
 .total
-  margin: 2em 0
+  margin: 2em 4em 2em
+  text-align: right
+
+
   .label
     font-size: 2em
     color: $cheque-blue
+
   .value-wrapper
     +skewX(-20deg)
+    +border-radius
+    margin-left: 0.5em
     padding: 0.25em
     font-size: 2em
     background-color: $cheque-orange
+
   .value
     +skewX(20deg)
     color: white
