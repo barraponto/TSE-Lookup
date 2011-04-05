@@ -57,7 +57,7 @@ footer, header, hgroup, menu, nav, section {
 
 html {
   height: 100%;
-  background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 80, color-stop(42%, #eeeeee), color-stop(80%, #cccccc));
+  background: -webkit-radial-gradient(#eeeeee 42%, #cccccc 80%);
   background: -moz-radial-gradient(#eeeeee 42%, #cccccc 80%);
   background: radial-gradient(#eeeeee 42%, #cccccc 80%);
 }
